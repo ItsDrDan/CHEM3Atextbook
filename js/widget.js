@@ -15,7 +15,7 @@ const GAMES={finalboss:['Final Boss','https://itsdrdan.github.io/finalexam/?cour
  reactions:['Reaction Rumble','https://itsdrdan.github.io/reactions/'],redox:['LEO Goes GER!','https://itsdrdan.github.io/redox/'],stoich:['Stoichiometry','https://itsdrdan.github.io/stoichiometry/'],
  thermo:['Thermochemistry','https://itsdrdan.github.io/thermochemistry/'],imf:['Sticky Molecules','https://itsdrdan.github.io/IMF/'],gas:['Under Pressure','https://itsdrdan.github.io/gaslaws/'],moles:['The Mole','https://itsdrdan.github.io/moles/'],algebra:['Algebra for Chemistry','https://itsdrdan.github.io/algebratrainer/'],hub:['the Study Hub','https://itsdrdan.github.io/games/']};
 /* topic id -> [name, icon]; the chapter file is the part before the first dash */
-const TOPICS=[['ch01-method','Scientific Method','🔬'],['ch01-classify','Classifying Matter','🧪'],['ch01-states','States of Matter','🧊'],['ch01-charge','Electric Charge','⚡'],['ch01-change','Physical & Chemical Changes','🔥'],['ch01-density','Density','⚖️']];
+const TOPICS=[['ch01-method','Scientific Method','🔬'],['ch01-units','Numbers and Units','📏'],['ch01-sigfig','Significant Figures','🎯'],['ch01-convert','Conversions','🔁'],['ch01-classify','Classifying Matter','🧪'],['ch01-states','States of Matter','🧊'],['ch01-charge','Electric Charge','⚡'],['ch01-change','Physical & Chemical Changes','🔥'],['ch01-density','Density','⚖️']];
 const title=P.get('title'),kicker=P.get('kicker');
 if(title)$('#title').textContent=title;if(kicker)$('#kicker').textContent=kicker;
 const g=GAMES[P.get('game')];if(g){const a=$('#gameLink');a.href=g[1];a.textContent='Play '+g[0]+' ↗';a.hidden=false}

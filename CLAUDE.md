@@ -98,6 +98,8 @@ A major overhaul of the free LibreTexts textbook for **CHEM 3A (Introductory Gen
 - **Repo:** this repo, separate from `ItsDrDan/textbook`. Copy (do not link) the tools you need from that repo, and adapt them for 3A.
 - **Chapters (approved 2026-11-14):** 14 chapters in COR order, as in `tools/BLUEPRINT.md`. COR unit 1 is split into three chapters (1 Matter and the Scientific Method; 2 Atoms, Ions, and Isotopes; 3 Light, Electrons, and the Periodic Table). The audited old Chapter 1 becomes Chapter 5; temperature moves to Chapter 9.
 
+- **Measurement is in Chapter 1 (Dr. Dan, 2026-11-14).** Chapter 1 is "Measurement, Matter, and the Scientific Method": the audited measurement sections (units, scientific notation, significant figures, conversions, density as a conversion factor) are merged into it. Measurement opens the course on purpose: it is the segue that shows students why these skills matter for their careers in health care, science and engineering. This is a deliberate exception to COR order (COR unit 3 comes after units 1–2). Chapter 5 keeps the mole. Temperature stays in Chapter 9.
+
 ### Scope decisions (Dr. Dan, 2026-11-14; these override the COR conflict notes)
 
 - **Activity series:** shown, but very lightly (a short given list, "will this metal replace that one?").
