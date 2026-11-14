@@ -29,4 +29,7 @@ The Chapter 1 audit itself (62 issues, 57 fixed) lives in the tracker artifact (
 | 23 | 6.2.1, 6.2.2, 7.9.3, 7.10.2, 13.5 | Scope | Medium | Going Further pages still sit in the main path without a label. | Add a "Going Further (not on CHEM 3A exams)" box when each chapter is revised. | Open |
 | 24 | Ch 1 / Ch 5 | Structure | High | Dr. Dan: measurement belongs in Chapter 1 as the career "why it matters" segue. | Merged 2026-11-14: measurement pages moved into Ch 1 (1.2–1.4, 1.9.1, 1.12); Ch 5 retitled "The Mole"; new pages renumbered and updated; exercises page headings fixed. | Closed |
 | 25 | 597481 (Ch 5 page) | Content | Medium | Chapter 5 page intro still describes measurement (it was the old measurement chapter page). | Rewrite as a mole intro when Ch 5 is revised. | Open |
-| 26 | 1.2–1.4 (audited pages) | Practice | Medium | Audited measurement pages have no Try It boxes yet. | Add one Try It box per page (units, sig figs, conversions) after the measurement bank is pushed. | Open |
+| 26 | 1.2–1.4 (audited pages) | Practice | Medium | Audited measurement pages have no Try It boxes yet. | Added 2026-11-14 to 1.2.2 (597594), 1.3.2 (597596), 1.4.3 (597599). | Closed |
+| 27 | ADAPT Ch 1 (224842) | Homework | Medium | The 12 bank items with figures (particle diagrams, glassware/ruler/buret, targets) are not in ADAPT yet. | Render them to images and add them (CHEM 3B render_thin recipe). | Open |
+| 28 | ADAPT course 11836 | Setup | Medium | Placeholder dates; LMS (Canvas) link off; course not shown. | Dr. Dan sets dates and links Canvas when ready. | Open |
+| 29 | 1.11 Practice Problems | Length | Low | 80 problems (brief said 40–60) after adding measurement. | Keep unless Dr. Dan wants it trimmed. | Open |
