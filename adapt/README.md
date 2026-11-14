@@ -15,3 +15,9 @@
 ## How the questions were created (for next chapters)
 
 POST `/api/questions` (Bearer token from the `token` cookie) with the editor-shaped body from `/api/questions/get-question-to-edit/{id}` of an existing question, minus server fields (id, page_id, iframe_id, dates, revision fields, qti_answer_json), plus: title, qti_json, qti_json_type "multiple_choice", qti_prompt, qti_simple_choice_0..3, qti_randomize_order "yes", hint, folder_id, assignment_id (auto-adds it to the assignment), attachments/learning_outcomes/media_uploads/tags/clone_history as arrays, session_identifier (UUID), source_url_required true, framework_item_sync_question {descriptors: [], levels: []}, webwork_attachments [], automatically_update_revision "1", revision_action "notify", public 1, license "ccby", license_version "4.0", author. Folders: POST `/api/saved-questions-folders` {name, type: "my_questions", action: "add"}.
+
+## Status 2026-11-14 (end of day)
+
+- **127 questions in assignment 224842** (87 text-only Try It items c1-001…c1-099 minus 12 figure items, plus 40 homework-only c1-h01…c1-h40). No duplicates. Random draw **50 per student × 2 points = 100 points**. Assignment not released (hidden) until Dr. Dan sets dates.
+- **Read-back:** all 127 compared with the bank (stem, all four choices, correct key, every wrong-choice feedback, CC BY 4.0, public, Show Hint present). All match; the only difference is ADAPT storing `<br />` as `<br>` in c1-088.
+- **Not in ADAPT yet:** c1-012–016, c1-052–054 (particle diagrams), c1-084–087 (cylinder, ruler, buret, target).
