@@ -20,4 +20,9 @@ POST `/api/questions` (Bearer token from the `token` cookie) with the editor-sha
 
 - **127 questions in assignment 224842** (87 text-only Try It items c1-001…c1-099 minus 12 figure items, plus 40 homework-only c1-h01…c1-h40). No duplicates. Random draw **50 per student × 2 points = 100 points**. Assignment not released (hidden) until Dr. Dan sets dates.
 - **Read-back:** all 127 compared with the bank (stem, all four choices, correct key, every wrong-choice feedback, CC BY 4.0, public, Show Hint present). All match; the only difference is ADAPT storing `<br />` as `<br>` in c1-088.
-- **Not in ADAPT yet:** c1-012–016, c1-052–054 (particle diagrams), c1-084–087 (cylinder, ruler, buret, target).
+
+## Picture questions added 2026-11-14
+
+- The 12 figure items (c1-012–016, c1-052–054 particle diagrams; c1-084–087 cylinder, ruler, buret, target) are now in assignment 224842 (ADAPT ids 356178–356189). **Pool: 139 questions**, random 50 × 2 points.
+- Images: `figures/adapt/<id>.svg`, built by `node tools/adapt_figs.js bank/ch01.json figures/adapt` from the same fbx.js drawings the Try It widget uses (duplicate SVG attributes removed so the files are valid XML), hosted on GitHub Pages and linked in each question stem as `<img>` with alt text from `figures/adapt/alt_ch01.json` (describes the picture without naming the answer).
+- Read back: all 12 match the bank (choices, key, every wrong-choice feedback), alt text present, image loads, CC BY 4.0, public. Checked visually in ADAPT's question view (c1-014, c1-086).
