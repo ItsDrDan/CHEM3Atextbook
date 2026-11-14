@@ -1,6 +1,6 @@
 import json,sys,re,collections,os
 B=json.load(open(sys.argv[1])); C=json.load(open(os.path.join(os.path.dirname(__file__),'calc_ch01.json')))
-T={'ch01-method','ch01-classify','ch01-states','ch01-charge','ch01-change','ch01-density'}
+T={'ch01-method','ch01-classify','ch01-states','ch01-charge','ch01-change','ch01-density','ch01-units','ch01-sigfig','ch01-convert'}
 err=[]
 ids=[q['id'] for q in B]
 if len(set(ids))!=len(ids): err.append('dup ids')

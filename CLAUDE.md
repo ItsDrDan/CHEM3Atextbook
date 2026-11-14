@@ -184,6 +184,10 @@ Show where the chemistry ties into **biology, anatomy, physiology and microbiolo
   - Spell out abbreviations on first use.
   - `<details><summary>Answer</summary>` for hidden answers.
 
+### Lecture slides and lab manual (Dr. Dan, 2026-11-14)
+
+For every chapter, use the matching CHEM 3A lecture decks in `~/Desktop/FCC Teaching/CHEM 3A/Lecture Slides/` (map in `tools/SOURCES.md`) to align content, emphasis, wording and examples with how the course is taught, and to write Lecture Connection notes. Visuals may be pulled from the slides when a chapter needs them: redraw them as original, phone-first figures (slides can contain publisher or web images that cannot go into the open book). Use the Fall 2026 lab manual (`Lab Manual/DK-Lab Manual - Chem 3A - Fall 2026.docx`) for "In the Lab" connections to the matching experiment.
+
 ## Working rules
 
 - Commit freely in this repo. **Ask Dr. Dan before pushing to GitHub, and before any write to LibreTexts.** Never touch the live CHEM 3A book.

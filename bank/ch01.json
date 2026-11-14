@@ -2133,5 +2133,785 @@
   "w": "The cream (rich in milkfat) rises because it is <b>less dense</b> than the watery part of the milk. Layers settle by density, with the least dense on top, just like oil on vinegar.",
   "d": 1,
   "k": 0
+ },
+ {
+  "id": "c1-066",
+  "t": "ch01-units",
+  "q": "A red blood cell is about 0.0000075 m across. Which shows this length correctly in scientific notation?",
+  "c": [
+   "7.5 &times; 10<sup>&minus;6</sup> m",
+   "7.5 &times; 10<sup>6</sup> m",
+   "7.5 &times; 10<sup>&minus;5</sup> m",
+   "75 &times; 10<sup>&minus;7</sup> m"
+  ],
+  "y": [
+   "The decimal point moves 6 places to the right to reach 7.5, and a number smaller than 1 gets a negative exponent.",
+   "A positive exponent describes a number larger than 1; this would be 7,500,000 m, far bigger than a cell.",
+   "Count the moves again: from 0.0000075 to 7.5 the decimal point passes six digits, not five.",
+   "75 &times; 10<sup>&minus;7</sup> has the right value, but in scientific notation the coefficient must be at least 1 and less than 10."
+  ],
+  "h": "Move the decimal point until one nonzero digit is in front of it, and count the moves.",
+  "w": "Move the decimal point 6 places right: 0.0000075 &rarr; 7.5. A value less than 1 gets a negative exponent, so the length is <b>7.5 &times; 10<sup>&minus;6</sup> m</b>. The coefficient (7.5) is between 1 and 10, as scientific notation requires.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-067",
+  "t": "ch01-units",
+  "q": "A lab report lists a white blood cell count of 7.2 &times; 10<sup>3</sup> cells per microliter. Which is the same value as an ordinary number?",
+  "c": [
+   "7200 cells per microliter",
+   "72,000 cells per microliter",
+   "720 cells per microliter",
+   "0.0072 cells per microliter"
+  ],
+  "y": [
+   "A positive exponent of 3 moves the decimal point 3 places to the right: 7.2 becomes 7200.",
+   "Moving the decimal point 4 places gives 72,000; the exponent 3 calls for only 3 moves.",
+   "This moves the decimal point only 2 places; the exponent 3 calls for 3.",
+   "A positive exponent makes the number larger than the coefficient, not smaller; this moved the decimal point the wrong way."
+  ],
+  "h": "A positive exponent means a number bigger than the coefficient. Move the decimal point that many places.",
+  "w": "10<sup>3</sup> = 1000, so 7.2 &times; 1000 = <b>7200</b>. Written this way, the two trailing zeros are not significant, which matches the two significant figures in 7.2.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-068",
+  "t": "ch01-units",
+  "q": "Which unit is the SI base unit of mass?",
+  "c": [
+   "kilogram (kg)",
+   "gram (g)",
+   "milligram (mg)",
+   "pound (lb)"
+  ],
+  "y": [
+   "The kilogram is the one SI base unit that already carries a prefix; every other mass unit is defined from it.",
+   "The gram is a common metric unit, but the SI chose the kilogram, not the gram, as its base unit of mass.",
+   "A milligram is a small metric unit derived from the gram; it is not a base unit.",
+   "The pound is a U.S. customary unit, not part of the SI."
+  ],
+  "h": "One SI base unit is unusual because its name already includes a prefix.",
+  "w": "The SI base unit of mass is the <b>kilogram</b>. It is the only base unit whose name includes a prefix (kilo- = 1000), so 1 kg = 1000 g.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-069",
+  "t": "ch01-units",
+  "q": "Which of these is <b>not</b> an SI base unit?",
+  "c": [
+   "liter (L)",
+   "meter (m)",
+   "second (s)",
+   "kelvin (K)"
+  ],
+  "y": [
+   "The liter is a derived unit of volume: it is defined from length (1 L is the volume of a cube 1 dm on each side).",
+   "The meter is the SI base unit of length.",
+   "The second is the SI base unit of time.",
+   "The kelvin is the SI base unit of temperature."
+  ],
+  "h": "Base units cannot be built from other units. Which of these is really a length cubed?",
+  "w": "Length (meter), time (second), mass (kilogram), temperature (kelvin) and amount of substance (mole) are SI base units. The <b>liter</b> is a derived unit of volume: 1 L = 1 dm<sup>3</sup> = 1000 cm<sup>3</sup>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-070",
+  "t": "ch01-units",
+  "q": "The spores of the fungus that causes Valley fever (coccidioidomycosis) are only a few micrometers (&micro;m) across. What does the prefix micro- (&micro;) mean?",
+  "c": [
+   "one-millionth (10<sup>&minus;6</sup>) of the base unit",
+   "one-thousandth (10<sup>&minus;3</sup>) of the base unit",
+   "one-hundredth (10<sup>&minus;2</sup>) of the base unit",
+   "one-billionth (10<sup>&minus;9</sup>) of the base unit"
+  ],
+  "y": [
+   "Micro- means 10<sup>&minus;6</sup>, so 1 &micro;m = 10<sup>&minus;6</sup> m and there are a million micrometers in a meter.",
+   "One-thousandth is milli- (m), as in millimeter; micro- is a thousand times smaller than milli-.",
+   "One-hundredth is centi- (c), as in centimeter.",
+   "One-billionth is nano- (n), as in nanometer; micro- is a thousand times larger than nano-."
+  ],
+  "h": "Put the small prefixes in order: centi-, milli-, micro-, nano-. Each step after milli- is a factor of 1000.",
+  "w": "<b>Micro- (&micro;) = 10<sup>&minus;6</sup></b>. The small prefixes go centi- (10<sup>&minus;2</sup>), milli- (10<sup>&minus;3</sup>), micro- (10<sup>&minus;6</sup>), nano- (10<sup>&minus;9</sup>). Clinical orders often write mcg for micrograms so the &micro; is not misread as m.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-071",
+  "t": "ch01-units",
+  "q": "Which equality is correct?",
+  "c": [
+   "1 g = 1000 mg",
+   "1 mg = 1000 g",
+   "1 kg = 100 g",
+   "1 m = 10 cm"
+  ],
+  "y": [
+   "Milli- means one-thousandth, so it takes 1000 milligrams to make one gram.",
+   "This is upside down: a milligram is much smaller than a gram, so one milligram cannot equal a thousand grams.",
+   "Kilo- means 1000, so 1 kg = 1000 g, not 100 g.",
+   "Centi- means one-hundredth, so 1 m = 100 cm, not 10 cm."
+  ],
+  "h": "The larger unit gets the 1. How many of the smaller unit fit in it?",
+  "w": "Milli- = 10<sup>&minus;3</sup>, so <b>1 g = 1000 mg</b>. A good habit: put the 1 in front of the larger unit and the big number in front of the smaller unit (1 kg = 1000 g, 1 m = 100 cm).",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-072",
+  "t": "ch01-units",
+  "q": "Four samples of flour are weighed for a food-science lab. Which sample has the <b>largest</b> mass?",
+  "c": [
+   "5.2 &times; 10<sup>4</sup> cg",
+   "0.50 kg",
+   "455 g",
+   "4.8 &times; 10<sup>5</sup> mg"
+  ],
+  "y": [
+   "1 g = 100 cg, so 5.2 &times; 10<sup>4</sup> cg &divide; 100 = 520 g, the largest of the four.",
+   "0.50 kg is 500 g; it is large, but one of the other samples is 20 g more.",
+   "455 g is already in grams, and two of the other samples are larger once you convert them.",
+   "1 g = 1000 mg, so 4.8 &times; 10<sup>5</sup> mg is 480 g, which is not the largest."
+  ],
+  "h": "Convert every mass to grams before you compare.",
+  "w": "In grams: 0.50 kg = 500 g; 455 g; 4.8 &times; 10<sup>5</sup> mg = 480 g; 5.2 &times; 10<sup>4</sup> cg = 520 g. The largest is <b>5.2 &times; 10<sup>4</sup> cg</b>. A big number in front of a small unit can still be a small amount, so always compare in the same unit.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c1-073",
+  "t": "ch01-units",
+  "q": "A broth culture has 3.0 &times; 10<sup>4</sup> bacterial cells, and each cell has a mass of about 2.0 &times; 10<sup>&minus;12</sup> g. What is the total mass of the cells?",
+  "c": [
+   "6.0 &times; 10<sup>&minus;8</sup> g",
+   "6.0 &times; 10<sup>&minus;48</sup> g",
+   "6.0 &times; 10<sup>16</sup> g",
+   "5.0 &times; 10<sup>&minus;8</sup> g"
+  ],
+  "y": [
+   "Multiply the coefficients (3.0 &times; 2.0 = 6.0) and add the exponents (4 + (&minus;12) = &minus;8).",
+   "When you multiply powers of ten, you add the exponents; multiplying them (4 &times; &minus;12) gives &minus;48.",
+   "Subtracting the exponents (4 &minus; (&minus;12) = 16) is the rule for division, not multiplication.",
+   "The coefficients are multiplied, not added; 3.0 + 2.0 = 5.0 is the slip here."
+  ],
+  "h": "Multiply the coefficients; add the exponents.",
+  "w": "(3.0 &times; 10<sup>4</sup>)(2.0 &times; 10<sup>&minus;12</sup> g) = (3.0 &times; 2.0) &times; 10<sup>4 + (&minus;12)</sup> g = <b>6.0 &times; 10<sup>&minus;8</sup> g</b>. On the TI-36X Pro, enter each number with the &times;10<sup>n</sup> key so the calculator keeps the powers of ten together.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c1-074",
+  "t": "ch01-units",
+  "q": "A Valley water district delivers 8.4 &times; 10<sup>6</sup> L of water in one day to 2.1 &times; 10<sup>3</sup> homes. On average, how many liters is that per home?",
+  "c": [
+   "4.0 &times; 10<sup>3</sup> L",
+   "2.5 &times; 10<sup>&minus;4</sup> L",
+   "4.0 &times; 10<sup>9</sup> L",
+   "1.8 &times; 10<sup>10</sup> L"
+  ],
+  "y": [
+   "Liters per home means liters &divide; homes: 8.4 &divide; 2.1 = 4.0, and 6 &minus; 3 = 3 for the exponent.",
+   "This divides homes by liters, so the fraction is upside down; the answer must have liters on top.",
+   "When you divide powers of ten, you subtract the exponents; 6 + 3 = 9 adds them.",
+   "This multiplies the two numbers; \"per home\" means divide by the number of homes."
+  ],
+  "h": "\"Per home\" means divide by the number of homes. When dividing, subtract the exponents.",
+  "w": "(8.4 &times; 10<sup>6</sup> L) &divide; (2.1 &times; 10<sup>3</sup>) = (8.4 &divide; 2.1) &times; 10<sup>6 &minus; 3</sup> L = <b>4.0 &times; 10<sup>3</sup> L</b> per home.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c1-075",
+  "t": "ch01-units",
+  "q": "A virus particle is about 1 &times; 10<sup>&minus;7</sup> m across. Which length is about the same?",
+  "c": [
+   "100 nm",
+   "10 nm",
+   "1 &micro;m",
+   "100 &micro;m"
+  ],
+  "y": [
+   "1 nm = 10<sup>&minus;9</sup> m, so 10<sup>&minus;7</sup> m &divide; 10<sup>&minus;9</sup> m per nm = 10<sup>2</sup> = 100 nm.",
+   "10 nm is 10<sup>&minus;8</sup> m, ten times smaller than the virus.",
+   "1 &micro;m is 10<sup>&minus;6</sup> m, ten times larger than the virus.",
+   "100 &micro;m is 10<sup>&minus;4</sup> m, about the width of a hair and a thousand times larger than the virus."
+  ],
+  "h": "Write each choice as a power of ten in meters: nano- = 10<sup>&minus;9</sup>, micro- = 10<sup>&minus;6</sup>.",
+  "w": "Nano- = 10<sup>&minus;9</sup>, so 10<sup>&minus;7</sup> m = 10<sup>2</sup> &times; 10<sup>&minus;9</sup> m = <b>100 nm</b>. Viruses are usually measured in nanometers; bacteria and cells in micrometers.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c1-076",
+  "t": "ch01-units",
+  "q": "On a TI-36X Pro, which key sequence enters 3.5 &times; 10<sup>&minus;4</sup>?",
+  "c": [
+   "3.5 [&times;10<sup>n</sup>] [(&minus;)] 4",
+   "3.5 [&times;] 10 [&times;10<sup>n</sup>] [(&minus;)] 4",
+   "3.5 [&times;10<sup>n</sup>] 4",
+   "3.5 [^] [(&minus;)] 4"
+  ],
+  "y": [
+   "The &times;10<sup>n</sup> key already supplies \"times ten to the,\" so you type only the coefficient, the key, and the signed exponent.",
+   "Typing &times; 10 before the &times;10<sup>n</sup> key multiplies by an extra 10, so the calculator holds 3.5 &times; 10<sup>&minus;3</sup>.",
+   "Leaving out the negative sign enters 3.5 &times; 10<sup>4</sup>, a number 10<sup>8</sup> times too large.",
+   "The ^ key raises 3.5 itself to the &minus;4 power, which is a completely different number."
+  ],
+  "h": "The &times;10<sup>n</sup> key stands for the whole \"&times; 10 to the\" part.",
+  "w": "Type the coefficient, press <b>&times;10<sup>n</sup></b>, then the negative key (&minus;) and 4. Use the (&minus;) key for a negative exponent, not the subtraction key.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-077",
+  "t": "ch01-sigfig",
+  "q": "How many significant figures are in 0.004050 g?",
+  "c": [
+   "4",
+   "7",
+   "6",
+   "3"
+  ],
+  "y": [
+   "Leading zeros (0.00) only place the decimal point; 4, 0, 5 and the trailing 0 after the decimal point all count.",
+   "This counts every digit, but the leading zeros before the 4 are placeholders and never count.",
+   "The zeros right after the decimal point (before the 4) are leading zeros, so they do not count.",
+   "The final zero comes after a nonzero digit and to the right of the decimal point, so it is significant."
+  ],
+  "h": "Start counting at the first nonzero digit. Does the last zero count when there is a decimal point?",
+  "w": "Start at the first nonzero digit: <b>4</b>0<b>5</b>0. The zero between 4 and 5 is captive (always counts), and the trailing zero counts because the number has a decimal point. That makes <b>4</b> significant figures.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-078",
+  "t": "ch01-sigfig",
+  "q": "Which measurement has exactly <b>two</b> significant figures?",
+  "c": [
+   "3800 mL",
+   "3800. mL",
+   "3.80 &times; 10<sup>3</sup> mL",
+   "0.03800 L"
+  ],
+  "y": [
+   "Trailing zeros without a decimal point are not significant, so only the 3 and 8 count.",
+   "The decimal point after the zeros makes them significant, so this has four significant figures.",
+   "In scientific notation every digit in the coefficient counts, so 3.80 has three significant figures.",
+   "Leading zeros do not count, but the trailing zeros after the decimal point do, so this has four."
+  ],
+  "h": "Trailing zeros count only when the number shows a decimal point.",
+  "w": "<b>3800 mL</b> has two significant figures: with no decimal point, its trailing zeros are placeholders. To show more precision, write 3800. mL (four) or 3.80 &times; 10<sup>3</sup> mL (three).",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-079",
+  "t": "ch01-sigfig",
+  "q": "Which value has an unlimited number of significant figures?",
+  "c": [
+   "24 tablets counted into a bottle",
+   "24.0 mL of cough syrup",
+   "2.4 kg infant mass gain",
+   "1 lb = 453.6 g"
+  ],
+  "y": [
+   "A count of whole objects is exact: there are exactly 24 tablets, not 23.9 or 24.1.",
+   "A volume read from glassware is a measurement, so it carries uncertainty and three significant figures.",
+   "A mass read from a scale is a measurement with uncertainty; it has two significant figures.",
+   "This equality is a rounded value (to four significant figures), so it is not exact, even though it is a conversion factor."
+  ],
+  "h": "Exact numbers come from counting or from definitions. Which of these was counted?",
+  "w": "<b>Counted items</b> are exact, so 24 tablets has unlimited significant figures and never limits a calculation. Defined equalities within one system (1 kg = 1000 g) and 1 in = 2.54 cm are exact too; rounded factors such as 1 lb = 453.6 g are not.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-080",
+  "t": "ch01-sigfig",
+  "q": "Round 0.0258449 to three significant figures.",
+  "c": [
+   "0.0258",
+   "0.0259",
+   "0.026",
+   "0.02584"
+  ],
+  "y": [
+   "The third significant digit is the 8, and the digit after it is 4, so the 8 stays.",
+   "This rounds in steps (449 &rarr; 45 &rarr; 5) instead of looking only at the first dropped digit, which is 4.",
+   "This keeps two significant figures, not three.",
+   "This keeps four significant figures (2, 5, 8, 4)."
+  ],
+  "h": "Find the third significant digit, then look only at the one digit right after it.",
+  "w": "The significant digits start at 2: <b>2</b>, <b>5</b>, <b>8</b> | 449. The first dropped digit is 4 (less than 5), so the 8 stays: <b>0.0258</b>. Never round in a chain of steps; look only at the first digit you drop.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-081",
+  "t": "ch01-sigfig",
+  "q": "One acetaminophen tablet has a mass of 0.325 g. What is the total mass of 12 tablets (counted)?",
+  "c": [
+   "3.90 g",
+   "3.9 g",
+   "3.900 g",
+   "4 g"
+  ],
+  "y": [
+   "The count of 12 is exact, so the measured 0.325 g (three significant figures) sets the answer: 3.90 g.",
+   "This treats 12 as a measurement with two significant figures, but a count is exact and never limits the answer.",
+   "The calculator shows 3.9, and adding zeros claims four significant figures, more than 0.325 g supports.",
+   "This keeps only one significant figure, far less than the three in 0.325 g."
+  ],
+  "h": "Counted numbers are exact. How many significant figures does the measured mass have?",
+  "w": "12 &times; 0.325 g = 3.9 on the calculator. The 12 is exact, so the answer keeps the three significant figures of 0.325 g: <b>3.90 g</b> (the zero is added to show the third significant figure).",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c1-082",
+  "t": "ch01-sigfig",
+  "q": "A pharmacy technician weighs a container (102 g, on a coarse scale), then adds 0.85 g and 1.236 g of two powders measured on an analytical balance. What is the total mass, to the correct precision?",
+  "c": [
+   "104 g",
+   "104.086 g",
+   "104.09 g",
+   "1.0 &times; 10<sup>2</sup> g"
+  ],
+  "y": [
+   "In addition, the answer keeps the decimal places of the least precise value; 102 g is known only to the ones place.",
+   "This keeps every calculator digit; the total cannot be more precise than the 102 g measured to the ones place.",
+   "This keeps two decimal places, but 102 g has no decimal places, so the ones place is the limit.",
+   "This applies the multiplication rule (fewest significant figures); addition uses decimal places instead."
+  ],
+  "h": "For addition and subtraction, look at decimal places, not the number of significant figures.",
+  "w": "102 + 0.85 + 1.236 = 104.086 g. The least precise value, 102 g, is known only to the ones place, so round to the ones place: <b>104 g</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c1-083",
+  "t": "ch01-sigfig",
+  "q": "A dental materials student finds the mass of a resin sample by difference (24.6 g &minus; 22.1 g) and then divides by its volume, 1.335 mL. What density should she report?",
+  "c": [
+   "1.9 g/mL",
+   "1.87 g/mL",
+   "1.873 g/mL",
+   "2 g/mL"
+  ],
+  "y": [
+   "The subtraction gives 2.5 g, which has only two significant figures, so the division result keeps two.",
+   "This keeps three significant figures, as if the mass still had three; after subtracting, 2.5 g has two.",
+   "This keeps four significant figures from the volume, ignoring the less precise mass.",
+   "This keeps only one significant figure; the mass (2.5 g) supports two."
+  ],
+  "h": "Do the subtraction first and count the significant figures in that result before you divide.",
+  "w": "Step 1 (subtraction, decimal-place rule): 24.6 g &minus; 22.1 g = 2.5 g (tenths place, two significant figures). Step 2 (division): 2.5 g &divide; 1.335 mL = 1.8727&hellip; g/mL &rarr; two significant figures: <b>1.9 g/mL</b>. Keep extra digits in the calculator between steps, but track the significant figures each step allows.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c1-084",
+  "t": "ch01-sigfig",
+  "q": "A microbiology student measures nutrient broth in the graduated cylinder shown. Each small mark is 0.5 mL. What volume should she record?",
+  "c": [
+   "16.3 mL",
+   "16 mL",
+   "16.30 mL",
+   "16.5 mL"
+  ],
+  "y": [
+   "The marks are 0.5 mL apart, so you can be sure of the tenths place only by estimating it: about 16.3 mL.",
+   "This drops the estimated digit; a reading should go one place past what the marks show for certain.",
+   "With marks every 0.5 mL you cannot estimate to the hundredths place, so the last zero claims too much precision.",
+   "This reads the nearest line instead of estimating where the bottom of the meniscus sits between the lines."
+  ],
+  "h": "Read the bottom of the meniscus. Record all certain digits plus one estimated digit.",
+  "w": "The bottom of the meniscus sits a little past halfway between 16.0 and 16.5 mL. You are certain of 16, and you estimate the tenths: <b>16.3 mL</b> (a nearby estimate such as 16.2 or 16.4 mL is also reasonable). The last digit is always the estimated one.",
+  "d": 2,
+  "k": 0,
+  "f": [
+   {
+    "type": "cylinder",
+    "lo": 10,
+    "hi": 20,
+    "minor": 0.5,
+    "major": 2,
+    "level": 16.3,
+    "unit": "mL"
+   }
+  ]
+ },
+ {
+  "id": "c1-085",
+  "t": "ch01-sigfig",
+  "q": "A biology student measures a pea seedling root with the ruler shown (marks every 0.1 cm). What length should she record?",
+  "c": [
+   "3.47 cm",
+   "3.5 cm",
+   "3.470 cm",
+   "3.4 cm"
+  ],
+  "y": [
+   "The smallest marks are 0.1 cm apart, so you estimate one more digit, the hundredths: 3.47 cm.",
+   "This rounds away the estimated digit; with 0.1 cm marks you should report to the hundredths place.",
+   "The ruler cannot be read to the thousandths place, so the final zero is not justified.",
+   "This cuts off the reading at the last full mark instead of estimating how far past it the root reaches."
+  ],
+  "h": "Count the certain digits from the marks, then estimate one more between the marks.",
+  "w": "The end of the root is between the 3.4 and 3.5 cm marks, about seven-tenths of the way. Certain digits: 3.4; estimated digit: 7. Record <b>3.47 cm</b> (3.46 or 3.48 cm would also be a fair estimate).",
+  "d": 2,
+  "k": 0,
+  "f": [
+   {
+    "type": "ruler",
+    "lo": 0,
+    "hi": 5,
+    "minor": 0.1,
+    "major": 1,
+    "half": 0.5,
+    "start": 0,
+    "len": 3.47,
+    "unit": "cm"
+   }
+  ]
+ },
+ {
+  "id": "c1-086",
+  "t": "ch01-sigfig",
+  "q": "During a titration, a student reads the buret shown. The marks are 0.1 mL apart, and buret numbers increase going <b>down</b>. What is the reading?",
+  "c": [
+   "13.62 mL",
+   "13.38 mL",
+   "13.6 mL",
+   "13.620 mL"
+  ],
+  "y": [
+   "Below the 13 mL label, the meniscus bottom sits between 13.6 and 13.7, about two-tenths of the way: 13.62 mL.",
+   "This reads the scale as if the numbers increase upward; on a buret, values grow as you go down.",
+   "This drops the estimated digit; with 0.1 mL marks a buret reading goes to the hundredths place.",
+   "A buret with 0.1 mL marks can be estimated only to the hundredths place, so the extra zero claims too much."
+  ],
+  "h": "On a buret, 0.00 mL is at the top. Read the bottom of the meniscus and estimate the hundredths.",
+  "w": "The meniscus bottom is just below the 13.6 mL mark (numbers increase downward). Certain: 13.6; estimated: 2. Record <b>13.62 mL</b>. Buret readings always have two decimal places.",
+  "d": 2,
+  "k": 0,
+  "f": [
+   {
+    "type": "buret",
+    "lo": 12,
+    "hi": 15,
+    "minor": 0.1,
+    "major": 1,
+    "level": 13.62,
+    "unit": "mL"
+   }
+  ]
+ },
+ {
+  "id": "c1-087",
+  "t": "ch01-sigfig",
+  "q": "A student throws five darts at the target shown. Which description fits the throws?",
+  "c": [
+   "Precise but not accurate",
+   "Accurate and precise",
+   "Accurate but not precise",
+   "Neither accurate nor precise"
+  ],
+  "y": [
+   "The darts are close to each other (precise) but all land well away from the bullseye (not accurate).",
+   "Accurate means close to the true value (the bullseye); these darts are grouped far from it.",
+   "Not precise would mean scattered darts; these are tightly grouped.",
+   "Tightly grouped darts are precise even when they miss the bullseye."
+  ],
+  "h": "Precision: are the darts close to each other? Accuracy: are they close to the bullseye?",
+  "w": "The darts are tightly grouped, so the throws are <b>precise</b>, but the group is off to one side, so they are <b>not accurate</b>. In the lab this pattern usually points to a systematic error, such as a balance that needs calibrating.",
+  "d": 1,
+  "k": 0,
+  "f": [
+   {
+    "type": "targets",
+    "items": [
+     {
+      "pts": [
+       [
+        0.42,
+        -0.56
+       ],
+       [
+        0.62,
+        -0.52
+       ],
+       [
+        0.5,
+        -0.4
+       ],
+       [
+        0.66,
+        -0.34
+       ],
+       [
+        0.36,
+        -0.42
+       ]
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c1-088",
+  "t": "ch01-sigfig",
+  "q": "Four students each weigh the same 5.00 g reference mass three times.<br />Student A: 4.71 g, 4.72 g, 4.70 g<br />Student B: 5.01 g, 4.99 g, 5.00 g<br />Student C: 4.80 g, 5.25 g, 4.95 g<br />Student D: 4.55 g, 5.30 g, 4.70 g<br />Whose results are <b>precise but not accurate</b>?",
+  "c": [
+   "Student A",
+   "Student B",
+   "Student C",
+   "Student D"
+  ],
+  "y": [
+   "A's readings agree within 0.02 g (precise), but they average 4.71 g, well below the true 5.00 g (not accurate).",
+   "B's readings agree closely and average 5.00 g, so they are both precise and accurate.",
+   "C's readings spread over 0.45 g, so they are not precise, even though their average is close to 5.00 g.",
+   "D's readings are widely scattered and average 4.85 g, so they are neither precise nor accurate."
+  ],
+  "h": "For each student, check how close the three readings are to each other, then how close their average is to 5.00 g.",
+  "w": "<b>Student A</b>: the readings span only 0.02 g (precise) but average 4.71 g, about 0.29 g low (not accurate). B is accurate and precise; C averages 5.00 g but is scattered (accurate on average, not precise); D is neither.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c1-089",
+  "t": "ch01-convert",
+  "q": "To convert 2.50 L to milliliters, which conversion factor should you multiply by?",
+  "c": [
+   "1000 mL / 1 L",
+   "1 L / 1000 mL",
+   "1 mL / 1000 L",
+   "100 mL / 1 L"
+  ],
+  "y": [
+   "Liters is on the bottom so it cancels with the L you start with, leaving mL on top.",
+   "With liters on top, the units would become L<sup>2</sup>/mL instead of canceling.",
+   "This factor is false: a milliliter is smaller than a liter, so 1 mL cannot equal 1000 L.",
+   "1 L is 1000 mL, not 100 mL; 100 would fit centi-, not milli-."
+  ],
+  "h": "Put the unit you want to cancel on the bottom of the factor.",
+  "w": "2.50 L &times; (1000 mL / 1 L) = <b>2.50 &times; 10<sup>3</sup> mL</b>. The starting unit goes on the bottom of the factor so it cancels, and the unit you want goes on top.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-090",
+  "t": "ch01-convert",
+  "q": "A newborn measures 19.5 in long. What is the length in centimeters? (1 in = 2.54 cm exactly)",
+  "c": [
+   "49.5 cm",
+   "7.68 cm",
+   "49.53 cm",
+   "50. cm"
+  ],
+  "y": [
+   "19.5 in &times; 2.54 cm/in = 49.53 cm; the exact factor does not limit the answer, so the three significant figures of 19.5 in give 49.5 cm.",
+   "This divides by 2.54; a centimeter is smaller than an inch, so the number of centimeters must be larger.",
+   "This keeps the calculator digits; the measured 19.5 in has only three significant figures.",
+   "This rounds to two significant figures, but the exact factor does not limit the answer; 19.5 in has three."
+  ],
+  "h": "An inch is longer than a centimeter, so expect a bigger number. Is 2.54 exact?",
+  "w": "19.5 in &times; (2.54 cm / 1 in) = 49.53 cm &rarr; <b>49.5 cm</b>. The factor 1 in = 2.54 cm is exact by definition, so only the measured 19.5 in (three significant figures) limits the answer.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c1-091",
+  "t": "ch01-convert",
+  "q": "<b>Math practice only; always follow the order and facility policy.</b> An order calls for 15.0 mg/kg of a medication. The child weighs 44.0 lb. Using 1 kg = 2.205 lb, what dose in milligrams does the order describe?",
+  "c": [
+   "299 mg",
+   "660. mg",
+   "1.46 &times; 10<sup>3</sup> mg",
+   "299.3 mg"
+  ],
+  "y": [
+   "44.0 lb &divide; 2.205 lb/kg = 19.95 kg, and 19.95 kg &times; 15.0 mg/kg = 299 mg (three significant figures).",
+   "This multiplies the weight in pounds by 15.0 mg/kg; the order is per kilogram, so convert pounds to kilograms first.",
+   "This multiplies by 2.205 instead of dividing, which makes the weight in kilograms larger than in pounds, the wrong direction.",
+   "The arithmetic is right, but every given value has three or four significant figures, so the answer keeps three."
+  ],
+  "h": "First convert pounds to kilograms (a kilogram is heavier than a pound, so the number should shrink). Then multiply by mg/kg.",
+  "w": "44.0 lb &times; (1 kg / 2.205 lb) = 19.95 kg; 19.95 kg &times; (15.0 mg / 1 kg) = 299.3 mg &rarr; <b>299 mg</b>. Check: the child is about 20 kg, and 20 &times; 15 = 300, so the answer is reasonable.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c1-092",
+  "t": "ch01-convert",
+  "q": "A vitamin B<sub>12</sub> tablet contains 2.50 &times; 10<sup>2</sup> &micro;g of the vitamin. What is that mass in grams?",
+  "c": [
+   "2.50 &times; 10<sup>&minus;4</sup> g",
+   "2.50 &times; 10<sup>&minus;1</sup> g",
+   "2.50 &times; 10<sup>8</sup> g",
+   "2.50 &times; 10<sup>&minus;7</sup> g"
+  ],
+  "y": [
+   "1 g = 10<sup>6</sup> &micro;g, so divide by 10<sup>6</sup>: 2.50 &times; 10<sup>2</sup> &times; 10<sup>&minus;6</sup> = 2.50 &times; 10<sup>&minus;4</sup> g.",
+   "This uses 1 g = 1000 &micro;g, which is the factor for milligrams, not micrograms.",
+   "This multiplies by 10<sup>6</sup>; converting to a larger unit (grams) must give a smaller number.",
+   "This uses 10<sup>9</sup> per gram, the factor for nanograms, not micrograms."
+  ],
+  "h": "Micro- = 10<sup>&minus;6</sup>. Going to a bigger unit makes the number smaller.",
+  "w": "2.50 &times; 10<sup>2</sup> &micro;g &times; (1 g / 10<sup>6</sup> &micro;g) = <b>2.50 &times; 10<sup>&minus;4</sup> g</b>. (That is 0.250 mg; orders write mcg for micrograms.)",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c1-093",
+  "t": "ch01-convert",
+  "q": "<b>Math practice only; always follow the order and facility policy.</b> An IV infusion runs at 125 mL/h for a full 12-hour shift. How many liters are delivered?",
+  "c": [
+   "1.50 L",
+   "1.5 L",
+   "1.50 &times; 10<sup>3</sup> L",
+   "10.4 L"
+  ],
+  "y": [
+   "125 mL/h &times; 12 h = 1500 mL = 1.50 L; the shift length is a defined (exact) number, so the rate's three significant figures set the answer.",
+   "This treats the 12-hour shift as a measured value with two significant figures; the defined length of a shift is exact here.",
+   "This is the number of milliliters labeled as liters; 1500 mL must be divided by 1000 to give liters.",
+   "This divides the rate by the time; volume delivered is rate &times; time."
+  ],
+  "h": "Rate &times; time gives volume. Then change mL to L.",
+  "w": "125 mL/h &times; 12 h = 1500 mL; 1500 mL &times; (1 L / 1000 mL) = <b>1.50 L</b>. The hours cancel, and the 12 h shift is exact, so the answer keeps the three significant figures of 125 mL/h.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c1-094",
+  "t": "ch01-convert",
+  "q": "A wound care nurse records a skin wound area of 6.0 cm<sup>2</sup>. What is the area in mm<sup>2</sup>? (1 cm = 10 mm)",
+  "c": [
+   "6.0 &times; 10<sup>2</sup> mm<sup>2</sup>",
+   "60. mm<sup>2</sup>",
+   "0.060 mm<sup>2</sup>",
+   "6.0 &times; 10<sup>3</sup> mm<sup>2</sup>"
+  ],
+  "y": [
+   "For squared units the factor is squared too: (10 mm/1 cm)<sup>2</sup> = 100 mm<sup>2</sup>/cm<sup>2</sup>, so 6.0 &times; 100 = 600 mm<sup>2</sup>.",
+   "This uses 10 mm/cm only once; an area unit is squared, so the factor must be squared too.",
+   "This divides by 100; a millimeter is smaller than a centimeter, so the number of mm<sup>2</sup> must be larger.",
+   "This cubes the factor (10<sup>3</sup>), which is right for volume, not for area."
+  ],
+  "h": "1 cm<sup>2</sup> is a square 10 mm on a side. How many mm<sup>2</sup> is that?",
+  "w": "6.0 cm<sup>2</sup> &times; (10 mm / 1 cm)<sup>2</sup> = 6.0 cm<sup>2</sup> &times; 100 mm<sup>2</sup>/cm<sup>2</sup> = <b>6.0 &times; 10<sup>2</sup> mm<sup>2</sup></b>. Scientific notation keeps the two significant figures clear.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c1-095",
+  "t": "ch01-convert",
+  "q": "A dairy's water storage tank holds 2.40 m<sup>3</sup>. How many liters is that? (1 m = 100 cm; 1 mL = 1 cm<sup>3</sup>)",
+  "c": [
+   "2.40 &times; 10<sup>3</sup> L",
+   "0.240 L",
+   "2.40 &times; 10<sup>6</sup> L",
+   "2.40 &times; 10<sup>&minus;3</sup> L"
+  ],
+  "y": [
+   "(100 cm/m)<sup>3</sup> = 10<sup>6</sup> cm<sup>3</sup> per m<sup>3</sup>, which is 10<sup>6</sup> mL or 10<sup>3</sup> L, so 2.40 m<sup>3</sup> = 2.40 &times; 10<sup>3</sup> L.",
+   "This uses the 100 cm/m factor only once; a cubic unit needs the factor cubed.",
+   "This stops at cubic centimeters (2.40 &times; 10<sup>6</sup> cm<sup>3</sup>) and calls them liters; a cubic centimeter is a milliliter.",
+   "This divides where it should multiply; a cubic meter is much larger than a liter, so there are many liters in it."
+  ],
+  "h": "Cube the length factor: (100 cm / 1 m)<sup>3</sup>. Then use 1 cm<sup>3</sup> = 1 mL.",
+  "w": "2.40 m<sup>3</sup> &times; (100 cm / 1 m)<sup>3</sup> = 2.40 &times; 10<sup>6</sup> cm<sup>3</sup> = 2.40 &times; 10<sup>6</sup> mL; &times; (1 L / 1000 mL) = <b>2.40 &times; 10<sup>3</sup> L</b>. (1 m<sup>3</sup> = 1000 L.)",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c1-096",
+  "t": "ch01-convert",
+  "q": "A microbiology prep room needs 25.0 g of ethanol (density 0.789 g/mL). What volume should be measured?",
+  "c": [
+   "31.7 mL",
+   "19.7 mL",
+   "0.0316 mL",
+   "31.69 mL"
+  ],
+  "y": [
+   "Use density as a conversion factor with grams on the bottom: 25.0 g &times; (1 mL / 0.789 g) = 31.7 mL.",
+   "This multiplies grams by g/mL, which leaves g<sup>2</sup>/mL; the grams must cancel.",
+   "This divides the density by the mass; the units would be 1/mL, not mL.",
+   "The setup is right, but 25.0 g and 0.789 g/mL each have three significant figures, so the answer keeps three."
+  ],
+  "h": "Flip the density so grams are on the bottom: 1 mL / 0.789 g.",
+  "w": "25.0 g &times; (1 mL / 0.789 g) = 31.69 mL &rarr; <b>31.7 mL</b>. Check: ethanol is less dense than water, so 25.0 g takes up more than 25.0 mL.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c1-097",
+  "t": "ch01-convert",
+  "q": "A unit of donated whole blood has a volume of 475 mL. Blood has a density of about 1.06 g/mL. What is the mass of the unit?",
+  "c": [
+   "504 g",
+   "448 g",
+   "503.5 g",
+   "0.00223 g"
+  ],
+  "y": [
+   "Volume &times; density: 475 mL &times; 1.06 g/mL = 503.5 g, which rounds to three significant figures as 504 g.",
+   "This divides the volume by the density; mL &divide; (g/mL) gives mL<sup>2</sup>/g, not grams.",
+   "This keeps the calculator digits; both given values have three significant figures.",
+   "This divides the density by the volume, which gives a tiny number with the wrong units."
+  ],
+  "h": "Set up the units so mL cancels: mL &times; g/mL.",
+  "w": "475 mL &times; (1.06 g / 1 mL) = 503.5 g &rarr; <b>504 g</b>. Check: blood is a little denser than water, so the mass in grams is a little more than the volume in mL.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c1-098",
+  "t": "ch01-convert",
+  "q": "A Valley olive mill fills a 2.00 L bottle with olive oil (density 0.917 g/mL). What is the mass of the oil in kilograms?",
+  "c": [
+   "1.83 kg",
+   "1.83 &times; 10<sup>3</sup> kg",
+   "2.18 kg",
+   "1.834 kg"
+  ],
+  "y": [
+   "2.00 L &rarr; 2000 mL; &times; 0.917 g/mL = 1834 g; &divide; 1000 g/kg = 1.83 kg (three significant figures).",
+   "This stops at grams (1834 g) but labels the result kilograms; one more step, g &rarr; kg, is needed.",
+   "This divides by the density instead of multiplying, so the units cannot come out as mass.",
+   "The steps are right, but every given value has three significant figures, so the answer keeps three."
+  ],
+  "h": "Chain it: L &rarr; mL &rarr; g (density) &rarr; kg.",
+  "w": "2.00 L &times; (1000 mL / 1 L) &times; (0.917 g / 1 mL) &times; (1 kg / 1000 g) = 1.834 kg &rarr; <b>1.83 kg</b>. Check: oil floats on water, so 2 L of oil should weigh a little less than 2 kg.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c1-099",
+  "t": "ch01-convert",
+  "q": "A bag of Valley almonds weighs 2.50 lb. Using 1 lb = 453.6 g, what is its mass in kilograms?",
+  "c": [
+   "1.13 kg",
+   "1.13 &times; 10<sup>3</sup> kg",
+   "5.51 kg",
+   "1.134 kg"
+  ],
+  "y": [
+   "2.50 lb &times; 453.6 g/lb = 1134 g; &times; 1 kg/1000 g = 1.134 kg, which rounds to three significant figures as 1.13 kg.",
+   "This is the mass in grams (1134 g) labeled as kilograms; the g &rarr; kg step was skipped.",
+   "This multiplies by 2.205 (lb per kg); a kilogram is heavier than a pound, so the number of kilograms must be smaller.",
+   "The setup is right, but 2.50 lb has three significant figures, so the answer keeps three."
+  ],
+  "h": "Two steps: lb &rarr; g, then g &rarr; kg. A kilogram is heavier than a pound.",
+  "w": "2.50 lb &times; (453.6 g / 1 lb) &times; (1 kg / 1000 g) = 1.134 kg &rarr; <b>1.13 kg</b>. The 453.6 g factor has four significant figures, so the measured 2.50 lb (three) limits the answer.",
+  "d": 2,
+  "k": 1
  }
 ]

@@ -26,6 +26,10 @@ Old "X.E Exercises" pages are replaced by Practice Problems. Old "Summary" pages
 5. **Equilibrium emphasis is Le Chatelier's principle**; K expressions and large/small K stay light.
 6. **Measurement after nomenclature** (COR order): Ch 1 teaches density as a property with one-step d = m/V and a pointer to Ch 5; Ch 2's average-mass examples use given decimal places with a short rounding note.
 
+## Change 2026-11-14 (Dr. Dan): measurement merged into Chapter 1
+
+Chapter 1 is now **"Measurement, Matter, and the Scientific Method"**: 1.1 Scientific Method; 1.2 Taking Measurements (1.2.1 Scientific Notation, 1.2.2 Basic Units); 1.3 Significant Figures (1.3.1, 1.3.2); 1.4 Conversions (1.4.1–1.4.3); 1.5 Classifying Matter; 1.6 States; 1.7 Electric Charge; 1.8 Physical and Chemical Properties and Changes; 1.9 Density (1.9.1 Density as a Conversion Factor); 1.10 Chapter Guide; 1.11 Practice Problems; 1.12 Measurements (Exercises); 1.13 Practice Games. Chapter 5 is **"The Mole"** (5.1–5.5 + 5.6 Mole Concept Exercises). Temperature stays in Chapter 9 (9.2). The Chapter 1 and Chapter 5 entries below predate this change; where they disagree, this note wins.
+
 ## Chapter map
 
 | New ch | Title | COR | Built mostly from (live ids) |
@@ -51,7 +55,7 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 
 ## Chapter 1. Matter and the Scientific Method (COR 1.1–1.2)
 
-**Status 2026-11-14:** drafted locally in `drafts/ch01/` (intro, 1.1–1.6, guide, 54 practice problems, games page), 6 figures, 65-item Try It bank. Not on LibreTexts yet. Valley box became Tule Fog (in 1.5); added Biology Connection boxes and a Radiologic Technology box (1.4, 1.6) and a Respiratory Therapy box (1.2).
+**Status 2026-11-14:** drafted locally in `drafts/ch01/` (see the 2026-11-14 change note above for the merged numbering), 6 figures, 65-item Try It bank. Not on LibreTexts yet. Valley box became Tule Fog (in 1.5); added Biology Connection boxes and a Radiologic Technology box (1.4, 1.6) and a Respiratory Therapy box (1.2).
 
 **Sections**
 - 1.1 Chemistry and the Scientific Method — from 2.1 (441402), rewritten; adds qualitative vs quantitative observations as a preview of COR 3.1.
