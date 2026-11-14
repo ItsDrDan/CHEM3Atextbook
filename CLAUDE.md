@@ -97,7 +97,7 @@ A major overhaul of the free LibreTexts textbook for **CHEM 3A (Introductory Gen
 
 ### Patient case (approved 2026-11-14)
 
-**Case A: Mateo Herrera, 34**, an irrigation technician on a Fresno County almond orchard, with asthma (see `tools/PATIENT_CASE_PROPOSAL.md`). He appears **only where the chemistry has a strong tie** to his care, not in every chapter.
+**Case A: Mateo Herrera, 34**, an irrigation technician on a Fresno County almond orchard, with asthma (see `tools/PATIENT_CASE_PROPOSAL.md`). He appears **only where the chemistry has a strong tie** to his care, not in every chapter. Chapters without him (1, 6, 8, 9) open with one of: a short one-off patient vignette (a different person), a Biology Connection opener, or a **Chemistry in the Community** opener (local, Valley-based), whichever fits the chapter best (Dr. Dan, 2026-11-14).
 
 ### Biology ties (Dr. Dan, 2026-11-14)
 

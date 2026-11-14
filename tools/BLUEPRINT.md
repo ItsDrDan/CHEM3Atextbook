@@ -2,7 +2,7 @@
 
 Status: **approved by Dr. Dan 2026-11-14** with the decisions recorded below and in `CLAUDE.md` (Scope decisions, Patient case, Biology ties). Nothing is built yet.
 Sources: `tools/COR_outline.md` (scope), `tools/SOURCES.md` (files), `tools/live_tree.txt` (current pages; ids below are **live-book** ids, the draft mirrors them; draft ids are known only for Chapter 1 so far).
-Patient case: **Case A, Mateo** (approved). He appears only in chapters with a strong tie; those are marked **Patient-case beat**. Chapters marked "no opener" may still use him in a problem if it fits.
+Patient case: **Case A, Mateo** (approved). He appears only in chapters with a strong tie; those are marked **Patient-case beat**. Chapters marked "no opener" (1, 6, 8, 9) open instead with a one-off patient vignette, a Biology Connection opener, or a **Chemistry in the Community** opener, and may still use Mateo in a problem. Planned: Ch 1 Chemistry in the Community (a Fresno morning: tule fog, breakfast, the commute — everything is matter); Ch 6 one-off patient (a dental hygiene patient with fluoride and sealants); Ch 8 Biology Connection (cellular respiration and yeast fermentation); Ch 9 Chemistry in the Community (a farmworker heat-illness day and the Cal/OSHA heat rule).
 
 ## Every chapter gets
 
@@ -50,6 +50,8 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 ---
 
 ## Chapter 1. Matter and the Scientific Method (COR 1.1–1.2)
+
+**Status 2026-11-14:** drafted locally in `drafts/ch01/` (intro, 1.1–1.6, guide, 54 practice problems, games page), 6 figures, 65-item Try It bank. Not on LibreTexts yet. Valley box became Tule Fog (in 1.5); added Biology Connection boxes and a Radiologic Technology box (1.4, 1.6) and a Respiratory Therapy box (1.2).
 
 **Sections**
 - 1.1 Chemistry and the Scientific Method — from 2.1 (441402), rewritten; adds qualitative vs quantitative observations as a preview of COR 3.1.

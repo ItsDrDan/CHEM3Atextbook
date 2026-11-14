@@ -1,0 +1,2137 @@
+[
+ {
+  "id": "c1-001",
+  "t": "ch01-method",
+  "q": "A nurse records four observations about a patient. Which one is <b>quantitative</b>?",
+  "c": [
+   "Heart rate is 88 beats per minute.",
+   "Skin is warm and dry.",
+   "The wound dressing smells foul.",
+   "The urine looks cloudy."
+  ],
+  "y": [
+   "It is a number with a unit, so it is a measurement: a quantitative observation.",
+   "Warm and dry are descriptions in words with no number, so this is qualitative.",
+   "An odor described in words is qualitative; nothing was measured.",
+   "Cloudy is a quality you see, not a measured number with a unit, so it is qualitative."
+  ],
+  "h": "Look for the observation that has both a number and a unit.",
+  "w": "A quantitative observation is a measurement: a number with a unit. Only <b>88 beats per minute</b> fits. The other three describe qualities (temperature feel, odor, appearance) in words, so they are qualitative.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-002",
+  "t": "ch01-method",
+  "q": "A crop advisor in Kern County inspects an almond orchard. Which of her notes is a <b>qualitative</b> observation?",
+  "c": [
+   "The hulls on the north rows are split and brown.",
+   "The trees in row 4 are 5.2 m tall.",
+   "The soil moisture sensor reads 18% water by volume.",
+   "The irrigation line pressure is 30 psi."
+  ],
+  "y": [
+   "Split and brown describe the hulls in words, with no measured number, so this is qualitative.",
+   "5.2 m is a number with a unit, so this is a quantitative measurement.",
+   "18% by volume is a measured number from an instrument, so it is quantitative.",
+   "30 psi is a number with a unit (pounds per square inch), so it is quantitative."
+  ],
+  "h": "Qualitative observations describe qualities in words; quantitative ones are numbers with units.",
+  "w": "Only the note about <b>split, brown hulls</b> uses words instead of a measurement. Height, soil moisture and line pressure are all numbers with units, so they are quantitative.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-003",
+  "t": "ch01-method",
+  "q": "A lab partner writes &ldquo;the mass of the beaker was 12&rdquo; in his notebook. What is the problem with this observation?",
+  "c": [
+   "It has no unit, so the measurement is incomplete.",
+   "It is qualitative, so it cannot be recorded.",
+   "A mass can never be a whole number.",
+   "Masses must be written as words, not numbers."
+  ],
+  "y": [
+   "A number without a unit does not say whether it was 12 g, 12 mg or 12 kg, so it is an incomplete measurement.",
+   "A number is not a qualitative observation; the issue is what is missing from the number.",
+   "Whole-number readings are possible; the issue is something else that is missing.",
+   "Measurements are written as numbers; words are for qualitative observations."
+  ],
+  "h": "Could you tell from the note whether the beaker was very light or very heavy?",
+  "w": "A quantitative observation needs a number <i>and</i> a unit. &ldquo;12&rdquo; alone could mean 12 g or 12 kg, so it is <b>incomplete without a unit</b>. Always write the unit, for example 12.4 g.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-004",
+  "t": "ch01-method",
+  "q": "Which statement is a <b>testable (falsifiable)</b> hypothesis?",
+  "c": [
+   "Watering tomato plants with 2 L of water per day instead of 1 L per day increases the mass of fruit they produce.",
+   "Tomato plants are happier when they are grown with love.",
+   "Some force that can never be detected decides how big tomatoes grow.",
+   "Tomatoes are the most beautiful plants in the garden."
+  ],
+  "y": [
+   "It names something you can change (water per day) and something you can measure (fruit mass), so an experiment could show it is wrong.",
+   "&ldquo;Happier&rdquo; cannot be measured, so no experiment could prove this wrong.",
+   "A force that can never be detected can never be tested, so this cannot be falsified.",
+   "Beauty is an opinion, not something an experiment can measure or disprove."
+  ],
+  "h": "A falsifiable hypothesis is one an experiment could prove wrong. Which one names something you can change and something you can measure?",
+  "w": "A scientific hypothesis must be testable: an experiment must be able to show it is wrong. The <b>watering</b> statement has a variable you change (water per day) and a result you measure (fruit mass). Happiness, undetectable forces and beauty cannot be measured, so those statements cannot be tested.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-005",
+  "t": "ch01-method",
+  "q": "A microbiology student incubates identical agar plates, each spread with the same sample of <i>E. coli</i>, at 25 &deg;C, 30 &deg;C and 37 &deg;C. After 24 hours she counts the colonies on each plate. What is the <b>independent variable</b>?",
+  "c": [
+   "The incubation temperature",
+   "The number of colonies on each plate",
+   "The incubation time of 24 hours",
+   "The type of agar in the plates"
+  ],
+  "y": [
+   "Temperature is the one thing she changed on purpose, so it is the independent variable.",
+   "The colony count is what she measured; it depends on the change she made.",
+   "Every plate was incubated for 24 hours, so time was kept constant.",
+   "All the plates used the same agar, so it was kept constant."
+  ],
+  "h": "Ask: what did she deliberately change from plate to plate?",
+  "w": "The independent variable is the one thing the experimenter deliberately changes: <b>the incubation temperature</b>. The colony count is the dependent variable (what she measured), and the time and agar type are constants kept the same for every plate.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-006",
+  "t": "ch01-method",
+  "q": "A respiratory therapy student fills identical humidifier chambers with water heated to 30 &deg;C, 35 &deg;C or 40 &deg;C and measures how much water evaporates from each in 1 hour. What is the <b>dependent variable</b>?",
+  "c": [
+   "The mass of water that evaporates in 1 hour",
+   "The temperature of the water",
+   "The size of the humidifier chamber",
+   "The 1-hour time period"
+  ],
+  "y": [
+   "The amount of water evaporated is what he measures, and it depends on the temperature he set.",
+   "Temperature is what he changes on purpose, so it is the independent variable.",
+   "The chambers are identical, so chamber size is a constant.",
+   "Every trial lasts 1 hour, so time is a constant."
+  ],
+  "h": "The dependent variable is the result you measure at the end.",
+  "w": "The dependent variable is the measured result: <b>the mass of water that evaporates</b>. Water temperature is the independent variable he chooses, and the chamber size and 1-hour time are kept constant so the comparison is fair.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-007",
+  "t": "ch01-method",
+  "q": "A Tulare County farmer wants to know whether a new compost increases pistachio yield. Which setup gives her a proper <b>control</b>?",
+  "c": [
+   "A matching block of trees that gets no compost but the same water, soil and care",
+   "A block of trees that gets twice as much of the new compost",
+   "A block of trees in a different county with different soil and water",
+   "Weighing the nuts from the composted trees twice"
+  ],
+  "y": [
+   "The control is the trial without the change, with everything else kept the same, so any difference can be blamed on the compost.",
+   "This changes the amount of compost, which is a second test condition, not a comparison without the change.",
+   "Changing the soil and water too means she could not tell which difference caused a change in yield.",
+   "Repeating a measurement checks the measurement but gives nothing to compare against."
+  ],
+  "h": "A control is the trial where you leave out the one change you are testing.",
+  "w": "A fair experiment compares a trial with the change to a trial without it, keeping everything else the same. <b>A matching block with no compost</b> is the control. A block in a different county changes several things at once, so the result could not be traced to the compost.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c1-008",
+  "t": "ch01-method",
+  "q": "Which statement is a <b>scientific law</b>?",
+  "c": [
+   "In a chemical reaction, the total mass of the products equals the total mass of the reactants.",
+   "Matter is made of atoms that are rearranged, but not created or destroyed, in reactions.",
+   "Adding more baking soda to this vinegar will make more bubbles.",
+   "The solution in flask 3 turned pink."
+  ],
+  "y": [
+   "It describes what always happens without explaining why, which is what a law does (the law of conservation of mass).",
+   "This explains why mass is conserved using a model of atoms, so it is a theory.",
+   "This is a single untested prediction about one situation, so it is a hypothesis.",
+   "This is one qualitative observation, not a general statement about what always happens."
+  ],
+  "h": "A law describes <i>what</i> always happens; a theory explains <i>why</i>.",
+  "w": "A scientific law summarizes what always happens, often as an equation, without explaining why. <b>Mass of products equals mass of reactants</b> is the law of conservation of mass. The atom statement is the theory that explains it, the baking-soda prediction is a hypothesis, and the pink solution is an observation.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c1-009",
+  "t": "ch01-method",
+  "q": "Which statement about a scientific <b>theory</b> is correct?",
+  "c": [
+   "It is a well-tested explanation of why something happens, and it can be revised if new evidence demands it.",
+   "It becomes a law once enough experiments prove it.",
+   "It is a guess that has not been tested yet.",
+   "It describes what happens but never explains why."
+  ],
+  "y": [
+   "A theory explains why, is backed by many experiments, and can still change with new evidence.",
+   "Theories and laws do different jobs (why versus what); a theory never graduates into a law.",
+   "That describes the everyday meaning of &ldquo;theory&rdquo;; in science an untested idea is a hypothesis.",
+   "Describing what happens without saying why is the job of a law."
+  ],
+  "h": "In science, which is stronger: a guess or an explanation supported by many experiments?",
+  "w": "In science a <b>theory is a well-tested explanation of why</b> nature behaves as it does, supported by many experiments, and it can be revised by new evidence (as models of the atom were). It does not turn into a law, and it is not a guess.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-010",
+  "t": "ch01-method",
+  "q": "A student notices that cut apples turn brown, wonders why, and guesses that oxygen in air causes it. What should she do <b>next</b> in the scientific method?",
+  "c": [
+   "Test the idea by leaving some apple slices in air and sealing others away from air",
+   "Declare that oxygen causes browning as a scientific law",
+   "Change her guess to a different idea before testing it",
+   "Stop, because she already has an explanation"
+  ],
+  "y": [
+   "After forming a hypothesis, the next step is an experiment that changes one thing (exposure to air) and measures the result.",
+   "One untested guess is not a law; a law comes only after results are repeated many times.",
+   "There is no reason to change a hypothesis before it has been tested.",
+   "An untested hypothesis is not yet supported by evidence; it still has to be tested."
+  ],
+  "h": "Her guess is a hypothesis. What step comes right after forming a hypothesis?",
+  "w": "She has observed, asked a question and formed a hypothesis. The next step is to <b>experiment</b>: compare slices exposed to air with slices sealed away from air, keeping everything else the same, then analyze the results.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-011",
+  "t": "ch01-method",
+  "q": "A researcher's data do <b>not</b> support her hypothesis. What is the best next step?",
+  "c": [
+   "Revise the hypothesis and test it again",
+   "Change the data so they fit the hypothesis",
+   "Call the hypothesis a theory",
+   "Repeat the same conclusion in a report"
+  ],
+  "y": [
+   "The scientific method is a cycle: results that do not support a hypothesis send you back to revise it and test again.",
+   "Changing data is dishonest and defeats the purpose of testing.",
+   "A theory must be supported by many experiments; this hypothesis was just contradicted.",
+   "Reporting a conclusion the data do not support would be inaccurate."
+  ],
+  "h": "Think of the scientific method as a cycle rather than a straight line.",
+  "w": "When data contradict a hypothesis, the scientist <b>revises the hypothesis and tests again</b>. This is how the cycle of the scientific method moves toward better explanations.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-012",
+  "t": "ch01-classify",
+  "q": "Classify the substance shown in the box.",
+  "c": [
+   "An element made of diatomic molecules",
+   "A compound",
+   "A mixture of two elements",
+   "A mixture of an element and a compound"
+  ],
+  "y": [
+   "Every particle is the same, and each contains only nitrogen atoms, so this is the element nitrogen in its N<sub>2</sub> form.",
+   "A compound needs two or more different elements bonded together; every atom here is the same kind.",
+   "Every particle in the box is identical, so there is only one substance, not a mixture.",
+   "There is only one kind of particle, and none of them contains two different elements."
+  ],
+  "h": "First ask: is every particle the same? Then ask: how many kinds of atoms are in each particle?",
+  "w": "All the particles are identical N<sub>2</sub> molecules, so it is a pure substance. Each molecule has only one kind of atom, so it is <b>an element</b>. Nitrogen is one of the seven elements that exist as diatomic (two-atom) molecules; the subscript 2 does not make it a compound.",
+  "d": 1,
+  "k": 0,
+  "f": [
+   {
+    "type": "particles",
+    "seed": 3,
+    "key": {
+     "N": {
+      "c": "#2f5fa8",
+      "n": "nitrogen atom",
+      "q": "N"
+     }
+    },
+    "boxes": [
+     {
+      "mols": [
+       [
+        "N",
+        "N"
+       ],
+       [
+        "N",
+        "N"
+       ],
+       [
+        "N",
+        "N"
+       ],
+       [
+        "N",
+        "N"
+       ],
+       [
+        "N",
+        "N"
+       ],
+       [
+        "N",
+        "N"
+       ],
+       [
+        "N",
+        "N"
+       ]
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c1-013",
+  "t": "ch01-classify",
+  "q": "The box models a sample of water with some oxygen gas dissolved in it. How is the sample classified?",
+  "c": [
+   "A mixture of an element and a compound",
+   "A pure compound",
+   "A mixture of two compounds",
+   "A pure element"
+  ],
+  "y": [
+   "There are two kinds of particles: H<sub>2</sub>O (a compound of H and O) and O<sub>2</sub> (an element, only O atoms).",
+   "A pure substance has only one kind of particle; this box has two.",
+   "O<sub>2</sub> contains only one kind of atom, so it is an element, not a compound.",
+   "Some particles contain two different kinds of atoms bonded together, so the sample is not just an element."
+  ],
+  "h": "Identify each kind of particle separately: does it contain one kind of atom or two?",
+  "w": "The box holds two kinds of particles that are not bonded to each other, so it is a mixture. H<sub>2</sub>O molecules contain two elements (a compound) and O<sub>2</sub> molecules contain one (an element): <b>a mixture of an element and a compound</b>. Every particle contains oxygen, but that does not make them the same substance.",
+  "d": 2,
+  "k": 0,
+  "f": [
+   {
+    "type": "particles",
+    "seed": 11,
+    "key": {
+     "H": {
+      "c": "#5f6f7b",
+      "n": "hydrogen atom",
+      "q": "H",
+      "r": 8
+     },
+     "O": {
+      "c": "#c0473b",
+      "n": "oxygen atom",
+      "q": "O"
+     }
+    },
+    "boxes": [
+     {
+      "mols": [
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "O"
+       ],
+       [
+        "O",
+        "O"
+       ],
+       [
+        "O",
+        "O"
+       ],
+       [
+        "O",
+        "O"
+       ]
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c1-014",
+  "t": "ch01-classify",
+  "q": "Which box shows a <b>pure compound</b>?",
+  "c": [
+   "B",
+   "A",
+   "C",
+   "D"
+  ],
+  "y": [
+   "Every particle in B is the same CO<sub>2</sub> molecule, made of two different elements bonded together.",
+   "A contains only one kind of atom, so it is an element, not a compound.",
+   "C contains two kinds of particles, each made of only one kind of atom: a mixture of elements.",
+   "D contains two different kinds of molecules, so it is a mixture, not a pure substance."
+  ],
+  "h": "A pure compound has one kind of particle, and that particle contains two or more different kinds of atoms.",
+  "w": "Box <b>B</b> has only CO<sub>2</sub> molecules, each with C and O bonded together, so it is a pure compound. A is the element helium, C is a mixture of two elements (N<sub>2</sub> and O<sub>2</sub>, a model of air), and D is a mixture of two compounds (CO<sub>2</sub> and H<sub>2</sub>O).",
+  "d": 2,
+  "k": 0,
+  "f": [
+   {
+    "type": "particles",
+    "seed": 21,
+    "key": {
+     "C": {
+      "c": "#333333",
+      "n": "carbon atom",
+      "q": "C",
+      "lin": true
+     },
+     "H": {
+      "c": "#5f6f7b",
+      "n": "hydrogen atom",
+      "q": "H",
+      "r": 8
+     },
+     "He": {
+      "c": "#7a5cb0",
+      "n": "helium atom",
+      "q": "He"
+     },
+     "N": {
+      "c": "#2f5fa8",
+      "n": "nitrogen atom",
+      "q": "N"
+     },
+     "O": {
+      "c": "#c0473b",
+      "n": "oxygen atom",
+      "q": "O"
+     }
+    },
+    "boxes": [
+     {
+      "mols": [
+       [
+        "He"
+       ],
+       [
+        "He"
+       ],
+       [
+        "He"
+       ],
+       [
+        "He"
+       ],
+       [
+        "He"
+       ],
+       [
+        "He"
+       ],
+       [
+        "He"
+       ],
+       [
+        "He"
+       ]
+      ],
+      "cap": "A"
+     },
+     {
+      "mols": [
+       [
+        "C",
+        "O",
+        "O"
+       ],
+       [
+        "C",
+        "O",
+        "O"
+       ],
+       [
+        "C",
+        "O",
+        "O"
+       ],
+       [
+        "C",
+        "O",
+        "O"
+       ],
+       [
+        "C",
+        "O",
+        "O"
+       ],
+       [
+        "C",
+        "O",
+        "O"
+       ]
+      ],
+      "cap": "B"
+     },
+     {
+      "mols": [
+       [
+        "N",
+        "N"
+       ],
+       [
+        "N",
+        "N"
+       ],
+       [
+        "N",
+        "N"
+       ],
+       [
+        "N",
+        "N"
+       ],
+       [
+        "O",
+        "O"
+       ],
+       [
+        "O",
+        "O"
+       ],
+       [
+        "O",
+        "O"
+       ]
+      ],
+      "cap": "C"
+     },
+     {
+      "mols": [
+       [
+        "C",
+        "O",
+        "O"
+       ],
+       [
+        "C",
+        "O",
+        "O"
+       ],
+       [
+        "C",
+        "O",
+        "O"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ]
+      ],
+      "cap": "D"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c1-015",
+  "t": "ch01-classify",
+  "q": "Which box shows a mixture of <b>an element and a compound</b>?",
+  "c": [
+   "B",
+   "A",
+   "C",
+   "D"
+  ],
+  "y": [
+   "B contains Cl<sub>2</sub> (one kind of atom, an element) mixed with HCl (two elements bonded, a compound).",
+   "A has only one kind of particle, so it is a pure substance (the compound water).",
+   "Both kinds of particles in C (NH<sub>3</sub> and H<sub>2</sub>O) contain two different elements, so C is a mixture of two compounds.",
+   "Both kinds of particles in D are single atoms of one element each, so D is a mixture of two elements."
+  ],
+  "h": "Check each kind of particle in a box: one kind of atom means element; two or more kinds bonded together means compound.",
+  "w": "Box <b>B</b> mixes Cl<sub>2</sub> molecules (an element) with HCl molecules (a compound). A is pure water, C is a mixture of two compounds (NH<sub>3</sub> and H<sub>2</sub>O), and D is a mixture of two elements (helium and argon atoms).",
+  "d": 2,
+  "k": 0,
+  "f": [
+   {
+    "type": "particles",
+    "seed": 33,
+    "key": {
+     "Ar": {
+      "c": "#a8701f",
+      "n": "argon atom",
+      "q": "Ar",
+      "r": 12
+     },
+     "Cl": {
+      "c": "#2e7d4f",
+      "n": "chlorine atom",
+      "q": "Cl",
+      "r": 12
+     },
+     "H": {
+      "c": "#5f6f7b",
+      "n": "hydrogen atom",
+      "q": "H",
+      "r": 8
+     },
+     "He": {
+      "c": "#7a5cb0",
+      "n": "helium atom",
+      "q": "He"
+     },
+     "N": {
+      "c": "#2f5fa8",
+      "n": "nitrogen atom",
+      "q": "N"
+     },
+     "O": {
+      "c": "#c0473b",
+      "n": "oxygen atom",
+      "q": "O"
+     }
+    },
+    "boxes": [
+     {
+      "mols": [
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ]
+      ],
+      "cap": "A"
+     },
+     {
+      "mols": [
+       [
+        "Cl",
+        "Cl"
+       ],
+       [
+        "Cl",
+        "Cl"
+       ],
+       [
+        "Cl",
+        "Cl"
+       ],
+       [
+        "Cl",
+        "H"
+       ],
+       [
+        "Cl",
+        "H"
+       ],
+       [
+        "Cl",
+        "H"
+       ]
+      ],
+      "cap": "B"
+     },
+     {
+      "mols": [
+       [
+        "N",
+        "H",
+        "H",
+        "H"
+       ],
+       [
+        "N",
+        "H",
+        "H",
+        "H"
+       ],
+       [
+        "N",
+        "H",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ]
+      ],
+      "cap": "C"
+     },
+     {
+      "mols": [
+       [
+        "He"
+       ],
+       [
+        "He"
+       ],
+       [
+        "He"
+       ],
+       [
+        "He"
+       ],
+       [
+        "He"
+       ],
+       [
+        "Ar"
+       ],
+       [
+        "Ar"
+       ],
+       [
+        "Ar"
+       ],
+       [
+        "Ar"
+       ]
+      ],
+      "cap": "D"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c1-016",
+  "t": "ch01-classify",
+  "q": "Air high in the atmosphere contains both O<sub>2</sub> and ozone, O<sub>3</sub>. The box models such a sample. How is it classified?",
+  "c": [
+   "A mixture of two elements",
+   "A compound of oxygen",
+   "A pure element",
+   "A mixture of an element and a compound"
+  ],
+  "y": [
+   "O<sub>2</sub> and O<sub>3</sub> are different substances, but each contains only oxygen atoms, so this is a mixture of two forms of an element.",
+   "A compound needs two or more different elements; every atom here is oxygen.",
+   "A pure substance has one kind of particle; this box has two different molecules.",
+   "Neither particle contains a second element, so neither one is a compound."
+  ],
+  "h": "Are all the particles identical? Does any particle contain more than one kind of atom?",
+  "w": "The box has two different kinds of particles (O<sub>2</sub> and O<sub>3</sub>) that are not bonded to each other, so it is a mixture. Each particle contains only oxygen atoms, so both are forms of the element oxygen: <b>a mixture of two elements</b>.",
+  "d": 3,
+  "k": 0,
+  "f": [
+   {
+    "type": "particles",
+    "seed": 9,
+    "key": {
+     "O": {
+      "c": "#c0473b",
+      "n": "oxygen atom",
+      "q": "O"
+     }
+    },
+    "boxes": [
+     {
+      "mols": [
+       [
+        "O",
+        "O"
+       ],
+       [
+        "O",
+        "O"
+       ],
+       [
+        "O",
+        "O"
+       ],
+       [
+        "O",
+        "O"
+       ],
+       [
+        "O",
+        "O",
+        "O"
+       ],
+       [
+        "O",
+        "O",
+        "O"
+       ],
+       [
+        "O",
+        "O",
+        "O"
+       ]
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c1-017",
+  "t": "ch01-classify",
+  "q": "Which substance is an <b>element</b>?",
+  "c": [
+   "Ozone, O<sub>3</sub>",
+   "Carbon monoxide, CO",
+   "Hydrogen peroxide, H<sub>2</sub>O<sub>2</sub>",
+   "Sodium chloride, NaCl"
+  ],
+  "y": [
+   "O<sub>3</sub> has only one element symbol, so it is a form of the element oxygen even though it has a subscript.",
+   "C and O are two different elements bonded together, so CO is a compound.",
+   "H and O are two different elements bonded in a fixed ratio, so this is a compound.",
+   "Na and Cl are two different elements, so NaCl is a compound."
+  ],
+  "h": "Count the different element symbols in each formula, not the subscripts.",
+  "w": "A formula with only one element symbol is an element, subscript or not, so <b>O<sub>3</sub></b> is an element. CO, H<sub>2</sub>O<sub>2</sub> and NaCl each contain two different elements bonded together, so they are compounds.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-018",
+  "t": "ch01-classify",
+  "q": "Which item is a <b>homogeneous mixture</b>?",
+  "c": [
+   "Normal saline (0.9% NaCl dissolved in water)",
+   "Whole blood",
+   "Distilled water",
+   "A bar of pure iron"
+  ],
+  "y": [
+   "Saline has salt dissolved evenly in water: uniform throughout, but its composition could be changed.",
+   "Blood looks uniform, but a microscope shows cells floating in plasma, so it is heterogeneous.",
+   "Distilled water is one substance, H<sub>2</sub>O, so it is a compound, not a mixture.",
+   "Pure iron contains only Fe atoms, so it is an element."
+  ],
+  "h": "A homogeneous mixture contains more than one substance but looks the same everywhere, even under a microscope.",
+  "w": "<b>Normal saline</b> is salt dissolved evenly in water: two substances, uniform throughout, so it is a homogeneous mixture (a solution). Whole blood is heterogeneous (cells in plasma), distilled water is a compound, and pure iron is an element.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-019",
+  "t": "ch01-classify",
+  "q": "A phlebotomist draws a tube of whole blood. Under a microscope, red cells, white cells and platelets float in a yellowish liquid. How is whole blood classified?",
+  "c": [
+   "Heterogeneous mixture",
+   "Homogeneous mixture",
+   "Compound",
+   "Element"
+  ],
+  "y": [
+   "The microscope shows regions that differ (cells and liquid), so the mixture is not uniform: heterogeneous.",
+   "A homogeneous mixture looks the same everywhere, even under a microscope; blood does not.",
+   "Blood contains many substances physically mixed, with no fixed composition, so it is not a compound.",
+   "Blood contains many kinds of atoms and substances, so it is not an element."
+  ],
+  "h": "Does blood look the same everywhere when you look closely enough?",
+  "w": "Blood looks uniform to the eye, but the microscope shows cells suspended in plasma, and spinning it separates layers. That makes whole blood a <b>heterogeneous mixture</b>. (Plasma by itself, water with dissolved salts, glucose and proteins, is a homogeneous mixture.)",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-020",
+  "t": "ch01-classify",
+  "q": "Which element does <b>not</b> exist as diatomic molecules under normal conditions?",
+  "c": [
+   "Neon",
+   "Bromine",
+   "Hydrogen",
+   "Nitrogen"
+  ],
+  "y": [
+   "Neon is a noble gas whose atoms stay single; it is not one of the diatomic seven.",
+   "Bromine is one of the diatomic seven (Br<sub>2</sub>), in the halogen column.",
+   "Hydrogen is one of the diatomic seven (H<sub>2</sub>), sitting alone at the top left.",
+   "Nitrogen is one of the diatomic seven (N<sub>2</sub>), at the start of the &ldquo;7&rdquo; shape."
+  ],
+  "h": "The diatomic seven are H, N, O, F, Cl, Br and I.",
+  "w": "The seven diatomic elements are H<sub>2</sub>, N<sub>2</sub>, O<sub>2</sub>, F<sub>2</sub>, Cl<sub>2</sub>, Br<sub>2</sub> and I<sub>2</sub>. <b>Neon</b> is not on that list; its atoms exist singly.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-021",
+  "t": "ch01-classify",
+  "q": "A clinical lab needs to separate the plasma from the blood cells in a blood sample quickly. Which method uses the difference in density between the parts?",
+  "c": [
+   "Centrifugation",
+   "Distillation",
+   "Filtration through a coffee filter",
+   "Evaporation"
+  ],
+  "y": [
+   "Spinning the tube forces the denser cells to the bottom and leaves plasma on top, using differences in density.",
+   "Distillation uses differences in boiling point and would boil and damage the sample.",
+   "Filtration separates by particle size, and a coffee filter would not separate cells from plasma well.",
+   "Evaporation drives off the liquid, which would destroy the plasma rather than collect it."
+  ],
+  "h": "Which method spins a sample so the denser parts settle?",
+  "w": "<b>Centrifugation</b> spins the tube so the denser red blood cells pack at the bottom and the less dense plasma rises to the top. Separation methods work because the parts of a mixture are not bonded; each method uses a physical property (here, density).",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-022",
+  "t": "ch01-classify",
+  "q": "Which method would best separate ethanol from water in a mixture of the two liquids?",
+  "c": [
+   "Distillation",
+   "Filtration",
+   "Decanting",
+   "Using a magnet"
+  ],
+  "y": [
+   "Ethanol and water boil at different temperatures, so the one that boils first can be collected as vapor and condensed.",
+   "Filtration separates a solid from a liquid by particle size; both of these are dissolved liquids that pass through.",
+   "Decanting needs separate layers, but ethanol and water mix completely.",
+   "Neither ethanol nor water is attracted to a magnet."
+  ],
+  "h": "The two liquids mix completely. What property differs between them?",
+  "w": "Ethanol (boiling point 78 &deg;C) and water (100 &deg;C) form a homogeneous mixture, so you cannot filter or pour them apart. <b>Distillation</b> uses the difference in boiling point: ethanol vaporizes first and is condensed and collected.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c1-023",
+  "t": "ch01-states",
+  "q": "Which state of matter has <b>both</b> a definite shape and a definite volume?",
+  "c": [
+   "Solid",
+   "Liquid",
+   "Gas",
+   "Both liquid and gas"
+  ],
+  "y": [
+   "Solid particles are packed and vibrate in place, so a solid keeps its own shape and volume.",
+   "A liquid has a definite volume but takes the shape of its container.",
+   "A gas has neither a definite shape nor a definite volume; it fills its container.",
+   "Neither liquids nor gases keep their own shape."
+  ],
+  "h": "Which state keeps its shape when you move it to a new container?",
+  "w": "Only a <b>solid</b> has a definite shape and a definite volume, because its particles are packed closely and can only vibrate in place. Liquids keep their volume but not their shape; gases keep neither.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-024",
+  "t": "ch01-states",
+  "q": "A 75 mL sample is poured from a beaker into a 250 mL flask. It settles into the bottom of the flask, still occupies 75 mL, and takes the flask's shape. What state is it in?",
+  "c": [
+   "Liquid",
+   "Solid",
+   "Gas",
+   "It cannot be determined"
+  ],
+  "y": [
+   "Its volume stayed the same but its shape changed to fit the container: definite volume, no definite shape.",
+   "A solid would keep its own shape instead of taking the flask's shape.",
+   "A gas would expand to fill all 250 mL of the flask.",
+   "The two clues (volume kept, shape changed) are enough to name the state."
+  ],
+  "h": "Check two things: did the volume change, and did the shape change?",
+  "w": "The sample kept its volume (75 mL) but took the shape of the flask. That is a <b>liquid</b>: its particles touch, so the volume stays fixed, but they slide past one another, so it flows. A gas would have filled the whole 250 mL flask.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-025",
+  "t": "ch01-states",
+  "q": "Which description fits the particles of a <b>gas</b>?",
+  "c": [
+   "Far apart, moving fast and randomly until they collide",
+   "Touching, and sliding past one another",
+   "Packed closely and vibrating in fixed positions",
+   "Touching and not moving at all"
+  ],
+  "y": [
+   "Gas particles are far apart with mostly empty space between them, and they move fast in straight lines between collisions.",
+   "Touching particles that slide past each other describe a liquid.",
+   "Closely packed particles vibrating in place describe a solid.",
+   "Particles are always moving; even in a solid they vibrate."
+  ],
+  "h": "Describe two things: how far apart the particles are, and how they move.",
+  "w": "In a <b>gas</b> the particles are far apart and move fast and randomly until they hit each other or the container walls. Liquid particles touch but slide past each other; solid particles are packed and vibrate in place.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-026",
+  "t": "ch01-states",
+  "q": "Which statement about the particles in a solid, such as a piece of ice, is correct?",
+  "c": [
+   "They vibrate in place.",
+   "They do not move at all.",
+   "They are far apart from one another.",
+   "They slide freely past one another."
+  ],
+  "y": [
+   "Solid particles are held in place by their neighbors but still vibrate back and forth.",
+   "A common mistake: solid particles do move; they vibrate in place.",
+   "Solid particles are packed closely together, not far apart.",
+   "Sliding past one another describes a liquid, which is why liquids flow."
+  ],
+  "h": "Solid particles are not frozen in time. What kind of motion can they still have?",
+  "w": "The particles in a solid are packed closely and held in position, but they <b>vibrate in place</b>. They do not stop moving, and they do not slide past each other (that is a liquid).",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-027",
+  "t": "ch01-states",
+  "q": "A respiratory therapist notes that a small steel cylinder holds hundreds of liters of oxygen gas at room pressure. Using the particle view, why can a gas be squeezed into such a small tank?",
+  "c": [
+   "Gas particles are far apart, so most of a gas's volume is empty space that can be removed.",
+   "Gas particles shrink when they are put under pressure.",
+   "Gas particles touch one another, so they can be stacked more neatly.",
+   "Some of the gas particles are destroyed when the gas is compressed."
+  ],
+  "y": [
+   "Pushing gas particles closer together only removes empty space, so the gas compresses easily.",
+   "The particles themselves keep their size; it is the space between them that shrinks.",
+   "Gas particles do not touch; touching particles (liquids and solids) barely compress.",
+   "Compressing a gas does not destroy any particles; the same particles just sit closer together."
+  ],
+  "h": "Think about what is between the particles of a gas.",
+  "w": "Gas particles are far apart, so a gas is mostly empty space. Compressing it pushes the particles closer together and removes some of that space, which is why a gas is <b>easily compressible</b>. The particles do not shrink or disappear.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c1-028",
+  "t": "ch01-states",
+  "q": "One sealed syringe holds 20 mL of air and another holds 20 mL of water. You push hard on each plunger. What happens?",
+  "c": [
+   "The air compresses noticeably; the water barely compresses.",
+   "Both compress by about the same amount.",
+   "The water compresses noticeably; the air barely compresses.",
+   "Neither compresses at all."
+  ],
+  "y": [
+   "Air is a gas with lots of empty space between particles; water's particles already touch, leaving little space to remove.",
+   "Liquids and gases compress very differently because their particle spacing is so different.",
+   "This is reversed: liquid particles touch, so a liquid barely compresses.",
+   "Gases do compress, because their particles are far apart."
+  ],
+  "h": "Compare how much empty space is between the particles in a gas and in a liquid.",
+  "w": "<b>The air compresses; the water barely does.</b> Gas particles are far apart, so pushing removes empty space. Liquid particles already touch, so there is almost no space to remove.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-029",
+  "t": "ch01-states",
+  "q": "Which of these solids is <b>amorphous</b> rather than crystalline?",
+  "c": [
+   "Window glass",
+   "Table salt",
+   "Ice",
+   "Quartz"
+  ],
+  "y": [
+   "Glass particles are jumbled with no regular repeating pattern, which makes it amorphous.",
+   "Salt is made of ions in a regular repeating pattern, so it is crystalline.",
+   "Water molecules in ice sit in a regular repeating pattern, so ice is crystalline.",
+   "Quartz has a regular repeating arrangement of atoms, so it is crystalline."
+  ],
+  "h": "Crystalline solids have particles in a regular, repeating pattern. Which one has jumbled particles?",
+  "w": "<b>Glass</b> is an amorphous solid: it holds its shape, but its particles are disordered. Table salt, ice and quartz are crystalline, with particles arranged in regular, repeating patterns.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c1-030",
+  "t": "ch01-states",
+  "q": "Tooth enamel is built around hydroxyapatite, a calcium phosphate mineral whose particles sit in a regular, repeating pattern. How is enamel best described?",
+  "c": [
+   "A crystalline solid",
+   "An amorphous solid",
+   "A liquid",
+   "A gas"
+  ],
+  "y": [
+   "Particles in a regular, repeating pattern are what make a solid crystalline.",
+   "Amorphous solids have jumbled particles, not a regular repeating pattern.",
+   "Enamel keeps its shape under the force of chewing, which a liquid cannot do.",
+   "A gas has neither a definite shape nor a definite volume; enamel has both."
+  ],
+  "h": "The question tells you how the particles are arranged. Which kind of solid has a repeating pattern?",
+  "w": "Enamel keeps a definite shape and volume, so it is a solid, and its mineral particles repeat in a regular pattern, so it is a <b>crystalline solid</b>. That ordered packing is part of why enamel is the hardest tissue in the body.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c1-031",
+  "t": "ch01-states",
+  "q": "Which statement correctly describes the particles in a <b>liquid</b>?",
+  "c": [
+   "They touch one another but are not held in fixed positions.",
+   "They are far apart with mostly empty space between them.",
+   "They are locked in fixed positions in a regular pattern.",
+   "They are spread evenly through the whole container."
+  ],
+  "y": [
+   "Liquid particles are close enough to touch (so the volume stays fixed) but free to slide past each other (so it flows).",
+   "A common mistake: far-apart particles describe a gas, not a liquid.",
+   "Fixed positions in a regular pattern describe a crystalline solid.",
+   "Spreading through the whole container is what gas particles do."
+  ],
+  "h": "Liquids barely compress. What does that tell you about the space between their particles?",
+  "w": "Liquid particles <b>touch but can move past one another</b>. Because they touch, a liquid barely compresses and has a definite volume; because they slide, it flows and takes the shape of its container.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-032",
+  "t": "ch01-states",
+  "q": "In the lungs, oxygen spreads out to fill each alveolus (a tiny air sac) completely. Which property of gases does this show?",
+  "c": [
+   "A gas has no definite volume; it expands to fill its container.",
+   "A gas has a definite shape.",
+   "A gas has a definite volume but no definite shape.",
+   "A gas cannot move from one place to another."
+  ],
+  "y": [
+   "Gas particles are far apart and move freely, so a gas spreads to fill whatever space it is in.",
+   "Gases have no shape of their own; they take the shape of the space they fill.",
+   "A definite volume with no definite shape describes a liquid.",
+   "Gas particles move fast, which is why gases spread out and move in and out of the lungs."
+  ],
+  "h": "Does a gas keep its own volume, or does it fill the space it is in?",
+  "w": "A gas has <b>no definite volume or shape</b>: its fast, far-apart particles spread to fill the entire container, here each alveolus. A liquid would only fill the bottom of the space it occupies.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-033",
+  "t": "ch01-charge",
+  "q": "A sodium ion, Na<sup>+</sup>, and a chloride ion, Cl<sup>&minus;</sup>, are near each other. What happens?",
+  "c": [
+   "They attract.",
+   "They repel.",
+   "They neither attract nor repel.",
+   "They attract only if they touch."
+  ],
+  "y": [
+   "One is positive and one is negative, and opposite charges attract.",
+   "Repulsion happens between like charges (+ and +, or &minus; and &minus;).",
+   "Both particles are charged, so there is a force between them.",
+   "The force acts across a distance; it gets stronger as they come closer, but it does not need contact."
+  ],
+  "h": "Compare the signs of the two charges.",
+  "w": "Na<sup>+</sup> is positive and Cl<sup>&minus;</sup> is negative. Opposite charges <b>attract</b>, and this attraction is what holds table salt together.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-034",
+  "t": "ch01-charge",
+  "q": "A calcium ion, Ca<sup>2+</sup>, and a sodium ion, Na<sup>+</sup>, are near each other. What happens?",
+  "c": [
+   "They repel, because both are positive.",
+   "They attract, because Ca<sup>2+</sup> is more positive than Na<sup>+</sup>.",
+   "They attract, because their charges have different sizes.",
+   "They neither attract nor repel."
+  ],
+  "y": [
+   "Only the signs decide the direction; two positive charges always repel.",
+   "A common mistake: being &ldquo;more positive&rdquo; does not make two positive charges attract.",
+   "The size of the charges affects how strong the force is, not whether it attracts or repels.",
+   "Both ions are charged, so there is a force between them."
+  ],
+  "h": "Direction (attract or repel) depends only on the signs, not the sizes, of the charges.",
+  "w": "Both ions are positive, and like charges <b>repel</b>. The sizes (2+ and 1+) change how strong the push is, not its direction.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-035",
+  "t": "ch01-charge",
+  "q": "Four pairs of ions are each held the same distance apart. Which pair attracts <b>most strongly</b>?",
+  "c": [
+   "Mg<sup>2+</sup> and O<sup>2&minus;</sup>",
+   "Na<sup>+</sup> and Cl<sup>&minus;</sup>",
+   "K<sup>+</sup> and Br<sup>&minus;</sup>",
+   "Ca<sup>2+</sup> and Mg<sup>2+</sup>"
+  ],
+  "y": [
+   "At the same distance, the pair with the largest opposite charges (2+ and 2&minus;) attracts most strongly.",
+   "These are opposite charges, but only 1+ and 1&minus;, smaller than another pair's.",
+   "These attract, but with charges of only 1+ and 1&minus;.",
+   "Both ions are positive, so this pair repels rather than attracts."
+  ],
+  "h": "The distance is the same for every pair, so compare the sizes of the charges, and make sure the pair really attracts.",
+  "w": "At the same distance, larger charges give a stronger force. <b>Mg<sup>2+</sup> and O<sup>2&minus;</sup></b> have charges of 2+ and 2&minus;, so they attract more strongly than the 1+/1&minus; pairs. Ca<sup>2+</sup> and Mg<sup>2+</sup> are both positive, so they repel.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c1-036",
+  "t": "ch01-charge",
+  "q": "A K<sup>+</sup> ion and an F<sup>&minus;</sup> ion move from 4 nm apart to 1 nm apart. How does the force between them change?",
+  "c": [
+   "The attraction gets stronger.",
+   "The attraction gets weaker.",
+   "The attraction stays the same.",
+   "The force changes from attraction to repulsion."
+  ],
+  "y": [
+   "The force between charges strengthens as the charges come closer together.",
+   "The force weakens as charges move apart, not as they move closer.",
+   "Distance matters: the same two charges attract more strongly when they are closer.",
+   "The signs did not change (still + and &minus;), so they still attract."
+  ],
+  "h": "The charges did not change. What did change, and which way does that push the strength of the force?",
+  "w": "The charges stay 1+ and 1&minus;, so they still attract, but the distance shrank. Charges pull on each other more strongly when they are closer, so <b>the attraction gets stronger</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-037",
+  "t": "ch01-charge",
+  "q": "What must happen to pull a Na<sup>+</sup> ion and a Cl<sup>&minus;</sup> ion farther apart?",
+  "c": [
+   "Energy must be added, because the opposite charges attract each other.",
+   "Energy is released, because the ions want to separate.",
+   "No energy is involved, because the ions are neutral.",
+   "Energy is released, because like charges repel."
+  ],
+  "y": [
+   "Opposite charges attract, so pulling them apart works against that attraction and takes energy.",
+   "Opposite charges pull toward each other; separating them costs energy rather than releasing it.",
+   "The ions are charged (+ and &minus;), not neutral.",
+   "Na<sup>+</sup> and Cl<sup>&minus;</sup> have opposite charges, not like charges."
+  ],
+  "h": "Think of pulling two magnets apart that are stuck together.",
+  "w": "Because opposite charges attract, separating them is like pulling two magnets apart: <b>energy must be added</b>. When opposite charges come together, energy is released. This is why breaking up an ionic solid takes energy.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c1-038",
+  "t": "ch01-charge",
+  "q": "Two protons (each with a 1+ charge) are pushed closer and closer together. Which statement is correct?",
+  "c": [
+   "The repulsion grows stronger, and pushing them together takes energy.",
+   "The protons begin to attract once they are close enough.",
+   "The repulsion gets weaker as they come closer.",
+   "Pushing them together releases energy."
+  ],
+  "y": [
+   "Like charges repel, the force grows as the distance shrinks, and forcing like charges together takes energy.",
+   "Two positive charges repel at every distance in this model; they never start attracting.",
+   "Electric forces get stronger, not weaker, as the charges move closer.",
+   "Energy is released when opposite charges come together, not like charges."
+  ],
+  "h": "First decide attract or repel from the signs; then think about what closer distance does to the force.",
+  "w": "Two positive charges repel, and the push gets stronger as they get closer. Forcing like charges together works against that push, so it <b>takes energy</b>. (Energy is released only when opposite charges come together.)",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c1-039",
+  "t": "ch01-charge",
+  "q": "An atom has 11 protons (each 1+) and 11 electrons (each 1&minus;). What is its overall charge?",
+  "c": [
+   "0 (it is electrically neutral)",
+   "11+",
+   "11&minus;",
+   "22+"
+  ],
+  "y": [
+   "Equal amounts of positive and negative charge cancel, so the net charge is zero.",
+   "This counts the protons but forgets the 11 electrons that cancel them.",
+   "This counts the electrons but forgets the 11 protons that cancel them.",
+   "Electrons carry negative charge, so they subtract from the protons instead of adding."
+  ],
+  "h": "Add the positive charges and the negative charges together.",
+  "w": "11 positive charges and 11 negative charges add to (+11) + (&minus;11) = 0, so the atom is <b>electrically neutral</b>. An atom becomes an ion only when it gains or loses electrons.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-040",
+  "t": "ch01-charge",
+  "q": "On a dry winter day in Fresno, you rub a balloon on your hair. Electrons move from your hair onto the balloon, and the balloon then clings to your hair. Why?",
+  "c": [
+   "The balloon becomes negative, your hair becomes positive, and opposite charges attract.",
+   "Both become negative, and like charges attract.",
+   "Both become positive, and like charges attract.",
+   "The balloon becomes positive because it gained electrons."
+  ],
+  "y": [
+   "Gaining electrons makes the balloon negative; losing them leaves the hair positive; + and &minus; attract.",
+   "Like charges repel, and the hair lost electrons, so it cannot become negative.",
+   "Like charges repel, and the balloon gained electrons, so it cannot become positive.",
+   "Electrons are negative, so gaining them makes an object negative, not positive."
+  ],
+  "h": "Electrons are negative. Which object gained them, and which object lost them?",
+  "w": "The balloon gains negative electrons and becomes negative; your hair loses them and is left positive. <b>Opposite charges attract</b>, so the balloon clings to your hair.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c1-041",
+  "t": "ch01-charge",
+  "q": "In a resting nerve cell, the inside of the membrane is slightly negative compared with the outside. When sodium channels open, Na<sup>+</sup> ions rush into the cell. Which idea best explains why?",
+  "c": [
+   "Positive Na<sup>+</sup> ions are attracted to the negative interior.",
+   "Positive Na<sup>+</sup> ions are repelled by the negative interior.",
+   "Na<sup>+</sup> ions are neutral, so charge plays no role.",
+   "Like charges attract, so Na<sup>+</sup> moves toward other positive ions."
+  ],
+  "y": [
+   "Opposite charges attract, so the positive ions are pulled toward the negative inside of the cell.",
+   "Repulsion happens between like charges; + and &minus; attract.",
+   "Na<sup>+</sup> carries a 1+ charge; the plus sign shows it is an ion, not neutral.",
+   "Like charges repel; they do not attract."
+  ],
+  "h": "Compare the charge of Na<sup>+</sup> with the charge on the inside of the cell.",
+  "w": "The Na<sup>+</sup> ions are positive and the cell interior is negative, so <b>opposite charges attract</b> and pull the ions inward. Keeping the charges separated beforehand costs the cell energy, which it spends running ion pumps.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c1-042",
+  "t": "ch01-charge",
+  "q": "Inside an X-ray tube, electrons released from a heated filament (the cathode) speed toward a target (the anode). What charge must the anode have to pull the electrons toward it?",
+  "c": [
+   "Positive, because opposite charges attract",
+   "Negative, because like charges attract",
+   "Neutral, because electrons need no force to move",
+   "Negative, so it can repel the electrons forward"
+  ],
+  "y": [
+   "Electrons are negative, so a positive anode attracts them and speeds them up.",
+   "Like charges repel; a negative anode would push the electrons away from it.",
+   "The electrons speed up because a force acts on them; a neutral target would not pull them.",
+   "A negative anode would repel the electrons back toward the cathode, not draw them to the target."
+  ],
+  "h": "What sign do electrons have, and what sign would pull them toward the target?",
+  "w": "Electrons carry negative charge. A <b>positive</b> anode attracts them, and the large voltage across the tube makes that attraction strong, so the electrons strike the anode with enough energy to produce X-rays.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c1-043",
+  "t": "ch01-change",
+  "q": "Which statement describes a <b>chemical property</b> of iron?",
+  "c": [
+   "Iron rusts in moist air.",
+   "Iron melts at 1538 &deg;C.",
+   "Iron is gray and shiny.",
+   "Iron is attracted to a magnet."
+  ],
+  "y": [
+   "Rusting turns iron into a new substance (iron oxide), so the tendency to rust is a chemical property.",
+   "Melting point is measured without changing iron into a new substance, so it is a physical property.",
+   "Color and luster can be observed without changing the iron, so they are physical properties.",
+   "Being attracted to a magnet does not change the iron into anything new, so it is a physical property."
+  ],
+  "h": "A chemical property describes how a substance can turn into a different substance.",
+  "w": "A chemical property can only be observed by trying a change that forms a new substance. <b>Iron rusting</b> forms iron oxide, so it is a chemical property. Melting point, color and magnetism are observed without changing iron's identity, so they are physical properties.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-044",
+  "t": "ch01-change",
+  "q": "Which of these is a <b>chemical</b> change?",
+  "c": [
+   "An egg white turns solid and white as it cooks",
+   "An ice cube melts on a tray",
+   "Sugar dissolves in hot coffee",
+   "A tablet is split in half"
+  ],
+  "y": [
+   "Cooking changes the proteins in egg white into new forms that do not change back when cooled, so new substances form.",
+   "Melting only changes the state; the water molecules are still H<sub>2</sub>O.",
+   "Dissolving is physical; evaporating the coffee's water would give the sugar back.",
+   "Splitting a tablet changes its size, not what it is made of."
+  ],
+  "h": "Ask: is it still the same stuff afterward, and could you get the original back just by cooling, drying or picking pieces apart?",
+  "w": "Cooking an egg is a <b>chemical change</b>: the proteins are changed into new forms with different properties, and cooling does not undo it. Melting, dissolving and splitting change form or state but not the identity of the substance.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-045",
+  "t": "ch01-change",
+  "q": "A pot of water is heated on a stove and bubbles form throughout the liquid. What kind of change is this, and why?",
+  "c": [
+   "Physical, because the bubbles are water vapor and no new substance forms",
+   "Chemical, because bubbles always mean a new gas formed",
+   "Chemical, because heat was added",
+   "Physical, because the water breaks into hydrogen and oxygen gas"
+  ],
+  "y": [
+   "The bubbles in boiling water are H<sub>2</sub>O in the gas state; only the state changed.",
+   "Bubbles are a clue, not proof; boiling makes bubbles without forming a new substance.",
+   "Supplying heat does not by itself make a change chemical; many physical changes need heat.",
+   "If water broke into hydrogen and oxygen, that would be a chemical change, and boiling does not do that."
+  ],
+  "h": "What gas is inside the bubbles of boiling water?",
+  "w": "Boiling is vaporization, a <b>physical change</b>: the bubbles are water vapor, still H<sub>2</sub>O. Bubbles signal a chemical change only when they form without boiling (for example, peroxide foaming on a wound).",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-046",
+  "t": "ch01-change",
+  "q": "A nurse takes a cold IV bag out of the medication refrigerator, and water droplets form on the outside of the bag. What is the name of this change of state?",
+  "c": [
+   "Condensation",
+   "Evaporation",
+   "Deposition",
+   "Melting"
+  ],
+  "y": [
+   "Water vapor in the room air cools on the cold bag and turns from a gas into liquid droplets.",
+   "Evaporation is liquid turning into gas, the reverse of what forms the droplets.",
+   "Deposition is gas turning directly into a solid, like frost; these droplets are liquid.",
+   "Melting is a solid turning into a liquid; nothing solid was involved here."
+  ],
+  "h": "The droplets came from water vapor in the air. Which change goes from gas to liquid?",
+  "w": "Water vapor in the air touches the cold bag, cools, and becomes liquid droplets: <b>condensation</b> (gas &rarr; liquid). Like every change of state, it is a physical change; the molecules are still H<sub>2</sub>O.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-047",
+  "t": "ch01-change",
+  "q": "On winter mornings, tule fog forms in the Central Valley when water vapor near the cold ground turns into tiny liquid droplets that hang in the air. How is the formation of tule fog classified?",
+  "c": [
+   "Condensation, a physical change",
+   "Condensation, a chemical change",
+   "Sublimation, a physical change",
+   "Vaporization, a chemical change"
+  ],
+  "y": [
+   "Gas becoming liquid is condensation, and the water molecules do not change, so it is physical.",
+   "The name is right, but changes of state are physical changes; no new substance forms.",
+   "Sublimation goes from solid directly to gas; fog forms from gas becoming liquid.",
+   "Vaporization goes from liquid to gas, and changes of state are never chemical changes."
+  ],
+  "h": "Name the starting and ending states, then ask whether any new substance formed.",
+  "w": "Water vapor (gas) becomes liquid droplets: <b>condensation, a physical change</b>. When the sun warms the air, the droplets evaporate and the fog lifts; the water molecules never change, only their state.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-048",
+  "t": "ch01-change",
+  "q": "In the catalase test, a microbiology student adds a drop of hydrogen peroxide to a bit of a bacterial colony and the drop bubbles vigorously as oxygen gas forms. What does the bubbling show?",
+  "c": [
+   "A chemical change: peroxide is broken down into new substances, water and oxygen",
+   "A physical change: the peroxide is boiling",
+   "A physical change: the peroxide is evaporating",
+   "A physical change: oxygen was already dissolved and is escaping"
+  ],
+  "y": [
+   "A new gas forms without heating because H<sub>2</sub>O<sub>2</sub> is broken into new substances, water and O<sub>2</sub>.",
+   "Nothing was heated, and the gas is oxygen, a new substance, not peroxide vapor.",
+   "Evaporation would not make vigorous bubbles of a new gas, oxygen.",
+   "The oxygen is produced as the enzyme catalase breaks down peroxide; it was not simply dissolved there before."
+  ],
+  "h": "Gas forming without boiling is one of the signs of a chemical change. What new substances form?",
+  "w": "The bacterium's enzyme, catalase, breaks hydrogen peroxide into water and oxygen gas. New substances form, so the bubbling is a <b>chemical change</b>. Catalase-positive bacteria, such as <i>Staphylococcus</i>, bubble; bacteria without catalase do not.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c1-049",
+  "t": "ch01-change",
+  "q": "Which of these properties of a silver ring is <b>extensive</b>?",
+  "c": [
+   "Volume",
+   "Melting point",
+   "Color",
+   "Density"
+  ],
+  "y": [
+   "Volume depends on how much silver there is, so it is extensive.",
+   "Melting point is the same for a speck or a bar of silver, so it is intensive.",
+   "Color does not depend on the amount of silver, so it is intensive.",
+   "Density is mass divided by volume, which stays the same for any amount, so it is intensive."
+  ],
+  "h": "An extensive property changes if you have more or less of the sample.",
+  "w": "Extensive properties depend on the amount of sample: <b>volume</b> (and mass) would double for a ring twice as large. Melting point, color and density are intensive; they are the same for any amount, which makes them useful for identifying a substance.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-050",
+  "t": "ch01-change",
+  "q": "A lab note reads: &ldquo;The acetone spilled on the bench evaporated within a few minutes.&rdquo; How is this best classified?",
+  "c": [
+   "A physical change",
+   "A chemical change",
+   "A physical property",
+   "A chemical property"
+  ],
+  "y": [
+   "Something happened (an event), and the acetone is still acetone, now as a gas: a physical change.",
+   "No new substance formed; evaporation only changes the state.",
+   "A property describes what a substance is or can do; this note describes an event that happened.",
+   "A property is not an event, and evaporation does not form a new substance."
+  ],
+  "h": "First decide: property (a description) or change (an event)? Then: did a new substance form?",
+  "w": "The note describes an event, so it is a change, and evaporation forms no new substance, so it is a <b>physical change</b>. &ldquo;Acetone evaporates easily&rdquo; would be a physical property; &ldquo;acetone is flammable&rdquo; would be a chemical property.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c1-051",
+  "t": "ch01-change",
+  "q": "A dental hygienist paints a liquid sealant onto a molar and shines a curing light on it. The light triggers a reaction that links the small molecules of the liquid into a hard, solid plastic that will not melt back into the original liquid. What kind of change is this?",
+  "c": [
+   "Chemical, because new substances with different properties form",
+   "Physical, because the sealant only changed from liquid to solid",
+   "Physical, because light was the only thing added",
+   "Chemical, because every change from liquid to solid is chemical"
+  ],
+  "y": [
+   "The small molecules are joined into new, larger molecules, and the change cannot be reversed by warming, so new substances formed.",
+   "Freezing is physical, but here the molecules themselves were linked into new ones; it is not simple freezing.",
+   "Adding light does not make a change physical; what matters is whether new substances form.",
+   "Freezing water is liquid to solid and is physical, so this rule is not true."
+  ],
+  "h": "Is the hardened sealant still the same substance as the liquid, just colder or in a new state?",
+  "w": "The curing light starts a reaction that joins small molecules into a new, solid plastic that does not turn back into the liquid. New substances formed, so it is a <b>chemical change</b>, even though it looks like a liquid becoming a solid.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c1-052",
+  "t": "ch01-change",
+  "q": "The diagram shows a sample before and after a change. What kind of change is shown?",
+  "c": [
+   "Chemical: water molecules were broken down and new H<sub>2</sub> and O<sub>2</sub> molecules formed",
+   "Physical: water changed from liquid to gas",
+   "Physical: the same molecules were only moved farther apart",
+   "Chemical: some atoms were destroyed"
+  ],
+  "y": [
+   "The After box has new particles (H<sub>2</sub> and O<sub>2</sub>) that were not in the Before box, so atoms were rearranged into new substances.",
+   "Water vapor would still be H<sub>2</sub>O molecules, but the After box has no H<sub>2</sub>O at all.",
+   "The particles after are different molecules, not the same molecules spread out.",
+   "Count the atoms: 8 H and 4 O before, 8 H and 4 O after. Atoms are rearranged, not destroyed."
+  ],
+  "h": "Compare the kinds of particles in the two boxes. Are they the same molecules?",
+  "w": "Before: 4 H<sub>2</sub>O. After: 4 H<sub>2</sub> and 2 O<sub>2</sub>. The atoms (8 H and 4 O) are all still there but are rearranged into new substances, so this is a <b>chemical change</b> (the decomposition of water, which happens when an electric current is passed through it).",
+  "d": 2,
+  "k": 0,
+  "f": [
+   {
+    "type": "particles",
+    "seed": 8,
+    "key": {
+     "H": {
+      "c": "#5f6f7b",
+      "n": "hydrogen atom",
+      "q": "H",
+      "r": 8
+     },
+     "O": {
+      "c": "#c0473b",
+      "n": "oxygen atom",
+      "q": "O"
+     }
+    },
+    "boxes": [
+     {
+      "mols": [
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ]
+      ],
+      "cap": "Before"
+     },
+     {
+      "mols": [
+       [
+        "H",
+        "H"
+       ],
+       [
+        "H",
+        "H"
+       ],
+       [
+        "H",
+        "H"
+       ],
+       [
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "O"
+       ],
+       [
+        "O",
+        "O"
+       ]
+      ],
+      "cap": "After"
+     }
+    ],
+    "arrow": true
+   }
+  ]
+ },
+ {
+  "id": "c1-053",
+  "t": "ch01-change",
+  "q": "The diagram shows a sample before and after a change. Which statement best describes it?",
+  "c": [
+   "A physical change: the particles are the same H<sub>2</sub>O molecules before and after",
+   "A chemical change: new molecules formed",
+   "A chemical change: the molecules lost some of their atoms",
+   "A physical change: the water became a new element"
+  ],
+  "y": [
+   "Every particle in both boxes is an H<sub>2</sub>O molecule, so the substance did not change identity.",
+   "No new kind of molecule appears in the After box.",
+   "Each molecule still has 2 H and 1 O in both boxes.",
+   "Water is a compound, and the particles after are still H<sub>2</sub>O, not a new element."
+  ],
+  "h": "Look at what each particle is made of in both boxes.",
+  "w": "Both boxes contain only H<sub>2</sub>O molecules. Whatever happened (melting, evaporating or just warming), the particles kept their identity, so it is a <b>physical change</b>. A particle diagram of a chemical change would show new kinds of particles after.",
+  "d": 1,
+  "k": 0,
+  "f": [
+   {
+    "type": "particles",
+    "seed": 14,
+    "key": {
+     "H": {
+      "c": "#5f6f7b",
+      "n": "hydrogen atom",
+      "q": "H",
+      "r": 8
+     },
+     "O": {
+      "c": "#c0473b",
+      "n": "oxygen atom",
+      "q": "O"
+     }
+    },
+    "boxes": [
+     {
+      "mols": [
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ]
+      ],
+      "cap": "Before"
+     },
+     {
+      "mols": [
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ],
+       [
+        "O",
+        "H",
+        "H"
+       ]
+      ],
+      "cap": "After"
+     }
+    ],
+    "arrow": true
+   }
+  ]
+ },
+ {
+  "id": "c1-054",
+  "t": "ch01-change",
+  "q": "The diagram shows nitrogen and hydrogen before and after a reaction that makes ammonia, NH<sub>3</sub>, a fertilizer widely used on Valley farms. Which statement is correct?",
+  "c": [
+   "The atoms are rearranged into new molecules, and the number of each kind of atom stays the same.",
+   "The atoms are rearranged, and some nitrogen atoms are destroyed.",
+   "No new substance forms, so this is a physical change.",
+   "New atoms are created to build the ammonia molecules."
+  ],
+  "y": [
+   "Before: 4 N and 12 H atoms. After: 4 NH<sub>3</sub> also has 4 N and 12 H. New molecules, same atoms.",
+   "Count the N atoms: 4 before (in 2 N<sub>2</sub>) and 4 after (in 4 NH<sub>3</sub>). None are destroyed.",
+   "NH<sub>3</sub> is a new substance that was not present before, so this is a chemical change.",
+   "Atoms are never created in a chemical change; the 12 H atoms after were all there before."
+  ],
+  "h": "Count each kind of atom in the Before box and in the After box.",
+  "w": "Before: 2 N<sub>2</sub> + 6 H<sub>2</sub> = 4 N and 12 H atoms. After: 4 NH<sub>3</sub> = 4 N and 12 H atoms. In a chemical change <b>atoms are rearranged into new substances, but none are created or destroyed</b>; this is why mass is conserved.",
+  "d": 2,
+  "k": 0,
+  "f": [
+   {
+    "type": "particles",
+    "seed": 26,
+    "key": {
+     "H": {
+      "c": "#5f6f7b",
+      "n": "hydrogen atom",
+      "q": "H",
+      "r": 8
+     },
+     "N": {
+      "c": "#2f5fa8",
+      "n": "nitrogen atom",
+      "q": "N"
+     }
+    },
+    "boxes": [
+     {
+      "mols": [
+       [
+        "N",
+        "N"
+       ],
+       [
+        "N",
+        "N"
+       ],
+       [
+        "H",
+        "H"
+       ],
+       [
+        "H",
+        "H"
+       ],
+       [
+        "H",
+        "H"
+       ],
+       [
+        "H",
+        "H"
+       ],
+       [
+        "H",
+        "H"
+       ],
+       [
+        "H",
+        "H"
+       ]
+      ],
+      "cap": "Before"
+     },
+     {
+      "mols": [
+       [
+        "N",
+        "H",
+        "H",
+        "H"
+       ],
+       [
+        "N",
+        "H",
+        "H",
+        "H"
+       ],
+       [
+        "N",
+        "H",
+        "H",
+        "H"
+       ],
+       [
+        "N",
+        "H",
+        "H",
+        "H"
+       ]
+      ],
+      "cap": "After"
+     }
+    ],
+    "arrow": true
+   }
+  ]
+ },
+ {
+  "id": "c1-055",
+  "t": "ch01-density",
+  "q": "A 20.0 mL sample of an alcohol-based hand sanitizer has a mass of 17.4 g. What is its density?",
+  "c": [
+   "0.870 g/mL",
+   "1.15 g/mL",
+   "348 g/mL",
+   "0.870 mL/g"
+  ],
+  "y": [
+   "d = m/V = 17.4 g &divide; 20.0 mL = 0.870 g/mL.",
+   "This is volume divided by mass (20.0 &divide; 17.4); the fraction is upside down.",
+   "This multiplies mass by volume; density divides mass by volume.",
+   "The number is right but the unit is inverted; mass &divide; volume gives g/mL."
+  ],
+  "h": "Density = mass &divide; volume. Write the units in the fraction too.",
+  "w": "d = m/V = 17.4 g &divide; 20.0 mL = <b>0.870 g/mL</b>. Check: the mass in grams is less than the volume in mL, so the density should be less than 1 g/mL, and it is.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c1-056",
+  "t": "ch01-density",
+  "q": "A medical lab technician measures a 10.0 mL urine sample and finds its mass is 10.2 g. What is the density of the sample?",
+  "c": [
+   "1.02 g/mL",
+   "0.980 g/mL",
+   "102 g/mL",
+   "0.102 g/mL"
+  ],
+  "y": [
+   "d = 10.2 g &divide; 10.0 mL = 1.02 g/mL, slightly denser than pure water because of dissolved substances.",
+   "This is volume divided by mass (10.0 &divide; 10.2); density is mass divided by volume.",
+   "This multiplies mass by volume instead of dividing.",
+   "Check the decimal point: 10.2 &divide; 10.0 is a little more than 1, not about one-tenth."
+  ],
+  "h": "The mass in grams is a little more than the volume in mL. Should the density be a little more or a little less than 1 g/mL?",
+  "w": "d = m/V = 10.2 g &divide; 10.0 mL = <b>1.02 g/mL</b>. Urine is a little denser than water (1.00 g/mL) because it carries dissolved salts and waste products.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c1-057",
+  "t": "ch01-density",
+  "q": "A small fishing weight has a mass of 56.5 g and a volume of 5.00 cm<sup>3</sup>. Using the densities given, which metal is it most likely made of?<br>aluminum 2.70 g/cm<sup>3</sup>; steel about 7.9 g/cm<sup>3</sup>; lead 11.3 g/cm<sup>3</sup>; gold 19.3 g/cm<sup>3</sup>",
+  "c": [
+   "Lead",
+   "Aluminum",
+   "Steel",
+   "Gold"
+  ],
+  "y": [
+   "d = 56.5 g &divide; 5.00 cm<sup>3</sup> = 11.3 g/cm<sup>3</sup>, which matches lead.",
+   "Aluminum (2.70 g/cm<sup>3</sup>) is much less dense than the value you get from m/V here.",
+   "Steel (about 7.9 g/cm<sup>3</sup>) is less dense than this weight's calculated density.",
+   "Gold (19.3 g/cm<sup>3</sup>) is denser than this weight's calculated density."
+  ],
+  "h": "Calculate d = m/V, then find the matching density in the list.",
+  "w": "d = m/V = 56.5 g &divide; 5.00 cm<sup>3</sup> = <b>11.3 g/cm<sup>3</sup>, lead</b>. Because density is intensive, it works as an identifying property no matter how big the sample is.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c1-058",
+  "t": "ch01-density",
+  "q": "A geology student drops a piece of Sierra granite with a mass of 39.6 g into a graduated cylinder. The water level rises from 20.0 mL to 35.0 mL. What is the density of the granite?",
+  "c": [
+   "2.64 g/mL",
+   "1.13 g/mL",
+   "1.98 g/mL",
+   "0.379 g/mL"
+  ],
+  "y": [
+   "The rock's volume is 35.0 &minus; 20.0 = 15.0 mL, and 39.6 g &divide; 15.0 mL = 2.64 g/mL.",
+   "This divides by the final level, 35.0 mL, which includes the water as well as the rock.",
+   "This divides by the starting water level, 20.0 mL, which is the water, not the rock.",
+   "This divides the rock's volume by its mass; the fraction is upside down."
+  ],
+  "h": "The rock's volume is the change in the water level, not either reading by itself.",
+  "w": "The rock's volume is the water it displaces: 35.0 mL &minus; 20.0 mL = 15.0 mL. Then d = 39.6 g &divide; 15.0 mL = <b>2.64 g/mL</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c1-059",
+  "t": "ch01-density",
+  "q": "A plastic cap has a mass of 4.60 g and a volume of 5.00 mL. Water has a density of 1.00 g/mL and ethanol 0.789 g/mL. What happens to the cap in each liquid?",
+  "c": [
+   "It floats in water and sinks in ethanol.",
+   "It sinks in water and floats in ethanol.",
+   "It floats in both liquids.",
+   "It sinks in both liquids."
+  ],
+  "y": [
+   "The cap's density is 4.60 &divide; 5.00 = 0.920 g/mL: less than water (floats) but more than ethanol (sinks).",
+   "This is reversed: an object floats only in a liquid denser than itself.",
+   "The cap is denser than ethanol, so it cannot float in ethanol.",
+   "The cap is less dense than water, so it floats in water."
+  ],
+  "h": "Find the cap's density first, then compare it with each liquid's density.",
+  "w": "d = 4.60 g &divide; 5.00 mL = 0.920 g/mL. It is less dense than water (1.00 g/mL), so it <b>floats in water</b>, and denser than ethanol (0.789 g/mL), so it <b>sinks in ethanol</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c1-060",
+  "t": "ch01-density",
+  "q": "Honey (1.42 g/mL), water (1.00 g/mL) and mineral oil (0.85 g/mL) are carefully poured into a tall cylinder and form three separate layers. What is the order of the layers from <b>top to bottom</b>?",
+  "c": [
+   "Mineral oil, water, honey",
+   "Honey, water, mineral oil",
+   "Water, mineral oil, honey",
+   "Mineral oil, honey, water"
+  ],
+  "y": [
+   "The least dense liquid floats on top and the densest sinks to the bottom: 0.85, then 1.00, then 1.42 g/mL.",
+   "This is bottom to top; the densest liquid (honey) belongs at the bottom.",
+   "Water (1.00 g/mL) is denser than mineral oil (0.85 g/mL), so it cannot sit on top of the oil.",
+   "Honey is denser than water, so it sinks below the water rather than sitting above it."
+  ],
+  "h": "Least dense on top, densest on the bottom.",
+  "w": "Liquids that do not mix stack with the least dense on top: <b>mineral oil (0.85), then water (1.00), then honey (1.42) on the bottom</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-061",
+  "t": "ch01-density",
+  "q": "Ice has a density of 0.917 g/mL and liquid water 1.00 g/mL. Why does ice float on a lake?",
+  "c": [
+   "Ice is less dense than liquid water.",
+   "Ice weighs less than the whole lake.",
+   "Ice is a solid, and all solids float on their liquids.",
+   "Ice is denser than liquid water."
+  ],
+  "y": [
+   "An object floats in a liquid that is denser than it is, and 0.917 g/mL is less than 1.00 g/mL.",
+   "Floating depends on comparing densities, not on comparing total masses.",
+   "For most substances the solid is denser than the liquid and sinks; water is an exception.",
+   "If ice were denser than water, it would sink."
+  ],
+  "h": "Compare the two densities given.",
+  "w": "Ice floats because it is <b>less dense than liquid water</b> (0.917 g/mL versus 1.00 g/mL). Water is unusual: for most substances the solid is denser than the liquid and sinks. Because ice floats, lakes freeze from the top down.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-062",
+  "t": "ch01-density",
+  "q": "A 40.0 g block of paraffin wax has a density of 0.900 g/cm<sup>3</sup>. It is cut into two equal halves. What is the density of each half?",
+  "c": [
+   "0.900 g/cm<sup>3</sup>",
+   "0.450 g/cm<sup>3</sup>",
+   "1.80 g/cm<sup>3</sup>",
+   "20.0 g/cm<sup>3</sup>"
+  ],
+  "y": [
+   "Cutting halves both the mass and the volume, so their ratio, the density, does not change.",
+   "This halves the density, but density is intensive; halving the mass also halves the volume.",
+   "Doubling the density would need more mass in the same volume; nothing was added.",
+   "20.0 is the mass of each half in grams, not its density."
+  ],
+  "h": "Is density an intensive or an extensive property?",
+  "w": "Each half has half the mass and half the volume, so d = m/V stays the same: <b>0.900 g/cm<sup>3</sup></b>. Density is an intensive property; it does not depend on the size of the sample.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-063",
+  "t": "ch01-density",
+  "q": "Which statement best explains why a gas has a much lower density than a liquid or a solid?",
+  "c": [
+   "Its particles are far apart, so very little mass is packed into each milliliter.",
+   "Its particles have no mass.",
+   "Its particles are larger than those in liquids and solids.",
+   "Its particles are packed more tightly than in liquids."
+  ],
+  "y": [
+   "Density is mass per volume, and a gas is mostly empty space, so each milliliter holds very little mass.",
+   "Gas particles do have mass; a tank of oxygen weighs more when it is full than when it is empty.",
+   "Particle size is not what makes gases low in density; the space between particles is.",
+   "Gas particles are far apart, not packed tightly."
+  ],
+  "h": "Density is mass per volume. Think about how much of a gas's volume is empty space.",
+  "w": "Gas particles are <b>far apart, so little mass is packed into each milliliter</b>. Air, for example, is about 0.0012 g/mL, roughly a thousand times less dense than water.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-064",
+  "t": "ch01-density",
+  "q": "A radiographer explains why the lungs appear dark on a chest X-ray while the ribs appear white. Air in the lungs has a density of about 0.0012 g/mL, and bone is much denser. Which statement fits?",
+  "c": [
+   "X-rays pass easily through low-density air, so more reach the detector and the lungs look dark.",
+   "X-rays are absorbed most by the lowest-density materials, so the lungs look dark.",
+   "Air is denser than bone, so it blocks the X-rays.",
+   "Density has no effect on how X-rays pass through the body."
+  ],
+  "y": [
+   "Low-density matter absorbs few X-rays, so more of them reach the detector there and the image is dark.",
+   "This is reversed: denser materials such as bone absorb more X-rays.",
+   "Air (about 0.0012 g/mL) is far less dense than bone.",
+   "Density is one of the main reasons different tissues appear different on an X-ray."
+  ],
+  "h": "Which absorbs more X-rays: something with a lot of mass packed into each milliliter, or something mostly made of empty space?",
+  "w": "Air in the lungs has a very low density, so <b>X-rays pass through easily</b> and the lungs look dark (radiolucent). Bone is denser and contains calcium, so it absorbs more X-rays and looks white (radiopaque).",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c1-065",
+  "t": "ch01-density",
+  "q": "Fresh milk from a Tulare County dairy is left standing in a jar, and a layer of cream rises to the top. What does this tell you about the cream?",
+  "c": [
+   "The cream is less dense than the rest of the milk.",
+   "The cream is denser than the rest of the milk.",
+   "The cream has more mass than the rest of the milk.",
+   "The cream and the rest of the milk have the same density."
+  ],
+  "y": [
+   "Less dense liquids rise and float above denser ones, so the cream must be less dense.",
+   "A denser layer would sink to the bottom, not rise to the top.",
+   "The layer order depends on density, not on total mass; the cream layer is actually the smaller amount.",
+   "If the densities were the same, the cream would have no reason to separate and rise."
+  ],
+  "h": "In a density column, which layers end up on top?",
+  "w": "The cream (rich in milkfat) rises because it is <b>less dense</b> than the watery part of the milk. Layers settle by density, with the least dense on top, just like oil on vinegar.",
+  "d": 1,
+  "k": 0
+ }
+]

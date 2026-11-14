@@ -64,7 +64,7 @@ Use `\(\PageIndex{n}\)` for example, figure, table and exercise numbers. Never h
 
 ## Voice and style
 
-Clear, warm, direct second person ("you"); short paragraphs; concrete before abstract; define every technical term at first use; no filler, hype or emoji. Refer to games by their names (Significant Figures, SI Prefix Challenge, Element Symbol Study Lab, Quantum Quest, Polyatomic Ions, Naming & Formulas, Lewis Structure Studio, Chemical Reactions, LEO Goes GER!, Stoichiometry, Thermochemistry, Sticky Molecules, Under Pressure, Final Boss).
+Clear, warm, direct second person ("you"); short paragraphs; concrete before abstract; define every technical term at first use; no filler, hype or emoji. Refer to games by their current Study Hub names (source of truth: `ItsDrDan/games` → `data/hub.js`; checked 2026-11-14): Significant Figures, Prefix Power-Up (SI Prefixes), Algebra for Chemistry, Symbol Safari (Element Symbols), Polyatomic Posse (Polyatomic Ions), Name That Compound! (Naming & Formulas), Quantum Quest, Lewis Structure Studio, Reaction Rumble (Chemical Reactions), LEO Goes GER! (Redox), The Mole, Stoichiometry, Under Pressure (Gas Laws), Thermochemistry, Sticky Molecules (Intermolecular Forces), Proton Patrol (pH & Charge), Final Exam Review (Final Boss!), Lab Practical (Station Rotation). `GAMES-INDEX.md` in Study Games is older and uses some outdated names.
 
 ## Videos
 
