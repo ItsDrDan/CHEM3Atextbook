@@ -21,7 +21,14 @@ def fix_table(t):
     if not body: return t
     nb=re.sub(r'<tr[^>]*>.*?</tr>',fix_row,body.group(1),flags=re.S)
     return t[:body.start(1)]+nb+t[body.end(1):]
+STYLE='<style type="text/css">@media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } }</style>'
+# LibreTexts' site rule ".mt-content-container table td {padding:.4em !important}" hides the stacked-cell labels on phones;
+# this page-level rule (phones only, placed right before the first table, never at position 0 or inside <p>) restores the label column.
 for f in sys.argv[1:]:
     s=open(f).read()
     n=re.sub(r'<table class="mt-responsive-table".*?</table>',lambda m:fix_table(m.group(0)),s,flags=re.S)
+    if 'data-th=' in n and STYLE not in n:
+        i=n.index('<table class="mt-responsive-table"')
+        # put it before the paragraph/box that holds the table's lead-in, at a block boundary
+        n=n[:i]+STYLE+'\n'+n[i:]
     if n!=s: open(f,'w').write(n); print('updated',f,n.count('data-th='))
