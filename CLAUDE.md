@@ -51,6 +51,22 @@ A major overhaul of the free LibreTexts textbook for **CHEM 3A (Introductory Gen
   | 1.5 | 597499 |
   | 1.6 Exercises | 597500 |
 
+- **New Chapter 1 (COR order) created in the draft 2026-11-14** at path `.../00:_Matter_and_the_Scientific_Method` so it sorts after Front Matter and before the old chapters (which still carry their old numbers until the full reorder). Source of truth from now on is LibreTexts; pull before re-editing. Tags: `article:topic(-guide)`, `author@Daniel Kwasniewski`, `authorname:dkwasniewski`, `license:ccby`, `licenseversion:40`, `showtoc:no`.
+
+  | Page | ID |
+  |---|---|
+  | 1: Matter and the Scientific Method | 597676 |
+  | 1.1 The Scientific Method | 597677 |
+  | 1.2 Classifying Matter | 597678 |
+  | 1.3 States of Matter | 597679 |
+  | 1.4 Electric Charge | 597680 |
+  | 1.5 Physical and Chemical Properties and Changes | 597681 |
+  | 1.6 Density | 597682 |
+  | 1.7 Chapter Guide | 597683 |
+  | 1.8 Practice Problems | 597684 |
+  | 1.9 Practice Games | 597685 |
+
+- **The old "1: Basics of Measurement" table above** becomes new Chapter 5 in the reorder.
 - **Chapter 1 items still open:**
   - New Exercise 1 image for 1.2.1 (it duplicates Example 1b).
   - New accuracy/precision target image for 1.2.1 (target "a" does not clearly show "precise but inaccurate").
