@@ -73,6 +73,9 @@ A major overhaul of the free LibreTexts textbook for **CHEM 3A (Introductory Gen
   - Optional health-careers replacement for the mercury-thermometer density example in 1.4.
   - Question-bank rebuild for 1.6.
 
+- **Chapter 2 (2026-11-14):** intro on chapter page 597482; 2.1–2.9 = 597862–597870. Old transcluded pages 597502–597510 retired to 597819 as "Old 2.x …".
+- **Tables:** run `python3 tools/add_data_th.py <drafts>` on every new page (phone labels on LibreTexts).
+
 ### Editing LibreTexts pages (what worked)
 
 - **Read a page:** `GET /@api/deki/pages/{id}/contents?mode=edit&dream.out.format=json`, from a browser tab signed in on chem.libretexts.org.

@@ -26,3 +26,9 @@ POST `/api/questions` (Bearer token from the `token` cookie) with the editor-sha
 - The 12 figure items (c1-012–016, c1-052–054 particle diagrams; c1-084–087 cylinder, ruler, buret, target) are now in assignment 224842 (ADAPT ids 356178–356189). **Pool: 139 questions**, random 50 × 2 points.
 - Images: `figures/adapt/<id>.svg`, built by `node tools/adapt_figs.js bank/ch01.json figures/adapt` from the same fbx.js drawings the Try It widget uses (duplicate SVG attributes removed so the files are valid XML), hosted on GitHub Pages and linked in each question stem as `<img>` with alt text from `figures/adapt/alt_ch01.json` (describes the picture without naming the answer).
 - Read back: all 12 match the bank (choices, key, every wrong-choice feedback), alt text present, image loads, CC BY 4.0, public. Checked visually in ADAPT's question view (c1-014, c1-086).
+
+## Chapter 2 (2026-11-14)
+
+- Assignment **224843** "CHEM 3A Chapter 2: Atoms, Ions, and Isotopes" (template 145; 3 attempts, hints no penalty, marked late; 2 points; random 50 of the pool = 100 points; hidden; placeholder dates as Chapter 1). Folder 15019.
+- Pool **104**: all 64 Try It items in `bank/ch02.json` (7 with SVG images + alt text from `figures/adapt/alt_ch02.json`; the 2 data-table items carry a real HTML table in the stem) and 40 homework-only items in `bank/ch02_adapt.json`.
+- Read back: all 104 match the bank (choices, key, every wrong-choice feedback, stem), CC BY 4.0, public, Show Hint present; all 7 images load. c2-025 checked visually in the question view.

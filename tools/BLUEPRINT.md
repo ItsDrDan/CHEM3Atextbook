@@ -80,6 +80,8 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 
 ## Chapter 2. Atoms, Ions, and Isotopes (COR 1.3.1, 1.3.2, 1.3.4)
 
+**Status 2026-11-14:** built and published in the draft (pages 597482 intro, 597862–597870), aligned to Lecture 5 and the Isotopes lecture; 6 figures; 59 practice problems; 64 Try It + 40 homework items; ADAPT assignment 224843. Old pages 597502–597510 moved to Retired Pages.
+
 **Sections**
 - 2.1 The Atomic Theory: Historical Roots — from 2.2 (408958).
 - 2.2 Protons, Neutrons, Electrons and the Nuclear Atom — from 2.3, 2.4 (408959, 408960).
