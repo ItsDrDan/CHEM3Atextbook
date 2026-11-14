@@ -81,6 +81,27 @@ A major overhaul of the free LibreTexts textbook for **CHEM 3A (Introductory Gen
 
 - **Chapter order:** follow the COR, not the syllabus. The CHEM 3A COR is not public online. Find it in `~/Desktop/FCC Teaching` or Dr. Dan's Canvas, or ask him for it. Save it as `tools/COR_outline.md` once you have it.
 - **Repo:** this repo, separate from `ItsDrDan/textbook`. Copy (do not link) the tools you need from that repo, and adapt them for 3A.
+- **Chapters (approved 2026-11-14):** 14 chapters in COR order, as in `tools/BLUEPRINT.md`. COR unit 1 is split into three chapters (1 Matter and the Scientific Method; 2 Atoms, Ions, and Isotopes; 3 Light, Electrons, and the Periodic Table). The audited old Chapter 1 becomes Chapter 5; temperature moves to Chapter 9.
+
+### Scope decisions (Dr. Dan, 2026-11-14; these override the COR conflict notes)
+
+- **Activity series:** shown, but very lightly (a short given list, "will this metal replace that one?").
+- **Gas density / molar mass:** one paragraph and one worked example, very light; not a main skill.
+- **Redox:** simple half-reactions only (for example, single displacement). No balancing in acidic or basic solution (that goes in Going Further).
+- **Corrosion:** used as relatable examples inside the redox section (rusting, tarnish, dental amalgam), not a separate topic.
+- **Enthalpy of reaction** (thermochemical equations, heat in stoichiometry): taught in the main path.
+- **Buffers:** taught in the main path at the CHEM 3A level (qualitative; blood bicarbonate buffer). No Henderson–Hasselbalch.
+- **Equilibrium:** the emphasis is Le Chatelier's principle. Writing K expressions and reading large vs small K stay, lightly; "special types of equilibria" (old 13.5) goes in Going Further.
+- **Molality:** taught in the main path, tied to **osmolality and physiology** (serum osmolality, IV fluids, colligative properties in the body).
+- **Going Further (not on CHEM 3A exams):** resonance, octet-rule exceptions, redox balancing in acidic/basic solution, batteries, special types of equilibria. Keep them as labeled pages so other faculty can assign them.
+
+### Patient case (approved 2026-11-14)
+
+**Case A: Mateo Herrera, 34**, an irrigation technician on a Fresno County almond orchard, with asthma (see `tools/PATIENT_CASE_PROPOSAL.md`). He appears **only where the chemistry has a strong tie** to his care, not in every chapter.
+
+### Biology ties (Dr. Dan, 2026-11-14)
+
+Show where the chemistry ties into **biology, anatomy, physiology and microbiology** as much as possible: in the teaching text, worked examples, problems and a "Biology Connection" box (anatomy, physiology, microbiology). This is in addition to the allied-health boxes and is not limited the way the Major Connection boxes are.
 
 ### Features (all chosen)
 
@@ -102,7 +123,7 @@ A major overhaul of the free LibreTexts textbook for **CHEM 3A (Introductory Gen
    - **Allied-health clinical boxes:** Nursing, Dental Hygiene, **Radiologic Technology**, **Respiratory Therapy**. Each is 80–220 words, tied to the chemistry skill just taught, with medical terms defined on first use. They give context only, never treatment advice.
    - **Add-ins for other majors:** Biology, Chemistry and Engineering students, for example a "Major Connection" box. Keep them shorter and fewer than the allied-health boxes; about 75% of the class is allied health.
    - **Valley Connection boxes:** 120–400 words with real, cited sources, tying the chemistry to Central Valley life and careers (agriculture, water, air quality, dairy, local health care, and so on). Give the allied-health and other majors' boxes Valley tie-ins where they fit naturally.
-   - **A running patient case across chapters.** The CHEM 3B book uses an adult with type 2 diabetes ("Rosa"). Propose a different case suited to 3A topics (measurement, dosing math, gases, solutions, acids/bases, nuclear medicine) and get Dr. Dan's approval before writing it.
+   - **A running patient case across chapters.** The CHEM 3B book uses an adult with type 2 diabetes ("Rosa"). Propose a different case suited to 3A topics (measurement, dosing math, gases, solutions, acids/bases, nuclear medicine) and get Dr. Dan's approval before writing it. **Approved: Case A (Mateo), strong-tie chapters only.**
 5. **Videos.**
    - Embed Dr. Dan's own ItsDrDan YouTube videos in chapter intros and the relevant sections. Use the transcripts to choose videos and to point to key moments (timestamps).
    - Never invent video links. Verify each link and title.
@@ -116,9 +137,9 @@ A major overhaul of the free LibreTexts textbook for **CHEM 3A (Introductory Gen
 - **Calculator tips** are written for the TI-36X Pro.
 - **CHEM 3A scope notes:**
   - Quantum: only simple wavelength/frequency/energy calculations, orbital diagrams (no ℓ, mℓ, ms), full and noble-gas electron configurations, and simple periodic trends.
-  - No gas-density formula problems (those are CHEM 1A).
-  - The activity series is CHEM 1A only.
-  - Intermolecular forces are mainly in Chapter 6 (and 7).
+  - Gas density: one light paragraph and example only (see Scope decisions).
+  - Activity series: very light only (see Scope decisions).
+  - Intermolecular forces: polarity in new Chapter 6, IMF in new Chapter 9 (old book Chapters 6 and 7).
   - The CHEM 3A lab uses red cabbage indicator, never a pH meter.
 - **Exam-style problem conventions:**
   - Reactions centered on their own line.
@@ -166,4 +187,4 @@ A major overhaul of the free LibreTexts textbook for **CHEM 3A (Introductory Gen
    - the clinical, major and Valley boxes planned
    - the patient-case beat
 4. **Author brief.** Adapt `ItsDrDan/textbook/tools/AUTHOR_BRIEF.md` into `tools/AUTHOR_BRIEF.md` for 3A, using this file's decisions.
-5. **Review with Dr. Dan.** Show him the blueprint and the patient-case proposal. Start building Chapter 1 only after he approves.
+5. **Review with Dr. Dan.** Show him the blueprint and the patient-case proposal. Start building Chapter 1 only after he approves. **Done 2026-11-14: approved with the decisions above.**

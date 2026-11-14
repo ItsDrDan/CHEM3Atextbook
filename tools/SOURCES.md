@@ -128,7 +128,7 @@ The searchable copy is `ItsDrDan/games` → `data/transcripts.json` (149 videos,
 - `qPM-C3V0l80` · 28 · Introduction to Heat and Energy · `KqKvWr6Y2zs` · 13 · Thermochemistry and the 1st Law · `W1fKRtt0CZc` · 13 · Temperature Conversions
 - `r7isVoOlWyU` · 16 · Specific Heat Capacity · `1xjSCl5hsug` · 19 · Calorimetry · `udPzY15vH1w` · 18 · Heat of Fusion and Vaporization · `-fyDACk_Zx0` · 18 · Heating and Cooling Curves
 - IMF series: `RNQKJ1hnHes` · 16 · Basic Concepts · `--NtKZsyS4I` · 12 · Part 1 · `vf1I8M32OXQ` · 13 · Part 2 Dispersion · `CdA3Ov94lw0` · 17 · Part 3 Dipole, H bonding · `lAcgVwEmjM8` · 14 · Part 4 bp/mp
-- Scope check: `XMlP-sRigPM` Enthalpy Stoichiometry (see BLUEPRINT).
+- Enthalpy (main path, Ch 8): `XMlP-sRigPM` Enthalpy Stoichiometry.
 
 **COR 8 Gases**
 - `qcuMu3m77Yw` · 15 · Gases and KMT · `uexlvfNkuhs` · 19 · Gas Laws Part 1 · `_8sGFdLBhRk` · 16 · Part II Combined and Avogadro · `T0fOuTmNY6g` · 19 · Ideal Gas Law · `gpjC3C_zkoE` · 24 · Dalton's Law · `efgNeWjlsGY` · 28 · Gas Law Tips · `UteEh5Vgvv8` · 11 · Molar Volume for Formulas
@@ -138,7 +138,7 @@ The searchable copy is `ItsDrDan/games` → `data/transcripts.json` (149 videos,
 
 **COR 10 Acids and bases**
 - `_3MEHX5yvzQ` · 19 · Properties of Acids and Bases (Brønsted–Lowry at 7:01) · `T8Uxtqoi1-8` · 16 · Conjugate Pairs · `tGqiUbBxqec` · 26 · Acid-Base Equilibria, autoionization (Ka parts beyond COR) · `AAOXGkcrUMg` · 13 · Logs and Antilogs · `M5gCzKjb0kA` · 16 · pH Scale · `tbcxL9K3KBU` · 17 · Acid-Base Stoichiometry, pH
-- Out of scope: `-UrwKIGAj08` Buffers.
+- Buffers (main path, qualitative): `-UrwKIGAj08` Introduction to Buffers; skip any Henderson–Hasselbalch part.
 
 **COR 11 Equilibrium**
 - `qatdA_ALnx8` · 19 · Collision Theory · `-ie15qDdHjE` · 14 · Writing Equilibrium Expressions · `JMRz9TRVUQg` · 30 · Le Chatelier · `ZojNOgXleJA` · 29 · Let's Practice Equilibrium · `JbkiO-RLx6A` (Ka/Ksp parts beyond COR)

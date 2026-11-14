@@ -1,4 +1,8 @@
-# Running patient case — proposal for Dr. Dan (not approved)
+# Running patient case
+
+**Decision (Dr. Dan, 2026-11-14): Case A, Mateo.** He appears only where the chemistry has a strong tie: Chapters 2 (first appearance), 3, 4, 5, 7, 10, 11, 12, 13, 14. Chapters 1, 6, 8 and 9 have no opener; their beats below may be used as problems only.
+
+## Original proposal
 
 The CHEM 3B book follows "Rosa", an adult with type 2 diabetes. CHEM 3A needs a case that exercises measurement and dosing math, gases, solutions, acids/bases, equilibrium and nuclear medicine. Three options; **A is recommended**. The case gives context only: no treatment advice, all orders "as written by the provider", numbers chosen for chemistry practice and checked to be clinically plausible.
 

@@ -176,9 +176,9 @@ Evaluation: final exam is the **ACS exam (required)**, at least 15% of grade; la
 9. Thermochemistry (e.g., calorimetry)
 10. Atomic structure (e.g., atomic emission spectra)
 
-## Scope notes and conflicts to resolve
+## Scope notes and conflicts
 
-The project brief (`CLAUDE.md`) has CHEM 3A scope notes. Two of them conflict with this approved COR and need a decision from Dr. Dan before any chapter is built (the COR wins by the "never drop below it" rule unless he says otherwise):
+**Resolved 2026-11-14 by Dr. Dan:** activity series and gas density are both taught very lightly; enthalpy of reaction, qualitative buffers and molality (tied to osmolality) are in the main path even though the COR text does not name them, because FCC teaches them; equilibrium centers on Le Chatelier. See "Scope decisions" in `CLAUDE.md`. The original conflict table is kept below for the record.
 
 | COR item | CLAUDE.md note | Conflict |
 |---|---|---|

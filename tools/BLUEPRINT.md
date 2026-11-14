@@ -1,8 +1,8 @@
-# CHEM 3A book blueprint (COR order) — DRAFT for Dr. Dan's review
+# CHEM 3A book blueprint (COR order)
 
-Status: proposal, 2026-11-14. Nothing here is built yet. Items marked **DECIDE** need Dr. Dan; everything else uses the defaults in `CLAUDE.md`.
+Status: **approved by Dr. Dan 2026-11-14** with the decisions recorded below and in `CLAUDE.md` (Scope decisions, Patient case, Biology ties). Nothing is built yet.
 Sources: `tools/COR_outline.md` (scope), `tools/SOURCES.md` (files), `tools/live_tree.txt` (current pages; ids below are **live-book** ids, the draft mirrors them; draft ids are known only for Chapter 1 so far).
-Patient case: see `tools/PATIENT_CASE_PROPOSAL.md` (not approved yet; beats below assume Proposal A).
+Patient case: **Case A, Mateo** (approved). He appears only in chapters with a strong tie; those are marked **Patient-case beat**. Chapters marked "no opener" may still use him in a problem if it fits.
 
 ## Every chapter gets
 
@@ -12,18 +12,21 @@ Patient case: see `tools/PATIENT_CASE_PROPOSAL.md` (not approved yet; beats belo
 4. **Practice Problems** page: 40–60 original problems, reasoning in every answer, exam-style formatting (reactions centered, molar-mass chart, data tables, g mol⁻¹).
 5. **Practice Games** page (links only; games are all rights reserved).
 6. **ADAPT** homework: ~50 questions, 100 points, rotating sets, per-choice feedback.
-7. Boxes: at least two allied-health boxes (from Nursing, Dental Hygiene, Radiologic Technology, Respiratory Therapy), one Valley Connection, at most one Major Connection.
+7. Boxes: at least two allied-health boxes (from Nursing, Dental Hygiene, Radiologic Technology, Respiratory Therapy), one Valley Connection, at most one Major Connection, and **Biology Connection** boxes (anatomy, physiology, microbiology) wherever the tie is real.
+8. **Biology ties throughout** (Dr. Dan, 2026-11-14): show where the chemistry meets biology, anatomy and physiology, and microbiology in the text, examples and problems, not only in boxes. Each chapter below lists its planned ties.
 
 Old "X.E Exercises" pages are replaced by Practice Problems. Old "Summary" pages fold into the Chapter Guide.
 
-## DECIDE before building
+## Decisions (Dr. Dan, 2026-11-14)
 
-1. **Splitting COR unit 1.** COR unit 1 (matter + atoms + electrons + periodic table) is about a quarter of the course. Proposed: split it into three chapters (1, 2, 3 below), which keeps the book at 14 chapters. Alternative: one long chapter.
-2. **COR vs CLAUDE.md scope conflicts** (details in `COR_outline.md`): the activity series (COR 5.6 lists it) and gas density/molar mass (COR 8.4 lists it). Proposed: teach both at a light level (activity series as "will this metal replace that one?" using a short given list; gas density as mass ÷ volume with PV = nRT, no separate formula).
-3. **Current pages beyond the COR.** Proposed: drop from the main path, keep as clearly labeled "Going Further (not on CHEM 3A exams)" pages so other faculty can still assign them: 6.2.1 Resonance, 6.2.2 Octet exceptions, 10.8.3 Balancing redox equations, 10.9.2 Batteries, 10.9.3 Corrosion, 11.4 Enthalpy change (thermochemical equations), 12.4 Buffers, 13.5 Special types of equilibria, and the molality math in 9.5. Alternative: delete them from the draft.
-4. **Measurement after nomenclature.** COR order puts Measurement (COR 3) fifth, so the audited Chapter 1 becomes Chapter 5, and average atomic mass (Ch 2) and density (Ch 1) come before significant figures and dimensional analysis. Proposed handling: Ch 1 teaches density as a property and does one-step d = m/V with a "you will do this with units in Chapter 5" pointer; Ch 2's average-mass examples use the given number of decimal places with a short rounding note. (The rule "follow the COR" is already decided; this is only how to handle the side effects.)
+1. **COR unit 1 split into three chapters** (1, 2, 3 below). Approved.
+2. **Activity series:** very light (Ch 7.8). **Gas density/molar mass:** one paragraph and one example, very light (Ch 10.4).
+3. **Main path, beyond the bare COR text, because FCC teaches them:** enthalpy of reaction (Ch 8.7), buffers at a qualitative level (Ch 12.6), molality tied to osmolality and physiology (Ch 11.6). Corrosion appears as relatable redox examples (Ch 7.7). Redox stays at simple half-reactions.
+4. **Going Further (not on CHEM 3A exams):** resonance, octet exceptions, redox balancing in acidic/basic solution, batteries, special types of equilibria.
+5. **Equilibrium emphasis is Le Chatelier's principle**; K expressions and large/small K stay light.
+6. **Measurement after nomenclature** (COR order): Ch 1 teaches density as a property with one-step d = m/V and a pointer to Ch 5; Ch 2's average-mass examples use given decimal places with a short rounding note.
 
-## Proposed chapter map
+## Chapter map
 
 | New ch | Title | COR | Built mostly from (live ids) |
 |---|---|---|---|
@@ -57,6 +60,7 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - 1.6 Density as a Property — from 1.4 (408955) concept part; one-step d = m/V, floating/sinking, pointer to Ch 5 for unit work.
 - Chapter Guide, Practice Problems, Practice Games.
 
+**Biology ties**: Body composition by element (O, C, H, N make up about 96% of body mass); cells and blood as mixtures (plasma is a solution, whole blood a heterogeneous mixture separated by centrifuging); physical vs chemical change in digestion (chewing vs enzymes); density of bone, muscle and fat in body-composition testing; microbiology: steam sterilization (autoclave) as a physical process that kills microbes.
 **Slides**: Lecture 5 (scientific method part); homework packet "Ch 4 Classification of Matter" (alignment only); Lecture 4 Tablet (density).
 **Videos**: `ARE5_CgcxW4` Why Learn Chemistry; `sCmUQWVB90Q` Scientific Method (observations and data ~2:58); `YFd6XTQpI08` States of Matter (mixtures 7:45); `USaNyE1y6gE` Density; `p1vMT2wxsBc` Displacement.
 **Games**: Element Symbol Study Lab (symbols warm-up), Final Boss 3A "matter" set.
@@ -66,7 +70,7 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - Dental Hygiene: mixtures in the operatory: toothpaste (heterogeneous suspension) vs mouth rinse (homogeneous solution).
 - Major Connection (Engineering): density and material choice.
 - Valley Connection: **Tule fog** (water changing state; Caltrans/National Weather Service Hanford data) or **almond hulls and shells as mixtures separated by physical methods** (Almond Board of California).
-**Patient-case beat**: Mateo's rescue inhaler: the canister holds a liquid propellant that becomes a gas when sprayed (physical change); classify the inhaler contents.
+**Patient case**: no opener (weak tie). Optional problem: his inhaler's liquid propellant becomes a gas when sprayed (physical change).
 
 ## Chapter 2. Atoms, Ions, and Isotopes (COR 1.3.1, 1.3.2, 1.3.4)
 
@@ -79,6 +83,7 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - 2.6 Average Atomic Mass — from 2.8 (420206).
 - 2.9 summary page → Chapter Guide.
 
+**Biology ties**: Ions that run the body: Na⁺/K⁺ in nerve impulses, Ca²⁺ in muscle contraction and bone; trace elements (Fe in hemoglobin, I in thyroid hormones); isotopes as tracers, e.g. the carbon-13 urea breath test for *Helicobacter pylori* (microbiology).
 **Slides**: Lecture 5 Atomic Theory and the Anatomy of Atoms; Isotopes Lecture; Lecture 6 Tablet.
 **Videos**: `Gl6OxNmAc7M` Anatomy of the Atom; `JmyWmu3RA6Q` Counting p, e, n; `jNh0S62GrHg` Cations and Anions; `Ia26SFitnIE` Isotopes and average mass (2:30).
 **Games**: Element Symbol Study Lab; Quantum Quest (atoms levels); Final Boss `atoms`.
@@ -87,7 +92,7 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - Radiologic Technology: isotopes in imaging: same element, different neutrons; why iodine-131 and iodine-127 behave alike chemically (forward pointer to Ch 14).
 - Nursing: electrolytes as ions (Na⁺, K⁺, Ca²⁺, Cl⁻) on a basic metabolic panel; terms defined; no treatment advice.
 - Valley Connection: **Selenium at Kesterson Reservoir** (1980s, San Joaquin Valley drainage; USGS and U.S. Fish & Wildlife sources): an element whose ions moved through farm drainage water.
-**Patient-case beat**: Mateo's lab report lists sodium, potassium and chloride; identify each as cation or anion and count electrons.
+**Patient-case beat** (first appearance; introduce Mateo, his job and his asthma): his lab report lists sodium, potassium and chloride; identify each as cation or anion and count electrons.
 
 ## Chapter 3. Light, Electrons, and the Periodic Table (COR 1.3.3, 1.4, 1.5)
 
@@ -99,6 +104,7 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - 3.5 Groups, the Octet Rule, and Ion Charges — from 3.5.1 (408973), 4.5.1 (408984) part.
 - 3.6 Periodic Trends: Atomic Radius and Ionization Energy — from 3.6 (420983); metallic character kept brief.
 
+**Biology ties**: Light and the eye (retinal rods and cones absorb visible light); UV damage to DNA and skin; microbiology: germicidal UV-C lamps, fluorescence microscopy and stains that glow under specific wavelengths.
 **Slides**: Lecture 7 The Structure of the Atom; Bohr Model.pptx (Skill Checks folder; slides only, not quiz items); Lecture 9 Periodic Properties.
 **Videos**: `AgKAXoYLRBA` EM Radiation Part 1; `2QWO4oGxvfA` Part 2 (emission lamps 2:37); `84sL9kEAVmQ` Orbital Diagrams (Pauli 7:49, Hund 2:28); `a73T36_j0Xg` Configurations from the table; `T6j9Gw1EyPU` Periodic Trends (ionization energy 1:11).
 **Games**: Quantum Quest; Final Boss `electrons`.
@@ -120,6 +126,7 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - 4.5 Naming Acids — from 4.6.3 (408989); binary acids and oxyacids; acetic acid and oxalic acid named explicitly (COR 2.2).
 - 4.6 Nomenclature Summary flowchart — from 4.6.4 (408990).
 
+**Biology ties**: Ions and compounds in the body: bicarbonate and phosphate in blood, calcium phosphate (hydroxyapatite) in bone and enamel, hydrochloric acid in the stomach; microbiology: sodium hypochlorite (bleach) and hydrogen peroxide as disinfectants, and why naming the right one matters.
 **Slides**: Lecture 9; Week 4 Lab Lecture Ionic and Covalent Molecules; Lab Lecture Naming Ionic and Covalent Molecules; Supplemental Material: Naming Acids; Nomenclature Workshop.
 **Videos**: `CTvvJRGMdxY` Naming Ionic; `2ZT9T8M2CWM` Swap-Drop; `A1-PS3fGOw8` Polyatomic formulas; `REdYqnSIjCg` T43 method; `wCVdwxuh__U` Green Sheet; `VjF8XYfvkLI` Covalent; `hLxGdWoM7Fk` Acids (oxyacid endings ~1:54); `W_AHDPMBqrA` Hydrates; `7fWGLGY_6Wo` Reading formulas.
 **Games**: Polyatomic Ions (Green Sheet); Naming & Formulas; Final Boss `naming`. Lab tie: Exp 4b Rolling for Compound Initiative.
@@ -145,6 +152,7 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - 5.8 The Mole as a Unit of Amount — from 5.1–5.5 (408993–408997): Avogadro's number 6.0221 × 10²³, molar mass, moles ↔ mass ↔ particles.
 - Temperature (draft 1.5, 597499) **moves to Chapter 9** (COR 7.2 places temperature scales under energy). Open item there: rewrite 5800 K / 300 K values.
 
+**Biology ties**: Sizes in biology on the metric scale (red blood cell about 7 µm, bacteria 1–2 µm, viruses 20–300 nm); lab values in mg/dL and mmol/L; blood volume and cardiac output with unit conversions; microbiology: counting bacteria in scientific notation (colony-forming units per mL); the mole in mmol/L electrolyte values.
 **Slides**: Lecture 1 and 2 Measurements and Sig Figs (Fall Slides); Lecture 3 Unit Conversion; Lecture 4 Tablet; Lecture 11 Counting Atoms and Compounds by Weight.
 **Videos**: `c3m2L5Ni3wk` Sig Figs (leading zeros 10:48, trailing zero with decimal 13:03; check it matches the book's rule); `SsLd_YRnLtw` Rounding; `ewjg7JtM_cA` Order of Operations; `UCQq22qA-vo` Scientific Notation; `s7Dr7FSQ4R8` Converting Units; `ilqm5Quaggc` Cubed units; `gVI0NWuv9VU` Word problems; `wB01PrQBxVw` What is a Mole? (Avogadro 1:47); `mvdjSfWFdaU` Molar Mass.
 **Games**: Significant Figures; SI Prefix Challenge; Stoichiometry (mole levels); Final Boss `measure`, `moles`. Lab: Exp 1a Making Measurements.
@@ -168,9 +176,10 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - 6.5 Electronegativity and Polarity — from 6.4 (409013); bond polarity and molecular polarity (molecular polarity is reused in Ch 9 IMF).
 - 6.6 Formula Mass and Percent Composition — from 5.6 (408998).
 - 6.7 Empirical and Molecular Formulas — from 5.7, 5.9 (408999, 409001); 5.8 hydrates (409000) kept as a short example.
-- Going Further (DECIDE 3): 6.2.1 Resonance (409010), 6.2.2 Octet exceptions (409011).
+- Going Further: 6.2.1 Resonance (409010), 6.2.2 Octet exceptions (409011).
 - 5.10 Mole Road Map (409002) moves to Ch 8.
 
+**Biology ties**: Water's bent, polar shape and why life depends on it; polarity and cell membranes (nonpolar O₂ and CO₂ cross membranes easily; ions need channels); glucose's formula and the CH₂O empirical formula of carbohydrates; percent composition of biomolecules.
 **Slides**: Lab Lecture Week 6 and Lecture 12.5 Chemical Bonding; Lecture 13 VSEPR and Polarity; VSEPR Handout; Lecture 11.5 and 12 Describing Composition.
 **Videos**: `u_Y1sC58C7M` Bonding intro; `oxbd7aS8ROg` Valence electrons and dots; `CGmbd2YwflY` Lewis structures; `wD3b-7J0Xy0` VSEPR (trigonal pyramidal ~10:18); `Wz23sE4KUBE`, `0fzuzHnkPAc` Electronegativity and Polarity I–II; `ZtWHJci1vgc` Percent composition; `r5ciwMWV8Ns` Empirical/molecular formula.
 **Games**: Lewis Structure Studio; Stoichiometry (composition levels); Final Boss `bonding`. Lab: Exp 5a Empirical Formula, Exp 6a Molecular Modeling.
@@ -181,7 +190,7 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - Nursing: percent composition on an IV label (for example, how much potassium is in a gram of KCl).
 - Major Connection (Biology): water's bent shape and life.
 - Valley Connection: **Ozone (O₃) as the Valley's summer air pollutant** (San Joaquin Valley APCD; American Lung Association *State of the Air*): its Lewis structure (Going Further note on resonance) and why it irritates airways.
-**Patient-case beat**: Draw O₂ and CO₂ (the gases Mateo exchanges); ozone-day alert as his asthma trigger.
+**Patient case**: no opener (moderate tie). Optional problem: draw O₂ and CO₂, the gases he exchanges.
 
 ## Chapter 7. Chemical Reactions (COR 5)
 
@@ -192,10 +201,11 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - 7.4 Electrolytes and Solubility Rules — from 9.1.2 (409048), 9.1.3 (409049) part; green sheet.
 - 7.5 Precipitation Reactions and Net Ionic Equations — from 10.5.1 (443568), 10.6 (409077).
 - 7.6 Acid–Base Neutralization and Gas-Evolution Reactions — from 10.5.2 (443567); unstable products (H₂CO₃ → H₂O + CO₂, etc.); "no reaction" when all products are aqueous.
-- 7.7 Oxidation–Reduction — from 10.7, 10.8.1, 10.8.2 (409078, 409080, 409081): oxidation numbers, electrons transferred, simple half-reactions for single displacement, oxidizing and reducing agents.
-- 7.8 Will It React? The Activity Series — from 10.9.1 (409084), light level (DECIDE 2).
-- Going Further: 10.8.3 (409082), 10.9.2 (409085), 10.9.3 (409086).
+- 7.7 Oxidation–Reduction — from 10.7, 10.8.1, 10.8.2 (409078, 409080, 409081) and the simple half-reaction part of 10.8.3 (409082): oxidation numbers, electrons transferred, simple half-reactions (single displacement), oxidizing and reducing agents. Corrosion as relatable examples from 10.9.3 (409086): rusting, silver tarnish, dental amalgam, metal implants.
+- 7.8 Will It React? The Activity Series — from 10.9.1 (409084), very light: a short given list, one or two examples.
+- Going Further: redox balancing in acidic/basic solution (rest of 10.8.3, 409082); batteries (10.9.2, 409085).
 
+**Biology ties**: Precipitation in the body: kidney stones (calcium oxalate) and why oxalic acid matters; antacids as gas evolution in the stomach; redox in cells (cellular respiration oxidizes glucose); microbiology: the catalase test (2 H₂O₂ → 2 H₂O + O₂ bubbling) used to identify bacteria, and white blood cells' oxidative burst; corrosion of metal implants and dental amalgam as relatable redox.
 **Slides**: Week 11 Lab Lecture Ch 10 Reactions; Lecture 21 Aqueous Chemical Reactions; Week 13 Aqueous Reactions and Solubility; Lecture 31–32 Redox (oxidation-number part only); Chemical Reactions CHEM 3A handout.
 **Videos**: `DPH8NZF_99I` Intro to Reactions; `oy7dm7qZiXY` Conservation of Mass; `t65x7RaFeFY` Balancing; `2MsgPQYwsjA` Types; `YqZjFTpnHjc` Predicting and Balancing; `dtdiKtrVQ5Y` Electrolytes; `-PeAGG6s6nY` Solubility Table; `RsPUbM1DivA` Net Ionic (13:58), spectators (16:42); `7Qf_7T3XDns` Gas Evolution; `IsypcIC7XqA` LEO goes GER. Playlist: CHEM 3A Ch 10.
 **Games**: Chemical Reactions; LEO Goes GER! (simple levels only); Final Boss `reactions`. Lab: Exp 10a Types of Reactions.
@@ -217,10 +227,11 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - 8.4 Gases at STP as a Conversion Factor — from 11.1.4 (441425) (COR 6.2 lists "gases, including at STP").
 - 8.5 Limiting Reactant — from 11.2 (409095).
 - 8.6 Theoretical and Percent Yield — from 11.3 (409096).
-- Going Further (DECIDE 3): 11.4 Enthalpy (409097).
+- 8.7 Enthalpy of Reaction: Heat in Chemical Equations — from 11.4 (409097); main path; exothermic/endothermic, ΔH as a conversion factor.
 
-**Slides**: Lecture 23 Stoichiometry; Lecture 24 and 25 Limiting Reagents, % Yield (enthalpy part Going Further).
-**Videos**: `Uk5EulrSWeI` Conversion factors; `fFGZdJ6F-e4` What is Stoichiometry?; `x4VcJBZFGAY` Intro; `yXV7aNPvkWA` Let's Practice; `7FP2lehyuRU` Limiting reactants (cake, 4:43); `EcT5aqQzaYA` Percent yield; `VPY5E6j5ltM` Gas stoichiometry at STP. Playlist: CHEM 3A Ch 11.
+**Biology ties**: Cellular respiration and photosynthesis as balanced equations with mole ratios; food Calories and the energy in glucose (with 8.7 enthalpy); microbiology: yeast fermentation (C₆H₁₂O₆ → 2 C₂H₅OH + 2 CO₂) and a limiting nutrient in bacterial growth.
+**Slides**: Lecture 23 Stoichiometry; Lecture 24 and 25 Limiting Reagents, % Yield, Enthalpy.
+**Videos**: `Uk5EulrSWeI` Conversion factors; `fFGZdJ6F-e4` What is Stoichiometry?; `x4VcJBZFGAY` Intro; `yXV7aNPvkWA` Let's Practice; `7FP2lehyuRU` Limiting reactants (cake, 4:43); `EcT5aqQzaYA` Percent yield; `VPY5E6j5ltM` Gas stoichiometry at STP; `XMlP-sRigPM` Enthalpy stoichiometry. Playlist: CHEM 3A Ch 11.
 **Games**: Stoichiometry; Final Boss `stoich`. Lab: Exp 11a Synthesis of Alum (if used), Exp 8a.
 **Question bank**: stoichiometry (490), final-exam-3a `stoich` (21).
 **Boxes**
@@ -228,7 +239,7 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - Nursing: pharmacy compounding as limiting reactant (the ingredient that runs out first).
 - Major Connection (Chemistry): percent yield in synthesis.
 - Valley Connection: **Fertilizer nitrogen budgets** (how much ammonium nitrate supplies a given mass of N; UC ANR nitrogen management) or **dairy digester biogas** (CH₄ + 2 O₂ → CO₂ + 2 H₂O; CARB dairy methane program).
-**Patient-case beat**: Mateo breathes harder during an attack; compute CO₂ produced from a given mass of glucose.
+**Patient case**: no opener (weak tie). Optional problem: CO₂ produced from a given mass of glucose.
 
 ## Chapter 9. Energy, Solids, and Liquids (COR 7)
 
@@ -242,6 +253,7 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - 9.7 Properties of Liquids and Solids; Crystalline Solids (ionic, covalent network) — from 7.2 (441418), 7.3 (409018).
 - 9.8 Vapor Pressure, Boiling, and Sublimation; Ranking Melting and Boiling Points — from 7.6.2 (409028) part, new ranking section.
 
+**Biology ties**: Thermoregulation: sweating and heat of vaporization, shivering, hypothermia; why the body's high water content buffers temperature (specific heat); hydrogen bonding in DNA base pairs and protein shape; microbiology: autoclaving at 121 °C under pressure (boiling point and vapor pressure), freeze-drying (sublimation) of vaccines and bacterial cultures.
 **Slides**: Lecture 15 and 16 IMF; Lecture 17 Phase Diagrams and Energy (energy parts; phase diagrams not in COR); Lecture 18 Heat, Fusion, Vaporization; Thermochemistry formulas sheet.
 **Videos**: `qPM-C3V0l80` Heat and Energy; `KqKvWr6Y2zs` 1st Law; `W1fKRtt0CZc` Temperature Conversions; `r7isVoOlWyU` Specific Heat; `1xjSCl5hsug` Calorimetry; `udPzY15vH1w` Fusion and Vaporization; `-fyDACk_Zx0` Heating Curves; IMF series `RNQKJ1hnHes`, `--NtKZsyS4I`, `vf1I8M32OXQ`, `CdA3Ov94lw0` (0:24), `lAcgVwEmjM8` (ranking ~9:17).
 **Games**: Thermochemistry; Sticky Molecules (IMF); Final Boss `energy`. Lab: Exp 7a Calorimetry.
@@ -252,7 +264,7 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - Dental Hygiene: ice vs a cold pack; the heat absorbed when ice melts.
 - Major Connection (Engineering): specific heat in cooling systems.
 - Valley Connection: **Heat illness in farm work** (Cal/OSHA heat illness prevention standard, triggers at 80 °F and 95 °F) and evaporative cooling; or **frost protection by flooding citrus orchards** (water's heat capacity and heat of fusion; UC ANR).
-**Patient-case beat**: Mateo works outdoors on a 104 °F day: convert to °C and K; why sweating cools him.
+**Patient case**: no opener (moderate tie). Optional problem: a 104 °F workday converted to °C and K; why sweating cools him.
 
 ## Chapter 10. Gases (COR 8)
 
@@ -260,10 +272,11 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - 10.1 Kinetic Molecular Theory — from 8.3 (409035), 8.1 (409033) part.
 - 10.2 Pressure and Its Units (mmHg, torr, atm) — from 8.2 (409034).
 - 10.3 Boyle's, Charles's, and Avogadro's Laws; the Combined Gas Law — from 8.4–8.4.4 (409036–409040) (Gay-Lussac's kept as part of the combined law).
-- 10.4 The Ideal Gas Law; Gas Density and Molar Mass (light, DECIDE 2) — from 8.5 (441423).
+- 10.4 The Ideal Gas Law — from 8.5 (441423); gas density and molar mass as one short paragraph and one example only.
 - 10.5 Gas Stoichiometry — from 11.1.3 (409042).
 - 10.6 Mixtures of Gases: Dalton's Law — from 8.6 (409043).
 
+**Biology ties**: Breathing mechanics (diaphragm and Boyle's law); partial pressures of O₂ and CO₂ in alveoli, arteries and tissues; decompression sickness and gas solubility; microbiology: aerobes vs anaerobes and anaerobic culture jars.
 **Slides**: Lecture 18 Gas Laws Part I; Lecture 20 Gases Part II.
 **Videos**: `qcuMu3m77Yw` Gases and KMT (3:53); `uexlvfNkuhs` Gas Laws Part 1; `_8sGFdLBhRk` Part II; `T0fOuTmNY6g` Ideal Gas Law; `bfW4V1krrkY` Gas Stoichiometry Part 2; `gpjC3C_zkoE` Dalton's Law; `efgNeWjlsGY` Gas Law Tips.
 **Games**: Under Pressure (Gas Laws); Final Boss `gases`. Lab: Exp 8a Gas Constant R.
@@ -284,8 +297,9 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - 11.3 Concentration: Percent and Molarity — from 9.3, 9.3.1, 9.3.2 (409053–409055).
 - 11.4 Molarity Calculations and Dilution — from 9.4, 9.4.1, 9.4.2 (409056–409058).
 - 11.5 Solution Stoichiometry and Titration — from 11.1.2 (409059), 11.1.5 (409060); liquid known and solid known (COR 9.4); percent by mass of a solid (COR 9.3).
-- 11.6 Colligative Properties: Boiling Point, Freezing Point, Osmotic Pressure — from 9.5–9.5.2 (409061–409063); qualitative, molality math Going Further (DECIDE 3).
+- 11.6 Molality, Osmolality, and Colligative Properties — from 9.5–9.5.2 (409061–409063); molality in the main path, tied to **osmolality and physiology** (mOsm/kg, serum osmolality, why 0.9% NaCl is isotonic, dehydration and edema); boiling point elevation, freezing point depression, osmotic pressure.
 
+**Biology ties**: Osmosis and red blood cells (crenation and hemolysis); serum osmolality (normal about 275–295 mOsm/kg) and how kidneys concentrate urine; dissolved O₂ and CO₂ in blood (Henry's law); microbiology: salting and sugaring foods to stop microbial growth (plasmolysis), and preparing culture media by dilution.
 **Slides**: Lecture 21–22 / 26–27 Solution Concentrations; Lecture 27 and Lab Lecture 12b Titrations.
 **Videos**: `drIkMSVAE0A` Solubility; `sadO3B7s_UY` Solubility Curves; `oLCLggs3Zmw` Molarity; `-G1zjTVpkgU` Concentrations; `qwkB_gLdg6s` Dilutions (M₁V₁ = M₂V₂ at 0:26); `auELinUz1R4` Solution Stoichiometry; `Ca7o0AjwhcY` Titration (1:21); `efD7e2XiNsM` Colligative. Playlist: CHEM 3A Ch 9.
 **Games**: Sticky Molecules (solubility levels); Stoichiometry (solution levels); Final Boss `solutions`. **No solutions game yet.** Lab: Exp 9a Solutions and Dilutions; Exp 12b Citric Acid.
@@ -307,8 +321,10 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - 12.3 Identifying Acids, Bases, and Salts from Formulas; Strong vs Weak (green sheet strong list) — from 12.2.2, 12.2.3 (409105, 409106).
 - 12.4 Water: Autoionization and Kw — from 12.3, 12.3.1 (409107, 409108).
 - 12.5 pH and pOH of Strong Acid and Base Solutions — from 12.3.2 (409109); TI-36X Pro log/antilog tips.
-- Going Further (DECIDE 3): 12.4 Buffers (409110).
+- 12.6 Buffers — from 12.4 (409110); main path at the CHEM 3A level: what a buffer is, a weak acid and its conjugate base, the blood bicarbonate buffer qualitatively. No Henderson–Hasselbalch.
+- Video: `-UrwKIGAj08` Introduction to Buffers (skip any Henderson–Hasselbalch part).
 
+**Biology ties**: Stomach acid and the mucus that protects the stomach lining; blood pH and the bicarbonate buffer (12.6); lactic acid from exercising muscle; skin pH as a protective barrier; microbiology: acid made by oral bacteria in tooth decay, *H. pylori* surviving stomach acid with urease.
 **Slides**: Lecture 26 Acids and Bases; Lab Lecture 12a Acids and Bases.
 **Videos**: `_3MEHX5yvzQ` Acid/base properties (Brønsted–Lowry 7:01); `T8Uxtqoi1-8` Conjugate pairs; `tGqiUbBxqec` Autoionization (Ka parts skipped); `AAOXGkcrUMg` Logs and antilogs; `M5gCzKjb0kA` pH scale (0:26); `tbcxL9K3KBU` Acid–base practice. Playlist: CHEM 3A Ch 12.
 **Games**: Final Boss `acids`. **No acids/bases game yet.** Lab: Exp 12a pH of Household Items (red cabbage indicator).
@@ -326,10 +342,11 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 **Sections**
 - 13.1 Collision Theory and Reaction Rates (concentration, temperature) — from 13.1, 13.1.1 (443642, 443649).
 - 13.2 Dynamic Equilibrium — from 13.2 (443644).
-- 13.3 Equilibrium Constants and Expressions; what a large or small K means — from 13.3 (443645); "perform equilibrium calculations" kept to writing K and plugging in given concentrations.
-- 13.4 Le Chatelier's Principle (adding or removing reactants and products; temperature) — from 13.4 (443646).
-- Going Further (DECIDE 3): 13.5 Special Types (409118).
+- 13.3 Equilibrium Constants and Expressions — from 13.3 (443645); light: write K, read a large vs small K, at most a simple plug-in.
+- 13.4 Le Chatelier's Principle — from 13.4 (443646); **the chapter's main skill**: adding or removing reactants and products, temperature, pressure for gases; many clinical and biological examples.
+- Going Further: 13.5 Special Types of Equilibria (409118).
 
+**Biology ties**: Hemoglobin–oxygen equilibrium at the lungs vs tissues and how carbon monoxide shifts it; CO₂/bicarbonate shifts with breathing rate; enzyme reaction rates and fever (collision theory, qualitative); microbiology: refrigeration slowing bacterial growth (rates and temperature).
 **Slides**: Lecture 28+29 Introduction to Equilibrium.
 **Videos**: `qatdA_ALnx8` Collision theory (1:58); `-ie15qDdHjE` Writing expressions (5:00); `JMRz9TRVUQg` Le Chatelier; `ZojNOgXleJA` Let's Practice Equilibrium.
 **Games**: Final Boss `equilibrium`. **No equilibrium game yet.**
@@ -351,6 +368,7 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - 14.5 Fission, Nuclear Power, and Fusion — from 14.4.3–14.4.5 (409127–409129).
 - 14.6 Radiation, Life, and Medicine — from 14.4.6, 14.4.7 (409130, 409131).
 
+**Biology ties**: Ionizing radiation and DNA damage; why the thyroid takes up iodine-131; PET scans with fluorine-18 glucose (FDG) showing active tissue; microbiology: gamma irradiation to sterilize medical supplies and food; carbon-14 in living things and dating.
 **Slides**: Lecture 30 Nuclear Chemistry.
 **Videos**: `WDBiyaeivFY` Intro to Nuclear; `g--JowvBqM8` Radiant Realms (penetrating vs ionizing 16:47–20:12); `tjAebD_t8PA` Half-Life; `bZHo3kHvGi0` Decay, Half-Life, Fission, Fusion (medical imaging 15:24).
 **Games**: Final Boss `nuclear`. **No nuclear game yet.**
