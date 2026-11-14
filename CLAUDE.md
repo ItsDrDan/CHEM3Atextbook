@@ -32,7 +32,7 @@ A major overhaul of the free LibreTexts textbook for **CHEM 3A (Introductory Gen
 - **Transclusion.** The Remixer transcludes by default: each page is a live mirror of the live book and cannot be edited until it is **forked**.
   - **Chapter 1 is fully forked and audited**, and 57 of its 62 issues are fixed.
   - **Chapters 2–14 are still transcluded.** Dr. Dan chose to fork chapter by chapter as each one is revised. Pages that are rebuilt from scratch can simply replace the transcluded ones.
-- **Chapter 1 page IDs:**
+- **Old Chapter 1 (now Chapter 5, "Measurement and the Mole") page IDs** (titles below are the old numbers; now 5.1–5.4 and 9.2 for Temperature, 5.10 for Exercises):
 
   | Page | ID |
   |---|---|
@@ -51,7 +51,7 @@ A major overhaul of the free LibreTexts textbook for **CHEM 3A (Introductory Gen
   | 1.5 | 597499 |
   | 1.6 Exercises | 597500 |
 
-- **New Chapter 1 (COR order) created in the draft 2026-11-14** at path `.../00:_Matter_and_the_Scientific_Method` so it sorts after Front Matter and before the old chapters (which still carry their old numbers until the full reorder). Source of truth from now on is LibreTexts; pull before re-editing. Tags: `article:topic(-guide)`, `author@Daniel Kwasniewski`, `authorname:dkwasniewski`, `license:ccby`, `licenseversion:40`, `showtoc:no`.
+- **Draft reordered to COR order 2026-11-14** (with his go-ahead): 14 chapters, blueprint titles, sections renumbered, pages moved between chapters per the blueprint, superseded pages moved to a "Retired Pages" holder (597819) at the end. Full map and undo notes: `tools/REORDER_2026-11-14.md`. Page ids did not change. New Chapter 1 path is now `.../01:_Matter_and_the_Scientific_Method`. Source of truth from now on is LibreTexts; pull before re-editing. Tags: `article:topic(-guide)`, `author@Daniel Kwasniewski`, `authorname:dkwasniewski`, `license:ccby`, `licenseversion:40`, `showtoc:no`.
 
   | Page | ID |
   |---|---|
@@ -66,7 +66,6 @@ A major overhaul of the free LibreTexts textbook for **CHEM 3A (Introductory Gen
   | 1.8 Practice Problems | 597684 |
   | 1.9 Practice Games | 597685 |
 
-- **The old "1: Basics of Measurement" table above** becomes new Chapter 5 in the reorder.
 - **Chapter 1 items still open:**
   - New Exercise 1 image for 1.2.1 (it duplicates Example 1b).
   - New accuracy/precision target image for 1.2.1 (target "a" does not clearly show "precise but inaccurate").
