@@ -75,3 +75,9 @@ POST `/api/questions` (Bearer token from the `token` cookie) with the editor-sha
 - Assignment **224854** "CHEM 3A Chapter 9: Energy, Solids, and Liquids" (template 145; same settings: 3 attempts, hints no penalty, marked late, 2 points, random 50 = 100 points; hidden; placeholder dates). Folder 15028.
 - Pool **114**: all 72 Try It items in `bank/ch09.json` (3 table items with an HTML table in the stem; 1 heating-curve plot item, c9-042, with `figures/adapt/c9-042.svg` and alt text in `figures/adapt/alt_ch09.json`) and 42 homework-only items in `bank/ch09_adapt.json`.
 - Read back: all 114 match the bank, no duplicates, none missing.
+
+## Chapter 10 (2026-11-14)
+
+- Assignment **224855** "CHEM 3A Chapter 10: Gases" (template 145; same settings: 3 attempts, hints no penalty, marked late, 2 points, random 50 = 100 points; hidden; placeholder dates). Folder 15029.
+- Pool **112**: all 70 Try It items in `bank/ch10.json` (3 table items with an HTML table in the stem) and 42 homework-only items in `bank/ch10_adapt.json`.
+- Read back: all 112 match the bank, no duplicates, none missing.

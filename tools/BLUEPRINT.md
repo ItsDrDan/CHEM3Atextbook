@@ -311,6 +311,8 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - Valley Connection: **Anhydrous ammonia tanks in the fields** (pressurized liquid/gas; Cal/OSHA) or **Sierra elevation and air pressure** (Fresno ~300 ft vs Yosemite high country; why water boils at a lower temperature at Huntington Lake).
 **Patient-case beat**: Mateo goes on 2 L/min oxygen; partial pressure of O₂; how long a cylinder lasts.
 
+**Status 2026-11-14:** built and published (597488 intro, 597999–598007); Mateo opener (2 L/min nasal cannula, portable cylinder, partial pressure); 7 figures; 56 practice problems (2 Mateo); 70 Try It + 42 homework items; ADAPT 224855. Boxes: Biology alveolar diffusion (10.1), RT pressure units/gauge pressure and Valley Fresno vs Huntington Lake air pressure (10.2), Biology breathing = Boyle, Nursing air transport (10.3), Rad Tech MRI and cylinders (10.4), Biology anaerobic jars, Engineering airbags (10.5), In the Lab Exp 8a (R), RT humidified inspired PO2 and FiO2, DH nitrous oxide–oxygen (10.6). Old pages retired.
+
 ## Chapter 11. Solutions (COR 9)
 
 **Sections**
