@@ -286,6 +286,8 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - Valley Connection: **Heat illness in farm work** (Cal/OSHA heat illness prevention standard, triggers at 80 °F and 95 °F) and evaporative cooling; or **frost protection by flooding citrus orchards** (water's heat capacity and heat of fusion; UC ANR).
 **Patient case**: no opener (moderate tie). Optional problem: a 104 °F workday converted to °C and K; why sweating cools him.
 
+**Status 2026-11-14:** built and published (597487 intro, 597980–597990); Chemistry in the Community opener (Valley heat, Cal/OSHA 80 °F/95 °F); 9 figures; 55 practice problems (incl. one Mateo problem); 72 Try It + 42 homework items (1 heating-curve plot item with an ADAPT SVG); ADAPT 224854. Boxes: Biology energy in the body and Valley Pine Flat hydropower (9.1), Nursing fever/hypothermia and Biology thermoregulation (9.2), In the Lab Exp 7a Part 1, Nursing hot/cold packs, Biology BMR (9.3), Nursing perioperative hypothermia, Biology water buffer, Valley citrus frost protection, Engineering coolants (9.4), In the Lab Exp 7a Part 2, RT heated humidifiers, DH ice vs cold pack, Biology sweating (9.5), Biology DNA/protein H bonds (9.6), Biology lung surfactant, Rad Tech scintillator crystals, DH enamel (9.7), Biology/micro autoclave and freeze-drying, Nursing alcohol swabs, Valley swamp coolers (9.8). Old pages retired.
+
 ## Chapter 10. Gases (COR 8)
 
 **Sections**
