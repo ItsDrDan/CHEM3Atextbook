@@ -1,0 +1,1552 @@
+[
+ {
+  "id": "c10-001",
+  "t": "ch10-kmt",
+  "q": "Which property of gases shows most directly that a gas is mostly empty space?",
+  "c": [
+   "A gas can be compressed into a much smaller volume.",
+   "A gas has a definite shape.",
+   "A gas is denser than the liquid it comes from.",
+   "Gas particles attract each other strongly."
+  ],
+  "y": [
+   "Gas particles are far apart compared with their size, so pushing them closer together shrinks the volume a great deal.",
+   "Gases have no definite shape; they take the shape of their container.",
+   "Gases are about a thousand times less dense than liquids, because their particles are so far apart.",
+   "In kinetic molecular theory, gas particles neither attract nor repel each other."
+  ],
+  "h": "What can you do to a tank of oxygen that you cannot do to a bottle of water?",
+  "w": "Compressibility shows the empty space: <b>a gas can be squeezed into a much smaller volume</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c10-002",
+  "t": "ch10-kmt",
+  "q": "According to kinetic molecular theory, what causes the pressure a gas exerts on its container?",
+  "c": [
+   "Gas particles colliding with the container walls",
+   "Gas particles attracting the walls of the container",
+   "The weight of the gas particles resting on the bottom of the container",
+   "Gas particles growing larger as they are heated"
+  ],
+  "y": [
+   "Each collision pushes on the wall; the countless pushes per second, spread over the wall's area, are the pressure.",
+   "KMT treats gas particles as neither attracting nor repelling anything; pressure comes from collisions.",
+   "Gas particles do not settle; they move constantly and hit every wall, including the top.",
+   "Particles do not change size when heated; they move faster."
+  ],
+  "h": "Think of the particles as tiny moving balls.",
+  "w": "Pressure comes from <b>particles colliding with the walls</b>: more or harder hits, higher pressure.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c10-003",
+  "t": "ch10-kmt",
+  "q": "A cylinder of carbon dioxide (CO<sub>2</sub>, 44.009 g/mol) and a cylinder of nitrogen (N<sub>2</sub>, 28.014 g/mol) stand side by side in a hospital supply room at 22 °C. How do the average kinetic energies of their molecules compare?",
+  "c": [
+   "They are the same, because both gases are at the same temperature.",
+   "The CO<sub>2</sub> molecules have more, because they are heavier.",
+   "The N<sub>2</sub> molecules have more, because they move faster.",
+   "It cannot be compared without knowing the pressure in each cylinder."
+  ],
+  "y": [
+   "Average kinetic energy depends only on the Kelvin temperature. The lighter N<sub>2</sub> molecules move faster, and the heavier CO<sub>2</sub> molecules move slower, with the same average kinetic energy.",
+   "Heavier molecules at the same temperature move more slowly; their average kinetic energy is the same as that of lighter ones.",
+   "The N<sub>2</sub> molecules are faster, but being lighter they carry the same average kinetic energy as the slower CO<sub>2</sub> molecules.",
+   "Pressure depends on how many particles hit the walls; the average kinetic energy per particle is set by temperature alone."
+  ],
+  "h": "What single variable sets the average kinetic energy?",
+  "w": "Same temperature, so <b>the same average kinetic energy</b>; the lighter N<sub>2</sub> molecules simply move faster.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c10-004",
+  "t": "ch10-kmt",
+  "q": "At the same temperature, which atoms move fastest on average?",
+  "c": [
+   "He (4.003 g/mol)",
+   "Ar (39.95 g/mol)",
+   "Kr (83.80 g/mol)",
+   "Xe (131.29 g/mol)"
+  ],
+  "y": [
+   "All four have the same average kinetic energy, so the lightest atoms must move fastest.",
+   "Argon atoms are about ten times heavier than helium atoms, so they move more slowly at the same temperature.",
+   "Krypton is heavier than both helium and argon, so its atoms are slower.",
+   "Xenon is the heaviest, so its atoms are the slowest, not the fastest. Heavier atoms do not have more kinetic energy at the same temperature."
+  ],
+  "h": "Same temperature means same average kinetic energy. Which atoms must move fastest to get it?",
+  "w": "Same kinetic energy, so the lightest moves fastest: <b>He</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c10-005",
+  "t": "ch10-kmt",
+  "q": "Cotton swabs soaked in ammonia (NH<sub>3</sub>, 17.031 g/mol) and hydrochloric acid (HCl, 36.46 g/mol) are placed at opposite ends of a long glass tube at the same time. A white ring of NH<sub>4</sub>Cl forms where the two gases meet. Where does the ring form?",
+  "c": [
+   "Closer to the HCl end, because NH<sub>3</sub> molecules move faster",
+   "Closer to the NH<sub>3</sub> end, because NH<sub>3</sub> molecules move faster",
+   "Exactly in the middle, because both gases have the same average kinetic energy",
+   "Closer to the HCl end, because HCl molecules move faster"
+  ],
+  "y": [
+   "The lighter NH<sub>3</sub> molecules diffuse faster, so they travel farther down the tube before meeting the slower HCl.",
+   "NH<sub>3</sub> is faster, so it covers more of the tube; the gases meet away from the NH<sub>3</sub> end.",
+   "Equal kinetic energy does not mean equal speed: the lighter molecules move faster.",
+   "HCl is the heavier gas, so it moves more slowly; the ring forms near its end because the NH<sub>3</sub> travels farther."
+  ],
+  "h": "Which gas is lighter, and so diffuses faster?",
+  "w": "NH<sub>3</sub> is lighter and diffuses faster, so it travels farther: <b>the ring forms closer to the HCl end</b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c10-006",
+  "t": "ch10-kmt",
+  "q": "The Kelvin temperature of a gas sample is doubled. According to kinetic molecular theory, what happens to the average kinetic energy of its particles?",
+  "c": [
+   "It doubles.",
+   "It is cut in half.",
+   "It stays the same, because the number of particles does not change.",
+   "It doubles, because each particle doubles in size."
+  ],
+  "y": [
+   "Average kinetic energy is proportional to the Kelvin temperature, so doubling the temperature doubles it.",
+   "Lower kinetic energy would mean a lower temperature. The two rise together.",
+   "The kinetic energy per particle depends on temperature, not on how many particles there are.",
+   "The energy doubles, but not because of size; gas particles do not grow when heated, they move faster."
+  ],
+  "h": "Average kinetic energy is proportional to which temperature?",
+  "w": "Average kinetic energy is proportional to the Kelvin temperature: <b>it doubles</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c10-007",
+  "t": "ch10-kmt",
+  "q": "A sample of carbon dioxide gas starts at room temperature and 1 atm. Which change makes it depart <b>more</b> from ideal-gas behavior?",
+  "c": [
+   "Cooling it toward the temperature where it condenses",
+   "Heating it to a higher temperature",
+   "Lowering its pressure",
+   "Letting it expand into a larger container"
+  ],
+  "y": [
+   "Slower particles near condensation feel their attractions, which the ideal model ignores.",
+   "Faster particles make attractions less important, so the gas behaves more ideally.",
+   "Lower pressure spreads the particles out, so the gas behaves more ideally.",
+   "Expanding lowers the pressure and spreads the particles out, which makes the gas more ideal."
+  ],
+  "h": "When do attractions between particles start to matter?",
+  "w": "Real gases depart from ideal behavior at low temperature and high pressure: <b>cooling it toward condensation</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c10-008",
+  "t": "ch10-kmt",
+  "q": "A liter of air has a mass of only about 1.2 g, while a liter of water has a mass of about a kilogram. Which idea of kinetic molecular theory explains this?",
+  "c": [
+   "Gas particles are tiny compared with the distances between them, so a gas is mostly empty space.",
+   "Gas particles are much lighter than water molecules.",
+   "Gas particles attract each other weakly, so they float.",
+   "Gas particles lose energy in collisions and settle out."
+  ],
+  "y": [
+   "Few particles fit in a liter of gas because they are spread far apart, so the mass per liter is low.",
+   "The particles in air (N<sub>2</sub>, 28.014 g/mol; O<sub>2</sub>, 31.998 g/mol) are actually heavier than water molecules (18.015 g/mol). The difference is spacing, not particle mass.",
+   "In KMT gas particles neither attract nor repel; that does not make a gas less dense.",
+   "Collisions in KMT are elastic, and gas particles never settle out."
+  ],
+  "h": "Compare how far apart the particles are in a gas and in a liquid.",
+  "w": "<b>A gas is mostly empty space</b>, so a liter holds far fewer particles than a liter of liquid.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c10-009",
+  "t": "ch10-kmt",
+  "q": "The tip of a syringe is sealed, and the plunger is pushed in at constant temperature. Why does the pressure of the trapped air rise?",
+  "c": [
+   "The same number of particles hit a smaller wall area more often.",
+   "The particles move faster because they have less room.",
+   "The particles become larger when they are squeezed.",
+   "Squeezing the air makes the particles attract each other."
+  ],
+  "y": [
+   "The temperature, and so the particles' speed, is unchanged, but the particles now reach the walls more often, so there are more hits per second on each part of the wall.",
+   "At constant temperature the average speed does not change; only the number of hits on the walls does.",
+   "Particle size does not change; only the spaces between the particles shrink.",
+   "KMT treats gas particles as having no attractions; pressure comes from collisions."
+  ],
+  "h": "Speed stays the same at constant temperature. What changes?",
+  "w": "Same particles, less room: <b>more frequent collisions with the walls</b>, so higher pressure.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c10-010",
+  "t": "ch10-pressure",
+  "q": "A person wearing narrow high heels sinks into a soft lawn, but the same person in flat shoes does not. Why?",
+  "c": [
+   "The same force is spread over a smaller area, so the pressure is greater.",
+   "The person weighs more in high heels.",
+   "Pressure depends only on force, so the heels must push harder.",
+   "A smaller area gives a smaller pressure, so the lawn is softer under heels."
+  ],
+  "y": [
+   "P = F/A: the person's weight (the force) is the same, but the heels concentrate it on a small area.",
+   "The person's weight, the force, is the same in either pair of shoes.",
+   "Pressure is force divided by area, so area matters as much as force.",
+   "A smaller area gives a greater pressure, not a smaller one."
+  ],
+  "h": "Use P = F/A.",
+  "w": "Same force, smaller area: <b>greater pressure</b> (P = F/A).",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c10-011",
+  "t": "ch10-pressure",
+  "q": "In a mercury barometer, what holds up the column of mercury in the closed glass tube?",
+  "c": [
+   "The atmosphere pushing down on the mercury in the open dish",
+   "Suction from the vacuum at the top of the tube",
+   "The mercury sticking to the glass walls",
+   "The weight of the mercury in the dish pushing up"
+  ],
+  "y": [
+   "Air presses on the open dish; the column rises until its weight balances that push, about 760 mm at sea level.",
+   "A vacuum exerts no pull. The column is pushed up from below by air pressure on the dish.",
+   "Mercury does not wet glass, and sticking could not hold up a 760 mm column.",
+   "The mercury in the dish is pushed on by the air; its own weight does not lift the column."
+  ],
+  "h": "Which side of the mercury has air on it?",
+  "w": "<b>Atmospheric pressure on the dish</b> pushes the mercury up the tube until the column's weight balances it.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c10-012",
+  "t": "ch10-pressure",
+  "q": "A hiker drinks from a plastic water bottle on the summit of Mount Whitney (14,505 ft), caps it tightly, and hikes down to Lone Pine (3,727 ft). The empty bottle is crumpled. Why?",
+  "c": [
+   "The air pressure outside is greater at the lower elevation, so the outside air pushes the bottle in.",
+   "The air inside the bottle escaped through the cap on the way down.",
+   "The air pressure outside is lower at the lower elevation, so the bottle collapses.",
+   "The air inside the bottle got heavier at the lower elevation."
+  ],
+  "y": [
+   "The bottle was sealed at the low summit pressure. Lower down there is more air above, so the outside pressure is higher and squeezes the bottle until the pressures balance.",
+   "The cap was tight; the amount of air inside did not change.",
+   "Air pressure is higher at lower elevations, because there is more air above.",
+   "The mass of the trapped air does not change; the outside pressure does."
+  ],
+  "h": "Is there more air above you at the summit or in the valley?",
+  "w": "Lower elevation, more air above, <b>higher outside pressure</b>, which crushes the bottle sealed at the summit.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c10-013",
+  "t": "ch10-pressure",
+  "q": "A barometer in a Clovis classroom reads 742 mmHg. What is the pressure in atmospheres?",
+  "c": [
+   "0.976 atm",
+   "5.64 &times; 10<sup>5</sup> atm",
+   "7.32 atm",
+   "50.5 atm"
+  ],
+  "y": [
+   "742 mmHg &times; (1 atm / 760 mmHg). A little less than 760 mmHg is a little less than 1 atm.",
+   "This multiplies by 760. To go from mmHg to atm, divide by 760 (put mmHg on the bottom so it cancels).",
+   "This divides by 101.325, the number of kPa in 1 atm. The reading is in mmHg, so use 760 mmHg = 1 atm.",
+   "This divides by 14.7, the number of psi in 1 atm. The reading is in mmHg."
+  ],
+  "h": "1 atm = 760 mmHg; set it up so mmHg cancels.",
+  "w": "742 mmHg &times; (1 atm / 760 mmHg) = <b>0.976 atm</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-014",
+  "t": "ch10-pressure",
+  "q": "A hyperbaric oxygen chamber is pressurized to 2.40 atm. What is this pressure in kilopascals?",
+  "c": [
+   "243 kPa",
+   "2.43 &times; 10<sup>5</sup> kPa",
+   "0.0237 kPa",
+   "1.82 &times; 10<sup>3</sup> kPa"
+  ],
+  "y": [
+   "2.40 atm &times; (101.325 kPa / 1 atm).",
+   "This uses 101,325, the number of <i>pascals</i> in 1 atm. In kilopascals, 1 atm = 101.325 kPa.",
+   "This divides by 101.325. Going from atm to kPa, multiply: 1 atm is about 101 kPa, so the answer must be bigger than the number of atm.",
+   "This multiplies by 760, which gives mmHg, not kPa."
+  ],
+  "h": "1 atm = 101.325 kPa.",
+  "w": "2.40 atm &times; (101.325 kPa / 1 atm) = <b>243 kPa</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-015",
+  "t": "ch10-pressure",
+  "q": "A road bike tire is inflated to 85.5 psi. What is this pressure in atmospheres?",
+  "c": [
+   "5.82 atm",
+   "1.26 &times; 10<sup>3</sup> atm",
+   "0.113 atm",
+   "0.844 atm"
+  ],
+  "y": [
+   "85.5 psi &times; (1 atm / 14.7 psi).",
+   "This multiplies by 14.7; the conversion factor is flipped. Put psi on the bottom so it cancels.",
+   "This divides by 760, the number of mmHg in 1 atm. The reading is in psi: 1 atm = 14.7 psi.",
+   "This divides by 101.325, the number of kPa in 1 atm. The reading is in psi."
+  ],
+  "h": "1 atm = 14.7 psi.",
+  "w": "85.5 psi &times; (1 atm / 14.7 psi) = <b>5.82 atm</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-016",
+  "t": "ch10-pressure",
+  "q": "Some hospitals report blood gases in kilopascals. A patient's arterial carbon dioxide pressure is 41.5 mmHg. What is it in kPa?",
+  "c": [
+   "5.53 kPa",
+   "4.20 &times; 10<sup>3</sup> kPa",
+   "0.410 kPa",
+   "311 kPa"
+  ],
+  "y": [
+   "Go through atm: 41.5 mmHg &times; (1 atm / 760 mmHg) &times; (101.325 kPa / 1 atm).",
+   "This multiplies mmHg by 101.325 as if the value were in atm. Convert mmHg to atm first (divide by 760).",
+   "This divides by 101.325 and never uses 760 mmHg = 1 atm.",
+   "This flips both conversion factors (&times; 760 &divide; 101.325). Check: 760 mmHg = 101.325 kPa, so the number of kPa must be smaller than the number of mmHg."
+  ],
+  "h": "Use 760 mmHg = 101.325 kPa (both equal 1 atm).",
+  "w": "41.5 mmHg &times; (101.325 kPa / 760 mmHg) = <b>5.53 kPa</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c10-017",
+  "t": "ch10-pressure",
+  "q": "A laboratory vacuum pump lowers the pressure in a flask to 18.6 torr. What is this pressure in atmospheres?",
+  "c": [
+   "0.0245 atm",
+   "1.41 &times; 10<sup>4</sup> atm",
+   "0.184 atm",
+   "1.27 atm"
+  ],
+  "y": [
+   "1 torr = 1 mmHg, so 760 torr = 1 atm: 18.6 torr &times; (1 atm / 760 torr).",
+   "This multiplies by 760; a vacuum must be far below 1 atm. Divide by 760.",
+   "This divides by 101.325 (kPa per atm). The pressure is in torr: 760 torr = 1 atm.",
+   "This divides by 14.7 (psi per atm). The pressure is in torr: 760 torr = 1 atm."
+  ],
+  "h": "760 torr = 1 atm.",
+  "w": "18.6 torr &times; (1 atm / 760 torr) = <b>0.0245 atm</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-018",
+  "t": "ch10-pressure",
+  "q": "A weather report gives the air pressure in Fresno as 101.9 kPa. What is this in mmHg?",
+  "c": [
+   "764.3 mmHg",
+   "7.744 &times; 10<sup>4</sup> mmHg",
+   "0.1341 mmHg",
+   "13.59 mmHg"
+  ],
+  "y": [
+   "101.9 kPa &times; (760 mmHg / 101.325 kPa); the answer keeps 4 significant figures, like 101.9.",
+   "This multiplies by 760 but never divides by 101.325, as if the pressure were in atm.",
+   "This divides by 760. The pressure is in kPa; convert with 101.325 kPa = 760 mmHg.",
+   "This flips the conversion factor (&times; 101.325 &divide; 760). Air pressure near sea level must be close to 760 mmHg."
+  ],
+  "h": "101.325 kPa = 760 mmHg.",
+  "w": "101.9 kPa &times; (760 mmHg / 101.325 kPa) = <b>764.3 mmHg</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-019",
+  "t": "ch10-pressure",
+  "q": "A blood pressure reading is 124/82 mmHg. What does the 124 mmHg mean?",
+  "c": [
+   "The pressure in the arteries is 124 mmHg above atmospheric pressure.",
+   "The total pressure in the arteries is 124 mmHg, much less than air pressure.",
+   "The blood pressure is 124 atm.",
+   "The pressure in the arteries is 124 mmHg below atmospheric pressure."
+  ],
+  "y": [
+   "Blood pressure is a gauge pressure, measured relative to the surrounding air. The absolute pressure is about 760 + 124 mmHg.",
+   "If the pressure in the arteries were below air pressure, air would push the vessels closed. The reading is relative to air pressure.",
+   "The unit is millimeters of mercury, not atmospheres; 124 mmHg is about 0.163 atm above air pressure.",
+   "Arterial pressure is higher than atmospheric pressure, which is why blood spurts from a cut artery."
+  ],
+  "h": "Is a blood pressure cuff measuring the total pressure or the pressure above the surrounding air?",
+  "w": "Blood pressure is a gauge pressure: <b>124 mmHg above atmospheric pressure</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c10-020",
+  "t": "ch10-laws",
+  "q": "In Gay-Lussac's law, which two variables are held constant?",
+  "c": [
+   "Volume and amount of gas (moles)",
+   "Pressure and amount of gas (moles)",
+   "Temperature and amount of gas (moles)",
+   "Pressure and temperature"
+  ],
+  "y": [
+   "Gay-Lussac's law relates pressure and Kelvin temperature in a rigid container (constant V) with a fixed amount of gas.",
+   "Constant pressure and moles is Charles's law, which relates volume and temperature.",
+   "Constant temperature and moles is Boyle's law, which relates pressure and volume.",
+   "Constant pressure and temperature is Avogadro's law, which relates volume and moles."
+  ],
+  "h": "Gay-Lussac relates P and T. Which two of the four variables are left?",
+  "w": "Gay-Lussac (P<sub>1</sub>/T<sub>1</sub> = P<sub>2</sub>/T<sub>2</sub>) holds <b>volume and moles</b> constant.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c10-021",
+  "t": "ch10-laws",
+  "q": "An air-filled balloon is moved from a warm room into a freezer. The pressure and the amount of air stay the same. What happens to the balloon's volume?",
+  "c": [
+   "It decreases, because volume and Kelvin temperature are directly related.",
+   "It increases, because volume and temperature are inversely related.",
+   "It stays the same, because the amount of air does not change.",
+   "It decreases, because the pressure on the balloon increases."
+  ],
+  "y": [
+   "Charles's law: colder particles move more slowly and push the walls less, so the balloon shrinks.",
+   "Volume and temperature are directly related (Charles's law); cooling shrinks the gas.",
+   "The amount of air is constant, but the temperature drops, so the volume drops.",
+   "The pressure is constant here; the change comes from the temperature."
+  ],
+  "h": "Which law relates V and T, and is it direct or inverse?",
+  "w": "Charles's law, direct: lower temperature, <b>smaller volume</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c10-022",
+  "t": "ch10-laws",
+  "q": "A rigid tank of gas (constant volume) has its amount of gas doubled, and at the same time its Kelvin temperature is doubled. What happens to the pressure?",
+  "c": [
+   "It increases four times.",
+   "It doubles.",
+   "It stays the same.",
+   "It is cut in half."
+  ],
+  "y": [
+   "P &prop; nT/V: doubling n doubles P, and doubling T doubles P again, so P becomes 4 times as large.",
+   "This counts only one of the two changes; each one doubles the pressure.",
+   "Both changes raise the pressure; neither one cancels the other.",
+   "More gas and hotter gas both mean more frequent, harder collisions, so the pressure goes up."
+  ],
+  "h": "Do each change separately: what does doubling n do? What does doubling T do?",
+  "w": "&times;2 for the moles and &times;2 for the temperature: <b>4 times the pressure</b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c10-023",
+  "t": "ch10-laws",
+  "q": "An air bubble released by a scuba diver has a volume of 1.60 mL where the pressure is 3.45 atm. What is its volume just below the surface, where the pressure is 1.05 atm? (Assume constant temperature.)",
+  "c": [
+   "5.26 mL",
+   "0.487 mL",
+   "5.52 mL",
+   "2.26 mL"
+  ],
+  "y": [
+   "Boyle's law: V<sub>2</sub> = P<sub>1</sub>V<sub>1</sub>/P<sub>2</sub>. The pressure fell, so the bubble grew.",
+   "This sets up Boyle's law as a ratio (V<sub>2</sub> = V<sub>1</sub>P<sub>2</sub>/P<sub>1</sub>). P and V are inverse, so the bubble must get bigger as the pressure falls.",
+   "This is P<sub>1</sub>V<sub>1</sub> without dividing by P<sub>2</sub>.",
+   "This rearranges incorrectly, dividing by the volume. Solve P<sub>1</sub>V<sub>1</sub> = P<sub>2</sub>V<sub>2</sub> for V<sub>2</sub>."
+  ],
+  "h": "Pressure goes down, so should the volume go up or down?",
+  "w": "V<sub>2</sub> = (3.45 atm)(1.60 mL) / 1.05 atm = <b>5.26 mL</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-024",
+  "t": "ch10-laws",
+  "q": "A gas in a cylinder with a movable piston occupies 4.25 L at 0.955 atm. It is compressed at constant temperature to 1.65 L. What is the new pressure?",
+  "c": [
+   "2.46 atm",
+   "0.371 atm",
+   "4.06 atm",
+   "7.34 atm"
+  ],
+  "y": [
+   "P<sub>2</sub> = P<sub>1</sub>V<sub>1</sub>/V<sub>2</sub>. The volume shrank, so the pressure rose.",
+   "This uses Boyle's law as a ratio. Squeezing a gas raises its pressure, but this answer is lower than 0.955 atm.",
+   "This is P<sub>1</sub>V<sub>1</sub>, in atm&middot;L; it still needs to be divided by V<sub>2</sub>.",
+   "This multiplies the two volumes and divides by the pressure; solve P<sub>1</sub>V<sub>1</sub> = P<sub>2</sub>V<sub>2</sub> for P<sub>2</sub>."
+  ],
+  "h": "Boyle's law: P<sub>1</sub>V<sub>1</sub> = P<sub>2</sub>V<sub>2</sub>.",
+  "w": "P<sub>2</sub> = (0.955 atm)(4.25 L) / 1.65 L = <b>2.46 atm</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-025",
+  "t": "ch10-laws",
+  "q": "As the diaphragm contracts, the volume of a person's lungs increases from 2.40 L to 2.52 L at constant temperature, before any air flows in. If the pressure in the lungs started at 760. mmHg, what is it at 2.52 L?",
+  "c": [
+   "724 mmHg",
+   "798 mmHg",
+   "1.82 &times; 10<sup>3</sup> mmHg",
+   "0.952 mmHg"
+  ],
+  "y": [
+   "Boyle's law: P<sub>2</sub> = P<sub>1</sub>V<sub>1</sub>/V<sub>2</sub>. The pressure drops below atmospheric, so air flows in.",
+   "This is Boyle's law set up as a ratio; it predicts a higher pressure, which would push air out, not draw it in.",
+   "This is P<sub>1</sub>V<sub>1</sub>, which still needs to be divided by V<sub>2</sub>.",
+   "This is only the volume ratio V<sub>1</sub>/V<sub>2</sub>; multiply it by the starting pressure."
+  ],
+  "h": "The volume went up a little. What must the pressure do?",
+  "w": "P<sub>2</sub> = (760. mmHg)(2.40 L) / 2.52 L = <b>724 mmHg</b>, a little below atmospheric pressure, so air flows in.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-026",
+  "t": "ch10-laws",
+  "q": "A 1.85 L balloon at 24.5 °C is put in a freezer at &minus;18.5 °C. Assuming the pressure stays constant, what is its new volume?",
+  "c": [
+   "1.58 L",
+   "&minus;1.40 L",
+   "2.16 L",
+   "19.2 L"
+  ],
+  "y": [
+   "Charles's law with kelvins: V<sub>2</sub> = V<sub>1</sub>T<sub>2</sub>/T<sub>1</sub>. Cooler gas, smaller volume.",
+   "This uses Celsius temperatures. A negative volume is impossible; gas laws need kelvins.",
+   "This turns the temperature ratio upside down, so the balloon grows when it is cooled.",
+   "This converts only the freezer temperature to kelvins; both temperatures must be in kelvins."
+  ],
+  "h": "Convert both temperatures to kelvins, then V<sub>1</sub>/T<sub>1</sub> = V<sub>2</sub>/T<sub>2</sub>.",
+  "w": "T<sub>1</sub> = 24.5 + 273.15 = 297.7 K; T<sub>2</sub> = &minus;18.5 + 273.15 = 254.7 K. V<sub>2</sub> = 1.85 L &times; 254.7 K / 297.7 K = <b>1.58 L</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-027",
+  "t": "ch10-laws",
+  "q": "A gas-tight syringe holds 45.0 mL of air at 20.5 °C. It is warmed at constant pressure until the volume is 49.5 mL. What is the final temperature in kelvins?",
+  "c": [
+   "323 K",
+   "22.6 K",
+   "267 K",
+   "323 °C"
+  ],
+  "y": [
+   "T<sub>2</sub> = T<sub>1</sub>V<sub>2</sub>/V<sub>1</sub> with T<sub>1</sub> in kelvins. Larger volume, higher temperature.",
+   "This uses the Celsius temperature in Charles's law. Convert to kelvins first.",
+   "This inverts the volume ratio, giving a lower temperature for a larger volume.",
+   "This is the right number, but it is in kelvins, not degrees Celsius."
+  ],
+  "h": "Convert 20.5 °C to kelvins, then T<sub>2</sub> = T<sub>1</sub> &times; V<sub>2</sub>/V<sub>1</sub>.",
+  "w": "T<sub>1</sub> = 20.5 + 273.15 = 293.7 K. T<sub>2</sub> = 293.7 K &times; 49.5 mL / 45.0 mL = <b>323 K</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-028",
+  "t": "ch10-laws",
+  "q": "An aerosol can contains gas at 1.85 atm at 21.5 °C. If it is thrown into a fire and heated to 425 °C, what pressure would the gas reach (if the can did not burst)?",
+  "c": [
+   "4.38 atm",
+   "36.6 atm",
+   "0.781 atm",
+   "2.67 atm"
+  ],
+  "y": [
+   "Gay-Lussac's law with kelvins: P<sub>2</sub> = P<sub>1</sub>T<sub>2</sub>/T<sub>1</sub>. This is why aerosol cans warn against heat.",
+   "This uses Celsius temperatures, which exaggerates the change. Gas laws need kelvins.",
+   "This inverts the temperature ratio, so the pressure falls as the can heats up.",
+   "This converts only the starting temperature to kelvins; the fire temperature must be converted too."
+  ],
+  "h": "Rigid can: P and T in kelvins are directly related.",
+  "w": "T<sub>1</sub> = 21.5 + 273.15 = 294.7 K; T<sub>2</sub> = 425 + 273.15 = 698 K. P<sub>2</sub> = 1.85 atm &times; 698 K / 294.7 K = <b>4.38 atm</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-029",
+  "t": "ch10-laws",
+  "q": "The air in a tire is at 2.25 atm at 15.5 °C. After a drive the pressure is 2.48 atm. Assuming the volume of the tire does not change, what is the temperature of the air in kelvins?",
+  "c": [
+   "318 K",
+   "17.1 K",
+   "262 K",
+   "318 °C"
+  ],
+  "y": [
+   "T<sub>2</sub> = T<sub>1</sub>P<sub>2</sub>/P<sub>1</sub> with T<sub>1</sub> in kelvins. Higher pressure, higher temperature.",
+   "This uses the Celsius temperature; convert to kelvins before using a gas law.",
+   "This inverts the pressure ratio, predicting a cooler tire at higher pressure.",
+   "This is the kelvin value labeled as degrees Celsius; tires do not reach temperatures that high."
+  ],
+  "h": "Gay-Lussac's law: P<sub>1</sub>/T<sub>1</sub> = P<sub>2</sub>/T<sub>2</sub>, with kelvins.",
+  "w": "T<sub>1</sub> = 15.5 + 273.15 = 288.7 K. T<sub>2</sub> = 288.7 K &times; 2.48 atm / 2.25 atm = <b>318 K</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-030",
+  "t": "ch10-laws",
+  "q": "A balloon holds 0.245 mol of helium and has a volume of 5.80 L. Helium leaks out until 0.185 mol remains, at the same temperature and pressure. What is the new volume?",
+  "c": [
+   "4.38 L",
+   "7.68 L",
+   "1.42 L",
+   "0.755 L"
+  ],
+  "y": [
+   "Avogadro's law: V<sub>2</sub> = V<sub>1</sub>n<sub>2</sub>/n<sub>1</sub>. Fewer moles, smaller volume.",
+   "This inverts the mole ratio; the balloon cannot grow as helium leaks out.",
+   "This uses the moles that leaked out (0.245 &minus; 0.185) instead of the moles that remain.",
+   "This is only the mole ratio n<sub>2</sub>/n<sub>1</sub>; multiply it by the starting volume."
+  ],
+  "h": "V and n are directly related at constant T and P.",
+  "w": "V<sub>2</sub> = 5.80 L &times; 0.185 mol / 0.245 mol = <b>4.38 L</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-031",
+  "t": "ch10-laws",
+  "q": "A sample of nitrogen occupies 2.65 L at 1.12 atm and 18.5 °C. What volume does it occupy at 0.875 atm and 37.5 °C?",
+  "c": [
+   "3.61 L",
+   "6.88 L",
+   "2.21 L",
+   "3.18 L"
+  ],
+  "y": [
+   "Combined gas law: V<sub>2</sub> = V<sub>1</sub> &times; (P<sub>1</sub>/P<sub>2</sub>) &times; (T<sub>2</sub>/T<sub>1</sub>). Lower pressure and higher temperature both make the volume larger.",
+   "This uses Celsius temperatures; 37.5/18.5 more than doubles the volume. Use kelvins.",
+   "This inverts the pressure ratio. The pressure fell, so the volume must rise, not fall.",
+   "This inverts the temperature ratio. The gas was warmed, so that factor should be greater than 1."
+  ],
+  "h": "Predict first: lower P makes V larger; higher T makes V larger.",
+  "w": "T<sub>1</sub> = 18.5 + 273.15 = 291.7 K; T<sub>2</sub> = 37.5 + 273.15 = 310.7 K. V<sub>2</sub> = 2.65 L &times; (1.12 / 0.875) &times; (310.7 K / 291.7 K) = <b>3.61 L</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c10-032",
+  "t": "ch10-laws",
+  "q": "A helium balloon holds 11.5 L at 1.01 atm and 23.5 °C. It rises to where its volume is 18.4 L and the temperature is &minus;8.5 °C. What is the pressure there?",
+  "c": [
+   "0.563 atm",
+   "&minus;0.228 atm",
+   "1.44 atm",
+   "0.708 atm"
+  ],
+  "y": [
+   "P<sub>2</sub> = P<sub>1</sub> &times; (V<sub>1</sub>/V<sub>2</sub>) &times; (T<sub>2</sub>/T<sub>1</sub>), with kelvins.",
+   "This uses Celsius temperatures; a negative pressure is impossible. Convert to kelvins.",
+   "This inverts the volume ratio. The balloon got bigger, which goes with a lower pressure.",
+   "This inverts the temperature ratio. Cooling lowers the pressure, so T<sub>2</sub>/T<sub>1</sub> must be less than 1."
+  ],
+  "h": "Solve P<sub>1</sub>V<sub>1</sub>/T<sub>1</sub> = P<sub>2</sub>V<sub>2</sub>/T<sub>2</sub> for P<sub>2</sub>.",
+  "w": "T<sub>1</sub> = 23.5 + 273.15 = 296.7 K; T<sub>2</sub> = &minus;8.5 + 273.15 = 264.7 K. P<sub>2</sub> = 1.01 atm &times; (11.5 / 18.4) &times; (264.7 K / 296.7 K) = <b>0.563 atm</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c10-033",
+  "t": "ch10-laws",
+  "q": "Before using Charles's law, a student must convert &minus;12.5 °C to kelvins. What is the correct value?",
+  "c": [
+   "260.7 K",
+   "285.7 K",
+   "&minus;285.7 K",
+   "260.65 K"
+  ],
+  "y": [
+   "K = °C + 273.15 = &minus;12.5 + 273.15, kept to the tenths place like &minus;12.5.",
+   "This drops the minus sign; &minus;12.5 °C is below freezing, so the kelvin value must be below 273.15 K.",
+   "This subtracts 273.15. Kelvin temperatures are never negative; add 273.15.",
+   "This keeps two decimal places. By the addition rule, the answer keeps the decimal places of the measurement (one)."
+  ],
+  "h": "K = °C + 273.15; keep the measurement's decimal places.",
+  "w": "&minus;12.5 + 273.15 = <b>260.7 K</b>.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c10-034",
+  "t": "ch10-laws",
+  "q": "The table shows data for a gas sample at constant temperature. Which relationship do the data show?",
+  "c": [
+   "An inverse relationship: P &times; V stays the same (Boyle's law)",
+   "A direct relationship: P/V stays the same (Charles's law)",
+   "A direct relationship between pressure and temperature (Gay-Lussac's law)",
+   "No relationship: the volume changes randomly"
+  ],
+  "y": [
+   "Each P &times; V product is 6.00 atm&middot;L: doubling the pressure halves the volume.",
+   "P/V is not constant (0.500/12.0 is not 3.00/2.00), and Charles's law relates volume and temperature, not pressure and volume.",
+   "Temperature is constant here; the data relate pressure and volume.",
+   "The volume falls in a regular way as the pressure rises; P &times; V is the same every time."
+  ],
+  "h": "Multiply P and V in each row. Then divide them.",
+  "w": "P &times; V = 6.00 atm&middot;L in every row, so P and V are <b>inversely related (Boyle's law)</b>.",
+  "d": 2,
+  "k": 0,
+  "f": [
+   {
+    "type": "table",
+    "cap": "A gas sample at constant temperature",
+    "head": [
+     "Pressure (atm)",
+     "Volume (L)"
+    ],
+    "rows": [
+     [
+      "0.500",
+      "12.0"
+     ],
+     [
+      "1.00",
+      "6.00"
+     ],
+     [
+      "2.00",
+      "3.00"
+     ],
+     [
+      "3.00",
+      "2.00"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c10-035",
+  "t": "ch10-ideal",
+  "q": "A 3.75 L tank of helium is at 8.65 atm and 22.5 °C. How many moles of helium does it contain?",
+  "c": [
+   "1.34 mol",
+   "17.6 mol",
+   "0.167 mol",
+   "0.748 mol"
+  ],
+  "y": [
+   "n = PV/RT with T in kelvins; atm, L, and K match R = 0.082058 L&middot;atm/(mol&middot;K).",
+   "This uses 22.5 °C for T. R needs kelvins.",
+   "This divides by 22.4 L/mol, the molar volume at STP. The tank is far above 1 atm and above 0 °C, so use PV = nRT.",
+   "This is RT/PV, the reciprocal of the answer. Solve PV = nRT for n: n = PV/(RT)."
+  ],
+  "h": "One set of conditions: use PV = nRT and solve for n.",
+  "w": "T = 22.5 + 273.15 = 295.7 K. n = (8.65 atm)(3.75 L) / [(0.082058)(295.7 K)] = <b>1.34 mol</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-036",
+  "t": "ch10-ideal",
+  "q": "What volume does 0.685 mol of CO<sub>2</sub> occupy at 1.15 atm and 31.5 °C?",
+  "c": [
+   "14.9 L",
+   "1.54 L",
+   "15.3 L",
+   "17.1 L"
+  ],
+  "y": [
+   "V = nRT/P, with T in kelvins.",
+   "This uses the Celsius temperature in PV = nRT; convert to kelvins.",
+   "This uses 22.4 L/mol, which applies only at STP (273 K and 1 atm).",
+   "This is nRT without dividing by the pressure."
+  ],
+  "h": "Solve PV = nRT for V.",
+  "w": "T = 31.5 + 273.15 = 304.7 K. V = (0.685 mol)(0.082058)(304.7 K) / 1.15 atm = <b>14.9 L</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-037",
+  "t": "ch10-ideal",
+  "q": "A 1.25 L container holds 0.0425 mol of nitrous oxide (N<sub>2</sub>O) at 24.0 °C. Using R = 62.36 L&middot;torr/(mol&middot;K), what is the pressure in torr?",
+  "c": [
+   "630. torr",
+   "0.829 torr",
+   "50.9 torr",
+   "0.00109 torr"
+  ],
+  "y": [
+   "P = nRT/V; with R = 62.36 the pressure comes out in torr.",
+   "This uses R = 0.082058, which gives the pressure in atm, not torr.",
+   "This uses 24.0 °C for T; R needs kelvins.",
+   "This finds the pressure in atm and then divides by 760; going from atm to torr you multiply by 760."
+  ],
+  "h": "The value of R decides the pressure unit.",
+  "w": "T = 24.0 + 273.15 = 297.2 K. P = (0.0425 mol)(62.36)(297.2 K) / 1.25 L = <b>630. torr</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-038",
+  "t": "ch10-ideal",
+  "q": "A 5.25 L cylinder contains 0.415 mol of argon at 2.05 atm. What is the temperature of the gas in kelvins?",
+  "c": [
+   "316 K",
+   "0.00316 K",
+   "0.416 K",
+   "316 °C"
+  ],
+  "y": [
+   "T = PV/(nR); atm and L match R = 0.082058.",
+   "This is nR/(PV), the reciprocal. Solve PV = nRT for T.",
+   "This uses R = 62.36, which needs the pressure in torr. With atm, use 0.082058.",
+   "PV/(nR) gives kelvins, not degrees Celsius."
+  ],
+  "h": "Solve PV = nRT for T.",
+  "w": "T = (2.05 atm)(5.25 L) / [(0.415 mol)(0.082058)] = <b>316 K</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-039",
+  "t": "ch10-ideal",
+  "q": "A student will use PV = nRT with the pressure in mmHg and the volume in liters, without converting units. Which value of R must be used?",
+  "c": [
+   "62.36 L&middot;torr/(mol&middot;K)",
+   "0.082058 L&middot;atm/(mol&middot;K)",
+   "8.3144 J/(mol&middot;K)",
+   "22.4 L/mol"
+  ],
+  "y": [
+   "1 torr = 1 mmHg, so this R matches a pressure in mmHg, a volume in L, and T in K.",
+   "This R needs the pressure in atm; with mmHg the answer would be off by a factor of 760.",
+   "This R is in energy units, for energy calculations.",
+   "22.4 L/mol is the molar volume at STP, not a value of R."
+  ],
+  "h": "Match the pressure unit in R to the pressure unit you have.",
+  "w": "mmHg = torr, so use <b>R = 62.36 L&middot;torr/(mol&middot;K)</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c10-040",
+  "t": "ch10-ideal",
+  "q": "A student plugs 455 mL, 735 mmHg, and 25.0 °C directly into PV = nRT with R = 0.082058 L&middot;atm/(mol&middot;K). Which conversions are needed first?",
+  "c": [
+   "mL to L, mmHg to atm, and °C to K",
+   "Only °C to K",
+   "mL to L and °C to K only",
+   "mmHg to atm and grams to moles"
+  ],
+  "y": [
+   "R = 0.082058 L&middot;atm/(mol&middot;K) needs liters, atmospheres, and kelvins, so all three givens must be converted.",
+   "Temperature must be in kelvins, but the volume and pressure must also match R's units.",
+   "The pressure is in mmHg; with R = 0.082058 it must be in atm (or use R = 62.36 instead).",
+   "No mass is given here, and the volume and temperature still need converting."
+  ],
+  "h": "Read the units in R: L, atm, mol, K.",
+  "w": "R needs L, atm, and K: convert <b>mL to L, mmHg to atm, and °C to K</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c10-041",
+  "t": "ch10-ideal",
+  "q": "A 285 mL flask holds argon at 738 mmHg and 21.5 °C. How many moles of argon are in the flask?",
+  "c": [
+   "0.0114 mol",
+   "8.70 mol",
+   "11.4 mol",
+   "0.157 mol"
+  ],
+  "y": [
+   "Convert first: 285 mL = 0.285 L and 738 mmHg &divide; 760 = 0.9711 atm; then n = PV/RT.",
+   "This puts mmHg into PV = nRT with R = 0.082058, so the answer is 760 times too large.",
+   "This uses 285 mL as if it were liters, so the answer is 1000 times too large.",
+   "This uses the Celsius temperature; R needs kelvins."
+  ],
+  "h": "Line up the units with R = 0.082058 L&middot;atm/(mol&middot;K).",
+  "w": "P = 0.9711 atm, V = 0.285 L, T = 21.5 + 273.15 = 294.7 K. n = PV/RT = <b>0.0114 mol</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c10-042",
+  "t": "ch10-ideal",
+  "q": "What volume does 0.365 mol of O<sub>2</sub> occupy at STP?",
+  "c": [
+   "8.18 L",
+   "0.0163 L",
+   "61.4 L",
+   "8.93 L"
+  ],
+  "y": [
+   "At STP, 1 mol of any gas occupies 22.4 L: 0.365 mol &times; 22.4 L/mol.",
+   "This divides by 22.4 L/mol; moles times liters per mole gives liters.",
+   "This divides 22.4 by the moles; set it up so mol cancels.",
+   "This uses 25 °C (298.15 K) as the standard temperature. STP is 0 °C (273 K) and 1 atm."
+  ],
+  "h": "At STP, 1 mol = 22.4 L.",
+  "w": "0.365 mol &times; 22.4 L/mol = <b>8.18 L</b>.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c10-043",
+  "t": "ch10-ideal",
+  "q": "What volume does 7.25 g of methane, CH<sub>4</sub> (16.043 g/mol), occupy at STP?",
+  "c": [
+   "10.1 L",
+   "162 L",
+   "0.324 L",
+   "0.0202 L"
+  ],
+  "y": [
+   "Grams to moles first (7.25 &divide; 16.043), then &times; 22.4 L/mol at STP.",
+   "This treats grams as moles. Convert to moles with the molar mass first.",
+   "This divides grams by 22.4 and never uses the molar mass.",
+   "This finds the moles and then divides by 22.4; moles times 22.4 L/mol gives liters."
+  ],
+  "h": "Our goal is the mole: g &rarr; mol &rarr; L.",
+  "w": "7.25 g &divide; 16.043 g/mol = 0.4519 mol; &times; 22.4 L/mol = <b>10.1 L</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-044",
+  "t": "ch10-ideal",
+  "q": "A student uses 22.4 L/mol to find the volume of 1.00 mol of gas at 37 °C and 1 atm. How does the student's answer compare with the true volume?",
+  "c": [
+   "It is too small, because a gas at 37 °C occupies more than 22.4 L per mole.",
+   "It is too large, because a gas at 37 °C occupies less than 22.4 L per mole.",
+   "It is correct, because 22.4 L/mol works for any gas.",
+   "It is correct, because the pressure is 1 atm."
+  ],
+  "y": [
+   "22.4 L/mol is the molar volume at 0 °C (273 K). At 37 °C the gas is warmer, so by Charles's law it takes up more room (about 25.5 L).",
+   "Warming a gas at constant pressure makes its volume larger, not smaller.",
+   "22.4 L/mol is the same for every ideal gas, but only at STP.",
+   "STP needs both 1 atm and 0 °C; the temperature here is 37 °C."
+  ],
+  "h": "STP is 0 °C and 1 atm. Is 37 °C warmer or colder?",
+  "w": "At 37 °C, 1 mol occupies about 25.5 L, so 22.4 L is <b>too small</b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c10-045",
+  "t": "ch10-ideal",
+  "q": "A 1.45 g sample of an unknown gas occupies 0.825 L at 1.05 atm and 27.5 °C. What is its molar mass?",
+  "c": [
+   "41.3 g/mol",
+   "3.78 g/mol",
+   "0.0242 g/mol",
+   "1.76 g/mol"
+  ],
+  "y": [
+   "Find n = PV/RT, then M = m/n.",
+   "This uses 27.5 °C in PV = nRT; convert to kelvins.",
+   "This divides moles by grams. Molar mass is grams per mole: M = m/n.",
+   "This is the density, mass divided by volume (g/L), not the molar mass."
+  ],
+  "h": "Molar mass = grams &divide; moles; get the moles from PV = nRT.",
+  "w": "T = 27.5 + 273.15 = 300.7 K. n = (1.05)(0.825) / [(0.082058)(300.7)] = 0.03511 mol; M = 1.45 g &divide; 0.03511 mol = <b>41.3 g/mol</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c10-046",
+  "t": "ch10-ideal",
+  "q": "A 0.842 g sample of a gas fills a 625 mL flask. What is the density of the gas in g/L?",
+  "c": [
+   "1.35 g/L",
+   "0.00135 g/L",
+   "0.742 g/L",
+   "0.526 g/L"
+  ],
+  "y": [
+   "d = m/V with V in liters: 625 mL = 0.625 L.",
+   "This divides by 625 mL; convert to liters to get g/L.",
+   "This is V/m; density is mass divided by volume.",
+   "This multiplies mass and volume; density is mass divided by volume."
+  ],
+  "h": "d = m/V, with V in liters.",
+  "w": "d = 0.842 g &divide; 0.625 L = <b>1.35 g/L</b>.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c10-047",
+  "t": "ch10-ideal",
+  "q": "Which problem is solved most directly with PV = nRT rather than the combined gas law?",
+  "c": [
+   "Finding how many moles of oxygen are in a tank of known volume, pressure, and temperature",
+   "Finding the new volume of a balloon after it is warmed and rises to a lower pressure",
+   "Finding the new pressure in a rigid can after it is heated",
+   "Finding the new volume of a gas after it is compressed at constant temperature"
+  ],
+  "y": [
+   "There is one set of conditions and you need the moles, so use PV = nRT.",
+   "This is a before-and-after change in P, V, and T: the combined gas law, with no need for R.",
+   "A before-and-after change at constant volume: Gay-Lussac's law (part of the combined gas law).",
+   "A before-and-after change at constant temperature: Boyle's law."
+  ],
+  "h": "Is the gas changing? Before-and-after means combined gas law; one set of conditions means PV = nRT.",
+  "w": "One set of conditions and an unknown amount: <b>finding moles in a tank</b> uses PV = nRT.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c10-048",
+  "t": "ch10-stoich",
+  "q": "Hydrogen peroxide decomposes: 2 H<sub>2</sub>O<sub>2</sub>(aq) &rarr; 2 H<sub>2</sub>O(l) + O<sub>2</sub>(g). What volume of O<sub>2</sub> at STP forms from 8.50 g of H<sub>2</sub>O<sub>2</sub> (34.014 g/mol)?",
+  "c": [
+   "2.80 L",
+   "5.60 L",
+   "11.2 L",
+   "95.2 L"
+  ],
+  "y": [
+   "g &rarr; mol H<sub>2</sub>O<sub>2</sub> &rarr; &times; (1 mol O<sub>2</sub> / 2 mol H<sub>2</sub>O<sub>2</sub>) &rarr; &times; 22.4 L/mol.",
+   "This skips the mole ratio; 2 mol H<sub>2</sub>O<sub>2</sub> give only 1 mol O<sub>2</sub>.",
+   "This flips the mole ratio (2/1 instead of 1/2).",
+   "This uses grams of H<sub>2</sub>O<sub>2</sub> as if they were moles."
+  ],
+  "h": "g &rarr; mol &rarr; mole ratio &rarr; L at STP.",
+  "w": "8.50 g &divide; 34.014 g/mol = 0.2499 mol H<sub>2</sub>O<sub>2</sub>; &times; &frac12; = 0.1249 mol O<sub>2</sub>; &times; 22.4 L/mol = <b>2.80 L</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-049",
+  "t": "ch10-stoich",
+  "q": "In the reaction N<sub>2</sub>(g) + 3 H<sub>2</sub>(g) &rarr; 2 NH<sub>3</sub>(g), what mass of ammonia (NH<sub>3</sub>, 17.031 g/mol) forms from 6.72 L of N<sub>2</sub> at STP with excess H<sub>2</sub>?",
+  "c": [
+   "10.2 g",
+   "5.11 g",
+   "2.55 g",
+   "229 g"
+  ],
+  "y": [
+   "L N<sub>2</sub> &divide; 22.4 L/mol &rarr; &times; (2 mol NH<sub>3</sub> / 1 mol N<sub>2</sub>) &rarr; &times; 17.031 g/mol.",
+   "This skips the mole ratio; each mole of N<sub>2</sub> makes 2 mol NH<sub>3</sub>.",
+   "This flips the mole ratio (1/2 instead of 2/1).",
+   "This treats liters as moles; divide by 22.4 L/mol first."
+  ],
+  "h": "At STP, liters &divide; 22.4 = moles.",
+  "w": "6.72 L &divide; 22.4 L/mol = 0.3000 mol N<sub>2</sub>; &times; 2 = 0.6000 mol NH<sub>3</sub>; &times; 17.031 g/mol = <b>10.2 g</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-050",
+  "t": "ch10-stoich",
+  "q": "Propane burns in a camp stove: C<sub>3</sub>H<sub>8</sub>(g) + 5 O<sub>2</sub>(g) &rarr; 3 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(g). What volume of CO<sub>2</sub> at 0.975 atm and 27.5 °C forms from 3.65 g of C<sub>3</sub>H<sub>8</sub> (44.097 g/mol)?",
+  "c": [
+   "6.28 L",
+   "5.56 L",
+   "2.09 L",
+   "0.575 L"
+  ],
+  "y": [
+   "g &rarr; mol C<sub>3</sub>H<sub>8</sub> &rarr; &times; 3 &rarr; V = nRT/P with T in kelvins.",
+   "This uses 22.4 L/mol, which is only for STP. These conditions are not STP, so use V = nRT/P.",
+   "This skips the mole ratio and finds the volume of the propane's moles; each mole of propane makes 3 mol CO<sub>2</sub>.",
+   "This uses the Celsius temperature in V = nRT/P."
+  ],
+  "h": "Not at STP: after the mole ratio, use V = nRT/P.",
+  "w": "3.65 g &divide; 44.097 = 0.08277 mol C<sub>3</sub>H<sub>8</sub>; &times; 3 = 0.2483 mol CO<sub>2</sub>. T = 27.5 + 273.15 = 300.7 K. V = (0.2483)(0.082058)(300.7) / 0.975 = <b>6.28 L</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c10-051",
+  "t": "ch10-stoich",
+  "q": "Zinc reacts with hydrochloric acid: Zn(s) + 2 HCl(aq) &rarr; ZnCl<sub>2</sub>(aq) + H<sub>2</sub>(g). What mass of zinc (65.39 g/mol) is needed to make 0.385 L of H<sub>2</sub> at 0.982 atm and 23.5 °C?",
+  "c": [
+   "1.02 g",
+   "12.8 g",
+   "1.12 g",
+   "2.03 g"
+  ],
+  "y": [
+   "n H<sub>2</sub> = PV/RT; 1 mol Zn per mol H<sub>2</sub>; &times; 65.39 g/mol.",
+   "This uses the Celsius temperature in n = PV/RT.",
+   "This uses 22.4 L/mol, but the gas is not at STP.",
+   "This uses the 2 : 1 ratio of HCl to H<sub>2</sub>. Zinc and H<sub>2</sub> are 1 : 1."
+  ],
+  "h": "L of gas &rarr; mol (PV = nRT) &rarr; mole ratio &rarr; g.",
+  "w": "T = 23.5 + 273.15 = 296.7 K. n = (0.982)(0.385) / [(0.082058)(296.7)] = 0.01553 mol H<sub>2</sub> = mol Zn; &times; 65.39 g/mol = <b>1.02 g</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c10-052",
+  "t": "ch10-stoich",
+  "q": "Ethane burns: 2 C<sub>2</sub>H<sub>6</sub>(g) + 7 O<sub>2</sub>(g) &rarr; 4 CO<sub>2</sub>(g) + 6 H<sub>2</sub>O(g). What volume of water vapor forms when 3.20 L of C<sub>2</sub>H<sub>6</sub> burns, with both gases measured at the same temperature and pressure?",
+  "c": [
+   "9.60 L",
+   "1.07 L",
+   "3.20 L",
+   "19.2 L"
+  ],
+  "y": [
+   "Same T and P, so coefficients are volume ratios: 3.20 L &times; (6 L H<sub>2</sub>O / 2 L C<sub>2</sub>H<sub>6</sub>).",
+   "This flips the ratio (2/6 instead of 6/2).",
+   "This assumes a 1 : 1 ratio; the coefficients are 2 C<sub>2</sub>H<sub>6</sub> : 6 H<sub>2</sub>O.",
+   "This multiplies by 6 but forgets to divide by the 2 in front of C<sub>2</sub>H<sub>6</sub>."
+  ],
+  "h": "Same T and P: liters behave like moles.",
+  "w": "3.20 L &times; 6/2 = <b>9.60 L</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-053",
+  "t": "ch10-stoich",
+  "q": "For 2 H<sub>2</sub>(g) + O<sub>2</sub>(g) &rarr; 2 H<sub>2</sub>O(l), a student says, &ldquo;4.0 L of H<sub>2</sub> makes 4.0 L of water, because the coefficients are 2 : 2.&rdquo; What is wrong?",
+  "c": [
+   "Volume ratios apply only to gases; the water here is a liquid.",
+   "Nothing; coefficients always give volume ratios.",
+   "The ratio should be 2 : 1, so 4.0 L of H<sub>2</sub> makes 2.0 L of water.",
+   "Volume ratios apply only at STP."
+  ],
+  "y": [
+   "Equal volumes contain equal moles only for gases at the same T and P. Liquid water's volume is set by its density, not by Avogadro's law.",
+   "Coefficients give volume ratios only for gases at the same temperature and pressure.",
+   "The 2 : 2 mole ratio is right; the problem is that water is a liquid, so moles do not convert to liters this way.",
+   "Volume ratios work at any temperature and pressure, as long as all the gases are at the same conditions."
+  ],
+  "h": "Look at the state symbol for water.",
+  "w": "Volume ratios come from Avogadro's law, which is about gases: <b>liquid water does not follow it</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c10-054",
+  "t": "ch10-stoich",
+  "q": "Heating potassium chlorate releases oxygen: 2 KClO<sub>3</sub>(s) &rarr; 2 KCl(s) + 3 O<sub>2</sub>(g). What volume of O<sub>2</sub> at 1.02 atm and 22.5 °C forms from 4.25 g of KClO<sub>3</sub> (122.55 g/mol)?",
+  "c": [
+   "1.24 L",
+   "0.825 L",
+   "0.550 L",
+   "0.0942 L"
+  ],
+  "y": [
+   "g &rarr; mol KClO<sub>3</sub> &rarr; &times; 3/2 &rarr; V = nRT/P.",
+   "This skips the mole ratio; 2 mol KClO<sub>3</sub> release 3 mol O<sub>2</sub>.",
+   "This flips the mole ratio (2/3 instead of 3/2).",
+   "This uses the Celsius temperature."
+  ],
+  "h": "Mole ratio first, then V = nRT/P with kelvins.",
+  "w": "4.25 g &divide; 122.55 = 0.03468 mol; &times; 3/2 = 0.05202 mol O<sub>2</sub>. T = 22.5 + 273.15 = 295.7 K. V = <b>1.24 L</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c10-055",
+  "t": "ch10-stoich",
+  "q": "Yeast ferments glucose: C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>(aq) &rarr; 2 C<sub>2</sub>H<sub>5</sub>OH(aq) + 2 CO<sub>2</sub>(g). What volume of CO<sub>2</sub>, measured at STP, comes from 15.5 g of glucose (180.156 g/mol)?",
+  "c": [
+   "3.85 L",
+   "1.93 L",
+   "694 L",
+   "0.00768 L"
+  ],
+  "y": [
+   "g &rarr; mol glucose &rarr; &times; 2 &rarr; &times; 22.4 L/mol.",
+   "This skips the mole ratio; each glucose makes 2 CO<sub>2</sub>.",
+   "This uses grams of glucose as if they were moles.",
+   "This divides the moles of CO<sub>2</sub> by 22.4; multiply by 22.4 L/mol to get liters."
+  ],
+  "h": "g &rarr; mol &rarr; mole ratio &rarr; L at STP.",
+  "w": "15.5 &divide; 180.156 = 0.08604 mol; &times; 2 = 0.1721 mol CO<sub>2</sub>; &times; 22.4 = <b>3.85 L</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-056",
+  "t": "ch10-stoich",
+  "q": "Hot nitrous oxide decomposes: 2 N<sub>2</sub>O(g) &rarr; 2 N<sub>2</sub>(g) + O<sub>2</sub>(g). What volume of O<sub>2</sub> forms from 0.575 L of N<sub>2</sub>O, with both gases measured at the same temperature and pressure?",
+  "c": [
+   "0.288 L",
+   "1.15 L",
+   "0.575 L",
+   "0.0128 L"
+  ],
+  "y": [
+   "Both are gases at the same T and P: 0.575 L N<sub>2</sub>O &times; (1 L O<sub>2</sub> / 2 L N<sub>2</sub>O).",
+   "This flips the ratio; 2 volumes of N<sub>2</sub>O give only 1 volume of O<sub>2</sub>.",
+   "This assumes a 1 : 1 ratio; the coefficients are 2 : 1.",
+   "This converts to moles with 22.4 L/mol and stops there; the number is moles of O<sub>2</sub>, not liters."
+  ],
+  "h": "Same T and P: use the coefficients as a volume ratio.",
+  "w": "0.575 L &times; 1/2 = <b>0.288 L</b>.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c10-057",
+  "t": "ch10-stoich",
+  "q": "An antacid tablet neutralizes stomach acid: CaCO<sub>3</sub>(s) + 2 HCl(aq) &rarr; CaCl<sub>2</sub>(aq) + H<sub>2</sub>O(l) + CO<sub>2</sub>(g). What volume of CO<sub>2</sub> at 0.988 atm and 37.0 °C forms from 0.750 g of CaCO<sub>3</sub> (100.09 g/mol)?",
+  "c": [
+   "0.193 L",
+   "0.168 L",
+   "0.0230 L",
+   "0.386 L"
+  ],
+  "y": [
+   "mol CaCO<sub>3</sub> = mol CO<sub>2</sub> (1 : 1); V = nRT/P at body temperature.",
+   "This uses 22.4 L/mol, but 37.0 °C is not STP.",
+   "This uses the Celsius temperature.",
+   "This uses the 2 from HCl; CaCO<sub>3</sub> and CO<sub>2</sub> are 1 : 1."
+  ],
+  "h": "g &rarr; mol &rarr; 1 : 1 &rarr; V = nRT/P.",
+  "w": "0.750 &divide; 100.09 = 0.007493 mol CO<sub>2</sub>. T = 37.0 + 273.15 = 310.2 K. V = (0.007493)(0.082058)(310.2) / 0.988 = <b>0.193 L</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c10-058",
+  "t": "ch10-stoich",
+  "q": "Methane burns: CH<sub>4</sub>(g) + 2 O<sub>2</sub>(g) &rarr; CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(g). What mass of CH<sub>4</sub> (16.043 g/mol) uses up 5.35 L of O<sub>2</sub> measured at 1.10 atm and 19.5 °C?",
+  "c": [
+   "1.97 g",
+   "3.93 g",
+   "7.86 g",
+   "1.92 g"
+  ],
+  "y": [
+   "n O<sub>2</sub> = PV/RT; &times; (1 mol CH<sub>4</sub> / 2 mol O<sub>2</sub>); &times; 16.043 g/mol.",
+   "This skips the mole ratio; 2 mol O<sub>2</sub> burn each mole of CH<sub>4</sub>.",
+   "This flips the mole ratio (2/1 instead of 1/2).",
+   "This uses 22.4 L/mol, but the O<sub>2</sub> is not at STP."
+  ],
+  "h": "L O<sub>2</sub> &rarr; mol (PV = nRT) &rarr; mole ratio &rarr; g CH<sub>4</sub>.",
+  "w": "T = 19.5 + 273.15 = 292.7 K. n O<sub>2</sub> = (1.10)(5.35) / [(0.082058)(292.7)] = 0.2451 mol; &divide; 2 = 0.1225 mol CH<sub>4</sub>; &times; 16.043 = <b>1.97 g</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c10-059",
+  "t": "ch10-dalton",
+  "q": "A scuba tank holds a nitrox mixture in which the partial pressure of O<sub>2</sub> is 6.82 atm and that of N<sub>2</sub> is 13.9 atm. What is the total pressure?",
+  "c": [
+   "20.7 atm",
+   "7.1 atm",
+   "10.4 atm",
+   "20.72 atm"
+  ],
+  "y": [
+   "Dalton's law: P<sub>total</sub> = 6.82 + 13.9, rounded to the tenths place like 13.9.",
+   "This subtracts the partial pressures; Dalton's law adds them.",
+   "This averages the partial pressures; the total is their sum.",
+   "This is the sum, but it keeps two decimal places; 13.9 atm is known only to the tenths place."
+  ],
+  "h": "P<sub>total</sub> = P<sub>1</sub> + P<sub>2</sub>.",
+  "w": "6.82 + 13.9 = <b>20.7 atm</b>.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c10-060",
+  "t": "ch10-dalton",
+  "q": "A tank contains only helium and oxygen at a total pressure of 2.65 atm. The partial pressure of helium is 1.95 atm. What is the partial pressure of oxygen?",
+  "c": [
+   "0.70 atm",
+   "4.60 atm",
+   "0.736 atm",
+   "1.33 atm"
+  ],
+  "y": [
+   "P<sub>O2</sub> = P<sub>total</sub> &minus; P<sub>He</sub> = 2.65 &minus; 1.95, to the hundredths place.",
+   "This adds the pressures; the total already includes helium, so subtract.",
+   "This divides the helium pressure by the total, which gives helium's mole fraction, not a pressure.",
+   "This is half of the total; the gases do not share the pressure equally."
+  ],
+  "h": "The partial pressures must add up to the total.",
+  "w": "2.65 &minus; 1.95 = <b>0.70 atm</b>.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c10-061",
+  "t": "ch10-dalton",
+  "q": "A gas mixture contains 0.385 mol N<sub>2</sub>, 0.125 mol O<sub>2</sub>, and 0.0400 mol CO<sub>2</sub>. What is the mole fraction of O<sub>2</sub>?",
+  "c": [
+   "0.227",
+   "0.125",
+   "0.325",
+   "4.40"
+  ],
+  "y": [
+   "X<sub>O2</sub> = n<sub>O2</sub>/n<sub>total</sub> = 0.125 / 0.550.",
+   "This is the moles of O<sub>2</sub>, not its fraction of the total moles.",
+   "This divides by the moles of N<sub>2</sub> only; divide by the total moles of all three gases.",
+   "This is n<sub>total</sub>/n<sub>O2</sub>, upside down; a mole fraction is never greater than 1."
+  ],
+  "h": "Add all the moles first.",
+  "w": "n<sub>total</sub> = 0.550 mol; X<sub>O2</sub> = 0.125 / 0.550 = <b>0.227</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-062",
+  "t": "ch10-dalton",
+  "q": "During dental sedation, a nitrous oxide&ndash;oxygen mixture is delivered at a total pressure of 1.02 atm. The mole fraction of N<sub>2</sub>O is 0.650. What is the partial pressure of N<sub>2</sub>O?",
+  "c": [
+   "0.663 atm",
+   "0.637 atm",
+   "1.57 atm",
+   "0.357 atm"
+  ],
+  "y": [
+   "P<sub>N2O</sub> = X<sub>N2O</sub> &times; P<sub>total</sub>.",
+   "This divides the mole fraction by the total pressure; multiply them.",
+   "This divides the total by the mole fraction, which gives a partial pressure larger than the total.",
+   "This uses 1 &minus; 0.650, the mole fraction of O<sub>2</sub>; it is the oxygen's partial pressure."
+  ],
+  "h": "P<sub>i</sub> = X<sub>i</sub> &times; P<sub>total</sub>.",
+  "w": "0.650 &times; 1.02 atm = <b>0.663 atm</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-063",
+  "t": "ch10-dalton",
+  "q": "Dry air is 78.1% N<sub>2</sub> by moles. What is the partial pressure of N<sub>2</sub> when the barometer reads 749 mmHg?",
+  "c": [
+   "585 mmHg",
+   "5.85 &times; 10<sup>4</sup> mmHg",
+   "959 mmHg",
+   "671 mmHg"
+  ],
+  "y": [
+   "X<sub>N2</sub> = 78.1% &divide; 100 = 0.781; P<sub>N2</sub> = 0.781 &times; 749 mmHg.",
+   "This uses 78.1 as the mole fraction without dividing by 100; a partial pressure cannot exceed the total.",
+   "This divides by the mole fraction; multiply by it.",
+   "This subtracts the percent from the pressure; percent and pressure are different quantities. Multiply by the mole fraction."
+  ],
+  "h": "A percent by moles divided by 100 is a mole fraction.",
+  "w": "P<sub>N2</sub> = 0.781 &times; 749 mmHg = <b>585 mmHg</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-064",
+  "t": "ch10-dalton",
+  "q": "A diving cylinder holds 4.45 mol of helium and 1.15 mol of oxygen at a total pressure of 165 atm. What is the partial pressure of oxygen?",
+  "c": [
+   "33.9 atm",
+   "42.6 atm",
+   "131 atm",
+   "190. atm"
+  ],
+  "y": [
+   "X<sub>O2</sub> = 1.15 / 5.60; P<sub>O2</sub> = X<sub>O2</sub> &times; 165 atm.",
+   "This divides by the moles of helium only; the mole fraction uses the total moles.",
+   "This is the partial pressure of helium.",
+   "This multiplies the moles by the total pressure; use the mole fraction, not the moles."
+  ],
+  "h": "Mole fraction first, then P<sub>i</sub> = X<sub>i</sub>P<sub>total</sub>.",
+  "w": "n<sub>total</sub> = 5.60 mol; X<sub>O2</sub> = 0.2054; P<sub>O2</sub> = 0.2054 &times; 165 = <b>33.9 atm</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c10-065",
+  "t": "ch10-dalton",
+  "q": "A student collects oxygen over water at 30.0 °C when the room pressure is 751 mmHg. Use the table. What is the partial pressure of the oxygen?",
+  "c": [
+   "719 mmHg",
+   "727 mmHg",
+   "783 mmHg",
+   "751 mmHg"
+  ],
+  "y": [
+   "P<sub>O2</sub> = P<sub>atm</sub> &minus; P<sub>H2O</sub> = 751 &minus; 31.8, to the ones place like 751.",
+   "This subtracts the vapor pressure at 25.0 °C. Use the value at the water's temperature, 30.0 °C.",
+   "This adds the water vapor; the room pressure already includes it, so subtract.",
+   "This forgets the water vapor; the gas in the tube is a mixture of oxygen and water vapor."
+  ],
+  "h": "Find water's vapor pressure at 30.0 °C in the table and subtract it.",
+  "w": "751 &minus; 31.8 = <b>719 mmHg</b>.",
+  "d": 2,
+  "k": 1,
+  "f": [
+   {
+    "type": "table",
+    "cap": "Vapor pressure of water",
+    "head": [
+     "Temperature (°C)",
+     "Vapor pressure (mmHg)"
+    ],
+    "rows": [
+     [
+      "20.0",
+      "17.5"
+     ],
+     [
+      "25.0",
+      "23.8"
+     ],
+     [
+      "30.0",
+      "31.8"
+     ],
+     [
+      "37.0",
+      "47.1"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c10-066",
+  "t": "ch10-dalton",
+  "q": "A student collects 48.5 mL of oxygen over water at 20.0 °C. The room pressure is 746 mmHg, and water's vapor pressure at 20.0 °C is 17.5 mmHg. How many moles of O<sub>2</sub> were collected?",
+  "c": [
+   "0.00193 mol",
+   "0.00198 mol",
+   "1.47 mol",
+   "0.00203 mol"
+  ],
+  "y": [
+   "P<sub>O2</sub> = 746 &minus; 17.5 = 729 mmHg = 0.9592 atm; V = 0.0485 L; n = PV/RT.",
+   "This uses the room pressure; subtract water's vapor pressure first, because only part of the pressure belongs to the O<sub>2</sub>.",
+   "This uses mmHg with R = 0.082058, so the answer is 760 times too large.",
+   "This adds the water vapor pressure; it should be subtracted."
+  ],
+  "h": "Dry gas pressure first, then convert units to match R.",
+  "w": "P<sub>O2</sub> = 729 mmHg = 0.9592 atm; T = 20.0 + 273.15 = 293.2 K. n = (0.9592)(0.0485) / [(0.082058)(293.2)] = <b>0.00193 mol</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c10-067",
+  "t": "ch10-dalton",
+  "q": "On the summit of Mount Whitney the air pressure is about 438 mmHg. Use the composition of dry air in the table. What is the partial pressure of oxygen on the summit?",
+  "c": [
+   "91.8 mmHg",
+   "9.18 &times; 10<sup>3</sup> mmHg",
+   "159 mmHg",
+   "2.09 &times; 10<sup>3</sup> mmHg"
+  ],
+  "y": [
+   "The percentage of O<sub>2</sub> is the same at altitude; only the total pressure drops. P<sub>O2</sub> = 0.2095 &times; 438 mmHg.",
+   "This uses 20.95 without dividing by 100.",
+   "This uses sea-level pressure, 760 mmHg. On the summit the total pressure is 438 mmHg.",
+   "This divides by the mole fraction; multiply by it."
+  ],
+  "h": "P<sub>O2</sub> = X<sub>O2</sub> &times; P<sub>total</sub>; X = percent &divide; 100.",
+  "w": "0.2095 &times; 438 mmHg = <b>91.8 mmHg</b>, much lower than at sea level, which is why breathing is harder at altitude.",
+  "d": 2,
+  "k": 1,
+  "f": [
+   {
+    "type": "table",
+    "cap": "Composition of dry air (by moles)",
+    "head": [
+     "Gas",
+     "Percent"
+    ],
+    "rows": [
+     [
+      "N<sub>2</sub>",
+      "78.08%"
+     ],
+     [
+      "O<sub>2</sub>",
+      "20.95%"
+     ],
+     [
+      "Ar",
+      "0.93%"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c10-068",
+  "t": "ch10-dalton",
+  "q": "Why must water's vapor pressure be subtracted from the room pressure when a gas is collected over water?",
+  "c": [
+   "The gas in the tube is a mixture of the collected gas and water vapor, and together they balance the room pressure.",
+   "Water vapor is heavier than the collected gas, so it pushes down on the tube.",
+   "The water absorbs some of the gas, lowering its pressure.",
+   "The room pressure must be converted to the pressure of liquid water."
+  ],
+  "y": [
+   "Water evaporates into the tube, so P<sub>atm</sub> = P<sub>gas</sub> + P<sub>H2O</sub>; subtracting gives the dry gas pressure.",
+   "Weight is not the reason; each gas in a mixture contributes its own partial pressure.",
+   "The correction is for water vapor added to the gas, not gas lost into the water.",
+   "Liquid water does not have a 'pressure' to convert to; its vapor contributes a partial pressure."
+  ],
+  "h": "What else, besides the collected gas, is in the tube?",
+  "w": "The tube holds <b>gas plus water vapor</b>; Dalton's law says their pressures add to P<sub>atm</sub>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c10-069",
+  "t": "ch10-dalton",
+  "q": "Helium is pumped into a rigid tank that already contains oxygen, at constant temperature. What happens to the partial pressure of the oxygen?",
+  "c": [
+   "It stays the same, while the total pressure increases.",
+   "It decreases, because the helium pushes the oxygen aside.",
+   "It increases, because the total pressure increases.",
+   "It decreases, because the mole fraction of oxygen decreases while the total pressure stays the same."
+  ],
+  "y": [
+   "The same oxygen molecules still hit the walls just as often; each gas acts as if the others were not there.",
+   "Gas particles in KMT do not push each other aside; oxygen's pressure depends only on its own moles, V, and T.",
+   "The total rises because helium adds its own partial pressure; oxygen's share in pressure units does not change.",
+   "Oxygen's mole fraction does fall, but the total pressure rises by just enough that X &times; P<sub>total</sub> stays the same."
+  ],
+  "h": "Each gas behaves as if it were alone in the tank.",
+  "w": "Oxygen's moles, V, and T are unchanged, so <b>its partial pressure stays the same</b>; the total rises.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c10-070",
+  "t": "ch10-dalton",
+  "q": "Mateo Herrera, who has asthma, is on supplemental oxygen, and the air he breathes in has an O<sub>2</sub> mole fraction of about 0.285. In his airways it is warmed to 37.0 °C and saturated with water vapor (47.1 mmHg). If the air pressure is 758 mmHg, what is the partial pressure of O<sub>2</sub> in the humidified air?",
+  "c": [
+   "203 mmHg",
+   "216 mmHg",
+   "229 mmHg",
+   "508 mmHg"
+  ],
+  "y": [
+   "Water vapor takes 47.1 mmHg of the total, leaving 711 mmHg for the other gases; P<sub>O2</sub> = 0.285 &times; 711. (Context only.)",
+   "This forgets the water vapor. Humidified air in the airways includes water vapor at 47.1 mmHg.",
+   "This adds the water vapor instead of subtracting it.",
+   "This uses 1 &minus; 0.285, the share of the other gases, not oxygen's share."
+  ],
+  "h": "Subtract water vapor first, then multiply by the mole fraction.",
+  "w": "758 &minus; 47.1 = 711 mmHg; 0.285 &times; 711 = <b>203 mmHg</b>.",
+  "d": 3,
+  "k": 1
+ }
+]
