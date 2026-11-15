@@ -412,7 +412,7 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - Valley Connection: **Radon in the Sierra foothills** (California Geological Survey radon potential maps; CDPH radon program) or **nuclear medicine at Valley hospitals** (general, no named facility unless sourced).
 **Patient-case beat**: Mateo's doctor orders a V/Q scan to rule out a blood clot; compute how much Tc-99m remains after 12 hours (two half-lives).
 
-**Status 2026-11-15:** built and published (597494 intro, 598058–598066); Mateo opener (V/Q scan, Tc-99m); 7 figures; 55 practice problems; 72 Try It + 42 homework items; ADAPT 224862. Old pages retired.
+**Status 2026-11-15:** built and published (597494 intro, 598058–598066 + 598071); 14.6 split into Radiation and Health / Radiation in Medicine (14.7); Mateo opener (V/Q scan, Tc-99m); 7 figures; 55 practice problems; 75 Try It + 42 homework items; ADAPT 224862 (117). Old pages retired.
 
 ---
 
