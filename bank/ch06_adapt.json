@@ -1,0 +1,842 @@
+[
+ {
+  "id": "c6-h01",
+  "t": "ch06-ionic",
+  "q": "When potassium reacts with sulfur, which ions form?",
+  "c": [
+   "K<sup>+</sup> and S<sup>2&minus;</sup>",
+   "K<sup>&minus;</sup> and S<sup>2+</sup>",
+   "K<sup>2+</sup> and S<sup>&minus;</sup>",
+   "K<sup>+</sup> and S<sup>6&minus;</sup>"
+  ],
+  "y": [
+   "Correct: K (group 1) loses its 1 valence electron; S (group 16, 6 valence electrons) gains 2 to reach an octet. Two K atoms supply the two electrons: K<sub>2</sub>S.",
+   "This reverses the transfer. The metal loses electrons and becomes the cation.",
+   "Potassium has only 1 valence electron to lose, and sulfur needs 2, not 1.",
+   "Sulfur <i>has</i> 6 valence electrons; it needs only 2 more for an octet."
+  ],
+  "h": "Metals lose their valence electrons; nonmetals gain enough to reach 8.",
+  "w": "K &rarr; K<sup>+</sup> + e<sup>&minus;</sup>; S + 2 e<sup>&minus;</sup> &rarr; S<sup>2&minus;</sup>. The ions are <b>K<sup>+</sup> and S<sup>2&minus;</sup></b>, formula K<sub>2</sub>S.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c6-h02",
+  "t": "ch06-ionic",
+  "q": "Aluminum loses 3 electrons and oxygen gains 2 when they form aluminum oxide. Which formula makes electrons lost equal electrons gained?",
+  "c": [
+   "Al<sub>2</sub>O<sub>3</sub>",
+   "Al<sub>3</sub>O<sub>2</sub>",
+   "AlO",
+   "AlO<sub>3</sub>"
+  ],
+  "y": [
+   "Correct: 2 Al lose 2 &times; 3 = 6 electrons; 3 O gain 3 &times; 2 = 6 electrons. Lost = gained.",
+   "3 Al would lose 9 electrons, but 2 O gain only 4. The numbers are on the wrong atoms.",
+   "1 Al loses 3, but 1 O gains only 2.",
+   "1 Al loses 3, but 3 O would need 6."
+  ],
+  "h": "Find the least common multiple of 3 and 2.",
+  "w": "6 electrons: 2 Al &times; 3 = 3 O &times; 2. <b>Al<sub>2</sub>O<sub>3</sub></b> (the ruby and sapphire mineral, and a common ceramic).",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c6-h03",
+  "t": "ch06-ionic",
+  "q": "Which compound is a <b>salt</b>?",
+  "c": [
+   "MgSO<sub>4</sub>",
+   "Mg(OH)<sub>2</sub>",
+   "MgO",
+   "SO<sub>2</sub>"
+  ],
+  "y": [
+   "Correct: Magnesium sulfate (Epsom salt) is a cation, Mg<sup>2+</sup>, with an anion other than OH<sup>&minus;</sup> or O<sup>2&minus;</sup>: a salt.",
+   "This contains hydroxide, so it is a base (milk of magnesia).",
+   "This contains the oxide ion, so it is a metal oxide.",
+   "Sulfur dioxide is made of two nonmetals; it is a molecular compound, not ionic at all."
+  ],
+  "h": "Check the anion: hydroxide means base, oxide means metal oxide, any other anion means salt.",
+  "w": "<b>MgSO<sub>4</sub></b> is a salt; Mg(OH)<sub>2</sub> is a base; MgO is a metal oxide; SO<sub>2</sub> is molecular.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c6-h04",
+  "t": "ch06-ionic",
+  "q": "Sports drinks list sodium and potassium as electrolytes. Why does solid potassium chloride not conduct electricity, while potassium chloride dissolved in water does?",
+  "c": [
+   "In the solid, the ions are locked in the lattice; dissolved, the ions are free to move.",
+   "Solid KCl contains no ions; ions form only after it dissolves.",
+   "The water itself carries the current, not the dissolved KCl.",
+   "Dissolving turns KCl into KCl molecules that carry the current."
+  ],
+  "y": [
+   "Correct: An electric current needs moving charges. Dissolving separates the K<sup>+</sup> and Cl<sup>&minus;</sup> ions so they can move, which is why dissolved ions are called electrolytes.",
+   "The solid is already made of K<sup>+</sup> and Cl<sup>&minus;</sup> ions; they just cannot move.",
+   "Pure water conducts very poorly. The dissolved ions are what carry the current.",
+   "Ionic compounds never form molecules. Dissolving separates the ions."
+  ],
+  "h": "What has to be true of charged particles for a current to flow?",
+  "w": "Solid: ions fixed in the lattice, no current. Dissolved: <b>the ions are free to move</b>, so the solution conducts.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c6-h05",
+  "t": "ch06-ionic",
+  "q": "When fluoride from toothpaste replaces some OH<sup>&minus;</sup> ions in enamel, it forms fluorapatite, Ca<sub>10</sub>(PO<sub>4</sub>)<sub>6</sub>F<sub>2</sub>. What holds this mineral together?",
+  "c": [
+   "Attractions between Ca<sup>2+</sup>, PO<sub>4</sub><sup>3&minus;</sup>, and F<sup>&minus;</sup> ions in a crystal lattice",
+   "Covalent bonds between separate fluorapatite molecules",
+   "Electron pairs shared equally between Ca and F atoms",
+   "Attractions between neutral Ca, P, O, and F atoms"
+  ],
+  "y": [
+   "Correct: Fluorapatite is an ionic crystal: cations and anions packed in a lattice, which is why enamel is so hard. (The P&ndash;O bonds inside each phosphate ion are covalent.)",
+   "Ionic solids are lattices, not collections of molecules.",
+   "Calcium is a metal and fluorine a nonmetal; calcium gives electrons to fluorine rather than sharing them.",
+   "The particles carry charges: Ca<sup>2+</sup>, PO<sub>4</sub><sup>3&minus;</sup>, and F<sup>&minus;</sup>."
+  ],
+  "h": "Metal cations plus anions: what kind of bonding and what kind of solid?",
+  "w": "Enamel mineral is <b>an ionic lattice of Ca<sup>2+</sup>, PO<sub>4</sub><sup>3&minus;</sup>, and F<sup>&minus;</sup> (or OH<sup>&minus;</sup>) ions</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c6-h06",
+  "t": "ch06-ionic",
+  "q": "In the electron-dot picture of sodium oxide forming (2 Na&middot; + O &rarr; 2 Na<sup>+</sup> + O<sup>2&minus;</sup>), how many dots does each ion show after the transfer?",
+  "c": [
+   "O<sup>2&minus;</sup>: 8 dots; each Na<sup>+</sup>: 0 dots",
+   "O<sup>2&minus;</sup>: 6 dots; each Na<sup>+</sup>: 1 dot",
+   "O<sup>2&minus;</sup>: 8 dots; each Na<sup>+</sup>: 8 dots",
+   "O<sup>2&minus;</sup>: 7 dots; each Na<sup>+</sup>: 0 dots"
+  ],
+  "y": [
+   "Correct: O starts with 6 dots and gains 2 (one from each Na) to have 8. Each Na gives away its only valence electron, so its ion has no valence dots.",
+   "These are the atoms before the transfer, not the ions.",
+   "Na<sup>+</sup> has the configuration of neon, but in an electron-dot symbol it shows no valence dots, because its outer shell was emptied.",
+   "Two Na atoms each give one electron, so O gains 2, not 1."
+  ],
+  "h": "Count dots before the transfer, then move them.",
+  "w": "<b>O<sup>2&minus;</sup> has 8 dots; each Na<sup>+</sup> has 0.</b> 2 electrons lost = 2 gained, formula Na<sub>2</sub>O.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c6-h07",
+  "t": "ch06-lewis",
+  "q": "How many valence electrons are in the carbonate ion, CO<sub>3</sub><sup>2&minus;</sup>?",
+  "c": [
+   "24",
+   "22",
+   "20",
+   "12"
+  ],
+  "y": [
+   "Correct: 4 (C) + 3 &times; 6 (O) = 22, plus 2 for the 2&minus; charge = 24.",
+   "This forgets the 2&minus; charge.",
+   "This subtracts 2 for the charge. A negative ion has extra electrons.",
+   "This counts one O atom: 4 + 6 + 2."
+  ],
+  "h": "Group numbers, times subscripts, plus one electron per negative charge.",
+  "w": "4 + 3(6) + 2 = <b>24</b> valence electrons for CO<sub>3</sub><sup>2&minus;</sup>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c6-h08",
+  "t": "ch06-lewis",
+  "q": "How many valence electrons are in ethanol, C<sub>2</sub>H<sub>5</sub>OH?",
+  "c": [
+   "20",
+   "16",
+   "26",
+   "36"
+  ],
+  "y": [
+   "Correct: 2(4) + 6(1) + 6 = 20: two C, six H in all (5 + 1), one O.",
+   "This counts one C atom (4 + 6 + 6). The subscript 2 means two carbons.",
+   "This adds atomic numbers (2 &times; 6 + 6 &times; 1 + 8), which counts all electrons, not valence electrons.",
+   "This gives every atom the number it will end up with (8 for C and O, 2 for H), not the number available."
+  ],
+  "h": "Count every atom: C<sub>2</sub>, H<sub>5</sub> plus one more H, and O.",
+  "w": "C: 2 &times; 4 = 8; H: 6 &times; 1 = 6; O: 6. Total <b>20</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c6-h09",
+  "t": "ch06-lewis",
+  "q": "Hydrogen peroxide, H<sub>2</sub>O<sub>2</sub>, is a common wound antiseptic. Which describes its Lewis structure?",
+  "c": [
+   "H&ndash;O&ndash;O&ndash;H, with two lone pairs on each O",
+   "H&ndash;O=O&ndash;H, with one lone pair on each O",
+   "H&ndash;O&ndash;O&ndash;H, with three lone pairs on each O",
+   "O&ndash;H&ndash;H&ndash;O, with three lone pairs on each O"
+  ],
+  "y": [
+   "Correct: 14 valence electrons: 3 bonds (6) + 4 lone pairs (8). Each O has 2 bonds + 2 lone pairs = 8; each H has 2.",
+   "This uses only 12 electrons. H<sub>2</sub>O<sub>2</sub> has 2(1) + 2(6) = 14, so a double bond is not needed.",
+   "This uses 18 electrons, more than the 14 available.",
+   "This gives each H two bonds. Hydrogen forms only one bond and is never central."
+  ],
+  "h": "Count valence electrons, build the skeleton with H on the outside, then check octets.",
+  "w": "14 electrons: <b>H&ndash;O&ndash;O&ndash;H with two lone pairs on each O</b>. Each O forms 2 bonds, as HONC predicts.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c6-h10",
+  "t": "ch06-lewis",
+  "q": "In a neutral molecule, a nitrogen atom forms three bonds. How many lone pairs does it have?",
+  "c": [
+   "1",
+   "0",
+   "2",
+   "3"
+  ],
+  "y": [
+   "Correct: N has 5 valence electrons: 3 are in bonds, leaving 2, one lone pair. 3 bonds (6 electrons) + 1 lone pair (2) = 8.",
+   "With no lone pair, N would have only 6 electrons.",
+   "Two lone pairs plus three bonds would be 10 electrons around N.",
+   "Three lone pairs go with one bond, the pattern for a halogen."
+  ],
+  "h": "Bonds + lone pairs must give N an octet.",
+  "w": "N: 3 bonds + <b>1 lone pair</b> = 8 electrons, as in NH<sub>3</sub>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c6-h11",
+  "t": "ch06-lewis",
+  "q": "Carbon monoxide, CO, is the colorless gas that causes CO poisoning. Which describes its Lewis structure?",
+  "c": [
+   "C&equiv;O, with one lone pair on each atom",
+   "C=O, with two lone pairs on each atom",
+   "C&ndash;O, with one lone pair on C and three on O",
+   "C&equiv;O, with no lone pairs"
+  ],
+  "y": [
+   "Correct: 10 valence electrons (4 + 6): triple bond (6) + 2 lone pairs (4). C has 6 + 2 = 8, and O has 6 + 2 = 8.",
+   "This uses 12 electrons; CO has only 10.",
+   "This uses 10 electrons but leaves C with only 4. Move lone pairs from O into the bond.",
+   "This uses only 6 electrons and leaves each atom with 6."
+  ],
+  "h": "CO has 10 valence electrons. Which picture uses 10 and gives both atoms 8?",
+  "w": "10 electrons: <b>C&equiv;O with one lone pair on each atom</b>, like N<sub>2</sub>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c6-h12",
+  "t": "ch06-lewis",
+  "q": "Acetylene, C<sub>2</sub>H<sub>2</sub>, has 10 valence electrons. How many bonding pairs are shared between the two carbon atoms?",
+  "c": [
+   "3",
+   "1",
+   "2",
+   "4"
+  ],
+  "y": [
+   "Correct: Two C&ndash;H bonds use 4 electrons; the other 6 must be shared between the carbons (a triple bond) so that each C has 8.",
+   "With a single C&ndash;C bond, 6 electrons are left, and each C would be short of an octet.",
+   "A double bond leaves 2 electrons that would have to sit on one carbon, giving the other only 6.",
+   "Four shared pairs would give each C 10 electrons and use 12 in all."
+  ],
+  "h": "Place the two C&ndash;H bonds first. How many electrons are left, and how can both C atoms reach 8?",
+  "w": "H&ndash;C&equiv;C&ndash;H: <b>3 bonding pairs</b> between the carbons. 5 bonding pairs &times; 2 = 10 electrons.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c6-h13",
+  "t": "ch06-lewis",
+  "q": "Chloroform, CHCl<sub>3</sub>, was one of the first general anesthetics. In its Lewis structure (C central), how many bonding pairs and how many lone pairs are there?",
+  "c": [
+   "4 bonding pairs, 9 lone pairs",
+   "4 bonding pairs, 0 lone pairs",
+   "3 bonding pairs, 9 lone pairs",
+   "4 bonding pairs, 10 lone pairs"
+  ],
+  "y": [
+   "Correct: 26 valence electrons (4 + 1 + 21). Four bonds from C use 8; the other 18 are 9 lone pairs, 3 on each Cl.",
+   "This leaves the lone pairs off the Cl atoms. Each Cl has 1 bond and 3 lone pairs.",
+   "This leaves out the C&ndash;H bond; C forms 4 bonds.",
+   "This uses 28 electrons, 2 more than are available (a lone pair on C would give it 10)."
+  ],
+  "h": "Count valence electrons, subtract 2 per bond, and divide the rest by 2.",
+  "w": "26 &minus; 4(2) = 18 = <b>9 lone pairs</b>, with <b>4 bonding pairs</b>. Check: 8 + 18 = 26. (Context only; chloroform is no longer used for anesthesia.)",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c6-h14",
+  "t": "ch06-vsepr",
+  "q": "Oxygen difluoride, OF<sub>2</sub>, has two O&ndash;F bonds and two lone pairs on O. What is its shape?",
+  "c": [
+   "bent, about 109.5&deg;",
+   "linear, 180&deg;",
+   "tetrahedral, 109.5&deg;",
+   "bent, about 120&deg;"
+  ],
+  "y": [
+   "Correct: 2 bonds + 2 lone pairs = 4 groups (tetrahedral electron geometry); with 2 lone pairs, the 3 atoms form a bent shape, like water.",
+   "This ignores the lone pairs on O. They are groups that push the F atoms together.",
+   "Tetrahedral is the electron geometry; only 3 atoms are named in the shape.",
+   "Bent at about 120&deg; has 3 groups and 1 lone pair. O here has 4 groups."
+  ],
+  "h": "Count groups on O, including lone pairs.",
+  "w": "OF<sub>2</sub>: 4 groups, 2 lone pairs: <b>bent, about 109.5&deg;</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c6-h15",
+  "t": "ch06-vsepr",
+  "q": "Carbon disulfide, S=C=S, is an industrial solvent. How many electron groups are on the central carbon?",
+  "c": [
+   "2",
+   "4",
+   "6",
+   "3"
+  ],
+  "y": [
+   "Correct: Two double bonds, each one group, and no lone pairs on C: 2 groups, linear.",
+   "This counts each double bond as two groups.",
+   "This adds the lone pairs on the S atoms. Only groups on the central atom count.",
+   "C has no lone pair, so there is no third group."
+  ],
+  "h": "Any bond, single or multiple, is one group.",
+  "w": "C: 2 double bonds = <b>2 groups</b>: linear, 180&deg;, like CO<sub>2</sub>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c6-h16",
+  "t": "ch06-vsepr",
+  "q": "A central atom has <b>4 electron groups</b>, and <b>1</b> is a lone pair. What is the molecular shape?",
+  "c": [
+   "trigonal pyramidal",
+   "tetrahedral",
+   "bent",
+   "trigonal planar"
+  ],
+  "y": [
+   "Correct: 4 groups: tetrahedral electron geometry. With one lone pair, the central atom and its 3 neighbors form a pyramid.",
+   "Tetrahedral is the electron geometry; it is the shape only with 0 lone pairs.",
+   "Bent (4 groups) has 2 lone pairs.",
+   "Trigonal planar has 3 groups and no lone pairs."
+  ],
+  "h": "Electron geometry from the groups; then name only the atoms.",
+  "w": "4 groups, 1 lone pair: <b>trigonal pyramidal</b>, about 109.5&deg; (NH<sub>3</sub>).",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c6-h17",
+  "t": "ch06-vsepr",
+  "q": "Chloroform, CHCl<sub>3</sub>, has C bonded to one H and three Cl atoms, with no lone pairs on C. What is its shape?",
+  "c": [
+   "tetrahedral",
+   "trigonal pyramidal",
+   "trigonal planar",
+   "bent"
+  ],
+  "y": [
+   "Correct: 4 bonds, 0 lone pairs: tetrahedral. Different outer atoms do not change the shape (they change the polarity).",
+   "Trigonal pyramidal needs a lone pair on the central atom; C has four bonds instead.",
+   "Trigonal planar needs 3 groups; C has 4.",
+   "Bent needs lone pairs on the central atom."
+  ],
+  "h": "Count groups on C. Do any of them belong to lone pairs?",
+  "w": "C: 4 groups, 0 lone pairs: <b>tetrahedral</b>, 109.5&deg;.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c6-h18",
+  "t": "ch06-vsepr",
+  "q": "What is the best estimate of the Cl&ndash;P&ndash;Cl bond angle in PCl<sub>3</sub> (three bonds and one lone pair on P)?",
+  "c": [
+   "about 109.5&deg;",
+   "120&deg;",
+   "90&deg;",
+   "180&deg;"
+  ],
+  "y": [
+   "Correct: 4 groups point toward the corners of a tetrahedron, so the angle is about 109.5&deg; (the lone pair squeezes it a little).",
+   "120&deg; is the angle for 3 groups. The lone pair is a fourth group.",
+   "90&deg; is what a flat drawing suggests, but the groups spread in three dimensions.",
+   "180&deg; is for 2 groups."
+  ],
+  "h": "Count all groups on P, including the lone pair.",
+  "w": "4 groups (trigonal pyramidal): <b>about 109.5&deg;</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c6-h19",
+  "t": "ch06-vsepr",
+  "q": "In methanol, CH<sub>3</sub>OH, the O atom has a C&ndash;O bond, an O&ndash;H bond, and two lone pairs. What is the shape around O?",
+  "c": [
+   "bent, about 109.5&deg;",
+   "linear, 180&deg;",
+   "trigonal pyramidal, about 109.5&deg;",
+   "bent, about 120&deg;"
+  ],
+  "y": [
+   "Correct: O: 2 bonds + 2 lone pairs = 4 groups, so the C&ndash;O&ndash;H arrangement is bent, as in water.",
+   "The lone pairs on O are groups; they bend the C&ndash;O&ndash;H arrangement.",
+   "Trigonal pyramidal needs 3 bonds and 1 lone pair; O here has 2 bonds and 2 lone pairs.",
+   "Bent at about 120&deg; is the 3-group case; O here has 4 groups."
+  ],
+  "h": "In a molecule with two central atoms, find the shape around each one separately.",
+  "w": "Around O: 4 groups, 2 lone pairs: <b>bent, about 109.5&deg;</b>. (Around C: tetrahedral.)",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c6-h20",
+  "t": "ch06-vsepr",
+  "q": "Which molecule is <b>linear</b>?",
+  "c": [
+   "CS<sub>2</sub>",
+   "H<sub>2</sub>O",
+   "SO<sub>2</sub>",
+   "OF<sub>2</sub>"
+  ],
+  "y": [
+   "Correct: C has 2 groups (two C=S double bonds) and no lone pairs: linear, 180&deg;.",
+   "O has 2 lone pairs: 4 groups, bent.",
+   "S has 3 groups (two bonds and a lone pair): bent, about 120&deg;.",
+   "O has 2 lone pairs: bent, about 109.5&deg;."
+  ],
+  "h": "Linear (for three atoms) needs 2 groups and no lone pairs on the central atom.",
+  "w": "Only <b>CS<sub>2</sub></b> has no lone pairs on the center; the other three are bent.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c6-h21",
+  "t": "ch06-polarity",
+  "q": "Classify the P&ndash;Cl bond in PCl<sub>3</sub>. (P 2.1, Cl 3.0)",
+  "c": [
+   "&Delta;EN = 0.9, polar covalent, Cl is &delta;&minus;",
+   "&Delta;EN = 0.9, polar covalent, P is &delta;&minus;",
+   "&Delta;EN = 5.1, ionic",
+   "&Delta;EN = 0.9, nonpolar covalent"
+  ],
+  "y": [
+   "Correct: 3.0 &minus; 2.1 = 0.9, between 0.4 and 2.0: polar covalent. Cl is more electronegative, so it is the &delta;&minus; end.",
+   "The partial negative charge goes on the more electronegative atom, which is Cl.",
+   "This adds the values. &Delta;EN is the difference.",
+   "0.9 is above 0.4, so the bond is polar."
+  ],
+  "h": "Subtract, compare with 0.4 and 2.0, and put &delta;&minus; on the higher value.",
+  "w": "&Delta;EN = 3.0 &minus; 2.1 = <b>0.9, polar covalent, Cl &delta;&minus;</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c6-h22",
+  "t": "ch06-polarity",
+  "q": "Potassium chloride, KCl, is used in salt substitutes. Classify the K&ndash;Cl bond. (K 0.8, Cl 3.0)",
+  "c": [
+   "&Delta;EN = 2.2, ionic",
+   "&Delta;EN = 3.8, ionic",
+   "&Delta;EN = 2.2, polar covalent",
+   "&Delta;EN = &minus;2.2, polar covalent"
+  ],
+  "y": [
+   "Correct: 3.0 &minus; 0.8 = 2.2, above 2.0: ionic, matching the metal + nonmetal rule.",
+   "This adds the values instead of subtracting.",
+   "2.2 is above the 2.0 cutoff, so it is in the ionic range.",
+   "Subtract the smaller from the larger; &Delta;EN is never negative."
+  ],
+  "h": "Subtract the smaller value from the larger, then compare with 2.0.",
+  "w": "&Delta;EN = 3.0 &minus; 0.8 = <b>2.2, ionic</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c6-h23",
+  "t": "ch06-polarity",
+  "q": "Which bond is <b>nonpolar covalent</b>? (H 2.1, C 2.5, N 3.0, O 3.5, Cl 3.0)",
+  "c": [
+   "C&ndash;H",
+   "C&ndash;O",
+   "N&ndash;H",
+   "H&ndash;Cl"
+  ],
+  "y": [
+   "Correct: &Delta;EN = 2.5 &minus; 2.1 = 0.4, inside the 0 to 0.4 nonpolar range.",
+   "&Delta;EN = 3.5 &minus; 2.5 = 1.0: polar covalent.",
+   "&Delta;EN = 3.0 &minus; 2.1 = 0.9: polar covalent.",
+   "&Delta;EN = 3.0 &minus; 2.1 = 0.9: polar covalent."
+  ],
+  "h": "Find the bond with &Delta;EN of 0.4 or less.",
+  "w": "<b>C&ndash;H</b> (&Delta;EN 0.4) is nonpolar covalent; the others are polar covalent.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c6-h24",
+  "t": "ch06-polarity",
+  "q": "Chloroform, CHCl<sub>3</sub>, was one of the first anesthetics. Of these four chlorinated methanes, which one is <b>nonpolar</b>?",
+  "c": [
+   "CCl<sub>4</sub>",
+   "CHCl<sub>3</sub>",
+   "CH<sub>2</sub>Cl<sub>2</sub>",
+   "CH<sub>3</sub>Cl"
+  ],
+  "y": [
+   "Correct: Four identical C&ndash;Cl bonds in a symmetrical tetrahedron: the dipoles cancel.",
+   "One H and three Cl: the outer atoms differ, so the dipoles do not cancel.",
+   "Two H and two Cl: not symmetrical, so polar.",
+   "One Cl and three H: not symmetrical, so polar."
+  ],
+  "h": "All four are tetrahedral. Which has four identical outer atoms?",
+  "w": "SNAP: only <b>CCl<sub>4</sub></b> is symmetrical, so only it is nonpolar.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c6-h25",
+  "t": "ch06-polarity",
+  "q": "In the C=O bond of formaldehyde, which way does the dipole arrow point? (C 2.5, O 3.5)",
+  "c": [
+   "Toward O, with the cross (+ end) at C",
+   "Toward C, with the cross at O",
+   "There is no dipole; C=O is nonpolar",
+   "Toward C, because C has more bonds"
+  ],
+  "y": [
+   "Correct: O (3.5) is more electronegative than C (2.5), so O is &delta;&minus;. The arrow points toward O; the cross marks the &delta;+ end, C.",
+   "This reverses the arrow. It points toward the more electronegative atom.",
+   "&Delta;EN = 1.0, so the bond is polar.",
+   "The number of bonds does not decide the direction; electronegativity does."
+  ],
+  "h": "The arrowhead goes to the &delta;&minus; end.",
+  "w": "<b>Toward O</b> (&delta;&minus;), with the crossed tail at C (&delta;+); &Delta;EN = 1.0.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c6-h26",
+  "t": "ch06-polarity",
+  "q": "PCl<sub>3</sub> is trigonal pyramidal, with one lone pair on P. Is it polar?",
+  "c": [
+   "Polar: the lone pair makes it asymmetrical, so the P&ndash;Cl dipoles do not cancel.",
+   "Nonpolar: three identical P&ndash;Cl bonds always cancel.",
+   "Nonpolar: &Delta;EN for P&ndash;Cl is 0.4 or less.",
+   "Polar, because the P&ndash;Cl bonds are ionic."
+  ],
+  "y": [
+   "Correct: The three dipoles point down and outward from the pyramid; with the lone pair on top, they do not cancel. Like NH<sub>3</sub>, PCl<sub>3</sub> is polar.",
+   "Identical outer atoms cancel only in a symmetrical shape with no lone pairs on the center.",
+   "&Delta;EN = 3.0 &minus; 2.1 = 0.9, so the bonds are polar.",
+   "&Delta;EN = 0.9 is polar covalent, not ionic (above 2.0)."
+  ],
+  "h": "SNAP: does the central atom have a lone pair?",
+  "w": "Trigonal pyramidal with polar bonds (&Delta;EN 0.9): <b>polar</b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c6-h27",
+  "t": "ch06-polarity",
+  "q": "Which list puts these elements in order of <b>increasing</b> electronegativity: Na, Mg, S, Cl?",
+  "c": [
+   "Na &lt; Mg &lt; S &lt; Cl",
+   "Cl &lt; S &lt; Mg &lt; Na",
+   "Mg &lt; Na &lt; S &lt; Cl",
+   "Na &lt; Mg &lt; Cl &lt; S"
+  ],
+  "y": [
+   "Correct: All are in period 3, so electronegativity increases left to right: Na 0.9, Mg 1.2, S 2.5, Cl 3.0.",
+   "This is decreasing order. Electronegativity increases across a period.",
+   "Mg (1.2) is to the right of Na (0.9), so it is higher.",
+   "Cl (3.0) is to the right of S (2.5), so it is higher."
+  ],
+  "h": "Same period: left is low, right is high.",
+  "w": "<b>Na 0.9 &lt; Mg 1.2 &lt; S 2.5 &lt; Cl 3.0</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c6-h28",
+  "t": "ch06-percent",
+  "q": "Urea, CO(NH<sub>2</sub>)<sub>2</sub> (60.056 g/mol), is a high-nitrogen fertilizer. What is its mass percent of nitrogen? (N 14.007)",
+  "c": [
+   "46.65%",
+   "23.32%",
+   "25.00%",
+   "93.29%"
+  ],
+  "y": [
+   "Correct: 2(14.007) &divide; 60.056 &times; 100% = 46.65%, matching urea's 46-0-0 fertilizer grade.",
+   "This counts one N. The 2 outside (NH<sub>2</sub>) gives two N atoms.",
+   "This is the fraction of the <i>atoms</i> that are N (2 of 8). Mass percent uses masses.",
+   "This uses 28.014 (the mass of N<sub>2</sub>) for each N atom. Atoms in a compound use 14.007."
+  ],
+  "h": "Subscript &times; atomic mass &divide; molar mass &times; 100%.",
+  "w": "%N = 2(14.007) &divide; 60.056 &times; 100% = <b>46.65%</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c6-h29",
+  "t": "ch06-percent",
+  "q": "Calcium chloride, CaCl<sub>2</sub> (110.98 g/mol), is used in IV solutions and as a dust-control salt on dirt roads. What is its mass percent of chlorine? (Cl 35.45)",
+  "c": [
+   "63.89%",
+   "31.94%",
+   "36.11%",
+   "176.9%"
+  ],
+  "y": [
+   "Correct: 2(35.45) &divide; 110.98 &times; 100% = 63.89%.",
+   "This counts one Cl; the formula has two.",
+   "This is the percent of calcium.",
+   "This divides by the mass of Ca. Divide by the whole compound."
+  ],
+  "h": "Two Cl atoms, divided by the molar mass of CaCl<sub>2</sub>.",
+  "w": "%Cl = 70.90 &divide; 110.98 &times; 100% = <b>63.89%</b>.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c6-h30",
+  "t": "ch06-percent",
+  "q": "Dairy digesters in the Valley capture methane, CH<sub>4</sub> (16.043 g/mol), from manure. What is the mass percent of carbon in methane? (C 12.011)",
+  "c": [
+   "74.87%",
+   "20.00%",
+   "25.13%",
+   "133.6%"
+  ],
+  "y": [
+   "Correct: 12.011 &divide; 16.043 &times; 100% = 74.87%. Carbon is 1 atom in 5 but most of the mass.",
+   "This is the fraction of atoms that are carbon (1 of 5). Mass percent uses masses.",
+   "This is the percent of hydrogen, 4(1.008) &divide; 16.043.",
+   "This divides the wrong way; a part cannot be more than 100%."
+  ],
+  "h": "Mass of C in one mole &divide; molar mass.",
+  "w": "%C = 12.011 &divide; 16.043 &times; 100% = <b>74.87%</b>.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c6-h31",
+  "t": "ch06-percent",
+  "q": "A student heats 2.374 g of tin in air until it has fully reacted, giving 3.014 g of a tin oxide. What is the mass percent of tin in the oxide?",
+  "c": [
+   "78.77%",
+   "21.2%",
+   "371%",
+   "44.06%"
+  ],
+  "y": [
+   "Correct: 2.374 &divide; 3.014 &times; 100% = 78.77%, which matches SnO<sub>2</sub>.",
+   "This is the percent of oxygen (0.640 g &divide; 3.014 g).",
+   "This divides tin by oxygen. Divide by the whole oxide.",
+   "This adds the tin mass to the oxide mass; the oxide already includes the tin."
+  ],
+  "h": "Part (tin) &divide; whole (oxide).",
+  "w": "%Sn = 2.374 &divide; 3.014 &times; 100% = <b>78.77%</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c6-h32",
+  "t": "ch06-percent",
+  "q": "Calcium dihydrogen phosphate, Ca(H<sub>2</sub>PO<sub>4</sub>)<sub>2</sub> (234.04 g/mol), is a phosphorus fertilizer. What is its mass percent of phosphorus? (P 30.97)",
+  "c": [
+   "26.47%",
+   "13.23%",
+   "17.13%",
+   "22.60%"
+  ],
+  "y": [
+   "Correct: 2(30.97) &divide; 234.04 &times; 100% = 26.47%. The 2 outside the parentheses gives two P atoms.",
+   "This counts one P atom.",
+   "This is the percent of calcium.",
+   "This ignores the 2 outside the parentheses in both the P count and the molar mass."
+  ],
+  "h": "How many P atoms are in Ca(H<sub>2</sub>PO<sub>4</sub>)<sub>2</sub>?",
+  "w": "%P = 2(30.97) &divide; 234.04 &times; 100% = <b>26.47%</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c6-h33",
+  "t": "ch06-percent",
+  "q": "Niacin (vitamin B<sub>3</sub>), C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub> (123.111 g/mol), is sold as a supplement. What is its mass percent of nitrogen? (N 14.007)",
+  "c": [
+   "11.38%",
+   "7.143%",
+   "58.54%",
+   "878.9%"
+  ],
+  "y": [
+   "Correct: 14.007 &divide; 123.111 &times; 100% = 11.38%.",
+   "This is the fraction of atoms that are N (1 of 14). Mass percent uses masses.",
+   "This is the percent of carbon.",
+   "This divides the wrong way."
+  ],
+  "h": "Mass of N in one mole &divide; molar mass &times; 100%.",
+  "w": "%N = 14.007 &divide; 123.111 &times; 100% = <b>11.38%</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c6-h34",
+  "t": "ch06-empirical",
+  "q": "Ethylene glycol, C<sub>2</sub>H<sub>6</sub>O<sub>2</sub>, is the main ingredient in antifreeze. What is its empirical formula?",
+  "c": [
+   "CH<sub>3</sub>O",
+   "C<sub>2</sub>H<sub>6</sub>O<sub>2</sub>",
+   "CH<sub>3</sub>O<sub>2</sub>",
+   "C<sub>4</sub>H<sub>12</sub>O<sub>4</sub>"
+  ],
+  "y": [
+   "Correct: All three subscripts divide by 2: C<sub>1</sub>H<sub>3</sub>O<sub>1</sub>.",
+   "2, 6, and 2 share a factor of 2, so this is not the simplest ratio.",
+   "This divides C and H by 2 but not O. Every subscript is divided by the same number.",
+   "This multiplies by 2; the empirical formula is the smallest ratio."
+  ],
+  "h": "Divide every subscript by their largest common factor.",
+  "w": "C<sub>2</sub>H<sub>6</sub>O<sub>2</sub> &divide; 2 = <b>CH<sub>3</sub>O</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c6-h35",
+  "t": "ch06-empirical",
+  "q": "Hydrogen peroxide is 5.93% H and 94.07% O by mass, and its molar mass is 34.01 g/mol. What is its molecular formula? (H 1.008, O 15.999)",
+  "c": [
+   "H<sub>2</sub>O<sub>2</sub>",
+   "HO",
+   "H<sub>2</sub>O",
+   "H<sub>4</sub>O<sub>4</sub>"
+  ],
+  "y": [
+   "Correct: H: 5.93 &divide; 1.008 = 5.883 mol; O: 94.07 &divide; 15.999 = 5.880 mol. Ratio 1 : 1, so HO (17.007 g/mol); n = 34.01 &divide; 17.007 = 2.000.",
+   "This is the empirical formula. The molar mass shows that each molecule holds two HO units.",
+   "Water is 1 : 2 O : H (11.19% H); these data give a 1 : 1 mole ratio.",
+   "This is n = 4 (68.03 g/mol), twice the given molar mass."
+  ],
+  "h": "Empirical formula from moles first; then n = molar mass &divide; empirical formula mass.",
+  "w": "Empirical HO, 17.007 g/mol; n = 34.01 &divide; 17.007 = 2.000: <b>H<sub>2</sub>O<sub>2</sub></b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c6-h36",
+  "t": "ch06-empirical",
+  "q": "Propane, the fuel in many farm and barbecue tanks, is 81.71% C and 18.29% H by mass. What is its empirical formula? (C 12.011, H 1.008)",
+  "c": [
+   "C<sub>3</sub>H<sub>8</sub>",
+   "CH<sub>3</sub>",
+   "C<sub>2</sub>H<sub>5</sub>",
+   "C<sub>8</sub>H<sub>3</sub>"
+  ],
+  "y": [
+   "Correct: C: 81.71 &divide; 12.011 = 6.803 mol; H: 18.29 &divide; 1.008 = 18.15 mol. Ratio 1 : 2.667; &times; 3 = 3 : 8.",
+   "This rounds 2.67 up to 3. A value near 2.67 (2 and 2/3) means multiply by 3.",
+   "Multiplying by 2 gives 2 : 5.33, still not whole numbers; it was rounded to 5.",
+   "This inverts the ratio; there are more moles of H than of C."
+  ],
+  "h": "After dividing by the smaller, a decimal near .67 or .33 means multiply by 3.",
+  "w": "C 6.803 : H 18.15 = 1 : 2.667; &times; 3 = <b>C<sub>3</sub>H<sub>8</sub></b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c6-h37",
+  "t": "ch06-empirical",
+  "q": "Gypsum, the raw material for dental stone, is calcium sulfate hydrate, CaSO<sub>4</sub>&middot;xH<sub>2</sub>O. Heating 3.150 g of gypsum leaves 2.491 g of anhydrous CaSO<sub>4</sub> (136.14 g/mol). What is x? (H<sub>2</sub>O 18.015 g/mol)",
+  "c": [
+   "2",
+   "1",
+   "4",
+   "5"
+  ],
+  "y": [
+   "Correct: Water lost = 3.150 &minus; 2.491 = 0.659 g = 0.03658 mol; CaSO<sub>4</sub> = 2.491 &divide; 136.14 = 0.01830 mol. Ratio 2.00.",
+   "With x = 1, the 3.150 g sample would lose only about 0.37 g of water.",
+   "This doubles the ratio, as if counting H atoms instead of water molecules.",
+   "x = 5 is copper(II) sulfate pentahydrate; the gypsum data give a ratio near 2."
+  ],
+  "h": "Water lost &rarr; moles; anhydrous salt &rarr; moles; divide.",
+  "w": "0.03658 mol H<sub>2</sub>O &divide; 0.01830 mol CaSO<sub>4</sub> = 2.00: <b>x = 2</b>, CaSO<sub>4</sub>&middot;2H<sub>2</sub>O.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c6-h38",
+  "t": "ch06-empirical",
+  "q": "Ibuprofen's empirical formula is C<sub>13</sub>H<sub>18</sub>O<sub>2</sub>, and its molar mass is 206.29 g/mol. What is its molecular formula? (C 12.011, H 1.008, O 15.999)",
+  "c": [
+   "C<sub>13</sub>H<sub>18</sub>O<sub>2</sub>",
+   "C<sub>26</sub>H<sub>36</sub>O<sub>4</sub>",
+   "C<sub>39</sub>H<sub>54</sub>O<sub>6</sub>",
+   "C<sub>13</sub>H<sub>18</sub>O"
+  ],
+  "y": [
+   "Correct: The empirical formula mass is 13(12.011) + 18(1.008) + 2(15.999) = 206.285 g/mol, so n = 206.29 &divide; 206.285 = 1.000. The molecular formula is the empirical formula.",
+   "This assumes n = 2 (412.57 g/mol). n can be 1.",
+   "This is n = 3, three times the molar mass.",
+   "This drops an O atom; the molecular formula is a whole-number multiple of the empirical formula."
+  ],
+  "h": "Compute n before multiplying anything.",
+  "w": "n = 206.29 &divide; 206.285 = 1.000: <b>C<sub>13</sub>H<sub>18</sub>O<sub>2</sub></b>. Many molecules, such as H<sub>2</sub>O and CO<sub>2</sub>, have n = 1.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c6-h39",
+  "t": "ch06-empirical",
+  "q": "Zinc oxide is the white mineral in many sunscreens and diaper creams. Heating 1.635 g of zinc in air gives 2.035 g of zinc oxide. What is its empirical formula? (Zn 65.39, O 15.999)",
+  "c": [
+   "ZnO",
+   "Zn<sub>4</sub>O",
+   "ZnO<sub>2</sub>",
+   "Zn<sub>2</sub>O"
+  ],
+  "y": [
+   "Correct: O = 2.035 &minus; 1.635 = 0.400 g. Zn: 1.635 &divide; 65.39 = 0.02500 mol; O: 0.400 &divide; 15.999 = 0.02500 mol. Ratio 1 : 1.",
+   "This divides grams (1.635 &divide; 0.400 = 4.09) instead of moles. Zinc atoms are about four times heavier than O atoms.",
+   "This would need twice as many moles of O as of Zn.",
+   "This would need twice as many moles of Zn as of O."
+  ],
+  "h": "Oxygen by subtraction, then compare moles.",
+  "w": "Zn 0.02500 mol : O 0.02500 mol = 1 : 1: <b>ZnO</b>, as Zn<sup>2+</sup> and O<sup>2&minus;</sup> predict.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c6-h40",
+  "t": "ch06-empirical",
+  "q": "Aspirin is 60.00% C, 4.48% H, and 35.52% O by mass. What is its empirical formula? (C 12.011, H 1.008, O 15.999)",
+  "c": [
+   "C<sub>9</sub>H<sub>8</sub>O<sub>4</sub>",
+   "C<sub>2</sub>H<sub>2</sub>O",
+   "C<sub>5</sub>H<sub>4</sub>O<sub>2</sub>",
+   "C<sub>18</sub>H<sub>16</sub>O<sub>8</sub>"
+  ],
+  "y": [
+   "Correct: Moles per 100 g: C 4.995, H 4.444, O 2.220. Dividing by 2.220: C 2.250, H 2.002, O 1. A ratio of 2.25 means multiply by 4: C 9, H 8, O 4.",
+   "This rounds 2.25 down to 2. Values near .25 mean multiply by 4.",
+   "Multiplying by 2 gives 4.5 : 4 : 2, still not whole; 4.5 was rounded to 5.",
+   "This doubles a ratio that is already whole. The empirical formula is the smallest whole-number ratio."
+  ],
+  "h": "Divide by the smallest mole value; what multiplier turns 2.25 into a whole number?",
+  "w": "C 2.250 : H 2.002 : O 1; &times; 4 = <b>C<sub>9</sub>H<sub>8</sub>O<sub>4</sub></b> (180.159 g/mol; aspirin's molecular formula is also C<sub>9</sub>H<sub>8</sub>O<sub>4</sub>, so n = 1).",
+  "d": 3,
+  "k": 1
+ }
+]
