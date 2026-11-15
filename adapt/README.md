@@ -38,3 +38,9 @@ POST `/api/questions` (Bearer token from the `token` cookie) with the editor-sha
 - Assignment **224844** "CHEM 3A Chapter 3: Light, Electrons, and the Periodic Table" (template 145; same settings as Chapters 1–2: 3 attempts, hints no penalty, marked late, 2 points, random 50 of the pool = 100 points; hidden; placeholder dates). Folder 15020.
 - Pool **104**: all 64 Try It items in `bank/ch03.json` (6 with SVG images + alt text from `figures/adapt/alt_ch03.json`: 2 orbital diagrams, 4 periodic-table outlines; the 2 data-table items carry an HTML table in the stem) and 40 homework-only items in `bank/ch03_adapt.json`.
 - Read back: all 104 match the bank (stem, choices, key, every wrong-choice feedback), CC BY 4.0, public, Show Hint present; all 6 images load. ADAPT stores arrows as `&uarr;`/`&darr;` entities (same text).
+
+## Chapter 4 (2026-11-14)
+
+- Assignment **224846** "CHEM 3A Chapter 4: Naming Compounds" (template 145; same settings: 3 attempts, hints no penalty, marked late, 2 points, random 50 = 100 points; hidden; placeholder dates). Folder 15021.
+- Pool **106**: all 66 Try It items in `bank/ch04.json` (4 table items carry an HTML table in the stem; no images) and 40 homework-only items in `bank/ch04_adapt.json`.
+- Read back: all 106 match the bank (stem, choices, key, every wrong-choice feedback), CC BY 4.0, public, Show Hint present.

@@ -75,6 +75,7 @@ A major overhaul of the free LibreTexts textbook for **CHEM 3A (Introductory Gen
 
 - **Chapter 2 (2026-11-14):** intro on chapter page 597482; 2.1–2.9 = 597862–597870. Old transcluded pages 597502–597510 retired to 597819 as "Old 2.x …".
 - **Chapter 3 (2026-11-14):** intro on chapter page 597483; 3.1–3.9 = 597878–597886. Old transcluded pages 597511–597517 (with subpages) retired to 597819 as "Old 3.x …". ADAPT assignment 224844, folder 15020.
+- **Chapter 4 (2026-11-14):** intro on chapter page 597484; 4.1–4.9 = 597891–597899. Old transcluded pages 597520, 597522–597524 (with subpages) retired to 597819 as "Old 4.x …". ADAPT assignment 224846, folder 15021. Naming follows his slides: fixed-charge metals = groups 1–2, Al, Zn, Ag; Stock names plus older -ous/-ic names; "bi-" names; polyatomic list = green sheet.
 - **Phones:** every YouTube iframe gets `style="max-width:100%;height:auto;aspect-ratio:16/9;"` (LibreTexts fixes them at 560 px); long display equations sit in `<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">`.
 - **Tables:** run `python3 tools/add_data_th.py <drafts>` on every new page (phone labels on LibreTexts).
 

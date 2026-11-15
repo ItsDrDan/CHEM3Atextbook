@@ -149,6 +149,8 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - Valley Connection: **Nitrate in Valley groundwater** (State Water Resources Control Board; nitrate MCL 10 mg/L as N) or **ammonium sulfate and gypsum (calcium sulfate dihydrate) as soil amendments** (UC Agriculture and Natural Resources).
 **Patient-case beat**: Mateo's ER medication list (albuterol sulfate, ipratropium bromide, magnesium sulfate, prednisone); name the ions in each salt.
 
+**Status 2026-11-14:** built and published in the draft (pages 597484 intro, 597891–597899), aligned to the Naming Ionic and Covalent Molecules lab lecture, the Naming Acids supplement, the green sheet, and lab Exp 4b (In the Lab box in 4.6); 5 figures; 56 practice problems; 66 Try It + 40 homework items; ADAPT assignment 224846. Boxes as built: Biology body compounds (4.1), Valley nitrate in groundwater (4.2), Nursing drug salt names and Rad Tech barium sulfate (4.3), DH nitrous oxide and RT inhaled nitric oxide (4.4), RT carbonic acid/ABG and Biology stomach HCl/plaque lactic acid (4.5), Microbiology disinfectants (4.6). Mateo beat: ER medication list. Old pages 597520, 597522–597524 moved to Retired Pages.
+
 ## Chapter 5. Measurement and the Mole (COR 3)
 
 **Sections**: the forked and audited Chapter 1 (draft 597481–597500), renumbered, plus:
