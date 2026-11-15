@@ -88,3 +88,12 @@ POST `/api/questions` (Bearer token from the `token` cookie) with the editor-sha
 - Pool **114**: all 72 Try It items in `bank/ch11.json` (3 table items with an HTML table in the stem; 1 solubility-curve plot item, c11-012, with `figures/adapt/c11-012.svg` and alt text in `figures/adapt/alt_ch11.json`) and 42 homework-only items in `bank/ch11_adapt.json`.
 - Read back: all 114 match the bank (stem, choices, key, every wrong-choice feedback, hint feedback, CC BY 4.0, public); c11-012 image loads, alt text present; Show Hint present.
 - Tip: with the browser pane hidden, background-tab timer throttling slows the upload loop's 250 ms pause to many seconds; overriding `setTimeout` for that pause fixed it.
+
+## Chapters 12–14 (2026-11-15)
+
+- **Chapter 12** "CHEM 3A Chapter 12: Acids and Bases": assignment **224857**, folder 15031. Pool **114**: 72 Try It items in `bank/ch12.json` (3 table items with an HTML table in the stem) + 42 homework-only items in `bank/ch12_adapt.json`.
+- **Chapter 13** "CHEM 3A Chapter 13: Chemical Equilibrium": assignment **224861**, folder 15032. Pool **112**: 70 Try It items in `bank/ch13.json` (2 tables; 2 plots, c13-003 and c13-019, as SVG images with alt text in `figures/adapt/alt_ch13.json`) + 42 in `bank/ch13_adapt.json`.
+- **Chapter 14** "CHEM 3A Chapter 14: Radioactivity and Nuclear Chemistry": assignment **224862**, folder 15033. Pool **114**: 72 Try It items in `bank/ch14.json` (2 tables; decay-curve plot c14-043 as an SVG image with alt text in `figures/adapt/alt_ch14.json`) + 42 in `bank/ch14_adapt.json`.
+- All three: template 145, 3 attempts, hints no penalty, marked late, 2 points, random 50 = 100 points, hidden, placeholder dates. Read back: every question matches the bank (stem, choices, key, every wrong-choice feedback, hint feedback, CC BY 4.0, public).
+- **Duplicates:** ADAPT sometimes creates a question twice for one POST (consecutive ids) or answers "identical to the native question" for one it just created. After every upload, read back, and remove the extra copy with DELETE `/api/assignments/{aid}/questions/{qid}` (it stays in My Questions). Removed: 357290, 357312, 357332, 357367 (Ch 12) and 357435 (Ch 13).
+- Running two uploads at once (different assignments) roughly halves the wait.
