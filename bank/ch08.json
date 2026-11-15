@@ -1,0 +1,1539 @@
+[
+ {
+  "id": "c8-001",
+  "t": "ch08-moleratio",
+  "q": "In the balanced equation 2 H<sub>2</sub>(g) + O<sub>2</sub>(g) &rarr; 2 H<sub>2</sub>O(l), what do the coefficients tell you?",
+  "c": [
+   "2 mol of H<sub>2</sub> react with 1 mol of O<sub>2</sub> to make 2 mol of H<sub>2</sub>O.",
+   "2 g of H<sub>2</sub> react with 1 g of O<sub>2</sub> to make 2 g of H<sub>2</sub>O.",
+   "2 molecules of H<sub>2</sub> and 1 molecule of O<sub>2</sub> make 3 molecules of H<sub>2</sub>O.",
+   "Each H<sub>2</sub>O molecule has 2 H atoms and 1 O atom, so the coefficients repeat the subscripts."
+  ],
+  "y": [
+   "Coefficients count particles, and the same ratio holds for moles: 2 mol H<sub>2</sub> : 1 mol O<sub>2</sub> : 2 mol H<sub>2</sub>O.",
+   "Coefficients are not masses. An O<sub>2</sub> molecule is about 16 times heavier than an H<sub>2</sub> molecule, so equal-looking numbers of grams do not match the recipe.",
+   "Coefficients on the two sides are not added together. The equation says 2 H<sub>2</sub> + 1 O<sub>2</sub> make 2 H<sub>2</sub>O; atoms are conserved, molecules are not.",
+   "Subscripts describe one molecule; coefficients count how many molecules (or moles) take part. They are different numbers with different jobs."
+  ],
+  "h": "Coefficients count particles. What do you get if you multiply each one by Avogadro's number?",
+  "w": "Coefficients are mole ratios: <b>2 mol H<sub>2</sub> react with 1 mol O<sub>2</sub> to make 2 mol H<sub>2</sub>O</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c8-002",
+  "t": "ch08-moleratio",
+  "q": "For the combustion of propane, C<sub>3</sub>H<sub>8</sub>(g) + 5 O<sub>2</sub>(g) &rarr; 3 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(l), which conversion factor turns moles of O<sub>2</sub> into moles of CO<sub>2</sub>?",
+  "c": [
+   "3 mol CO<sub>2</sub> / 5 mol O<sub>2</sub>",
+   "5 mol O<sub>2</sub> / 3 mol CO<sub>2</sub>",
+   "2 mol CO<sub>2</sub> / 2 mol O<sub>2</sub>",
+   "3 mol CO<sub>2</sub> / 1 mol C<sub>3</sub>H<sub>8</sub>"
+  ],
+  "y": [
+   "The coefficients of CO<sub>2</sub> (3) and O<sub>2</sub> (5) make the ratio, with the wanted unit, mol CO<sub>2</sub>, on top so mol O<sub>2</sub> cancels.",
+   "This is the right pair of coefficients, but upside down: mol O<sub>2</sub> would not cancel.",
+   "These are the subscripts in the formulas, not the coefficients. Mole ratios come from coefficients.",
+   "This ratio is correct for the equation, but it converts moles of propane, not moles of O<sub>2</sub>."
+  ],
+  "h": "Put the substance you want on top and the substance you have on the bottom.",
+  "w": "mol O<sub>2</sub> &times; <b>(3 mol CO<sub>2</sub> / 5 mol O<sub>2</sub>)</b> = mol CO<sub>2</sub>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c8-003",
+  "t": "ch08-moleratio",
+  "q": "Nitric acid for fertilizer is made from ammonia. The first step is 4 NH<sub>3</sub>(g) + 5 O<sub>2</sub>(g) &rarr; 4 NO(g) + 6 H<sub>2</sub>O(g). How many moles of O<sub>2</sub> react with 3.60 mol of NH<sub>3</sub>?",
+  "c": [
+   "4.50 mol O<sub>2</sub>",
+   "2.88 mol O<sub>2</sub>",
+   "3.60 mol O<sub>2</sub>",
+   "5.40 mol O<sub>2</sub>"
+  ],
+  "y": [
+   "3.60 mol NH<sub>3</sub> &times; (5 mol O<sub>2</sub> / 4 mol NH<sub>3</sub>). The equation uses more O<sub>2</sub> than NH<sub>3</sub>, so the answer is larger than 3.60.",
+   "This uses 4/5, the ratio upside down. Put mol O<sub>2</sub> on top.",
+   "This skips the mole ratio. The coefficients of NH<sub>3</sub> and O<sub>2</sub> are not equal.",
+   "This uses the coefficient of H<sub>2</sub>O (6) instead of O<sub>2</sub> (5)."
+  ],
+  "h": "Which two coefficients belong in the ratio?",
+  "w": "3.60 mol NH<sub>3</sub> &times; (5 mol O<sub>2</sub> / 4 mol NH<sub>3</sub>) = <b>4.50 mol O<sub>2</sub></b>. The mole ratio is exact, so the answer keeps the 3 significant figures of 3.60.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c8-004",
+  "t": "ch08-moleratio",
+  "q": "In cellular respiration, C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6 O<sub>2</sub> &rarr; 6 CO<sub>2</sub> + 6 H<sub>2</sub>O. How many moles of glucose are used when your cells produce 0.480 mol of CO<sub>2</sub>?",
+  "c": [
+   "0.0800 mol C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+   "2.88 mol C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+   "0.480 mol C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+   "14.4 g C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>"
+  ],
+  "y": [
+   "0.480 mol CO<sub>2</sub> &times; (1 mol glucose / 6 mol CO<sub>2</sub>). Each glucose makes six CO<sub>2</sub>, so far fewer moles of glucose are needed.",
+   "This multiplies by 6, the ratio upside down. One glucose makes six CO<sub>2</sub>, not the other way around.",
+   "This skips the mole ratio; the coefficients of glucose (1) and CO<sub>2</sub> (6) differ.",
+   "This goes one step too far, multiplying by the molar mass of glucose (180.156 g/mol). The question asks for moles."
+  ],
+  "h": "One glucose molecule makes how many CO<sub>2</sub> molecules?",
+  "w": "0.480 mol CO<sub>2</sub> &times; (1 mol C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> / 6 mol CO<sub>2</sub>) = <b>0.0800 mol C<sub>6</sub>H<sub>12</sub>O<sub>6</sub></b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c8-005",
+  "t": "ch08-moleratio",
+  "q": "Hydrogen peroxide foams on a cut because an enzyme in blood (catalase) speeds up 2 H<sub>2</sub>O<sub>2</sub>(aq) &rarr; 2 H<sub>2</sub>O(l) + O<sub>2</sub>(g). How many moles of O<sub>2</sub> form from 0.856 mol of H<sub>2</sub>O<sub>2</sub>?",
+  "c": [
+   "0.428 mol O<sub>2</sub>",
+   "1.71 mol O<sub>2</sub>",
+   "0.856 mol O<sub>2</sub>",
+   "13.7 g O<sub>2</sub>"
+  ],
+  "y": [
+   "0.856 mol H<sub>2</sub>O<sub>2</sub> &times; (1 mol O<sub>2</sub> / 2 mol H<sub>2</sub>O<sub>2</sub>): half as many moles of O<sub>2</sub> as H<sub>2</sub>O<sub>2</sub>.",
+   "This uses 2/1, the ratio upside down. Two H<sub>2</sub>O<sub>2</sub> make one O<sub>2</sub>.",
+   "This skips the mole ratio. The coefficients of H<sub>2</sub>O<sub>2</sub> and O<sub>2</sub> are 2 and 1.",
+   "This converts on to grams with 31.998 g/mol. The question asks for moles of O<sub>2</sub>."
+  ],
+  "h": "Two H<sub>2</sub>O<sub>2</sub> molecules make how many O<sub>2</sub> molecules?",
+  "w": "0.856 mol H<sub>2</sub>O<sub>2</sub> &times; (1 mol O<sub>2</sub> / 2 mol H<sub>2</sub>O<sub>2</sub>) = <b>0.428 mol O<sub>2</sub></b>.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c8-006",
+  "t": "ch08-moleratio",
+  "q": "For 2 Mg(s) + O<sub>2</sub>(g) &rarr; 2 MgO(s), a student says, &ldquo;2 g of Mg react with 1 g of O<sub>2</sub>.&rdquo; Which statement corrects the student?",
+  "c": [
+   "2 mol of Mg (48.62 g) react with 1 mol of O<sub>2</sub> (31.998 g); coefficients are mole ratios, not mass ratios.",
+   "The student is right; coefficients give the ratio of grams.",
+   "2 g of Mg react with 2 g of O<sub>2</sub>, because the product has 2 MgO.",
+   "1 g of Mg reacts with 2 g of O<sub>2</sub>, because O<sub>2</sub> has two atoms."
+  ],
+  "y": [
+   "Coefficients count moles. 2 mol Mg &times; 24.31 g/mol = 48.62 g and 1 mol O<sub>2</sub> = 31.998 g, so the mass ratio is not 2 : 1.",
+   "Coefficients are particle and mole ratios. Mg atoms and O<sub>2</sub> molecules have different masses, so grams do not follow the coefficients.",
+   "The product's coefficient does not set the mass of a reactant, and grams do not follow coefficients.",
+   "The subscript in O<sub>2</sub> is part of the formula; it does not change the mole ratio, which is 2 Mg : 1 O<sub>2</sub>."
+  ],
+  "h": "Do 1 mol of Mg and 1 mol of O<sub>2</sub> have the same mass?",
+  "w": "The equation means <b>2 mol Mg (2 &times; 24.31 = 48.62 g) react with 1 mol O<sub>2</sub> (31.998 g)</b>. Coefficients are mole ratios; to compare masses, use molar masses.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c8-007",
+  "t": "ch08-moleratio",
+  "q": "In N<sub>2</sub>(g) + 3 H<sub>2</sub>(g) &rarr; 2 NH<sub>3</sub>(g), 4 mol of reactant molecules make only 2 mol of product. What is conserved in this reaction?",
+  "c": [
+   "The number of each kind of atom, and so the total mass",
+   "The total number of moles of molecules",
+   "The number of molecules of each substance",
+   "Nothing; 2 mol of product weighs less than 4 mol of reactants"
+  ],
+  "y": [
+   "2 N and 6 H atoms are on each side, so the mass of 1 mol N<sub>2</sub> + 3 mol H<sub>2</sub> (34.062 g) equals the mass of 2 mol NH<sub>3</sub> (34.062 g).",
+   "Moles of molecules are not conserved: 1 + 3 = 4 mol become 2 mol, because atoms regroup into bigger molecules.",
+   "Molecules are broken apart and rebuilt; N<sub>2</sub> and H<sub>2</sub> are used up and NH<sub>3</sub> forms.",
+   "Mass is always conserved. Fewer, heavier NH<sub>3</sub> molecules have the same total mass as the reactants."
+  ],
+  "h": "Count the N and H atoms on each side.",
+  "w": "Atoms are rearranged, not created or destroyed, so <b>atoms and mass are conserved</b>; moles of molecules are not (4 mol &rarr; 2 mol).",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c8-008",
+  "t": "ch08-moleratio",
+  "q": "In a blast furnace, iron ore is reduced by carbon monoxide: Fe<sub>2</sub>O<sub>3</sub>(s) + 3 CO(g) &rarr; 2 Fe(l) + 3 CO<sub>2</sub>(g). How many moles of CO are needed to produce 1.25 mol of Fe?",
+  "c": [
+   "1.88 mol CO",
+   "0.833 mol CO",
+   "1.25 mol CO",
+   "0.625 mol CO"
+  ],
+  "y": [
+   "1.25 mol Fe &times; (3 mol CO / 2 mol Fe). The equation needs 3 CO for every 2 Fe, so more than 1.25 mol.",
+   "This uses 2/3, the ratio upside down. mol Fe would not cancel.",
+   "This skips the mole ratio; the coefficients of CO and Fe are 3 and 2.",
+   "This is the moles of Fe<sub>2</sub>O<sub>3</sub> needed (1 Fe<sub>2</sub>O<sub>3</sub> : 2 Fe), not the moles of CO."
+  ],
+  "h": "Set up mol Fe &times; (mol CO / mol Fe).",
+  "w": "1.25 mol Fe &times; (3 mol CO / 2 mol Fe) = <b>1.88 mol CO</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c8-009",
+  "t": "ch08-moleratio",
+  "q": "A propane camp stove burns fuel by C<sub>3</sub>H<sub>8</sub>(g) + 5 O<sub>2</sub>(g) &rarr; 3 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(l). How many moles of O<sub>2</sub> were used if 2.46 mol of H<sub>2</sub>O formed?",
+  "c": [
+   "3.08 mol O<sub>2</sub>",
+   "1.97 mol O<sub>2</sub>",
+   "0.615 mol O<sub>2</sub>",
+   "2.46 mol O<sub>2</sub>"
+  ],
+  "y": [
+   "2.46 mol H<sub>2</sub>O &times; (5 mol O<sub>2</sub> / 4 mol H<sub>2</sub>O). Any two substances in a balanced equation can be linked by a mole ratio, even a product and a reactant.",
+   "This uses 4/5, the ratio upside down.",
+   "This is the moles of propane burned (1 C<sub>3</sub>H<sub>8</sub> : 4 H<sub>2</sub>O), not the moles of O<sub>2</sub>.",
+   "This skips the mole ratio; the coefficients of O<sub>2</sub> (5) and H<sub>2</sub>O (4) differ."
+  ],
+  "h": "Link H<sub>2</sub>O directly to O<sub>2</sub> with their coefficients.",
+  "w": "2.46 mol H<sub>2</sub>O &times; (5 mol O<sub>2</sub> / 4 mol H<sub>2</sub>O) = <b>3.08 mol O<sub>2</sub></b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c8-010",
+  "t": "ch08-moleratio",
+  "q": "The table follows the mole ratio of 4 Al(s) + 3 O<sub>2</sub>(g) &rarr; 2 Al<sub>2</sub>O<sub>3</sub>(s), which forms the thin oxide layer that protects aluminum. What belongs in the cell marked ?",
+  "c": [
+   "0.60 mol O<sub>2</sub>",
+   "1.1 mol O<sub>2</sub>",
+   "0.40 mol O<sub>2</sub>",
+   "0.80 mol O<sub>2</sub>"
+  ],
+  "y": [
+   "0.80 mol Al &times; (3 mol O<sub>2</sub> / 4 mol Al) = 0.60 mol, the same 4 : 3 pattern as the rows above.",
+   "This uses 4/3, the ratio upside down; Al needs fewer moles of O<sub>2</sub> than of Al.",
+   "This uses the coefficient of Al<sub>2</sub>O<sub>3</sub> (2) instead of O<sub>2</sub> (3).",
+   "This skips the mole ratio; the rows above show the moles of O<sub>2</sub> are not equal to the moles of Al."
+  ],
+  "h": "Check the pattern in the first two rows: what do you multiply mol Al by to get mol O<sub>2</sub>?",
+  "w": "mol O<sub>2</sub> = mol Al &times; 3/4, so 0.80 &times; 3/4 = <b>0.60 mol O<sub>2</sub></b>.",
+  "d": 2,
+  "k": 1,
+  "f": [
+   {
+    "type": "table",
+    "cap": "Moles of Al and O<sub>2</sub> that react",
+    "head": [
+     "Trial",
+     "mol Al",
+     "mol O<sub>2</sub>"
+    ],
+    "rows": [
+     [
+      "1",
+      "4.0",
+      "3.0"
+     ],
+     [
+      "2",
+      "2.0",
+      "1.5"
+     ],
+     [
+      "3",
+      "0.80",
+      "?"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c8-011",
+  "t": "ch08-moleratio",
+  "q": "For octane in gasoline, 2 C<sub>8</sub>H<sub>18</sub>(l) + 25 O<sub>2</sub>(g) &rarr; 16 CO<sub>2</sub>(g) + 18 H<sub>2</sub>O(g). A student converts 0.3150 mol O<sub>2</sub> to moles of CO<sub>2</sub> with the factor 16 mol CO<sub>2</sub> / 25 mol O<sub>2</sub>. How many significant figures should the answer have?",
+  "c": [
+   "4, set by 0.3150; the mole ratio is exact",
+   "2, set by the 16 and the 25 in the ratio",
+   "1, because 16/25 is less than 1",
+   "5, because the ratio has 5 digits in total"
+  ],
+  "y": [
+   "Coefficients are exact counts from a balanced equation, so they never limit significant figures. Only the measured 0.3150 (4 significant figures) does.",
+   "Coefficients are exact numbers, not measurements, so they have unlimited significant figures.",
+   "The size of a number does not set its significant figures, and exact ratios do not limit the answer.",
+   "Digits of exact numbers are not counted; only the measured given limits the answer."
+  ],
+  "h": "Is a coefficient a measured number or an exact count?",
+  "w": "Mole ratios are exact, so <b>4 significant figures</b>, like 0.3150: 0.3150 &times; 16/25 = 0.2016 mol CO<sub>2</sub>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c8-012",
+  "t": "ch08-massmass",
+  "q": "Yeast ferment grape sugar into wine: C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>(aq) &rarr; 2 C<sub>2</sub>H<sub>5</sub>OH(aq) + 2 CO<sub>2</sub>(g). What mass of ethanol can form from 75.0 g of glucose? (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> 180.156 g/mol; C<sub>2</sub>H<sub>5</sub>OH 46.069 g/mol)",
+  "c": [
+   "38.4 g C<sub>2</sub>H<sub>5</sub>OH",
+   "19.2 g C<sub>2</sub>H<sub>5</sub>OH",
+   "76.7 g C<sub>2</sub>H<sub>5</sub>OH",
+   "0.833 mol C<sub>2</sub>H<sub>5</sub>OH"
+  ],
+  "y": [
+   "75.0 g &divide; 180.156 g/mol = 0.4163 mol glucose; &times; 2 = 0.8326 mol ethanol; &times; 46.069 g/mol.",
+   "This skips the mole ratio. Each glucose makes 2 ethanol molecules.",
+   "This doubles twice: the coefficient 2 belongs in the mole ratio only, not in the molar mass. The molar mass of ethanol is 46.069 g/mol however many moles react.",
+   "This stops at moles of ethanol. One more step, with the molar mass, gives grams."
+  ],
+  "h": "g glucose &rarr; mol glucose &rarr; mol ethanol &rarr; g ethanol.",
+  "w": "75.0 g &times; (1 mol / 180.156 g) &times; (2 mol C<sub>2</sub>H<sub>5</sub>OH / 1 mol C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) &times; (46.069 g / 1 mol) = <b>38.4 g C<sub>2</sub>H<sub>5</sub>OH</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c8-013",
+  "t": "ch08-massmass",
+  "q": "An antacid tablet contains 0.750 g of calcium carbonate, which neutralizes stomach acid: CaCO<sub>3</sub>(s) + 2 HCl(aq) &rarr; CaCl<sub>2</sub>(aq) + H<sub>2</sub>O(l) + CO<sub>2</sub>(g). What mass of HCl can it neutralize? (CaCO<sub>3</sub> 100.09 g/mol; HCl 36.46 g/mol)",
+  "c": [
+   "0.546 g HCl",
+   "0.273 g HCl",
+   "0.137 g HCl",
+   "1.50 g HCl"
+  ],
+  "y": [
+   "0.750 g &divide; 100.09 g/mol = 0.007493 mol CaCO<sub>3</sub>; &times; 2 = 0.01499 mol HCl; &times; 36.46 g/mol.",
+   "This skips the mole ratio: one CaCO<sub>3</sub> neutralizes two HCl.",
+   "This uses 1/2, the ratio upside down.",
+   "This multiplies the grams by the coefficient. Grams must be converted to moles before a mole ratio can be used."
+  ],
+  "h": "Convert grams of CaCO<sub>3</sub> to moles before you use the 1 : 2 ratio.",
+  "w": "0.750 g CaCO<sub>3</sub> &times; (1 mol / 100.09 g) &times; (2 mol HCl / 1 mol CaCO<sub>3</sub>) &times; (36.46 g / 1 mol) = <b>0.546 g HCl</b>. (Context only; follow the label.)",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c8-014",
+  "t": "ch08-massmass",
+  "q": "Valley farms rely on ammonia fertilizer made by N<sub>2</sub>(g) + 3 H<sub>2</sub>(g) &rarr; 2 NH<sub>3</sub>(g). What mass of H<sub>2</sub> is needed to make 85.0 g of NH<sub>3</sub>? (NH<sub>3</sub> 17.031 g/mol; H<sub>2</sub> 2.016 g/mol)",
+  "c": [
+   "15.1 g H<sub>2</sub>",
+   "10.1 g H<sub>2</sub>",
+   "6.71 g H<sub>2</sub>",
+   "7.55 g H<sub>2</sub>"
+  ],
+  "y": [
+   "85.0 g &divide; 17.031 g/mol = 4.991 mol NH<sub>3</sub>; &times; 3/2 = 7.486 mol H<sub>2</sub>; &times; 2.016 g/mol.",
+   "This skips the mole ratio (3 H<sub>2</sub> : 2 NH<sub>3</sub>).",
+   "This uses 2/3, the ratio upside down.",
+   "This uses 1.008 g/mol, the mass of H atoms. Hydrogen gas is diatomic, H<sub>2</sub>, 2.016 g/mol."
+  ],
+  "h": "Work backward from the product: g NH<sub>3</sub> &rarr; mol NH<sub>3</sub> &rarr; mol H<sub>2</sub> &rarr; g H<sub>2</sub>.",
+  "w": "85.0 g NH<sub>3</sub> &times; (1 mol / 17.031 g) &times; (3 mol H<sub>2</sub> / 2 mol NH<sub>3</sub>) &times; (2.016 g / 1 mol) = <b>15.1 g H<sub>2</sub></b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c8-015",
+  "t": "ch08-massmass",
+  "q": "What mass of O<sub>2</sub> must you breathe in to fully oxidize 16.5 g of glucose? C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6 O<sub>2</sub> &rarr; 6 CO<sub>2</sub> + 6 H<sub>2</sub>O (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> 180.156 g/mol; O<sub>2</sub> 31.998 g/mol)",
+  "c": [
+   "17.6 g O<sub>2</sub>",
+   "2.93 g O<sub>2</sub>",
+   "8.79 g O<sub>2</sub>",
+   "0.488 g O<sub>2</sub>"
+  ],
+  "y": [
+   "16.5 g &divide; 180.156 g/mol = 0.09159 mol glucose; &times; 6 = 0.5495 mol O<sub>2</sub>; &times; 31.998 g/mol.",
+   "This skips the mole ratio: each glucose needs 6 O<sub>2</sub>.",
+   "This uses 15.999 g/mol, the mass of O atoms. Oxygen gas is O<sub>2</sub>, 31.998 g/mol.",
+   "This uses 1/6, the ratio upside down."
+  ],
+  "h": "How many O<sub>2</sub> does one glucose need?",
+  "w": "16.5 g &times; (1 mol / 180.156 g) &times; (6 mol O<sub>2</sub> / 1 mol C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) &times; (31.998 g / 1 mol) = <b>17.6 g O<sub>2</sub></b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c8-016",
+  "t": "ch08-massmass",
+  "q": "Magnesium ribbon burns with a bright white flame: 2 Mg(s) + O<sub>2</sub>(g) &rarr; 2 MgO(s). What mass of MgO forms from 3.65 g of Mg? (Mg 24.31 g/mol; MgO 40.31 g/mol)",
+  "c": [
+   "6.05 g MgO",
+   "3.65 g MgO",
+   "12.1 g MgO",
+   "0.150 mol MgO"
+  ],
+  "y": [
+   "3.65 g &divide; 24.31 g/mol = 0.1501 mol Mg; the ratio is 2 : 2 (1 : 1), so 0.1501 mol MgO; &times; 40.31 g/mol.",
+   "Mass is conserved for the whole reaction, but MgO also contains oxygen from the air, so it weighs more than the Mg alone.",
+   "This multiplies the molar mass of MgO by its coefficient. The 2 belongs in the mole ratio (2 Mg : 2 MgO), and it cancels there.",
+   "This stops at moles. Multiply by 40.31 g/mol to get grams."
+  ],
+  "h": "The mole ratio here is 2 : 2. What does that simplify to?",
+  "w": "3.65 g Mg &times; (1 mol / 24.31 g) &times; (2 mol MgO / 2 mol Mg) &times; (40.31 g / 1 mol) = <b>6.05 g MgO</b>.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c8-017",
+  "t": "ch08-massmass",
+  "q": "Many rural Valley homes heat with propane: C<sub>3</sub>H<sub>8</sub>(g) + 5 O<sub>2</sub>(g) &rarr; 3 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(l). What mass of CO<sub>2</sub> forms when 26.5 g of propane burns? (C<sub>3</sub>H<sub>8</sub> 44.097 g/mol; CO<sub>2</sub> 44.009 g/mol)",
+  "c": [
+   "79.3 g CO<sub>2</sub>",
+   "26.4 g CO<sub>2</sub>",
+   "8.82 g CO<sub>2</sub>",
+   "238 g CO<sub>2</sub>"
+  ],
+  "y": [
+   "26.5 g &divide; 44.097 g/mol = 0.6009 mol propane; &times; 3 = 1.803 mol CO<sub>2</sub>; &times; 44.009 g/mol.",
+   "This skips the mole ratio. Propane and CO<sub>2</sub> have nearly the same molar mass, but each propane makes 3 CO<sub>2</sub>.",
+   "This uses 1/3, the ratio upside down.",
+   "This uses the 3 twice: once in the mole ratio and again on the molar mass of CO<sub>2</sub>."
+  ],
+  "h": "One propane molecule has 3 C atoms. How many CO<sub>2</sub> does it make?",
+  "w": "26.5 g C<sub>3</sub>H<sub>8</sub> &times; (1 mol / 44.097 g) &times; (3 mol CO<sub>2</sub> / 1 mol C<sub>3</sub>H<sub>8</sub>) &times; (44.009 g / 1 mol) = <b>79.3 g CO<sub>2</sub></b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c8-018",
+  "t": "ch08-massmass",
+  "q": "Iron rusts by 4 Fe(s) + 3 O<sub>2</sub>(g) &rarr; 2 Fe<sub>2</sub>O<sub>3</sub>(s). What mass of O<sub>2</sub> is used when 8.40 g of iron rusts completely? (Fe 55.85 g/mol; O<sub>2</sub> 31.998 g/mol)",
+  "c": [
+   "3.61 g O<sub>2</sub>",
+   "6.42 g O<sub>2</sub>",
+   "1.80 g O<sub>2</sub>",
+   "4.81 g O<sub>2</sub>"
+  ],
+  "y": [
+   "8.40 g &divide; 55.85 g/mol = 0.1504 mol Fe; &times; 3/4 = 0.1128 mol O<sub>2</sub>; &times; 31.998 g/mol.",
+   "This uses 4/3, the ratio upside down.",
+   "This uses the mass of O atoms (15.999 g/mol). The reactant is O<sub>2</sub> gas.",
+   "This skips the mole ratio (4 Fe : 3 O<sub>2</sub>)."
+  ],
+  "h": "Which ratio has mol O<sub>2</sub> on top and mol Fe on the bottom?",
+  "w": "8.40 g Fe &times; (1 mol / 55.85 g) &times; (3 mol O<sub>2</sub> / 4 mol Fe) &times; (31.998 g / 1 mol) = <b>3.61 g O<sub>2</sub></b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c8-019",
+  "t": "ch08-massmass",
+  "q": "Which order of steps converts grams of a reactant A into grams of a product B?",
+  "c": [
+   "g A &rarr; mol A &rarr; mol B &rarr; g B",
+   "g A &rarr; g B, using the coefficients",
+   "g A &rarr; mol B &rarr; mol A &rarr; g B",
+   "mol A &rarr; g A &rarr; g B &rarr; mol B"
+  ],
+  "y": [
+   "Molar mass of A, then the mole ratio, then the molar mass of B. Only moles have a ratio in the equation.",
+   "Coefficients are mole ratios, not mass ratios, so grams cannot be converted directly.",
+   "The mole ratio links mol A to mol B; you must reach mol A first, from g A.",
+   "The given is in grams, so you start at g A, not mol A."
+  ],
+  "h": "Our goal is the mole: where does the mole ratio sit in the road map?",
+  "w": "The road map: <b>g A &rarr; mol A &rarr; mol B &rarr; g B</b> (molar mass of A, mole ratio, molar mass of B).",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c8-020",
+  "t": "ch08-massmass",
+  "q": "A student finds the mass of water made from 5.5 g of H<sub>2</sub> with 2 H<sub>2</sub>(g) + O<sub>2</sub>(g) &rarr; 2 H<sub>2</sub>O(l) as 5.5 g H<sub>2</sub> &times; (2 mol H<sub>2</sub>O / 2 mol H<sub>2</sub>) = 5.5 g H<sub>2</sub>O. What went wrong?",
+  "c": [
+   "The grams of H<sub>2</sub> were never converted to moles, so the mole ratio was used on grams.",
+   "The mole ratio is upside down.",
+   "The equation is not balanced.",
+   "Nothing; the ratio is 1 : 1, so the masses are equal."
+  ],
+  "y": [
+   "A mole ratio works only on moles. 5.5 g &divide; 2.016 g/mol = 2.73 mol H<sub>2</sub> &rarr; 2.73 mol H<sub>2</sub>O &rarr; &times; 18.015 g/mol = 49 g H<sub>2</sub>O.",
+   "2/2 is the same either way up; the problem is the missing molar masses.",
+   "The equation is balanced: 4 H and 2 O on each side.",
+   "A 1 : 1 mole ratio means equal moles, not equal masses. A water molecule is about 9 times heavier than an H<sub>2</sub> molecule."
+  ],
+  "h": "Can you multiply grams by a mole ratio?",
+  "w": "The student <b>skipped the conversion to moles</b>. 5.5 g &times; (1 mol / 2.016 g) &times; (2 mol H<sub>2</sub>O / 2 mol H<sub>2</sub>) &times; (18.015 g / 1 mol) = 49 g H<sub>2</sub>O.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c8-021",
+  "t": "ch08-massmass",
+  "q": "Aspirin is made by C<sub>7</sub>H<sub>6</sub>O<sub>3</sub> + C<sub>4</sub>H<sub>6</sub>O<sub>3</sub> &rarr; C<sub>9</sub>H<sub>8</sub>O<sub>4</sub> + C<sub>2</sub>H<sub>4</sub>O<sub>2</sub> (salicylic acid + acetic anhydride &rarr; aspirin + acetic acid). What mass of acetic anhydride reacts exactly with 3.45 g of salicylic acid? (C<sub>7</sub>H<sub>6</sub>O<sub>3</sub> 138.122 g/mol; C<sub>4</sub>H<sub>6</sub>O<sub>3</sub> 102.089 g/mol)",
+  "c": [
+   "2.55 g C<sub>4</sub>H<sub>6</sub>O<sub>3</sub>",
+   "3.45 g C<sub>4</sub>H<sub>6</sub>O<sub>3</sub>",
+   "4.67 g C<sub>4</sub>H<sub>6</sub>O<sub>3</sub>",
+   "0.0250 mol C<sub>4</sub>H<sub>6</sub>O<sub>3</sub>"
+  ],
+  "y": [
+   "3.45 g &divide; 138.122 g/mol = 0.02498 mol; 1 : 1 ratio, so 0.02498 mol C<sub>4</sub>H<sub>6</sub>O<sub>3</sub>; &times; 102.089 g/mol.",
+   "A 1 : 1 mole ratio means equal moles, not equal grams. The two molecules have different molar masses.",
+   "This uses the two molar masses upside down (multiplies by 138.122 and divides by 102.089).",
+   "This stops at moles. Multiply by the molar mass of acetic anhydride."
+  ],
+  "h": "Equal moles of two substances have equal masses only if their molar masses are equal.",
+  "w": "3.45 g C<sub>7</sub>H<sub>6</sub>O<sub>3</sub> &times; (1 mol / 138.122 g) &times; (1 mol C<sub>4</sub>H<sub>6</sub>O<sub>3</sub> / 1 mol C<sub>7</sub>H<sub>6</sub>O<sub>3</sub>) &times; (102.089 g / 1 mol) = <b>2.55 g C<sub>4</sub>H<sub>6</sub>O<sub>3</sub></b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c8-022",
+  "t": "ch08-massmass",
+  "q": "Baking soda releases CO<sub>2</sub> when heated in an oven: 2 NaHCO<sub>3</sub>(s) &rarr; Na<sub>2</sub>CO<sub>3</sub>(s) + H<sub>2</sub>O(g) + CO<sub>2</sub>(g). What mass of CO<sub>2</sub> forms from 3.36 g of NaHCO<sub>3</sub>? (NaHCO<sub>3</sub> 84.01 g/mol; CO<sub>2</sub> 44.009 g/mol)",
+  "c": [
+   "0.880 g CO<sub>2</sub>",
+   "1.76 g CO<sub>2</sub>",
+   "3.52 g CO<sub>2</sub>",
+   "0.440 g CO<sub>2</sub>"
+  ],
+  "y": [
+   "3.36 g &divide; 84.01 g/mol = 0.04000 mol NaHCO<sub>3</sub>; &times; 1/2 = 0.02000 mol CO<sub>2</sub>; &times; 44.009 g/mol.",
+   "This skips the mole ratio. Two NaHCO<sub>3</sub> make one CO<sub>2</sub>.",
+   "This uses 2/1, the ratio upside down.",
+   "This uses the coefficient twice: in the mole ratio and again on the molar mass of NaHCO<sub>3</sub> (2 &times; 84.01). A molar mass never includes a coefficient."
+  ],
+  "h": "Two NaHCO<sub>3</sub> &rarr; one CO<sub>2</sub>.",
+  "w": "3.36 g NaHCO<sub>3</sub> &times; (1 mol / 84.01 g) &times; (1 mol CO<sub>2</sub> / 2 mol NaHCO<sub>3</sub>) &times; (44.009 g / 1 mol) = <b>0.880 g CO<sub>2</sub></b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c8-023",
+  "t": "ch08-massmass",
+  "q": "Bread dough rises as yeast ferment sugar: C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> &rarr; 2 C<sub>2</sub>H<sub>5</sub>OH + 2 CO<sub>2</sub>. The table follows the road map for 30.0 g of glucose. What mass of CO<sub>2</sub> goes in the last row?",
+  "c": [
+   "14.7 g CO<sub>2</sub>",
+   "7.33 g CO<sub>2</sub>",
+   "29.3 g CO<sub>2</sub>",
+   "0.333 g CO<sub>2</sub>"
+  ],
+  "y": [
+   "0.3330 mol CO<sub>2</sub> &times; 44.009 g/mol. The mole ratio was already applied in the third row.",
+   "This multiplies the moles of glucose (row 2) by the molar mass of CO<sub>2</sub>, skipping the mole ratio.",
+   "This multiplies by 2 again; the coefficient was already used in the mole ratio.",
+   "This copies the moles of CO<sub>2</sub> and labels them grams. Multiply by the molar mass."
+  ],
+  "h": "Which row has moles of CO<sub>2</sub>? What factor turns moles into grams?",
+  "w": "0.3330 mol CO<sub>2</sub> &times; 44.009 g/mol = <b>14.7 g CO<sub>2</sub></b>. Each row is one step of the road map.",
+  "d": 3,
+  "k": 1,
+  "f": [
+   {
+    "type": "table",
+    "cap": "Road map for 30.0 g of glucose",
+    "head": [
+     "Step",
+     "Value"
+    ],
+    "rows": [
+     [
+      "g C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+      "30.0"
+     ],
+     [
+      "mol C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> (&divide; 180.156)",
+      "0.1665"
+     ],
+     [
+      "mol CO<sub>2</sub> (&times; 2/1)",
+      "0.3330"
+     ],
+     [
+      "g CO<sub>2</sub> (&times; 44.009)",
+      "?"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c8-024",
+  "t": "ch08-massmass",
+  "q": "The thermite reaction welds railroad rails: Fe<sub>2</sub>O<sub>3</sub>(s) + 2 Al(s) &rarr; Al<sub>2</sub>O<sub>3</sub>(s) + 2 Fe(l). What mass of Al reacts exactly with 12.5 g of Fe<sub>2</sub>O<sub>3</sub>? (Fe<sub>2</sub>O<sub>3</sub> 159.70 g/mol; Al 26.98 g/mol)",
+  "c": [
+   "4.22 g Al",
+   "2.11 g Al",
+   "1.06 g Al",
+   "8.45 g Al"
+  ],
+  "y": [
+   "12.5 g &divide; 159.70 g/mol = 0.07827 mol Fe<sub>2</sub>O<sub>3</sub>; &times; 2 = 0.1565 mol Al; &times; 26.98 g/mol.",
+   "This skips the mole ratio: each Fe<sub>2</sub>O<sub>3</sub> needs 2 Al.",
+   "This uses 1/2, the ratio upside down.",
+   "This puts the coefficient 2 into the molar mass of Al as well. The molar mass of Al is 26.98 g/mol however many Al atoms react."
+  ],
+  "h": "Never put a coefficient into a molar mass.",
+  "w": "12.5 g Fe<sub>2</sub>O<sub>3</sub> &times; (1 mol / 159.70 g) &times; (2 mol Al / 1 mol Fe<sub>2</sub>O<sub>3</sub>) &times; (26.98 g / 1 mol) = <b>4.22 g Al</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c8-025",
+  "t": "ch08-solgas",
+  "q": "How many moles of HCl are in 35.0 mL of 0.150 M HCl?",
+  "c": [
+   "0.00525 mol HCl",
+   "5.25 mol HCl",
+   "0.233 mol HCl",
+   "0.00429 mol HCl"
+  ],
+  "y": [
+   "35.0 mL = 0.0350 L; 0.0350 L &times; 0.150 mol/L.",
+   "This multiplies mL by mol/L without converting mL to L, so the answer is 1000 times too large.",
+   "This divides liters by molarity, which gives L&sup2;/mol, not moles.",
+   "This divides the molarity by the volume in mL; moles = liters &times; molarity."
+  ],
+  "h": "Molarity is moles per <b>liter</b>.",
+  "w": "35.0 mL &times; (1 L / 1000 mL) &times; (0.150 mol / 1 L) = <b>0.00525 mol HCl</b>.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c8-026",
+  "t": "ch08-solgas",
+  "q": "Baking soda can neutralize acid: NaHCO<sub>3</sub>(s) + HCl(aq) &rarr; NaCl(aq) + H<sub>2</sub>O(l) + CO<sub>2</sub>(g). What volume of 0.125 M HCl reacts with 0.315 g of NaHCO<sub>3</sub>? (NaHCO<sub>3</sub> 84.01 g/mol)",
+  "c": [
+   "30.0 mL",
+   "0.0300 mL",
+   "0.469 mL",
+   "0.00375 mol"
+  ],
+  "y": [
+   "0.315 g &divide; 84.01 g/mol = 0.003750 mol NaHCO<sub>3</sub> = 0.003750 mol HCl (1 : 1); &divide; 0.125 mol/L = 0.0300 L = 30.0 mL.",
+   "This is the volume in liters with a mL label; multiply liters by 1000 mL/L.",
+   "This multiplies moles by molarity. To get liters, divide moles by molarity (L = mol &divide; M).",
+   "This stops at moles of HCl; dividing by the molarity gives the volume."
+  ],
+  "h": "liters = moles &divide; molarity.",
+  "w": "0.315 g &times; (1 mol / 84.01 g) &times; (1 mol HCl / 1 mol NaHCO<sub>3</sub>) &times; (1 L / 0.125 mol) = 0.0300 L = <b>30.0 mL</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c8-027",
+  "t": "ch08-solgas",
+  "q": "A 3% hydrogen peroxide solution decomposes: 2 H<sub>2</sub>O<sub>2</sub>(aq) &rarr; 2 H<sub>2</sub>O(l) + O<sub>2</sub>(g). What volume of O<sub>2</sub> at STP forms from 0.346 mol of H<sub>2</sub>O<sub>2</sub>?",
+  "c": [
+   "3.88 L O<sub>2</sub>",
+   "7.75 L O<sub>2</sub>",
+   "15.5 L O<sub>2</sub>",
+   "0.173 mol O<sub>2</sub>"
+  ],
+  "y": [
+   "0.346 mol H<sub>2</sub>O<sub>2</sub> &times; 1/2 = 0.173 mol O<sub>2</sub>; &times; 22.4 L/mol at STP.",
+   "This skips the mole ratio: two H<sub>2</sub>O<sub>2</sub> make one O<sub>2</sub>.",
+   "This uses 2/1, the ratio upside down.",
+   "This stops at moles; at STP, multiply by 22.4 L/mol."
+  ],
+  "h": "Mole ratio first, then 22.4 L/mol.",
+  "w": "0.346 mol H<sub>2</sub>O<sub>2</sub> &times; (1 mol O<sub>2</sub> / 2 mol H<sub>2</sub>O<sub>2</sub>) &times; (22.4 L / 1 mol) = <b>3.88 L O<sub>2</sub></b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c8-028",
+  "t": "ch08-solgas",
+  "q": "Heating limestone in a kiln makes lime for cement and for treating farm soil: CaCO<sub>3</sub>(s) &rarr; CaO(s) + CO<sub>2</sub>(g). What volume of CO<sub>2</sub> at STP forms from 15.0 g of CaCO<sub>3</sub>? (CaCO<sub>3</sub> 100.09 g/mol)",
+  "c": [
+   "3.36 L CO<sub>2</sub>",
+   "336 L CO<sub>2</sub>",
+   "0.150 mol CO<sub>2</sub>",
+   "0.00669 L CO<sub>2</sub>"
+  ],
+  "y": [
+   "15.0 g &divide; 100.09 g/mol = 0.1499 mol CaCO<sub>3</sub> = 0.1499 mol CO<sub>2</sub> (1 : 1); &times; 22.4 L/mol.",
+   "This multiplies grams by 22.4 L/mol. Molar volume converts moles, not grams.",
+   "This stops at moles of CO<sub>2</sub>.",
+   "This divides by 22.4 L/mol. Moles &times; (22.4 L / 1 mol) gives liters."
+  ],
+  "h": "g &rarr; mol CaCO<sub>3</sub> &rarr; mol CO<sub>2</sub> &rarr; L.",
+  "w": "15.0 g &times; (1 mol / 100.09 g) &times; (1 mol CO<sub>2</sub> / 1 mol CaCO<sub>3</sub>) &times; (22.4 L / 1 mol) = <b>3.36 L CO<sub>2</sub></b> at STP.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c8-029",
+  "t": "ch08-solgas",
+  "q": "In a gas-production lab, magnesium ribbon reacts with acid: Mg(s) + 2 HCl(aq) &rarr; MgCl<sub>2</sub>(aq) + H<sub>2</sub>(g). What volume of H<sub>2</sub>, in mL at STP, forms from 0.0425 g of Mg? (Mg 24.31 g/mol)",
+  "c": [
+   "39.2 mL H<sub>2</sub>",
+   "78.3 mL H<sub>2</sub>",
+   "0.0392 mL H<sub>2</sub>",
+   "0.00175 mol H<sub>2</sub>"
+  ],
+  "y": [
+   "0.0425 g &divide; 24.31 g/mol = 0.001748 mol Mg = 0.001748 mol H<sub>2</sub>; &times; 22.4 L/mol = 0.03916 L = 39.2 mL.",
+   "This uses the HCl coefficient (2). The ratio of H<sub>2</sub> to Mg is 1 : 1.",
+   "This is the volume in liters with a mL label; multiply by 1000 mL/L.",
+   "This stops at moles of H<sub>2</sub>."
+  ],
+  "h": "Find liters with 22.4 L/mol, then convert to mL.",
+  "w": "0.0425 g Mg &times; (1 mol / 24.31 g) &times; (1 mol H<sub>2</sub> / 1 mol Mg) &times; (22.4 L / 1 mol) = 0.03916 L = <b>39.2 mL H<sub>2</sub></b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c8-030",
+  "t": "ch08-solgas",
+  "q": "A winemaker ferments grapes at 25 &deg;C and 1 atm, where 1 mol of gas occupies 24.5 L: C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>(aq) &rarr; 2 C<sub>2</sub>H<sub>5</sub>OH(aq) + 2 CO<sub>2</sub>(g). What volume of CO<sub>2</sub> forms from 12.6 g of glucose? (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> 180.156 g/mol)",
+  "c": [
+   "3.43 L CO<sub>2</sub>",
+   "3.13 L CO<sub>2</sub>",
+   "1.71 L CO<sub>2</sub>",
+   "0.140 mol CO<sub>2</sub>"
+  ],
+  "y": [
+   "12.6 g &divide; 180.156 g/mol = 0.06994 mol glucose; &times; 2 = 0.1399 mol CO<sub>2</sub>; &times; 24.5 L/mol, the molar volume at these conditions.",
+   "This uses 22.4 L/mol, which is only for STP (0 &deg;C, 1 atm). At 25 &deg;C a mole of gas takes up more room.",
+   "This skips the mole ratio: each glucose makes 2 CO<sub>2</sub>.",
+   "This stops at moles of CO<sub>2</sub>."
+  ],
+  "h": "Use the molar volume given for these conditions, not the STP value.",
+  "w": "12.6 g &times; (1 mol / 180.156 g) &times; (2 mol CO<sub>2</sub> / 1 mol glucose) &times; (24.5 L / 1 mol) = <b>3.43 L CO<sub>2</sub></b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c8-031",
+  "t": "ch08-solgas",
+  "q": "In a titration, H<sub>2</sub>SO<sub>4</sub>(aq) + 2 NaOH(aq) &rarr; Na<sub>2</sub>SO<sub>4</sub>(aq) + 2 H<sub>2</sub>O(l). What volume of 0.250 M NaOH neutralizes 15.0 mL of 0.180 M H<sub>2</sub>SO<sub>4</sub>?",
+  "c": [
+   "21.6 mL NaOH",
+   "5.40 mL NaOH",
+   "10.8 mL NaOH",
+   "0.0216 mL NaOH"
+  ],
+  "y": [
+   "0.0150 L &times; 0.180 M = 0.00270 mol H<sub>2</sub>SO<sub>4</sub>; &times; 2 = 0.00540 mol NaOH; &divide; 0.250 M = 0.0216 L = 21.6 mL.",
+   "This uses 1/2, the ratio upside down: each H<sub>2</sub>SO<sub>4</sub> needs two NaOH.",
+   "This skips the mole ratio (1 H<sub>2</sub>SO<sub>4</sub> : 2 NaOH).",
+   "This is the volume in liters with a mL label."
+  ],
+  "h": "mL acid &rarr; L &rarr; mol acid &rarr; mol NaOH &rarr; L NaOH &rarr; mL.",
+  "w": "0.0150 L &times; (0.180 mol / 1 L) &times; (2 mol NaOH / 1 mol H<sub>2</sub>SO<sub>4</sub>) &times; (1 L / 0.250 mol) = 0.0216 L = <b>21.6 mL NaOH</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c8-032",
+  "t": "ch08-solgas",
+  "q": "For which gas sample can you use 22.4 L/mol to convert volume to moles?",
+  "c": [
+   "Nitrogen at 0 &deg;C and 1 atm",
+   "Exhaled air at body temperature, 37 &deg;C, and 1 atm",
+   "Helium in a balloon at 25 &deg;C and 1 atm",
+   "Oxygen in a compressed tank at 0 &deg;C and 150 atm"
+  ],
+  "y": [
+   "0 &deg;C (273 K) and 1 atm is STP, where 1 mol of any ideal gas occupies 22.4 L.",
+   "37 &deg;C is warmer than STP, so a mole of gas takes up more than 22.4 L.",
+   "25 &deg;C is not STP; a mole of gas occupies about 24.5 L there.",
+   "The temperature is right, but 150 atm squeezes the gas far below 22.4 L per mole."
+  ],
+  "h": "What are the two conditions of STP?",
+  "w": "22.4 L/mol holds only at STP, <b>0 &deg;C and 1 atm</b>. Chapter 10 handles other conditions.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c8-033",
+  "t": "ch08-solgas",
+  "q": "A student finds the moles of NaOH in 25.0 mL of 0.150 M NaOH as 25.0 &times; 0.150 = 3.75 mol. What went wrong?",
+  "c": [
+   "The volume was not converted to liters; the answer should be 0.00375 mol.",
+   "The student should have divided: 25.0 &divide; 0.150.",
+   "Molarity is mol per mL, so the answer is right.",
+   "The student needed the molar mass of NaOH."
+  ],
+  "y": [
+   "Molarity is mol per liter: 0.0250 L &times; 0.150 mol/L = 0.00375 mol, 1000 times smaller.",
+   "Dividing volume by molarity does not give moles. Moles = liters &times; molarity.",
+   "M means mol per <b>liter</b>, so mL must be converted first.",
+   "Molar mass is not needed to get moles from a volume and a molarity."
+  ],
+  "h": "What volume unit does molarity use?",
+  "w": "<b>mL was not converted to L</b>: 25.0 mL = 0.0250 L, and 0.0250 L &times; 0.150 mol/L = 0.00375 mol NaOH.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c8-034",
+  "t": "ch08-solgas",
+  "q": "Zinc dissolves in hydrochloric acid: Zn(s) + 2 HCl(aq) &rarr; ZnCl<sub>2</sub>(aq) + H<sub>2</sub>(g). What mass of Zn reacts with 40.0 mL of 0.600 M HCl? (Zn 65.39 g/mol)",
+  "c": [
+   "0.785 g Zn",
+   "1.57 g Zn",
+   "785 g Zn",
+   "3.14 g Zn"
+  ],
+  "y": [
+   "0.0400 L &times; 0.600 M = 0.0240 mol HCl; &times; 1/2 = 0.0120 mol Zn; &times; 65.39 g/mol.",
+   "This skips the mole ratio: one Zn reacts with two HCl.",
+   "This uses 40.0 mL as if it were liters. Convert mL to L first.",
+   "This uses 2/1, the ratio upside down."
+  ],
+  "h": "Find mol HCl with liters &times; molarity, then use the 1 Zn : 2 HCl ratio.",
+  "w": "0.0400 L &times; (0.600 mol / 1 L) &times; (1 mol Zn / 2 mol HCl) &times; (65.39 g / 1 mol) = <b>0.785 g Zn</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c8-035",
+  "t": "ch08-limiting",
+  "q": "What is the <b>limiting reactant</b> in a reaction?",
+  "c": [
+   "The reactant that is used up first, which sets the most product that can form",
+   "The reactant present in the smallest mass",
+   "The reactant with the smallest coefficient in the balanced equation",
+   "The reactant that is left over when the reaction stops"
+  ],
+  "y": [
+   "When the limiting reactant runs out, the reaction stops, so it decides the maximum amount of product.",
+   "Mass alone cannot tell you; a reactant with a small molar mass can have many moles in a small mass.",
+   "Coefficients are only part of the story; the amounts present matter too.",
+   "That is the excess reactant."
+  ],
+  "h": "Think of bicycles: with 4 frames and 6 wheels, which part runs out first?",
+  "w": "The limiting reactant is <b>used up first and sets the maximum amount of product</b>; the other reactant is in excess and some is left over.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c8-036",
+  "t": "ch08-limiting",
+  "q": "For N<sub>2</sub>(g) + 3 H<sub>2</sub>(g) &rarr; 2 NH<sub>3</sub>(g), 1.80 mol of N<sub>2</sub> and 4.80 mol of H<sub>2</sub> react. What is the maximum amount of NH<sub>3</sub> that can form?",
+  "c": [
+   "3.20 mol NH<sub>3</sub>",
+   "3.60 mol NH<sub>3</sub>",
+   "6.80 mol NH<sub>3</sub>",
+   "9.60 mol NH<sub>3</sub>"
+  ],
+  "y": [
+   "From N<sub>2</sub>: 1.80 &times; 2/1 = 3.60 mol; from H<sub>2</sub>: 4.80 &times; 2/3 = 3.20 mol. H<sub>2</sub> makes less, so it is limiting.",
+   "This is what the N<sub>2</sub> could make. H<sub>2</sub> runs out first, so the reaction never gets that far.",
+   "The two amounts are not added; the smaller one is the answer.",
+   "This uses a 2 : 1 ratio for H<sub>2</sub>; the ratio is 2 NH<sub>3</sub> : 3 H<sub>2</sub>."
+  ],
+  "h": "Find the NH<sub>3</sub> each reactant could make. Which answer wins?",
+  "w": "N<sub>2</sub> &rarr; 3.60 mol NH<sub>3</sub>; H<sub>2</sub> &rarr; 3.20 mol NH<sub>3</sub>. <b>H<sub>2</sub> is limiting: 3.20 mol NH<sub>3</sub></b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c8-037",
+  "t": "ch08-limiting",
+  "q": "6.20 g of Na and 7.10 g of Cl<sub>2</sub> react: 2 Na(s) + Cl<sub>2</sub>(g) &rarr; 2 NaCl(s). Which is the limiting reactant? (Na 22.99 g/mol; Cl<sub>2</sub> 70.90 g/mol)",
+  "c": [
+   "Cl<sub>2</sub>, because it can make less NaCl",
+   "Na, because its mass is smaller",
+   "Na, because the equation needs 2 Na for every Cl<sub>2</sub>",
+   "Neither; the two react completely"
+  ],
+  "y": [
+   "Na: 6.20 &divide; 22.99 = 0.2697 mol &rarr; 0.2697 mol NaCl. Cl<sub>2</sub>: 7.10 &divide; 70.90 = 0.1001 mol &rarr; 0.2003 mol NaCl. Cl<sub>2</sub> makes less.",
+   "Comparing grams does not work: Na atoms are much lighter than Cl<sub>2</sub> molecules, so 6.20 g of Na is more moles.",
+   "The coefficient matters, but you must also know how many moles are present. Run both through the ratio.",
+   "0.2697 mol Na would need 0.1348 mol Cl<sub>2</sub>, and only 0.1001 mol is present, so they do not react completely."
+  ],
+  "h": "Convert each to moles, then to moles of NaCl.",
+  "w": "Na &rarr; 0.2697 mol NaCl; Cl<sub>2</sub> &rarr; 0.2003 mol NaCl. <b>Cl<sub>2</sub> is limiting</b>, even though its mass is larger.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c8-038",
+  "t": "ch08-limiting",
+  "q": "14.0 g of N<sub>2</sub> and 3.60 g of H<sub>2</sub> react: N<sub>2</sub>(g) + 3 H<sub>2</sub>(g) &rarr; 2 NH<sub>3</sub>(g). What is the maximum mass of NH<sub>3</sub> that can form? (N<sub>2</sub> 28.014 g/mol; H<sub>2</sub> 2.016 g/mol; NH<sub>3</sub> 17.031 g/mol)",
+  "c": [
+   "17.0 g NH<sub>3</sub>",
+   "20.3 g NH<sub>3</sub>",
+   "17.6 g NH<sub>3</sub>",
+   "8.51 g NH<sub>3</sub>"
+  ],
+  "y": [
+   "N<sub>2</sub>: 0.4998 mol &rarr; 0.9995 mol NH<sub>3</sub>; H<sub>2</sub>: 1.786 mol &rarr; 1.190 mol NH<sub>3</sub>. N<sub>2</sub> is limiting: 0.9995 mol &times; 17.031 g/mol.",
+   "This uses H<sub>2</sub>, the excess reactant. The smaller amount of product is the answer.",
+   "This adds the reactant masses, as if both reacted completely. One reactant is left over.",
+   "This skips the mole ratio for N<sub>2</sub>: each N<sub>2</sub> makes 2 NH<sub>3</sub>."
+  ],
+  "h": "Which reactant makes less NH<sub>3</sub>? Use that one.",
+  "w": "N<sub>2</sub> makes 0.9995 mol NH<sub>3</sub>, H<sub>2</sub> 1.190 mol, so N<sub>2</sub> limits: 0.9995 mol &times; 17.031 g/mol = <b>17.0 g NH<sub>3</sub></b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c8-039",
+  "t": "ch08-limiting",
+  "q": "A catalytic converter removes CO by 2 CO(g) + O<sub>2</sub>(g) &rarr; 2 CO<sub>2</sub>(g). A mixture of 3.40 mol CO and 2.10 mol O<sub>2</sub> reacts. How much of the excess reactant is left over?",
+  "c": [
+   "0.40 mol O<sub>2</sub>",
+   "1.70 mol O<sub>2</sub>",
+   "1.30 mol CO",
+   "None; both are used up"
+  ],
+  "y": [
+   "From CO: 3.40 mol CO<sub>2</sub>; from O<sub>2</sub>: 4.20 mol CO<sub>2</sub>. CO is limiting. O<sub>2</sub> used: 3.40 &times; 1/2 = 1.70 mol; left: 2.10 &minus; 1.70 = 0.40 mol.",
+   "1.70 mol is the O<sub>2</sub> that reacts. Subtract it from the 2.10 mol present.",
+   "This subtracts the two reactants (3.40 &minus; 2.10). Use the mole ratio to find how much of the excess reacts.",
+   "3.40 mol CO needs only 1.70 mol O<sub>2</sub>, so some O<sub>2</sub> remains."
+  ],
+  "h": "Find the limiting reactant, then the amount of the other one it uses.",
+  "w": "CO is limiting; it uses 1.70 mol O<sub>2</sub>. Left over: 2.10 &minus; 1.70 = <b>0.40 mol O<sub>2</sub></b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c8-040",
+  "t": "ch08-limiting",
+  "q": "6.50 g of iron and 4.25 g of sulfur are heated: Fe(s) + S(s) &rarr; FeS(s). What mass of the excess reactant is left? (Fe 55.85 g/mol; S 32.06 g/mol)",
+  "c": [
+   "0.52 g S",
+   "3.73 g S",
+   "2.25 g",
+   "0.52 g Fe"
+  ],
+  "y": [
+   "Fe: 0.1164 mol; S: 0.1326 mol; 1 : 1, so Fe is limiting. S used = 0.1164 mol &times; 32.06 g/mol = 3.73 g; left = 4.25 &minus; 3.73 = 0.52 g S.",
+   "3.73 g is the sulfur that reacts. Subtract it from the 4.25 g present.",
+   "This subtracts the two masses (6.50 &minus; 4.25). Iron and sulfur do not react gram for gram.",
+   "Iron is the limiting reactant, so no iron is left; the leftover is sulfur."
+  ],
+  "h": "Limiting reactant first; then mass of excess used; then subtract.",
+  "w": "Fe is limiting. S used: 0.1164 mol &times; 32.06 g/mol = 3.73 g. Left: 4.25 g &minus; 3.73 g = <b>0.52 g S</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c8-041",
+  "t": "ch08-limiting",
+  "q": "The box shows the molecules before N<sub>2</sub>(g) + 3 H<sub>2</sub>(g) &rarr; 2 NH<sub>3</sub>(g) runs. What is the most NH<sub>3</sub> that can form, and which reactant is limiting?",
+  "c": [
+   "4 NH<sub>3</sub> molecules; H<sub>2</sub> is limiting",
+   "6 NH<sub>3</sub> molecules; N<sub>2</sub> is limiting",
+   "3 NH<sub>3</sub> molecules; N<sub>2</sub> is limiting",
+   "9 NH<sub>3</sub> molecules; neither is limiting"
+  ],
+  "y": [
+   "3 N<sub>2</sub> could make 6 NH<sub>3</sub>, but 6 H<sub>2</sub> can make only 6 &times; 2/3 = 4 NH<sub>3</sub>. H<sub>2</sub> runs out first, with 1 N<sub>2</sub> left over.",
+   "Six NH<sub>3</sub> would need 9 H<sub>2</sub>; only 6 are present.",
+   "Having fewer N<sub>2</sub> molecules does not make N<sub>2</sub> limiting; each N<sub>2</sub> needs 3 H<sub>2</sub>.",
+   "Molecules are not simply added; the mole ratio decides."
+  ],
+  "h": "Count each kind of molecule, then use the 1 : 3 : 2 ratio.",
+  "w": "H<sub>2</sub>: 6 &times; 2/3 = 4 NH<sub>3</sub>; N<sub>2</sub>: 3 &times; 2 = 6 NH<sub>3</sub>. <b>H<sub>2</sub> limits: 4 NH<sub>3</sub></b>, and 1 N<sub>2</sub> is left.",
+  "d": 2,
+  "k": 0,
+  "f": [
+   {
+    "type": "particles",
+    "seed": 8,
+    "key": {
+     "N": {
+      "c": "#2f5fa8",
+      "n": "nitrogen atom",
+      "q": "N"
+     },
+     "H": {
+      "c": "#5f6f7b",
+      "n": "hydrogen atom",
+      "q": "H",
+      "r": 8
+     }
+    },
+    "boxes": [
+     {
+      "mols": [
+       [
+        "N",
+        "N"
+       ],
+       [
+        "N",
+        "N"
+       ],
+       [
+        "N",
+        "N"
+       ],
+       [
+        "H",
+        "H"
+       ],
+       [
+        "H",
+        "H"
+       ],
+       [
+        "H",
+        "H"
+       ],
+       [
+        "H",
+        "H"
+       ],
+       [
+        "H",
+        "H"
+       ],
+       [
+        "H",
+        "H"
+       ]
+      ],
+      "cap": "Before"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c8-042",
+  "t": "ch08-limiting",
+  "q": "6.60 g of propane and 20.0 g of O<sub>2</sub> react: C<sub>3</sub>H<sub>8</sub>(g) + 5 O<sub>2</sub>(g) &rarr; 3 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(l). What is the maximum mass of CO<sub>2</sub>? (C<sub>3</sub>H<sub>8</sub> 44.097 g/mol; O<sub>2</sub> 31.998 g/mol; CO<sub>2</sub> 44.009 g/mol)",
+  "c": [
+   "16.5 g CO<sub>2</sub>",
+   "19.8 g CO<sub>2</sub>",
+   "26.6 g CO<sub>2</sub>",
+   "82.5 g CO<sub>2</sub>"
+  ],
+  "y": [
+   "Propane: 0.1497 mol &rarr; 0.4490 mol CO<sub>2</sub>. O<sub>2</sub>: 0.6250 mol &rarr; 0.3750 mol CO<sub>2</sub>. O<sub>2</sub> is limiting (even though its mass is larger): 0.3750 mol &times; 44.009 g/mol.",
+   "This uses propane, the excess reactant. Propane is the smaller mass but not the limiting reactant.",
+   "This adds the reactant masses; the products include water, and some propane is left over.",
+   "This uses 3 CO<sub>2</sub> : 1 O<sub>2</sub>; the ratio is 3 CO<sub>2</sub> : 5 O<sub>2</sub>."
+  ],
+  "h": "Each reactant &rarr; mol CO<sub>2</sub>. The smaller one wins.",
+  "w": "O<sub>2</sub> &rarr; 0.3750 mol CO<sub>2</sub> (less than 0.4490 from propane), so O<sub>2</sub> limits: 0.3750 &times; 44.009 = <b>16.5 g CO<sub>2</sub></b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c8-043",
+  "t": "ch08-limiting",
+  "q": "For 2 H<sub>2</sub>(g) + O<sub>2</sub>(g) &rarr; 2 H<sub>2</sub>O(g), a student has 3.4 mol of H<sub>2</sub> and 2.0 mol of O<sub>2</sub> and says, &ldquo;O<sub>2</sub> is limiting because there are fewer moles of it.&rdquo; What is wrong with this reasoning?",
+  "c": [
+   "Moles can be compared directly only when the coefficients are equal; here H<sub>2</sub> is limiting.",
+   "Nothing; the reactant with fewer moles is always limiting.",
+   "The student should compare grams instead of moles.",
+   "O<sub>2</sub> is limiting, but only because it has the larger molar mass."
+  ],
+  "y": [
+   "H<sub>2</sub> makes 3.4 mol H<sub>2</sub>O; O<sub>2</sub> makes 4.0 mol. H<sub>2</sub> runs out first, because the recipe needs 2 H<sub>2</sub> for each O<sub>2</sub>.",
+   "That works only when the coefficients are equal. Here 2.0 mol O<sub>2</sub> needs 4.0 mol H<sub>2</sub>, and only 3.4 mol is present.",
+   "Comparing grams is even less reliable; molar masses differ.",
+   "O<sub>2</sub> is the excess reactant here, and molar mass does not decide which reactant limits."
+  ],
+  "h": "How many moles of H<sub>2</sub> would 2.0 mol O<sub>2</sub> need?",
+  "w": "H<sub>2</sub> &rarr; 3.4 mol H<sub>2</sub>O; O<sub>2</sub> &rarr; 4.0 mol H<sub>2</sub>O. <b>H<sub>2</sub> is limiting</b>; compare moles only through the mole ratio.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c8-044",
+  "t": "ch08-limiting",
+  "q": "Ammonium sulfate fertilizer forms by 2 NH<sub>3</sub>(aq) + H<sub>2</sub>SO<sub>4</sub>(aq) &rarr; (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(aq). 3.40 g of NH<sub>3</sub> and 12.5 g of H<sub>2</sub>SO<sub>4</sub> react. What mass of (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> can form? (NH<sub>3</sub> 17.031 g/mol; H<sub>2</sub>SO<sub>4</sub> 98.07 g/mol; (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> 132.13 g/mol)",
+  "c": [
+   "13.2 g (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>",
+   "16.8 g (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>",
+   "26.4 g (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>",
+   "15.9 g (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>"
+  ],
+  "y": [
+   "NH<sub>3</sub>: 0.1996 mol &rarr; 0.09982 mol product; H<sub>2</sub>SO<sub>4</sub>: 0.1275 mol &rarr; 0.1275 mol product. NH<sub>3</sub> is limiting: 0.09982 mol &times; 132.13 g/mol.",
+   "This uses H<sub>2</sub>SO<sub>4</sub>, the excess reactant.",
+   "This skips the mole ratio for NH<sub>3</sub>: two NH<sub>3</sub> make one formula unit of product.",
+   "This adds the reactant masses, but some H<sub>2</sub>SO<sub>4</sub> is left over."
+  ],
+  "h": "Run each reactant through its own mole ratio to the product.",
+  "w": "NH<sub>3</sub> &rarr; 0.09982 mol; H<sub>2</sub>SO<sub>4</sub> &rarr; 0.1275 mol. NH<sub>3</sub> limits: 0.09982 &times; 132.13 = <b>13.2 g (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub></b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c8-045",
+  "t": "ch08-limiting",
+  "q": "5.75 g of Na and 8.15 g of Cl<sub>2</sub> react: 2 Na(s) + Cl<sub>2</sub>(g) &rarr; 2 NaCl(s). What mass of the excess reactant remains? (Na 22.99 g/mol; Cl<sub>2</sub> 70.90 g/mol)",
+  "c": [
+   "0.46 g Na",
+   "5.29 g Na",
+   "2.40 g",
+   "3.11 g Na"
+  ],
+  "y": [
+   "Na: 0.2501 mol &rarr; 0.2501 mol NaCl; Cl<sub>2</sub>: 0.1150 mol &rarr; 0.2299 mol NaCl. Cl<sub>2</sub> limits. Na used: 0.1150 &times; 2 &times; 22.99 = 5.29 g; left 5.75 &minus; 5.29 = 0.46 g.",
+   "5.29 g is the Na that reacts. Subtract it from the 5.75 g present.",
+   "This subtracts the masses of the two reactants (8.15 &minus; 5.75).",
+   "This uses a 1 : 1 ratio for Na to Cl<sub>2</sub>; each Cl<sub>2</sub> reacts with 2 Na, so 5.29 g of Na is used, not 2.64 g."
+  ],
+  "h": "Na used = mol Cl<sub>2</sub> &times; (2 mol Na / 1 mol Cl<sub>2</sub>) &times; 22.99 g/mol.",
+  "w": "Cl<sub>2</sub> is limiting; it uses 5.29 g Na. Left: 5.75 &minus; 5.29 = <b>0.46 g Na</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c8-046",
+  "t": "ch08-limiting",
+  "q": "For 2 SO<sub>2</sub>(g) + O<sub>2</sub>(g) &rarr; 2 SO<sub>3</sub>(g), which mixture in the table reacts with <b>nothing left over</b>?",
+  "c": [
+   "Mixture B",
+   "Mixture A",
+   "Mixture C",
+   "Mixture D"
+  ],
+  "y": [
+   "3.0 mol SO<sub>2</sub> needs 3.0 &times; 1/2 = 1.5 mol O<sub>2</sub>, exactly what is present.",
+   "2.0 mol SO<sub>2</sub> needs only 1.0 mol O<sub>2</sub>, so 1.0 mol O<sub>2</sub> is left.",
+   "1.0 mol SO<sub>2</sub> needs only 0.50 mol O<sub>2</sub>, so O<sub>2</sub> is left.",
+   "1.0 mol O<sub>2</sub> reacts with only 2.0 mol SO<sub>2</sub>, so SO<sub>2</sub> is left."
+  ],
+  "h": "The mixture must match the 2 : 1 ratio.",
+  "w": "Only <b>Mixture B</b> (3.0 mol SO<sub>2</sub> : 1.5 mol O<sub>2</sub>) is in the exact 2 : 1 ratio.",
+  "d": 2,
+  "k": 0,
+  "f": [
+   {
+    "type": "table",
+    "cap": "Starting mixtures",
+    "head": [
+     "Mixture",
+     "mol SO<sub>2</sub>",
+     "mol O<sub>2</sub>"
+    ],
+    "rows": [
+     [
+      "A",
+      "2.0",
+      "2.0"
+     ],
+     [
+      "B",
+      "3.0",
+      "1.5"
+     ],
+     [
+      "C",
+      "1.0",
+      "2.0"
+     ],
+     [
+      "D",
+      "4.0",
+      "1.0"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c8-047",
+  "t": "ch08-yield",
+  "q": "A reaction has a theoretical yield of 18.6 g, and a student collects 15.9 g of product. What is the percent yield?",
+  "c": [
+   "85.5%",
+   "117%",
+   "14.5%",
+   "2.7%"
+  ],
+  "y": [
+   "15.9 g &divide; 18.6 g &times; 100%: actual over theoretical.",
+   "This divides theoretical by actual, giving more than 100%.",
+   "This is the percent of product that was lost, 100% &minus; the percent yield.",
+   "This is the difference in grams (18.6 &minus; 15.9), not a percent."
+  ],
+  "h": "Percent yield = actual &divide; theoretical &times; 100%.",
+  "w": "15.9 g &divide; 18.6 g &times; 100% = <b>85.5%</b>.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c8-048",
+  "t": "ch08-yield",
+  "q": "What is the <b>theoretical yield</b> of a reaction?",
+  "c": [
+   "The most product that stoichiometry predicts from the limiting reactant",
+   "The mass of product you weigh at the end of the lab",
+   "The total mass of all the reactants",
+   "The product predicted from the excess reactant"
+  ],
+  "y": [
+   "It is the calculated maximum, assuming every bit of the limiting reactant becomes product and none is lost.",
+   "That is the actual yield.",
+   "Reactant mass is not product mass; some reactant may be in excess, and other products form too.",
+   "The excess reactant cannot all react, so it predicts too much product."
+  ],
+  "h": "Theoretical means calculated.",
+  "w": "Theoretical yield = <b>the maximum product calculated from the limiting reactant</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c8-049",
+  "t": "ch08-yield",
+  "q": "Burning 1.20 g of Mg, 2 Mg(s) + O<sub>2</sub>(g) &rarr; 2 MgO(s), gives 1.79 g of MgO. What is the percent yield? (Mg 24.31 g/mol; MgO 40.31 g/mol)",
+  "c": [
+   "90.0%",
+   "111%",
+   "149%",
+   "45.0%"
+  ],
+  "y": [
+   "Theoretical: 1.20 g &divide; 24.31 g/mol &times; (2/2) &times; 40.31 g/mol = 1.990 g MgO. 1.79 &divide; 1.990 &times; 100%.",
+   "This divides theoretical by actual.",
+   "This compares the product with the mass of Mg. The theoretical yield of MgO is the right comparison.",
+   "This doubles the theoretical yield by multiplying the molar mass of MgO by its coefficient."
+  ],
+  "h": "Find the theoretical yield of MgO first.",
+  "w": "Theoretical = 1.990 g MgO; 1.79 g &divide; 1.990 g &times; 100% = <b>90.0%</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c8-050",
+  "t": "ch08-yield",
+  "q": "In a lab, aspirin is made from salicylic acid and excess acetic anhydride: C<sub>7</sub>H<sub>6</sub>O<sub>3</sub> + C<sub>4</sub>H<sub>6</sub>O<sub>3</sub> &rarr; C<sub>9</sub>H<sub>8</sub>O<sub>4</sub> + C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>. What is the theoretical yield of aspirin from 1.38 g of salicylic acid? (C<sub>7</sub>H<sub>6</sub>O<sub>3</sub> 138.122 g/mol; C<sub>9</sub>H<sub>8</sub>O<sub>4</sub> 180.159 g/mol)",
+  "c": [
+   "1.80 g C<sub>9</sub>H<sub>8</sub>O<sub>4</sub>",
+   "1.38 g C<sub>9</sub>H<sub>8</sub>O<sub>4</sub>",
+   "1.06 g C<sub>9</sub>H<sub>8</sub>O<sub>4</sub>",
+   "0.00999 mol C<sub>9</sub>H<sub>8</sub>O<sub>4</sub>"
+  ],
+  "y": [
+   "1.38 g &divide; 138.122 g/mol = 0.009991 mol; 1 : 1; &times; 180.159 g/mol.",
+   "Equal moles are not equal grams. Aspirin molecules are heavier than salicylic acid molecules.",
+   "This uses the molar masses upside down.",
+   "This stops at moles; the yield is asked in grams."
+  ],
+  "h": "Salicylic acid is limiting. Follow the road map to grams of aspirin.",
+  "w": "1.38 g &times; (1 mol / 138.122 g) &times; (1 mol C<sub>9</sub>H<sub>8</sub>O<sub>4</sub> / 1 mol C<sub>7</sub>H<sub>6</sub>O<sub>3</sub>) &times; (180.159 g / 1 mol) = <b>1.80 g C<sub>9</sub>H<sub>8</sub>O<sub>4</sub></b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c8-051",
+  "t": "ch08-yield",
+  "q": "A student mixes 2.76 g of salicylic acid with 3.06 g of acetic anhydride, C<sub>7</sub>H<sub>6</sub>O<sub>3</sub> + C<sub>4</sub>H<sub>6</sub>O<sub>3</sub> &rarr; C<sub>9</sub>H<sub>8</sub>O<sub>4</sub> + C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>, and collects 2.95 g of aspirin. What is the percent yield? (C<sub>7</sub>H<sub>6</sub>O<sub>3</sub> 138.122 g/mol; C<sub>4</sub>H<sub>6</sub>O<sub>3</sub> 102.089 g/mol; C<sub>9</sub>H<sub>8</sub>O<sub>4</sub> 180.159 g/mol)",
+  "c": [
+   "81.9%",
+   "54.6%",
+   "122%",
+   "107%"
+  ],
+  "y": [
+   "Salicylic acid: 0.01998 mol; acetic anhydride: 0.02997 mol; 1 : 1, so salicylic acid is limiting. Theoretical = 0.01998 &times; 180.159 = 3.600 g; 2.95 &divide; 3.600 &times; 100%.",
+   "This takes the theoretical yield from acetic anhydride, the excess reactant, which makes the percent yield look too small.",
+   "This divides theoretical by actual.",
+   "This compares the aspirin with the mass of salicylic acid instead of with the theoretical yield."
+  ],
+  "h": "Which reactant is limiting? Only it sets the theoretical yield.",
+  "w": "Salicylic acid limits; theoretical = 3.600 g aspirin. 2.95 &divide; 3.600 &times; 100% = <b>81.9%</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c8-052",
+  "t": "ch08-yield",
+  "q": "A student filters alum crystals and weighs them right away, reporting a 106% yield. What is the most likely reason?",
+  "c": [
+   "The crystals are still wet, so their mass includes water.",
+   "The reaction made more product than the limiting reactant allows.",
+   "Some crystals were lost in the filtrate.",
+   "The student used the limiting reactant to find the theoretical yield."
+  ],
+  "y": [
+   "Water clinging to the crystals adds mass. Drying them would lower the mass and the percent yield.",
+   "Matter is not created; no reaction can beat its theoretical yield.",
+   "Lost crystals lower the yield, not raise it.",
+   "Using the limiting reactant is the correct method; it does not cause a yield over 100%."
+  ],
+  "h": "A yield above 100% means the product weighs more than it should. What could add mass?",
+  "w": "A yield above 100% points to extra mass: here, <b>water left in the crystals</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c8-053",
+  "t": "ch08-yield",
+  "q": "Which question does a <b>percent yield</b> answer?",
+  "c": [
+   "How much of the possible product did I collect?",
+   "How close is my measurement to the accepted value?",
+   "How much of the excess reactant is left?",
+   "How fast did the reaction go?"
+  ],
+  "y": [
+   "Percent yield = actual &divide; theoretical &times; 100%.",
+   "That is percent error (Chapter 1), which compares a measurement with an accepted value.",
+   "That is a leftover (excess reactant) calculation.",
+   "Yield says nothing about speed."
+  ],
+  "h": "Yield compares what you got with what was possible.",
+  "w": "Percent yield asks <b>how much of the possible product you collected</b>; percent error asks how close a measurement is to the accepted value.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c8-054",
+  "t": "ch08-yield",
+  "q": "A reaction has a theoretical yield of 42.5 g. If the percent yield is 76.0%, what mass of product is collected?",
+  "c": [
+   "32.3 g",
+   "55.9 g",
+   "3.23 &times; 10<sup>3</sup> g",
+   "10.2 g"
+  ],
+  "y": [
+   "actual = 0.760 &times; 42.5 g. The actual yield must be smaller than 42.5 g.",
+   "This divides by 0.760, which gives more than the theoretical yield.",
+   "This multiplies by 76.0 without dividing by 100.",
+   "This is the mass that was not collected (24.0% of 42.5 g)."
+  ],
+  "h": "Rearrange: actual = (percent &divide; 100) &times; theoretical.",
+  "w": "Actual = 0.760 &times; 42.5 g = <b>32.3 g</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c8-055",
+  "t": "ch08-yield",
+  "q": "Ethanol for fuel is made by fermenting corn sugar: C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> &rarr; 2 C<sub>2</sub>H<sub>5</sub>OH + 2 CO<sub>2</sub>. From 64.0 g of glucose at an 82.0% yield, what mass of ethanol is collected? (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> 180.156 g/mol; C<sub>2</sub>H<sub>5</sub>OH 46.069 g/mol)",
+  "c": [
+   "26.8 g C<sub>2</sub>H<sub>5</sub>OH",
+   "32.7 g C<sub>2</sub>H<sub>5</sub>OH",
+   "39.9 g C<sub>2</sub>H<sub>5</sub>OH",
+   "13.4 g C<sub>2</sub>H<sub>5</sub>OH"
+  ],
+  "y": [
+   "Theoretical: 64.0 &divide; 180.156 &times; 2 &times; 46.069 = 32.73 g; actual = 0.820 &times; 32.73 g.",
+   "This is the theoretical yield; the 82.0% has not been applied.",
+   "This divides by 0.820, which gives more than the theoretical yield.",
+   "This skips the mole ratio (each glucose makes 2 ethanol)."
+  ],
+  "h": "Theoretical yield first, then take 82.0% of it.",
+  "w": "Theoretical 32.73 g &times; 0.820 = <b>26.8 g C<sub>2</sub>H<sub>5</sub>OH</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c8-056",
+  "t": "ch08-yield",
+  "q": "In the alum synthesis lab, each Al atom ends up in one formula unit of alum, KAl(SO<sub>4</sub>)<sub>2</sub>&middot;12H<sub>2</sub>O. A student starts with 0.825 g of Al and collects 12.9 g of dry alum. What is the percent yield? (Al 26.98 g/mol; KAl(SO<sub>4</sub>)<sub>2</sub>&middot;12H<sub>2</sub>O 474.37 g/mol; KAl(SO<sub>4</sub>)<sub>2</sub> 258.19 g/mol)",
+  "c": [
+   "88.9%",
+   "112%",
+   "163%",
+   "0.889%"
+  ],
+  "y": [
+   "Theoretical: 0.825 g &divide; 26.98 g/mol = 0.03058 mol Al = 0.03058 mol alum; &times; 474.37 g/mol = 14.51 g. 12.9 &divide; 14.51 &times; 100%.",
+   "This divides theoretical by actual.",
+   "This uses the molar mass without the 12 waters. The crystals contain the water, so the hydrate's molar mass is needed; leaving it out gives a yield over 100%.",
+   "This forgets to multiply the fraction by 100%."
+  ],
+  "h": "The product is the hydrate. Which molar mass belongs to it?",
+  "w": "Theoretical = 0.03058 mol &times; 474.37 g/mol = 14.51 g; 12.9 &divide; 14.51 &times; 100% = <b>88.9%</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c8-057",
+  "t": "ch08-enthalpy",
+  "q": "Hydrogen fuel cells run on 2 H<sub>2</sub>(g) + O<sub>2</sub>(g) &rarr; 2 H<sub>2</sub>O(l), &Delta;H = &minus;571.6 kJ. Which describes this reaction?",
+  "c": [
+   "Exothermic: heat is released and the surroundings warm up",
+   "Endothermic: heat is absorbed and the surroundings cool down",
+   "Exothermic: heat is absorbed from the surroundings",
+   "Endothermic, because &Delta;H is a large number"
+  ],
+  "y": [
+   "A negative &Delta;H means the reaction releases heat to its surroundings.",
+   "Endothermic reactions have a positive &Delta;H.",
+   "Exothermic means heat is released, not absorbed.",
+   "The sign, not the size, of &Delta;H tells you exo or endo."
+  ],
+  "h": "Negative &Delta;H: released or absorbed?",
+  "w": "&Delta;H &lt; 0, so the reaction is <b>exothermic</b>: 571.6 kJ is released per 2 mol H<sub>2</sub>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c8-058",
+  "t": "ch08-enthalpy",
+  "q": "An instant cold pack gets cold when ammonium nitrate dissolves in water. Which statement is true about this process?",
+  "c": [
+   "It is endothermic, &Delta;H &gt; 0: it absorbs heat from your skin.",
+   "It is exothermic, &Delta;H &lt; 0: it absorbs heat.",
+   "It is exothermic, &Delta;H &lt; 0: cold is released into the pack.",
+   "It is endothermic, &Delta;H &lt; 0."
+  ],
+  "y": [
+   "The pack takes heat from its surroundings, including an injury, so the surroundings cool. That is endothermic, with a positive &Delta;H.",
+   "Exothermic processes release heat; this one absorbs it.",
+   "Cold is not a substance that can be released; the process absorbs heat.",
+   "Endothermic processes have a positive &Delta;H."
+  ],
+  "h": "Does the pack take heat in or give heat out?",
+  "w": "The cold pack absorbs heat: <b>endothermic, &Delta;H &gt; 0</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c8-059",
+  "t": "ch08-enthalpy",
+  "q": "Heating limestone is endothermic: CaCO<sub>3</sub>(s) &rarr; CaO(s) + CO<sub>2</sub>(g), &Delta;H = +178 kJ. What is &Delta;H for the reverse reaction, CaO(s) + CO<sub>2</sub>(g) &rarr; CaCO<sub>3</sub>(s)?",
+  "c": [
+   "&minus;178 kJ",
+   "+178 kJ",
+   "&minus;356 kJ",
+   "+89 kJ"
+  ],
+  "y": [
+   "Reversing an equation changes the sign of &Delta;H; the size stays 178 kJ for 1 mol.",
+   "The reverse reaction releases the heat the forward one absorbs, so the sign changes.",
+   "Doubling would apply if the coefficients were doubled; they are not.",
+   "Halving would apply to half the amounts. Reversing changes only the sign."
+  ],
+  "h": "Reverse the equation, reverse the sign.",
+  "w": "Reverse reaction: <b>&Delta;H = &minus;178 kJ</b> (exothermic).",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c8-060",
+  "t": "ch08-enthalpy",
+  "q": "Given 2 H<sub>2</sub>(g) + O<sub>2</sub>(g) &rarr; 2 H<sub>2</sub>O(l), &Delta;H = &minus;571.6 kJ, what is &Delta;H for 4 H<sub>2</sub>(g) + 2 O<sub>2</sub>(g) &rarr; 4 H<sub>2</sub>O(l)?",
+  "c": [
+   "&minus;1143.2 kJ",
+   "&minus;571.6 kJ",
+   "+1143.2 kJ",
+   "&minus;285.8 kJ"
+  ],
+  "y": [
+   "Every coefficient is doubled, so &Delta;H doubles: 2 &times; (&minus;571.6 kJ).",
+   "&Delta;H belongs to the amounts as written; twice the amounts release twice the heat.",
+   "The reaction is still the same direction, so the sign stays negative.",
+   "This halves &Delta;H; the coefficients were doubled, not halved."
+  ],
+  "h": "Double the equation, double &Delta;H.",
+  "w": "2 &times; (&minus;571.6 kJ) = <b>&minus;1143.2 kJ</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c8-061",
+  "t": "ch08-enthalpy",
+  "q": "For 2 H<sub>2</sub>(g) + O<sub>2</sub>(g) &rarr; 2 H<sub>2</sub>O(l), &Delta;H = &minus;571.6 kJ, how much heat is released when 1.35 mol of O<sub>2</sub> reacts?",
+  "c": [
+   "772 kJ released",
+   "386 kJ released",
+   "1.54 &times; 10<sup>3</sup> kJ released",
+   "772 kJ absorbed"
+  ],
+  "y": [
+   "1.35 mol O<sub>2</sub> &times; (571.6 kJ / 1 mol O<sub>2</sub>). The 571.6 kJ goes with 1 mol O<sub>2</sub>, the coefficient of O<sub>2</sub>.",
+   "This uses the coefficient of H<sub>2</sub> (2). The question is about O<sub>2</sub>, whose coefficient is 1.",
+   "This doubles the heat; 571.6 kJ is released per 1 mol of O<sub>2</sub>, not per half mole.",
+   "A negative &Delta;H means heat is released, not absorbed."
+  ],
+  "h": "Which coefficient goes with the 571.6 kJ when you start from O<sub>2</sub>?",
+  "w": "1.35 mol O<sub>2</sub> &times; (571.6 kJ / 1 mol O<sub>2</sub>) = <b>772 kJ released</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c8-062",
+  "t": "ch08-enthalpy",
+  "q": "A propane camp stove burns fuel by C<sub>3</sub>H<sub>8</sub>(g) + 5 O<sub>2</sub>(g) &rarr; 3 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(l), &Delta;H = &minus;2.220 &times; 10<sup>3</sup> kJ. How much heat is released when 5.00 g of propane burns? (C<sub>3</sub>H<sub>8</sub> 44.097 g/mol)",
+  "c": [
+   "252 kJ released",
+   "1.11 &times; 10<sup>4</sup> kJ released",
+   "50.3 kJ released",
+   "252 kJ absorbed"
+  ],
+  "y": [
+   "5.00 g &divide; 44.097 g/mol = 0.1134 mol propane; &times; 2220 kJ/mol.",
+   "This multiplies grams by &Delta;H. &Delta;H goes with moles; convert grams to moles first.",
+   "This divides by 5, the coefficient of O<sub>2</sub>. The heat per mole of propane is 2220 kJ (coefficient 1).",
+   "Negative &Delta;H means heat is released."
+  ],
+  "h": "grams &rarr; moles &rarr; kJ.",
+  "w": "5.00 g &times; (1 mol / 44.097 g) &times; (2.220 &times; 10<sup>3</sup> kJ / 1 mol C<sub>3</sub>H<sub>8</sub>) = <b>252 kJ released</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c8-063",
+  "t": "ch08-enthalpy",
+  "q": "A Valley dairy digester burns captured methane, CH<sub>4</sub>(g) + 2 O<sub>2</sub>(g) &rarr; CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l), &Delta;H = &minus;890.3 kJ. What mass of methane must burn to release 3.60 &times; 10<sup>4</sup> kJ? (CH<sub>4</sub> 16.043 g/mol)",
+  "c": [
+   "649 g CH<sub>4</sub>",
+   "40.4 mol CH<sub>4</sub>",
+   "2.52 g CH<sub>4</sub>",
+   "324 g CH<sub>4</sub>"
+  ],
+  "y": [
+   "3.60 &times; 10<sup>4</sup> kJ &divide; 890.3 kJ/mol = 40.44 mol CH<sub>4</sub>; &times; 16.043 g/mol.",
+   "This stops at moles of methane.",
+   "This divides by the molar mass instead of multiplying.",
+   "This uses the coefficient of O<sub>2</sub> (2). The 890.3 kJ goes with 1 mol CH<sub>4</sub>."
+  ],
+  "h": "Work backward: kJ &rarr; mol CH<sub>4</sub> &rarr; g CH<sub>4</sub>.",
+  "w": "3.60 &times; 10<sup>4</sup> kJ &times; (1 mol CH<sub>4</sub> / 890.3 kJ) &times; (16.043 g / 1 mol) = <b>649 g CH<sub>4</sub></b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c8-064",
+  "t": "ch08-enthalpy",
+  "q": "Your cells oxidize glucose: C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6 O<sub>2</sub> &rarr; 6 CO<sub>2</sub> + 6 H<sub>2</sub>O, &Delta;H = &minus;2803 kJ. How much heat is released by 5.40 g of glucose? (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> 180.156 g/mol)",
+  "c": [
+   "84.0 kJ released",
+   "1.51 &times; 10<sup>4</sup> kJ released",
+   "14.0 kJ released",
+   "20.1 kJ released"
+  ],
+  "y": [
+   "5.40 g &divide; 180.156 g/mol = 0.02997 mol; &times; 2803 kJ/mol.",
+   "This multiplies grams by &Delta;H; convert to moles first.",
+   "This divides by 6, the coefficient of O<sub>2</sub>. 2803 kJ goes with 1 mol glucose.",
+   "This divides by 4.184, which converts kJ into kcal (Calories). The number is then in kcal, not kJ."
+  ],
+  "h": "&Delta;H is per mole of glucose as written.",
+  "w": "5.40 g &times; (1 mol / 180.156 g) &times; (2803 kJ / 1 mol) = <b>84.0 kJ released</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c8-065",
+  "t": "ch08-enthalpy",
+  "q": "A food label counts the energy in carbohydrates in Calories (1 Cal = 4.184 kJ). Using C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6 O<sub>2</sub> &rarr; 6 CO<sub>2</sub> + 6 H<sub>2</sub>O, &Delta;H = &minus;2803 kJ, how many Calories does 12.0 g of glucose release? (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> 180.156 g/mol)",
+  "c": [
+   "44.6 Cal",
+   "187 Cal",
+   "781 Cal",
+   "7.44 Cal"
+  ],
+  "y": [
+   "12.0 g &divide; 180.156 g/mol &times; 2803 kJ/mol = 186.7 kJ; &divide; 4.184 kJ/Cal.",
+   "This is the heat in kJ with a Cal label. Divide by 4.184 kJ/Cal.",
+   "This multiplies by 4.184; kJ &rarr; Cal means dividing, since a Calorie is bigger than a kJ.",
+   "This divides by 6, the coefficient of O<sub>2</sub>."
+  ],
+  "h": "kJ first, then kJ &rarr; Cal.",
+  "w": "12.0 g &times; (1 mol / 180.156 g) &times; (2803 kJ / 1 mol) &times; (1 Cal / 4.184 kJ) = <b>44.6 Cal</b>, about 3.7 Cal per gram.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c8-066",
+  "t": "ch08-enthalpy",
+  "q": "Decomposing limestone absorbs heat: CaCO<sub>3</sub>(s) &rarr; CaO(s) + CO<sub>2</sub>(g), &Delta;H = +178 kJ. How much heat is needed to decompose 35.0 g of CaCO<sub>3</sub>? (CaCO<sub>3</sub> 100.09 g/mol)",
+  "c": [
+   "62.2 kJ absorbed",
+   "62.2 kJ released",
+   "6.23 &times; 10<sup>3</sup> kJ absorbed",
+   "0.350 mol CaCO<sub>3</sub>"
+  ],
+  "y": [
+   "35.0 g &divide; 100.09 g/mol = 0.3497 mol; &times; 178 kJ/mol, absorbed because &Delta;H is positive.",
+   "A positive &Delta;H means heat is absorbed, not released.",
+   "This multiplies grams by &Delta;H; convert to moles first.",
+   "This stops at moles; multiply by 178 kJ/mol."
+  ],
+  "h": "Positive &Delta;H: heat is needed. grams &rarr; moles &rarr; kJ.",
+  "w": "35.0 g &times; (1 mol / 100.09 g) &times; (178 kJ / 1 mol) = <b>62.2 kJ absorbed</b>.",
+  "d": 2,
+  "k": 1
+ }
+]
