@@ -81,3 +81,10 @@ POST `/api/questions` (Bearer token from the `token` cookie) with the editor-sha
 - Assignment **224855** "CHEM 3A Chapter 10: Gases" (template 145; same settings: 3 attempts, hints no penalty, marked late, 2 points, random 50 = 100 points; hidden; placeholder dates). Folder 15029.
 - Pool **112**: all 70 Try It items in `bank/ch10.json` (3 table items with an HTML table in the stem) and 42 homework-only items in `bank/ch10_adapt.json`.
 - Read back: all 112 match the bank, no duplicates, none missing.
+
+## Chapter 11 (2026-11-14)
+
+- Assignment **224856** "CHEM 3A Chapter 11: Solutions" (template 145; same settings: 3 attempts, hints no penalty, marked late, 2 points, random 50 = 100 points; hidden; placeholder dates). Folder 15030.
+- Pool **114**: all 72 Try It items in `bank/ch11.json` (3 table items with an HTML table in the stem; 1 solubility-curve plot item, c11-012, with `figures/adapt/c11-012.svg` and alt text in `figures/adapt/alt_ch11.json`) and 42 homework-only items in `bank/ch11_adapt.json`.
+- Read back: all 114 match the bank (stem, choices, key, every wrong-choice feedback, hint feedback, CC BY 4.0, public); c11-012 image loads, alt text present; Show Hint present.
+- Tip: with the browser pane hidden, background-tab timer throttling slows the upload loop's 250 ms pause to many seconds; overriding `setTimeout` for that pause fixed it.

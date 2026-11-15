@@ -337,6 +337,8 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - Valley Connection: **1,2,3-TCP and arsenic in Valley drinking water** (State Water Resources Control Board; 1,2,3-TCP MCL 5 parts per trillion, 2017) as concentration units; or **salt buildup in irrigated soils** (osmosis and crops; USDA Salinity Lab).
 **Patient-case beat**: Mateo receives normal saline; prepare a nebulizer solution by dilution; why the saline is isotonic.
 
+**Status 2026-11-14:** built and published (597489 intro, 598016–598024); Mateo opener (0.9% NaCl IV and nebulizer dilution); 7 figures; 55 practice problems (2 Mateo); 72 Try It + 42 homework items; ADAPT 224856. Boxes: Biology vitamins (11.1), RT and Biology O₂ in warm water (11.2), Valley TCP/arsenic in wells, DH and Rad Tech (11.3), In the Lab Exp 9a, Biology serial dilutions (11.4), In the Lab Exp 12b, Nursing (11.5), Nursing IV fluids, Biology kidneys/serum osmolality, Valley Westside salty soils (11.6). **Explore It** game embeds (new): IMF Mixing Beaker (11.1), Solutions Lab and Cell Lab (11.6), opened for 3A in IMF v24. Old pages retired.
+
 ## Chapter 12. Acids and Bases (COR 10)
 
 **Sections**
