@@ -1,0 +1,842 @@
+[
+ {
+  "id": "c4-h01",
+  "t": "ch04-formulas",
+  "q": "Ammonium hydrogen phosphate, (NH<sub>4</sub>)<sub>2</sub>HPO<sub>4</sub>, is a common fertilizer. How many <b>hydrogen</b> atoms are in one formula unit?",
+  "c": [
+   "9",
+   "5",
+   "8",
+   "10"
+  ],
+  "y": [
+   "Correct: Two ammonium groups give 2 &times; 4 = 8 H, and the hydrogen phosphate ion adds 1 more: 8 + 1 = 9.",
+   "This counts the ammonium H only once (4 + 1). The subscript 2 after the parentheses doubles everything inside.",
+   "This counts the ammonium hydrogens but misses the H in HPO<sub>4</sub>.",
+   "This multiplies the H in HPO<sub>4</sub> by 2 as well. The 2 belongs only to the parentheses around NH<sub>4</sub>."
+  ],
+  "h": "Hydrogen appears in two places in this formula.",
+  "w": "Ammonium: 2 &times; 4 = 8 H. Hydrogen phosphate: 1 H. Total <b>9 H atoms</b> (with 2 N, 1 P and 4 O).",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c4-h02",
+  "t": "ch04-formulas",
+  "q": "How many atoms <b>in total</b> are in one formula unit of Mg<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>?",
+  "c": [
+   "13",
+   "8",
+   "9",
+   "3"
+  ],
+  "y": [
+   "Correct: Mg: 3. P: 1 &times; 2 = 2. O: 4 &times; 2 = 8. Total 3 + 2 + 8 = 13.",
+   "This counts the phosphate only once (3 + 1 + 4). The subscript 2 after the parentheses doubles P and O.",
+   "This doubles the P but not the O. The subscript outside the parentheses multiplies every atom inside.",
+   "3 is only the number of Mg atoms (or of different elements). Count every atom, including those inside the parentheses."
+  ],
+  "h": "Multiply everything inside the parentheses by the subscript after them.",
+  "w": "Mg 3, P 2, O 8: <b>13 atoms</b> in one formula unit.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c4-h03",
+  "t": "ch04-formulas",
+  "q": "How many <b>oxygen</b> atoms are shown in 3 CO<sub>2</sub> (three carbon dioxide molecules)?",
+  "c": [
+   "6",
+   "2",
+   "5",
+   "3"
+  ],
+  "y": [
+   "Correct: Each CO<sub>2</sub> has 2 O atoms, and the coefficient 3 means three molecules: 3 &times; 2 = 6.",
+   "This is the oxygen count for one molecule.",
+   "This adds the coefficient and the subscript (3 + 2) instead of multiplying.",
+   "This counts the molecules (or the carbon atoms), not the oxygen atoms."
+  ],
+  "h": "A coefficient multiplies every atom in the formula after it.",
+  "w": "3 &times; 2 = <b>6 O atoms</b> (and 3 C atoms).",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c4-h04",
+  "t": "ch04-formulas",
+  "q": "Air is about 78% uncombined nitrogen. Which formula represents nitrogen as it exists in air?",
+  "c": [
+   "N<sub>2</sub>",
+   "N",
+   "N<sup>3&minus;</sup>",
+   "2N"
+  ],
+  "y": [
+   "Correct: Nitrogen is one of the seven diatomic elements, so uncombined nitrogen is N<sub>2</sub> molecules.",
+   "A single N atom is not how nitrogen exists in air; it is diatomic.",
+   "This is the nitride ion, found only in ionic compounds.",
+   "2N means two separate atoms. In nitrogen gas the two atoms are bonded together, shown with a subscript 2."
+  ],
+  "h": "Is nitrogen on the list of seven diatomic elements?",
+  "w": "Uncombined nitrogen is <b>N<sub>2</sub></b>: H<sub>2</sub>, N<sub>2</sub>, O<sub>2</sub>, F<sub>2</sub>, Cl<sub>2</sub>, Br<sub>2</sub> and I<sub>2</sub> are diatomic.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c4-h05",
+  "t": "ch04-formulas",
+  "q": "Which of these compounds is <b>ionic</b>?",
+  "c": [
+   "(NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub>",
+   "CO<sub>2</sub>",
+   "H<sub>2</sub>CO<sub>3</sub>(aq)",
+   "CH<sub>4</sub>"
+  ],
+  "y": [
+   "Correct: The formula starts with ammonium, NH<sub>4</sub><sup>+</sup>, so it is made of ammonium ions and carbonate ions: ionic.",
+   "C and O are both nonmetals, and there is no ammonium ion: molecular.",
+   "This starts with H and is dissolved in water: an acid (carbonic acid).",
+   "C and H are both nonmetals: molecular (methane)."
+  ],
+  "h": "A formula that starts with a metal, or with one special cation, is ionic.",
+  "w": "<b>(NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub></b> contains NH<sub>4</sub><sup>+</sup> and CO<sub>3</sub><sup>2&minus;</sup> ions, so it is ionic even though it has no metal.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c4-h06",
+  "t": "ch04-formulas",
+  "q": "Which compound below is <b>molecular</b>?",
+  "c": [
+   "PCl<sub>3</sub>",
+   "AlCl<sub>3</sub>",
+   "NH<sub>4</sub>Cl",
+   "ZnCl<sub>2</sub>"
+  ],
+  "y": [
+   "Correct: P and Cl are both nonmetals, so they share electrons in molecules: phosphorus trichloride.",
+   "Al is a metal, so AlCl<sub>3</sub> is made of Al<sup>3+</sup> and Cl<sup>&minus;</sup> ions: ionic.",
+   "NH<sub>4</sub>Cl starts with the ammonium ion, so it is ionic.",
+   "Zn is a metal, so ZnCl<sub>2</sub> is ionic."
+  ],
+  "h": "Which first element is to the right of the staircase line?",
+  "w": "Only <b>PCl<sub>3</sub></b> is made of nonmetals alone with no ammonium ion, so it is molecular.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c4-h07",
+  "t": "ch04-formulas",
+  "q": "Potassium hydroxide, KOH, is used to make soap. How is it classified?",
+  "c": [
+   "Ionic, because its formula starts with a metal",
+   "An acid, because it contains H",
+   "Molecular, because O and H are nonmetals",
+   "An acid, because it contains the OH group"
+  ],
+  "y": [
+   "Correct: K is a group 1 metal, so KOH is made of K<sup>+</sup> ions and hydroxide ions, OH<sup>&minus;</sup>.",
+   "An acid's formula starts with H. Here the H is part of the hydroxide ion after a metal.",
+   "O and H are bonded together as the hydroxide ion, which pairs with the K<sup>+</sup> ion.",
+   "A formula ending in OH after a metal is a hydroxide. Hydroxides are not acids."
+  ],
+  "h": "Look at the first symbol in the formula.",
+  "w": "K is a metal, so KOH is <b>ionic</b>: potassium hydroxide, K<sup>+</sup> and OH<sup>&minus;</sup>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c4-h08",
+  "t": "ch04-ionicformula",
+  "q": "What is the formula of the ionic compound formed by <b>strontium and phosphorus</b>?",
+  "c": [
+   "Sr<sub>3</sub>P<sub>2</sub>",
+   "Sr<sub>2</sub>P<sub>3</sub>",
+   "SrP",
+   "P<sub>2</sub>Sr<sub>3</sub>"
+  ],
+  "y": [
+   "Correct: Sr<sup>2+</sup> and P<sup>3&minus;</sup>: swap-drop gives Sr<sub>3</sub>P<sub>2</sub>. Check: 3(2+) + 2(3&minus;) = 0.",
+   "Each charge number goes to the <i>other</i> ion. Check: 2(2+) + 3(3&minus;) is not zero.",
+   "One Sr<sup>2+</sup> and one P<sup>3&minus;</sup> leave a 1&minus; charge.",
+   "The subscripts are right, but the cation comes first in an ionic formula."
+  ],
+  "h": "Strontium is in group 2; phosphorus is in group 15.",
+  "w": "Sr<sup>2+</sup> and P<sup>3&minus;</sup>: <b>Sr<sub>3</sub>P<sub>2</sub></b> (strontium phosphide).",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c4-h09",
+  "t": "ch04-ionicformula",
+  "q": "What is the formula of <b>aluminum sulfide</b>?",
+  "c": [
+   "Al<sub>2</sub>S<sub>3</sub>",
+   "Al<sub>3</sub>S<sub>2</sub>",
+   "AlS",
+   "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>"
+  ],
+  "y": [
+   "Correct: Al<sup>3+</sup> and S<sup>2&minus;</sup>: swap-drop gives Al<sub>2</sub>S<sub>3</sub>. Check: 2(3+) + 3(2&minus;) = 0.",
+   "This leaves each charge on its own ion. Check: 3(3+) + 2(2&minus;) = 5+.",
+   "One Al<sup>3+</sup> and one S<sup>2&minus;</sup> leave a 1+ charge.",
+   "This is aluminum sulfate. Sulfide (-ide) is the single S<sup>2&minus;</sup> ion."
+  ],
+  "h": "Check the ending: -ide means a single-atom anion.",
+  "w": "Al<sup>3+</sup> and S<sup>2&minus;</sup>: <b>Al<sub>2</sub>S<sub>3</sub></b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c4-h10",
+  "t": "ch04-ionicformula",
+  "q": "What is the formula of the compound formed by tin(IV) ions and oxide ions?",
+  "c": [
+   "SnO<sub>2</sub>",
+   "Sn<sub>2</sub>O<sub>4</sub>",
+   "SnO",
+   "Sn<sub>4</sub>O"
+  ],
+  "y": [
+   "Correct: Sn<sup>4+</sup> and O<sup>2&minus;</sup>: swap-drop gives Sn<sub>2</sub>O<sub>4</sub>, which reduces to SnO<sub>2</sub>.",
+   "Swap-drop gives this, but 2 : 4 must be reduced to 1 : 2.",
+   "One Sn<sup>4+</sup> and one O<sup>2&minus;</sup> leave a 2+ charge. That ratio is tin(II) oxide.",
+   "The Roman numeral IV is a charge, not a subscript. Four tin ions and one oxide do not balance."
+  ],
+  "h": "The Roman numeral gives the tin ion's charge. Remember the last step of swap-drop.",
+  "w": "Sn<sup>4+</sup> and O<sup>2&minus;</sup> &rarr; Sn<sub>2</sub>O<sub>4</sub> &rarr; reduce: <b>SnO<sub>2</sub></b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c4-h11",
+  "t": "ch04-ionicformula",
+  "q": "Calcium acetate is given to some kidney patients to bind phosphate. What is its formula?",
+  "c": [
+   "Ca(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub>",
+   "CaC<sub>2</sub>H<sub>3</sub>O<sub>22</sub>",
+   "Ca<sub>2</sub>C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>",
+   "CaC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>"
+  ],
+  "y": [
+   "Correct: Ca<sup>2+</sup> and C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>&minus;</sup>: two acetate ions are needed, and two of a polyatomic ion need parentheses.",
+   "Without parentheses, the 2 runs into the O subscript and reads as \"22 O atoms.\"",
+   "Two Ca<sup>2+</sup> and one acetate give 4+ + 1&minus;; the 2 belongs on acetate.",
+   "One Ca<sup>2+</sup> and one 1&minus; acetate leave a 1+ charge."
+  ],
+  "h": "Acetate is 1&minus;. How many are needed to cancel Ca<sup>2+</sup>?",
+  "w": "Ca<sup>2+</sup> + 2 C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>&minus;</sup>: <b>Ca(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub></b>. (Context only; not dosing information.)",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c4-h12",
+  "t": "ch04-ionicformula",
+  "q": "What is the charge on the <b>cobalt</b> ion in CoPO<sub>4</sub>?",
+  "c": [
+   "3+",
+   "1+",
+   "4+",
+   "3&minus;"
+  ],
+  "y": [
+   "Correct: One phosphate is 3&minus;, and there is one cobalt ion, so it must be 3+.",
+   "No subscript on Co means one cobalt ion, not a 1+ charge. The charge comes from the anion.",
+   "The 4 counts oxygen atoms inside the phosphate ion; it is not a charge.",
+   "3&minus; is phosphate's charge. Cobalt is the cation, so its charge is positive."
+  ],
+  "h": "What is the charge of phosphate on the green sheet?",
+  "w": "PO<sub>4</sub><sup>3&minus;</sup> = 3&minus; and there is one Co, so <b>Co<sup>3+</sup></b>: cobalt(III) phosphate.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c4-h13",
+  "t": "ch04-ionicformula",
+  "q": "What is the formula of <b>ammonium dichromate</b>?",
+  "c": [
+   "(NH<sub>4</sub>)<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>",
+   "NH<sub>4</sub>Cr<sub>2</sub>O<sub>7</sub>",
+   "NH<sub>42</sub>Cr<sub>2</sub>O<sub>7</sub>",
+   "(NH<sub>4</sub>)<sub>2</sub>CrO<sub>4</sub>"
+  ],
+  "y": [
+   "Correct: NH<sub>4</sub><sup>+</sup> and Cr<sub>2</sub>O<sub>7</sub><sup>2&minus;</sup>: two ammonium ions, in parentheses, cancel one dichromate.",
+   "One NH<sub>4</sub><sup>+</sup> and one 2&minus; dichromate leave a 1&minus; charge.",
+   "Without parentheses, the 2 runs into the 4 and reads as \"42 H atoms.\"",
+   "This is ammonium chromate. Dichromate is Cr<sub>2</sub>O<sub>7</sub><sup>2&minus;</sup>."
+  ],
+  "h": "Find dichromate on the green sheet, and treat ammonium as one unit.",
+  "w": "2 NH<sub>4</sub><sup>+</sup> + Cr<sub>2</sub>O<sub>7</sub><sup>2&minus;</sup>: <b>(NH<sub>4</sub>)<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub></b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c4-h14",
+  "t": "ch04-ionicformula",
+  "q": "What is the formula of <b>zinc hydroxide</b>?",
+  "c": [
+   "Zn(OH)<sub>2</sub>",
+   "ZnOH<sub>2</sub>",
+   "ZnOH",
+   "Zn<sub>2</sub>OH"
+  ],
+  "y": [
+   "Correct: Zn<sup>2+</sup> and OH<sup>&minus;</sup>: two hydroxides, in parentheses, cancel one Zn<sup>2+</sup>.",
+   "Without parentheses, the 2 applies only to H: one O and two H. Two whole OH groups need parentheses.",
+   "One Zn<sup>2+</sup> and one OH<sup>&minus;</sup> leave a 1+ charge.",
+   "Two Zn<sup>2+</sup> and one OH<sup>&minus;</sup> give 4+ + 1&minus;; the 2 belongs on hydroxide."
+  ],
+  "h": "Zinc is a fixed-charge metal. What is its charge?",
+  "w": "Zn<sup>2+</sup> + 2 OH<sup>&minus;</sup>: <b>Zn(OH)<sub>2</sub></b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c4-h15",
+  "t": "ch04-polyatomic",
+  "q": "What is the formula of the <b>phosphate</b> ion?",
+  "c": [
+   "PO<sub>4</sub><sup>3&minus;</sup>",
+   "PO<sub>4</sub><sup>2&minus;</sup>",
+   "PO<sub>3</sub><sup>3&minus;</sup>",
+   "P<sup>3&minus;</sup>"
+  ],
+  "y": [
+   "Correct: Phosphate, from the green sheet, is PO<sub>4</sub><sup>3&minus;</sup>.",
+   "Phosphate is 3&minus;; 2&minus; is the charge of hydrogen phosphate, HPO<sub>4</sub><sup>2&minus;</sup>.",
+   "This has one fewer O, so it is phosphite.",
+   "This is phosphide, the -ide ion, with no oxygen."
+  ],
+  "h": "Phosphate is one of the -ate ions to memorize.",
+  "w": "Phosphate is <b>PO<sub>4</sub><sup>3&minus;</sup></b>, the ion in bone mineral.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c4-h16",
+  "t": "ch04-polyatomic",
+  "q": "Dried apricots from the Valley are often treated with sulfur compounds that form the SO<sub>3</sub><sup>2&minus;</sup> ion. What is the name of this ion?",
+  "c": [
+   "sulfite",
+   "sulfate",
+   "sulfide",
+   "sulfur trioxide"
+  ],
+  "y": [
+   "Correct: Sulfate is SO<sub>4</sub><sup>2&minus;</sup>; one fewer O with the same charge is the -ite ion.",
+   "Sulfate has four O atoms. This ion has three.",
+   "Sulfide is S<sup>2&minus;</sup>, with no oxygen.",
+   "Sulfur trioxide is the neutral molecule SO<sub>3</sub>. The 2&minus; charge makes this an ion."
+  ],
+  "h": "Compare the number of O atoms with sulfate, SO<sub>4</sub><sup>2&minus;</sup>.",
+  "w": "One fewer O than sulfate, same charge: <b>sulfite</b>, SO<sub>3</sub><sup>2&minus;</sup>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c4-h17",
+  "t": "ch04-polyatomic",
+  "q": "Chlorate is ClO<sub>3</sub><sup>&minus;</sup>. What is the formula of the <b>perchlorate</b> ion?",
+  "c": [
+   "ClO<sub>4</sub><sup>&minus;</sup>",
+   "ClO<sub>2</sub><sup>&minus;</sup>",
+   "ClO<sup>&minus;</sup>",
+   "ClO<sub>4</sub><sup>2&minus;</sup>"
+  ],
+  "y": [
+   "Correct: Per-...-ate means one more O than the -ate ion, with the same charge.",
+   "This has one fewer O than chlorate, so it is chlorite.",
+   "This is hypochlorite, two fewer O than chlorate.",
+   "Adding an O atom does not change the charge; perchlorate is 1&minus;, like chlorate."
+  ],
+  "h": "What does the prefix per- do to the number of oxygen atoms? Does it change the charge?",
+  "w": "Chlorate ClO<sub>3</sub><sup>&minus;</sup> + one O: <b>ClO<sub>4</sub><sup>&minus;</sup></b>, perchlorate.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c4-h18",
+  "t": "ch04-polyatomic",
+  "q": "Some toilet-bowl cleaners contain the <b>hydrogen sulfate</b> (bisulfate) ion. What is its formula?",
+  "c": [
+   "HSO<sub>4</sub><sup>&minus;</sup>",
+   "HSO<sub>4</sub><sup>2&minus;</sup>",
+   "HSO<sub>3</sub><sup>&minus;</sup>",
+   "H<sub>2</sub>SO<sub>4</sub>"
+  ],
+  "y": [
+   "Correct: Sulfate is SO<sub>4</sub><sup>2&minus;</sup>; one added H<sup>+</sup> makes the charge 1&minus;.",
+   "Adding H<sup>+</sup> lowers the negative charge by one: 2&minus; becomes 1&minus;.",
+   "This is hydrogen sulfite (bisulfite), built from sulfite.",
+   "This is sulfuric acid, a neutral compound with two H."
+  ],
+  "h": "Start from sulfate. What does adding one H<sup>+</sup> do to the charge?",
+  "w": "SO<sub>4</sub><sup>2&minus;</sup> + H<sup>+</sup> = <b>HSO<sub>4</sub><sup>&minus;</sup></b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c4-h19",
+  "t": "ch04-polyatomic",
+  "q": "What is the name of the ion Cr<sub>2</sub>O<sub>7</sub><sup>2&minus;</sup>?",
+  "c": [
+   "dichromate",
+   "chromate",
+   "dichromite",
+   "perchromate"
+  ],
+  "y": [
+   "Correct: Cr<sub>2</sub>O<sub>7</sub><sup>2&minus;</sup>, with two Cr atoms, is dichromate, from the green sheet.",
+   "Chromate is CrO<sub>4</sub><sup>2&minus;</sup>, with one Cr atom.",
+   "Both chromium ions on the green sheet end in -ate.",
+   "The per- prefix is not used with chromium in this course; count the Cr atoms instead."
+  ],
+  "h": "Count the chromium atoms.",
+  "w": "Cr<sub>2</sub>O<sub>7</sub><sup>2&minus;</sup> is <b>dichromate</b>; CrO<sub>4</sub><sup>2&minus;</sup> is chromate.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c4-h20",
+  "t": "ch04-polyatomic",
+  "q": "What is the formula of the <b>peroxide</b> ion?",
+  "c": [
+   "O<sub>2</sub><sup>2&minus;</sup>",
+   "O<sup>2&minus;</sup>",
+   "O<sub>2</sub>",
+   "OH<sup>&minus;</sup>"
+  ],
+  "y": [
+   "Correct: Peroxide, from the green sheet, is two bonded O atoms with a 2&minus; charge.",
+   "This is the oxide ion, a single O atom.",
+   "This is the neutral oxygen molecule, with no charge.",
+   "This is the hydroxide ion."
+  ],
+  "h": "Peroxide has two oxygen atoms.",
+  "w": "Peroxide is <b>O<sub>2</sub><sup>2&minus;</sup></b>; hydrogen peroxide is H<sub>2</sub>O<sub>2</sub>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c4-h21",
+  "t": "ch04-ionicname",
+  "q": "Zinc oxide, ZnO, is the white ingredient in many diaper creams. Which name follows the naming rules?",
+  "c": [
+   "zinc oxide",
+   "zinc(II) oxide",
+   "zinc monoxide",
+   "zinc oxygen"
+  ],
+  "y": [
+   "Correct: Zn is on the fixed-charge list (always 2+), so no Roman numeral; O<sup>2&minus;</sup> is oxide.",
+   "Zinc is a fixed-charge metal, so it takes no Roman numeral.",
+   "Ionic names never use prefixes.",
+   "The anion takes the -ide ending: oxide."
+  ],
+  "h": "Is zinc on the fixed-charge list?",
+  "w": "<b>zinc oxide</b>: fixed-charge metal, no numeral, no prefixes.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c4-h22",
+  "t": "ch04-ionicname",
+  "q": "What is the name of MgBr<sub>2</sub>?",
+  "c": [
+   "magnesium bromide",
+   "magnesium dibromide",
+   "magnesium(II) bromide",
+   "magnesium bromate"
+  ],
+  "y": [
+   "Correct: Mg is group 2 (fixed 2+) and Br<sup>&minus;</sup> is bromide.",
+   "Ionic names do not use prefixes.",
+   "Magnesium has only one charge, so no Roman numeral.",
+   "Bromate is BrO<sub>3</sub><sup>&minus;</sup>; a single Br is bromide."
+  ],
+  "h": "Fixed-charge metal? Single-atom anion?",
+  "w": "<b>magnesium bromide</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c4-h23",
+  "t": "ch04-ionicname",
+  "q": "What is the name of PbO?",
+  "c": [
+   "lead(II) oxide",
+   "lead oxide",
+   "lead(I) oxide",
+   "lead(IV) oxide"
+  ],
+  "y": [
+   "Correct: One O<sup>2&minus;</sup> means the single lead ion is Pb<sup>2+</sup>: lead(II).",
+   "Lead forms two ions, so the name must include a Roman numeral.",
+   "No subscript on Pb means one lead ion, not a 1+ charge. The charge comes from the oxide.",
+   "Lead(IV) oxide is PbO<sub>2</sub>, with two oxide ions."
+  ],
+  "h": "Work out lead's charge from the oxide ion.",
+  "w": "O<sup>2&minus;</sup> = 2&minus;, one Pb, so Pb<sup>2+</sup>: <b>lead(II) oxide</b> (plumbous oxide).",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c4-h24",
+  "t": "ch04-ionicname",
+  "q": "Some water-treatment plants add <b>ferric chloride</b> to clump particles together. What is its formula?",
+  "c": [
+   "FeCl<sub>3</sub>",
+   "FeCl<sub>2</sub>",
+   "Fe<sub>3</sub>Cl",
+   "FeCl"
+  ],
+  "y": [
+   "Correct: Ferric is iron(III), Fe<sup>3+</sup>; three Cl<sup>&minus;</sup> cancel it.",
+   "This is ferrous chloride, iron(II). -ic is the higher charge.",
+   "The charge 3+ is not a subscript on Fe. Three Fe<sup>3+</sup> and one Cl<sup>&minus;</sup> do not balance.",
+   "One Fe<sup>3+</sup> and one Cl<sup>&minus;</sup> leave a 2+ charge."
+  ],
+  "h": "Does -ic mean iron's lower or higher charge?",
+  "w": "Ferric = Fe<sup>3+</sup>; with Cl<sup>&minus;</sup>: <b>FeCl<sub>3</sub></b>, iron(III) chloride.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c4-h25",
+  "t": "ch04-ionicname",
+  "q": "Copper fungicides sprayed in Valley orchards often contain Cu(OH)<sub>2</sub>. What is its name?",
+  "c": [
+   "copper(II) hydroxide",
+   "copper hydroxide",
+   "copper(II) dihydroxide",
+   "cuprous hydroxide"
+  ],
+  "y": [
+   "Correct: Two OH<sup>&minus;</sup> give 2&minus;, so the copper ion is Cu<sup>2+</sup>: copper(II).",
+   "Copper forms two ions, so the Roman numeral is required.",
+   "Ionic names do not use prefixes.",
+   "Cuprous is copper(I), the lower charge; this copper ion is 2+, the higher charge."
+  ],
+  "h": "Find copper's charge from the hydroxide ions.",
+  "w": "2 OH<sup>&minus;</sup> = 2&minus;: Cu<sup>2+</sup>, <b>copper(II) hydroxide</b> (cupric hydroxide).",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c4-h26",
+  "t": "ch04-ionicname",
+  "q": "What is the formula of <b>copper(II) chloride dihydrate</b>?",
+  "c": [
+   "CuCl<sub>2</sub>&middot;2H<sub>2</sub>O",
+   "CuCl&middot;2H<sub>2</sub>O",
+   "CuCl<sub>2</sub>&middot;H<sub>2</sub>O",
+   "Cu<sub>2</sub>Cl<sub>2</sub>&middot;2H<sub>2</sub>O"
+  ],
+  "y": [
+   "Correct: Cu<sup>2+</sup> and Cl<sup>&minus;</sup> give CuCl<sub>2</sub>; di- means two water molecules.",
+   "Copper(II) is 2+, so it needs two chloride ions.",
+   "Dihydrate means 2 H<sub>2</sub>O, so a 2 goes in front of the water.",
+   "This puts the Roman numeral in as a subscript on Cu and never reduces; copper(II) chloride is a 1 : 2 compound."
+  ],
+  "h": "Write the ionic formula first, then the dot and the number of waters.",
+  "w": "Cu<sup>2+</sup> + 2 Cl<sup>&minus;</sup> = CuCl<sub>2</sub>; dihydrate = 2 H<sub>2</sub>O: <b>CuCl<sub>2</sub>&middot;2H<sub>2</sub>O</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c4-h27",
+  "t": "ch04-ionicname",
+  "q": "Sodium bicarbonate, NaHCO<sub>3</sub>, is given by IV in some emergencies. What is its other accepted name?",
+  "c": [
+   "sodium hydrogen carbonate",
+   "sodium carbonate",
+   "sodium hydrogen carbonite",
+   "sodium(I) hydrogen carbonate"
+  ],
+  "y": [
+   "Correct: HCO<sub>3</sub><sup>&minus;</sup> is hydrogen carbonate (bicarbonate), and Na is fixed at 1+.",
+   "Sodium carbonate is Na<sub>2</sub>CO<sub>3</sub>, without the H.",
+   "Adding H does not change the -ate ending; the ion still has three O atoms.",
+   "Sodium is a fixed-charge metal, so it takes no Roman numeral."
+  ],
+  "h": "Bi- is the older way to say one added hydrogen.",
+  "w": "HCO<sub>3</sub><sup>&minus;</sup> = hydrogen carbonate: <b>sodium hydrogen carbonate</b>. (Context only; not treatment advice.)",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c4-h28",
+  "t": "ch04-molecular",
+  "q": "What is the name of SiCl<sub>4</sub>?",
+  "c": [
+   "silicon tetrachloride",
+   "silicon chloride",
+   "monosilicon tetrachloride",
+   "tetrachlorine silicide"
+  ],
+  "y": [
+   "Correct: Si and Cl are nonmetals: one Si (no prefix on the first element) and four Cl = tetrachloride.",
+   "Molecular names need a prefix to count the Cl atoms.",
+   "Mono- is never used on the first element.",
+   "Name the elements in the order they are written in the formula."
+  ],
+  "h": "Two nonmetals: count the atoms with prefixes.",
+  "w": "<b>silicon tetrachloride</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c4-h29",
+  "t": "ch04-molecular",
+  "q": "Strike-anywhere match heads contain P<sub>4</sub>S<sub>3</sub>. What is its name?",
+  "c": [
+   "tetraphosphorus trisulfide",
+   "phosphorus sulfide",
+   "tetraphosphorus trisulfur",
+   "trisulfur tetraphosphide"
+  ],
+  "y": [
+   "Correct: Four P = tetraphosphorus, three S = trisulfide.",
+   "Without prefixes, the name does not tell you the formula; P and S form several compounds.",
+   "The second element needs the -ide ending.",
+   "The element written first in the formula is named first."
+  ],
+  "h": "Prefix + first element, prefix + second element with -ide.",
+  "w": "4 P, 3 S: <b>tetraphosphorus trisulfide</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c4-h30",
+  "t": "ch04-molecular",
+  "q": "Valley dried-fruit packers treat apricots with <b>sulfur dioxide</b> gas to keep their color. What is the formula of sulfur dioxide?",
+  "c": [
+   "SO<sub>2</sub>",
+   "SO<sub>3</sub><sup>2&minus;</sup>",
+   "S<sub>2</sub>O",
+   "SO"
+  ],
+  "y": [
+   "Correct: No prefix on sulfur means one S; di- means 2 O.",
+   "This is the sulfite ion, which carries a charge. Sulfur dioxide is a neutral molecule.",
+   "The di- belongs to oxide, so the 2 goes on O, not on S.",
+   "Di- means two oxygen atoms."
+  ],
+  "h": "Which element does the prefix di- belong to?",
+  "w": "Sulfur (1) di-oxide (2): <b>SO<sub>2</sub></b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c4-h31",
+  "t": "ch04-molecular",
+  "q": "A dental office offers <b>nitrous oxide</b> to anxious patients. What is the formula of nitrous oxide?",
+  "c": [
+   "N<sub>2</sub>O",
+   "NO",
+   "NO<sub>2</sub>",
+   "N<sub>2</sub>O<sub>3</sub>"
+  ],
+  "y": [
+   "Correct: Nitrous oxide is the common name of dinitrogen monoxide: two N, one O.",
+   "This is nitric oxide (nitrogen monoxide), the gas used in neonatal intensive care.",
+   "This is nitrogen dioxide, a brown air pollutant.",
+   "This is dinitrogen trioxide, with three O atoms."
+  ],
+  "h": "Its systematic name is dinitrogen monoxide.",
+  "w": "Nitrous oxide = dinitrogen monoxide = <b>N<sub>2</sub>O</b>. One subscript changes the compound completely.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c4-h32",
+  "t": "ch04-molecular",
+  "q": "A student names Na<sub>2</sub>S \"disodium sulfide\" and CS<sub>2</sub> \"carbon sulfide.\" Which pair of corrected names is right?",
+  "c": [
+   "sodium sulfide; carbon disulfide",
+   "disodium sulfide; carbon disulfide",
+   "sodium sulfide; carbon sulfide",
+   "sodium(I) sulfide; carbon disulfide"
+  ],
+  "y": [
+   "Correct: Na<sub>2</sub>S is ionic (Na is a metal): no prefixes. CS<sub>2</sub> is molecular: prefixes required.",
+   "Sodium is a metal, so Na<sub>2</sub>S is ionic, and ionic names never use prefixes.",
+   "CS<sub>2</sub> contains only nonmetals, so it needs a prefix for the two S atoms.",
+   "Sodium is a fixed-charge metal, so it never takes a Roman numeral."
+  ],
+  "h": "Classify each compound before naming it.",
+  "w": "Ionic Na<sub>2</sub>S: <b>sodium sulfide</b>. Molecular CS<sub>2</sub>: <b>carbon disulfide</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c4-h33",
+  "t": "ch04-molecular",
+  "q": "What is the name of BrF<sub>5</sub>?",
+  "c": [
+   "bromine pentafluoride",
+   "bromine fluoride",
+   "monobromine pentafluoride",
+   "pentafluorine bromide"
+  ],
+  "y": [
+   "Correct: One Br (no prefix on the first element), five F = pentafluoride.",
+   "A molecular name must count the F atoms with a prefix.",
+   "Mono- is never used on the first element.",
+   "The first element in the formula is named first, and the second gets -ide."
+  ],
+  "h": "Count the atoms of each element.",
+  "w": "<b>bromine pentafluoride</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c4-h34",
+  "t": "ch04-molecular",
+  "q": "Which name for Cl<sub>2</sub>O follows this book's prefix rules?",
+  "c": [
+   "dichlorine monoxide",
+   "dichlorine monooxide",
+   "dichlorine oxide",
+   "chlorine monoxide"
+  ],
+  "y": [
+   "Correct: 2 Cl = dichlorine; 1 O = monoxide, with the o of mono- dropped before oxide.",
+   "Before oxide, the final o of mono- is dropped.",
+   "Mono- is used on the second element, so oxide needs mono-.",
+   "There are two chlorine atoms, so the first element needs di-."
+  ],
+  "h": "Check both prefixes, and the vowel before oxide.",
+  "w": "<b>dichlorine monoxide</b>: di- on Cl, mono- on oxide with the vowel dropped.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c4-h35",
+  "t": "ch04-acids",
+  "q": "Parietal cells in the stomach produce HCl(aq). What is its name?",
+  "c": [
+   "hydrochloric acid",
+   "hydrogen chloride",
+   "chloric acid",
+   "hydrochlorous acid"
+  ],
+  "y": [
+   "Correct: Chloride (-ide) in water becomes hydro- + chlor + -ic acid.",
+   "That is the name of pure HCl, a gas. The (aq) means it is dissolved in water and takes an acid name.",
+   "Chloric acid is HClO<sub>3</sub>, from chlorate. HCl has no oxygen.",
+   "Binary acids end in -ic, never -ous."
+  ],
+  "h": "No oxygen in the formula: which kind of acid is it?",
+  "w": "Chloride &rarr; <b>hydrochloric acid</b>. Without water, HCl is hydrogen chloride gas.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c4-h36",
+  "t": "ch04-acids",
+  "q": "Nitrogen fertilizers are made from HNO<sub>3</sub>. What is its name?",
+  "c": [
+   "nitric acid",
+   "nitrous acid",
+   "hydronitric acid",
+   "nitrate acid"
+  ],
+  "y": [
+   "Correct: The anion is nitrate, NO<sub>3</sub><sup>&minus;</sup>; -ate becomes -ic.",
+   "-ous comes from nitrite, NO<sub>2</sub><sup>&minus;</sup>, with two O atoms.",
+   "Oxyacids never take hydro-.",
+   "The -ate ending changes to -ic in the acid name."
+  ],
+  "h": "Name the anion first, then change its ending.",
+  "w": "NO<sub>3</sub><sup>&minus;</sup> = nitrate; -ate &rarr; -ic: <b>nitric acid</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c4-h37",
+  "t": "ch04-acids",
+  "q": "What is the formula of <b>hydrobromic acid</b>?",
+  "c": [
+   "HBr(aq)",
+   "HBrO<sub>3</sub>",
+   "HBr<sub>2</sub>(aq)",
+   "HBrO"
+  ],
+  "y": [
+   "Correct: Hydro-...-ic means a binary acid from bromide, Br<sup>&minus;</sup>; one H<sup>+</sup> cancels it, in water.",
+   "This is bromic acid, from bromate. Hydro- means no oxygen.",
+   "Bromide is only 1&minus;, so the acid needs one H, and there is one Br.",
+   "This is hypobromous acid, from hypobromite."
+  ],
+  "h": "What does the prefix hydro- tell you about oxygen?",
+  "w": "Hydrobromic acid &larr; bromide: <b>HBr(aq)</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c4-h38",
+  "t": "ch04-acids",
+  "q": "Rhubarb leaves contain <b>oxalic acid</b>. What is its formula?",
+  "c": [
+   "H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>",
+   "HC<sub>2</sub>O<sub>4</sub>",
+   "HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>",
+   "C<sub>2</sub>O<sub>4</sub><sup>2&minus;</sup>"
+  ],
+  "y": [
+   "Correct: Oxalate is C<sub>2</sub>O<sub>4</sub><sup>2&minus;</sup>; two H<sup>+</sup> cancel its 2&minus; charge.",
+   "One H<sup>+</sup> cancels only half of oxalate's 2&minus; charge.",
+   "This is acetic acid, from acetate.",
+   "This is the oxalate ion; the acid is neutral."
+  ],
+  "h": "Oxalate has a 2&minus; charge. How many H<sup>+</sup> are needed?",
+  "w": "Oxalic &larr; oxalate, C<sub>2</sub>O<sub>4</sub><sup>2&minus;</sup>: <b>H<sub>2</sub>C<sub>2</sub>O<sub>4</sub></b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c4-h39",
+  "t": "ch04-acids",
+  "q": "What is the name of HClO<sub>3</sub>?",
+  "c": [
+   "chloric acid",
+   "chlorous acid",
+   "hydrochloric acid",
+   "perchloric acid"
+  ],
+  "y": [
+   "Correct: ClO<sub>3</sub><sup>&minus;</sup> is chlorate; -ate becomes -ic.",
+   "-ous comes from chlorite, ClO<sub>2</sub><sup>&minus;</sup>.",
+   "Hydro- is only for acids without oxygen, such as HCl(aq).",
+   "HClO<sub>4</sub>, with four O atoms, comes from perchlorate and keeps the per- prefix."
+  ],
+  "h": "Which chlorine oxyanion has three O atoms?",
+  "w": "Chlorate &rarr; <b>chloric acid</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c4-h40",
+  "t": "ch04-acids",
+  "q": "Which acid is named with the prefix <b>hydro-</b>?",
+  "c": [
+   "HF(aq)",
+   "HNO<sub>2</sub>",
+   "H<sub>2</sub>CO<sub>3</sub>",
+   "HClO<sub>4</sub>"
+  ],
+  "y": [
+   "Correct: HF(aq) contains no oxygen: it is a binary acid from fluoride, so it is hydrofluoric acid.",
+   "HNO<sub>2</sub> contains oxygen: nitrous acid, no hydro-.",
+   "H<sub>2</sub>CO<sub>3</sub> contains oxygen: carbonic acid, no hydro-.",
+   "HClO<sub>4</sub> contains oxygen: perchloric acid, no hydro-."
+  ],
+  "h": "Hydro- is used only when the anion is an -ide ion.",
+  "w": "Only binary acids (no oxygen) take hydro-: <b>HF(aq)</b>, hydrofluoric acid.",
+  "d": 1,
+  "k": 0
+ }
+]
