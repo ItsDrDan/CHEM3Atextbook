@@ -44,3 +44,9 @@ POST `/api/questions` (Bearer token from the `token` cookie) with the editor-sha
 - Assignment **224846** "CHEM 3A Chapter 4: Naming Compounds" (template 145; same settings: 3 attempts, hints no penalty, marked late, 2 points, random 50 = 100 points; hidden; placeholder dates). Folder 15021.
 - Pool **106**: all 66 Try It items in `bank/ch04.json` (4 table items carry an HTML table in the stem; no images) and 40 homework-only items in `bank/ch04_adapt.json`.
 - Read back: all 106 match the bank (stem, choices, key, every wrong-choice feedback), CC BY 4.0, public, Show Hint present.
+
+## Chapter 5 (2026-11-14)
+
+- Assignment **224849** "CHEM 3A Chapter 5: The Mole" (template 145; same settings: 3 attempts, hints no penalty, marked late, 2 points, random 50 = 100 points; hidden; placeholder dates). Folder 15023.
+- Pool **100**: all 60 Try It items in `bank/ch05.json` (3 table items carry an HTML table in the stem) and 40 homework-only items in `bank/ch05_adapt.json`. Mostly calculation items (76 of 100), molar masses from the yellow sheet.
+- Read back: all 100 match the bank, no duplicates, none missing. (The upload was interrupted once by a page reload at 98; the rerun skipped existing titles, so nothing was doubled.)

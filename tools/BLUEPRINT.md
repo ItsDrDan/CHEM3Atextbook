@@ -178,6 +178,8 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - Valley Connection: **acre-feet of irrigation water** (California Department of Water Resources; Westlands/Fresno Irrigation District figures) as dimensional-analysis practice.
 **Patient-case beat**: Mateo's weight is recorded in pounds; convert to kg and check a mg/kg dose and a nebulizer volume; sig figs on his lab values.
 
+**Status 2026-11-14 (now "The Mole"; measurement lives in Ch 1):** built and published (597481 intro, 597906–597912): 5.1 The Mole and Avogadro's Number, 5.2 Formula Mass and Molar Mass, 5.3 Converting Between Mass, Moles, and Particles, 5.4 Moles and Mass Within a Formula, 5.5 Guide, 5.6 Problems (56), 5.7 Games; aligned to Lecture 11; 3 figures; 60 Try It + 40 homework items; ADAPT 224849. Boxes: Biology scale of counts (5.1), Rad Tech iohexol (5.2), Nursing mmol/L and glucose units (5.3), Nursing elemental iron, DH fluoride ppm, Valley fertilizer nitrogen (5.4). Mateo beat: Na 138 mmol/L and his MgSO4 IV bag in moles. No In the Lab box (no mole-specific experiment in the Fall 2026 manual). Old pages 597525–597529, 597535 retired.
+
 ## Chapter 6. Chemical Bonds, Shapes, and Composition (COR 4)
 
 **Sections**
