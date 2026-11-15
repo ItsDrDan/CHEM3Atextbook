@@ -363,6 +363,8 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - Valley Connection: **Soil pH and sulfur/gypsum amendments in Valley farms** (UC ANR) or **acidified (sulfuric acid–treated) irrigation water**.
 **Patient-case beat**: Mateo's blood gas shows pH 7.30; compute [H₃O⁺] and compare with 7.40; what "acidosis" means.
 
+**Status 2026-11-15:** built and published (597492 intro, 598030–598038); Mateo opener (ABG pH 7.30); 6 figures; 55 practice problems; 72 Try It + 42 homework items; ADAPT 224857. Explore It: Red Cabbage Indicator (12.1), PhET pH Scale (12.5); In the Lab Exp 12a. Old pages retired.
+
 ## Chapter 13. Chemical Equilibrium (COR 11)
 
 **Sections**
@@ -383,6 +385,8 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - Dental Hygiene: enamel dissolving and re-forming as an equilibrium; fluoride pushes toward remineralization (qualitative).
 - Valley Connection: **Ozone formation on hot days** (rates rise with temperature; San Joaquin Valley APCD) or **fruit ripening and storage temperature** (rates; UC Davis Postharvest Center).
 **Patient-case beat**: During the attack Mateo breathes fast; use Le Chatelier to explain his blood CO₂ and pH.
+
+**Status 2026-11-15:** built and published (597493 intro, 598045–598052, incl. 13.8 Going Further); Mateo opener (fast breathing, CO2 equilibrium); 10 figures; 52 practice problems; 70 Try It + 42 homework items; ADAPT 224861. Old pages retired.
 
 ## Chapter 14. Radioactivity and Nuclear Chemistry (COR 12)
 
@@ -407,6 +411,8 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - Major Connection (Engineering): Diablo Canyon and California's power mix (California Energy Commission).
 - Valley Connection: **Radon in the Sierra foothills** (California Geological Survey radon potential maps; CDPH radon program) or **nuclear medicine at Valley hospitals** (general, no named facility unless sourced).
 **Patient-case beat**: Mateo's doctor orders a V/Q scan to rule out a blood clot; compute how much Tc-99m remains after 12 hours (two half-lives).
+
+**Status 2026-11-15:** built and published (597494 intro, 598058–598066); Mateo opener (V/Q scan, Tc-99m); 7 figures; 55 practice problems; 72 Try It + 42 homework items; ADAPT 224862. Old pages retired.
 
 ---
 
