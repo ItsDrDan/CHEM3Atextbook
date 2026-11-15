@@ -1,0 +1,1618 @@
+[
+ {
+  "id": "c12-001",
+  "t": "ch12-props",
+  "q": "A drop of an unknown solution turns blue litmus paper red. What does this tell you?",
+  "c": [
+   "The solution is acidic.",
+   "The solution is basic.",
+   "The solution is neutral.",
+   "The solution is a strong acid with a pH below 2."
+  ],
+  "y": [
+   "Acids turn blue litmus red (&ldquo;BRA&rdquo;: blue turns red in acid).",
+   "Bases do the opposite: they turn <i>red</i> litmus blue.",
+   "A neutral solution leaves both colors of litmus unchanged.",
+   "Litmus only tells acid or base; it cannot tell how strong the acid is or give a pH."
+  ],
+  "h": "Remember &ldquo;BRA&rdquo;: Blue turns Red in Acid.",
+  "w": "Blue litmus turned red, so the solution is <b>acidic</b>. (Litmus does not tell how acidic.)",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c12-002",
+  "t": "ch12-props",
+  "q": "A few drops of phenolphthalein are added to a clear solution, and it stays colorless. What can you conclude?",
+  "c": [
+   "The solution is acidic or neutral.",
+   "The solution is basic.",
+   "The solution must be acidic.",
+   "The solution must be pure water."
+  ],
+  "y": [
+   "Phenolphthalein is colorless in acidic <i>and</i> neutral solutions; only a base turns it pink.",
+   "A basic solution would turn phenolphthalein pink.",
+   "Neutral water also leaves phenolphthalein colorless, so acid is possible but not certain.",
+   "Any acidic solution would also leave it colorless; this test cannot single out pure water."
+  ],
+  "h": "Phenolphthalein: &ldquo;pink means base.&rdquo; What does colorless rule out?",
+  "w": "Colorless rules out only a base: the solution is <b>acidic or neutral</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-003",
+  "t": "ch12-props",
+  "q": "Use the table of red cabbage indicator colors. A sample of seltzer (carbonated water) turns the indicator pink. What are its approximate pH and type?",
+  "c": [
+   "pH 3&ndash;4, acidic",
+   "pH 1&ndash;2, strongly acidic",
+   "pH 8, slightly basic",
+   "pH 9&ndash;11, basic"
+  ],
+  "y": [
+   "Pink is the color for pH 3&ndash;4; dissolved carbon dioxide makes seltzer acidic.",
+   "pH 1&ndash;2 gives red, not pink.",
+   "pH 8 gives blue.",
+   "pH 9&ndash;11 gives green."
+  ],
+  "h": "Find &ldquo;pink&rdquo; in the color column and read across.",
+  "w": "Pink = <b>pH 3&ndash;4, acidic</b>.",
+  "d": 1,
+  "k": 0,
+  "f": [
+   {
+    "type": "table",
+    "cap": "Red cabbage indicator colors (approximate)",
+    "head": [
+     "pH",
+     "Color"
+    ],
+    "rows": [
+     [
+      "1&ndash;2",
+      "red"
+     ],
+     [
+      "3&ndash;4",
+      "pink"
+     ],
+     [
+      "5&ndash;7",
+      "purple"
+     ],
+     [
+      "8",
+      "blue"
+     ],
+     [
+      "9&ndash;11",
+      "green"
+     ],
+     [
+      "12&ndash;14",
+      "yellow"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c12-004",
+  "t": "ch12-props",
+  "q": "A student tests a sample of an unknown cleaner. Which single result proves that the cleaner is basic?",
+  "c": [
+   "Red litmus paper turns blue.",
+   "Blue litmus paper turns red.",
+   "Phenolphthalein stays colorless.",
+   "A magnesium ribbon fizzes and gives off hydrogen gas."
+  ],
+  "y": [
+   "Bases turn red litmus blue (and phenolphthalein pink).",
+   "Blue litmus turning red is the test for an acid.",
+   "Colorless phenolphthalein means acidic or neutral; a base would turn it pink.",
+   "Reacting with an active metal to make hydrogen gas is a property of acids."
+  ],
+  "h": "Bases change red litmus to which color?",
+  "w": "<b>Red litmus turns blue</b> in a base.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c12-005",
+  "t": "ch12-props",
+  "q": "Iron filings are dropped into hydrochloric acid, and bubbles form as the iron dissolves. Iron forms Fe<sup>2+</sup> ions. What are the products?",
+  "c": [
+   "FeCl<sub>2</sub>(aq) and H<sub>2</sub>(g)",
+   "FeCl<sub>2</sub>(aq) and H<sub>2</sub>O(l)",
+   "FeCl<sub>2</sub>(aq), H<sub>2</sub>O(l), and CO<sub>2</sub>(g)",
+   "Fe(OH)<sub>2</sub>(s) and Cl<sub>2</sub>(g)"
+  ],
+  "y": [
+   "Acid + active metal &rarr; salt + hydrogen gas: Fe(s) + 2 HCl(aq) &rarr; FeCl<sub>2</sub>(aq) + H<sub>2</sub>(g).",
+   "Water forms when an acid reacts with a base; there is no oxygen in the reactants here.",
+   "Carbon dioxide forms only when an acid reacts with a carbonate or bicarbonate.",
+   "An acid does not make a hydroxide or chlorine gas with a metal; the H<sup>+</sup> becomes H<sub>2</sub> gas."
+  ],
+  "h": "Acid + active metal gives a salt and which gas?",
+  "w": "Fe(s) + 2 HCl(aq) &rarr; FeCl<sub>2</sub>(aq) + H<sub>2</sub>(g): the bubbles are <b>hydrogen gas</b>, and the salt is FeCl<sub>2</sub>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-006",
+  "t": "ch12-props",
+  "q": "In buttermilk pancakes, baking soda (NaHCO<sub>3</sub>) reacts with the lactic acid (HC<sub>3</sub>H<sub>5</sub>O<sub>3</sub>) in the buttermilk, and the batter puffs up. Which set of products is correct?",
+  "c": [
+   "NaC<sub>3</sub>H<sub>5</sub>O<sub>3</sub>(aq), H<sub>2</sub>O(l), and CO<sub>2</sub>(g)",
+   "NaC<sub>3</sub>H<sub>5</sub>O<sub>3</sub>(aq) and H<sub>2</sub>CO<sub>3</sub>(aq)",
+   "NaC<sub>3</sub>H<sub>5</sub>O<sub>3</sub>(aq) and H<sub>2</sub>(g)",
+   "NaOH(aq) and CO<sub>2</sub>(g)"
+  ],
+  "y": [
+   "Acid + bicarbonate &rarr; salt + water + carbon dioxide: NaHCO<sub>3</sub>(s) + HC<sub>3</sub>H<sub>5</sub>O<sub>3</sub>(aq) &rarr; NaC<sub>3</sub>H<sub>5</sub>O<sub>3</sub>(aq) + H<sub>2</sub>O(l) + CO<sub>2</sub>(g). The CO<sub>2</sub> bubbles puff up the batter.",
+   "H<sub>2</sub>CO<sub>3</sub> forms first, but it breaks down into H<sub>2</sub>O and CO<sub>2</sub>; write those instead.",
+   "Hydrogen gas comes from an acid reacting with an active metal, not with a bicarbonate.",
+   "An acid does not make a hydroxide; the bicarbonate takes the acid's H<sup>+</sup> and gives off CO<sub>2</sub>."
+  ],
+  "h": "Acid + carbonate or bicarbonate gives a salt, water, and a gas.",
+  "w": "NaHCO<sub>3</sub>(s) + HC<sub>3</sub>H<sub>5</sub>O<sub>3</sub>(aq) &rarr; NaC<sub>3</sub>H<sub>5</sub>O<sub>3</sub>(aq) + H<sub>2</sub>O(l) + CO<sub>2</sub>(g): <b>sodium lactate, H<sub>2</sub>O, and CO<sub>2</sub></b> (the gas that puffs the batter).",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-007",
+  "t": "ch12-props",
+  "q": "Hydrobromic acid is neutralized by lithium hydroxide. What is the net ionic equation?",
+  "c": [
+   "H<sup>+</sup>(aq) + OH<sup>&minus;</sup>(aq) &rarr; H<sub>2</sub>O(l)",
+   "HBr(aq) + LiOH(aq) &rarr; LiBr(aq) + H<sub>2</sub>O(l)",
+   "Li<sup>+</sup>(aq) + Br<sup>&minus;</sup>(aq) &rarr; LiBr(aq)",
+   "H<sup>+</sup>(aq) + Br<sup>&minus;</sup>(aq) &rarr; HBr(aq)"
+  ],
+  "y": [
+   "HBr and LiOH are a strong acid and a strong base, so they are all ions; Li<sup>+</sup> and Br<sup>&minus;</sup> are spectators.",
+   "This is the molecular equation. The net ionic equation leaves out the spectator ions.",
+   "Li<sup>+</sup> and Br<sup>&minus;</sup> are spectator ions; they stay dissolved and do not react.",
+   "HBr is a strong acid and stays fully ionized; the H<sup>+</sup> reacts with OH<sup>&minus;</sup> instead."
+  ],
+  "h": "Strong acid + strong base: cross out the spectator ions.",
+  "w": "Spectators Li<sup>+</sup> and Br<sup>&minus;</sup> drop out: <b>H<sup>+</sup>(aq) + OH<sup>&minus;</sup>(aq) &rarr; H<sub>2</sub>O(l)</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-008",
+  "t": "ch12-props",
+  "q": "Pure water barely conducts electricity, but hydrochloric acid conducts well. Why?",
+  "c": [
+   "HCl forms ions (H<sub>3</sub>O<sup>+</sup> and Cl<sup>&minus;</sup>) that carry charge through the solution.",
+   "HCl molecules are polar, and polar molecules carry current.",
+   "HCl contains hydrogen, which conducts like a metal.",
+   "HCl releases free electrons into the water."
+  ],
+  "y": [
+   "Acids are electrolytes: HCl ionizes completely, and the moving ions carry the current.",
+   "Polar molecules without charge, such as water itself, carry almost no current; ions are needed.",
+   "Hydrogen is a nonmetal; conduction in a solution comes from dissolved ions.",
+   "Solutions conduct by moving ions, not by free electrons."
+  ],
+  "h": "What has to be present for a solution to conduct?",
+  "w": "HCl ionizes into <b>H<sub>3</sub>O<sup>+</sup> and Cl<sup>&minus;</sup> ions</b>, which carry charge.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c12-009",
+  "t": "ch12-props",
+  "q": "Acid rain slowly dissolves marble statues, which are made of calcium carbonate, CaCO<sub>3</sub>. Which gas is released as the marble reacts with the acid?",
+  "c": [
+   "Carbon dioxide, CO<sub>2</sub>",
+   "Hydrogen, H<sub>2</sub>",
+   "Oxygen, O<sub>2</sub>",
+   "Sulfur dioxide, SO<sub>2</sub>"
+  ],
+  "y": [
+   "Acid + carbonate &rarr; salt + water + carbon dioxide.",
+   "Hydrogen gas comes from an acid reacting with an active metal, not a carbonate.",
+   "No oxygen gas forms; the oxygen ends up in H<sub>2</sub>O and CO<sub>2</sub>.",
+   "SO<sub>2</sub> is a pollutant that helps <i>make</i> acid rain; it is not released by the marble."
+  ],
+  "h": "Which reaction type is acid + carbonate?",
+  "w": "Acid + carbonate gives a salt, water, and <b>carbon dioxide</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c12-010",
+  "t": "ch12-props",
+  "q": "Milk of magnesia, Mg(OH)<sub>2</sub>, neutralizes stomach acid (HCl). In the balanced equation, how many water molecules form for each Mg(OH)<sub>2</sub>?",
+  "c": [
+   "2",
+   "1",
+   "4",
+   "0"
+  ],
+  "y": [
+   "Mg(OH)<sub>2</sub>(s) + 2 HCl(aq) &rarr; MgCl<sub>2</sub>(aq) + 2 H<sub>2</sub>O(l): each OH<sup>&minus;</sup> meets one H<sup>+</sup> and makes one water.",
+   "One water would use only one of the two OH<sup>&minus;</sup> ions in Mg(OH)<sub>2</sub>.",
+   "This counts H atoms instead of water molecules.",
+   "A neutralization always makes water: H<sup>+</sup> + OH<sup>&minus;</sup> &rarr; H<sub>2</sub>O."
+  ],
+  "h": "The number of waters equals the number of H<sup>+</sup> (or OH<sup>&minus;</sup>) that react.",
+  "w": "Mg(OH)<sub>2</sub>(s) + 2 HCl(aq) &rarr; MgCl<sub>2</sub>(aq) + 2 H<sub>2</sub>O(l): <b>2</b> waters.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-011",
+  "t": "ch12-bl",
+  "q": "According to the Arrhenius definition, a base is a substance that",
+  "c": [
+   "produces OH<sup>&minus;</sup> ions when it dissolves in water.",
+   "donates H<sup>+</sup> ions in water.",
+   "produces H<sup>+</sup> ions when it dissolves in water.",
+   "contains hydrogen atoms that it can release."
+  ],
+  "y": [
+   "Arrhenius bases make hydroxide ions in water, such as NaOH &rarr; Na<sup>+</sup> + OH<sup>&minus;</sup>.",
+   "Donating H<sup>+</sup> describes an acid, not a base.",
+   "Producing H<sup>+</sup> in water is the Arrhenius definition of an acid.",
+   "Having hydrogen does not make something a base (or an acid); NH<sub>3</sub> has H atoms and is a base."
+  ],
+  "h": "Arrhenius: acids make H<sup>+</sup>; bases make ___.",
+  "w": "An Arrhenius base <b>produces OH<sup>&minus;</sup> in water</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c12-012",
+  "t": "ch12-bl",
+  "q": "A Br&oslash;nsted&ndash;Lowry acid is best described as a",
+  "c": [
+   "proton (H<sup>+</sup>) donor",
+   "proton (H<sup>+</sup>) acceptor",
+   "substance that produces OH<sup>&minus;</sup> in water",
+   "substance that tastes bitter"
+  ],
+  "y": [
+   "Acids donate H<sup>+</sup> (&ldquo;BAD&rdquo;: bases accept, acids donate).",
+   "Accepting a proton is what a Br&oslash;nsted&ndash;Lowry base does.",
+   "Producing OH<sup>&minus;</sup> is the Arrhenius definition of a base.",
+   "A bitter taste is an old observed property of bases, not a definition of an acid."
+  ],
+  "h": "&ldquo;BAD&rdquo;: Bases Accept, Acids Donate.",
+  "w": "A Br&oslash;nsted&ndash;Lowry acid is a <b>proton donor</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c12-013",
+  "t": "ch12-bl",
+  "q": "Ammonia, NH<sub>3</sub>, neutralizes acids, yet it contains no hydroxide ion. Which definition explains why NH<sub>3</sub> is a base?",
+  "c": [
+   "Br&oslash;nsted&ndash;Lowry: NH<sub>3</sub> accepts a proton and becomes NH<sub>4</sub><sup>+</sup>.",
+   "Arrhenius: NH<sub>3</sub> releases OH<sup>&minus;</sup> from its formula.",
+   "Br&oslash;nsted&ndash;Lowry: NH<sub>3</sub> donates one of its three H atoms.",
+   "Arrhenius: NH<sub>3</sub> releases H<sup>+</sup> in water."
+  ],
+  "y": [
+   "The lone pair on nitrogen accepts H<sup>+</sup>: NH<sub>3</sub>(aq) + H<sub>2</sub>O(l) &rlarr; NH<sub>4</sub><sup>+</sup>(aq) + OH<sup>&minus;</sup>(aq).",
+   "NH<sub>3</sub> has no OH in its formula; the OH<sup>&minus;</sup> comes from the water that lost a proton.",
+   "Donating H<sup>+</sup> would make NH<sub>3</sub> an acid. Ammonia gains an H instead.",
+   "Releasing H<sup>+</sup> describes an Arrhenius acid."
+  ],
+  "h": "Does ammonia gain or lose an H when it reacts with water?",
+  "w": "NH<sub>3</sub> gains H<sup>+</sup> to form NH<sub>4</sub><sup>+</sup>: a <b>Br&oslash;nsted&ndash;Lowry base (proton acceptor)</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-014",
+  "t": "ch12-bl",
+  "q": "What is the hydronium ion, and how does it form?",
+  "c": [
+   "H<sub>3</sub>O<sup>+</sup>; an H<sup>+</sup> ion attaches to a lone pair on a water molecule.",
+   "OH<sup>&minus;</sup>; a water molecule loses an H<sup>+</sup>.",
+   "H<sub>2</sub>O<sup>+</sup>; a water molecule loses an electron.",
+   "H<sub>3</sub>O<sup>&minus;</sup>; a water molecule gains a hydride ion."
+  ],
+  "y": [
+   "A bare proton is too reactive to float alone: H<sup>+</sup> + H<sub>2</sub>O &rarr; H<sub>3</sub>O<sup>+</sup>.",
+   "Water losing H<sup>+</sup> gives the hydroxide ion, not hydronium.",
+   "Hydronium has three H atoms; it forms by gaining a proton, not by losing an electron.",
+   "Hydronium is positive: it is water plus one H<sup>+</sup>."
+  ],
+  "h": "Hydronium = water + one proton.",
+  "w": "<b>H<sub>3</sub>O<sup>+</sup></b>, formed when H<sup>+</sup> bonds to a water molecule.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c12-015",
+  "t": "ch12-bl",
+  "q": "In the reaction below, which reactant is the Br&oslash;nsted&ndash;Lowry <b>base</b>?<br>HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>(aq) + NH<sub>3</sub>(aq) &rlarr; NH<sub>4</sub><sup>+</sup>(aq) + C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>&minus;</sup>(aq)",
+  "c": [
+   "NH<sub>3</sub>",
+   "HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>",
+   "NH<sub>4</sub><sup>+</sup>",
+   "C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>&minus;</sup>"
+  ],
+  "y": [
+   "NH<sub>3</sub> gains an H<sup>+</sup> and becomes NH<sub>4</sub><sup>+</sup>, so it is the proton acceptor.",
+   "Acetic acid loses an H<sup>+</sup> (it becomes acetate), so it is the acid.",
+   "NH<sub>4</sub><sup>+</sup> is a product: it is the conjugate acid of NH<sub>3</sub>.",
+   "Acetate is a product: it is the conjugate base of acetic acid."
+  ],
+  "h": "The base is the reactant that gains an H from left to right.",
+  "w": "NH<sub>3</sub> becomes NH<sub>4</sub><sup>+</sup>: <b>NH<sub>3</sub></b> accepts the proton.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-016",
+  "t": "ch12-bl",
+  "q": "In the reaction below, what is the conjugate base of HCO<sub>3</sub><sup>&minus;</sup>?<br>HCO<sub>3</sub><sup>&minus;</sup>(aq) + OH<sup>&minus;</sup>(aq) &rlarr; CO<sub>3</sub><sup>2&minus;</sup>(aq) + H<sub>2</sub>O(l)",
+  "c": [
+   "CO<sub>3</sub><sup>2&minus;</sup>",
+   "H<sub>2</sub>O",
+   "H<sub>2</sub>CO<sub>3</sub>",
+   "OH<sup>&minus;</sup>"
+  ],
+  "y": [
+   "HCO<sub>3</sub><sup>&minus;</sup> loses one H<sup>+</sup>, and its charge drops by 1: CO<sub>3</sub><sup>2&minus;</sup>.",
+   "Water is the conjugate acid of OH<sup>&minus;</sup>, the base in this reaction.",
+   "H<sub>2</sub>CO<sub>3</sub> has one <i>more</i> H<sup>+</sup>: it is the conjugate acid of HCO<sub>3</sub><sup>&minus;</sup>.",
+   "OH<sup>&minus;</sup> is the base that accepts the proton, not the partner of HCO<sub>3</sub><sup>&minus;</sup>."
+  ],
+  "h": "Conjugate base = the acid minus one H<sup>+</sup> (charge goes down by 1).",
+  "w": "HCO<sub>3</sub><sup>&minus;</sup> &minus; H<sup>+</sup> = <b>CO<sub>3</sub><sup>2&minus;</sup></b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-017",
+  "t": "ch12-bl",
+  "q": "Dihydrogen phosphate reacts with water as shown. Which choice lists one of its two conjugate acid&ndash;base pairs?<br>H<sub>2</sub>PO<sub>4</sub><sup>&minus;</sup>(aq) + H<sub>2</sub>O(l) &rlarr; HPO<sub>4</sub><sup>2&minus;</sup>(aq) + H<sub>3</sub>O<sup>+</sup>(aq)",
+  "c": [
+   "H<sub>2</sub>PO<sub>4</sub><sup>&minus;</sup> and HPO<sub>4</sub><sup>2&minus;</sup>",
+   "H<sub>2</sub>PO<sub>4</sub><sup>&minus;</sup> and H<sub>2</sub>O",
+   "H<sub>2</sub>O and HPO<sub>4</sub><sup>2&minus;</sup>",
+   "H<sub>3</sub>O<sup>+</sup> and HPO<sub>4</sub><sup>2&minus;</sup>"
+  ],
+  "y": [
+   "They differ by exactly one H<sup>+</sup> (one H and one unit of charge).",
+   "These are the two reactants (the acid and the base); a pair is a reactant with its product partner.",
+   "H<sub>2</sub>O pairs with H<sub>3</sub>O<sup>+</sup>, not with HPO<sub>4</sub><sup>2&minus;</sup>; they differ by more than one H<sup>+</sup>.",
+   "These are the two products; each pairs with a reactant."
+  ],
+  "h": "Pair each reactant with the product that differs from it by one H<sup>+</sup>.",
+  "w": "H<sub>2</sub>PO<sub>4</sub><sup>&minus;</sup> loses H<sup>+</sup> to become HPO<sub>4</sub><sup>2&minus;</sup>: <b>H<sub>2</sub>PO<sub>4</sub><sup>&minus;</sup>/HPO<sub>4</sub><sup>2&minus;</sup></b> (the other pair is H<sub>2</sub>O/H<sub>3</sub>O<sup>+</sup>).",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-018",
+  "t": "ch12-bl",
+  "q": "What is the conjugate base of phosphoric acid, H<sub>3</sub>PO<sub>4</sub>?",
+  "c": [
+   "H<sub>2</sub>PO<sub>4</sub><sup>&minus;</sup>",
+   "H<sub>2</sub>PO<sub>4</sub>",
+   "H<sub>4</sub>PO<sub>4</sub><sup>+</sup>",
+   "PO<sub>4</sub><sup>3&minus;</sup>"
+  ],
+  "y": [
+   "Remove one H<sup>+</sup>: one fewer H, and the charge drops from 0 to 1&minus;.",
+   "This removes the H but forgets the charge; removing H<sup>+</sup> leaves a 1&minus; charge.",
+   "This <i>adds</i> H<sup>+</sup>, which makes a conjugate acid, not a conjugate base.",
+   "This removes all three protons; a conjugate base differs by only one H<sup>+</sup>."
+  ],
+  "h": "Conjugate base: one fewer H, charge one lower.",
+  "w": "H<sub>3</sub>PO<sub>4</sub> &minus; H<sup>+</sup> = <b>H<sub>2</sub>PO<sub>4</sub><sup>&minus;</sup></b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-019",
+  "t": "ch12-bl",
+  "q": "What is the conjugate acid of the hydrogen sulfide ion, HS<sup>&minus;</sup>?",
+  "c": [
+   "H<sub>2</sub>S",
+   "S<sup>2&minus;</sup>",
+   "H<sub>2</sub>S<sup>&minus;</sup>",
+   "H<sub>3</sub>S<sup>+</sup>"
+  ],
+  "y": [
+   "Add one H<sup>+</sup>: one more H, and the charge rises from 1&minus; to 0.",
+   "Removing H<sup>+</sup> gives the conjugate <i>base</i>, S<sup>2&minus;</sup>.",
+   "This adds the H but forgets the charge; adding H<sup>+</sup> raises the charge by 1.",
+   "This adds two H<sup>+</sup>; a conjugate pair differs by one."
+  ],
+  "h": "Conjugate acid: one more H, charge one higher.",
+  "w": "HS<sup>&minus;</sup> + H<sup>+</sup> = <b>H<sub>2</sub>S</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-020",
+  "t": "ch12-bl",
+  "q": "What is the conjugate acid of the carbonate ion, CO<sub>3</sub><sup>2&minus;</sup>?",
+  "c": [
+   "HCO<sub>3</sub><sup>&minus;</sup>",
+   "H<sub>2</sub>CO<sub>3</sub>",
+   "HCO<sub>3</sub><sup>2&minus;</sup>",
+   "CO<sub>3</sub><sup>&minus;</sup>"
+  ],
+  "y": [
+   "Add one H<sup>+</sup>: one more H, and the charge goes from 2&minus; to 1&minus;.",
+   "This adds two H<sup>+</sup>; H<sub>2</sub>CO<sub>3</sub> would be the conjugate acid of bicarbonate, one step further.",
+   "This adds the H but leaves the charge at 2&minus;; adding H<sup>+</sup> raises the charge by 1.",
+   "This changes the charge without adding the H atom."
+  ],
+  "h": "Add one H and raise the charge by one.",
+  "w": "CO<sub>3</sub><sup>2&minus;</sup> + H<sup>+</sup> = <b>HCO<sub>3</sub><sup>&minus;</sup></b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-021",
+  "t": "ch12-bl",
+  "q": "In which reaction does water act as a Br&oslash;nsted&ndash;Lowry <b>acid</b>?",
+  "c": [
+   "CN<sup>&minus;</sup>(aq) + H<sub>2</sub>O(l) &rlarr; HCN(aq) + OH<sup>&minus;</sup>(aq)",
+   "HI(aq) + H<sub>2</sub>O(l) &rarr; H<sub>3</sub>O<sup>+</sup>(aq) + I<sup>&minus;</sup>(aq)",
+   "HClO<sub>4</sub>(aq) + H<sub>2</sub>O(l) &rarr; H<sub>3</sub>O<sup>+</sup>(aq) + ClO<sub>4</sub><sup>&minus;</sup>(aq)",
+   "HNO<sub>2</sub>(aq) + H<sub>2</sub>O(l) &rlarr; H<sub>3</sub>O<sup>+</sup>(aq) + NO<sub>2</sub><sup>&minus;</sup>(aq)"
+  ],
+  "y": [
+   "Water gives an H<sup>+</sup> to CN<sup>&minus;</sup> and becomes OH<sup>&minus;</sup>: here water is the proton donor.",
+   "Here water gains H<sup>+</sup> and becomes H<sub>3</sub>O<sup>+</sup>, so it is the base.",
+   "Water accepts the proton from HClO<sub>4</sub> (it becomes H<sub>3</sub>O<sup>+</sup>), so it is the base.",
+   "Water accepts the proton from HNO<sub>2</sub> and becomes H<sub>3</sub>O<sup>+</sup>, so it is the base."
+  ],
+  "h": "Water is the acid when it turns into OH<sup>&minus;</sup>.",
+  "w": "Only in the cyanide reaction does water lose H<sup>+</sup> (to become OH<sup>&minus;</sup>): <b>CN<sup>&minus;</sup>(aq) + H<sub>2</sub>O(l) &rlarr; HCN(aq) + OH<sup>&minus;</sup>(aq)</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-022",
+  "t": "ch12-bl",
+  "q": "Which species is <b>amphoteric</b>, able to act as either an acid or a base?",
+  "c": [
+   "HCO<sub>3</sub><sup>&minus;</sup>",
+   "CO<sub>3</sub><sup>2&minus;</sup>",
+   "Cl<sup>&minus;</sup>",
+   "Na<sup>+</sup>"
+  ],
+  "y": [
+   "Bicarbonate can lose H<sup>+</sup> (to CO<sub>3</sub><sup>2&minus;</sup>) or gain H<sup>+</sup> (to H<sub>2</sub>CO<sub>3</sub>).",
+   "Carbonate has no H to donate, so it can act only as a base.",
+   "Chloride has no H to donate and is too weak a base to take one; it is a spectator ion.",
+   "Na<sup>+</sup> neither donates nor accepts protons; it is a spectator ion."
+  ],
+  "h": "An amphoteric species needs an H to give and room to take one.",
+  "w": "<b>HCO<sub>3</sub><sup>&minus;</sup></b> can donate or accept a proton.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-023",
+  "t": "ch12-strength",
+  "q": "Which acid is a <b>strong</b> acid?",
+  "c": [
+   "HI",
+   "HNO<sub>2</sub>",
+   "HC<sub>3</sub>H<sub>5</sub>O<sub>3</sub>",
+   "H<sub>2</sub>CO<sub>3</sub>"
+  ],
+  "y": [
+   "Hydroiodic acid is one of the six strong acids on the green sheet: it ionizes completely.",
+   "Nitrous acid (HNO<sub>2</sub>) is not nitric acid (HNO<sub>3</sub>); it is not on the strong list, so it is weak.",
+   "Lactic acid is not on the strong list, so it is weak.",
+   "Carbonic acid is weak; it is the acid partner of the blood buffer."
+  ],
+  "h": "Strong acids: HCl, HBr, HI, HNO<sub>3</sub>, HClO<sub>4</sub>, H<sub>2</sub>SO<sub>4</sub>.",
+  "w": "<b>HI</b> is on the strong-acid list; the others are weak.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c12-024",
+  "t": "ch12-strength",
+  "q": "Which acid is a <b>weak</b> acid?",
+  "c": [
+   "HF",
+   "HCl",
+   "HBr",
+   "HNO<sub>3</sub>"
+  ],
+  "y": [
+   "HF is not on the strong-acid list, so it ionizes only slightly.",
+   "HCl is a strong acid (green sheet).",
+   "HBr is a strong acid (green sheet).",
+   "HNO<sub>3</sub> is a strong acid (green sheet)."
+  ],
+  "h": "Any acid not on the list of six strong acids is weak.",
+  "w": "<b>HF</b> is weak; HCl, HBr, and HNO<sub>3</sub> are strong.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c12-025",
+  "t": "ch12-strength",
+  "q": "Which compound is a <b>strong</b> base?",
+  "c": [
+   "Ca(OH)<sub>2</sub>",
+   "NH<sub>3</sub>",
+   "Mg(OH)<sub>2</sub>",
+   "CH<sub>3</sub>OH"
+  ],
+  "y": [
+   "Calcium hydroxide is on the strong-base list (Group 1 hydroxides plus Ca, Sr, and Ba hydroxides).",
+   "Ammonia accepts protons only to a small extent: a weak base.",
+   "Magnesium hydroxide is not on the strong-base list; it is poorly soluble and treated as weak.",
+   "Methanol is an alcohol: its OH is covalently bonded, not a hydroxide ion, so it is not a base."
+  ],
+  "h": "Strong bases: Group 1 hydroxides plus Ca(OH)<sub>2</sub>, Sr(OH)<sub>2</sub>, Ba(OH)<sub>2</sub>.",
+  "w": "<b>Ca(OH)<sub>2</sub></b> is on the strong-base list.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c12-026",
+  "t": "ch12-strength",
+  "q": "Nitrous acid, HNO<sub>2</sub>, is a weak acid. Which equation correctly shows it ionizing in water?",
+  "c": [
+   "HNO<sub>2</sub>(aq) + H<sub>2</sub>O(l) &rlarr; H<sub>3</sub>O<sup>+</sup>(aq) + NO<sub>2</sub><sup>&minus;</sup>(aq)",
+   "HNO<sub>2</sub>(aq) + H<sub>2</sub>O(l) &rarr; H<sub>3</sub>O<sup>+</sup>(aq) + NO<sub>2</sub><sup>&minus;</sup>(aq)",
+   "HNO<sub>2</sub>(aq) + H<sub>2</sub>O(l) &rlarr; H<sub>2</sub>NO<sub>2</sub><sup>+</sup>(aq) + OH<sup>&minus;</sup>(aq)",
+   "HNO<sub>2</sub>(aq) &rarr; H<sup>+</sup>(aq) + NO<sub>2</sub><sup>&minus;</sup>(aq)"
+  ],
+  "y": [
+   "A weak acid ionizes only slightly, so it gets a double arrow, and it donates its H<sup>+</sup> to water.",
+   "A single arrow means complete ionization, which is only for strong acids.",
+   "This has the acid accepting a proton from water; an acid donates its proton.",
+   "This shows a single arrow (complete ionization) and leaves out the water that takes the proton; a weak acid needs a double arrow."
+  ],
+  "h": "Weak acid: double arrow, and the acid gives its H<sup>+</sup> to water.",
+  "w": "<b>HNO<sub>2</sub>(aq) + H<sub>2</sub>O(l) &rlarr; H<sub>3</sub>O<sup>+</sup>(aq) + NO<sub>2</sub><sup>&minus;</sup>(aq)</b> (double arrow for a weak acid).",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-027",
+  "t": "ch12-strength",
+  "q": "Acetic acid, HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>, is dissolved in water. Which description fits the solution (water molecules not counted)?",
+  "c": [
+   "Mostly intact HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub> molecules, with a few H<sub>3</sub>O<sup>+</sup> and C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>&minus;</sup> ions",
+   "Only H<sub>3</sub>O<sup>+</sup> and C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>&minus;</sup> ions, with no intact molecules",
+   "Only intact HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub> molecules, with no ions at all",
+   "Mostly H<sub>3</sub>O<sup>+</sup> ions and intact molecules, but no acetate ions"
+  ],
+  "y": [
+   "Acetic acid is weak: only a small fraction of its molecules donate a proton at any moment.",
+   "All ions and no molecules describes a strong acid; acetic acid is weak.",
+   "A weak acid does ionize a little, which is why vinegar conducts weakly.",
+   "Each molecule that ionizes makes one H<sub>3</sub>O<sup>+</sup> <i>and</i> one acetate ion."
+  ],
+  "h": "Weak acids ionize only slightly.",
+  "w": "Weak acid: <b>mostly intact molecules, a few ions</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-028",
+  "t": "ch12-strength",
+  "q": "Solution A is 0.0020 M HNO<sub>3</sub>; solution B is 3.0 M HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>. Which statement is true?",
+  "c": [
+   "A is a dilute solution of a strong acid; B is a concentrated solution of a weak acid.",
+   "A is a weak acid because it is dilute; B is a strong acid because it is concentrated.",
+   "Both are strong acids, because both ionize completely.",
+   "Both are weak acids, because both contain intact acid molecules."
+  ],
+  "y": [
+   "Strength is about the fraction that ionizes (a property of the acid); concentration is how much is dissolved.",
+   "This mixes up strength with concentration. Dilute HNO<sub>3</sub> is still fully ionized.",
+   "Acetic acid is weak at any concentration; most of its molecules stay intact.",
+   "HNO<sub>3</sub> is strong: even dilute, it has essentially no intact molecules."
+  ],
+  "h": "Strong or weak depends on which acid it is, not on how much is dissolved.",
+  "w": "HNO<sub>3</sub> is strong (but dilute here); acetic acid is weak (but concentrated here): <b>A dilute strong acid, B concentrated weak acid</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-029",
+  "t": "ch12-strength",
+  "q": "Which compound is a <b>salt</b>?",
+  "c": [
+   "CaBr<sub>2</sub>",
+   "HBr",
+   "Ca(OH)<sub>2</sub>",
+   "C<sub>2</sub>H<sub>5</sub>OH"
+  ],
+  "y": [
+   "A salt is ionic, with a cation from a base (Ca<sup>2+</sup>) and an anion from an acid (Br<sup>&minus;</sup>).",
+   "HBr has its acidic H written first: it is an acid.",
+   "Ca(OH)<sub>2</sub> contains hydroxide ions: it is a base.",
+   "Ethanol is molecular; it is neither an acid nor a base, and not a salt."
+  ],
+  "h": "Salt = a base's cation + an acid's anion.",
+  "w": "<b>CaBr<sub>2</sub></b> (Ca<sup>2+</sup> from Ca(OH)<sub>2</sub>, Br<sup>&minus;</sup> from HBr) is a salt.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c12-030",
+  "t": "ch12-strength",
+  "q": "Isopropyl alcohol (rubbing alcohol), C<sub>3</sub>H<sub>7</sub>OH, contains an OH group. How is it classified?",
+  "c": [
+   "Neither an acid nor a base",
+   "A strong base",
+   "A weak base",
+   "A weak acid"
+  ],
+  "y": [
+   "Its OH is covalently bonded to carbon; it is not a hydroxide ion, and it has no acidic H written first.",
+   "Strong bases are ionic metal hydroxides that release OH<sup>&minus;</sup>; an alcohol does not.",
+   "Weak bases are ammonia, amines, carbonates, and bicarbonates; an alcohol is none of these.",
+   "Alcohols do not have an acidic H written first or a &ndash;COOH group."
+  ],
+  "h": "Is the OH a hydroxide ion or a covalent group?",
+  "w": "An alcohol's OH is not OH<sup>&minus;</sup>: <b>neither an acid nor a base</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-031",
+  "t": "ch12-strength",
+  "q": "Which compound is a <b>base</b>?",
+  "c": [
+   "NaHCO<sub>3</sub> (baking soda)",
+   "NaCl (table salt)",
+   "HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub> (acetic acid)",
+   "C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> (glucose)"
+  ],
+  "y": [
+   "Bicarbonate accepts protons, so baking soda is a base (and also a salt).",
+   "NaCl is a salt; neither of its ions accepts or donates protons.",
+   "Acetic acid has an acidic H (in its &ndash;COOH group): it is an acid.",
+   "Glucose is molecular; its OH groups are not hydroxide ions, so it is neither."
+  ],
+  "h": "Bases include hydroxides, carbonates and bicarbonates, and ammonia and amines.",
+  "w": "<b>NaHCO<sub>3</sub></b>: bicarbonate is a proton acceptor.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c12-032",
+  "t": "ch12-strength",
+  "q": "Hydroiodic acid neutralizes barium hydroxide. What salt forms?",
+  "c": [
+   "BaI<sub>2</sub>",
+   "BaI",
+   "Ba<sub>2</sub>I",
+   "BaH<sub>2</sub>"
+  ],
+  "y": [
+   "Ba<sup>2+</sup> and I<sup>&minus;</sup> balance as BaI<sub>2</sub>: 2 HI(aq) + Ba(OH)<sub>2</sub>(aq) &rarr; BaI<sub>2</sub>(aq) + 2 H<sub>2</sub>O(l).",
+   "BaI leaves the charges unbalanced: Ba<sup>2+</sup> needs two I<sup>&minus;</sup>.",
+   "This swaps the subscripts the wrong way; Ba<sup>2+</sup> needs two iodide ions, not two barium ions.",
+   "The salt is the base's cation with the acid's anion; the H<sup>+</sup> ends up in water."
+  ],
+  "h": "Salt = base's cation + acid's anion, with balanced charges.",
+  "w": "2 HI(aq) + Ba(OH)<sub>2</sub>(aq) &rarr; BaI<sub>2</sub>(aq) + 2 H<sub>2</sub>O(l): <b>BaI<sub>2</sub></b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-033",
+  "t": "ch12-strength",
+  "q": "Potassium hydroxide neutralizes hydroiodic acid. What are the products?",
+  "c": [
+   "KI(aq) and H<sub>2</sub>O(l)",
+   "KI(aq) and H<sub>2</sub>(g)",
+   "K<sub>2</sub>O(s) and I<sub>2</sub>(s)",
+   "No products; KOH and HI do not react."
+  ],
+  "y": [
+   "Acid + base &rarr; salt + water: HI(aq) + KOH(aq) &rarr; KI(aq) + H<sub>2</sub>O(l).",
+   "Hydrogen gas comes from acids reacting with active metals, not with bases.",
+   "Neutralization makes a salt and water; it does not make an oxide or a different acid.",
+   "A strong acid and a strong base react completely: H<sup>+</sup> + OH<sup>&minus;</sup> &rarr; H<sub>2</sub>O."
+  ],
+  "h": "Acid + base &rarr; salt + water.",
+  "w": "HI(aq) + KOH(aq) &rarr; KI(aq) + H<sub>2</sub>O(l): <b>KI and water</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c12-034",
+  "t": "ch12-strength",
+  "q": "Calcium hydroxide dissolves in water. How many OH<sup>&minus;</sup> ions does each formula unit release, and which arrow belongs in its equation?",
+  "c": [
+   "2 OH<sup>&minus;</sup>; a single arrow (&rarr;)",
+   "2 OH<sup>&minus;</sup>; a double arrow (&rlarr;)",
+   "1 OH<sup>&minus;</sup>; a single arrow (&rarr;)",
+   "1 OH<sup>&minus;</sup>; a double arrow (&rlarr;)"
+  ],
+  "y": [
+   "Ca(OH)<sub>2</sub>(aq) &rarr; Ca<sup>2+</sup>(aq) + 2 OH<sup>&minus;</sup>(aq): two hydroxides, and a strong base dissociates completely.",
+   "Ca(OH)<sub>2</sub> is a strong base, so the dissolved part dissociates completely: a single arrow.",
+   "The subscript 2 outside the parentheses means two OH<sup>&minus;</sup> per formula unit.",
+   "Both parts are wrong: two OH<sup>&minus;</sup> per formula unit, and strong bases get a single arrow."
+  ],
+  "h": "Read the subscript after (OH), and check the strong-base list.",
+  "w": "Ca(OH)<sub>2</sub>(aq) &rarr; Ca<sup>2+</sup>(aq) + 2 OH<sup>&minus;</sup>(aq): <b>2 OH<sup>&minus;</sup>, single arrow</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-035",
+  "t": "ch12-water",
+  "q": "Which equation shows the autoionization of water?",
+  "c": [
+   "H<sub>2</sub>O(l) + H<sub>2</sub>O(l) &rlarr; H<sub>3</sub>O<sup>+</sup>(aq) + OH<sup>&minus;</sup>(aq)",
+   "2 H<sub>2</sub>O(l) &rarr; 2 H<sub>2</sub>(g) + O<sub>2</sub>(g)",
+   "H<sub>2</sub>O(l) + H<sub>2</sub>O(l) &rarr; H<sub>3</sub>O<sup>+</sup>(aq) + OH<sup>&minus;</sup>(aq)",
+   "H<sub>2</sub>O(l) + H<sub>2</sub>O(l) &rlarr; H<sub>2</sub>O<sub>2</sub>(aq) + H<sub>2</sub>(g)"
+  ],
+  "y": [
+   "One water molecule donates a proton to another; the double arrow shows that only a tiny fraction is ionized at any moment.",
+   "This is the decomposition of water into elements (by electrolysis), not a proton transfer.",
+   "A single arrow would mean water ionizes completely; it ionizes only about two molecules per billion.",
+   "Autoionization moves a proton; it does not make hydrogen peroxide."
+  ],
+  "h": "Water is amphoteric: one molecule is the acid, the other the base.",
+  "w": "<b>H<sub>2</sub>O(l) + H<sub>2</sub>O(l) &rlarr; H<sub>3</sub>O<sup>+</sup>(aq) + OH<sup>&minus;</sup>(aq)</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c12-036",
+  "t": "ch12-water",
+  "q": "Pure water at 25 °C has pH 7.00. What is its [OH<sup>&minus;</sup>]?",
+  "c": [
+   "1.0 &times; 10<sup>&minus;7</sup> M",
+   "1.0 &times; 10<sup>&minus;14</sup> M",
+   "7.00 M",
+   "0 M, because pure water contains no hydroxide"
+  ],
+  "y": [
+   "In pure water [H<sub>3</sub>O<sup>+</sup>] = [OH<sup>&minus;</sup>], and their product is 1.0 &times; 10<sup>&minus;14</sup>, so each is 1.0 &times; 10<sup>&minus;7</sup> M.",
+   "1.0 &times; 10<sup>&minus;14</sup> is K<sub>w</sub>, the <i>product</i> of the two concentrations, not either one.",
+   "7.00 is the pH (and pOH) of pure water, not a concentration.",
+   "Water autoionizes slightly, making one OH<sup>&minus;</sup> for every H<sub>3</sub>O<sup>+</sup>."
+  ],
+  "h": "Two equal concentrations multiply to 1.0 &times; 10<sup>&minus;14</sup>.",
+  "w": "&radic;(1.0 &times; 10<sup>&minus;14</sup>) = <b>1.0 &times; 10<sup>&minus;7</sup> M</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c12-037",
+  "t": "ch12-water",
+  "q": "A sample of tomato juice has [H<sub>3</sub>O<sup>+</sup>] = 7.9 &times; 10<sup>&minus;5</sup> M at 25 °C. What is [OH<sup>&minus;</sup>]?",
+  "c": [
+   "1.3 &times; 10<sup>&minus;10</sup> M",
+   "7.9 &times; 10<sup>&minus;19</sup> M",
+   "7.9 &times; 10<sup>9</sup> M",
+   "1.0 &times; 10<sup>&minus;7</sup> M"
+  ],
+  "y": [
+   "[OH<sup>&minus;</sup>] = K<sub>w</sub> / [H<sub>3</sub>O<sup>+</sup>] = (1.0 &times; 10<sup>&minus;14</sup>) / (7.9 &times; 10<sup>&minus;5</sup>); two significant figures.",
+   "This multiplies by K<sub>w</sub>; the product [H<sub>3</sub>O<sup>+</sup>][OH<sup>&minus;</sup>] equals K<sub>w</sub>, so divide.",
+   "This divides the wrong way (concentration / K<sub>w</sub>), giving an impossible value.",
+   "1.0 &times; 10<sup>&minus;7</sup> M is [OH<sup>&minus;</sup>] in pure water; an acidic juice has less."
+  ],
+  "h": "Divide K<sub>w</sub> by the concentration you know.",
+  "w": "[OH<sup>&minus;</sup>] = 1.0 &times; 10<sup>&minus;14</sup> / 7.9 &times; 10<sup>&minus;5</sup> = <b>1.3 &times; 10<sup>&minus;10</sup> M</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c12-038",
+  "t": "ch12-water",
+  "q": "A dilute soap solution has [OH<sup>&minus;</sup>] = 5.5 &times; 10<sup>&minus;3</sup> M at 25 °C. What is [H<sub>3</sub>O<sup>+</sup>]?",
+  "c": [
+   "1.8 &times; 10<sup>&minus;12</sup> M",
+   "5.5 &times; 10<sup>&minus;17</sup> M",
+   "5.5 &times; 10<sup>11</sup> M",
+   "1.8 &times; 10<sup>2</sup> M"
+  ],
+  "y": [
+   "[H<sub>3</sub>O<sup>+</sup>] = K<sub>w</sub> / [OH<sup>&minus;</sup>] = (1.0 &times; 10<sup>&minus;14</sup>) / (5.5 &times; 10<sup>&minus;3</sup>).",
+   "This multiplies by K<sub>w</sub> instead of dividing.",
+   "This divides [OH<sup>&minus;</sup>] by K<sub>w</sub>; the concentration you know goes in the denominator.",
+   "This leaves out K<sub>w</sub> (it computes 1 / [OH<sup>&minus;</sup>])."
+  ],
+  "h": "[H<sub>3</sub>O<sup>+</sup>] = K<sub>w</sub> / [OH<sup>&minus;</sup>].",
+  "w": "1.0 &times; 10<sup>&minus;14</sup> / 5.5 &times; 10<sup>&minus;3</sup> = <b>1.8 &times; 10<sup>&minus;12</sup> M</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c12-039",
+  "t": "ch12-water",
+  "q": "A solution has [H<sub>3</sub>O<sup>+</sup>] = 3.8 &times; 10<sup>&minus;9</sup> M at 25 °C. How is it classified?",
+  "c": [
+   "Basic",
+   "Acidic",
+   "Neutral",
+   "It cannot be classified without [OH<sup>&minus;</sup>]."
+  ],
+  "y": [
+   "3.8 &times; 10<sup>&minus;9</sup> is smaller than 1.0 &times; 10<sup>&minus;7</sup>, so [H<sub>3</sub>O<sup>+</sup>] &lt; [OH<sup>&minus;</sup>]: basic.",
+   "This misreads the exponent: 10<sup>&minus;9</sup> is <i>smaller</i> than 10<sup>&minus;7</sup>.",
+   "Neutral means exactly 1.0 &times; 10<sup>&minus;7</sup> M.",
+   "[H<sub>3</sub>O<sup>+</sup>] alone is enough: K<sub>w</sub> fixes [OH<sup>&minus;</sup>], and comparing with 10<sup>&minus;7</sup> M classifies it."
+  ],
+  "h": "Compare with 1.0 &times; 10<sup>&minus;7</sup> M. Which is bigger?",
+  "w": "[H<sub>3</sub>O<sup>+</sup>] is below 1.0 &times; 10<sup>&minus;7</sup> M: <b>basic</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-040",
+  "t": "ch12-water",
+  "q": "A solution has [OH<sup>&minus;</sup>] = 2.7 &times; 10<sup>&minus;11</sup> M at 25 °C. How is it classified?",
+  "c": [
+   "Acidic",
+   "Basic",
+   "Neutral",
+   "Neither, because [OH<sup>&minus;</sup>] is too small to measure"
+  ],
+  "y": [
+   "[OH<sup>&minus;</sup>] is far below 1.0 &times; 10<sup>&minus;7</sup> M, so [H<sub>3</sub>O<sup>+</sup>] must be above it (K<sub>w</sub> = [H<sub>3</sub>O<sup>+</sup>][OH<sup>&minus;</sup>]): acidic.",
+   "Being given [OH<sup>&minus;</sup>] does not make a solution basic; this one has very little hydroxide.",
+   "Neutral would need [OH<sup>&minus;</sup>] = 1.0 &times; 10<sup>&minus;7</sup> M.",
+   "Every water solution has both ions; a small [OH<sup>&minus;</sup>] means a large [H<sub>3</sub>O<sup>+</sup>]."
+  ],
+  "h": "If [OH<sup>&minus;</sup>] is below 10<sup>&minus;7</sup> M, where is [H<sub>3</sub>O<sup>+</sup>]?",
+  "w": "[OH<sup>&minus;</sup>] &lt; 1.0 &times; 10<sup>&minus;7</sup> M, so [H<sub>3</sub>O<sup>+</sup>] &gt; 1.0 &times; 10<sup>&minus;7</sup> M: <b>acidic</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-041",
+  "t": "ch12-water",
+  "q": "Use the table (all at 25 °C). Which solution is the <b>most acidic</b>?",
+  "c": [
+   "Solution D",
+   "Solution A",
+   "Solution B",
+   "Solution C"
+  ],
+  "y": [
+   "D: [H<sub>3</sub>O<sup>+</sup>] = 1.0 &times; 10<sup>&minus;14</sup> / 3.3 &times; 10<sup>&minus;12</sup> = 3.0 &times; 10<sup>&minus;3</sup> M, the largest [H<sub>3</sub>O<sup>+</sup>] of the four.",
+   "A has [H<sub>3</sub>O<sup>+</sup>] = 4.1 &times; 10<sup>&minus;5</sup> M, acidic but less than D's 3.0 &times; 10<sup>&minus;3</sup> M.",
+   "B has a large [OH<sup>&minus;</sup>], so it is basic.",
+   "C has [H<sub>3</sub>O<sup>+</sup>] below 10<sup>&minus;7</sup> M, so it is basic."
+  ],
+  "h": "Convert every [OH<sup>&minus;</sup>] to [H<sub>3</sub>O<sup>+</sup>] with K<sub>w</sub>, then compare.",
+  "w": "A 4.1 &times; 10<sup>&minus;5</sup>, B 1.3 &times; 10<sup>&minus;12</sup>, C 9.0 &times; 10<sup>&minus;9</sup>, D 3.0 &times; 10<sup>&minus;3</sup> M [H<sub>3</sub>O<sup>+</sup>]: <b>Solution D</b>.",
+  "d": 3,
+  "k": 0,
+  "f": [
+   {
+    "type": "table",
+    "cap": "Four solutions at 25 °C",
+    "head": [
+     "Solution",
+     "Given"
+    ],
+    "rows": [
+     [
+      "A",
+      "[H<sub>3</sub>O<sup>+</sup>] = 4.1 &times; 10<sup>&minus;5</sup> M"
+     ],
+     [
+      "B",
+      "[OH<sup>&minus;</sup>] = 7.9 &times; 10<sup>&minus;3</sup> M"
+     ],
+     [
+      "C",
+      "[H<sub>3</sub>O<sup>+</sup>] = 9.0 &times; 10<sup>&minus;9</sup> M"
+     ],
+     [
+      "D",
+      "[OH<sup>&minus;</sup>] = 3.3 &times; 10<sup>&minus;12</sup> M"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c12-042",
+  "t": "ch12-water",
+  "q": "What is [OH<sup>&minus;</sup>] in 0.045 M HBr at 25 °C?",
+  "c": [
+   "2.2 &times; 10<sup>&minus;13</sup> M",
+   "0.045 M",
+   "4.5 &times; 10<sup>&minus;16</sup> M",
+   "1.1 &times; 10<sup>&minus;13</sup> M"
+  ],
+  "y": [
+   "HBr is a strong acid, so [H<sub>3</sub>O<sup>+</sup>] = 0.045 M; [OH<sup>&minus;</sup>] = 1.0 &times; 10<sup>&minus;14</sup> / 0.045.",
+   "0.045 M is [H<sub>3</sub>O<sup>+</sup>], not [OH<sup>&minus;</sup>].",
+   "This multiplies by K<sub>w</sub> instead of dividing.",
+   "This doubles [H<sub>3</sub>O<sup>+</sup>]; HBr gives one H<sub>3</sub>O<sup>+</sup> per molecule."
+  ],
+  "h": "Strong acid: [H<sub>3</sub>O<sup>+</sup>] = the acid's molarity. Then use K<sub>w</sub>.",
+  "w": "[H<sub>3</sub>O<sup>+</sup>] = 0.045 M; [OH<sup>&minus;</sup>] = 1.0 &times; 10<sup>&minus;14</sup> / 0.045 = <b>2.2 &times; 10<sup>&minus;13</sup> M</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c12-043",
+  "t": "ch12-water",
+  "q": "What is [OH<sup>&minus;</sup>] in 0.0045 M Ba(OH)<sub>2</sub>?",
+  "c": [
+   "0.0090 M",
+   "0.0045 M",
+   "1.1 &times; 10<sup>&minus;12</sup> M",
+   "2.2 &times; 10<sup>&minus;12</sup> M"
+  ],
+  "y": [
+   "Ba(OH)<sub>2</sub>(aq) &rarr; Ba<sup>2+</sup>(aq) + 2 OH<sup>&minus;</sup>(aq): [OH<sup>&minus;</sup>] = 2 &times; 0.0045 M.",
+   "This forgets the 2: each Ba(OH)<sub>2</sub> releases two hydroxide ions.",
+   "This is [H<sub>3</sub>O<sup>+</sup>], found from K<sub>w</sub>; the question asks for [OH<sup>&minus;</sup>].",
+   "This is [H<sub>3</sub>O<sup>+</sup>] with the factor of 2 forgotten as well."
+  ],
+  "h": "How many OH<sup>&minus;</sup> does one Ba(OH)<sub>2</sub> release?",
+  "w": "[OH<sup>&minus;</sup>] = 2 &times; 0.0045 M = <b>0.0090 M</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c12-044",
+  "t": "ch12-water",
+  "q": "What is [H<sub>3</sub>O<sup>+</sup>] in 0.0012 M Ca(OH)<sub>2</sub> at 25 °C?",
+  "c": [
+   "4.2 &times; 10<sup>&minus;12</sup> M",
+   "8.3 &times; 10<sup>&minus;12</sup> M",
+   "0.0024 M",
+   "2.4 &times; 10<sup>&minus;17</sup> M"
+  ],
+  "y": [
+   "[OH<sup>&minus;</sup>] = 2 &times; 0.0012 = 0.0024 M; [H<sub>3</sub>O<sup>+</sup>] = 1.0 &times; 10<sup>&minus;14</sup> / 0.0024.",
+   "This forgets to double [OH<sup>&minus;</sup>]: Ca(OH)<sub>2</sub> gives two hydroxides.",
+   "0.0024 M is [OH<sup>&minus;</sup>]; the question asks for [H<sub>3</sub>O<sup>+</sup>].",
+   "This multiplies by K<sub>w</sub>; divide K<sub>w</sub> by [OH<sup>&minus;</sup>]."
+  ],
+  "h": "Double first, then divide K<sub>w</sub> by [OH<sup>&minus;</sup>].",
+  "w": "[OH<sup>&minus;</sup>] = 0.0024 M; [H<sub>3</sub>O<sup>+</sup>] = 1.0 &times; 10<sup>&minus;14</sup> / 0.0024 = <b>4.2 &times; 10<sup>&minus;12</sup> M</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c12-045",
+  "t": "ch12-water",
+  "q": "A few drops of acid are added to pure water at 25 °C, and [H<sub>3</sub>O<sup>+</sup>] rises. What happens to [OH<sup>&minus;</sup>]?",
+  "c": [
+   "It falls, so that [H<sub>3</sub>O<sup>+</sup>][OH<sup>&minus;</sup>] stays 1.0 &times; 10<sup>&minus;14</sup>.",
+   "It rises along with [H<sub>3</sub>O<sup>+</sup>].",
+   "It stays at 1.0 &times; 10<sup>&minus;7</sup> M.",
+   "It drops to zero, because an acidic solution has no OH<sup>&minus;</sup>."
+  ],
+  "y": [
+   "K<sub>w</sub> is constant, so the two concentrations are inversely related, like a seesaw.",
+   "If both rose, their product would grow larger than K<sub>w</sub>.",
+   "[OH<sup>&minus;</sup>] is 1.0 &times; 10<sup>&minus;7</sup> M only when the solution is neutral.",
+   "Every water solution contains both ions; [OH<sup>&minus;</sup>] gets small but never zero."
+  ],
+  "h": "The product of the two concentrations is fixed at 25 °C.",
+  "w": "K<sub>w</sub> is constant: [OH<sup>&minus;</sup>] <b>falls</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c12-046",
+  "t": "ch12-water",
+  "q": "The relationship K<sub>w</sub> = [H<sub>3</sub>O<sup>+</sup>][OH<sup>&minus;</sup>] = 1.0 &times; 10<sup>&minus;14</sup> applies to which solutions at 25 °C?",
+  "c": [
+   "Every water solution: acidic, basic, or neutral",
+   "Only pure water",
+   "Only neutral solutions",
+   "Only solutions of strong acids and bases"
+  ],
+  "y": [
+   "K<sub>w</sub> holds in every aqueous solution at 25 °C, from lemon juice to drain cleaner.",
+   "It is found from pure water, but it stays true when acids or bases are added.",
+   "Acidic and basic solutions obey it too; only the balance between the two ions changes.",
+   "Weak acids and bases, salts, and blood obey it as well."
+  ],
+  "h": "What stays the same when an acid is added to water?",
+  "w": "K<sub>w</sub> applies to <b>every water solution</b> at 25 °C.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-047",
+  "t": "ch12-ph",
+  "q": "What is the pH of 0.0072 M HBr?",
+  "c": [
+   "2.14",
+   "&minus;2.14",
+   "11.86",
+   "2.1"
+  ],
+  "y": [
+   "HBr is strong, so [H<sub>3</sub>O<sup>+</sup>] = 0.0072 M; pH = &minus;log(0.0072); 2 significant figures give 2 decimal places.",
+   "This leaves out the minus sign (pH = log[H<sub>3</sub>O<sup>+</sup>]); the pH of a solution like this is positive.",
+   "This is 14.00 &minus; pH, which is the pOH, not the pH.",
+   "The value is right, but it has one decimal place; 0.0072 has 2 significant figures, so the pH needs 2 decimal places."
+  ],
+  "h": "pH = &minus;log[H<sub>3</sub>O<sup>+</sup>]; decimal places in pH = significant figures in the concentration.",
+  "w": "pH = &minus;log(0.0072) = <b>2.14</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c12-048",
+  "t": "ch12-ph",
+  "q": "What is the pH of 2.85 &times; 10<sup>&minus;3</sup> M HCl?",
+  "c": [
+   "2.545",
+   "&minus;2.545",
+   "2.55",
+   "11.455"
+  ],
+  "y": [
+   "HCl is strong, so [H<sub>3</sub>O<sup>+</sup>] = 2.85 &times; 10<sup>&minus;3</sup> M; 3 significant figures give 3 decimal places.",
+   "This drops the minus sign in pH = &minus;log[H<sub>3</sub>O<sup>+</sup>].",
+   "This has 2 decimal places; 2.85 has 3 significant figures, so the pH needs 3 decimal places.",
+   "This is the pOH (14 &minus; pH), not the pH."
+  ],
+  "h": "Count significant figures in 2.85 to set the decimal places.",
+  "w": "pH = &minus;log(2.85 &times; 10<sup>&minus;3</sup>) = <b>2.545</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c12-049",
+  "t": "ch12-ph",
+  "q": "What is the pH of 0.0039 M NaOH at 25 °C?",
+  "c": [
+   "11.59",
+   "2.41",
+   "11.89",
+   "11.6"
+  ],
+  "y": [
+   "[OH<sup>&minus;</sup>] = 0.0039 M; pOH = &minus;log(0.0039) = 2.41; pH = 14.00 &minus; 2.41.",
+   "This is the pOH. For a base, subtract the pOH from 14.00 to get the pH.",
+   "This doubles [OH<sup>&minus;</sup>]; NaOH has only one OH<sup>&minus;</sup> per formula unit.",
+   "This has one decimal place; 0.0039 has 2 significant figures, so the pH needs 2 decimal places."
+  ],
+  "h": "Base: [OH<sup>&minus;</sup>] &rarr; pOH &rarr; pH = 14.00 &minus; pOH.",
+  "w": "pOH = 2.41; pH = 14.00 &minus; 2.41 = <b>11.59</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c12-050",
+  "t": "ch12-ph",
+  "q": "What is the pH of 0.0033 M Ba(OH)<sub>2</sub> at 25 °C?",
+  "c": [
+   "11.82",
+   "11.52",
+   "2.18",
+   "11.8"
+  ],
+  "y": [
+   "[OH<sup>&minus;</sup>] = 2 &times; 0.0033 = 0.0066 M; pOH = 2.18; pH = 14.00 &minus; 2.18.",
+   "This forgets to double [OH<sup>&minus;</sup>]: each Ba(OH)<sub>2</sub> releases two hydroxide ions.",
+   "This is the pOH; subtract it from 14.00.",
+   "This has only one decimal place; the concentration has 2 significant figures."
+  ],
+  "h": "Double [OH<sup>&minus;</sup>] for Ba(OH)<sub>2</sub>, then pOH, then pH.",
+  "w": "[OH<sup>&minus;</sup>] = 0.0066 M; pOH = 2.18; pH = <b>11.82</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c12-051",
+  "t": "ch12-ph",
+  "q": "Limewater is a solution of Ca(OH)<sub>2</sub>. What is the pH of 3.3 &times; 10<sup>&minus;4</sup> M Ca(OH)<sub>2</sub> at 25 °C?",
+  "c": [
+   "10.82",
+   "10.52",
+   "3.18",
+   "&minus;10.82"
+  ],
+  "y": [
+   "[OH<sup>&minus;</sup>] = 2 &times; 3.3 &times; 10<sup>&minus;4</sup> = 6.6 &times; 10<sup>&minus;4</sup> M; pOH = 3.18; pH = 14.00 &minus; 3.18.",
+   "This forgets the factor of 2 for Ca(OH)<sub>2</sub>.",
+   "This is the pOH, not the pH.",
+   "A pH this negative is a sign of a dropped minus sign; basic solutions have pH above 7."
+  ],
+  "h": "Ca(OH)<sub>2</sub> gives two OH<sup>&minus;</sup>; finish with pH = 14.00 &minus; pOH.",
+  "w": "[OH<sup>&minus;</sup>] = 6.6 &times; 10<sup>&minus;4</sup> M; pOH = 3.18; pH = <b>10.82</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c12-052",
+  "t": "ch12-ph",
+  "q": "A glass of orange juice has pH 3.37. What is its [H<sub>3</sub>O<sup>+</sup>]?",
+  "c": [
+   "4.3 &times; 10<sup>&minus;4</sup> M",
+   "2.3 &times; 10<sup>&minus;11</sup> M",
+   "2.3 &times; 10<sup>3</sup> M",
+   "4.27 &times; 10<sup>&minus;4</sup> M"
+  ],
+  "y": [
+   "[H<sub>3</sub>O<sup>+</sup>] = 10<sup>&minus;3.37</sup>; 2 decimal places in the pH give 2 significant figures.",
+   "This is 10<sup>&minus;(14 &minus; pH)</sup>, which is [OH<sup>&minus;</sup>], not [H<sub>3</sub>O<sup>+</sup>].",
+   "This leaves out the minus sign: 10<sup>3.37</sup> instead of 10<sup>&minus;3.37</sup>.",
+   "The value is right, but it has 3 significant figures; a pH with 2 decimal places gives 2."
+  ],
+  "h": "[H<sub>3</sub>O<sup>+</sup>] = 10<sup>&minus;pH</sup>.",
+  "w": "10<sup>&minus;3.37</sup> = <b>4.3 &times; 10<sup>&minus;4</sup> M</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c12-053",
+  "t": "ch12-ph",
+  "q": "A hand soap solution has pH 9.62 at 25 °C. What is its [OH<sup>&minus;</sup>]?",
+  "c": [
+   "4.2 &times; 10<sup>&minus;5</sup> M",
+   "2.4 &times; 10<sup>&minus;10</sup> M",
+   "4.38 M",
+   "2.4 &times; 10<sup>4</sup> M"
+  ],
+  "y": [
+   "pOH = 14.00 &minus; 9.62 = 4.38; [OH<sup>&minus;</sup>] = 10<sup>&minus;4.38</sup>.",
+   "10<sup>&minus;9.62</sup> is [H<sub>3</sub>O<sup>+</sup>], not [OH<sup>&minus;</sup>].",
+   "4.38 is the pOH; it is not a concentration. Take 10<sup>&minus;pOH</sup>.",
+   "This leaves out the minus sign: 10<sup>4.38</sup> instead of 10<sup>&minus;4.38</sup>."
+  ],
+  "h": "Find the pOH first, then [OH<sup>&minus;</sup>] = 10<sup>&minus;pOH</sup>.",
+  "w": "pOH = 4.38; [OH<sup>&minus;</sup>] = 10<sup>&minus;4.38</sup> = <b>4.2 &times; 10<sup>&minus;5</sup> M</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c12-054",
+  "t": "ch12-ph",
+  "q": "What is the pH of a solution with [H<sub>3</sub>O<sup>+</sup>] = 7.94 &times; 10<sup>&minus;6</sup> M?",
+  "c": [
+   "5.100",
+   "5.10",
+   "&minus;5.100",
+   "8.900"
+  ],
+  "y": [
+   "pH = &minus;log(7.94 &times; 10<sup>&minus;6</sup>); 3 significant figures give 3 decimal places.",
+   "This has 2 decimal places; 7.94 has 3 significant figures.",
+   "This leaves out the minus sign in pH = &minus;log[H<sub>3</sub>O<sup>+</sup>].",
+   "This is the pOH, 14 &minus; pH."
+  ],
+  "h": "Three significant figures in the concentration &rarr; three decimal places in the pH.",
+  "w": "&minus;log(7.94 &times; 10<sup>&minus;6</sup>) = <b>5.100</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c12-055",
+  "t": "ch12-ph",
+  "q": "A solution has pOH 3.85 at 25 °C. What is its pH?",
+  "c": [
+   "10.15",
+   "3.85",
+   "17.85",
+   "1.4 &times; 10<sup>&minus;4</sup> M"
+  ],
+  "y": [
+   "pH + pOH = 14.00, so pH = 14.00 &minus; 3.85.",
+   "This repeats the pOH; the pH is 14.00 minus the pOH.",
+   "This adds the pOH to 14.00 instead of subtracting.",
+   "This is [OH<sup>&minus;</sup>] = 10<sup>&minus;3.85</sup>, a concentration, not the pH."
+  ],
+  "h": "pH + pOH = 14.00.",
+  "w": "pH = 14.00 &minus; 3.85 = <b>10.15</b> (basic).",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c12-056",
+  "t": "ch12-ph",
+  "q": "Use the table of typical pH values. Which item has about 1000 times the [H<sub>3</sub>O<sup>+</sup>] of black coffee?",
+  "c": [
+   "Lemon juice",
+   "Vinegar",
+   "Cola",
+   "Milk"
+  ],
+  "y": [
+   "Lemon juice (pH 2) is 3 pH units below coffee (pH 5): 10 &times; 10 &times; 10 = 1000 times the [H<sub>3</sub>O<sup>+</sup>].",
+   "Vinegar (pH 3) is 2 units below coffee: 10<sup>2</sup> = 100 times, not 1000.",
+   "Cola (pH 2.5) is 2.5 units below coffee: about 300 times.",
+   "Milk (pH 6.5) has a <i>higher</i> pH than coffee, so it has less H<sub>3</sub>O<sup>+</sup>."
+  ],
+  "h": "Each pH unit is a factor of 10. How many units is 1000?",
+  "w": "1000 = 10<sup>3</sup>: 3 pH units below coffee's 5, so pH 2: <b>lemon juice</b>.",
+  "d": 2,
+  "k": 0,
+  "f": [
+   {
+    "type": "table",
+    "cap": "Typical pH values (real samples vary)",
+    "head": [
+     "Item",
+     "pH"
+    ],
+    "rows": [
+     [
+      "Lemon juice",
+      "2"
+     ],
+     [
+      "Cola",
+      "2.5"
+     ],
+     [
+      "Vinegar",
+      "3"
+     ],
+     [
+      "Black coffee",
+      "5"
+     ],
+     [
+      "Milk",
+      "6.5"
+     ],
+     [
+      "Baking soda in water",
+      "8.3"
+     ],
+     [
+      "Household ammonia",
+      "11.5"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c12-057",
+  "t": "ch12-ph",
+  "q": "Four solutions have pH 8.3, 2.5, 6.5, and 11.5. Which list puts them in order of <b>increasing acidity</b> (least acidic first)?",
+  "c": [
+   "11.5, 8.3, 6.5, 2.5",
+   "2.5, 6.5, 8.3, 11.5",
+   "6.5, 8.3, 2.5, 11.5",
+   "8.3, 11.5, 2.5, 6.5"
+  ],
+  "y": [
+   "Acidity increases as pH decreases, so the highest pH (least acidic) comes first.",
+   "This is decreasing acidity (most acidic first); lower pH means more acidic.",
+   "This order does not follow the pH values at all; sort by pH, highest first.",
+   "This is not sorted; least acidic means the highest pH."
+  ],
+  "h": "Lower pH = more acidic.",
+  "w": "Least acidic (highest pH) to most acidic: <b>11.5, 8.3, 6.5, 2.5</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-058",
+  "t": "ch12-ph",
+  "q": "Solution X has pH 3.0 and solution Y has pH 6.0. How does [H<sub>3</sub>O<sup>+</sup>] in X compare with Y?",
+  "c": [
+   "X has 1000 times the [H<sub>3</sub>O<sup>+</sup>] of Y.",
+   "X has 2 times the [H<sub>3</sub>O<sup>+</sup>] of Y.",
+   "X has 30 times the [H<sub>3</sub>O<sup>+</sup>] of Y.",
+   "Y has 1000 times the [H<sub>3</sub>O<sup>+</sup>] of X."
+  ],
+  "y": [
+   "Three pH units apart: 10 &times; 10 &times; 10 = 1000, and the lower pH (X) has more H<sub>3</sub>O<sup>+</sup>.",
+   "This divides the pH values (6.0 / 3.0); pH is logarithmic, so 3 units is a factor of 10<sup>3</sup>.",
+   "Each unit is a factor of 10, and factors multiply: 10 &times; 10 &times; 10 = 1000, not 10 &times; 3.",
+   "The factor is right, but the direction is reversed: the lower pH has more H<sub>3</sub>O<sup>+</sup>."
+  ],
+  "h": "Each pH unit is a tenfold change in [H<sub>3</sub>O<sup>+</sup>].",
+  "w": "10<sup>6.0 &minus; 3.0</sup> = 10<sup>3</sup>: <b>X has 1000 times</b> the [H<sub>3</sub>O<sup>+</sup>] of Y.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-059",
+  "t": "ch12-ph",
+  "q": "A patient's arterial blood gas shows pH 7.52. How is this described?",
+  "c": [
+   "Alkalosis (above the normal 7.35&ndash;7.45)",
+   "Acidosis (below the normal range)",
+   "Normal (within 7.35&ndash;7.45)",
+   "Neutral, because it is close to 7"
+  ],
+  "y": [
+   "Normal arterial pH is 7.35&ndash;7.45; 7.52 is above it, so the blood is too basic: alkalosis.",
+   "Acidosis is a pH <i>below</i> 7.35.",
+   "7.52 is outside the normal range, which ends at 7.45.",
+   "Blood is judged against its own normal range, 7.35&ndash;7.45, not against 7.00."
+  ],
+  "h": "Compare with the normal arterial range, 7.35&ndash;7.45.",
+  "w": "7.52 &gt; 7.45: <b>alkalosis</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c12-060",
+  "t": "ch12-ph",
+  "q": "By the next morning, after treatment has opened Mateo's airways, his arterial pH is 7.38. What is his [H<sub>3</sub>O<sup>+</sup>] now?",
+  "c": [
+   "4.2 &times; 10<sup>&minus;8</sup> M",
+   "2.4 &times; 10<sup>7</sup> M",
+   "4.17 &times; 10<sup>&minus;8</sup> M",
+   "2.4 &times; 10<sup>&minus;7</sup> M"
+  ],
+  "y": [
+   "[H<sub>3</sub>O<sup>+</sup>] = 10<sup>&minus;7.38</sup>; two decimal places give two significant figures. pH 7.38 is back inside 7.35&ndash;7.45.",
+   "This leaves out the minus sign: 10<sup>7.38</sup>.",
+   "The value is right, but a pH with 2 decimal places gives 2 significant figures, not 3.",
+   "This is 10<sup>&minus;(14 &minus; pH)</sup>, which is [OH<sup>&minus;</sup>]."
+  ],
+  "h": "[H<sub>3</sub>O<sup>+</sup>] = 10<sup>&minus;pH</sup>.",
+  "w": "10<sup>&minus;7.38</sup> = <b>4.2 &times; 10<sup>&minus;8</sup> M</b>, within the normal range.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c12-061",
+  "t": "ch12-ph",
+  "q": "A solution has [H<sub>3</sub>O<sup>+</sup>] = 6.10 &times; 10<sup>&minus;9</sup> M. Which pH is reported correctly?",
+  "c": [
+   "8.215",
+   "8.21",
+   "8.2147",
+   "8.2"
+  ],
+  "y": [
+   "6.10 has 3 significant figures, so the pH has 3 decimal places.",
+   "This gives the pH 3 significant figures in all; the digit before the decimal point comes from the power of 10 and does not count.",
+   "This keeps too many digits; 3 significant figures in the concentration allow 3 decimal places.",
+   "This keeps too few digits; the trailing zero in 6.10 is significant."
+  ],
+  "h": "Decimal places in pH = significant figures in the concentration.",
+  "w": "3 significant figures &rarr; 3 decimal places: pH = <b>8.215</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c12-062",
+  "t": "ch12-ph",
+  "q": "A 0.012 M HNO<sub>3</sub> solution is diluted tenfold, to 0.0012 M. What is the new pH?",
+  "c": [
+   "2.92",
+   "0.92",
+   "1.92",
+   "19.2"
+  ],
+  "y": [
+   "pH = &minus;log(0.0012); a tenfold dilution raises the pH of a strong acid by one unit, from 1.92.",
+   "This treats dilution as making the acid more concentrated; diluting lowers [H<sub>3</sub>O<sup>+</sup>] and raises the pH.",
+   "This is the pH before dilution; diluting a strong acid changes [H<sub>3</sub>O<sup>+</sup>].",
+   "This multiplies the pH by 10; a tenfold change in concentration changes the pH by 1."
+  ],
+  "h": "A factor of 10 in [H<sub>3</sub>O<sup>+</sup>] is one pH unit.",
+  "w": "&minus;log(0.0012) = <b>2.92</b>, one unit higher than 1.92.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c12-063",
+  "t": "ch12-buffers",
+  "q": "What is a buffer?",
+  "c": [
+   "A solution that resists changes in pH when small amounts of acid or base are added",
+   "A solution whose pH is exactly 7.00",
+   "A mixture of a strong acid and a strong base",
+   "A solution whose pH never changes, no matter how much acid is added"
+  ],
+  "y": [
+   "A buffer limits pH changes; blood stays at 7.35&ndash;7.45 largely because of buffers.",
+   "Buffers can hold a pH far from 7; an acetate buffer is acidic.",
+   "A strong acid and a strong base simply neutralize each other; neither part remains to absorb more.",
+   "A buffer has a limited capacity; add too much acid and the pH falls sharply."
+  ],
+  "h": "Think of what blood does when acid enters it.",
+  "w": "A buffer <b>resists pH change</b> when small amounts of acid or base are added.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c12-064",
+  "t": "ch12-buffers",
+  "q": "Which mixture is a buffer?",
+  "c": [
+   "HClO and NaClO",
+   "HClO<sub>4</sub> and NaClO<sub>4</sub>",
+   "HClO and NaCl",
+   "NaOH and NaClO"
+  ],
+  "y": [
+   "Hypochlorous acid, HClO, is a weak acid, and NaClO supplies ClO<sup>&minus;</sup>, its conjugate base.",
+   "HClO<sub>4</sub> (perchloric acid) is a strong acid, so its anion cannot take back a proton.",
+   "HClO is weak, but Cl<sup>&minus;</sup> is not its conjugate base (hypochlorite, ClO<sup>&minus;</sup>, is).",
+   "NaOH is a strong base, and there is no weak acid to neutralize added base."
+  ],
+  "h": "A weak acid plus a salt of its own conjugate base.",
+  "w": "HClO/ClO<sup>&minus;</sup> differ by one H<sup>+</sup>, and HClO is weak: <b>HClO and NaClO</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-065",
+  "t": "ch12-buffers",
+  "q": "Which mixture is <b>not</b> a buffer?",
+  "c": [
+   "HI and NaI",
+   "HF and KF",
+   "NH<sub>3</sub> and NH<sub>4</sub>Br",
+   "NaH<sub>2</sub>PO<sub>4</sub> and Na<sub>2</sub>HPO<sub>4</sub>"
+  ],
+  "y": [
+   "HI is a strong acid; it is fully ionized, and I<sup>&minus;</sup> cannot take back a proton.",
+   "HF is weak and F<sup>&minus;</sup> is its conjugate base: a buffer.",
+   "NH<sub>3</sub> is a weak base and NH<sub>4</sub><sup>+</sup> is its conjugate acid: a buffer.",
+   "H<sub>2</sub>PO<sub>4</sub><sup>&minus;</sup> and HPO<sub>4</sub><sup>2&minus;</sup> differ by one H<sup>+</sup>, and neither is strong: a buffer."
+  ],
+  "h": "Look for a strong acid or base: it cannot be part of a buffer.",
+  "w": "HI is on the strong-acid list: <b>HI and NaI</b> is not a buffer.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-066",
+  "t": "ch12-buffers",
+  "q": "A buffer contains HNO<sub>2</sub> and NaNO<sub>2</sub>. Which species reacts with a small amount of added H<sub>3</sub>O<sup>+</sup>?",
+  "c": [
+   "NO<sub>2</sub><sup>&minus;</sup>",
+   "HNO<sub>2</sub>",
+   "Na<sup>+</sup>",
+   "H<sub>2</sub>O"
+  ],
+  "y": [
+   "The conjugate base takes the proton: NO<sub>2</sub><sup>&minus;</sup>(aq) + H<sub>3</sub>O<sup>+</sup>(aq) &rarr; HNO<sub>2</sub>(aq) + H<sub>2</sub>O(l).",
+   "HNO<sub>2</sub> is the acid partner; it reacts with added base, not added acid.",
+   "Na<sup>+</sup> is a spectator ion; it does not accept protons.",
+   "Water alone cannot absorb added acid; that is why pure water's pH changes so much."
+  ],
+  "h": "Added acid is neutralized by the base partner.",
+  "w": "NO<sub>2</sub><sup>&minus;</sup>(aq) + H<sub>3</sub>O<sup>+</sup>(aq) &rarr; HNO<sub>2</sub>(aq) + H<sub>2</sub>O(l): <b>NO<sub>2</sub><sup>&minus;</sup></b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-067",
+  "t": "ch12-buffers",
+  "q": "A buffer contains HF and F<sup>&minus;</sup>. Which equation shows it neutralizing a small amount of added OH<sup>&minus;</sup>?",
+  "c": [
+   "HF(aq) + OH<sup>&minus;</sup>(aq) &rarr; F<sup>&minus;</sup>(aq) + H<sub>2</sub>O(l)",
+   "F<sup>&minus;</sup>(aq) + H<sub>3</sub>O<sup>+</sup>(aq) &rarr; HF(aq) + H<sub>2</sub>O(l)",
+   "H<sub>3</sub>O<sup>+</sup>(aq) + OH<sup>&minus;</sup>(aq) &rarr; 2 H<sub>2</sub>O(l)",
+   "HF(aq) + H<sub>2</sub>O(l) &rlarr; H<sub>3</sub>O<sup>+</sup>(aq) + F<sup>&minus;</sup>(aq)"
+  ],
+  "y": [
+   "The weak acid partner gives up its proton to the added hydroxide, making more F<sup>&minus;</sup>.",
+   "This is how the buffer handles added <i>acid</i>.",
+   "A buffer has very little H<sub>3</sub>O<sup>+</sup> on hand; the HF partner is what absorbs OH<sup>&minus;</sup>.",
+   "This is HF ionizing in water; it does not use up the added OH<sup>&minus;</sup>."
+  ],
+  "h": "Added base is neutralized by the acid partner.",
+  "w": "<b>HF(aq) + OH<sup>&minus;</sup>(aq) &rarr; F<sup>&minus;</sup>(aq) + H<sub>2</sub>O(l)</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-068",
+  "t": "ch12-buffers",
+  "q": "Which pair makes up the main buffer in blood?",
+  "c": [
+   "H<sub>2</sub>CO<sub>3</sub> and HCO<sub>3</sub><sup>&minus;</sup>",
+   "HCl and Cl<sup>&minus;</sup>",
+   "H<sub>2</sub>CO<sub>3</sub> and CO<sub>3</sub><sup>2&minus;</sup>",
+   "NaOH and Na<sup>+</sup>"
+  ],
+  "y": [
+   "Carbonic acid (weak) and bicarbonate (its conjugate base) are the bicarbonate buffer.",
+   "Stomach acid is HCl, but a strong acid cannot buffer, and it is not the blood's buffer.",
+   "These differ by two H<sup>+</sup>; a buffer pair differs by one.",
+   "NaOH is a strong base, and Na<sup>+</sup> does not react with acids or bases."
+  ],
+  "h": "Blood's buffer links carbon dioxide to H<sup>+</sup>.",
+  "w": "<b>H<sub>2</sub>CO<sub>3</sub>/HCO<sub>3</sub><sup>&minus;</sup></b>, the bicarbonate buffer.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c12-069",
+  "t": "ch12-buffers",
+  "q": "The body can adjust both partners of the bicarbonate buffer. Which organ controls the blood's HCO<sub>3</sub><sup>&minus;</sup> level, and how fast?",
+  "c": [
+   "The kidneys, over hours to days",
+   "The lungs, within minutes",
+   "The kidneys, within seconds",
+   "The stomach, by secreting HCl"
+  ],
+  "y": [
+   "The kidneys keep or excrete bicarbonate (and excrete acid in urine), a slow adjustment over hours to days.",
+   "The lungs control CO<sub>2</sub> (and so H<sub>2</sub>CO<sub>3</sub>) within minutes; bicarbonate is the kidneys' job.",
+   "The organ is right, but the kidneys act slowly, over hours to days.",
+   "Stomach acid does not set blood bicarbonate; the kidneys do."
+  ],
+  "h": "Lungs handle CO<sub>2</sub>; which organ handles bicarbonate?",
+  "w": "<b>The kidneys</b>, over hours to days (the lungs adjust CO<sub>2</sub> in minutes).",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-070",
+  "t": "ch12-buffers",
+  "q": "In the blood, CO<sub>2</sub> + H<sub>2</sub>O &rlarr; H<sub>2</sub>CO<sub>3</sub> &rlarr; H<sup>+</sup> + HCO<sub>3</sub><sup>&minus;</sup>. Which change, by itself, <b>lowers</b> blood pH?",
+  "c": [
+   "A rise in blood CO<sub>2</sub>",
+   "A drop in blood CO<sub>2</sub>",
+   "Faster, deeper breathing",
+   "The kidneys keeping more HCO<sub>3</sub><sup>&minus;</sup>"
+  ],
+  "y": [
+   "More CO<sub>2</sub> makes more H<sub>2</sub>CO<sub>3</sub>, which releases more H<sup>+</sup>, so [H<sub>3</sub>O<sup>+</sup>] rises and the pH falls.",
+   "Less CO<sub>2</sub> means less carbonic acid and less H<sup>+</sup>, so the pH rises.",
+   "Faster breathing blows off CO<sub>2</sub>, which removes acid and raises the pH.",
+   "Bicarbonate is the base partner; more of it neutralizes acid and raises the pH."
+  ],
+  "h": "More CO<sub>2</sub> means more of which acid?",
+  "w": "CO<sub>2</sub> up, then H<sub>2</sub>CO<sub>3</sub> up, then H<sup>+</sup> up: <b>a rise in blood CO<sub>2</sub></b> lowers the pH.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-071",
+  "t": "ch12-buffers",
+  "q": "A hiker who climbs quickly to high altitude breathes faster and deeper than usual and blows off extra CO<sub>2</sub>. What happens to the blood pH?",
+  "c": [
+   "It rises, because less H<sub>2</sub>CO<sub>3</sub> forms and less H<sup>+</sup> is released (respiratory alkalosis).",
+   "It falls, because the buffer runs out of bicarbonate (respiratory acidosis).",
+   "It falls, because removing CO<sub>2</sub> releases more H<sup>+</sup>.",
+   "It does not change, because the buffer keeps the pH exactly constant."
+  ],
+  "y": [
+   "Less CO<sub>2</sub> means less carbonic acid and fewer H<sup>+</sup>, so [H<sub>3</sub>O<sup>+</sup>] falls and the pH rises.",
+   "Blowing off CO<sub>2</sub> removes acid; it does not use up bicarbonate.",
+   "This is reversed: less CO<sub>2</sub> means less acid.",
+   "A buffer limits pH change, but changing CO<sub>2</sub> changes the buffer's own acid partner."
+  ],
+  "h": "Less CO<sub>2</sub> means less of which acid?",
+  "w": "CO<sub>2</sub> down &rarr; H<sub>2</sub>CO<sub>3</sub> down &rarr; H<sup>+</sup> down: <b>pH rises (respiratory alkalosis)</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c12-072",
+  "t": "ch12-buffers",
+  "q": "A buffer is made with 0.10 mol of a weak acid, HA, and 0.10 mol of its conjugate base, A<sup>&minus;</sup>. Then 0.20 mol of HCl is added. What happens?",
+  "c": [
+   "The A<sup>&minus;</sup> is used up after 0.10 mol of HCl, and the extra acid makes the pH drop sharply.",
+   "The pH stays nearly constant, because buffers absorb any amount of acid.",
+   "The HA neutralizes the added HCl, so the pH rises.",
+   "The pH stays nearly constant, because HCl is a weak acid in a buffer."
+  ],
+  "y": [
+   "Only 0.10 mol of A<sup>&minus;</sup> can react with H<sup>+</sup>; the remaining 0.10 mol of HCl is past the buffer's capacity.",
+   "A buffer has a limited capacity, set by how much of each partner it contains.",
+   "HA is the acid partner; it reacts with added base, not added acid.",
+   "HCl is a strong acid in any solution."
+  ],
+  "h": "Compare the moles of HCl with the moles of A<sup>&minus;</sup>.",
+  "w": "0.20 mol HCl &gt; 0.10 mol A<sup>&minus;</sup>: the <b>capacity is exceeded, and the pH drops sharply</b>.",
+  "d": 3,
+  "k": 0
+ }
+]
