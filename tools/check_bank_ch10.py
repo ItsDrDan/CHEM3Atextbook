@@ -259,6 +259,7 @@ calc('flask to 18.6 torr', ['18.6'], {0: lambda m: U(g('18.6') / MMHG, 3, 'atm')
 calc('as 101.9 kPa', ['101.9'], {0: lambda m: U(g('101.9') * MMHG / KPA, 4, 'mmHg'), 1: lambda m: U(g('101.9') * MMHG, 4, 'mmHg'), 2: lambda m: U(g('101.9') / MMHG, 4, 'mmHg'), 3: lambda m: U(g('101.9') * KPA / MMHG, 4, 'mmHg')})
 calc('runs at 2.85 atm', ['2.85'], {0: lambda m: U(g('2.85') * MMHG, 3, 'mmHg'), 1: lambda m: U(g('2.85') / MMHG, 3, 'mmHg'), 2: lambda m: U(g('2.85') * KPA, 3, 'mmHg'), 3: lambda m: U(g('2.85') * PSI, 3, 'mmHg')})
 calc('inflated to 34.5 psi', ['34.5'], {0: lambda m: U(g('34.5') / PSI * KPA, 3, 'kPa'), 1: lambda m: U(g('34.5') * PSI * KPA, 3, 'kPa'), 2: lambda m: U(g('34.5') * PSI / KPA, 3, 'kPa'), 3: lambda m: U(g('34.5') * KPA, 3, 'kPa')})
+calc('systolic value, 124 mmHg', ['124'], {0: lambda m: U(g(124) / MMHG, 3, 'atm'), 1: lambda m: U(g(124) * MMHG, 3, 'atm'), 2: lambda m: U(g(124) / KPA, 3, 'atm'), 3: lambda m: U(g(124) / PSI, 3, 'atm')})
 calc('is 95.5 mmHg', ['95.5'], {0: lambda m: U(g('95.5') / MMHG, 3, 'atm'), 1: lambda m: U(g('95.5') * MMHG, 3, 'atm'), 2: lambda m: U(g('95.5') / KPA, 3, 'atm'), 3: lambda m: U(g('95.5') / PSI, 3, 'atm')})
 calc('pressurized to 78.5 kPa', ['78.5'], {0: lambda m: U(g('78.5') / KPA, 3, 'atm'), 1: lambda m: U(g('78.5') * KPA, 3, 'atm'), 2: lambda m: U(g('78.5') / MMHG, 3, 'atm'), 3: lambda m: U(g('78.5') / PA, 3, 'atm')})
 

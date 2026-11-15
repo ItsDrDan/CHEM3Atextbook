@@ -303,17 +303,15 @@ def build():
       "101.325 kPa = 760 mmHg.",
       "%s kPa &times; (760 mmHg / 101.325 kPa) = <b>%s</b>." % (P, S(v, 4, 'mmHg')), 2, 1)
 
-    Q(T, "A blood pressure reading is 124/82 mmHg. What does the 124 mmHg mean?",
-      ["The pressure in the arteries is 124 mmHg above atmospheric pressure.",
-       "The total pressure in the arteries is 124 mmHg, much less than air pressure.",
-       "The blood pressure is 124 atm.",
-       "The pressure in the arteries is 124 mmHg below atmospheric pressure."],
-      ["Blood pressure is a gauge pressure, measured relative to the surrounding air. The absolute pressure is about 760 + 124 mmHg.",
-       "If the pressure in the arteries were below air pressure, air would push the vessels closed. The reading is relative to air pressure.",
-       "The unit is millimeters of mercury, not atmospheres; 124 mmHg is about 0.163 atm above air pressure.",
-       "Arterial pressure is higher than atmospheric pressure, which is why blood spurts from a cut artery."],
-      "Is a blood pressure cuff measuring the total pressure or the pressure above the surrounding air?",
-      "Blood pressure is a gauge pressure: <b>124 mmHg above atmospheric pressure</b>.", 2)
+    P = '124'; v = D(P) / ATM_MM
+    Q(T, "A patient's blood pressure is recorded as 124/82 mmHg. Express the systolic value, 124 mmHg, in atmospheres.",
+      [S(v, 3, 'atm'), S(D(P) * ATM_MM, 3, 'atm'), S(D(P) / D('101.325'), 3, 'atm'), S(D(P) / D('14.7'), 3, 'atm')],
+      ["124 mmHg &times; (1 atm / 760 mmHg).",
+       "This multiplies by 760; going from mmHg to atm, divide by 760.",
+       "This uses 101.325, the number of kPa in 1 atm, not mmHg.",
+       "This uses 14.7, the number of psi in 1 atm, not mmHg."],
+      "Put 760 mmHg on the bottom so mmHg cancels.",
+      "124 mmHg &times; (1 atm / 760 mmHg) = <b>%s</b>." % S(v, 3, 'atm'), 1, 1)
 
     # ======================= ch10-laws (15) =======================
     T = 'ch10-laws'
