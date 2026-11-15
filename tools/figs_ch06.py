@@ -158,3 +158,39 @@ for i,(f,l) in enumerate(steps):
 o+=T(235,y+6,'Example: 40.0% C, 6.71% H, 53.3% O → CH'+sub('2')+'O; molar mass 180 → C'+sub('6')+'H'+sub('12')+'O'+sub('6'),12,weight='700')
 svg('empirical_flow.svg',470,y+18,o,'Steps for finding an empirical formula, stacked with arrows: 1, grams of each element (from percent composition, assume 100 grams); 2, moles of each element (divide by atomic mass); 3, divide by the smallest number of moles; 4, whole-number subscripts (multiply by 2 or 3 if you see .5 or .33); 5, molecular formula, if needed: multiply by n, where n equals molar mass divided by empirical formula mass. Example: 40.0 percent C, 6.71 percent H, 53.3 percent O gives CH2O; with a molar mass of 180, the molecular formula is C6H12O6.')
 print('ok')
+
+# 6. Lewis steps for CH2O
+o=T(235,22,'Drawing the Lewis structure of CH'+sub('2')+'O (formaldehyde)',15,weight='800')
+panels=[('Step 1. Skeleton: C in the center','(H is never central)'),('Step 2. Count: 4 + 2(1) + 6 = 12 e⁻',''),('Step 3. Single bonds, then lone pairs','6 e⁻ in bonds; 6 left go on O'),('Step 4. C has only 6 e⁻: share a','lone pair from O → C=O double bond')]
+for i,(t1,t2) in enumerate(panels):
+    Y=40+i*112
+    o+=f'<rect x="14" y="{Y}" width="442" height="104" rx="10" fill="#f8fafc" stroke="#c9d3dc" stroke-width="1.3"/>'
+    o+=T(28,Y+24,t1,13,anchor='start',weight='800')+(T(28,Y+42,t2,12,anchor='start',weight='600') if t2 else '')
+    cx,cy=330,Y+58
+    at={'C':(cx,cy,'C'),'O':(cx,cy-36,'O'),'H1':(cx-40,cy+22,'H'),'H2':(cx+40,cy+22,'H')}
+    if i==0: o+=lewis(at,[],{})
+    if i==1: o+=lewis(at,[],{})+T(28,Y+64,'C 4, H 1 each, O 6',12,anchor='start',weight='600')
+    if i==2: o+=lewis(at,[('C','O',1),('C','H1',1),('C','H2',1)],{'O':[0,90,180]})
+    if i==3: o+=lewis(at,[('C','O',2),('C','H1',1),('C','H2',1)],{'O':[0,180]})+T(28,Y+66,'Check: C 8, O 8, H 2 each;',12,anchor='start',weight='600')+T(28,Y+82,'12 e⁻ used.',12,anchor='start',weight='600')
+svg('lewis_steps.svg',470,40+4*112+6,o,'Four steps for drawing the Lewis structure of formaldehyde, CH2O. Step 1, skeleton: carbon in the center with O above and two H atoms below; hydrogen is never central. Step 2, count valence electrons: 4 from C, 1 from each H, 6 from O, total 12. Step 3, connect atoms with single bonds (6 electrons) and place the remaining 6 electrons as three lone pairs on O; carbon now has only 6 electrons. Step 4, move one lone pair from O to make a C=O double bond; check: C has 8 electrons, O has 8, each H has 2, and all 12 electrons are used.')
+
+# 7. More Lewis structures: CH3OH, C2H4, NH4+, CN-
+o=T(235,22,'More Lewis structures',16,weight='800')
+cx,cy=120,92
+o+=lewis({'C':(cx-30,cy,'C'),'O':(cx+18,cy,'O'),'Hx':(cx+58,cy,'H'),'Ha':(cx-74,cy,'H'),'Hb':(cx-30,cy-40,'H'),'Hc':(cx-30,cy+40,'H')},[('C','O',1),('O','Hx',1),('C','Ha',1),('C','Hb',1),('C','Hc',1)],{'O':[90,270]})
+o+=T(cx,cy+68,'CH'+sub('3')+'OH, methanol',13,weight='700')
+cx=355
+o+=lewis({'C1':(cx-22,cy,'C'),'C2':(cx+22,cy,'C'),'H1':(cx-56,cy-28,'H'),'H2':(cx-56,cy+28,'H'),'H3':(cx+56,cy-28,'H'),'H4':(cx+56,cy+28,'H')},[('C1','C2',2),('C1','H1',1),('C1','H2',1),('C2','H3',1),('C2','H4',1)],{})
+o+=T(cx,cy+68,'C'+sub('2')+'H'+sub('4')+', ethylene (ripens fruit)',13,weight='700')
+cy=250; cx=120
+o+=lewis({'N':(cx,cy,'N'),'H1':(cx-42,cy,'H'),'H2':(cx+42,cy,'H'),'H3':(cx,cy-40,'H'),'H4':(cx,cy+40,'H')},[('N','H1',1),('N','H2',1),('N','H3',1),('N','H4',1)],{})
+o+=f'<path d="M{cx-62} {cy-52} h-8 v104 h8 M{cx+62} {cy-52} h8 v104 h-8" stroke="{INK}" stroke-width="2" fill="none"/>'+T(cx+80,cy-48,'+',18,weight='800')
+o+=T(cx,cy+74,'NH'+sub('4')+sup('+')+': 5 + 4 − 1 = 8 e⁻',13,weight='700')
+cx=355
+o+=lewis({'C':(cx-22,cy,'C'),'N':(cx+22,cy,'N')},[('C','N',3)],{'C':[180],'N':[0]})
+o+=f'<path d="M{cx-56} {cy-24} h-8 v48 h8 M{cx+56} {cy-24} h8 v48 h-8" stroke="{INK}" stroke-width="2" fill="none"/>'+T(cx+74,cy-20,'−',18,weight='800')
+o+=T(cx,cy+74,'CN'+sup('−')+': 4 + 5 + 1 = 10 e⁻',13,weight='700')
+o+=T(235,352,'Ions go in square brackets with the charge outside.',13,weight='600')
+o+=T(235,370,'Add one electron per negative charge; subtract one per positive charge.',13,weight='600')
+svg('lewis_more.svg',470,382,o,'Four more Lewis structures. Methanol, CH3OH: a carbon bonded to three H atoms and to O; O bonded to H, with two lone pairs on O. Ethylene, C2H4: two carbon atoms joined by a double bond, each also bonded to two H atoms. Ammonium ion, NH4+: N bonded to four H atoms, no lone pairs, in square brackets with a + charge; electron count 5 + 4 - 1 = 8. Cyanide ion, CN-: C triple-bonded to N, one lone pair on each atom, in square brackets with a - charge; electron count 4 + 5 + 1 = 10. Ions go in square brackets with the charge outside; add one electron per negative charge and subtract one per positive charge.')
+print('ok2')
