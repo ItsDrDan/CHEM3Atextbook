@@ -1,0 +1,842 @@
+[
+ {
+  "id": "c5-h01",
+  "t": "ch05-mole",
+  "q": "An adult human body has roughly 3.7 &times; 10<sup>13</sup> cells. How many <b>moles</b> of cells is that?",
+  "c": [
+   "6.1 &times; 10<sup>&minus;11</sup> mol",
+   "2.2 &times; 10<sup>37</sup> mol",
+   "1.6 &times; 10<sup>10</sup> mol",
+   "3.7 &times; 10<sup>13</sup> mol"
+  ],
+  "y": [
+   "Correct: 3.7 &times; 10<sup>13</sup> &divide; 6.0221 &times; 10<sup>23</sup> per mol. Even every cell in your body is a tiny fraction of a mole, which is why cells are counted directly.",
+   "This multiplies by Avogadro's number. Particles to moles means dividing.",
+   "This divides Avogadro's number by the count, which is upside down.",
+   "This treats the count of cells as if it were already in moles. A count must be divided by Avogadro's number."
+  ],
+  "h": "Particles to moles: divide by Avogadro's number. 3.7 has 2 significant figures.",
+  "w": "3.7 &times; 10<sup>13</sup> cells &times; (1 mol / 6.0221 &times; 10<sup>23</sup> cells) = <b>6.1 &times; 10<sup>&minus;11</sup> mol</b> of cells.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c5-h02",
+  "t": "ch05-mole",
+  "q": "A zinc lozenge contains about 2.85 &times; 10<sup>&minus;4</sup> mol of zinc. How many zinc atoms is that?",
+  "c": [
+   "1.72 &times; 10<sup>20</sup> Zn atoms",
+   "4.73 &times; 10<sup>&minus;28</sup> Zn atoms",
+   "2.11 &times; 10<sup>27</sup> Zn atoms",
+   "0.0186 g Zn"
+  ],
+  "y": [
+   "Correct: 2.85 &times; 10<sup>&minus;4</sup> mol &times; 6.0221 &times; 10<sup>23</sup> atoms/mol; mol cancels.",
+   "This divides by Avogadro's number; moles to particles means multiplying.",
+   "This divides Avogadro's number by the moles, which leaves mol in the units.",
+   "This multiplies by zinc's molar mass (65.39 g/mol) and gives grams, not atoms."
+  ],
+  "h": "Moles to particles: multiply by Avogadro's number.",
+  "w": "2.85 &times; 10<sup>&minus;4</sup> mol Zn &times; (6.0221 &times; 10<sup>23</sup> Zn atoms / 1 mol Zn) = <b>1.72 &times; 10<sup>20</sup> Zn atoms</b>.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c5-h03",
+  "t": "ch05-mole",
+  "q": "Magnesium chloride, MgCl<sub>2</sub>, is ionic. Which phrase correctly names what is counted in 1 mol of MgCl<sub>2</sub>?",
+  "c": [
+   "6.0221 &times; 10<sup>23</sup> MgCl<sub>2</sub> formula units",
+   "6.0221 &times; 10<sup>23</sup> MgCl<sub>2</sub> molecules",
+   "6.0221 &times; 10<sup>23</sup> Mg atoms and Cl<sub>2</sub> molecules",
+   "6.0221 &times; 10<sup>23</sup> ions in total"
+  ],
+  "y": [
+   "Correct: Ionic compounds are counted in formula units: one Mg<sup>2+</sup> and two Cl<sup>&minus;</sup> per unit.",
+   "Ionic compounds do not form molecules.",
+   "Magnesium and chlorine are present as ions, not as Mg atoms and Cl<sub>2</sub> molecules.",
+   "Each formula unit holds 3 ions, so 1 mol of MgCl<sub>2</sub> contains 3 mol of ions, not 1 mol."
+  ],
+  "h": "What is the smallest repeating unit of an ionic compound?",
+  "w": "1 mol MgCl<sub>2</sub> = 6.0221 &times; 10<sup>23</sup> <b>formula units</b> (which release 3 mol of ions when dissolved).",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c5-h04",
+  "t": "ch05-mole",
+  "q": "Air is mostly nitrogen. How many N<sub>2</sub> molecules are in 3.25 mol of N<sub>2</sub>?",
+  "c": [
+   "1.96 &times; 10<sup>24</sup> N<sub>2</sub> molecules",
+   "5.40 &times; 10<sup>&minus;24</sup> N<sub>2</sub> molecules",
+   "1.85 &times; 10<sup>23</sup> N<sub>2</sub> molecules",
+   "3.91 &times; 10<sup>24</sup> N<sub>2</sub> molecules"
+  ],
+  "y": [
+   "Correct: 3.25 mol &times; 6.0221 &times; 10<sup>23</sup> molecules/mol.",
+   "This divides by Avogadro's number. A particle count must be huge.",
+   "This divides Avogadro's number by the moles; the units do not cancel.",
+   "This doubles the count for the two atoms in N<sub>2</sub>, which would be N <i>atoms</i>. The question asks for molecules."
+  ],
+  "h": "The particle here is the N<sub>2</sub> molecule.",
+  "w": "3.25 mol N<sub>2</sub> &times; 6.0221 &times; 10<sup>23</sup> molecules/mol = <b>1.96 &times; 10<sup>24</sup> N<sub>2</sub> molecules</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c5-h05",
+  "t": "ch05-mole",
+  "q": "An air-quality sensor sample contains 8.43 &times; 10<sup>21</sup> molecules of carbon monoxide, CO. How many moles of CO is that?",
+  "c": [
+   "0.0140 mol",
+   "5.08 &times; 10<sup>45</sup> mol",
+   "71.4 mol",
+   "0.392 g"
+  ],
+  "y": [
+   "Correct: 8.43 &times; 10<sup>21</sup> &divide; 6.0221 &times; 10<sup>23</sup> per mol.",
+   "This multiplies by Avogadro's number. Particles to moles means dividing.",
+   "This divides Avogadro's number by the count, which is upside down.",
+   "This goes one step further, to grams (&times; 28.010 g/mol). The question asks for moles."
+  ],
+  "h": "Compare 10<sup>21</sup> with 10<sup>23</sup>: more or less than one mole?",
+  "w": "8.43 &times; 10<sup>21</sup> molecules &times; (1 mol / 6.0221 &times; 10<sup>23</sup> molecules) = <b>0.0140 mol</b> CO.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c5-h06",
+  "t": "ch05-mole",
+  "q": "A student converts 5.8 &times; 10<sup>23</sup> atoms to moles and gets 3.5 &times; 10<sup>47</sup> mol. What went wrong?",
+  "c": [
+   "The student multiplied by Avogadro's number instead of dividing.",
+   "The student forgot to multiply by the molar mass.",
+   "The student used the atomic number instead of Avogadro's number.",
+   "Nothing; a large number of atoms gives a large number of moles."
+  ],
+  "y": [
+   "Correct: 5.8 &times; 10<sup>23</sup> &times; 6.0221 &times; 10<sup>23</sup> = 3.5 &times; 10<sup>47</sup>. Dividing gives 0.96 mol.",
+   "Molar mass is not needed to go from atoms to moles; only Avogadro's number is.",
+   "An atomic number would not produce a factor of 10<sup>23</sup>.",
+   "Moles in a sample are usually about 0.001 to 10. 10<sup>47</sup> mol would outweigh the Earth many times over."
+  ],
+  "h": "Use the sanity check: is the number of moles reasonable for a sample?",
+  "w": "3.5 &times; 10<sup>47</sup> = 5.8 &times; 10<sup>23</sup> &times; N<sub>A</sub>: <b>the student multiplied instead of dividing</b>. Correct: 5.8 &times; 10<sup>23</sup> &divide; 6.0221 &times; 10<sup>23</sup> = 0.96 mol.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c5-h07",
+  "t": "ch05-mole",
+  "q": "Which of these samples holds the <b>most atoms in total</b>?",
+  "c": [
+   "0.50 mol of C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+   "1.5 mol of CO<sub>2</sub>",
+   "1.0 mol of NH<sub>3</sub>",
+   "2.0 mol of He"
+  ],
+  "y": [
+   "Correct: 0.50 mol &times; 24 atoms per molecule = 12 mol of atoms, the most here.",
+   "1.5 mol &times; 3 atoms = 4.5 mol of atoms.",
+   "1.0 mol &times; 4 atoms = 4.0 mol of atoms.",
+   "Helium is single atoms: 2.0 mol of atoms."
+  ],
+  "h": "Multiply the moles of each substance by the atoms in one of its particles.",
+  "w": "Moles of atoms: glucose 0.50 &times; 24 = 12; CO<sub>2</sub> 4.5; NH<sub>3</sub> 4.0; He 2.0. <b>0.50 mol of glucose</b> wins, even though it has the fewest moles of molecules.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c5-h08",
+  "t": "ch05-mole",
+  "q": "How many copper atoms are in 0.660 mol of copper wire?",
+  "c": [
+   "3.97 &times; 10<sup>23</sup> Cu atoms",
+   "1.10 &times; 10<sup>&minus;24</sup> Cu atoms",
+   "9.12 &times; 10<sup>23</sup> Cu atoms",
+   "41.9 g Cu"
+  ],
+  "y": [
+   "Correct: 0.660 mol &times; 6.0221 &times; 10<sup>23</sup> atoms/mol.",
+   "This divides by Avogadro's number; moles to particles means multiplying.",
+   "This divides Avogadro's number by the moles, which is upside down.",
+   "This uses copper's molar mass (63.55 g/mol) and gives grams, not atoms."
+  ],
+  "h": "Which factor turns moles into atoms?",
+  "w": "0.660 mol Cu &times; 6.0221 &times; 10<sup>23</sup> atoms/mol = <b>3.97 &times; 10<sup>23</sup> Cu atoms</b>.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c5-h09",
+  "t": "ch05-mole",
+  "q": "A sample of seawater contains 3.6 &times; 10<sup>22</sup> chloride ions. How many moles of Cl<sup>&minus;</sup> is that?",
+  "c": [
+   "0.060 mol",
+   "2.2 &times; 10<sup>46</sup> mol",
+   "17 mol",
+   "2.1 g"
+  ],
+  "y": [
+   "Correct: 3.6 &times; 10<sup>22</sup> &divide; 6.0221 &times; 10<sup>23</sup> per mol, to 2 significant figures like 3.6.",
+   "This multiplies by Avogadro's number. Particles to moles means dividing.",
+   "This divides Avogadro's number by the number of ions.",
+   "This goes on to grams with 35.45 g/mol. The question asks for moles."
+  ],
+  "h": "Ions are particles too; divide by Avogadro's number.",
+  "w": "3.6 &times; 10<sup>22</sup> ions &divide; 6.0221 &times; 10<sup>23</sup> ions/mol = <b>0.060 mol</b> Cl<sup>&minus;</sup>. The trailing zero is significant.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c5-h10",
+  "t": "ch05-mole",
+  "q": "How do 1 mol of O<sub>2</sub> molecules and 1 mol of O atoms compare?",
+  "c": [
+   "The O<sub>2</sub> sample has twice as many O atoms (2 mol) and twice the mass (31.998 g vs 15.999 g).",
+   "They are identical, because both are 1 mol of oxygen.",
+   "The O atom sample has more atoms, because atoms are smaller than molecules.",
+   "They have the same mass but different numbers of atoms."
+  ],
+  "y": [
+   "Correct: Both have 6.0221 &times; 10<sup>23</sup> particles, but each O<sub>2</sub> particle holds 2 atoms.",
+   "&ldquo;1 mol of oxygen&rdquo; is ambiguous; always say which particle. The two samples differ.",
+   "Both samples have the same number of particles; size does not change the count.",
+   "The O<sub>2</sub> sample is heavier: 31.998 g versus 15.999 g."
+  ],
+  "h": "Same number of particles; how many atoms are in each particle?",
+  "w": "<b>1 mol O<sub>2</sub> = 2 mol O atoms = 31.998 g; 1 mol O atoms = 15.999 g.</b> Always name the particle.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c5-h11",
+  "t": "ch05-molarmass",
+  "q": "Ozone, O<sub>3</sub>, is a summer air-quality concern in the San Joaquin Valley. What is the molar mass of ozone? (O 15.999)",
+  "c": [
+   "47.997 g/mol",
+   "15.999 g/mol",
+   "24 g/mol",
+   "31.998 g/mol"
+  ],
+  "y": [
+   "Correct: 3(15.999) = 47.997 g/mol.",
+   "This is one O atom. Ozone has three.",
+   "This uses oxygen's atomic number (3 &times; 8). Use the atomic mass.",
+   "This is the molar mass of ordinary oxygen gas, O<sub>2</sub>. Ozone has three O atoms."
+  ],
+  "h": "Count the O atoms in one ozone molecule.",
+  "w": "O<sub>3</sub>: 3(15.999) = <b>47.997 g/mol</b>.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c5-h12",
+  "t": "ch05-molarmass",
+  "q": "Dairies in the Valley are a major source of methane, CH<sub>4</sub>. What is the molar mass of methane? (C 12.011, H 1.008)",
+  "c": [
+   "16.043 g/mol",
+   "13.019 g/mol",
+   "10 g/mol",
+   "52.076 g/mol"
+  ],
+  "y": [
+   "Correct: 12.011 + 4(1.008) = 16.043 g/mol.",
+   "This counts only one H atom; the subscript is 4.",
+   "This adds atomic numbers (6 + 4). Use atomic masses.",
+   "This multiplies carbon by 4 as well. The 4 belongs to H only."
+  ],
+  "h": "The subscript belongs to the atom just before it.",
+  "w": "CH<sub>4</sub>: 12.011 + 4(1.008) = 16.043 g/mol. So the molar mass is <b>16.043 g/mol</b>.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c5-h13",
+  "t": "ch05-molarmass",
+  "q": "Calcium hydroxide, Ca(OH)<sub>2</sub>, is used as a liner under dental fillings. What is its molar mass? (Ca 40.08, O 15.999, H 1.008)",
+  "c": [
+   "74.09 g/mol",
+   "57.09 g/mol",
+   "58.10 g/mol",
+   "74.094 g/mol"
+  ],
+  "y": [
+   "Correct: 40.08 + 2(15.999) + 2(1.008) = 74.094, rounded to 2 decimal places = 74.09 g/mol.",
+   "This leaves out the 2 after the parentheses; there are two hydroxide ions.",
+   "This applies the 2 only to H. The subscript after the parentheses multiplies O and H.",
+   "The sum is right but not rounded; Ca (40.08) has only 2 decimal places."
+  ],
+  "h": "Multiply everything inside the parentheses by 2, then use the addition rule.",
+  "w": "Ca(OH)<sub>2</sub>: 40.08 + 2(15.999) + 2(1.008) = 74.094 &rarr; 74.09 g/mol. So the molar mass is <b>74.09 g/mol</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c5-h14",
+  "t": "ch05-molarmass",
+  "q": "Ammonium phosphate, (NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub>, supplies both nitrogen and phosphorus to crops. What is its molar mass? (N 14.007, H 1.008, P 30.97, O 15.999)",
+  "c": [
+   "149.08 g/mol",
+   "113.01 g/mol",
+   "141.02 g/mol",
+   "149.083 g/mol"
+  ],
+  "y": [
+   "Correct: 3 N, 12 H, 1 P, 4 O: 42.021 + 12.096 + 30.97 + 63.996 = 149.083 &rarr; 149.08 g/mol.",
+   "This ignores the 3 after the parentheses.",
+   "This triples N but not H; there are 3 &times; 4 = 12 H atoms.",
+   "The sum is right but must be rounded to 2 decimal places (P has 2)."
+  ],
+  "h": "How many H atoms are in (NH<sub>4</sub>)<sub>3</sub>?",
+  "w": "(NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub>: 3(14.007) + 12(1.008) + 30.97 + 4(15.999) = 149.083 &rarr; 149.08 g/mol. So the molar mass is <b>149.08 g/mol</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c5-h15",
+  "t": "ch05-molarmass",
+  "q": "Washing soda is sodium carbonate decahydrate, Na<sub>2</sub>CO<sub>3</sub>&middot;10H<sub>2</sub>O. What is its molar mass? (Na 22.99, C 12.011, O 15.999, H 1.008)",
+  "c": [
+   "286.14 g/mol",
+   "105.99 g/mol",
+   "124.00 g/mol",
+   "1240.03 g/mol"
+  ],
+  "y": [
+   "Correct: Na<sub>2</sub>CO<sub>3</sub> (105.988) + 10(18.015) = 105.988 + 180.150 = 286.138 &rarr; 286.14 g/mol.",
+   "This is the anhydrous salt; the ten waters are part of the hydrate's formula.",
+   "This adds only one water instead of ten.",
+   "This treats the dot as &ldquo;times&rdquo; and multiplies the whole formula by 10."
+  ],
+  "h": "The dot means &ldquo;plus&rdquo;: add ten waters.",
+  "w": "Na<sub>2</sub>CO<sub>3</sub>&middot;10H<sub>2</sub>O: 105.988 + 10(18.015) = 286.138 &rarr; <b>286.14 g/mol</b> (2 decimal places, from Na).",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c5-h16",
+  "t": "ch05-molarmass",
+  "q": "Aluminum hydroxide, Al(OH)<sub>3</sub>, is an antacid ingredient. What is its molar mass? (Al 26.98, O 15.999, H 1.008)",
+  "c": [
+   "78.00 g/mol",
+   "46.00 g/mol",
+   "75.99 g/mol",
+   "78.001 g/mol"
+  ],
+  "y": [
+   "Correct: 26.98 + 3(15.999) + 3(1.008) = 78.001 &rarr; 78.00 g/mol (2 decimal places, from Al).",
+   "This applies the 3 only to H.",
+   "This applies the 3 only to O.",
+   "The sum is right but must be rounded to 2 decimal places; the trailing zero in 78.00 is significant."
+  ],
+  "h": "The 3 after the parentheses multiplies both O and H.",
+  "w": "Al(OH)<sub>3</sub>: 26.98 + 3(15.999) + 3(1.008) = 78.001 &rarr; 78.00 g/mol. So the molar mass is <b>78.00 g/mol</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c5-h17",
+  "t": "ch05-molarmass",
+  "q": "Aluminum sulfate octadecahydrate, Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&middot;18H<sub>2</sub>O, is used to clear drinking water. What is its molar mass? (Al 26.98, S 32.06, O 15.999, H 1.008)",
+  "c": [
+   "666.40 g/mol",
+   "342.13 g/mol",
+   "360.14 g/mol",
+   "474.29 g/mol"
+  ],
+  "y": [
+   "Correct: Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> = 342.128; 18(18.015) = 324.270; total 666.398 &rarr; 666.40 g/mol.",
+   "This leaves out the 18 waters of hydration.",
+   "This adds only one water. The 18 means eighteen waters per formula unit.",
+   "This ignores the 3 after (SO<sub>4</sub>), counting one sulfate instead of three."
+  ],
+  "h": "First the salt (watch the parentheses), then the waters.",
+  "w": "2(26.98) + 3(32.06) + 12(15.999) = 342.128; + 18(18.015) = 666.398 &rarr; <b>666.40 g/mol</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c5-h18",
+  "t": "ch05-molarmass",
+  "q": "What is the <b>formula mass</b> of sucrose (table sugar), C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>? (C 12.011, H 1.008, O 15.999)",
+  "c": [
+   "342.297 amu",
+   "182 amu",
+   "342.30 amu",
+   "342.297 g"
+  ],
+  "y": [
+   "Correct: 12(12.011) + 22(1.008) + 11(15.999) = 144.132 + 22.176 + 175.989 = 342.297 amu.",
+   "This adds atomic numbers. Use the atomic masses.",
+   "This rounds to 2 decimal places, but every mass used has 3.",
+   "342.297 g is the mass of a whole mole. One molecule's formula mass is in amu."
+  ],
+  "h": "Formula mass is for one molecule, in amu.",
+  "w": "C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>: 12(12.011) + 22(1.008) + 11(15.999) = <b>342.297 amu</b> per molecule (342.297 g per mole).",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c5-h19",
+  "t": "ch05-molarmass",
+  "q": "The molar mass of NaCl is 58.44 g/mol. What is the mass of <b>one</b> NaCl formula unit, in amu?",
+  "c": [
+   "58.44 amu",
+   "58.44 g",
+   "9.704 &times; 10<sup>&minus;23</sup> amu",
+   "3.519 &times; 10<sup>25</sup> amu"
+  ],
+  "y": [
+   "Correct: The formula mass in amu is the same number as the molar mass in g/mol.",
+   "58.44 g is the mass of one mole of formula units, not one.",
+   "This is the mass of one formula unit in <i>grams</i> (58.44 g &divide; N<sub>A</sub>), labeled amu.",
+   "This multiplies by Avogadro's number, which makes no sense for a single formula unit."
+  ],
+  "h": "One particle in amu, one mole in grams: same number.",
+  "w": "One formula unit: <b>58.44 amu</b> (= 9.704 &times; 10<sup>&minus;23</sup> g). One mole: 58.44 g.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c5-h20",
+  "t": "ch05-molarmass",
+  "q": "Styptic pencils, used to stop bleeding from small nicks, contain potassium alum, KAl(SO<sub>4</sub>)<sub>2</sub>&middot;12H<sub>2</sub>O. What is its molar mass? (K 39.10, Al 26.98, S 32.06, O 15.999, H 1.008)",
+  "c": [
+   "474.37 g/mol",
+   "378.32 g/mol",
+   "258.19 g/mol",
+   "276.21 g/mol"
+  ],
+  "y": [
+   "Correct: KAl(SO<sub>4</sub>)<sub>2</sub> = 39.10 + 26.98 + 2(32.06) + 8(15.999) = 258.192; + 12(18.015) = 216.180; total 474.372 &rarr; 474.37 g/mol.",
+   "This leaves out the 2 after (SO<sub>4</sub>), counting one sulfate instead of two.",
+   "This leaves out the twelve waters of hydration.",
+   "This adds only one water instead of twelve."
+  ],
+  "h": "Salt part first (two sulfates), then add twelve waters.",
+  "w": "258.192 + 12(18.015) = 474.372 &rarr; <b>474.37 g/mol</b> (2 decimal places, from K, Al and S).",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c5-h21",
+  "t": "ch05-convert",
+  "q": "A fasting glucose of 99 mg/dL is just inside the normal range. Glucose, C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>, is 180.156 g/mol. What is this value in mmol/L?",
+  "c": [
+   "5.5 mmol/L",
+   "0.55 mmol/L",
+   "0.0055 mmol/L",
+   "1.8 &times; 10<sup>5</sup> mmol/L"
+  ],
+  "y": [
+   "Correct: 99 mg/dL &times; 10 dL/L &divide; 180.156 mg/mmol, to 2 significant figures like 99.",
+   "This skips the dL &rarr; L step (10 dL = 1 L).",
+   "This is the value in mol/L labeled mmol/L. With mg and mg/mmol you get mmol directly.",
+   "This multiplies by the molar mass instead of dividing."
+  ],
+  "h": "dL &rarr; L first; g/mol = mg/mmol.",
+  "w": "99 mg/dL &times; 10 dL/L = 990 mg/L; &divide; 180.156 mg/mmol = <b>5.5 mmol/L</b>. (Context only; use the facility's units.)",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c5-h22",
+  "t": "ch05-convert",
+  "q": "A metformin tablet contains 500. mg of metformin hydrochloride, C<sub>4</sub>H<sub>11</sub>N<sub>5</sub>&middot;HCl (165.63 g/mol). How many millimoles is that?",
+  "c": [
+   "3.02 mmol",
+   "0.00302 mmol",
+   "8.28 &times; 10<sup>4</sup> mmol",
+   "3.87 mmol"
+  ],
+  "y": [
+   "Correct: 500. mg &divide; 165.63 mg/mmol (3 significant figures, from 500. with its decimal point).",
+   "This is the answer in moles labeled mmol.",
+   "This multiplies by the molar mass instead of dividing.",
+   "This uses the molar mass of metformin without the HCl (129.167 g/mol). The label mass is for the hydrochloride salt."
+  ],
+  "h": "Use the molar mass of the compound named on the label.",
+  "w": "500. mg &times; (1 mmol / 165.63 mg) = <b>3.02 mmol</b>. (Context only; not dosing guidance.)",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c5-h23",
+  "t": "ch05-convert",
+  "q": "Sodium bicarbonate, NaHCO<sub>3</sub> (84.01 g/mol), is baking soda and an antacid. What is the mass of 0.0850 mol of it?",
+  "c": [
+   "7.14 g",
+   "0.00101 g",
+   "988 g",
+   "3.57 g"
+  ],
+  "y": [
+   "Correct: 0.0850 mol &times; 84.01 g/mol.",
+   "This divides by the molar mass; moles to grams means multiplying.",
+   "This divides the molar mass by the moles; the units do not cancel.",
+   "This uses 42, the sum of the atomic numbers, as the molar mass."
+  ],
+  "h": "mol &times; (g/mol) = g.",
+  "w": "0.0850 mol &times; (84.01 g / 1 mol) = <b>7.14 g</b> NaHCO<sub>3</sub>.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c5-h24",
+  "t": "ch05-convert",
+  "q": "What is the mass, in grams, of a single glucose molecule, C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> (180.156 g/mol)?",
+  "c": [
+   "2.9916 &times; 10<sup>&minus;22</sup> g",
+   "1.0849 &times; 10<sup>26</sup> g",
+   "3.3427 &times; 10<sup>21</sup> g",
+   "180.156 g"
+  ],
+  "y": [
+   "Correct: 180.156 g per 6.0221 &times; 10<sup>23</sup> molecules, to 5 significant figures (6.0221 has 5).",
+   "This multiplies by Avogadro's number; one molecule must be far lighter than a mole.",
+   "This is molecules per gram, the ratio upside down.",
+   "This is the mass of one mole, not one molecule."
+  ],
+  "h": "Mass of one mole &divide; molecules in one mole.",
+  "w": "180.156 g &divide; 6.0221 &times; 10<sup>23</sup> = <b>2.9916 &times; 10<sup>&minus;22</sup> g</b> per molecule (180.156 amu).",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c5-h25",
+  "t": "ch05-convert",
+  "q": "What mass of caffeine, C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub> (194.194 g/mol), contains 1.00 &times; 10<sup>20</sup> molecules? Give the answer in milligrams.",
+  "c": [
+   "32.2 mg",
+   "0.0322 mg",
+   "1.66 &times; 10<sup>&minus;4</sup> mol",
+   "8.55 &times; 10<sup>&minus;4</sup> mg"
+  ],
+  "y": [
+   "Correct: 1.00 &times; 10<sup>20</sup> &divide; N<sub>A</sub> = 1.661 &times; 10<sup>&minus;4</sup> mol; &times; 194.194 g/mol = 0.03225 g = 32.2 mg.",
+   "This is the mass in grams labeled mg. Multiply by 1000 to get mg.",
+   "This stops at moles.",
+   "This divides by the molar mass in the second step."
+  ],
+  "h": "Molecules &rarr; moles &rarr; grams &rarr; milligrams.",
+  "w": "1.00 &times; 10<sup>20</sup> &divide; 6.0221 &times; 10<sup>23</sup> = 1.661 &times; 10<sup>&minus;4</sup> mol; &times; 194.194 g/mol = 0.0322 g = <b>32.2 mg</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c5-h26",
+  "t": "ch05-convert",
+  "q": "A 50.0 mL plasma sample contains 4.65 mg of calcium ions. How many millimoles of Ca<sup>2+</sup> is that? (Ca 40.08)",
+  "c": [
+   "0.116 mmol",
+   "116 mmol",
+   "186 mmol",
+   "0.232 mmol"
+  ],
+  "y": [
+   "Correct: 4.65 mg &divide; 40.08 mg/mmol (losing two electrons does not change the mass noticeably).",
+   "This treats 4.65 mg as 4.65 g, then converts mol to mmol, so it is 1000 times too large.",
+   "This multiplies by the molar mass instead of dividing.",
+   "This doubles for the 2+ charge, which gives milliequivalents (mEq), not millimoles."
+  ],
+  "h": "mg &divide; (mg/mmol) = mmol. The charge does not change the count.",
+  "w": "4.65 mg &times; (1 mmol / 40.08 mg) = <b>0.116 mmol</b> Ca<sup>2+</sup>. (Context only.)",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c5-h27",
+  "t": "ch05-convert",
+  "q": "A respiratory therapist's oxygen calculation involves 2.50 g of O<sub>2</sub> gas (31.998 g/mol). How many O<sub>2</sub> molecules is that?",
+  "c": [
+   "4.71 &times; 10<sup>22</sup> O<sub>2</sub> molecules",
+   "9.41 &times; 10<sup>22</sup> O<sub>2</sub> molecules",
+   "0.0781 mol",
+   "1.51 &times; 10<sup>24</sup> O<sub>2</sub> molecules"
+  ],
+  "y": [
+   "Correct: 2.50 g &divide; 31.998 g/mol = 0.07813 mol O<sub>2</sub>; &times; 6.0221 &times; 10<sup>23</sup>.",
+   "This uses 15.999 g/mol (O atoms) for O<sub>2</sub> molecules, which doubles the count.",
+   "This stops at moles.",
+   "This skips the molar mass; grams must become moles first."
+  ],
+  "h": "The gas is O<sub>2</sub> molecules: use 31.998 g/mol.",
+  "w": "2.50 g &times; (1 mol / 31.998 g) &times; 6.0221 &times; 10<sup>23</sup> = <b>4.71 &times; 10<sup>22</sup> O<sub>2</sub> molecules</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c5-h28",
+  "t": "ch05-convert",
+  "q": "A serum potassium is 4.2 mmol/L. What is this value in mg/dL? (K 39.10)",
+  "c": [
+   "16 mg/dL",
+   "1.6 &times; 10<sup>2</sup> mg/dL",
+   "0.011 mg/dL",
+   "0.016 mg/dL"
+  ],
+  "y": [
+   "Correct: 4.2 mmol/L &times; 39.10 mg/mmol = 164 mg/L; &divide; 10 dL/L, to 2 significant figures like 4.2.",
+   "This stops at mg per <i>liter</i>. One liter is 10 dL, so divide by 10.",
+   "This divides by the molar mass instead of multiplying.",
+   "This is the mass in grams per dL labeled mg/dL."
+  ],
+  "h": "mmol &rarr; mg with the molar mass, then L &rarr; dL.",
+  "w": "4.2 mmol/L &times; 39.10 mg/mmol &times; (1 L / 10 dL) = <b>16 mg/dL</b>. (Context only; labs report potassium in mmol/L.)",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c5-h29",
+  "t": "ch05-convert",
+  "q": "How many moles of water are in 45.0 g of water?",
+  "c": [
+   "2.50 mol",
+   "811 mol",
+   "0.400 mol",
+   "4.50 mol"
+  ],
+  "y": [
+   "Correct: 45.0 g &divide; 18.015 g/mol.",
+   "This multiplies by the molar mass; grams to moles means dividing.",
+   "This divides the molar mass by the mass; the units do not cancel.",
+   "This uses 10, the sum of the atomic numbers (1 + 1 + 8), as the molar mass."
+  ],
+  "h": "Water's molar mass is 2(1.008) + 15.999.",
+  "w": "45.0 g &times; (1 mol / 18.015 g) = <b>2.50 mol</b> H<sub>2</sub>O.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c5-h30",
+  "t": "ch05-convert",
+  "q": "Nitroglycerin, C<sub>3</sub>H<sub>5</sub>N<sub>3</sub>O<sub>9</sub> (227.085 g/mol), is used to relieve chest pain. How many molecules are in 1.00 mg of it?",
+  "c": [
+   "2.65 &times; 10<sup>18</sup> molecules",
+   "2.65 &times; 10<sup>21</sup> molecules",
+   "4.40 &times; 10<sup>&minus;6</sup> mol",
+   "1.37 &times; 10<sup>23</sup> molecules"
+  ],
+  "y": [
+   "Correct: 1.00 mg = 1.00 &times; 10<sup>&minus;3</sup> g; &divide; 227.085 g/mol = 4.404 &times; 10<sup>&minus;6</sup> mol; &times; N<sub>A</sub>.",
+   "This skips mg &rarr; g, so it is 1000 times too large.",
+   "This stops at moles.",
+   "This multiplies by the molar mass instead of dividing."
+  ],
+  "h": "mg &rarr; g &rarr; mol &rarr; molecules.",
+  "w": "1.00 &times; 10<sup>&minus;3</sup> g &times; (1 mol / 227.085 g) &times; 6.0221 &times; 10<sup>23</sup> = <b>2.65 &times; 10<sup>18</sup> molecules</b>. (Context only.)",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c5-h31",
+  "t": "ch05-formula",
+  "q": "How many moles of oxygen atoms are in 0.250 mol of magnesium phosphate, Mg<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>?",
+  "c": [
+   "2.00 mol O",
+   "1.00 mol O",
+   "0.0313 mol O",
+   "1.50 mol O"
+  ],
+  "y": [
+   "Correct: 2 &times; 4 = 8 O per formula unit: 0.250 &times; 8.",
+   "This uses only the 4 inside the parentheses.",
+   "This divides by 8, the ratio upside down.",
+   "This adds the subscripts (4 + 2) instead of multiplying."
+  ],
+  "h": "Multiply the subscript inside the parentheses by the one outside.",
+  "w": "0.250 mol &times; (8 mol O / 1 mol Mg<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>) = <b>2.00 mol O</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c5-h32",
+  "t": "ch05-formula",
+  "q": "How many nitrogen atoms are in 0.0750 mol of ammonium nitrate, NH<sub>4</sub>NO<sub>3</sub>?",
+  "c": [
+   "9.03 &times; 10<sup>22</sup> N atoms",
+   "4.52 &times; 10<sup>22</sup> N atoms",
+   "0.150 mol N",
+   "2.26 &times; 10<sup>22</sup> N atoms"
+  ],
+  "y": [
+   "Correct: NH<sub>4</sub>NO<sub>3</sub> has 2 N (one in NH<sub>4</sub><sup>+</sup>, one in NO<sub>3</sub><sup>&minus;</sup>): 0.150 mol N &times; N<sub>A</sub>.",
+   "This counts only one N per formula unit. Look in both ions.",
+   "This stops at moles of N.",
+   "This divides by 2, the ratio upside down."
+  ],
+  "h": "Find N in both the cation and the anion.",
+  "w": "0.0750 &times; 2 = 0.150 mol N; &times; 6.0221 &times; 10<sup>23</sup> = <b>9.03 &times; 10<sup>22</sup> N atoms</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c5-h33",
+  "t": "ch05-formula",
+  "q": "Ammonium nitrate, NH<sub>4</sub>NO<sub>3</sub> (80.043 g/mol), is a nitrogen fertilizer. How many kilograms of nitrogen are in 2.50 kg of it? (N 14.007)",
+  "c": [
+   "0.875 kg N",
+   "0.437 kg N",
+   "7.14 kg N",
+   "1.75 kg N"
+  ],
+  "y": [
+   "Correct: The ratio works in kg and kmol as well as g and mol: 2.50 &times; (2 &times; 14.007) &divide; 80.043.",
+   "This counts only one N per formula unit.",
+   "This flips the ratio; the nitrogen cannot weigh more than the fertilizer.",
+   "This uses 28.014 (N<sub>2</sub>) for each N atom."
+  ],
+  "h": "mass compound &rarr; moles compound &rarr; moles N (2 per unit) &rarr; mass N.",
+  "w": "2.50 kg &times; (1 kmol / 80.043 kg) &times; (2 kmol N / 1 kmol) &times; (14.007 kg / 1 kmol N) = <b>0.875 kg N</b> (35.0% N).",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c5-h34",
+  "t": "ch05-formula",
+  "q": "A calcium citrate supplement contains 1.50 g of Ca<sub>3</sub>(C<sub>6</sub>H<sub>5</sub>O<sub>7</sub>)<sub>2</sub> (498.44 g/mol). What mass of calcium does it contain? (Ca 40.08)",
+  "c": [
+   "0.362 g Ca",
+   "0.121 g Ca",
+   "6.22 g Ca",
+   "0.00301 mol Ca"
+  ],
+  "y": [
+   "Correct: 1.50 g &divide; 498.44 g/mol = 0.003009 mol; &times; 3 mol Ca/mol = 0.009028 mol Ca; &times; 40.08 g/mol.",
+   "This skips the subscript 3; each formula unit has three Ca.",
+   "This flips the ratio; the calcium cannot weigh more than the compound.",
+   "This stops at moles of the compound, labeled mol Ca, and skips the subscript and molar-mass steps."
+  ],
+  "h": "g compound &rarr; mol compound &rarr; mol Ca (&times; 3) &rarr; g Ca.",
+  "w": "1.50 g &times; (1 mol / 498.44 g) &times; (3 mol Ca / 1 mol) &times; (40.08 g / 1 mol Ca) = <b>0.362 g Ca</b>. (Context only.)",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c5-h35",
+  "t": "ch05-formula",
+  "q": "Sodium phosphate, Na<sub>3</sub>PO<sub>4</sub>, dissolves into Na<sup>+</sup> and PO<sub>4</sub><sup>3&minus;</sup> ions. How many moles of ions in total come from 0.0200 mol of Na<sub>3</sub>PO<sub>4</sub>?",
+  "c": [
+   "0.0800 mol ions",
+   "0.0600 mol ions",
+   "0.0200 mol ions",
+   "0.160 mol ions"
+  ],
+  "y": [
+   "Correct: 3 Na<sup>+</sup> + 1 PO<sub>4</sub><sup>3&minus;</sup> = 4 ions per formula unit.",
+   "This counts only the sodium ions.",
+   "This counts formula units, not ions.",
+   "This splits phosphate into 1 P and 4 O. A polyatomic ion stays together as one particle."
+  ],
+  "h": "A polyatomic ion is one particle.",
+  "w": "0.0200 mol &times; 4 mol ions / 1 mol = <b>0.0800 mol ions</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c5-h36",
+  "t": "ch05-formula",
+  "q": "How many potassium ions are in 1.49 g of potassium chloride, KCl (74.55 g/mol)?",
+  "c": [
+   "1.20 &times; 10<sup>22</sup> K<sup>+</sup> ions",
+   "2.41 &times; 10<sup>22</sup> K<sup>+</sup> ions",
+   "2.29 &times; 10<sup>22</sup> K<sup>+</sup> ions",
+   "0.0200 mol K<sup>+</sup>"
+  ],
+  "y": [
+   "Correct: 1.49 g &divide; 74.55 g/mol = 0.01999 mol KCl = 0.01999 mol K<sup>+</sup>; &times; N<sub>A</sub>.",
+   "This counts both K<sup>+</sup> and Cl<sup>&minus;</sup>.",
+   "This divides by the molar mass of K (39.10) instead of KCl.",
+   "This stops at moles."
+  ],
+  "h": "g KCl &rarr; mol KCl &rarr; mol K<sup>+</sup> &rarr; ions.",
+  "w": "1.49 g &times; (1 mol / 74.55 g) &times; 6.0221 &times; 10<sup>23</sup> = <b>1.20 &times; 10<sup>22</sup> K<sup>+</sup> ions</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c5-h37",
+  "t": "ch05-formula",
+  "q": "What mass of potassium iodide, KI (166.00 g/mol), contains 0.100 g of iodine? (I 126.90)",
+  "c": [
+   "0.131 g KI",
+   "0.0764 g KI",
+   "7.88 &times; 10<sup>&minus;4</sup> mol",
+   "0.100 g KI"
+  ],
+  "y": [
+   "Correct: 0.100 g I &divide; 126.90 g/mol = 7.880 &times; 10<sup>&minus;4</sup> mol I = mol KI; &times; 166.00 g/mol.",
+   "This uses the ratio upside down; the compound must weigh more than the iodine in it.",
+   "This stops at moles of iodine.",
+   "This treats KI as if it were all iodine."
+  ],
+  "h": "g I &rarr; mol I &rarr; mol KI &rarr; g KI.",
+  "w": "0.100 g I &times; (1 mol I / 126.90 g) &times; (1 mol KI / 1 mol I) &times; (166.00 g / 1 mol KI) = <b>0.131 g KI</b>. (Potassium iodide tablets for radiation emergencies are about 130 mg for about 100 mg of iodide; context only.)",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c5-h38",
+  "t": "ch05-formula",
+  "q": "What mass of oxygen is in 0.600 mol of water, H<sub>2</sub>O? (O 15.999, H 1.008)",
+  "c": [
+   "9.60 g O",
+   "19.2 g O",
+   "10.8 g O",
+   "0.0375 g O"
+  ],
+  "y": [
+   "Correct: 0.600 mol H<sub>2</sub>O &times; 1 mol O / 1 mol &times; 15.999 g/mol.",
+   "This uses 31.998 (O<sub>2</sub>) for O atoms.",
+   "This is the mass of the whole water sample.",
+   "This divides by the molar mass of O instead of multiplying."
+  ],
+  "h": "One O atom per molecule; O atoms weigh 15.999 g/mol.",
+  "w": "0.600 mol &times; (1 mol O / 1 mol H<sub>2</sub>O) &times; 15.999 g/mol = <b>9.60 g O</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c5-h39",
+  "t": "ch05-formula",
+  "q": "How many hydrogen atoms are in 5.00 g of ethanol, C<sub>2</sub>H<sub>5</sub>OH (46.069 g/mol)?",
+  "c": [
+   "3.92 &times; 10<sup>23</sup> H atoms",
+   "6.54 &times; 10<sup>22</sup> H atoms",
+   "0.651 mol H",
+   "3.27 &times; 10<sup>23</sup> H atoms"
+  ],
+  "y": [
+   "Correct: 5.00 g &divide; 46.069 = 0.1085 mol; &times; 6 mol H/mol = 0.6512 mol H; &times; N<sub>A</sub>.",
+   "This counts molecules, not H atoms.",
+   "This stops at moles of H.",
+   "This misses the H in the OH group; ethanol has 5 + 1 = 6 H."
+  ],
+  "h": "Count every H in C<sub>2</sub>H<sub>5</sub>OH.",
+  "w": "5.00 g &times; (1 mol / 46.069 g) &times; (6 mol H / 1 mol) &times; 6.0221 &times; 10<sup>23</sup> = <b>3.92 &times; 10<sup>23</sup> H atoms</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c5-h40",
+  "t": "ch05-formula",
+  "q": "When 1 mol of potassium sulfate, K<sub>2</sub>SO<sub>4</sub>, dissolves, how many moles of K<sup>+</sup> and how many moles of ions in total are released?",
+  "c": [
+   "2 mol K<sup>+</sup>; 3 mol of ions in total",
+   "2 mol K<sup>+</sup>; 7 mol of ions in total",
+   "1 mol K<sup>+</sup>; 2 mol of ions in total",
+   "2 mol K<sup>+</sup>; 2 mol of ions in total"
+  ],
+  "y": [
+   "Correct: Each formula unit is two K<sup>+</sup> and one SO<sub>4</sub><sup>2&minus;</sup>: three ions.",
+   "This splits sulfate into 1 S and 4 O. A polyatomic ion stays together as one particle.",
+   "This ignores the subscript 2 on K.",
+   "This forgets to count the sulfate ion."
+  ],
+  "h": "Use the subscript on K, and treat sulfate as one particle.",
+  "w": "K<sub>2</sub>SO<sub>4</sub> &rarr; 2 K<sup>+</sup> + SO<sub>4</sub><sup>2&minus;</sup>: <b>2 mol K<sup>+</sup>, 3 mol of ions</b>.",
+  "d": 1,
+  "k": 0
+ }
+]
