@@ -1,0 +1,884 @@
+[
+ {
+  "id": "c14-h01",
+  "t": "ch14-radiation",
+  "q": "A gallium-67 dose has an activity of 6.40 mCi. What is its activity in megabecquerels (MBq)? (1 Ci = 3.7 &times; 10<sup>10</sup> Bq, exact; 1 MBq = 10<sup>6</sup> Bq)",
+  "c": [
+   "237 MBq",
+   "0.173 MBq",
+   "2.37 &times; 10<sup>8</sup> MBq",
+   "2.37 &times; 10<sup>5</sup> MBq"
+  ],
+  "y": [
+   "Correct: 6.40 mCi &times; 3.7 &times; 10<sup>7</sup> Bq/mCi = 2.37 &times; 10<sup>8</sup> Bq = 237 MBq (1 mCi = 37 MBq).",
+   "This divides by 37; each millicurie is 37 MBq, so multiply.",
+   "This is the answer in becquerels; divide by 10<sup>6</sup> to get MBq.",
+   "This treats mCi as Ci; divide by 1000 first."
+  ],
+  "h": "1 mCi = 3.7 &times; 10<sup>7</sup> Bq = 37 MBq.",
+  "w": "6.40 &times; 37 MBq = <b>237 MBq</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c14-h02",
+  "t": "ch14-radiation",
+  "q": "Cesium-137 is a fission product released in the Chernobyl and Fukushima accidents. How many protons and neutrons are in one cesium-137 nucleus?",
+  "c": [
+   "55 protons and 82 neutrons",
+   "82 protons and 55 neutrons",
+   "55 protons and 137 neutrons",
+   "137 protons and 55 neutrons"
+  ],
+  "y": [
+   "Correct: Cesium is element 55; neutrons = 137 &minus; 55 = 82.",
+   "This swaps the counts; the atomic number, 55, is the number of protons.",
+   "137 counts protons and neutrons together; subtract the 55 protons.",
+   "137 is the mass number, not the number of protons."
+  ],
+  "h": "Z from the periodic table; neutrons = A &minus; Z.",
+  "w": "<sup>137</sup><sub>55</sub>Cs: 55 protons, 137 &minus; 55 = <b>82 neutrons</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c14-h03",
+  "t": "ch14-radiation",
+  "q": "Marie Curie named one of the elements she discovered for her home country. Which element is it?",
+  "c": [
+   "Polonium",
+   "Radium",
+   "Curium",
+   "Francium"
+  ],
+  "y": [
+   "Correct: Polonium is named for Poland, where Marie Curie (born Maria Sk&#322;odowska) grew up.",
+   "Radium, her other discovery, is named for its strong radiation (Latin <i>radius</i>, ray).",
+   "Curium was made in 1944 and named in honor of the Curies; it is not one of her discoveries.",
+   "Francium is named for France and was discovered by Marguerite Perey in 1939."
+  ],
+  "h": "Her home country was Poland.",
+  "w": "<b>Polonium</b>, for Poland.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c14-h04",
+  "t": "ch14-radiation",
+  "q": "What does a <b>sievert</b> (Sv) measure?",
+  "c": [
+   "The equivalent (biological) dose: absorbed dose adjusted for how harmful the radiation is",
+   "The number of decays per second in a source",
+   "The energy given off by a source per second",
+   "The time for half of a sample to decay"
+  ],
+  "y": [
+   "Correct: Sieverts (and the older rem, 1 Sv = 100 rem) describe the dose to a person; doses are usually given in millisieverts.",
+   "Decays per second is activity, in becquerels or curies.",
+   "Sieverts describe what a person absorbs, not what a source emits.",
+   "That is the half-life, a time."
+  ],
+  "h": "Which family of units describes the person?",
+  "w": "Sievert = <b>equivalent (biological) dose</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c14-h05",
+  "t": "ch14-radiation",
+  "q": "A nuclear medicine technologist finishes preparing doses and wants to check her gloves and the bench for spilled tracer. Which instrument should she use?",
+  "c": [
+   "A survey meter, such as a Geiger counter",
+   "Her dosimeter badge",
+   "A gamma camera",
+   "A film badge read at the end of the month"
+  ],
+  "y": [
+   "Correct: A Geiger counter clicks right away when it is near contamination, so it can find a spill on the spot.",
+   "A dosimeter records her total dose for a lab to read later; it cannot locate a spill now.",
+   "A gamma camera images a patient; it is not a hand-held survey tool.",
+   "A film badge also records total dose over time; it cannot find contamination right now."
+  ],
+  "h": "She needs an instant reading, not a monthly report.",
+  "w": "<b>A survey meter (Geiger counter)</b> gives an immediate reading.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c14-h06",
+  "t": "ch14-radiation",
+  "q": "Which isotope must be radioactive, without looking anything up?",
+  "c": [
+   "Thorium-232",
+   "Carbon-12",
+   "Potassium-39",
+   "Oxygen-16"
+  ],
+  "y": [
+   "Correct: Thorium is element 90; every isotope of every element beyond bismuth (atomic number 83) is radioactive.",
+   "Carbon-12 is stable; carbon-14 is the radioactive isotope of carbon.",
+   "Potassium-39 is stable; potassium-40 is the radioactive one.",
+   "Oxygen-16 is stable; an element can have both stable and radioactive isotopes."
+  ],
+  "h": "Find the element beyond atomic number 83.",
+  "w": "Z = 90 &gt; 83: <b>thorium-232</b> must be radioactive.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c14-h07",
+  "t": "ch14-decay",
+  "q": "Plutonium-238 powers spacecraft such as the Mars rovers; it decays by alpha emission. What is the product? <sup>238</sup><sub>94</sub>Pu &rarr; ? + <sup>4</sup><sub>2</sub>He",
+  "c": [
+   "<sup>234</sup><sub>92</sub>U (uranium-234)",
+   "<sup>234</sup><sub>93</sub>Np (neptunium-234)",
+   "<sup>236</sup><sub>92</sub>U (uranium-236)",
+   "<sup>234</sup><sub>94</sub>Pu (plutonium-234)"
+  ],
+  "y": [
+   "Correct: A: 238 &minus; 4 = 234. Z: 94 &minus; 2 = 92, uranium.",
+   "This lowers Z by only 1; an alpha particle carries 2 protons.",
+   "This lowers A by only 2; an alpha particle has A = 4.",
+   "This keeps Z = 94; the element must change."
+  ],
+  "h": "Subtract 4 from the top number and 2 from the bottom.",
+  "w": "<b><sup>234</sup><sub>92</sub>U</b>: 234 + 4 = 238 and 92 + 2 = 94.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c14-h08",
+  "t": "ch14-decay",
+  "q": "Samarium-153, used to relieve bone pain from cancer, is a beta emitter. What is the product? <sup>153</sup><sub>62</sub>Sm &rarr; ? + <sup>0</sup><sub>&minus;1</sub>e",
+  "c": [
+   "<sup>153</sup><sub>63</sub>Eu (europium-153)",
+   "<sup>153</sup><sub>61</sub>Pm (promethium-153)",
+   "<sup>154</sup><sub>63</sub>Eu (europium-154)",
+   "<sup>153</sup><sub>64</sub>Gd (gadolinium-153)"
+  ],
+  "y": [
+   "Correct: A stays 153; Z = 62 + 1 = 63, europium.",
+   "This lowers Z; a beta particle counts as &minus;1, so the new atomic number is one higher.",
+   "A beta particle has A = 0, so the mass number stays 153.",
+   "This raises Z by 2; beta decay raises it by 1."
+  ],
+  "h": "Beta decay: A the same, Z + 1.",
+  "w": "<b><sup>153</sup><sub>63</sub>Eu</b>: 153 = 153 + 0 and 62 = 63 &minus; 1.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c14-h09",
+  "t": "ch14-decay",
+  "q": "Rubidium-82, a positron emitter made in a generator at the hospital, is used in PET scans of heart blood flow. What is the product? <sup>82</sup><sub>37</sub>Rb &rarr; ? + <sup>0</sup><sub>+1</sub>e",
+  "c": [
+   "<sup>82</sup><sub>36</sub>Kr (krypton-82)",
+   "<sup>82</sup><sub>38</sub>Sr (strontium-82)",
+   "<sup>81</sup><sub>37</sub>Rb (rubidium-81)",
+   "<sup>78</sup><sub>35</sub>Br (bromine-78)"
+  ],
+  "y": [
+   "Correct: A stays 82; Z = 37 &minus; 1 = 36, krypton. Positron emission moves one place to the left.",
+   "This raises Z, as beta decay would; a positron carries away +1, so Z drops.",
+   "This lowers A and keeps the element; A stays 82 and Z drops by 1.",
+   "This is alpha decay (A &minus; 4, Z &minus; 2); a positron has A = 0."
+  ],
+  "h": "A positron is <sup>0</sup><sub>+1</sub>e.",
+  "w": "<b><sup>82</sup><sub>36</sub>Kr</b>: 82 = 82 + 0 and 37 = 36 + 1.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c14-h10",
+  "t": "ch14-decay",
+  "q": "Gallium-67 decays by electron capture. What is the product? <sup>67</sup><sub>31</sub>Ga + <sup>0</sup><sub>&minus;1</sub>e &rarr; ?",
+  "c": [
+   "<sup>67</sup><sub>30</sub>Zn (zinc-67)",
+   "<sup>67</sup><sub>32</sub>Ge (germanium-67)",
+   "<sup>66</sup><sub>30</sub>Zn (zinc-66)",
+   "<sup>67</sup><sub>31</sub>Ga (gallium-67, unchanged)"
+  ],
+  "y": [
+   "Correct: The electron is a reactant: A = 67 + 0 = 67; Z = 31 &minus; 1 = 30, zinc.",
+   "This raises Z, as if a beta particle were given off; a captured electron lowers Z.",
+   "The electron's mass number is 0, so A stays 67.",
+   "A proton becomes a neutron, so the element changes."
+  ],
+  "h": "Add the electron on the left.",
+  "w": "<b><sup>67</sup><sub>30</sub>Zn</b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c14-h11",
+  "t": "ch14-decay",
+  "q": "In 1932, James Chadwick discovered a new particle by hitting beryllium-9 with alpha particles. Identify the missing particle: <sup>9</sup><sub>4</sub>Be + <sup>4</sup><sub>2</sub>He &rarr; <sup>12</sup><sub>6</sub>C + ?",
+  "c": [
+   "<sup>1</sup><sub>0</sub>n, a neutron",
+   "<sup>1</sup><sub>1</sub>H, a proton",
+   "<sup>0</sup><sub>0</sub>&gamma;, a gamma ray",
+   "<sup>0</sup><sub>&minus;1</sub>e, a beta particle"
+  ],
+  "y": [
+   "Correct: Left: A = 13, Z = 6. Right so far: A = 12, Z = 6. Missing: A = 1, Z = 0, a neutron, the particle Chadwick discovered.",
+   "A proton has Z = 1; the atomic numbers already balance (6 = 6), so the missing particle has Z = 0.",
+   "A gamma ray has A = 0; one mass unit is still missing.",
+   "A beta particle has A = 0 and Z = &minus;1; the totals would not match."
+  ],
+  "h": "Total each side, then subtract.",
+  "w": "Missing A = 13 &minus; 12 = 1, Z = 6 &minus; 6 = 0: <b>a neutron</b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c14-h12",
+  "t": "ch14-decay",
+  "q": "Copper-64 is used in some PET scans. What kind of decay is this? <sup>64</sup><sub>29</sub>Cu &rarr; <sup>64</sup><sub>28</sub>Ni + <sup>0</sup><sub>+1</sub>e",
+  "c": [
+   "Positron emission",
+   "Beta decay",
+   "Electron capture",
+   "Gamma emission"
+  ],
+  "y": [
+   "Correct: A positron is a product; Z drops from 29 to 28 and A stays 64.",
+   "Beta decay gives off <sup>0</sup><sub>&minus;1</sub>e and raises Z; here Z drops.",
+   "Electron capture also lowers Z, but the electron is a reactant on the left; here a positron is a product.",
+   "Gamma emission changes neither A nor Z; here Z changes."
+  ],
+  "h": "Which particle is a product?",
+  "w": "<b>Positron emission</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c14-h13",
+  "t": "ch14-decay",
+  "q": "Thorium-232, found in many rocks, is an alpha emitter. Which equation is balanced?",
+  "c": [
+   "<sup>232</sup><sub>90</sub>Th &rarr; <sup>228</sup><sub>88</sub>Ra + <sup>4</sup><sub>2</sub>He",
+   "<sup>232</sup><sub>90</sub>Th &rarr; <sup>230</sup><sub>88</sub>Ra + <sup>4</sup><sub>2</sub>He",
+   "<sup>232</sup><sub>90</sub>Th &rarr; <sup>228</sup><sub>89</sub>Ac + <sup>4</sup><sub>2</sub>He",
+   "<sup>232</sup><sub>90</sub>Th &rarr; <sup>228</sup><sub>86</sub>Rn + <sup>4</sup><sub>2</sub>He"
+  ],
+  "y": [
+   "Correct: Top: 228 + 4 = 232. Bottom: 88 + 2 = 90.",
+   "Top: 230 + 4 = 234, not 232.",
+   "Bottom: 89 + 2 = 91, not 90.",
+   "Bottom: 86 + 2 = 88, not 90."
+  ],
+  "h": "Check the top total and the bottom total of each.",
+  "w": "<b><sup>232</sup><sub>90</sub>Th &rarr; <sup>228</sup><sub>88</sub>Ra + <sup>4</sup><sub>2</sub>He</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c14-h14",
+  "t": "ch14-decay",
+  "q": "A nucleus gives off an alpha particle and becomes thorium-231. What was the starting nucleus? ? &rarr; <sup>231</sup><sub>90</sub>Th + <sup>4</sup><sub>2</sub>He",
+  "c": [
+   "<sup>235</sup><sub>92</sub>U (uranium-235)",
+   "<sup>227</sup><sub>88</sub>Ra (radium-227)",
+   "<sup>235</sup><sub>91</sub>Pa (protactinium-235)",
+   "<sup>235</sup><sub>90</sub>Th (thorium-235)"
+  ],
+  "y": [
+   "Correct: A = 231 + 4 = 235; Z = 90 + 2 = 92, uranium.",
+   "This subtracts the alpha particle; the parent has the larger numbers.",
+   "This adds only 1 to Z; add 2.",
+   "This keeps Z = 90; the parent has 2 more protons."
+  ],
+  "h": "The parent's numbers equal the totals on the right.",
+  "w": "<b><sup>235</sup><sub>92</sub>U</b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c14-h15",
+  "t": "ch14-decay",
+  "q": "Which kind of radiation has the <b>lowest</b> ionizing power?",
+  "c": [
+   "Gamma rays",
+   "Alpha particles",
+   "Beta particles",
+   "Alpha and beta particles equally"
+  ],
+  "y": [
+   "Correct: Gamma rays have no mass and no charge, so they pass most atoms without interacting: most penetrating, least ionizing.",
+   "Alpha particles have the <i>highest</i> ionizing power.",
+   "Beta particles are in the middle.",
+   "Alpha particles ionize far more than beta particles."
+  ],
+  "h": "Ionizing power is the reverse of penetrating power.",
+  "w": "Ionizing power alpha &gt; beta &gt; gamma: <b>gamma rays</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c14-h16",
+  "t": "ch14-decay",
+  "q": "A researcher works with a vial of a pure beta emitter, phosphorus-32. Which protection is appropriate for her hands and body?",
+  "c": [
+   "A lab coat, gloves, and a plastic or aluminum shield",
+   "Nothing; beta particles cannot get through skin",
+   "Only a sheet of paper",
+   "Thick lead or concrete, because beta is the most penetrating radiation"
+  ],
+  "y": [
+   "Correct: Beta particles pass through paper but are stopped by aluminum, plastic, wood, or a lab coat and gloves.",
+   "Beta particles penetrate a few millimeters into tissue; skin alone is not enough. (Alpha particles are the ones skin stops.)",
+   "Paper stops alpha particles, not beta particles.",
+   "Gamma rays are the most penetrating; beta needs only light shielding."
+  ],
+  "h": "Paper stops alpha; what stops beta?",
+  "w": "<b>Lab coat, gloves, and a plastic or aluminum shield</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c14-h17",
+  "t": "ch14-decay",
+  "q": "Which radiation has a mass number of 0 and a charge of 0?",
+  "c": [
+   "A gamma ray, <sup>0</sup><sub>0</sub>&gamma;",
+   "A neutron, <sup>1</sup><sub>0</sub>n",
+   "A positron, <sup>0</sup><sub>+1</sub>e",
+   "A beta particle, <sup>0</sup><sub>&minus;1</sub>e"
+  ],
+  "y": [
+   "Correct: A gamma ray is pure energy (high-energy light), so it changes neither A nor Z.",
+   "A neutron has no charge, but its mass number is 1.",
+   "A positron has a mass number of 0 but a charge of +1.",
+   "A beta particle has a mass number of 0 but a charge of &minus;1."
+  ],
+  "h": "Which one is light, not a particle with mass?",
+  "w": "<b>Gamma ray</b>: A = 0, charge 0.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c14-h18",
+  "t": "ch14-halflife",
+  "q": "Xenon-133 (half-life 5.25 days) is used in lung ventilation scans. A vial contains 6.80 mCi of xenon-133. What activity remains after 15.75 days?",
+  "c": [
+   "0.850 mCi",
+   "0.425 mCi",
+   "1.13 mCi",
+   "10.2 mCi"
+  ],
+  "y": [
+   "Correct: n = 15.75 &divide; 5.25 = 3; 6.80 &divide; 8.",
+   "This halves four times; n = 3.",
+   "This divides by 2 &times; 3 = 6 instead of 2<sup>3</sup> = 8.",
+   "This multiplies by (1/2) &times; 3; the activity must drop."
+  ],
+  "h": "n = time &divide; half-life.",
+  "w": "6.80 &rarr; 3.40 &rarr; 1.70 &rarr; 0.850 mCi = <b>0.850 mCi</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c14-h19",
+  "t": "ch14-halflife",
+  "q": "Chromium-51 (half-life 27.7 days) is used to measure red blood cell survival. A sample has an activity of 3.60 &mu;Ci. What is its activity after 55.4 days?",
+  "c": [
+   "0.900 &mu;Ci",
+   "1.80 &mu;Ci",
+   "0 &mu;Ci",
+   "0.450 &mu;Ci"
+  ],
+  "y": [
+   "Correct: n = 55.4 &divide; 27.7 = 2; 3.60 &times; 1/4.",
+   "This halves once; 55.4 days is two half-lives.",
+   "This subtracts half of the <i>original</i> amount twice; each half-life halves what is left.",
+   "This halves three times; n = 2."
+  ],
+  "h": "Halve once per half-life.",
+  "w": "3.60 &rarr; 1.80 &rarr; 0.900 &mu;Ci = <b>0.900 &mu;Ci</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c14-h20",
+  "t": "ch14-halflife",
+  "q": "Lutetium-177 (half-life 6.65 days) treats some neuroendocrine tumors. A dose has an activity of 7.20 GBq. What activity remains after 26.6 days?",
+  "c": [
+   "0.450 GBq",
+   "0.900 GBq",
+   "0.225 GBq",
+   "14.4 GBq"
+  ],
+  "y": [
+   "Correct: n = 26.6 &divide; 6.65 = 4; 7.20 &divide; 16.",
+   "This halves only three times; n = 4.",
+   "This halves five times; count the half-lives, not the amounts.",
+   "This multiplies by (1/2) &times; 4 = 2 instead of (1/2)<sup>4</sup> = 1/16."
+  ],
+  "h": "Find n first.",
+  "w": "7.20 &rarr; 3.60 &rarr; 1.80 &rarr; 0.900 &rarr; 0.450 GBq = <b>0.450 GBq</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c14-h21",
+  "t": "ch14-halflife",
+  "q": "Iridium-192 (half-life 73.8 days) sources are used in brachytherapy. How long does it take a 10.4 Ci source to decay to 2.60 Ci?",
+  "c": [
+   "148 days",
+   "221 days",
+   "36.9 days",
+   "295 days"
+  ],
+  "y": [
+   "Correct: 10.4 &rarr; 5.20 &rarr; 2.60 Ci is 2 half-lives; 2 &times; 73.8 days.",
+   "This counts the three amounts; there are two halvings.",
+   "This divides the half-life by 2; time = n &times; half-life.",
+   "This multiplies by 4 (from the fraction 1/4); 1/4 is 2 half-lives."
+  ],
+  "h": "Halve 10.4 until you reach 2.60.",
+  "w": "2 &times; 73.8 = <b>148 days</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c14-h22",
+  "t": "ch14-halflife",
+  "q": "A 6.40 g sample of a short-lived radioisotope decays to 0.400 g in 34.8 min. What is its half-life?",
+  "c": [
+   "8.70 min",
+   "34.8 min",
+   "6.96 min",
+   "11.6 min"
+  ],
+  "y": [
+   "Correct: 6.40 &rarr; 3.20 &rarr; 1.60 &rarr; 0.800 &rarr; 0.400 g is 4 half-lives; 34.8 &divide; 4.",
+   "This treats the whole time as one half-life.",
+   "This divides by 5, the number of amounts in the chain.",
+   "This divides by 3; there are 4 halvings."
+  ],
+  "h": "Count the halvings, then divide the time by n.",
+  "w": "34.8 &divide; 4 = <b>8.70 min</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c14-h23",
+  "t": "ch14-halflife",
+  "q": "Indium-111 (half-life 2.80 days) labels white blood cells to find infections. 8.40 days after a dose was made, 0.600 mCi remains. What was the starting activity?",
+  "c": [
+   "4.80 mCi",
+   "0.0750 mCi",
+   "2.40 mCi",
+   "1.80 mCi"
+  ],
+  "y": [
+   "Correct: n = 8.40 &divide; 2.80 = 3; working backward, double 3 times: 0.600 &times; 8.",
+   "This halves; going back to the start, the activity must get larger.",
+   "This doubles only twice; n = 3.",
+   "This multiplies by n = 3 instead of 2<sup>3</sup> = 8."
+  ],
+  "h": "Backward in time, double once per half-life.",
+  "w": "0.600 &times; 8 = <b>4.80 mCi</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c14-h24",
+  "t": "ch14-halflife",
+  "q": "Radon-222 (half-life 3.8 days) from soil enters a sealed jar, and no more radon gets in. What percent of the radon-222 is left after 19.0 days?",
+  "c": [
+   "3.125%",
+   "6.25%",
+   "12.5%",
+   "96.875%"
+  ],
+  "y": [
+   "Correct: n = 19.0 &divide; 3.8 = 5; (1/2)<sup>5</sup> = 1/32.",
+   "This is 4 half-lives; n = 5.",
+   "This is 3 half-lives; 19.0 days is five 3.8-day half-lives.",
+   "This is the percent that has <i>decayed</i>, not the percent left."
+  ],
+  "h": "n = time &divide; half-life; then halve n times from 100%.",
+  "w": "n = 5: 100 &rarr; 50 &rarr; 25 &rarr; 12.5 &rarr; 6.25 &rarr; <b>3.125%</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c14-h25",
+  "t": "ch14-halflife",
+  "q": "A sample of technetium-99m is cooled in a freezer. What happens to its half-life?",
+  "c": [
+   "Nothing; it stays 6.0 h, because half-life does not depend on temperature",
+   "It gets longer, because nuclei decay more slowly when cold",
+   "It gets shorter, because cold makes the nucleus unstable",
+   "It changes only if the technetium is in a different compound"
+  ],
+  "y": [
+   "Correct: Nuclear decay is not affected by temperature, by the amount, or by what compound the atom is in.",
+   "Cooling slows chemical reactions, but not nuclear decay.",
+   "Temperature does not change nuclear stability.",
+   "Chemical bonds involve electrons; the nucleus decays the same in any compound."
+  ],
+  "h": "Half-life is a property of the nucleus.",
+  "w": "<b>No change</b>: still 6.0 h.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c14-h26",
+  "t": "ch14-halflife",
+  "q": "Iodine-123 (half-life 13 h; electron capture with gamma rays) and iodine-131 (half-life 8.0 days; beta and gamma) both collect in the thyroid. Which is better for <b>imaging</b> the thyroid, and why?",
+  "c": [
+   "Iodine-123: its gamma rays make the image, it gives off no beta particles, and its half-life is shorter",
+   "Iodine-131: its beta particles make a sharper image",
+   "Iodine-131: its longer half-life lowers the patient's dose",
+   "Either one; the half-life does not matter for imaging"
+  ],
+  "y": [
+   "Correct: Imaging needs radiation that leaves the body (gamma) and a short half-life; iodine-131's beta particles add dose without helping the image, which is why it is used for treatment.",
+   "Beta particles stay in the body; they do not reach the camera.",
+   "A longer half-life keeps the patient radioactive longer, which raises the dose.",
+   "A tracer's half-life should be long enough to image and short enough to be gone soon after."
+  ],
+  "h": "Imaging: gamma rays out of the body, short half-life.",
+  "w": "<b>Iodine-123</b> for imaging; iodine-131 for treatment.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c14-h27",
+  "t": "ch14-halflife",
+  "q": "A student must find how much of 2.50 mg of sodium-24 (half-life 15.0 h) remains after 60.0 h. What is the correct first step?",
+  "c": [
+   "Divide 60.0 h by 15.0 h to get n = 4 half-lives",
+   "Raise 1/2 to the power 60.0",
+   "Subtract 15.0 from 60.0 to get the time left",
+   "Divide 2.50 mg by 60.0 h"
+  ],
+  "y": [
+   "Correct: n = time &divide; half-life, with matching units; then 2.50 mg &times; (1/2)<sup>4</sup> = 0.156 mg.",
+   "This uses the time as n; n is the number of half-lives, 60.0 &divide; 15.0 = 4.",
+   "Subtracting times does not count half-lives.",
+   "mg &divide; h is not an amount; the amount is halved once per half-life."
+  ],
+  "h": "Before you multiply anything, find n.",
+  "w": "First find <b>n = 60.0 h &divide; 15.0 h = 4</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c14-h28",
+  "t": "ch14-dating",
+  "q": "A wooden post from an ancient village gives 1.70 decays per minute per gram of carbon. Fresh wood from a living tree gives 13.6. About how many years ago was the tree cut down? (carbon-14 half-life 5730 years)",
+  "c": [
+   "1.72 &times; 10<sup>4</sup> years",
+   "4.58 &times; 10<sup>4</sup> years",
+   "716 years",
+   "2.29 &times; 10<sup>4</sup> years"
+  ],
+  "y": [
+   "Correct: 13.6 &rarr; 6.80 &rarr; 3.40 &rarr; 1.70 is 3 half-lives; 3 &times; 5730 years = 17,190 years, three significant figures.",
+   "This uses 8 (from the fraction 1/8) as n; 1/8 = (1/2)<sup>3</sup>.",
+   "This multiplies the fraction 1/8 by 5730; multiply n instead.",
+   "This counts the four activities; there are three halvings."
+  ],
+  "h": "Turn the two activities into a number of halvings.",
+  "w": "n = 3: <b>1.72 &times; 10<sup>4</sup> years</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c14-h29",
+  "t": "ch14-dating",
+  "q": "Charcoal from a cave painting has 1/128 of the carbon-14 per gram of carbon found in living wood. Estimate its age. (carbon-14 half-life 5730 years)",
+  "c": [
+   "4.01 &times; 10<sup>4</sup> years",
+   "4.58 &times; 10<sup>4</sup> years",
+   "7.33 &times; 10<sup>5</sup> years",
+   "44.8 years"
+  ],
+  "y": [
+   "Correct: 1/128 = (1/2)<sup>7</sup>: 7 &times; 5730 = 40,110 years, three significant figures. This is near the method's limit of about 50,000 years.",
+   "This counts 8 half-lives; 2<sup>7</sup> = 128.",
+   "This multiplies 5730 by 128; multiply by n = 7.",
+   "This multiplies the fraction by 5730."
+  ],
+  "h": "How many times must you halve 1 to reach 1/128?",
+  "w": "n = 7: <b>4.01 &times; 10<sup>4</sup> years</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c14-h30",
+  "t": "ch14-dating",
+  "q": "An archaeologist finds a clay pot with charred food stuck to the inside. What can radiocarbon dating measure?",
+  "c": [
+   "The age of the charred food, which came from once-living plants or animals",
+   "The age of the clay, because clay contains carbon-14 from the ground",
+   "Nothing, because cooking destroys all carbon-14",
+   "The age of the clay and the food, which must be the same"
+  ],
+  "y": [
+   "Correct: The food residue was once alive, so its carbon-14 clock started when it died; the clay is a mineral, not once-living.",
+   "Clay was never alive; it has no carbon-14 clock.",
+   "Cooking is a chemical change; it does not change nuclei, so the carbon-14 is still there.",
+   "Only the once-living food can be dated; the pot's clay is far older and was never alive."
+  ],
+  "h": "Which part was once alive?",
+  "w": "<b>The charred food</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c14-h31",
+  "t": "ch14-dating",
+  "q": "Why do radiocarbon labs calibrate their ages with tree rings?",
+  "c": [
+   "The carbon-14 level in the air has varied over thousands of years, and tree rings record known years.",
+   "Tree rings show how fast carbon-14 decays in wood.",
+   "Carbon-14 decays faster in wood than in bone.",
+   "Tree rings are the only material that contains carbon-14."
+  ],
+  "y": [
+   "Correct: Each ring can be counted to a known year, so measuring its carbon-14 shows how the starting ratio has changed; fossil fuel burning and bomb tests also changed it.",
+   "The half-life is the same in every material: 5730 years.",
+   "Half-life does not depend on the material.",
+   "All once-living material contains carbon-14."
+  ],
+  "h": "Was the starting ratio perfectly constant?",
+  "w": "<b>The air's carbon-14 level has varied</b>; counted tree rings correct for it.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c14-h32",
+  "t": "ch14-dating",
+  "q": "A meteorite is thought to be about as old as Earth, about 4.5 billion years. Which isotope is most useful for dating it?",
+  "c": [
+   "Uranium-238 (half-life 4.5 &times; 10<sup>9</sup> years)",
+   "Carbon-14 (half-life 5730 years)",
+   "Hydrogen-3 (half-life 12.3 years)",
+   "Cobalt-60 (half-life 5.27 years)"
+  ],
+  "y": [
+   "Correct: Its half-life is about the same as the age being measured; it decays (through several steps) to lead-206.",
+   "Carbon-14 works only to about 50,000 years and only for once-living things.",
+   "Tritium would have decayed away within a few centuries.",
+   "Cobalt-60 would be gone in less than a century."
+  ],
+  "h": "Match the half-life to the age.",
+  "w": "<b>Uranium-238</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c14-h33",
+  "t": "ch14-dating",
+  "q": "Archaeologists want to know whether a bone is about 1500 years old or about 3000 years old. What would they expect for its carbon-14 compared with living bone?",
+  "c": [
+   "Less than living bone, and less still if it is the older age",
+   "More than living bone, because carbon-14 builds up after death",
+   "The same as living bone, because the bone's carbon was fixed at death",
+   "None at all, because carbon-14 is gone within a few centuries"
+  ],
+  "y": [
+   "Correct: Both ages are less than one half-life (5730 years), so more than half the carbon-14 is left, and the older bone has less.",
+   "Carbon-14 only decays after death; nothing adds more.",
+   "At death the carbon stops being <i>replaced</i>, but the carbon-14 keeps decaying.",
+   "After 5730 years half is still left; it takes many half-lives to become unmeasurable."
+  ],
+  "h": "After death, carbon-14 decays and is not replaced.",
+  "w": "<b>Less than living bone, and less for the older age</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c14-h34",
+  "t": "ch14-fission",
+  "q": "Cesium-140 is one of many possible fragments when uranium-235 splits. What is the other fragment? <sup>1</sup><sub>0</sub>n + <sup>235</sup><sub>92</sub>U &rarr; <sup>140</sup><sub>55</sub>Cs + ? + 3 <sup>1</sup><sub>0</sub>n",
+  "c": [
+   "<sup>93</sup><sub>37</sub>Rb (rubidium-93)",
+   "<sup>95</sup><sub>37</sub>Rb (rubidium-95)",
+   "<sup>92</sup><sub>37</sub>Rb (rubidium-92)",
+   "<sup>93</sup><sub>36</sub>Kr (krypton-93)"
+  ],
+  "y": [
+   "Correct: Left: A = 236, Z = 92. Right so far: A = 140 + 3 = 143, Z = 55. Missing: A = 93, Z = 37, rubidium.",
+   "This counts the 3 neutrons as 1; they add 3 to the mass numbers.",
+   "This forgets the neutron on the left; the left total is 236, not 235.",
+   "Z: 92 &minus; 55 = 37, rubidium, not 36."
+  ],
+  "h": "Left total 236; count all 3 neutrons.",
+  "w": "A: 236 &minus; 140 &minus; 3 = 93. Z: 37: <b><sup>93</sup><sub>37</sub>Rb</b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c14-h35",
+  "t": "ch14-fission",
+  "q": "In most nuclear reactors, water flows through the core. What two jobs does the water do?",
+  "c": [
+   "It slows the neutrons so uranium-235 can capture them, and it carries the heat away.",
+   "It absorbs all the neutrons to stop the chain reaction, and it shields the turbine.",
+   "It is the fuel that splits, and it makes the steam.",
+   "It cools the control rods so they can give off more neutrons."
+  ],
+  "y": [
+   "Correct: The water is the moderator (slows neutrons) and the coolant (carries heat to the steam generator).",
+   "Absorbing neutrons is the job of the control rods.",
+   "Uranium-235 in the fuel rods is what splits.",
+   "Control rods absorb neutrons; they do not give them off."
+  ],
+  "h": "Moderator and coolant.",
+  "w": "<b>Moderator and coolant</b>: slows neutrons, carries heat.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c14-h36",
+  "t": "ch14-fission",
+  "q": "Why can a nuclear power reactor not explode like an atomic bomb?",
+  "c": [
+   "Its fuel is only a few percent uranium-235, too little for a runaway chain reaction.",
+   "Its fuel is plutonium, which cannot undergo fission.",
+   "Its control rods are made of uranium-235.",
+   "Reactors use fusion, which cannot run away."
+  ],
+  "y": [
+   "Correct: Bomb material is highly enriched and slammed into a supercritical mass; reactor fuel's low enrichment cannot do this. (Serious accidents, such as Chernobyl, are still possible, but not a nuclear explosion.)",
+   "Plutonium-239 can undergo fission; it was used in a 1945 bomb.",
+   "Control rods are neutron absorbers such as boron or cadmium.",
+   "Power reactors use fission; practical fusion power does not exist yet."
+  ],
+  "h": "Think about how much uranium-235 is in the fuel.",
+  "w": "<b>Low-enrichment fuel (a few percent uranium-235)</b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c14-h37",
+  "t": "ch14-fission",
+  "q": "Which statement correctly compares fission and fusion?",
+  "c": [
+   "Fission splits a heavy nucleus; fusion joins light nuclei. Both turn a little mass into energy.",
+   "Fission joins light nuclei; fusion splits a heavy nucleus.",
+   "Fission releases energy; fusion absorbs energy.",
+   "Fusion is used in today's nuclear power plants; fission powers the Sun."
+  ],
+  "y": [
+   "Correct: Fission: uranium-235 or plutonium-239 split by a neutron. Fusion: hydrogen isotopes joined at very high temperature, as in the Sun.",
+   "This swaps the two; fission sounds like &ldquo;fissure,&rdquo; a crack.",
+   "Both release energy; per gram of fuel, fusion releases even more.",
+   "This swaps them: power plants use fission, and the Sun uses fusion."
+  ],
+  "h": "Fission = split; fusion = fuse.",
+  "w": "<b>Fission splits heavy nuclei; fusion joins light ones; both release energy</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c14-h38",
+  "t": "ch14-medicine",
+  "q": "The dose rate 0.50 m from a sealed gamma source is 64 &mu;Sv/h. What is the dose rate 2.0 m away?",
+  "c": [
+   "4.0 &mu;Sv/h",
+   "16 &mu;Sv/h",
+   "32 &mu;Sv/h",
+   "1.0 &mu;Sv/h"
+  ],
+  "y": [
+   "Correct: 2.0 m is 4 times as far; (1/4)<sup>2</sup> = 1/16: 64 &divide; 16.",
+   "This divides by 4; the dose rate falls with the square of the distance.",
+   "This halves it; four times the distance cuts the dose rate to 1/16.",
+   "This divides by 4<sup>3</sup> = 64; the law uses the square, 4<sup>2</sup> = 16."
+  ],
+  "h": "How many times farther is 2.0 m than 0.50 m? Square that.",
+  "w": "64 &times; (0.50/2.0)<sup>2</sup> = <b>4.0 &mu;Sv/h</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c14-h39",
+  "t": "ch14-medicine",
+  "q": "A nurse caring for a patient after radioactive iodine therapy cuts her time at the bedside from 20 minutes to 10 minutes, at the same distance. How does her dose change?",
+  "c": [
+   "It is cut in half",
+   "It is cut to one-fourth",
+   "It does not change",
+   "It doubles"
+  ],
+  "y": [
+   "Correct: Dose = dose rate &times; time, so half the time gives half the dose. (Context only; care follows facility policy.)",
+   "One-fourth comes from doubling the <i>distance</i> (inverse-square law), not halving the time.",
+   "The dose depends on how long she is exposed.",
+   "Less time means less dose."
+  ],
+  "h": "Dose = dose rate &times; time.",
+  "w": "Half the time: <b>half the dose</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c14-h40",
+  "t": "ch14-medicine",
+  "q": "Patients fast for several hours before an FDG PET scan. Why?",
+  "c": [
+   "So that glucose in the blood does not compete with the FDG for uptake by cells",
+   "So that the fluorine-18 decays faster",
+   "So that the stomach does not block the gamma rays",
+   "So that the FDG is not digested into fluoride"
+  ],
+  "y": [
+   "Correct: FDG enters cells through the same glucose transporters as glucose; high blood glucose would crowd it out, weakening the image.",
+   "Nothing the patient does changes the half-life (110 min).",
+   "Gamma rays pass through the body; food does not block them.",
+   "FDG is given by injection into a vein, not swallowed."
+  ],
+  "h": "FDG is a glucose look-alike.",
+  "w": "<b>Blood glucose would compete with FDG</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c14-h41",
+  "t": "ch14-medicine",
+  "q": "Some ground beef is treated with gamma rays to kill <i>E. coli</i> bacteria. How do the gamma rays kill the bacteria?",
+  "c": [
+   "They break the bacteria's DNA, directly and through free radicals made from water.",
+   "They make the bacteria radioactive, so the bacteria decay.",
+   "They heat the meat until it is cooked.",
+   "They change the carbon atoms in the bacteria into nitrogen."
+  ],
+  "y": [
+   "Correct: A bacterium has one copy of its chromosome and limited repair, so enough DNA breaks stop it from dividing. The meat does not become radioactive.",
+   "Gamma rays change no nuclei, so nothing becomes radioactive.",
+   "The dose deposits far too little heat to cook food; the damage is to DNA.",
+   "Gamma rays ionize molecules; they do not change one element into another."
+  ],
+  "h": "Radiation damages microbes the same way it damages human cells.",
+  "w": "<b>Broken DNA</b>, directly and through free radicals.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c14-h42",
+  "t": "ch14-medicine",
+  "q": "In the 1920s, workers who painted glowing watch dials with radium paint often shaped their brushes with their lips. Why was this so harmful, even though radium's alpha particles cannot get through skin?",
+  "c": [
+   "The swallowed radium settled in their bones, so its alpha particles hit living cells from the inside.",
+   "Radium's alpha particles are the most penetrating radiation.",
+   "The paint gave off X-rays from the radium nuclei.",
+   "Radium is harmful only as a gas."
+  ],
+  "y": [
+   "Correct: Inside the body, the highly ionizing alpha particles deliver all their energy to nearby living cells; radium is taken up in bone like calcium.",
+   "Alpha particles are the least penetrating; the danger was being inside the body.",
+   "X-rays come from machines, not nuclei; radium gives off alpha particles.",
+   "Radium is a metal; it was harmful because it was swallowed."
+  ],
+  "h": "Alpha: highest ionizing power, lowest penetrating power.",
+  "w": "<b>Swallowed radium put alpha emitters inside the body</b>.",
+  "d": 2,
+  "k": 0
+ }
+]
