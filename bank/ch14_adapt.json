@@ -778,7 +778,7 @@
  },
  {
   "id": "c14-h38",
-  "t": "ch14-medicine",
+  "t": "ch14-health",
   "q": "The dose rate 0.50 m from a sealed gamma source is 64 &mu;Sv/h. What is the dose rate 2.0 m away?",
   "c": [
    "4.0 &mu;Sv/h",
@@ -799,7 +799,7 @@
  },
  {
   "id": "c14-h39",
-  "t": "ch14-medicine",
+  "t": "ch14-health",
   "q": "A nurse caring for a patient after radioactive iodine therapy cuts her time at the bedside from 20 minutes to 10 minutes, at the same distance. How does her dose change?",
   "c": [
    "It is cut in half",
@@ -862,7 +862,7 @@
  },
  {
   "id": "c14-h42",
-  "t": "ch14-medicine",
+  "t": "ch14-health",
   "q": "In the 1920s, workers who painted glowing watch dials with radium paint often shaped their brushes with their lips. Why was this so harmful, even though radium's alpha particles cannot get through skin?",
   "c": [
    "The swallowed radium settled in their bones, so its alpha particles hit living cells from the inside.",

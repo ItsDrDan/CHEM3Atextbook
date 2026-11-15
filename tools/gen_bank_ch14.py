@@ -852,6 +852,42 @@ def build():
       "<b>X-rays from a tube (outside the nucleus); gamma rays from decaying nuclei</b>.", 2)
 
 
+    # ======================= ch14-health (added 2026-11-15 when 14.6 was split) =======================
+    T = 'ch14-health'
+    Q(T, "For most people in the United States, which source gives the largest share of natural background radiation?",
+      ["Radon gas from uranium in rocks and soil, breathed into the lungs",
+       "Nuclear power plants", "Cosmic rays from space", "Potassium-40 in food"],
+      ["Radon-222 forms from the decay of uranium-238 underground, seeps into buildings, and is the largest natural source of exposure.",
+       "Nuclear power plants add only a tiny amount to the dose of people living nearby.",
+       "Cosmic rays add to background radiation, more at high altitude and on flights, but they are not the largest natural source.",
+       "Potassium-40 in food and in the body contributes, but less than radon."],
+      "Which natural source is a gas that collects indoors?",
+      "<b>Radon</b> is the largest natural source of background radiation.", 1)
+
+    r, d1, d2 = '54', '2.0', '6.0'; v = D(r) * (D(d1) / D(d2)) ** 2
+    Q(T, "During a bone scan, a technologist stands 2.0 m from the patient, where the dose rate is %s &mu;Sv/h. If she moves to 6.0 m, what dose rate does she receive?" % r,
+      [S(v, 2, '&mu;Sv/h'), S(D(r) / 3, 2, '&mu;Sv/h'), S(D(r) / 2, 2, '&mu;Sv/h'), S(D(r) / 6, 2, '&mu;Sv/h')],
+      ["Three times the distance gives (1/3)<sup>2</sup> = 1/9 of the dose rate: %s &divide; 9." % r,
+       "This divides by 3; the dose rate falls with the <i>square</i> of the distance.",
+       "This halves it; tripling the distance cuts the dose rate to one-ninth.",
+       "This divides by 6, the new distance; use the ratio of the distances, squared."],
+      "Dose rate &prop; 1/distance<sup>2</sup>; how many times farther is 6.0 m than 2.0 m?",
+      "%s &times; (2.0/6.0)<sup>2</sup> = %s &divide; 9 = <b>%s</b>." % (r, r, S(v, 2, '&mu;Sv/h')), 2, 1)
+
+    Q(T, "Which tissue is most sensitive to radiation damage?",
+      ["Bone marrow, because its cells divide rapidly to make blood cells",
+       "Adult nerve cells in the brain", "Adult muscle", "Tooth enamel"],
+      ["Rapidly dividing cells are the most sensitive, because damaged DNA is copied before it can be repaired; bone marrow makes new blood cells constantly.",
+       "Adult nerve cells rarely divide, so they are among the least sensitive.",
+       "Adult muscle cells divide slowly, so they are less sensitive.",
+       "Enamel is mostly mineral with no living, dividing cells."],
+      "Which cells are most sensitive: rapidly dividing ones or slowly dividing ones?",
+      "<b>Bone marrow</b>: its rapidly dividing cells are the most sensitive.", 1)
+
+    RETOPIC = {'c14-063': 'ch14-health', 'c14-065': 'ch14-health', 'c14-066': 'ch14-health', 'c14-067': 'ch14-health'}
+    for it in B:
+        if it['id'] in RETOPIC and not CFG['adapt']: it['t'] = RETOPIC[it['id']]
+
 if __name__ == '__main__':
     build()
     dump(sys.argv[1])

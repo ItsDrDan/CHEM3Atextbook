@@ -30,7 +30,7 @@ from decimal import Decimal as D, getcontext, ROUND_HALF_UP
 getcontext().prec = 50; getcontext().rounding = ROUND_HALF_UP
 TRY = json.load(open(sys.argv[1])); HW = json.load(open(sys.argv[2]))
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-TOP = {'ch14-radiation', 'ch14-decay', 'ch14-halflife', 'ch14-dating', 'ch14-fission', 'ch14-medicine'}
+TOP = {'ch14-radiation', 'ch14-decay', 'ch14-halflife', 'ch14-dating', 'ch14-fission', 'ch14-health', 'ch14-medicine'}
 err = []
 
 # ---------- text ----------
@@ -94,8 +94,8 @@ for t_ in {f['type'] for q in TRY for f in q.get('f', [])}:
 wid = open(os.path.join(ROOT, 'js', 'widget.js'), encoding='utf-8').read()
 for t_ in TOP:
     if "'%s'" % t_ not in wid: err.append('topic %s missing from js/widget.js TOPICS' % t_)
-WANT_T = {'ch14-radiation': 10, 'ch14-decay': 18, 'ch14-halflife': 16, 'ch14-dating': 10, 'ch14-fission': 8, 'ch14-medicine': 10}
-WANT_H = {'ch14-radiation': 6, 'ch14-decay': 11, 'ch14-halflife': 10, 'ch14-dating': 6, 'ch14-fission': 4, 'ch14-medicine': 5}
+WANT_T = {'ch14-radiation': 10, 'ch14-decay': 18, 'ch14-halflife': 16, 'ch14-dating': 10, 'ch14-fission': 8, 'ch14-health': 7, 'ch14-medicine': 6}
+WANT_H = {'ch14-radiation': 6, 'ch14-decay': 11, 'ch14-halflife': 10, 'ch14-dating': 6, 'ch14-fission': 4, 'ch14-health': 3, 'ch14-medicine': 2}
 for nm, B, W in (('Try It', TRY, WANT_T), ('ADAPT', HW, WANT_H)):
     got = dict(collections.Counter(q['t'] for q in B))
     if got != W: err.append('%s topic counts %s, planned %s' % (nm, got, W))
@@ -405,7 +405,7 @@ calc('1/128 of the carbon-14', ['1/128'], _age(n_amounts('128', '1', 'C-14'), ['
 _nt = n_amounts('4', '1', 'H-3')
 calc('1/4 of the tritium', ['12.3', '1/4'], {0: lambda m: U(_nt * D('12.3'), 3, 'years'), 1: lambda m: U(4 * D('12.3'), 3, 'years'),
      2: lambda m: U((_nt + 1) * D('12.3'), 3, 'years'), 3: lambda m: U(1 * D('12.3'), 3, 'years')}, 'hydrogen-3')
-# ---- ch14-medicine: inverse-square law ----
+# ---- ch14-health / ch14-medicine: inverse-square law ----
 def _inv(r, d1, d2):
     k = D(d2) / D(d1); n = min(sf(r), sf(d1), sf(d2))
     return {0: lambda m: U(D(r) / k ** 2, n, 'µSv/h'), 'lin': lambda m: U(D(r) / k, n, 'µSv/h'), 'half': lambda m: U(D(r) / 2, n, 'µSv/h'),
@@ -413,6 +413,8 @@ def _inv(r, d1, d2):
 _i1 = _inv('48', '1.0', '4.0'); _i2 = _inv('64', '0.50', '2.0')
 calc('dose rate of 48 µSv/h at 1.0 m', ['48', '1.0', '4.0'], {0: _i1[0], 1: _i1['lin'], 2: _i1['2k'], 3: _i1['half']})
 calc('0.50 m from a sealed gamma source is 64', ['64', '0.50', '2.0'], {0: _i2[0], 1: _i2['lin'], 2: _i2['half'], 3: _i2['cube']})
+_i3 = _inv('54', '2.0', '6.0')
+calc('where the dose rate is 54', ['54', '2.0', '6.0'], {0: _i3[0], 1: _i3['lin'], 2: _i3['half'], 3: lambda m: U(D('54') / 6, 2, 'µSv/h')})
 
 print('Calculation items: key and distractors recomputed (exact = halving chain rounded each step, and = the choice as written)')
 checked, hand = set(), set()

@@ -444,6 +444,9 @@ def build_hw():
       "Alpha: highest ionizing power, lowest penetrating power.",
       "<b>Swallowed radium put alpha emitters inside the body</b>.", 2)
 
+    for it in G.B:
+        if it['id'] in ('c14-h38', 'c14-h39', 'c14-h42'): it['t'] = 'ch14-health'
+
 
 if __name__ == '__main__':
     build_hw()
