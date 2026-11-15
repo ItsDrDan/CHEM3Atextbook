@@ -206,6 +206,8 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - Valley Connection: **Ozone (O₃) as the Valley's summer air pollutant** (San Joaquin Valley APCD; American Lung Association *State of the Air*): its Lewis structure (Going Further note on resonance) and why it irritates airways.
 **Patient case**: no opener (moderate tie). Optional problem: draw O₂ and CO₂, the gases he exchanges.
 
+**Status 2026-11-14:** built and published (597486 intro, 597922–597932), aligned to Lecture 12.5 / Week 6 lab lecture (bonding), Lecture 13 (VSEPR and polarity), Lectures 11.5/12 (composition), Exp 5a and Exp 6a (In the Lab boxes in 6.7 and 6.3); 7 figures; 55 practice problems; 66 Try It + 40 homework items; ADAPT 224851. Opener: Chemistry in the Community, Valley ozone (ALA State of the Air, SJVAPCD, EPA). Boxes: DH hydroxyapatite/fluorapatite vs sealant polymers (6.1), Biology water shape (6.4), RT gases polarity and membranes (6.5), Nursing KCl % K and calcium salts (6.6), Biology carbohydrates CH2O (6.7). Going Further page 6.11 (resonance, octet exceptions). Old pages retired.
+
 ## Chapter 7. Chemical Reactions (COR 5)
 
 **Sections**
