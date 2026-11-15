@@ -259,6 +259,8 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - Valley Connection: **Fertilizer nitrogen budgets** (how much ammonium nitrate supplies a given mass of N; UC ANR nitrogen management) or **dairy digester biogas** (CH₄ + 2 O₂ → CO₂ + 2 H₂O; CARB dairy methane program).
 **Patient case**: no opener (weak tie). Optional problem: CO₂ produced from a given mass of glucose.
 
+**Status 2026-11-14:** built and published (597491 intro, 597962–597970); Biology Connection opener (cellular respiration as a recipe), no Mateo; 4 figures; 55 practice problems; 66 Try It + 42 homework items (1 particle-diagram item with an ADAPT SVG); ADAPT 224853. Boxes: RT oxygen (8.1), Biology microbiology (8.2), In the Lab Exp 8a (8.3), Nursing/pharmacy limiting ingredient (8.4), In the Lab Exp 11a alum and Major pharmaceutical yields (8.5), Biology food Calories and Valley dairy digesters (8.6). Old pages retired.
+
 ## Chapter 9. Energy, Solids, and Liquids (COR 7)
 
 **Sections**

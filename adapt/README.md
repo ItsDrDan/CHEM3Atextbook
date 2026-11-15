@@ -63,3 +63,9 @@ POST `/api/questions` (Bearer token from the `token` cookie) with the editor-sha
 - Assignment **224852** "CHEM 3A Chapter 7: Chemical Reactions" (template 145; same settings: 3 attempts, hints no penalty, marked late, 2 points, random 50 = 100 points; hidden; placeholder dates). Folder 15026.
 - Pool **112**: all 70 Try It items in `bank/ch07.json` (2 table items with an HTML table in the stem) and 42 homework-only items in `bank/ch07_adapt.json`.
 - Read back: all 112 match the bank, no duplicates, none missing.
+
+## Chapter 8 (2026-11-14)
+
+- Assignment **224853** "CHEM 3A Chapter 8: Stoichiometry" (template 145; same settings: 3 attempts, hints no penalty, marked late, 2 points, random 50 = 100 points; hidden; placeholder dates). Folder 15027.
+- Pool **108**: all 66 Try It items in `bank/ch08.json` (3 table items with an HTML table in the stem; 1 particle-diagram item, c8-041, with `figures/adapt/c8-041.svg` and alt text in `figures/adapt/alt_ch08.json`) and 42 homework-only items in `bank/ch08_adapt.json`.
+- Read back: all 108 match the bank, no duplicates, none missing.
