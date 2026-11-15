@@ -1,0 +1,144 @@
+<div class="box-objectives">
+<p class="boxtitle">Learning Objectives</p>
+<ul>
+<li>Calculate pH and pOH from [H<sub>3</sub>O<sup>+</sup>] and [OH<sup>&minus;</sup>], using the correct number of decimal places.</li>
+<li>Calculate [H<sub>3</sub>O<sup>+</sup>] and [OH<sup>&minus;</sup>] from pH or pOH with the 10<sup>x</sup> function.</li>
+<li>Use pH + pOH = 14.00 to move between the two scales, and find the pH of strong acid and strong base solutions.</li>
+<li>Classify solutions as acidic, basic, or neutral by pH, and compare acidity across pH units.</li>
+</ul>
+</div>
+
+<p>Lemon juice has [H<sub>3</sub>O<sup>+</sup>] of about 0.0050 M; household ammonia, about 0.000000000032 M. Numbers that span that many zeros are hard to read and easy to miscopy. In 1909 the Danish chemist S&oslash;ren S&oslash;rensen, working on beer brewing, proposed a shortcut that health care now uses every day: the <strong>pH scale</strong>. Instead of writing the concentration, you write (roughly) the size of its negative exponent.</p>
+
+<h2>The pH Scale</h2>
+<p>The <strong>pH</strong> of a solution is the negative logarithm (base 10) of its hydronium ion concentration:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \text{pH} = -\log[\text{H}_3\text{O}^+] \)</p>
+<p>A <strong>logarithm</strong> answers the question "10 to what power gives this number?" For example, log(1000) = 3 because 10<sup>3</sup> = 1000, and log(0.001) = &minus;3 because 10<sup>&minus;3</sup> = 0.001. So a solution with [H<sub>3</sub>O<sup>+</sup>] = 1 &times; 10<sup>&minus;3</sup> M has pH = &minus;(&minus;3) = 3. The minus sign in the definition turns the negative exponents of small concentrations into positive pH values.</p>
+<p>At 25 &deg;C, using the boundaries from Section 12.4:</p>
+<ul>
+<li><strong>pH &lt; 7</strong>: acidic ([H<sub>3</sub>O<sup>+</sup>] &gt; 1.0 &times; 10<sup>&minus;7</sup> M)</li>
+<li><strong>pH = 7.00</strong>: neutral</li>
+<li><strong>pH &gt; 7</strong>: basic</li>
+</ul>
+<p>Two features of the scale surprise many students. First, <strong>lower pH means more acidic</strong>, because a larger [H<sub>3</sub>O<sup>+</sup>] has a smaller negative exponent. Second, the scale is <strong>logarithmic</strong>: each step of one pH unit is a <strong>tenfold</strong> change in [H<sub>3</sub>O<sup>+</sup>]. A solution at pH 2 has 10 times the [H<sub>3</sub>O<sup>+</sup>] of one at pH 3; a solution at pH 10 has 1000 times less [H<sub>3</sub>O<sup>+</sup>] than one at pH 7 (10 &times; 10 &times; 10), so it is 1000 times more basic.</p>
+<figure class="figure"><img src="https://itsdrdan.github.io/CHEM3Atextbook/figures/ch12/ph_scale.svg" alt="The pH scale from 0 at the top to 14 at the bottom, with the hydronium ion concentration from 1 M (10 to the 0) at pH 0 to 10 to the minus 14 M at pH 14. Lower pH is more acidic; higher pH is more basic. Typical values: stomach acid 1.5 to 3.5, lemon juice about 2, cola about 2.5, vinegar about 3, black coffee about 5, milk about 6.5, pure water 7.00 (neutral), blood 7.35 to 7.45 (a narrow boxed band just above 7), baking soda in water about 8.3, milk of magnesia about 10.5, household ammonia about 11.5, bleach about 12.5, drain cleaner about 14. Each step of one pH unit is a tenfold change in hydronium ion concentration." width="470" style="max-width:100%;height:auto;" />
+<figcaption>Figure \(\PageIndex{1}\): The pH scale with approximate values for everyday substances and the normal range for blood. (Diagram: Daniel Kwasniewski, CC BY 4.0; values are typical, and real samples vary.)</figcaption></figure>
+<p>Most solutions fall between pH 0 and 14, but very concentrated strong acids and bases can go slightly beyond those ends.</p>
+
+<h2>Significant Figures in pH</h2>
+<p>Logarithms have their own significant-figure rule: <strong>the number of decimal places in a pH equals the number of significant figures in the concentration</strong>. The digits before the decimal point come only from the power of 10, so they are not counted.</p>
+<ul>
+<li>[H<sub>3</sub>O<sup>+</sup>] = 1.0 &times; 10<sup>&minus;7</sup> M (2 significant figures) &rarr; pH = 7.00 (2 decimal places)</li>
+<li>[H<sub>3</sub>O<sup>+</sup>] = 5.0 &times; 10<sup>&minus;7</sup> M (2 significant figures) &rarr; pH = 6.30</li>
+<li>[H<sub>3</sub>O<sup>+</sup>] = 3.65 &times; 10<sup>&minus;4</sup> M (3 significant figures) &rarr; pH = 3.438</li>
+</ul>
+<p>The same rule works backward: a pH with two decimal places gives a concentration with two significant figures.</p>
+
+<div class="box-note"><p class="boxtitle">Professor Tip</p>
+<p><strong>Taking &minus;log on the TI-36X Pro:</strong> press <strong>(&minus;)</strong> (the negative key, not subtraction), then the log key at the top left. That key cycles each time you press it; press it until the screen shows <strong>log(</strong>, not <strong>ln(</strong> (natural log). Type the concentration with the <strong>&times;10<sup>n</sup></strong> key, close the parenthesis, and press <strong>enter</strong>. Example: (&minus;) log( 3.5 &times;10<sup>n</sup> (&minus;) 4 ) enter &rarr; 3.4559&hellip;</p>
+<p><strong>Going back with 10<sup>x</sup>:</strong> the key just below the log key cycles e<sup>x</sup> and 10<sup>x</sup>; press it until the screen shows <strong>10^</strong>, then type <strong>(&minus;)</strong> and the pH and press enter. You can also type <strong>10</strong>, the <strong>^</strong> key, <strong>(&minus;)</strong>, and the pH.</p></div>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{1}\): pH of a strong acid</p>
+<p><strong>Problem.</strong> What is the pH of 3.5 &times; 10<sup>&minus;4</sup> M HNO<sub>3</sub>?</p>
+<p><strong>Solution.</strong> HNO<sub>3</sub> is a strong acid, so [H<sub>3</sub>O<sup>+</sup>] = 3.5 &times; 10<sup>&minus;4</sup> M.</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \text{pH} = -\log(3.5 \times 10^{-4}) = 3.4559\ldots = 3.46 \)</p>
+<p><strong>Check.</strong> Two significant figures in 3.5 give two decimal places. The concentration is between 10<sup>&minus;4</sup> and 10<sup>&minus;3</sup> M, so the pH must be between 3 and 4, and it is below 7 (acidic).</p></div>
+
+<h2>pOH and the pH + pOH Relationship</h2>
+<p>The same "p" idea works for hydroxide: <strong>pOH = &minus;log[OH<sup>&minus;</sup>]</strong>. Taking &minus;log of both sides of K<sub>w</sub> = [H<sub>3</sub>O<sup>+</sup>][OH<sup>&minus;</sup>] = 1.0 &times; 10<sup>&minus;14</sup> gives a simple sum at 25 &deg;C:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \text{pH} + \text{pOH} = 14.00 \)</p>
+<p>So if pH = 6.00, pOH = 8.00. The four quantities form a loop: from any one of them you can reach the other three, as Figure 2 shows.</p>
+<figure class="figure"><img src="https://itsdrdan.github.io/CHEM3Atextbook/figures/ch12/ph_map.svg" alt="A map connecting four quantities in boxes: hydronium concentration and hydroxide concentration across the top, pH and pOH across the bottom. Across the top: hydronium concentration times hydroxide concentration equals 1.0 times 10 to the minus 14. Across the bottom: pH plus pOH equals 14.00. Down each side, take minus log to go from a concentration to pH or pOH; up each side, use 10 to the minus pH or 10 to the minus pOH to go back. Written out: pH equals minus log of hydronium concentration, hydronium concentration equals 10 to the minus pH; pOH equals minus log of hydroxide concentration, hydroxide concentration equals 10 to the minus pOH. All at 25 degrees Celsius." width="470" style="max-width:100%;height:auto;" />
+<figcaption>Figure \(\PageIndex{2}\): Four ways to describe acidity, and the equations that connect them. (Diagram: Daniel Kwasniewski, CC BY 4.0.)</figcaption></figure>
+<p>For a strong base, the usual path is: find [OH<sup>&minus;</sup>] from the formula (Section 12.4), take &minus;log to get pOH, then subtract from 14.00 to get pH.</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{2}\): pH of a strong base</p>
+<p><strong>Problem.</strong> What are the pOH and pH of 0.0025 M NaOH?</p>
+<p><strong>Solution.</strong> NaOH is a strong base with one OH<sup>&minus;</sup>, so [OH<sup>&minus;</sup>] = 0.0025 M = 2.5 &times; 10<sup>&minus;3</sup> M.</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \text{pOH} = -\log(2.5 \times 10^{-3}) = 2.60 \qquad \text{pH} = 14.00 - 2.60 = 11.40 \)</p>
+<p><strong>Check.</strong> Two significant figures give two decimal places. A pH above 7 fits a base. Going the other way, [H<sub>3</sub>O<sup>+</sup>] = 1.0 &times; 10<sup>&minus;14</sup> &divide; 2.5 &times; 10<sup>&minus;3</sup> = 4.0 &times; 10<sup>&minus;12</sup> M, and &minus;log of that is also 11.40.</p></div>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{3}\): A base with two hydroxides</p>
+<p><strong>Problem.</strong> What is the pH of 0.015 M Ba(OH)<sub>2</sub>?</p>
+<p><strong>Solution.</strong> Ba(OH)<sub>2</sub> &rarr; Ba<sup>2+</sup> + 2 OH<sup>&minus;</sup>, so [OH<sup>&minus;</sup>] = 2 &times; 0.015 M = 0.030 M.</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \text{pOH} = -\log(0.030) = 1.52 \qquad \text{pH} = 14.00 - 1.52 = 12.48 \)</p>
+<p><strong>Check.</strong> 0.030 has two significant figures (the leading zeros do not count), so two decimal places. Forgetting the factor of 2 would give pH 12.18, too low.</p></div>
+
+<h2>From pH Back to Concentration</h2>
+<p>To undo a logarithm, raise 10 to that power (the <strong>antilog</strong>, or inverse log):</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( [\text{H}_3\text{O}^+] = 10^{-\text{pH}} \qquad [\text{OH}^-] = 10^{-\text{pOH}} \)</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{4}\): [H<sub>3</sub>O<sup>+</sup>] from pH</p>
+<p><strong>Problem.</strong> A sample of gastric fluid has pH 1.85. What are [H<sub>3</sub>O<sup>+</sup>] and [OH<sup>&minus;</sup>]?</p>
+<p><strong>Solution.</strong></p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( [\text{H}_3\text{O}^+] = 10^{-1.85} = 0.01412\ldots = 1.4 \times 10^{-2}\ M \)</p>
+<p>pOH = 14.00 &minus; 1.85 = 12.15, so [OH<sup>&minus;</sup>] = 10<sup>&minus;12.15</sup> = 7.1 &times; 10<sup>&minus;13</sup> M.</p>
+<p><strong>Check.</strong> Two decimal places in 1.85 give two significant figures. A pH between 1 and 2 means [H<sub>3</sub>O<sup>+</sup>] between 10<sup>&minus;2</sup> and 10<sup>&minus;1</sup> M, and 0.014 M is.</p></div>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{5}\): Mateo's blood gas</p>
+<p><strong>Problem.</strong> During his asthma attack, Mateo's arterial blood pH is 7.30. Find his [H<sub>3</sub>O<sup>+</sup>] and compare it with the [H<sub>3</sub>O<sup>+</sup>] at pH 7.40, the middle of the normal range.</p>
+<p><strong>Solution.</strong></p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \text{pH } 7.30:\ [\text{H}_3\text{O}^+] = 10^{-7.30} = 5.0 \times 10^{-8}\ M \qquad \text{pH } 7.40:\ [\text{H}_3\text{O}^+] = 10^{-7.40} = 4.0 \times 10^{-8}\ M \)</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \dfrac{5.0 \times 10^{-8}}{4.0 \times 10^{-8}} = 1.25 \)</p>
+<p>His blood has about 1.25 times the normal [H<sub>3</sub>O<sup>+</sup>], roughly 25% more, from a pH drop of only 0.10.</p>
+<p><strong>Check.</strong> A drop of 0.10 pH unit multiplies [H<sub>3</sub>O<sup>+</sup>] by 10<sup>0.10</sup> = 1.26; the small difference from 1.25 comes from rounding the concentrations to two significant figures. A lower pH must mean more H<sub>3</sub>O<sup>+</sup>, and it does.</p></div>
+
+<div class="box-note"><p class="boxtitle">Clinical Connection: Respiratory Therapy</p>
+<p>An <strong>arterial blood gas (ABG)</strong> reports the pH of arterial blood along with <strong>PaCO<sub>2</sub></strong>, the partial pressure of carbon dioxide (normally about 35 to 45 mmHg), and the bicarbonate level. Normal arterial pH is <strong>7.35 to 7.45</strong>. Below 7.35 is <strong>acidosis</strong> (blood too acidic); above 7.45 is <strong>alkalosis</strong> (blood too basic). When the cause is breathing, the terms are <strong>respiratory</strong> acidosis or alkalosis: breathing too little lets CO<sub>2</sub> build up (<strong>hypercapnia</strong>), which lowers pH (Section 12.6 shows why), and breathing too fast blows off CO<sub>2</sub> and raises pH. Problems with metabolism or the kidneys cause <strong>metabolic</strong> acidosis or alkalosis. Because pH is logarithmic, small-looking numbers matter: at pH 7.25, [H<sub>3</sub>O<sup>+</sup>] = 10<sup>&minus;7.25</sup> = 5.6 &times; 10<sup>&minus;8</sup> M, about 1.4 times the 4.0 &times; 10<sup>&minus;8</sup> M at pH 7.40. Respiratory therapists read these values every shift and report them to the care team. (Context only; interpretation and treatment follow the provider's orders and facility protocols.)</p></div>
+
+<div class="box-note"><p class="boxtitle">Clinical Connection: Dental Hygiene</p>
+<p>Tooth <strong>enamel</strong> is made mostly of hydroxyapatite, a calcium phosphate mineral that contains hydroxide and phosphate ions, both of which react with acid. When the pH at the tooth surface falls below about <strong>5.5</strong>, the <strong>critical pH</strong>, enamel begins to dissolve, a process called <strong>demineralization</strong>. When the pH rises again, saliva can return calcium and phosphate to the enamel (<strong>remineralization</strong>). Many soft drinks have a pH around 2.5 to 3, and sports drinks and fruit juices are often around 3 to 4. A cola at pH 2.5 has 10<sup>3</sup> = 1000 times the [H<sub>3</sub>O<sup>+</sup>] of a liquid at the critical pH of 5.5. Sipping such drinks slowly through the day keeps the tooth surface below the critical pH for long stretches, which is why dental hygienists ask patients <em>how</em> they drink as well as <em>what</em> they drink. Repeated acid exposure from drinks or stomach acid causes <strong>dental erosion</strong>; acid made by plaque bacteria causes <strong>dental caries</strong> (cavities; Section 12.6). (Context only; follow the dentist's recommendations.)</p></div>
+
+<div class="box-note" style="border-left:6px solid #2e7d32;">
+<p class="boxtitle">Explore It: pH Scale</p>
+<p>Test everyday liquids, add water to dilute them, and watch the pH, [H<sub>3</sub>O<sup>+</sup>], and [OH<sup>&minus;</sup>] change together. The card list also shows Reactants, Products and Leftovers; tap <strong>Open the sim</strong> on the <strong>pH Scale</strong> card to start, then try the short tasks below it.</p>
+<p><iframe src="https://itsdrdan.github.io/labpractical/?mode=bench&amp;labs=12a" width="100%" height="900" style="border:0;border-radius:12px;" title="Explore It: pH Scale" loading="lazy" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="font-size:0.9em;"><a href="https://itsdrdan.github.io/labpractical/?mode=bench&amp;labs=12a" target="_blank" rel="noopener">Open the PhET Lab Bench in a new tab</a>. Interactive by ItsDrDan (all rights reserved; linked, not part of the licensed text). The simulation is by PhET Interactive Simulations, University of Colorado Boulder (CC BY 4.0).</p>
+</div>
+
+<h2>Video Lessons</h2>
+<p>The pH scale and everyday examples, from <a href="https://youtu.be/M5gCzKjb0kA?t=26" target="_blank" rel="noopener">0:26</a>; pH = &minus;log[H<sup>+</sup>] with a strong acid example, from <a href="https://youtu.be/M5gCzKjb0kA?t=518" target="_blank" rel="noopener">8:38</a>; going back with the inverse log, from <a href="https://youtu.be/M5gCzKjb0kA?t=689" target="_blank" rel="noopener">11:29</a>; pH + pOH = 14, from <a href="https://youtu.be/M5gCzKjb0kA?t=876" target="_blank" rel="noopener">14:36</a>. Then logs and antilogs on the TI-36X Pro, including the decimal-place rule, from <a href="https://youtu.be/AAOXGkcrUMg?t=169" target="_blank" rel="noopener">2:49</a> (antilogs at <a href="https://youtu.be/AAOXGkcrUMg?t=478" target="_blank" rel="noopener">7:58</a>), and the pH of a strong base solution step by step, from <a href="https://youtu.be/tbcxL9K3KBU?t=682" target="_blank" rel="noopener">11:22</a> of the practice problems video.</p>
+<p><iframe style="max-width:100%;height:auto;aspect-ratio:16/9;" width="560" height="315" src="https://www.youtube.com/embed/M5gCzKjb0kA?start=26&amp;rel=0" title="Introduction to the pH scale | pH, pOH, H+, and OH- | Acid Base Chemistry (ItsDrDan)" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></p>
+<p><iframe style="max-width:100%;height:auto;aspect-ratio:16/9;" width="560" height="315" src="https://www.youtube.com/embed/AAOXGkcrUMg?start=169&amp;rel=0" title="Logarithms and Antilogs: Math Skills to Ace Chemistry | For pH and Acid-Base Concentrations! (ItsDrDan)" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></p>
+
+<div class="box-note" style="border-left:6px solid #86509b;">
+<p class="boxtitle">Try It: pH and pOH</p>
+<p>pH and pOH from concentrations, concentrations from pH, decimal places, and comparing acidity. Every answer choice gives feedback.</p>
+<p><iframe src="https://itsdrdan.github.io/CHEM3Atextbook/practice.html?t=ch12-ph&amp;n=8&amp;title=pH+and+pOH&amp;game=finalboss" width="100%" height="620" style="border:0;border-radius:12px;background:#f5f6fb;" title="Try It: pH and pOH" loading="lazy"></iframe></p>
+<p style="font-size:0.9em;">Not loading? <a href="https://itsdrdan.github.io/CHEM3Atextbook/practice.html?t=ch12-ph&amp;n=8&amp;title=pH+and+pOH&amp;game=finalboss" target="_blank" rel="noopener">Open this practice in a new tab</a>.</p>
+</div>
+
+<h2>Common Mistakes</h2>
+<ul>
+<li><strong>Using ln instead of log</strong>: check that the screen shows log( before you enter the number.</li>
+<li><strong>Dropping the minus sign</strong>: pH values of ordinary solutions are positive; a negative answer usually means a missing (&minus;).</li>
+<li><strong>Counting decimal places wrong</strong>: decimal places in pH = significant figures in the concentration (pH 3.46, not 3.5 or 3.456, for a two-figure concentration).</li>
+<li><strong>Reporting pOH as the pH</strong> for a base: subtract from 14.00 at the end.</li>
+<li><strong>Thinking pH 4 is "twice as acidic" as pH 8</strong>: it is 10<sup>4</sup> = 10,000 times higher in [H<sub>3</sub>O<sup>+</sup>].</li>
+</ul>
+
+<h2>Summary</h2>
+<ul>
+<li>pH = &minus;log[H<sub>3</sub>O<sup>+</sup>]; pOH = &minus;log[OH<sup>&minus;</sup>]; pH + pOH = 14.00 at 25 &deg;C.</li>
+<li>[H<sub>3</sub>O<sup>+</sup>] = 10<sup>&minus;pH</sup>; [OH<sup>&minus;</sup>] = 10<sup>&minus;pOH</sup>.</li>
+<li>pH &lt; 7 acidic, 7.00 neutral, &gt; 7 basic; each pH unit is a tenfold change in [H<sub>3</sub>O<sup>+</sup>].</li>
+<li>Decimal places in pH = significant figures in the concentration.</li>
+<li>Normal arterial blood pH is 7.35&ndash;7.45; below is acidosis, above is alkalosis.</li>
+</ul>
+
+<h2>Exercises</h2>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{1}\)</p>
+<p>Find the pH of 0.0063 M HCl.</p>
+<details><summary>Answer</summary><p>HCl is strong, so [H<sub>3</sub>O<sup>+</sup>] = 6.3 &times; 10<sup>&minus;3</sup> M; pH = &minus;log(6.3 &times; 10<sup>&minus;3</sup>) = 2.2007&hellip; = <strong>2.20</strong> (two decimal places for two significant figures).</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{2}\)</p>
+<p>Find the pOH and pH of 6.0 &times; 10<sup>&minus;4</sup> M KOH.</p>
+<details><summary>Answer</summary><p>[OH<sup>&minus;</sup>] = 6.0 &times; 10<sup>&minus;4</sup> M; pOH = 3.2218&hellip; = <strong>3.22</strong>; pH = 14.00 &minus; 3.22 = <strong>10.78</strong>.</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{3}\)</p>
+<p>A rinse solution has pH 4.62. Find [H<sub>3</sub>O<sup>+</sup>] and classify it.</p>
+<details><summary>Answer</summary><p>[H<sub>3</sub>O<sup>+</sup>] = 10<sup>&minus;4.62</sup> = 2.4 &times; 10<sup>&minus;5</sup> M (two significant figures from two decimal places). pH below 7: acidic.</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{4}\)</p>
+<p>A patient's arterial pH is 7.48. Is this acidosis, alkalosis, or normal? What is [H<sub>3</sub>O<sup>+</sup>]?</p>
+<details><summary>Answer</summary><p>Above 7.45: <strong>alkalosis</strong>. [H<sub>3</sub>O<sup>+</sup>] = 10<sup>&minus;7.48</sup> = 3.3 &times; 10<sup>&minus;8</sup> M, less than the 4.0 &times; 10<sup>&minus;8</sup> M at pH 7.40.</p></details></div>
+
+<div class="box-note"><p class="boxtitle">Attribution</p>
+<p>Written by Daniel Kwasniewski (Dr. Dan), Fresno City College, for CHEM 3A, with AI assistance; reviewed by the author. Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>. This page replaces "The pH and pOH Scales: Ways to Express Acidity and Basicity" from earlier versions of this book. pH values of everyday substances are typical values and vary from sample to sample. Videos and the Lab Bench by ItsDrDan (all rights reserved; embedded or linked, not part of the licensed text). The pH Scale simulation is by PhET Interactive Simulations, University of Colorado Boulder, licensed CC BY 4.0.</p></div>

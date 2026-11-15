@@ -21,7 +21,7 @@ A major overhaul of the free LibreTexts textbook for **CHEM 3A (Introductory Gen
 | **Chapter 1 audit tracker** | https://claude.ai/artifact/Q4kDNVZkdMhjkA1ztvTueS (Sheets: "Ch 1 Audit" and "Chapter Progress") |
 | **CHEM 3B model repo** | `ItsDrDan/textbook`. Read its README, `tools/AUTHOR_BRIEF.md`, `tools/REVIEW_BRIEF.md` and `tools/COR_outline.md` before building anything. |
 | **Course files** | `~/Desktop/FCC Teaching/` (CHEM 3A subfolders: lecture slides, worksheets, homework, study guides, exams, lab manual) |
-| **YouTube transcripts** | `~/Desktop/YouTube Production/Subtitles/` (all ItsDrDan videos) |
+| **YouTube transcripts** | `~/Desktop/Study Games/github/games/data/transcripts.json` (all ItsDrDan videos; the old Subtitles folder is gone) |
 | **Test banks and textbooks** | `~/Desktop/Study Games/CHEM 3A Resources/` |
 | **Question banks** | `ItsDrDan/questionbank` (shared bank), `ItsDrDan/finalexam` (Final Boss, including CHEM 3A) |
 | **Games hub** | https://itsdrdan.github.io/games (repos `ItsDrDan/<game>`) |
