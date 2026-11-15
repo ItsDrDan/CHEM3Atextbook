@@ -57,3 +57,9 @@ POST `/api/questions` (Bearer token from the `token` cookie) with the editor-sha
 - Pool **106**: all 66 Try It items in `bank/ch06.json` (3 table items with an HTML table in the stem) and 40 homework-only items in `bank/ch06_adapt.json`.
 - Read back: all 106 match the bank, no duplicates, none missing.
 - Tip: if the properties icon click does not open the modal, the Vue form data still loads; set randomizations and click the visible Save button.
+
+## Chapter 7 (2026-11-14)
+
+- Assignment **224852** "CHEM 3A Chapter 7: Chemical Reactions" (template 145; same settings: 3 attempts, hints no penalty, marked late, 2 points, random 50 = 100 points; hidden; placeholder dates). Folder 15026.
+- Pool **112**: all 70 Try It items in `bank/ch07.json` (2 table items with an HTML table in the stem) and 42 homework-only items in `bank/ch07_adapt.json`.
+- Read back: all 112 match the bank, no duplicates, none missing.

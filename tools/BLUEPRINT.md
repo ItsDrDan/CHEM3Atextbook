@@ -234,6 +234,8 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - Valley Connection: **Wildfire smoke and agricultural burning** (combustion products; San Joaquin Valley APCD burn-day program; CARB) or **hard water scale (CaCO₃) in Fresno pipes**.
 **Patient-case beat**: Wildfire-smoke week: incomplete combustion makes CO and soot; Mateo's symptoms flare.
 
+**Status 2026-11-14:** built and published (597490 intro, 597944–597955), aligned to Week 11 lab lecture (reactions), Week 13 / Lecture 21–22 (aqueous reactions, solubility, gas evolution), Lecture 31–32 (redox, oxidation-number rules, activity series), the green sheet, and Exp 10a (In the Lab in 7.5); 6 figures; 56 practice problems; 70 Try It + 42 homework items; ADAPT 224852. Mateo beat: smoke week, complete vs incomplete combustion, CO. Boxes: Engineering air-fuel ratio (7.2), Biology catalase test and Valley orchard burning vs whole orchard recycling (7.3), Biology electrolytes (7.4), Rad Tech BaSO4 and Biology kidney stones (7.5), Nursing antacids (7.6), DH peroxide whitening and Biology cellular respiration (7.7). Going Further 7.12. Old pages retired.
+
 ## Chapter 8. Stoichiometry (COR 6)
 
 **Sections**
