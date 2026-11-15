@@ -1,0 +1,884 @@
+[
+ {
+  "id": "c11-h01",
+  "t": "ch11-dissolve",
+  "q": "Yellow brass, used in plumbing fittings, is about 67% copper and 33% zinc by mass. Which metal is the solvent?",
+  "c": [
+   "Copper",
+   "Zinc",
+   "Neither metal; a solid cannot be a solution",
+   "Both metals equally, because they are melted together"
+  ],
+  "y": [
+   "Correct: Copper is present in the larger amount, so it is the solvent; brass is a solid solution.",
+   "Zinc is the solute here: there is less of it (33%) than of the other metal (67%).",
+   "Solutions can be solids: brass and dental amalgam are solid solutions of metals.",
+   "Melting them together makes a homogeneous mixture, but the component present in the larger amount is still the solvent."
+  ],
+  "h": "The solvent is the component present in the largest amount.",
+  "w": "67% is the larger share: <b>copper</b> is the solvent.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c11-h02",
+  "t": "ch11-dissolve",
+  "q": "Which substance dissolves best in hexane, C<sub>6</sub>H<sub>14</sub>?",
+  "c": [
+   "Decane, C<sub>10</sub>H<sub>22</sub>",
+   "Sodium chloride, NaCl",
+   "Sucrose, C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>",
+   "Potassium nitrate, KNO<sub>3</sub>"
+  ],
+  "y": [
+   "Correct: Decane and hexane are both nonpolar hydrocarbons with dispersion forces only: like dissolves like.",
+   "NaCl is ionic; nonpolar hexane cannot form ion&ndash;dipole attractions with its ions.",
+   "Sucrose is polar with many O&ndash;H groups; it dissolves in water, not hexane.",
+   "KNO<sub>3</sub> is ionic, so it dissolves in polar water, not in nonpolar hexane."
+  ],
+  "h": "Hexane is nonpolar. Which solute is also nonpolar?",
+  "w": "Like dissolves like: nonpolar <b>decane</b> dissolves in nonpolar hexane.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c11-h03",
+  "t": "ch11-dissolve",
+  "q": "Which solute is a strong electrolyte in water?",
+  "c": [
+   "Na<sub>2</sub>SO<sub>4</sub>",
+   "ethylene glycol, C<sub>2</sub>H<sub>6</sub>O<sub>2</sub>",
+   "methanol, CH<sub>3</sub>OH",
+   "acetone, C<sub>3</sub>H<sub>6</sub>O"
+  ],
+  "y": [
+   "Correct: Na<sub>2</sub>SO<sub>4</sub> is a soluble ionic compound that separates into Na<sup>+</sup> and SO<sub>4</sub><sup>2&minus;</sup> ions.",
+   "Ethylene glycol dissolves as whole molecules, so it is a nonelectrolyte.",
+   "Methanol dissolves as whole molecules, so it is a nonelectrolyte.",
+   "Acetone is molecular and forms no ions in water, so it is a nonelectrolyte."
+  ],
+  "h": "Strong electrolytes are soluble ionic compounds.",
+  "w": "Ionic and soluble: <b>Na<sub>2</sub>SO<sub>4</sub></b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c11-h04",
+  "t": "ch11-dissolve",
+  "q": "Salad oil and vinegar (which is mostly water) separate into layers no matter how hard they are shaken. Why?",
+  "c": [
+   "Water molecules hydrogen bond to each other and squeeze out the nonpolar oil molecules.",
+   "Oil and water react to form a third layer.",
+   "Oil molecules hydrogen bond to each other more strongly than water molecules do.",
+   "Oil is denser than water, so it sinks and cannot mix."
+  ],
+  "y": [
+   "Correct: Nonpolar oil cannot form strong attractions with water, so water's hydrogen bonds keep the water together and push the oil out.",
+   "Oil and water do not react; they are immiscible because their intermolecular forces do not match.",
+   "Oil molecules are nonpolar, with dispersion forces only; they do not hydrogen bond.",
+   "Oil floats on water (it is less dense), and density decides which layer is on top, not whether the liquids mix."
+  ],
+  "h": "Compare the intermolecular forces of oil and of water.",
+  "w": "Unlike substances: <b>water's hydrogen bonds squeeze out the nonpolar oil</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c11-h05",
+  "t": "ch11-dissolve",
+  "q": "The solubility of NaNO<sub>3</sub> is 88.0 g per 100 g of water at 20 °C. A solution at 20 °C contains 176 g of NaNO<sub>3</sub> dissolved in 200. g of water. How is it described?",
+  "c": [
+   "Saturated",
+   "Supersaturated",
+   "Unsaturated",
+   "Immiscible"
+  ],
+  "y": [
+   "Correct: 200. g of water holds 88.0 &times; 2 = 176 g at 20 °C, exactly the amount dissolved: the solution holds the maximum.",
+   "This compares 176 g with 88.0 g, but 88.0 g is for 100 g of water. This solution has twice as much water.",
+   "This solution is not below the limit: it holds exactly the maximum for 200. g of water.",
+   "Immiscible describes two liquids that form layers."
+  ],
+  "h": "Scale the solubility to 200. g of water.",
+  "w": "Capacity = 88.0 g &times; 200./100 = 176 g = the amount dissolved: <b>saturated</b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c11-h06",
+  "t": "ch11-dissolve",
+  "q": "Acetone (C<sub>3</sub>H<sub>6</sub>O), a polar liquid, and water mix in all proportions. What is the term for two liquids that do this?",
+  "c": [
+   "Miscible",
+   "Immiscible",
+   "Saturated",
+   "Supersaturated"
+  ],
+  "y": [
+   "Correct: Miscible liquids mix in all proportions, as acetone and water do.",
+   "That term (with the prefix im-, &ldquo;not&rdquo;) describes liquids that form separate layers, like oil and water.",
+   "Saturated describes a solution that holds the maximum amount of a solute.",
+   "Supersaturated describes an unstable solution holding more than the solubility."
+  ],
+  "h": "Water and ethanol are another example.",
+  "w": "<b>Miscible</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c11-h07",
+  "t": "ch11-solubility",
+  "q": "At 25.0 °C, water in contact with air (O<sub>2</sub> partial pressure 0.209 atm) dissolves 8.26 mg/L of O<sub>2</sub>. A high-elevation reservoir, also at 25.0 °C, has an O<sub>2</sub> partial pressure of only 0.155 atm. What is the solubility of O<sub>2</sub> in the lake?",
+  "c": [
+   "6.13 mg/L",
+   "11.1 mg/L",
+   "1.28 mg/L",
+   "8.26 mg/L"
+  ],
+  "y": [
+   "Correct: S<sub>2</sub> = S<sub>1</sub> &times; P<sub>2</sub>/P<sub>1</sub>; lower partial pressure, less dissolved O<sub>2</sub>.",
+   "This inverts the pressure ratio; Henry's law is direct, so the solubility must fall.",
+   "This multiplies by P<sub>2</sub> without dividing by P<sub>1</sub>.",
+   "The partial pressure changed, so the solubility of the gas changes too."
+  ],
+  "h": "S<sub>1</sub>/P<sub>1</sub> = S<sub>2</sub>/P<sub>2</sub>.",
+  "w": "S<sub>2</sub> = 8.26 &times; 0.155 / 0.209 = <b>6.13 mg/L</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c11-h08",
+  "t": "ch11-solubility",
+  "q": "At 15.0 °C, 1.68 g/L of CO<sub>2</sub> dissolves in water at a CO<sub>2</sub> pressure of 0.850 atm. What CO<sub>2</sub> pressure gives a solubility of 6.85 g/L at the same temperature?",
+  "c": [
+   "3.47 atm",
+   "0.208 atm",
+   "4.08 atm",
+   "13.5 atm"
+  ],
+  "y": [
+   "Correct: P<sub>2</sub> = P<sub>1</sub> &times; S<sub>2</sub>/S<sub>1</sub>: about four times the solubility needs about four times the pressure.",
+   "This inverts the ratio, giving a lower pressure for a higher solubility.",
+   "This is only the solubility ratio; multiply it by P<sub>1</sub> = 0.850 atm.",
+   "This multiplies the two solubilities; solve S<sub>1</sub>/P<sub>1</sub> = S<sub>2</sub>/P<sub>2</sub> for P<sub>2</sub>."
+  ],
+  "h": "Solve Henry's law for P<sub>2</sub>.",
+  "w": "P<sub>2</sub> = 0.850 atm &times; 6.85 / 1.68 = <b>3.47 atm</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c11-h09",
+  "t": "ch11-solubility",
+  "q": "Which change increases the amount of CO<sub>2</sub> that can dissolve in water?",
+  "c": [
+   "Cooling the water and raising the CO<sub>2</sub> pressure",
+   "Warming the water and raising the CO<sub>2</sub> pressure",
+   "Cooling the water and lowering the CO<sub>2</sub> pressure",
+   "Warming the water and lowering the CO<sub>2</sub> pressure"
+  ],
+  "y": [
+   "Correct: Both changes help: gases dissolve better in colder water and at higher partial pressure.",
+   "Higher pressure helps, but warming lowers a gas's solubility.",
+   "Cooling helps, but lower pressure means less dissolved gas (Henry's law).",
+   "Both changes lower a gas's solubility; this is how a soda goes flat."
+  ],
+  "h": "Treat temperature and pressure separately.",
+  "w": "<b>Colder and higher pressure</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c11-h10",
+  "t": "ch11-solubility",
+  "q": "Hot tea dissolves more sugar than iced tea. Which statement explains this?",
+  "c": [
+   "For most solids, solubility increases as the temperature rises.",
+   "For most solids, solubility decreases as the temperature rises.",
+   "Hot tea is under higher pressure, which dissolves more sugar.",
+   "Sugar molecules break into ions in hot water."
+  ],
+  "y": [
+   "Correct: Faster-moving water molecules break up the solid more easily, so most solids dissolve better when hot.",
+   "That is the rule for gases, not for most solids.",
+   "Pressure has almost no effect on the solubility of solids.",
+   "Sugar dissolves as whole molecules at any temperature."
+  ],
+  "h": "Solids and gases respond to temperature in opposite ways.",
+  "w": "Most solids: <b>more soluble when hotter</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c11-h11",
+  "t": "ch11-solubility",
+  "q": "The solubility of NH<sub>4</sub>Cl is 65.6 g per 100. g of water at 80.0 °C and 29.4 g per 100. g at 0 °C. A saturated solution made with 100. g of water at 80.0 °C is chilled to 0 °C. What mass of NH<sub>4</sub>Cl crystallizes?",
+  "c": [
+   "36.2 g",
+   "65.6 g",
+   "29.4 g",
+   "95.0 g"
+  ],
+  "y": [
+   "Correct: The solution held 65.6 g; only 29.4 g can stay dissolved at 0 °C, so the rest crystallizes.",
+   "This is all the dissolved NH<sub>4</sub>Cl; 29.4 g of it stays dissolved.",
+   "This is the amount that stays dissolved at 0 °C.",
+   "This adds the solubilities; subtract them."
+  ],
+  "h": "Amount crystallized = amount dissolved hot &minus; amount that stays dissolved cold.",
+  "w": "65.6 &minus; 29.4 = <b>36.2 g</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c11-h12",
+  "t": "ch11-solubility",
+  "q": "Bubbles form as soon as a bottle of soda is opened, even though its temperature has not changed. Why?",
+  "c": [
+   "The CO<sub>2</sub> pressure above the liquid drops, so less CO<sub>2</sub> can stay dissolved.",
+   "Opening the bottle raises the CO<sub>2</sub> pressure, which forces gas out of the liquid.",
+   "CO<sub>2</sub> is more soluble at low pressure, so it dissolves and forms bubbles.",
+   "Air rushes into the bottle and reacts with the sugar to make gas."
+  ],
+  "y": [
+   "Correct: Henry's law: gas solubility is proportional to the gas's partial pressure. Opening the bottle lowers it, and the extra CO<sub>2</sub> comes out as bubbles.",
+   "Opening the bottle lets the high-pressure CO<sub>2</sub> escape, so the pressure above the liquid falls.",
+   "This reverses Henry's law: gases are <i>less</i> soluble at lower pressure.",
+   "No reaction takes place; the bubbles are CO<sub>2</sub> leaving solution."
+  ],
+  "h": "What happens to the gas pressure above the soda when the cap comes off?",
+  "w": "Lower CO<sub>2</sub> pressure, <b>less CO<sub>2</sub> can stay dissolved</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c11-h13",
+  "t": "ch11-conc",
+  "q": "A solution is made by dissolving 6.40 g of potassium iodide, KI, in 145.0 g of water. What is the mass percent of KI?",
+  "c": [
+   "4.23%",
+   "4.41%",
+   "95.8%",
+   "0.0423%"
+  ],
+  "y": [
+   "Correct: Mass of solution = 6.40 + 145.0 = 151.4 g; 6.40/151.4 &times; 100%.",
+   "This divides by the mass of water; the denominator is the whole solution.",
+   "This is the percent of water.",
+   "This is the mass fraction without &times; 100%."
+  ],
+  "h": "Solution = solute + solvent.",
+  "w": "6.40 / 151.4 &times; 100% = <b>4.23%</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c11-h14",
+  "t": "ch11-conc",
+  "q": "An over-the-counter fluoride mouth rinse is 0.050% (m/v) sodium fluoride, NaF. How many grams of NaF are in a 10.0 mL dose?",
+  "c": [
+   "0.0050 g",
+   "0.50 g",
+   "5.0 &times; 10<sup>&minus;5</sup> g",
+   "2.0 &times; 10<sup>2</sup> g"
+  ],
+  "y": [
+   "Correct: 0.050% (m/v) = 0.050 g per 100 mL: 10.0 mL &times; 0.050 g/100 mL. (Context only; follow the product directions.)",
+   "This multiplies by 0.050 without dividing by 100 mL.",
+   "This divides by 100 twice.",
+   "This divides the volume by the percent; use the percent as g per 100 mL."
+  ],
+  "h": "%(m/v) means grams per 100 mL of solution.",
+  "w": "10.0 mL &times; (0.050 g / 100 mL) = <b>0.0050 g</b> (5.0 mg).",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c11-h15",
+  "t": "ch11-conc",
+  "q": "A 2.50 L water sample from a Valley well contains 98.5 mg of nitrate. What is the nitrate concentration in ppm?",
+  "c": [
+   "39.4 ppm",
+   "246 ppm",
+   "0.0254 ppm",
+   "3.94 &times; 10<sup>4</sup> ppm"
+  ],
+  "y": [
+   "Correct: 1 ppm &asymp; 1 mg/L: 98.5 mg / 2.50 L. That is below the 45 mg/L nitrate limit.",
+   "This multiplies mg by L; ppm is mg <i>per</i> liter.",
+   "This divides liters by mg; the solute goes on top.",
+   "This multiplies by 1000 (mg to &mu;g), which gives ppb."
+  ],
+  "h": "ppm &asymp; mg/L in dilute water.",
+  "w": "98.5 mg / 2.50 L = <b>39.4 ppm</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c11-h16",
+  "t": "ch11-conc",
+  "q": "A 1.50 L sample of tap water from an older school building contains 0.0185 mg of lead. What is the lead concentration in ppb?",
+  "c": [
+   "12.3 ppb",
+   "0.0123 ppb",
+   "18.5 ppb",
+   "1.23 &times; 10<sup>4</sup> ppb"
+  ],
+  "y": [
+   "Correct: 0.0185 mg / 1.50 L = 0.0123 mg/L; &times; 1000 &mu;g/mg; 1 &mu;g/L &asymp; 1 ppb.",
+   "This is mg/L, which is ppm; convert to &mu;g/L for ppb.",
+   "This converts to &mu;g but ignores the 1.50 L volume.",
+   "This multiplies by 10<sup>6</sup>, giving ng/L (ppt)."
+  ],
+  "h": "mg/L &rarr; &mu;g/L.",
+  "w": "0.0123 mg/L &times; 1000 = <b>12.3 ppb</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c11-h17",
+  "t": "ch11-conc",
+  "q": "What is the molarity of a solution made by dissolving 4.75 g of MgCl<sub>2</sub> (95.21 g/mol) in enough water to make 150.0 mL of solution?",
+  "c": [
+   "0.333 M",
+   "3.33 &times; 10<sup>&minus;4</sup> M",
+   "31.7 M",
+   "3.01 M"
+  ],
+  "y": [
+   "Correct: 4.75 g / 95.21 g/mol = 0.04989 mol; &divide; 0.1500 L.",
+   "This divides by mL; convert to L.",
+   "This uses grams instead of moles.",
+   "This divides liters by moles; molarity is mol / L."
+  ],
+  "h": "Grams to moles, mL to L.",
+  "w": "0.04989 mol / 0.1500 L = <b>0.333 M</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c11-h18",
+  "t": "ch11-conc",
+  "q": "A hospital pharmacy dissolves 18.9 g of NaHCO<sub>3</sub> (84.01 g/mol) in water to make 300.0 mL of solution. What is the molarity?",
+  "c": [
+   "0.750 M",
+   "7.50 &times; 10<sup>&minus;4</sup> M",
+   "63.0 M",
+   "1.33 M"
+  ],
+  "y": [
+   "Correct: 18.9 g / 84.01 g/mol = 0.2250 mol; &divide; 0.3000 L.",
+   "This divides by mL instead of L.",
+   "This divides grams by liters; convert grams to moles first.",
+   "This divides liters by moles."
+  ],
+  "h": "M = mol / L of solution.",
+  "w": "0.2250 mol / 0.3000 L = <b>0.750 M</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c11-h19",
+  "t": "ch11-conc",
+  "q": "A 7.00% (m/m) NaCl solution has a density of 1.05 g/mL. What is its molarity? (NaCl, 58.44 g/mol)",
+  "c": [
+   "1.26 M",
+   "1.20 M",
+   "1.14 M",
+   "73.5 M"
+  ],
+  "y": [
+   "Correct: 100. g of solution: 7.00 g NaCl = 0.1198 mol; volume = 100. g &divide; 1.05 g/mL = 95.24 mL.",
+   "This takes 100. g of solution as 100. mL; use the density.",
+   "This multiplies by the density; volume = mass &divide; density.",
+   "This uses grams of NaCl instead of moles."
+  ],
+  "h": "Assume 100. g of solution.",
+  "w": "0.1198 mol / 0.09524 L = <b>1.26 M</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c11-h20",
+  "t": "ch11-conc",
+  "q": "In dilute water solutions, a concentration of 1 ppb is about the same as which of these?",
+  "c": [
+   "1 &mu;g per liter",
+   "1 mg per liter",
+   "1 g per liter",
+   "1 ng per liter"
+  ],
+  "y": [
+   "Correct: 1 L of dilute water has a mass of about 1 kg = 10<sup>9</sup> &mu;g, so 1 &mu;g/L is 1 part per billion.",
+   "1 mg/L is about 1 ppm.",
+   "1 g/L is about 1 part per thousand, or 0.1%.",
+   "1 ng/L is about 1 ppt (part per trillion)."
+  ],
+  "h": "1 L of dilute water is about 1 kg.",
+  "w": "<b>1 ppb &asymp; 1 &mu;g/L</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c11-h21",
+  "t": "ch11-dilution",
+  "q": "How many moles of KCl are in 42.5 mL of 0.0875 M KCl?",
+  "c": [
+   "0.00372 mol",
+   "3.72 mol",
+   "0.486 mol",
+   "2.06 mol"
+  ],
+  "y": [
+   "Correct: mol = M &times; L = 0.0875 &times; 0.0425 L.",
+   "This uses mL in place of L.",
+   "This divides the volume by the molarity.",
+   "This divides the molarity by the volume."
+  ],
+  "h": "mol = M &times; V (L).",
+  "w": "0.0425 L &times; 0.0875 mol/L = <b>0.00372 mol</b>.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c11-h22",
+  "t": "ch11-dilution",
+  "q": "What mass of Na<sub>2</sub>SO<sub>4</sub> (142.04 g/mol) is needed to prepare 100.0 mL of 0.450 M Na<sub>2</sub>SO<sub>4</sub>?",
+  "c": [
+   "6.39 g",
+   "6.39 &times; 10<sup>3</sup> g",
+   "0.0450 g",
+   "3.17 &times; 10<sup>&minus;4</sup> g"
+  ],
+  "y": [
+   "Correct: 0.1000 L &times; 0.450 M = 0.04500 mol; &times; 142.04 g/mol.",
+   "This uses mL as liters.",
+   "This stops at moles; multiply by the molar mass.",
+   "This divides by the molar mass."
+  ],
+  "h": "L &rarr; mol &rarr; g.",
+  "w": "0.04500 mol &times; 142.04 g/mol = <b>6.39 g</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c11-h23",
+  "t": "ch11-dilution",
+  "q": "An 8.00 mL portion of 1.35 M NaCl is diluted to a total volume of 50.0 mL. What is the new molarity?",
+  "c": [
+   "0.216 M",
+   "8.44 M",
+   "10.8 M",
+   "0.186 M"
+  ],
+  "y": [
+   "Correct: M<sub>2</sub> = M<sub>1</sub>V<sub>1</sub>/V<sub>2</sub>; 50.0 mL is already the total volume.",
+   "This inverts the volumes; the diluted solution must be weaker.",
+   "This is M<sub>1</sub>V<sub>1</sub> without dividing by V<sub>2</sub>.",
+   "This adds 8.00 mL to 50.0 mL; the 50.0 mL is already the total."
+  ],
+  "h": "M<sub>1</sub>V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub>.",
+  "w": "(1.35)(8.00) / 50.0 = <b>0.216 M</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c11-h24",
+  "t": "ch11-dilution",
+  "q": "How many milliliters of 0.425 M KCl stock are needed to make 200.0 mL of 12.5 mM KCl?",
+  "c": [
+   "5.88 mL",
+   "5.88 &times; 10<sup>3</sup> mL",
+   "6.80 &times; 10<sup>3</sup> mL",
+   "2.66 &times; 10<sup>&minus;5</sup> mL"
+  ],
+  "y": [
+   "Correct: 12.5 mM = 0.0125 M; V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub>/M<sub>1</sub>.",
+   "This mixes mM and M; convert first.",
+   "This puts M<sub>1</sub> on top.",
+   "This divides by V<sub>2</sub>."
+  ],
+  "h": "Make the concentration units match.",
+  "w": "(0.0125)(200.0) / 0.425 = <b>5.88 mL</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c11-h25",
+  "t": "ch11-dilution",
+  "q": "A 50.0 mL sample of 0.640 M glucose is diluted to 0.160 M. How much water must be added?",
+  "c": [
+   "150. mL",
+   "200. mL",
+   "12.5 mL",
+   "250. mL"
+  ],
+  "y": [
+   "Correct: V<sub>2</sub> = 200. mL total; water = 200. &minus; 50.0.",
+   "This is the total volume, which includes the 50.0 mL of stock.",
+   "This inverts the concentration ratio.",
+   "This adds V<sub>1</sub> to V<sub>2</sub>; V<sub>2</sub> is already the total."
+  ],
+  "h": "Total volume from M<sub>1</sub>V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub>, then subtract V<sub>1</sub>.",
+  "w": "V<sub>2</sub> = 200. mL; water = <b>150. mL</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c11-h26",
+  "t": "ch11-dilution",
+  "q": "What volume of 25.0 mM KCl contains 1.50 &times; 10<sup>&minus;4</sup> mol of KCl? Give the answer in mL.",
+  "c": [
+   "6.00 mL",
+   "0.00600 mL",
+   "0.00375 mL",
+   "1.67 &times; 10<sup>5</sup> mL"
+  ],
+  "y": [
+   "Correct: 25.0 mM = 0.0250 M; V = mol &divide; M = 0.00600 L; &times; 1000 mL/L.",
+   "This is the volume in liters with an mL label.",
+   "This multiplies moles by molarity.",
+   "This divides molarity by moles."
+  ],
+  "h": "Convert mM to M; V (L) = mol / M.",
+  "w": "0.00600 L = <b>6.00 mL</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c11-h27",
+  "t": "ch11-dilution",
+  "q": "A technician adds 1.0 mL of 2.0 M stock to 4.0 mL of water and mixes. Then 1.0 mL of that solution is added to another 4.0 mL of water. What is the final concentration?",
+  "c": [
+   "0.080 M",
+   "0.40 M",
+   "0.20 M",
+   "0.13 M"
+  ],
+  "y": [
+   "Correct: Each step is 1.0 mL diluted to 5.0 mL total, a factor of 5; two steps: 5 &times; 5 = 25.",
+   "This counts only one dilution.",
+   "This adds the factors (5 + 5); dilution factors multiply.",
+   "This divides by 4 each time, using the water added as V<sub>2</sub>; V<sub>2</sub> is the total, 5.0 mL."
+  ],
+  "h": "Each step: V<sub>2</sub> = 1.0 + 4.0 = 5.0 mL.",
+  "w": "2.0 M &divide; 25 = <b>0.080 M</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c11-h28",
+  "t": "ch11-dilution",
+  "q": "A student's dilution calculation gives a final concentration larger than the stock concentration. What most likely went wrong?",
+  "c": [
+   "The volumes were swapped (V<sub>1</sub> and V<sub>2</sub> reversed).",
+   "The student used the total volume as V<sub>2</sub>.",
+   "The stock was diluted too much.",
+   "Nothing; diluting can raise the concentration."
+  ],
+  "y": [
+   "Correct: Dilution spreads the same moles through more volume, so M<sub>2</sub> must be smaller; a larger answer means the volumes are reversed.",
+   "Using the total volume as V<sub>2</sub> is correct.",
+   "Diluting too much would make the answer smaller, not larger.",
+   "Adding solvent always lowers the concentration."
+  ],
+  "h": "Which way must the concentration change when solvent is added?",
+  "w": "M<sub>2</sub> &gt; M<sub>1</sub> is impossible: <b>the volumes were swapped</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c11-h29",
+  "t": "ch11-titration",
+  "q": "In a sports-science lab, a 12.00 mL sample of lactic acid solution, HC<sub>3</sub>H<sub>5</sub>O<sub>3</sub>, is titrated with 0.09850 M NaOH. The buret reads 0.45 mL at the start and 19.80 mL at the phenolphthalein endpoint. What is the molarity of the lactic acid? HC<sub>3</sub>H<sub>5</sub>O<sub>3</sub>(aq) + NaOH(aq) &rarr; NaC<sub>3</sub>H<sub>5</sub>O<sub>3</sub>(aq) + H<sub>2</sub>O(l)",
+  "c": [
+   "0.1588 M",
+   "0.1625 M",
+   "0.06109 M",
+   "0.09850 M"
+  ],
+  "y": [
+   "Correct: Volume = 19.80 &minus; 0.45 = 19.35 mL; mol NaOH = 0.001906 mol = mol lactic acid (1 : 1); &divide; 0.01200 L.",
+   "This uses the final reading as the volume; subtract the initial reading.",
+   "This swaps the acid and base volumes.",
+   "This divides by the NaOH volume; divide by the volume of the acid sample."
+  ],
+  "h": "Volume used = final &minus; initial.",
+  "w": "0.001906 mol / 0.01200 L = <b>0.1588 M</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c11-h30",
+  "t": "ch11-titration",
+  "q": "A 0.1700 g sample of oxalic acid, H<sub>2</sub>C<sub>2</sub>O<sub>4</sub> (90.034 g/mol), needs 25.85 mL of NaOH to reach the endpoint. What is the molarity of the NaOH? H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>(aq) + 2 NaOH(aq) &rarr; Na<sub>2</sub>C<sub>2</sub>O<sub>4</sub>(aq) + 2 H<sub>2</sub>O(l)",
+  "c": [
+   "0.1461 M",
+   "0.07304 M",
+   "0.03652 M",
+   "13.15 M"
+  ],
+  "y": [
+   "Correct: 0.001888 mol acid &times; 2 = 0.003776 mol NaOH; &divide; 0.02585 L.",
+   "This uses a 1 : 1 ratio; oxalic acid needs 2 NaOH.",
+   "This flips the mole ratio.",
+   "This uses grams as moles."
+  ],
+  "h": "Solid known: g &rarr; mol acid &rarr; &times; 2 &rarr; &divide; L.",
+  "w": "0.003776 mol / 0.02585 L = <b>0.1461 M</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c11-h31",
+  "t": "ch11-titration",
+  "q": "A 5.00 mL sample of H<sub>2</sub>SO<sub>4</sub> needs 18.24 mL of 0.1120 M NaOH to reach the endpoint. What is the molarity of the H<sub>2</sub>SO<sub>4</sub>? H<sub>2</sub>SO<sub>4</sub>(aq) + 2 NaOH(aq) &rarr; Na<sub>2</sub>SO<sub>4</sub>(aq) + 2 H<sub>2</sub>O(l)",
+  "c": [
+   "0.204 M",
+   "0.409 M",
+   "0.817 M",
+   "0.0560 M"
+  ],
+  "y": [
+   "Correct: mol NaOH = 0.002043 mol; &divide; 2 = 0.001021 mol H<sub>2</sub>SO<sub>4</sub>; &divide; 0.00500 L.",
+   "This uses 1 : 1; H<sub>2</sub>SO<sub>4</sub> uses 2 NaOH per molecule.",
+   "This multiplies by 2; divide moles of NaOH by 2 to get moles of acid.",
+   "This divides by the NaOH volume."
+  ],
+  "h": "mol NaOH &rarr; &divide; 2 &rarr; &divide; L acid.",
+  "w": "0.001021 mol / 0.00500 L = <b>0.204 M</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c11-h32",
+  "t": "ch11-titration",
+  "q": "A 0.8125 g sample of impure potassium hydrogen phthalate, KHC<sub>8</sub>H<sub>4</sub>O<sub>4</sub> (KHP, 204.22 g/mol), needs 32.18 mL of 0.1088 M NaOH. What is the mass percent of KHP in the sample? KHC<sub>8</sub>H<sub>4</sub>O<sub>4</sub>(aq) + NaOH(aq) &rarr; KNaC<sub>8</sub>H<sub>4</sub>O<sub>4</sub>(aq) + H<sub>2</sub>O(l)",
+  "c": [
+   "88.00%",
+   "0.7150 g",
+   "0.4309%",
+   "113.6%"
+  ],
+  "y": [
+   "Correct: mol = 0.003501 mol; &times; 204.22 g/mol = 0.7150 g KHP; &divide; 0.8125 g &times; 100%.",
+   "This is the mass of KHP, not the percent.",
+   "This divides moles by grams.",
+   "This divides the sample by the KHP mass."
+  ],
+  "h": "g KHP found &divide; sample mass &times; 100%.",
+  "w": "0.7150 / 0.8125 &times; 100% = <b>88.00%</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c11-h33",
+  "t": "ch11-titration",
+  "q": "What volume of 0.115 M AgNO<sub>3</sub> reacts completely with 22.5 mL of 0.140 M AlCl<sub>3</sub>? AlCl<sub>3</sub>(aq) + 3 AgNO<sub>3</sub>(aq) &rarr; 3 AgCl(s) + Al(NO<sub>3</sub>)<sub>3</sub>(aq)",
+  "c": [
+   "82.2 mL",
+   "27.4 mL",
+   "9.13 mL",
+   "67.5 mL"
+  ],
+  "y": [
+   "Correct: mol AlCl<sub>3</sub> = 0.003150 mol; &times; 3 = 0.009450 mol AgNO<sub>3</sub>; &divide; 0.115 M.",
+   "This skips the 1 : 3 mole ratio.",
+   "This flips the mole ratio (divides by 3 instead of multiplying).",
+   "This divides by the AlCl<sub>3</sub> molarity instead of the AgNO<sub>3</sub> molarity."
+  ],
+  "h": "Each AlCl<sub>3</sub> supplies 3 Cl<sup>&minus;</sup>, so it needs 3 AgNO<sub>3</sub>.",
+  "w": "0.009450 mol &divide; 0.115 M = <b>82.2 mL</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c11-h34",
+  "t": "ch11-titration",
+  "q": "Why must a NaOH solution be standardized against a weighed solid acid before it is used in a titration?",
+  "c": [
+   "NaOH slowly absorbs CO<sub>2</sub> from the air, so its molarity changes.",
+   "NaOH is a weak base, so its molarity cannot be calculated.",
+   "Phenolphthalein does not work with NaOH unless it is standardized.",
+   "NaOH solutions get more concentrated as they sit."
+  ],
+  "y": [
+   "Correct: CO<sub>2</sub> from the air reacts with some of the NaOH, so the exact molarity must be measured, for example with oxalic acid.",
+   "NaOH is a strong base; the problem is that its concentration drifts.",
+   "Phenolphthalein turns pink in any basic solution.",
+   "Reaction with CO<sub>2</sub> uses up NaOH, so the molarity falls, not rises."
+  ],
+  "h": "What in the air reacts with a base?",
+  "w": "NaOH <b>absorbs CO<sub>2</sub></b>, so its molarity must be checked.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c11-h35",
+  "t": "ch11-titration",
+  "q": "At the endpoint of a titration of HCl with NaOH, which statement is true?",
+  "c": [
+   "The moles of NaOH added equal the moles of HCl in the flask.",
+   "The volume of NaOH added equals the volume of HCl.",
+   "The molarity of the NaOH equals the molarity of the HCl.",
+   "The buret reads 0.00 mL."
+  ],
+  "y": [
+   "Correct: HCl and NaOH react 1 : 1, so at the endpoint the moles match.",
+   "Volumes match only if the molarities happen to be equal.",
+   "The molarities can be different; it is the moles that match.",
+   "The buret reads 0.00 at the top; at the endpoint the reading is the starting value plus the volume added."
+  ],
+  "h": "What does the balanced equation say about moles?",
+  "w": "<b>mol NaOH = mol HCl</b> (1 : 1).",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c11-h36",
+  "t": "ch11-colligative",
+  "q": "What is the molality of a solution of 14.2 g of glycerol (C<sub>3</sub>H<sub>8</sub>O<sub>3</sub>, 92.094 g/mol) in 315.0 g of water?",
+  "c": [
+   "0.489 m",
+   "4.89 &times; 10<sup>&minus;4</sup> m",
+   "45.1 m",
+   "0.468 m"
+  ],
+  "y": [
+   "Correct: 0.1542 mol / 0.3150 kg water.",
+   "This divides by grams of water.",
+   "This uses grams of glycerol.",
+   "This divides by the whole solution; molality uses the solvent only."
+  ],
+  "h": "m = mol solute / kg solvent.",
+  "w": "0.1542 mol / 0.3150 kg = <b>0.489 m</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c11-h37",
+  "t": "ch11-colligative",
+  "q": "What is the freezing point of a 0.215 m AlCl<sub>3</sub> solution in water, assuming complete dissociation? (K<sub>f</sub> = 1.86 °C/m)",
+  "c": [
+   "&minus;1.60 °C",
+   "1.60 °C",
+   "&minus;0.40 °C",
+   "&minus;0.44 °C"
+  ],
+  "y": [
+   "Correct: AlCl<sub>3</sub> gives 4 ions (i = 4): &Delta;T<sub>f</sub> = (4)(1.86)(0.215) = 1.60 °C.",
+   "This adds instead of subtracting; the freezing point goes down.",
+   "This forgets i = 4.",
+   "This uses K<sub>b</sub>."
+  ],
+  "h": "&Delta;T<sub>f</sub> = iK<sub>f</sub>m; subtract from 0.00 °C.",
+  "w": "T<sub>f</sub> = 0.00 &minus; 1.60 = <b>&minus;1.60 °C</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c11-h38",
+  "t": "ch11-colligative",
+  "q": "Which aqueous solution has the <b>highest</b> boiling point?",
+  "c": [
+   "0.10 m Na<sub>2</sub>SO<sub>4</sub>",
+   "0.25 m sucrose",
+   "0.12 m KBr",
+   "0.075 m MgCl<sub>2</sub>"
+  ],
+  "y": [
+   "Correct: i &times; m = 3 &times; 0.10 = 0.30 m of particles, the most.",
+   "Sucrose is a nonelectrolyte (i = 1): 0.25 m of particles.",
+   "KBr gives 2 ions: 2 &times; 0.12 = 0.24 m of particles.",
+   "MgCl<sub>2</sub> gives 3 ions: 3 &times; 0.075 = 0.225 m of particles."
+  ],
+  "h": "Compare i &times; m.",
+  "w": "Most particles: <b>0.10 m Na<sub>2</sub>SO<sub>4</sub></b> (0.30 m).",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c11-h39",
+  "t": "ch11-colligative",
+  "q": "What is the osmolality of a 0.0850 m Na<sub>2</sub>SO<sub>4</sub> solution in mOsm/kg, assuming complete dissociation?",
+  "c": [
+   "255 mOsm/kg",
+   "85.0 mOsm/kg",
+   "170. mOsm/kg",
+   "0.255 mOsm/kg"
+  ],
+  "y": [
+   "Correct: Na<sub>2</sub>SO<sub>4</sub> gives 3 ions (i = 3): 3 &times; 0.0850 = 0.255 Osm/kg.",
+   "This forgets i.",
+   "This uses i = 2; Na<sub>2</sub>SO<sub>4</sub> gives 2 Na<sup>+</sup> + 1 SO<sub>4</sub><sup>2&minus;</sup>.",
+   "This is in Osm/kg; &times; 1000 for mOsm/kg."
+  ],
+  "h": "Osmolality = i &times; m.",
+  "w": "3 &times; 0.0850 = <b>255 mOsm/kg</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c11-h40",
+  "t": "ch11-colligative",
+  "q": "Red blood cells are placed in 0.45% NaCl (half-normal saline), which has about half the particle concentration of normal saline. How is the fluid described, and what happens to the cells?",
+  "c": [
+   "Hypotonic: water flows into the cells, and they swell",
+   "Hypertonic: water flows out of the cells, and they shrink",
+   "Isotonic: no net water flow",
+   "Hypotonic: water flows out of the cells, and they shrink"
+  ],
+  "y": [
+   "Correct: About half of 0.9% NaCl's particle concentration is below serum's 275&ndash;295 mOsm/kg, so water moves toward the higher particle concentration inside the cells. (Context only; IV fluids are given exactly as ordered.)",
+   "A hypertonic fluid has <i>more</i> particles than the cells, such as 3% NaCl.",
+   "0.9% NaCl is isotonic; half that concentration is not.",
+   "The label is right, but the direction is reversed: water moves <i>into</i> cells in a hypotonic fluid."
+  ],
+  "h": "Water follows solute. Which side has more particles?",
+  "w": "Fewer particles outside: <b>hypotonic, water flows in, and the cells swell</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c11-h41",
+  "t": "ch11-colligative",
+  "q": "Propylene glycol, a nonelectrolyte, is used in RV antifreeze because it is less toxic than ethylene glycol. What molality of propylene glycol in water freezes at &minus;12.0 °C? (K<sub>f</sub> = 1.86 °C/m)",
+  "c": [
+   "6.45 m",
+   "3.23 m",
+   "23.4 m",
+   "22.3 m"
+  ],
+  "y": [
+   "Correct: i = 1; m = &Delta;T<sub>f</sub> / K<sub>f</sub> = 12.0 / 1.86.",
+   "This uses i = 2; propylene glycol is molecular (i = 1).",
+   "This uses K<sub>b</sub>.",
+   "This multiplies by K<sub>f</sub>; divide."
+  ],
+  "h": "Solve &Delta;T<sub>f</sub> = iK<sub>f</sub>m for m.",
+  "w": "12.0 / 1.86 = <b>6.45 m</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c11-h42",
+  "t": "ch11-colligative",
+  "q": "A membrane that lets only water pass separates 0.10 m NaCl from 0.10 m glucose. Which way does water flow by osmosis?",
+  "c": [
+   "Toward the NaCl side, because it has twice the particle concentration",
+   "Toward the glucose side, because glucose molecules are larger",
+   "Neither way, because the molalities are equal",
+   "Toward the glucose side, because water moves toward the lower particle concentration"
+  ],
+  "y": [
+   "Correct: NaCl gives 2 ions (i = 2): 0.20 m of particles, versus 0.10 m for glucose. Water follows solute.",
+   "Particle size does not matter; only the number of particles does.",
+   "Equal molality, but NaCl makes twice as many particles.",
+   "This reverses osmosis; water moves toward the higher particle concentration."
+  ],
+  "h": "Count particles with i.",
+  "w": "0.20 m vs 0.10 m of particles: <b>toward the NaCl side</b>.",
+  "d": 3,
+  "k": 0
+ }
+]
