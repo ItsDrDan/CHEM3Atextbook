@@ -32,3 +32,9 @@ POST `/api/questions` (Bearer token from the `token` cookie) with the editor-sha
 - Assignment **224843** "CHEM 3A Chapter 2: Atoms, Ions, and Isotopes" (template 145; 3 attempts, hints no penalty, marked late; 2 points; random 50 of the pool = 100 points; hidden; placeholder dates as Chapter 1). Folder 15019.
 - Pool **104**: all 64 Try It items in `bank/ch02.json` (7 with SVG images + alt text from `figures/adapt/alt_ch02.json`; the 2 data-table items carry a real HTML table in the stem) and 40 homework-only items in `bank/ch02_adapt.json`.
 - Read back: all 104 match the bank (choices, key, every wrong-choice feedback, stem), CC BY 4.0, public, Show Hint present; all 7 images load. c2-025 checked visually in the question view.
+
+## Chapter 3 (2026-11-14)
+
+- Assignment **224844** "CHEM 3A Chapter 3: Light, Electrons, and the Periodic Table" (template 145; same settings as Chapters 1–2: 3 attempts, hints no penalty, marked late, 2 points, random 50 of the pool = 100 points; hidden; placeholder dates). Folder 15020.
+- Pool **104**: all 64 Try It items in `bank/ch03.json` (6 with SVG images + alt text from `figures/adapt/alt_ch03.json`: 2 orbital diagrams, 4 periodic-table outlines; the 2 data-table items carry an HTML table in the stem) and 40 homework-only items in `bank/ch03_adapt.json`.
+- Read back: all 104 match the bank (stem, choices, key, every wrong-choice feedback), CC BY 4.0, public, Show Hint present; all 6 images load. ADAPT stores arrows as `&uarr;`/`&darr;` entities (same text).

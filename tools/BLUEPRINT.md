@@ -124,6 +124,8 @@ Lab is not in the textbook; "In the Lab" notes point to the matching experiment 
 - Valley Connection: **Ultraviolet index and skin cancer for outdoor farm workers** (Cal/OSHA, CDPH) or **ozone in Valley summer air** (UV light drives ozone formation; San Joaquin Valley APCD).
 **Patient-case beat**: Mateo's pulse oximeter reads 91%; why the device uses two wavelengths of light.
 
+**Status 2026-11-14:** built and published in the draft (pages 597483 intro, 597878–597886), aligned to Lectures 7 and 9 and lab Exp 3a (In the Lab box in 3.2); 6 figures; 56 practice problems; 64 Try It + 40 homework items; ADAPT assignment 224844. Boxes as built: RT pulse oximetry and DH curing light (3.1), Valley near-infrared orchard imaging/NDVI (3.1), Biology UV/DNA and UV-C (3.1), Biology retina and fluorescence + Engineering LEDs (3.2), Rad Tech characteristic X-rays (3.3), Biology electrolyte ions (3.4), Nursing electrolytes/mEq (3.5), Biology K+ channel ion size (3.6). Old pages 597511–597517 moved to Retired Pages.
+
 ## Chapter 4. Naming Compounds (COR 2)
 
 **Sections**
