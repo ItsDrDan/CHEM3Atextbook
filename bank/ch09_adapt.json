@@ -1,0 +1,884 @@
+[
+ {
+  "id": "c9-h01",
+  "t": "ch09-energy",
+  "q": "Which of these is mainly <b>potential</b> energy?",
+  "c": [
+   "A stretched rubber tourniquet before it is released",
+   "A wheelchair rolling down a ramp",
+   "Fast-moving molecules in warm air",
+   "Wind turning the blades of a turbine"
+  ],
+  "y": [
+   "Correct: A stretched elastic band stores energy of position (its shape) until it snaps back.",
+   "A rolling wheelchair is moving, so its energy is kinetic.",
+   "The random motion of molecules is thermal energy, a kind of kinetic energy.",
+   "Moving air has kinetic energy, and so do the spinning blades."
+  ],
+  "h": "Stored, waiting to be released, or moving right now?",
+  "w": "The stretched tourniquet stores energy: <b>potential energy</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c9-h02",
+  "t": "ch09-energy",
+  "q": "A car battery runs the starter motor, which turns the engine. Which sequence describes the main energy changes?",
+  "c": [
+   "Chemical potential energy &rarr; electrical energy &rarr; kinetic energy (plus some heat)",
+   "Kinetic energy &rarr; chemical potential energy &rarr; electrical energy",
+   "Electrical energy is created in the battery and then destroyed in the motor",
+   "Heat &rarr; chemical potential energy &rarr; kinetic energy"
+  ],
+  "y": [
+   "Correct: The battery's reactions release stored chemical energy as electricity, and the motor turns it into motion; some always becomes heat.",
+   "The energy starts stored in the battery's chemicals, not as motion.",
+   "Energy is never created or destroyed; it changes form.",
+   "The battery does not start with heat; its energy is stored chemically."
+  ],
+  "h": "Where is the energy stored before the key is turned?",
+  "w": "<b>Chemical PE &rarr; electrical &rarr; kinetic (+ heat)</b>; the total is conserved.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c9-h03",
+  "t": "ch09-energy",
+  "q": "Which statement about kinetic energy is correct?",
+  "c": [
+   "At the same speed, an object with more mass has more kinetic energy.",
+   "Kinetic energy depends only on mass, not on speed.",
+   "A book resting on a high shelf has a large kinetic energy.",
+   "The molecules in a room-temperature object have no kinetic energy."
+  ],
+  "y": [
+   "Correct: Kinetic energy grows with both mass and speed, so a heavier object moving at the same speed has more.",
+   "Speed matters too: the faster something moves, the more kinetic energy it has.",
+   "The resting book has potential energy of position; it is not moving, so it has no kinetic energy.",
+   "Atoms and molecules are always moving; temperature measures their average kinetic energy."
+  ],
+  "h": "Kinetic energy is energy of motion. What two things set it?",
+  "w": "<b>More mass at the same speed means more kinetic energy.</b>",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c9-h04",
+  "t": "ch09-energy",
+  "q": "A student says, &ldquo;When a bouncing ball finally stops, its energy has disappeared.&rdquo; Which is the best correction?",
+  "c": [
+   "The energy changed into heat in the ball, the floor, and the air; the total energy is conserved.",
+   "The energy was destroyed by friction.",
+   "The ball's energy turned back into chemical potential energy.",
+   "The student is right; a stopped ball has used up its energy."
+  ],
+  "y": [
+   "Correct: Each bounce turns some energy of motion into thermal energy and sound, which spread into the surroundings.",
+   "Friction converts energy into heat; it does not destroy it.",
+   "The ball's energy spreads out as heat, not back into chemical energy.",
+   "Energy is never used up, only changed in form or moved."
+  ],
+  "h": "Energy cannot be created or destroyed. Where did it go?",
+  "w": "It became <b>heat (thermal energy) in the surroundings</b>; total energy is conserved.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c9-h05",
+  "t": "ch09-temp",
+  "q": "Some vaccines are stored frozen at &minus;15.0 °C. What is this temperature in degrees Fahrenheit?",
+  "c": [
+   "5.0 °F",
+   "30.6 °F",
+   "23.7 °F",
+   "&minus;26.1 °F"
+  ],
+  "y": [
+   "Correct: °F = 1.8(&minus;15.0) + 32 = &minus;27.0 + 32.",
+   "This adds 32 before multiplying, 1.8(&minus;15.0 + 32). Multiply first, then add 32.",
+   "This divides by 1.8 instead of multiplying.",
+   "This uses the °F &rarr; °C formula, (T &minus; 32)/1.8, on a Celsius temperature."
+  ],
+  "h": "°F = 1.8(°C) + 32, and keep the minus sign.",
+  "w": "°F = 1.8(&minus;15.0) + 32 = &minus;27.0 + 32 = <b>5.0 °F</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c9-h06",
+  "t": "ch09-temp",
+  "q": "On a July afternoon in Fresno, the air temperature reaches 104.0 °F. What is this in degrees Celsius?",
+  "c": [
+   "40.0 °C",
+   "86.2 °C",
+   "129.6 °C",
+   "75.56 °C"
+  ],
+  "y": [
+   "Correct: (104.0 &minus; 32) &divide; 1.8 = 72.0 &divide; 1.8.",
+   "This divides only the 32 by 1.8. Put parentheses around (104.0 &minus; 32).",
+   "This multiplies by 1.8; going from °F to °C you divide.",
+   "This adds 32; going from °F to °C you subtract 32."
+  ],
+  "h": "°C = (°F &minus; 32) &divide; 1.8.",
+  "w": "(104.0 &minus; 32) &divide; 1.8 = <b>40.0 °C</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c9-h07",
+  "t": "ch09-temp",
+  "q": "Dry ice (solid carbon dioxide) sublimes at 194.7 K at 1 atm. What is this temperature in degrees Celsius?",
+  "c": [
+   "&minus;78.5 °C",
+   "467.9 °C",
+   "78.5 °C",
+   "382.5 °C"
+  ],
+  "y": [
+   "Correct: °C = 194.7 &minus; 273.15. Dry ice is far below the freezing point of water.",
+   "This adds 273.15. Going from K to °C you subtract.",
+   "This subtracts in the wrong order; the answer must be negative, below 0 °C.",
+   "This uses the Fahrenheit formula on a Kelvin temperature."
+  ],
+  "h": "°C = K &minus; 273.15.",
+  "w": "194.7 &minus; 273.15 = <b>&minus;78.5 °C</b> (1 decimal place, like 194.7).",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c9-h08",
+  "t": "ch09-temp",
+  "q": "Overnight, the water in a lab's water bath cools by 12.5 °F. By how many kelvins did its temperature fall?",
+  "c": [
+   "6.94 K",
+   "22.5 K",
+   "12.5 K",
+   "&minus;10.8 K"
+  ],
+  "y": [
+   "Correct: A Fahrenheit degree is 1/1.8 of a Celsius degree, and a kelvin equals a Celsius degree: 12.5 &divide; 1.8.",
+   "This multiplies by 1.8. A kelvin is larger than a Fahrenheit degree, so the change in K is the smaller number.",
+   "This assumes Fahrenheit degrees and kelvins are the same size; a kelvin is 1.8 Fahrenheit degrees.",
+   "This subtracts 32, which is only for converting a temperature, not a temperature change."
+  ],
+  "h": "For a change, only the size of the degree matters.",
+  "w": "12.5 °F &divide; 1.8 = <b>6.94 K</b> (same as 6.94 °C).",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c9-h09",
+  "t": "ch09-temp",
+  "q": "A patient's temperature is 102.2 °F. What is it in kelvins?",
+  "c": [
+   "312.2 K",
+   "357.6 K",
+   "39.0 K",
+   "&minus;234.2 K"
+  ],
+  "y": [
+   "Correct: (102.2 &minus; 32) &divide; 1.8 = 39.0 °C; 39.0 + 273.15.",
+   "This leaves out the parentheses, dividing only the 32 by 1.8, before adding 273.15.",
+   "This stops at the Celsius value; add 273.15 to get kelvins.",
+   "This subtracts 273.15; going from °C to K you add it. Kelvin temperatures are never negative."
+  ],
+  "h": "°F &rarr; °C &rarr; K.",
+  "w": "(102.2 &minus; 32) &divide; 1.8 = 39.0 °C; 39.0 + 273.15 = <b>312.2 K</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c9-h10",
+  "t": "ch09-units",
+  "q": "A cup of nonfat milk provides 83.0 Cal. How many joules is this? (1 Cal = 4184 J)",
+  "c": [
+   "3.47 &times; 10<sup>5</sup> J",
+   "347 J",
+   "19.8 J",
+   "3.47 &times; 10<sup>8</sup> J"
+  ],
+  "y": [
+   "Correct: 83.0 Cal &times; 4184 J/Cal.",
+   "This uses 4.184, which converts Cal to kJ (or cal to J). The answer would be in kJ, not J.",
+   "This divides by 4.184; joules are smaller units, so the number must be larger.",
+   "This multiplies by an extra 1000. 1 Cal = 4184 J."
+  ],
+  "h": "1 Cal = 1 kcal = 4184 J.",
+  "w": "83.0 Cal &times; (4184 J / 1 Cal) = <b>3.47 &times; 10<sup>5</sup> J</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c9-h11",
+  "t": "ch09-units",
+  "q": "A small heater delivers 2.75 kJ of heat. How many calories is this?",
+  "c": [
+   "657 cal",
+   "11.5 cal",
+   "0.657 cal",
+   "1.15 &times; 10<sup>4</sup> cal"
+  ],
+  "y": [
+   "Correct: 2.75 kJ = 2750 J; &divide; 4.184 J/cal.",
+   "This multiplies kJ by 4.184; convert to J, then divide by 4.184.",
+   "This divides by 4.184 without converting kJ to J, giving kcal (Cal), not cal.",
+   "This multiplies by 4.184 instead of dividing."
+  ],
+  "h": "kJ &rarr; J &rarr; cal.",
+  "w": "2.75 kJ &times; (1000 J / 1 kJ) &times; (1 cal / 4.184 J) = <b>657 cal</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c9-h12",
+  "t": "ch09-units",
+  "q": "Which of these is the largest amount of energy?",
+  "c": [
+   "1.00 kcal",
+   "1.00 kJ",
+   "1.00 cal",
+   "500. J"
+  ],
+  "y": [
+   "Correct: 1.00 kcal (one food Calorie) = 4184 J, the largest of the four.",
+   "1.00 kJ = 1000 J, about a quarter of the largest one.",
+   "1.00 cal = 4.184 J, the smallest of the four.",
+   "500. J is half of a kilojoule."
+  ],
+  "h": "Convert each one to joules.",
+  "w": "In joules: 4184 (kcal), 1000 (kJ), 4.184 (cal), 500. The largest is <b>1.00 kcal</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c9-h13",
+  "t": "ch09-units",
+  "q": "Steam from a pot condenses on a cook's hand. Taking the steam as the system, which statement is correct?",
+  "c": [
+   "Condensing is exothermic: the steam releases heat into the skin, so q &lt; 0.",
+   "Condensing is endothermic: the steam absorbs heat from the skin, so q &gt; 0.",
+   "Condensing is exothermic, so q &gt; 0.",
+   "No heat flows, because the temperature stays at 100 °C."
+  ],
+  "y": [
+   "Correct: Gas to liquid brings molecules together, which releases heat. Heat leaving the system makes q negative.",
+   "Condensing releases heat; vaporizing is the change that absorbs heat.",
+   "Exothermic means heat leaves the system, so q is negative.",
+   "Heat flows during a phase change even though the temperature is constant; here it flows into the skin."
+  ],
+  "h": "Gas to liquid: are the molecules coming together or moving apart?",
+  "w": "<b>Exothermic, q &lt; 0</b>: the steam releases heat into the skin.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c9-h14",
+  "t": "ch09-units",
+  "q": "A reaction is run in a beaker, and the beaker feels cold in your hand. Which statement is correct?",
+  "c": [
+   "The reaction is endothermic: it absorbs heat from the beaker and your hand, so q &gt; 0.",
+   "The reaction is exothermic: it releases cold, so q &lt; 0.",
+   "The reaction is exothermic, because your hand loses heat.",
+   "The reaction is endothermic, so q &lt; 0."
+  ],
+  "y": [
+   "Correct: Your hand feels cold because it is losing heat to the system. Heat into the system is endothermic, with a positive q.",
+   "Cold is not something that can be released; heat flows into the reaction.",
+   "Your hand (the surroundings) loses heat, which means the system gains heat: endothermic.",
+   "Endothermic means heat enters the system, so q is positive."
+  ],
+  "h": "What feels cold is losing heat. Where does the heat go?",
+  "w": "<b>Endothermic, q &gt; 0</b> for the reaction.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c9-h15",
+  "t": "ch09-specheat",
+  "q": "How much heat is needed to warm 375 g of ethanol from 18.0 °C to 42.5 °C? (c for ethanol = 2.42 J/(g·°C))",
+  "c": [
+   "2.22 &times; 10<sup>4</sup> J",
+   "3.84 &times; 10<sup>4</sup> J",
+   "&minus;2.22 &times; 10<sup>4</sup> J",
+   "22.2 J"
+  ],
+  "y": [
+   "Correct: &Delta;T = 42.5 &minus; 18.0 = 24.5 °C; q = (375)(2.42)(24.5).",
+   "This uses water's specific heat. Use the c of the substance being warmed, ethanol.",
+   "This uses initial minus final. The ethanol warms, so q is positive.",
+   "This is the answer in kJ labeled J."
+  ],
+  "h": "q = mc&Delta;T, with ethanol's specific heat.",
+  "w": "q = (375 g)(2.42 J/(g·°C))(24.5 °C) = <b>2.22 &times; 10<sup>4</sup> J</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c9-h16",
+  "t": "ch09-specheat",
+  "q": "A 165 g lead fishing weight cools from 88.5 °C to 22.0 °C. What is q for the lead? (c for lead = 0.128 J/(g·°C))",
+  "c": [
+   "q = &minus;1.40 &times; 10<sup>3</sup> J",
+   "q = +1.40 &times; 10<sup>3</sup> J",
+   "q = &minus;1.40 J",
+   "q = +465 J"
+  ],
+  "y": [
+   "Correct: &Delta;T = 22.0 &minus; 88.5 = &minus;66.5 °C; q = (165)(0.128)(&minus;66.5). Cooling releases heat, so q is negative.",
+   "This uses initial minus final. &Delta;T is final minus initial, which is negative for cooling.",
+   "This is the answer in kJ labeled J.",
+   "This uses the final temperature as &Delta;T."
+  ],
+  "h": "&Delta;T = T<sub>f</sub> &minus; T<sub>i</sub>.",
+  "w": "q = (165 g)(0.128)(&minus;66.5 °C) = <b>&minus;1.40 &times; 10<sup>3</sup> J</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c9-h17",
+  "t": "ch09-specheat",
+  "q": "An 85.0 g iron nail at 22.5 °C absorbs 1.25 kJ of heat. What is its final temperature? (c for iron = 0.449 J/(g·°C))",
+  "c": [
+   "55.3 °C",
+   "32.8 °C",
+   "&minus;10.3 °C",
+   "26.0 °C"
+  ],
+  "y": [
+   "Correct: &Delta;T = 1250 &divide; (85.0 &times; 0.449) = 32.8 °C; T<sub>f</sub> = 22.5 + 32.8.",
+   "This is &Delta;T; add it to the starting temperature.",
+   "This subtracts &Delta;T. Absorbing heat makes the nail hotter.",
+   "This uses water's specific heat for the iron."
+  ],
+  "h": "kJ &rarr; J, then &Delta;T = q/(mc), then add.",
+  "w": "&Delta;T = 1250 J &divide; (85.0 g &times; 0.449) = 32.8 °C; T<sub>f</sub> = <b>55.3 °C</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c9-h18",
+  "t": "ch09-specheat",
+  "q": "What mass of copper absorbs 2.45 kJ as it warms from 20.5 °C to 65.0 °C? (c for copper = 0.385 J/(g·°C))",
+  "c": [
+   "143 g",
+   "0.143 g",
+   "21.2 g",
+   "97.9 g"
+  ],
+  "y": [
+   "Correct: 2.45 kJ = 2450 J; &Delta;T = 44.5 °C; m = 2450 &divide; (0.385 &times; 44.5).",
+   "This leaves q in kJ; convert to 2450 J first.",
+   "This multiplies q by c. m = q / (c&Delta;T).",
+   "This uses the final temperature as &Delta;T."
+  ],
+  "h": "m = q / (c&Delta;T), q in joules.",
+  "w": "m = 2450 J &divide; (0.385 &times; 44.5 °C) = <b>143 g</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c9-h19",
+  "t": "ch09-specheat",
+  "q": "A 28.4 g sample absorbs 175 J as it warms from 21.3 °C to 47.6 °C. What is its specific heat?",
+  "c": [
+   "0.234 J/(g·°C)",
+   "0.129 J/(g·°C)",
+   "4.27 J/(g·°C)",
+   "162 J/(g·°C)"
+  ],
+  "y": [
+   "Correct: &Delta;T = 26.3 °C; c = 175 &divide; (28.4 &times; 26.3).",
+   "This uses the final temperature as &Delta;T.",
+   "This is (m&Delta;T)/q, upside down.",
+   "This multiplies q by &Delta;T instead of dividing."
+  ],
+  "h": "c = q / (m&Delta;T).",
+  "w": "c = 175 J &divide; (28.4 g &times; 26.3 °C) = <b>0.234 J/(g·°C)</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c9-h20",
+  "t": "ch09-specheat",
+  "q": "A 65.0 g metal block at 99.5 °C is placed in 75.0 g of water at 19.5 °C in a calorimeter. Both end at 32.1 °C. What is the specific heat of the metal? (c for water = 4.184 J/(g·°C))",
+  "c": [
+   "0.903 J/(g·°C)",
+   "1.89 J/(g·°C)",
+   "0.782 J/(g·°C)",
+   "4.83 J/(g·°C)"
+  ],
+  "y": [
+   "Correct: q<sub>water</sub> = (75.0)(4.184)(12.6) = 3.95 &times; 10<sup>3</sup> J = &minus;q<sub>metal</sub>; &Delta;T<sub>metal</sub> = &minus;67.4 °C; c = q &divide; (m&Delta;T). This matches aluminum.",
+   "This uses the final temperature as the metal's &Delta;T.",
+   "This uses the water's mass for the metal.",
+   "This uses the water's &Delta;T for the metal."
+  ],
+  "h": "Heat lost by the metal = heat gained by the water.",
+  "w": "c = &minus;(3.95 &times; 10<sup>3</sup> J) &divide; (65.0 g &times; &minus;67.4 °C) = <b>0.903 J/(g·°C)</b>, aluminum.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c9-h21",
+  "t": "ch09-specheat",
+  "q": "Liquid water has a specific heat of 4.184 J/(g·°C), much higher than most substances. What is the main reason?",
+  "c": [
+   "Hydrogen bonds between water molecules absorb part of the added energy instead of speeding the molecules up.",
+   "Water molecules are very heavy.",
+   "Water is nonpolar, so heat passes through it easily.",
+   "Water has a low boiling point."
+  ],
+  "y": [
+   "Correct: Some of the heat goes into stretching and breaking hydrogen bonds, so more heat is needed for each degree of warming.",
+   "Water (18 g/mol) is a light molecule; mass does not explain its high specific heat.",
+   "Water is polar, with strong hydrogen bonding.",
+   "Water's boiling point (100 °C) is high for such a small molecule, and the boiling point does not set the specific heat."
+  ],
+  "h": "What attractions does water have that most liquids lack?",
+  "w": "<b>Hydrogen bonding</b> soaks up part of the added heat.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c9-h22",
+  "t": "ch09-phase",
+  "q": "How much heat is needed to melt 2.35 mol of ice at 0 °C? (&Delta;H<sub>fus</sub> = 6.02 kJ/mol)",
+  "c": [
+   "14.1 kJ",
+   "95.6 kJ",
+   "0.390 kJ",
+   "255 kJ"
+  ],
+  "y": [
+   "Correct: The amount is already in moles: q = 2.35 mol &times; 6.02 kJ/mol.",
+   "This uses &Delta;H<sub>vap</sub>; melting uses &Delta;H<sub>fus</sub>.",
+   "This divides by &Delta;H. q = n &times; &Delta;H.",
+   "This converts moles to grams first. &Delta;H is per mole, so use the moles directly."
+  ],
+  "h": "q = n&Delta;H<sub>fus</sub>.",
+  "w": "q = 2.35 mol &times; 6.02 kJ/mol = <b>14.1 kJ</b>.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c9-h23",
+  "t": "ch09-phase",
+  "q": "In an autoclave, 22.8 g of steam at 100 °C condenses on cool instruments. What is q for the steam? (H<sub>2</sub>O 18.015 g/mol; &Delta;H<sub>vap</sub> = 40.7 kJ/mol)",
+  "c": [
+   "q = &minus;51.5 kJ",
+   "q = +51.5 kJ",
+   "q = &minus;7.62 kJ",
+   "q = &minus;928 kJ"
+  ],
+  "y": [
+   "Correct: 22.8 &divide; 18.015 = 1.266 mol; &times; 40.7 kJ/mol; negative because condensing releases heat to the instruments.",
+   "Condensing releases heat, so q for the steam is negative.",
+   "This uses &Delta;H<sub>fus</sub>; gas to liquid uses &Delta;H<sub>vap</sub>.",
+   "This multiplies grams by kJ/mol; convert to moles first."
+  ],
+  "h": "Condensing: &minus;n&Delta;H<sub>vap</sub>.",
+  "w": "q = &minus;(22.8 &divide; 18.015 mol)(40.7 kJ/mol) = <b>&minus;51.5 kJ</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c9-h24",
+  "t": "ch09-phase",
+  "q": "Using &Delta;H<sub>fus</sub> = 334 J/g, what is q when 45.5 g of liquid water freezes at 0 °C?",
+  "c": [
+   "q = &minus;1.52 &times; 10<sup>4</sup> J",
+   "q = +1.52 &times; 10<sup>4</sup> J",
+   "q = &minus;844 J",
+   "q = &minus;15.2 J"
+  ],
+  "y": [
+   "Correct: &Delta;H<sub>fus</sub> is per gram, so q = &minus;(45.5 g &times; 334 J/g); freezing releases heat.",
+   "Freezing releases heat, so q is negative.",
+   "This converts to moles, but this &Delta;H is per gram.",
+   "This is the answer in kJ labeled J."
+  ],
+  "h": "Check the units of &Delta;H. Freezing: what sign?",
+  "w": "q = &minus;(45.5 g)(334 J/g) = <b>&minus;1.52 &times; 10<sup>4</sup> J</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c9-h25",
+  "t": "ch09-phase",
+  "q": "In a steam burn, 5.80 g of steam at 100 °C condenses on the skin and the water then cools to 45.0 °C. What is the total q for the water? (c<sub>water</sub> = 4.184 J/(g·°C); &Delta;H<sub>vap</sub> = 40.7 kJ/mol; H<sub>2</sub>O 18.015 g/mol)",
+  "c": [
+   "q = &minus;14.4 kJ",
+   "q = &minus;13.1 kJ",
+   "q = &minus;1.33 kJ",
+   "q = +14.4 kJ"
+  ],
+  "y": [
+   "Correct: Condense: &minus;(5.80 &divide; 18.015)(40.7) = &minus;13.1 kJ. Cool: (5.80)(4.184)(45.0 &minus; 100) = &minus;1.33 kJ. Add them.",
+   "This is only the condensing step; the hot water also cools to 45.0 °C.",
+   "This is only the cooling step; most of the heat comes from condensing.",
+   "Both steps release heat into the skin, so q for the water is negative."
+  ],
+  "h": "Two steps, both releasing heat: a plateau, then a slope.",
+  "w": "q = &minus;13.1 + (&minus;1.33) = <b>&minus;14.4 kJ</b>; the condensing step is almost 10 times larger.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c9-h26",
+  "t": "ch09-phase",
+  "q": "Which equation and specific heat give the heat needed to warm steam from 100 °C to 115 °C?",
+  "c": [
+   "q = mc&Delta;T with c = 2.01 J/(g·°C)",
+   "q = mc&Delta;T with c = 4.184 J/(g·°C)",
+   "q = n&Delta;H<sub>vap</sub>",
+   "q = n&Delta;H<sub>fus</sub>"
+  ],
+  "y": [
+   "Correct: Warming one state is a sloped segment, so use mc&Delta;T with the specific heat of steam.",
+   "4.184 J/(g·°C) is the specific heat of liquid water; steam has its own, 2.01.",
+   "&Delta;H<sub>vap</sub> is for the boiling plateau at 100 °C; here the steam is already a gas and is warming.",
+   "&Delta;H<sub>fus</sub> is for melting at 0 °C."
+  ],
+  "h": "Is the temperature changing? Which state is warming?",
+  "w": "Sloped segment, gas phase: <b>q = mc&Delta;T with c<sub>steam</sub> = 2.01 J/(g·°C)</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c9-h27",
+  "t": "ch09-phase",
+  "q": "Which three phase changes release heat (are exothermic)?",
+  "c": [
+   "Freezing, condensation, and deposition",
+   "Melting, vaporization, and sublimation",
+   "Freezing, vaporization, and deposition",
+   "Melting, condensation, and sublimation"
+  ],
+  "y": [
+   "Correct: Each of these brings particles closer together (liquid &rarr; solid, gas &rarr; liquid, gas &rarr; solid), which releases heat.",
+   "These three pull particles apart, so they absorb heat.",
+   "Vaporization (liquid &rarr; gas) absorbs heat.",
+   "Melting and sublimation absorb heat; only condensation here releases it."
+  ],
+  "h": "Particles coming together release heat.",
+  "w": "<b>Freezing, condensation, deposition</b> release heat; their reverses absorb the same amount.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c9-h28",
+  "t": "ch09-phase",
+  "q": "Why does a burn from steam at 100 °C usually cause more damage than a splash of water at 100 °C?",
+  "c": [
+   "Steam releases its large heat of vaporization as it condenses on the skin, before the water even starts to cool.",
+   "Steam is hotter than 100 °C water at the same temperature.",
+   "Water at 100 °C absorbs heat from the skin.",
+   "Steam has a higher specific heat than liquid water."
+  ],
+  "y": [
+   "Correct: Condensing releases 40.7 kJ/mol into the skin first; then the hot water releases still more heat as it cools.",
+   "Both are at 100 °C; the difference is the extra heat released by condensing.",
+   "Water hotter than the skin releases heat to it; it does not absorb heat from it.",
+   "Steam's specific heat (2.01) is lower than liquid water's (4.184), so specific heat does not explain it."
+  ],
+  "h": "What extra step does steam go through on the skin?",
+  "w": "<b>Condensing releases &Delta;H<sub>vap</sub></b> into the skin on top of the heat from cooling.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c9-h29",
+  "t": "ch09-imf",
+  "q": "Acetone, CH<sub>3</sub>COCH<sub>3</sub>, the solvent in many nail polish removers, is polar and has no O&ndash;H bond. Which intermolecular forces act between acetone molecules?",
+  "c": [
+   "Dispersion and dipole&ndash;dipole",
+   "Dispersion only",
+   "Dispersion, dipole&ndash;dipole, and hydrogen bonding",
+   "Ion&ndash;dipole"
+  ],
+  "y": [
+   "Correct: Acetone is polar (the C=O bond dipole is not canceled), and every molecule has dispersion forces.",
+   "Acetone is polar, so it has dipole&ndash;dipole forces too.",
+   "Acetone has an O, but all of its H atoms are on carbon, so it cannot hydrogen bond with itself.",
+   "There are no ions in acetone."
+  ],
+  "h": "Polar, but is any H bonded to N, O, or F?",
+  "w": "Acetone: <b>dispersion and dipole&ndash;dipole</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c9-h30",
+  "t": "ch09-imf",
+  "q": "What is the strongest intermolecular force in hydrogen peroxide, H<sub>2</sub>O<sub>2</sub> (H&ndash;O&ndash;O&ndash;H)?",
+  "c": [
+   "Hydrogen bonding",
+   "Dipole&ndash;dipole",
+   "Dispersion",
+   "Ion&ndash;dipole"
+  ],
+  "y": [
+   "Correct: Both H atoms are bonded directly to O, so the molecules hydrogen bond with each other.",
+   "H<sub>2</sub>O<sub>2</sub> is polar, but its O&ndash;H bonds add a stronger attraction on top of the dipole&ndash;dipole force.",
+   "Dispersion forces are present but weaker than the hydrogen bonds here.",
+   "H<sub>2</sub>O<sub>2</sub> is a molecule; there are no ions."
+  ],
+  "h": "Look for H bonded to N, O, or F.",
+  "w": "O&ndash;H bonds: <b>hydrogen bonding</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c9-h31",
+  "t": "ch09-imf",
+  "q": "Which of these <b>cannot</b> hydrogen bond with itself?",
+  "c": [
+   "CH<sub>2</sub>Cl<sub>2</sub> (dichloromethane)",
+   "CH<sub>3</sub>NH<sub>2</sub> (methylamine)",
+   "H<sub>2</sub>O<sub>2</sub> (hydrogen peroxide)",
+   "CH<sub>3</sub>COOH (acetic acid)"
+  ],
+  "y": [
+   "Correct: Both H atoms in CH<sub>2</sub>Cl<sub>2</sub> are bonded to carbon, and it has no N, O, or F. It has dipole&ndash;dipole forces only.",
+   "Methylamine has N&ndash;H bonds, so it can hydrogen bond.",
+   "Hydrogen peroxide has O&ndash;H bonds, so it can hydrogen bond.",
+   "Acetic acid has an O&ndash;H group (the COOH), so it can hydrogen bond."
+  ],
+  "h": "Find the molecule with no H on N, O, or F.",
+  "w": "<b>CH<sub>2</sub>Cl<sub>2</sub></b>: its H atoms are on carbon.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c9-h32",
+  "t": "ch09-imf",
+  "q": "For molecules of similar size, which list orders the forces from weakest to strongest?",
+  "c": [
+   "Dispersion &lt; dipole&ndash;dipole &lt; hydrogen bond &lt; ion&ndash;dipole",
+   "Hydrogen bond &lt; dipole&ndash;dipole &lt; dispersion &lt; ion&ndash;dipole",
+   "Dispersion &lt; hydrogen bond &lt; dipole&ndash;dipole &lt; ion&ndash;dipole",
+   "Ion&ndash;dipole &lt; hydrogen bond &lt; dipole&ndash;dipole &lt; dispersion"
+  ],
+  "y": [
+   "Correct: Temporary dipoles are weakest, permanent dipoles stronger, hydrogen bonds (a special strong dipole&ndash;dipole force) stronger still, and full ionic charges strongest.",
+   "Hydrogen bonds are the strongest force between neutral molecules, not the weakest.",
+   "A hydrogen bond is an especially strong dipole&ndash;dipole force, so it ranks above ordinary dipole&ndash;dipole.",
+   "This list is reversed."
+  ],
+  "h": "Temporary dipole, permanent dipole, very strong dipole, full charge.",
+  "w": "<b>Dispersion &lt; dipole&ndash;dipole &lt; hydrogen bond &lt; ion&ndash;dipole</b> (for similar sizes).",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c9-h33",
+  "t": "ch09-imf",
+  "q": "Which of these noble gases has the strongest dispersion forces?",
+  "c": [
+   "Kr",
+   "He",
+   "Ne",
+   "Ar"
+  ],
+  "y": [
+   "Correct: Krypton has the most electrons here (36), so its electron cloud is the most polarizable.",
+   "Helium has only 2 electrons, so it has the weakest dispersion forces of all.",
+   "Neon (10 electrons) is smaller than argon and krypton.",
+   "Argon (18 electrons) is second; krypton has more."
+  ],
+  "h": "More electrons, more polarizable.",
+  "w": "<b>Kr</b>: most electrons, strongest dispersion forces, highest boiling point of the four.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c9-h34",
+  "t": "ch09-solids",
+  "q": "Tooth enamel is mostly hydroxyapatite, Ca<sub>5</sub>(PO<sub>4</sub>)<sub>3</sub>OH, made of Ca<sup>2+</sup>, PO<sub>4</sub><sup>3&minus;</sup>, and OH<sup>&minus;</sup> ions. What type of crystalline solid is it?",
+  "c": [
+   "Ionic",
+   "Molecular",
+   "Covalent network",
+   "Metallic"
+  ],
+  "y": [
+   "Correct: A metal cation with polyatomic anions makes an ionic solid: hard, high-melting, and brittle.",
+   "Hydroxyapatite is not made of separate neutral molecules; it is a lattice of ions.",
+   "Covalent network solids (diamond, graphite, quartz, SiC) have no ions.",
+   "The calcium is present as Ca<sup>2+</sup> ions bonded to anions, not as a metal with a sea of electrons."
+  ],
+  "h": "Metal plus polyatomic ions.",
+  "w": "Ions in a lattice: <b>ionic</b>. (Context only.)",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c9-h35",
+  "t": "ch09-solids",
+  "q": "Cells in the lungs secrete pulmonary surfactant, which lowers the surface tension of the thin water film lining each alveolus (air sac). Why does that help breathing?",
+  "c": [
+   "Lower surface tension means less inward pull on the alveoli, so they stay open and inflate with less effort.",
+   "Lower surface tension makes the water film evaporate, drying the lungs.",
+   "Surfactant raises the surface tension, which holds the alveoli open.",
+   "Surfactant turns the water film into ice, which keeps its shape."
+  ],
+  "y": [
+   "Correct: Water's high surface tension, from hydrogen bonding, would pull small air sacs closed; surfactant weakens that pull.",
+   "The goal is not to dry the alveoli; the film stays, but it pulls inward less strongly.",
+   "Surfactant lowers surface tension; higher surface tension would collapse the alveoli.",
+   "The film stays liquid at body temperature."
+  ],
+  "h": "Surface tension pulls a liquid surface inward.",
+  "w": "<b>Lower surface tension, less inward pull</b>: the alveoli stay open more easily. (Context only.)",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c9-h36",
+  "t": "ch09-solids",
+  "q": "Window glass softens gradually over a range of temperatures instead of melting sharply at one temperature. Why?",
+  "c": [
+   "Glass is an amorphous solid: its particles have no long-range repeating order.",
+   "Glass is a crystalline solid with a perfect lattice.",
+   "Glass is a metallic solid.",
+   "Glass is made of small molecules held by dispersion forces."
+  ],
+  "y": [
+   "Correct: Without a regular lattice, the attractions in glass vary from place to place, so different regions soften at different temperatures.",
+   "Crystalline solids melt sharply at one temperature; glass does not.",
+   "Glass does not conduct electricity or have a sea of electrons.",
+   "Glass is mostly SiO<sub>2</sub> held by covalent bonds, just without a regular arrangement."
+  ],
+  "h": "Regular, repeating pattern or not?",
+  "w": "<b>Amorphous</b>: no long-range order, so it softens over a range.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c9-h37",
+  "t": "ch09-solids",
+  "q": "Which of these is a <b>molecular</b> solid?",
+  "c": [
+   "Aspirin, C<sub>9</sub>H<sub>8</sub>O<sub>4</sub>",
+   "Graphite, C",
+   "Calcium fluoride, CaF<sub>2</sub>",
+   "Aluminum foil, Al"
+  ],
+  "y": [
+   "Correct: Aspirin is made of separate molecules held together by intermolecular forces, so it is soft and melts low.",
+   "Graphite is one of the covalent network solids.",
+   "CaF<sub>2</sub> is a metal with a nonmetal: ionic.",
+   "Aluminum is a metal: metallic solid."
+  ],
+  "h": "Nonmetals only, and not one of the network solids.",
+  "w": "<b>Aspirin</b> is a molecular solid.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c9-h38",
+  "t": "ch09-vapor",
+  "q": "When does a liquid boil?",
+  "c": [
+   "When its vapor pressure equals the pressure of the gas above it",
+   "Whenever it reaches 100 °C",
+   "When its vapor pressure becomes zero",
+   "When molecules at the surface begin to evaporate"
+  ],
+  "y": [
+   "Correct: At that point bubbles of vapor can form throughout the liquid, not just at the surface.",
+   "100 °C is water's normal boiling point at 1 atm only; other liquids, and water at other pressures, boil at other temperatures.",
+   "Vapor pressure rises as a liquid is heated; boiling happens when it reaches the outside pressure.",
+   "Evaporation at the surface happens at any temperature; boiling happens throughout the liquid."
+  ],
+  "h": "Compare the vapor pressure with the outside pressure.",
+  "w": "A liquid boils when <b>vapor pressure = outside pressure</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c9-h39",
+  "t": "ch09-vapor",
+  "q": "An alcohol prep pad feels cold on the skin before an injection. Why?",
+  "c": [
+   "Isopropyl alcohol is volatile; it evaporates quickly, and evaporation absorbs heat from the skin.",
+   "The alcohol is stored in a refrigerator.",
+   "Evaporation releases heat, which the nerves sense as cold.",
+   "Alcohol has a lower temperature than any liquid at room temperature."
+  ],
+  "y": [
+   "Correct: Weak attractions give isopropyl alcohol a high vapor pressure, and the endothermic evaporation pulls heat out of the skin.",
+   "Prep pads are kept at room temperature; the cooling comes from evaporation.",
+   "Evaporation absorbs heat; it is endothermic.",
+   "The pad starts at room temperature; it cools the skin as it evaporates."
+  ],
+  "h": "Is evaporation endothermic or exothermic?",
+  "w": "<b>Fast, endothermic evaporation</b> of a volatile liquid cools the skin. (Context only.)",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c9-h40",
+  "t": "ch09-vapor",
+  "q": "Evaporative (swamp) coolers on Valley roofs cool homes well on dry summer afternoons but poorly on humid days. Why?",
+  "c": [
+   "In humid air, water evaporates from the pads more slowly, so less heat is absorbed from the air.",
+   "Humid air has a lower temperature, so the cooler is not needed.",
+   "Water evaporates faster in humid air, which overheats the pads.",
+   "Humidity raises the boiling point of the water in the pads to 100 °C."
+  ],
+  "y": [
+   "Correct: Evaporation absorbs heat. When the air already holds a lot of water vapor, less water evaporates, so less cooling happens.",
+   "Humid days can be just as hot; the problem is slower evaporation.",
+   "Evaporation is slower, not faster, in humid air.",
+   "The pads work by evaporation well below the boiling point; humidity slows evaporation."
+  ],
+  "h": "The cooling comes from evaporation. What slows evaporation?",
+  "w": "<b>Humid air slows evaporation</b>, so the cooler absorbs less heat from the air.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c9-h41",
+  "t": "ch09-vapor",
+  "q": "Rank HF, HCl, and HBr from <b>lowest to highest</b> boiling point.",
+  "c": [
+   "HCl &lt; HBr &lt; HF",
+   "HF &lt; HCl &lt; HBr",
+   "HBr &lt; HCl &lt; HF",
+   "HF &lt; HBr &lt; HCl"
+  ],
+  "y": [
+   "Correct: HCl and HBr have dipole&ndash;dipole forces, and HBr's extra electrons give it stronger dispersion forces. HF hydrogen bonds, so it boils highest (about 20 °C, versus about &minus;85 °C and &minus;67 °C).",
+   "This ranks by molar mass alone. HF is the lightest, but it hydrogen bonds, which beats the larger dispersion forces of HBr.",
+   "Between HCl and HBr, the strongest force is the same (dipole&ndash;dipole), so size breaks the tie: HBr, with more electrons, boils higher.",
+   "This reverses the order; HF's hydrogen bonding makes it boil highest."
+  ],
+  "h": "Strongest force first; size only breaks ties.",
+  "w": "<b>HCl &lt; HBr &lt; HF</b>: the hydrogen bonding in HF outweighs size.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c9-h42",
+  "t": "ch09-vapor",
+  "q": "Which of these liquids has the <b>lowest</b> vapor pressure at 25 °C?",
+  "c": [
+   "Ethylene glycol, HOCH<sub>2</sub>CH<sub>2</sub>OH",
+   "Hexane, C<sub>6</sub>H<sub>14</sub>",
+   "Ethanol, CH<sub>3</sub>CH<sub>2</sub>OH",
+   "Water, H<sub>2</sub>O"
+  ],
+  "y": [
+   "Correct: Two O&ndash;H groups per molecule give ethylene glycol extensive hydrogen bonding, so very few molecules escape.",
+   "Hexane has the largest molar mass, but it is nonpolar with dispersion forces only, so it evaporates easily (high vapor pressure).",
+   "Ethanol has one O&ndash;H group and fewer hydrogen bonds; it is more volatile than water.",
+   "Water hydrogen bonds strongly, but ethylene glycol is larger and has two O&ndash;H groups, so it evaporates even less."
+  ],
+  "h": "Strongest attractions, lowest vapor pressure.",
+  "w": "<b>Ethylene glycol</b> has the strongest attractions here, so the lowest vapor pressure.",
+  "d": 3,
+  "k": 0
+ }
+]
