@@ -1,0 +1,1729 @@
+[
+ {
+  "id": "c13-001",
+  "t": "ch13-rates",
+  "q": "According to collision theory, which two things must be true of a collision for it to form products?",
+  "c": [
+   "The particles must hit with the right orientation and with at least the activation energy.",
+   "The particles must hit with the right orientation; any amount of energy is enough.",
+   "The particles must hit with at least the activation energy; the direction they hit from does not matter.",
+   "The particles only need to collide; every collision forms products."
+  ],
+  "y": [
+   "An effective collision needs both: the right parts touching (orientation) and enough energy to reach E<sub>a</sub>.",
+   "A gentle collision with the right orientation still fails if it does not reach the activation energy.",
+   "Even a hard collision fails if the wrong parts of the molecules touch, because the right bonds cannot break and form.",
+   "Most collisions do not form products; only effective collisions do."
+  ],
+  "h": "Think of the two conditions that make a collision effective.",
+  "w": "An effective collision has <b>the right orientation and at least E<sub>a</sub></b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c13-002",
+  "t": "ch13-rates",
+  "q": "Two molecules collide with more than enough energy to react, yet no products form. What is the most likely reason?",
+  "c": [
+   "They hit with the wrong orientation, so the bonds that needed to break were not in contact.",
+   "The activation energy was too low for the reaction to happen.",
+   "The reaction had reached equilibrium, so all reactions had stopped.",
+   "High-energy collisions always bounce apart without reacting."
+  ],
+  "y": [
+   "Energy is only one requirement; the right parts of the molecules must also collide.",
+   "A lower activation energy makes a reaction easier, not harder, and these molecules had more than enough energy.",
+   "Reactions do not stop at equilibrium; the forward and reverse reactions keep running at equal rates.",
+   "Collisions with at least E<sub>a</sub> and the right orientation do react; high energy is not the problem."
+  ],
+  "h": "The energy was enough. What is the other requirement?",
+  "w": "Enough energy but no reaction: <b>wrong orientation</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-003",
+  "t": "ch13-rates",
+  "q": "Use the energy diagram. What is the activation energy of the forward reaction?",
+  "c": [
+   "83 kJ",
+   "46 kJ",
+   "118 kJ",
+   "37 kJ"
+  ],
+  "y": [
+   "E<sub>a</sub> is measured from the reactants (35 kJ) up to the top of the hill (118 kJ): 118 &minus; 35 = 83 kJ.",
+   "This measures from the products to the top of the hill. E<sub>a</sub> for the forward reaction starts at the reactants.",
+   "This is the energy of the top of the hill read from the bottom of the graph, not its height above the reactants.",
+   "This is &Delta;H (72 &minus; 35), the difference between products and reactants, not the height of the hill."
+  ],
+  "h": "Start at the reactant energy and measure up to the top of the hill.",
+  "w": "E<sub>a</sub> = top &minus; reactants = 118 kJ &minus; 35 kJ = <b>83 kJ</b>.",
+  "d": 2,
+  "k": 1,
+  "f": [
+   {
+    "type": "plot",
+    "x": {
+     "min": 0,
+     "max": 10,
+     "label": "Reaction progress",
+     "ticks": []
+    },
+    "y": {
+     "min": 0,
+     "max": 140,
+     "label": "Energy (kJ)",
+     "noTicks": true
+    },
+    "series": [
+     {
+      "pts": [
+       [
+        0,
+        35
+       ],
+       [
+        1.5,
+        35
+       ],
+       [
+        2.5,
+        41.6
+       ],
+       [
+        3.5,
+        68.2
+       ],
+       [
+        4.3,
+        101.4
+       ],
+       [
+        5,
+        118
+       ],
+       [
+        5.7,
+        108.8
+       ],
+       [
+        6.5,
+        90.4
+       ],
+       [
+        7.3,
+        75.7
+       ],
+       [
+        8,
+        72
+       ],
+       [
+        10,
+        72
+       ]
+      ]
+     }
+    ],
+    "hlines": [
+     {
+      "y": 35
+     },
+     {
+      "y": 118
+     },
+     {
+      "y": 72
+     }
+    ],
+    "marks": [
+     [
+      1.7,
+      23,
+      "Reactants 35 kJ"
+     ],
+     [
+      5,
+      126,
+      "118 kJ"
+     ],
+     [
+      8.4,
+      79,
+      "Products 72 kJ"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c13-004",
+  "t": "ch13-rates",
+  "q": "A reaction's energy diagram shows the reactants at 88 kJ, the products at 23 kJ, and the peak of the hill at 142 kJ. What is &Delta;H, and is the reaction exothermic or endothermic?",
+  "c": [
+   "&minus;65 kJ, exothermic",
+   "+65 kJ, endothermic",
+   "+54 kJ, endothermic",
+   "&minus;119 kJ, exothermic"
+  ],
+  "y": [
+   "&Delta;H = products &minus; reactants = 23 &minus; 88 = &minus;65 kJ. The products are lower in energy, so heat is released.",
+   "This is reactants &minus; products. &Delta;H is products &minus; reactants, which is negative here.",
+   "This is the activation energy (142 &minus; 88), the height of the hill, not &Delta;H.",
+   "This measures from the peak of the hill down to the products; &Delta;H compares only the start and the end."
+  ],
+  "h": "&Delta;H = energy of the products &minus; energy of the reactants.",
+  "w": "&Delta;H = 23 kJ &minus; 88 kJ = <b>&minus;65 kJ, exothermic</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c13-005",
+  "t": "ch13-rates",
+  "q": "How does adding a catalyst change the energy diagram of a reaction?",
+  "c": [
+   "It lowers the top of the hill, but the reactant and product energies stay the same.",
+   "It lowers the energy of the products, so &Delta;H becomes more negative.",
+   "It raises the top of the hill, so fewer collisions succeed.",
+   "It lowers the hill and the reactant energy by the same amount."
+  ],
+  "y": [
+   "A catalyst gives a path with a lower activation energy; the start and end points, and so &Delta;H, do not change.",
+   "A catalyst does not change &Delta;H; the products end at the same energy with or without it.",
+   "A catalyst lowers E<sub>a</sub>; a higher hill would slow the reaction down.",
+   "The reactants have the same energy with or without a catalyst; only the path between reactants and products changes."
+  ],
+  "h": "A catalyst changes the path, not the start or the end.",
+  "w": "<b>A lower hill (smaller E<sub>a</sub>), the same &Delta;H</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-006",
+  "t": "ch13-rates",
+  "q": "Full-strength household bleach removes a coffee stain from a white shirt much faster than bleach diluted with water. Why?",
+  "c": [
+   "The full-strength bleach has more hypochlorite ions in each milliliter, so they collide with the stain molecules more often.",
+   "Water is a catalyst that slows the reaction down.",
+   "Diluting bleach raises the activation energy of the reaction.",
+   "Full-strength bleach is hotter than diluted bleach."
+  ],
+  "y": [
+   "A higher concentration means more collisions per second, so more effective collisions and a faster reaction.",
+   "Water is not a catalyst here, and a catalyst speeds a reaction up; diluting just spreads the reacting ions out.",
+   "Concentration changes the number of collisions, not the height of the energy hill.",
+   "Both are at room temperature; the difference is how many reacting ions are in the same space."
+  ],
+  "h": "A higher concentration of a reactant: what happens to the number of collisions?",
+  "w": "Higher concentration &rarr; <b>more collisions per second</b> &rarr; faster stain removal.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c13-007",
+  "t": "ch13-rates",
+  "q": "Why does storing leftovers in a refrigerator at 4 °C slow down spoilage?",
+  "c": [
+   "At low temperature, molecules collide less often and fewer collisions have at least the activation energy, so the bacteria's reactions slow down.",
+   "Cold kills the bacteria, so no spoilage reactions can happen.",
+   "Cold raises the activation energy of the spoilage reactions.",
+   "Cold removes the oxygen from the food, so the reactions stop."
+  ],
+  "y": [
+   "Bacterial growth depends on enzyme-catalyzed reactions, which slow down at low temperature like any reaction.",
+   "Cold slows most bacteria but does not kill them; that is why food is also cooked to a safe temperature.",
+   "E<sub>a</sub> belongs to the reaction path; cooling changes how many collisions reach it, not the height of the hill.",
+   "Food in a refrigerator is still surrounded by air; cold slows reactions by slowing the molecules."
+  ],
+  "h": "Cooling slows the particles down.",
+  "w": "Colder &rarr; fewer, weaker collisions &rarr; <b>slower reactions</b>. The bacteria are slowed, not killed.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c13-008",
+  "t": "ch13-rates",
+  "q": "After a cardiac arrest, some patients' body temperature is lowered by a few degrees on purpose for a time (targeted temperature management), partly to lower the brain's need for oxygen. Which collision-theory idea explains why cooling lowers the oxygen need?",
+  "c": [
+   "At a lower temperature, molecules collide less often and fewer collisions have at least the activation energy, so the cells' enzyme reactions run more slowly.",
+   "At a lower temperature, molecules collide less often, but the fraction of collisions with enough energy stays the same.",
+   "Cooling raises the activation energy of the cells' reactions.",
+   "Cooling destroys the enzymes, so the cells' reactions stop."
+  ],
+  "y": [
+   "Both effects slow the reactions that use oxygen; the smaller fraction of collisions with enough energy is usually the bigger effect.",
+   "This is only half of the answer: at a lower temperature, fewer of the collisions also reach E<sub>a</sub>.",
+   "Temperature does not change the height of the energy hill; it changes how many collisions get over it.",
+   "A few degrees of cooling slows enzymes; it does not destroy them, and the reactions keep running."
+  ],
+  "h": "Temperature has two effects on collisions.",
+  "w": "Cooler: <b>fewer collisions, and fewer of them with at least E<sub>a</sub></b>, so metabolism slows.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-009",
+  "t": "ch13-rates",
+  "q": "A steel nail held in a flame only glows, but a pad of fine steel wool of the same mass burns with bright sparks. Why?",
+  "c": [
+   "The thin fibers of steel wool have much more surface area, so many more iron atoms can collide with O<sub>2</sub>.",
+   "Steel wool is made of a different element than the nail.",
+   "The flame is hotter around steel wool than around a nail.",
+   "Steel wool contains a catalyst that the nail lacks."
+  ],
+  "y": [
+   "More surface area exposes more of the solid to collisions, so the reaction is much faster.",
+   "Both are mostly iron; the difference is how much of the iron is exposed to the air.",
+   "The same flame is used; the difference is in the solid, not the flame.",
+   "No catalyst is involved; the fine fibers simply expose more iron to oxygen."
+  ],
+  "h": "Same metal, same mass. What is different about how much of it is exposed?",
+  "w": "Fine fibers = <b>more surface area</b> = more collisions with O<sub>2</sub>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c13-010",
+  "t": "ch13-rates",
+  "q": "Which statement about a catalyst is true?",
+  "c": [
+   "It speeds up a reaction by providing a path with a lower activation energy, and it is not used up.",
+   "It speeds up a reaction by raising the temperature of the mixture.",
+   "It is used up as the reaction runs, so more must keep being added.",
+   "It makes a reaction release more heat (a more negative &Delta;H)."
+  ],
+  "y": [
+   "A catalyst lowers E<sub>a</sub> so more collisions are effective, and it comes out of the reaction unchanged.",
+   "A catalyst works at the same temperature; it lowers the energy hill instead.",
+   "A catalyst is regenerated, so a small amount can be used over and over.",
+   "A catalyst does not change &Delta;H; the reactants and products have the same energies with or without it."
+  ],
+  "h": "What does a catalyst change on the energy diagram, and is it still there at the end?",
+  "w": "<b>A lower E<sub>a</sub>, and not used up</b>; &Delta;H is unchanged.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c13-011",
+  "t": "ch13-rates",
+  "q": "People who are lactose intolerant make too little of the enzyme lactase, so lactose from milk is broken down too slowly in the small intestine. How does lactase speed up this breakdown?",
+  "c": [
+   "It binds lactose in the right orientation and gives a reaction path with a lower activation energy.",
+   "It raises the temperature of the small intestine.",
+   "It is used up as it breaks down each lactose molecule.",
+   "It changes &Delta;H so the reaction releases more energy."
+  ],
+  "y": [
+   "Enzymes are biological catalysts: they hold the substrate in the right orientation and lower E<sub>a</sub>.",
+   "Enzymes work at body temperature; they lower the energy hill instead of heating the gut.",
+   "Like any catalyst, lactase comes out unchanged and can act on many lactose molecules.",
+   "A catalyst does not change &Delta;H; only the hill between reactants and products is lower."
+  ],
+  "h": "Enzymes are catalysts.",
+  "w": "Lactase is a catalyst: <b>the right orientation and a lower E<sub>a</sub></b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-012",
+  "t": "ch13-rates",
+  "q": "The table shows the relative rate of a reaction catalyzed by a human enzyme at several temperatures. Why does the rate fall above 37 °C?",
+  "c": [
+   "The enzyme begins to change shape (denature), so it catalyzes the reaction less well.",
+   "Higher temperatures always make reactions slower.",
+   "Above 37 °C the molecules collide less often.",
+   "The activation energy of every reaction rises above 37 °C."
+  ],
+  "y": [
+   "Enzymes are proteins, and their shape matters; too much heat changes the shape, and the enzyme slows or stops.",
+   "Below 37 °C the rate rises with temperature, as for most reactions. The drop above 37 °C comes from the enzyme itself.",
+   "Molecules move faster and collide more often as the temperature rises; collisions are not the problem.",
+   "E<sub>a</sub> does not jump at 37 °C; the enzyme loses its working shape, so the catalyzed path is lost."
+  ],
+  "h": "Enzymes are proteins with a working shape.",
+  "w": "The rate peaks at 37 °C (1.00), then falls: <b>the enzyme denatures</b>.",
+  "d": 2,
+  "k": 0,
+  "f": [
+   {
+    "type": "table",
+    "cap": "Rate of an enzyme-catalyzed reaction",
+    "head": [
+     "Temperature (°C)",
+     "Relative rate"
+    ],
+    "rows": [
+     [
+      "17",
+      "0.28"
+     ],
+     [
+      "27",
+      "0.55"
+     ],
+     [
+      "37",
+      "1.00"
+     ],
+     [
+      "47",
+      "0.46"
+     ],
+     [
+      "57",
+      "0.04"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c13-013",
+  "t": "ch13-rates",
+  "q": "Magnesium ribbon reacts with hydrochloric acid:<span style=\"display:block;text-align:center;margin:6px 0\">Mg(s) + 2 HCl(aq) &rarr; MgCl<sub>2</sub>(aq) + H<sub>2</sub>(g)</span>Which change would make the reaction faster?",
+  "c": [
+   "Cutting the ribbon into small pieces",
+   "Diluting the acid with water",
+   "Cooling the acid in an ice bath",
+   "Using one single thick strip of the same mass"
+  ],
+  "y": [
+   "Small pieces have more surface area, so more magnesium atoms are exposed to collisions with the acid.",
+   "Diluting lowers the concentration of HCl, so there are fewer collisions each second and the reaction slows.",
+   "Cooling means fewer collisions, and fewer with at least E<sub>a</sub>, so the reaction slows.",
+   "A thick strip has less surface area than thin ribbon, so the reaction slows."
+  ],
+  "h": "Which change raises the number of effective collisions per second?",
+  "w": "More surface area: <b>cutting the ribbon into small pieces</b> speeds the reaction.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-014",
+  "t": "ch13-rates",
+  "q": "At the same temperature, reaction A has E<sub>a</sub> = 24 kJ and reaction B has E<sub>a</sub> = 96 kJ. Which statement is correct?",
+  "c": [
+   "Reaction A is faster, because a larger fraction of its collisions have at least its activation energy.",
+   "Reaction B is faster, because a higher activation energy releases more energy.",
+   "They have the same rate, because the temperature is the same.",
+   "Reaction B is faster, because its molecules have more energy."
+  ],
+  "y": [
+   "A lower hill means more collisions have enough energy to get over it.",
+   "E<sub>a</sub> is the energy needed to start the reaction, not the energy released; a higher hill makes a reaction slower.",
+   "At the same temperature, the reaction with the lower hill has more effective collisions, so it is faster.",
+   "At the same temperature the molecules have the same average energy; B needs more of it to react."
+  ],
+  "h": "Lower hill or higher hill: which one do more collisions get over?",
+  "w": "Lower E<sub>a</sub> (24 kJ) &rarr; <b>reaction A is faster</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-015",
+  "t": "ch13-rates",
+  "q": "A match does not light while it sits in the box, but it bursts into flame when it is struck against the strip. What does striking it supply?",
+  "c": [
+   "Energy from friction, so some collisions reach the activation energy",
+   "A catalyst that is used up as the match burns",
+   "Oxygen, which is not otherwise in contact with the match head",
+   "A change in &Delta;H that makes the reaction exothermic"
+  ],
+  "y": [
+   "Burning is exothermic but still has an activation energy. Friction heats the head so collisions get over the hill, and the heat released keeps the reaction going.",
+   "Striking does not add a catalyst; it adds energy.",
+   "The match head is already surrounded by air in the box.",
+   "Burning is exothermic either way; &Delta;H does not change when you strike the match."
+  ],
+  "h": "Why does an exothermic reaction not start by itself?",
+  "w": "Striking supplies the <b>activation energy</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c13-016",
+  "t": "ch13-rates",
+  "q": "A blood sample is cooled from 37 °C to 27 °C. Using the rule of thumb that many reaction rates about double for every 10 °C rise, about how fast do the sample's enzyme-catalyzed reactions run at 27 °C compared with 37 °C?",
+  "c": [
+   "About half as fast",
+   "About twice as fast",
+   "About the same",
+   "About one-tenth as fast"
+  ],
+  "y": [
+   "27 °C is 10 °C cooler than 37 °C: one halving, the reverse of one doubling.",
+   "Cooling slows reactions down; twice as fast would be for 10 °C warmer.",
+   "A 10 °C change has a large effect on most reaction rates.",
+   "The rule of thumb is a factor of about 2 for each 10 °C, not a factor of 10."
+  ],
+  "h": "Is the sample warmer or cooler, and by how many 10 °C steps?",
+  "w": "One 10 °C step cooler &rarr; <b>about half as fast</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-017",
+  "t": "ch13-dynamic",
+  "q": "For a reaction at chemical equilibrium, how does the rate of the forward reaction compare with the rate of the reverse reaction?",
+  "c": [
+   "The two rates are equal, and neither one is zero.",
+   "Both rates are zero, because the reaction has stopped.",
+   "The forward rate is larger, because products are still forming.",
+   "The reverse rate is larger, because products are breaking down."
+  ],
+  "y": [
+   "Equilibrium is dynamic: both reactions keep running at the same rate, so the concentrations stay constant.",
+   "Nothing stops at equilibrium; molecules keep reacting in both directions.",
+   "Products do keep forming, but they also break down at the same rate, so there is no net change.",
+   "Products do keep breaking down, but they also form at the same rate, so there is no net change."
+  ],
+  "h": "Equal rates, constant amounts.",
+  "w": "At equilibrium <b>the rates are equal, and not zero</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c13-018",
+  "t": "ch13-dynamic",
+  "q": "A sealed flask holds a reaction at a constant temperature. [A] stays at 0.32 M and [B] stays at 0.68 M for hours. A student says the system cannot be at equilibrium because the concentrations are not equal. Which response is correct?",
+  "c": [
+   "It is at equilibrium: the concentrations are constant, and they do not have to be equal.",
+   "The student is right: at equilibrium the two concentrations must be equal.",
+   "It is at equilibrium only because the reactions have stopped.",
+   "The student is right: equilibrium is reached only when both reactions stop."
+  ],
+  "y": [
+   "Constant concentrations show that the forward and reverse rates are equal. The equilibrium amounts depend on the reaction and are usually different.",
+   "Equal rates, not equal concentrations, define equilibrium.",
+   "The concentrations are constant because the two rates are equal, not because the reactions stopped.",
+   "The reactions never stop at equilibrium; they keep running at equal rates."
+  ],
+  "h": "Is the definition of equilibrium about rates or about amounts?",
+  "w": "Constant, not equal: <b>it is at equilibrium</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-019",
+  "t": "ch13-dynamic",
+  "q": "The graph shows [A] and [B] over time for the reaction A &rlarr; B in a sealed flask that started with only A. When is equilibrium first reached?",
+  "c": [
+   "At about 50 s, when both curves become flat",
+   "At about 22 s, where the two curves cross",
+   "At 0 s, when the reaction starts",
+   "At 100 s, when the reactions stop"
+  ],
+  "y": [
+   "Equilibrium is where every line goes flat: from about 50 s on, [A] and [B] stop changing.",
+   "The crossing point is where [A] = [B]. Both concentrations are still changing there, and equal concentrations are not the sign of equilibrium.",
+   "At 0 s there is no B yet, so the reverse reaction has not started and the forward rate is much faster.",
+   "The lines are flat well before 100 s, and the reactions never stop; they continue at equal rates."
+  ],
+  "h": "Look for the time after which neither line changes.",
+  "w": "Both lines are flat from about 50 s on: <b>equilibrium at about 50 s</b>.",
+  "d": 2,
+  "k": 0,
+  "f": [
+   {
+    "type": "plot",
+    "x": {
+     "min": 0,
+     "max": 100,
+     "label": "Time (s)"
+    },
+    "y": {
+     "min": 0,
+     "max": 1.0,
+     "label": "Concentration (M)"
+    },
+    "grid": true,
+    "series": [
+     {
+      "pts": [
+       [
+        0,
+        1.0
+       ],
+       [
+        10,
+        0.7
+       ],
+       [
+        20,
+        0.52
+       ],
+       [
+        30,
+        0.42
+       ],
+       [
+        40,
+        0.37
+       ],
+       [
+        50,
+        0.35
+       ],
+       [
+        60,
+        0.35
+       ],
+       [
+        80,
+        0.35
+       ],
+       [
+        100,
+        0.35
+       ]
+      ],
+      "label": "[A]",
+      "labelAt": 7,
+      "dx": 0,
+      "dy": -22
+     },
+     {
+      "pts": [
+       [
+        0,
+        0.0
+       ],
+       [
+        10,
+        0.3
+       ],
+       [
+        20,
+        0.48
+       ],
+       [
+        30,
+        0.58
+       ],
+       [
+        40,
+        0.63
+       ],
+       [
+        50,
+        0.65
+       ],
+       [
+        60,
+        0.65
+       ],
+       [
+        80,
+        0.65
+       ],
+       [
+        100,
+        0.65
+       ]
+      ],
+      "label": "[B]",
+      "labelAt": 7,
+      "dx": 0,
+      "dy": -22
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c13-020",
+  "t": "ch13-dynamic",
+  "q": "Phosgene forms in a sealed flask:<span style=\"display:block;text-align:center;margin:6px 0\">CO(g) + Cl<sub>2</sub>(g) &rlarr; COCl<sub>2</sub>(g)</span>The [COCl<sub>2</sub>] readings were 0 M at 0 min, 0.0140 M at 5 min, 0.0215 M at 10 min, 0.0238 M at 15 min, 0.0238 M at 20 min, and 0.0238 M at 25 min. By which reading had the system reached equilibrium?",
+  "c": [
+   "15 min",
+   "10 min",
+   "25 min",
+   "0 min"
+  ],
+  "y": [
+   "From this reading on, [COCl<sub>2</sub>] stays at 0.0238 M. A constant concentration means the forward and reverse rates are equal.",
+   "[COCl<sub>2</sub>] is still rising after this reading (0.0215 M, then 0.0238 M), so the forward reaction is still faster.",
+   "The system was already at equilibrium earlier; this is just a later reading of the same constant value.",
+   "At the start there is no product, so the reverse reaction cannot run yet."
+  ],
+  "h": "Find the first reading after which the value stops changing.",
+  "w": "[COCl<sub>2</sub>] is 0.0238 M from 15 min on: <b>by 15 min</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-021",
+  "t": "ch13-dynamic",
+  "q": "A sealed flask starts with only H<sub>2</sub> and Br<sub>2</sub>, which react:<span style=\"display:block;text-align:center;margin:6px 0\">H<sub>2</sub>(g) + Br<sub>2</sub>(g) &rlarr; 2 HBr(g)</span>What happens to the forward and reverse rates as the system approaches equilibrium?",
+  "c": [
+   "The forward rate falls and the reverse rate rises until they are equal.",
+   "The forward rate rises and the reverse rate falls until they are equal.",
+   "Both rates fall until they reach zero.",
+   "Both rates stay the same the whole time."
+  ],
+  "y": [
+   "As H<sub>2</sub> and Br<sub>2</sub> are used up, they collide less often; as HBr builds up, it breaks apart more often. The rates meet at equilibrium.",
+   "This has it backward: the forward rate is highest at the start, when the most reactant is present.",
+   "The rates become equal, not zero; both reactions keep running.",
+   "The forward rate starts high and the reverse rate starts at zero, so they must change to become equal."
+  ],
+  "h": "At the start there is lots of reactant and no product.",
+  "w": "<b>Forward falls, reverse rises, until they are equal.</b>",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-022",
+  "t": "ch13-dynamic",
+  "q": "A sealed flask at a fixed temperature starts with only COCl<sub>2</sub> gas. What happens?<span style=\"display:block;text-align:center;margin:6px 0\">CO(g) + Cl<sub>2</sub>(g) &rlarr; COCl<sub>2</sub>(g)</span>",
+  "c": [
+   "Some COCl<sub>2</sub> breaks down until the forward and reverse rates are equal, giving a mixture of all three gases.",
+   "Nothing happens, because equilibrium can be reached only by starting from the reactants.",
+   "All of the COCl<sub>2</sub> breaks down into CO and Cl<sub>2</sub>.",
+   "It reaches a mixture that has a different K than a mixture made from CO and Cl<sub>2</sub>."
+  ],
+  "y": [
+   "Equilibrium can be reached from either side. The reverse reaction runs first, and as CO and Cl<sub>2</sub> build up, the forward reaction speeds up to match it.",
+   "Equilibrium can be approached from the product side as well.",
+   "As soon as CO and Cl<sub>2</sub> form, they react to re-form COCl<sub>2</sub>, so the breakdown is not complete.",
+   "At the same temperature, the mixture obeys the same K no matter which side it started from."
+  ],
+  "h": "Can equilibrium be reached from the product side?",
+  "w": "<b>Partial breakdown to an equilibrium mixture of all three gases</b>, with the same K.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-023",
+  "t": "ch13-dynamic",
+  "q": "Why does an open glass of soda go flat instead of reaching an equilibrium between dissolved and gaseous CO<sub>2</sub>?<span style=\"display:block;text-align:center;margin:6px 0\">CO<sub>2</sub>(aq) &rlarr; CO<sub>2</sub>(g)</span>",
+  "c": [
+   "CO<sub>2</sub> gas escapes from the open glass, so the reverse process cannot keep up; equilibrium needs a closed system.",
+   "Gases cannot take part in an equilibrium.",
+   "The forward and reverse rates are equal, so all of the CO<sub>2</sub> leaves.",
+   "Dissolving CO<sub>2</sub> is not a reversible process."
+  ],
+  "y": [
+   "In a sealed bottle, CO<sub>2</sub> gas above the soda dissolves back as fast as it leaves. In an open glass the gas drifts away, so the forward process wins.",
+   "Gases take part in many equilibria, for example in a sealed soda bottle.",
+   "Equal rates would mean no net loss of CO<sub>2</sub>; the soda goes flat because the rates are not equal.",
+   "CO<sub>2</sub> dissolves and leaves the liquid in both directions; in a sealed bottle the two processes balance."
+  ],
+  "h": "What does an equilibrium need that an open glass does not have?",
+  "w": "The gas escapes: <b>equilibrium needs a closed system</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-024",
+  "t": "ch13-dynamic",
+  "q": "A chemist swaps a tiny fraction of the CO in an equilibrium mixture for CO made with carbon-14, keeping [CO] the same.<span style=\"display:block;text-align:center;margin:6px 0\">CO(g) + Cl<sub>2</sub>(g) &rlarr; COCl<sub>2</sub>(g)</span>Later, carbon-14 shows up in COCl<sub>2</sub> molecules, but no concentration ever changes. What does this show?",
+  "c": [
+   "Both reactions are still running at equal rates, so labeled carbon atoms move into COCl<sub>2</sub> and back out.",
+   "The reaction had stopped, and adding the labeled CO restarted it in the forward direction only.",
+   "The forward rate is faster than the reverse rate at equilibrium.",
+   "Carbon-14 is a catalyst that makes new COCl<sub>2</sub>."
+  ],
+  "y": [
+   "This is the evidence that equilibrium is dynamic: molecules keep forming and breaking apart with no net change.",
+   "Nothing restarted; [CO] did not change, and the label spreads only because both reactions were already running.",
+   "If the forward rate were faster, [COCl<sub>2</sub>] would rise; it stays constant.",
+   "Carbon-14 is just a labeled carbon atom; it reacts like ordinary carbon and is not a catalyst."
+  ],
+  "h": "How can labeled atoms end up in the product if nothing changes?",
+  "w": "The label spreads with no net change: <b>both reactions run at equal rates</b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c13-025",
+  "t": "ch13-dynamic",
+  "q": "Which situation is most like a dynamic equilibrium?",
+  "c": [
+   "A parking garage where cars enter and leave at the same rate, so the number inside stays the same",
+   "A parking garage that has closed for the night, so no cars move at all",
+   "A parking garage that keeps filling up all morning",
+   "A parking garage with exactly as many cars inside as on the street outside"
+  ],
+  "y": [
+   "Movement continues in both directions at equal rates, so the count is constant: dynamic equilibrium.",
+   "Nothing moves here; equilibrium is dynamic, not stopped.",
+   "The number inside is still changing, so the in and out rates are not equal yet.",
+   "Equal amounts are not the point; equal rates in and out are."
+  ],
+  "h": "Look for equal rates in both directions with a constant amount.",
+  "w": "<b>Cars entering and leaving at the same rate</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c13-026",
+  "t": "ch13-dynamic",
+  "q": "Write the reverse reaction for<span style=\"display:block;text-align:center;margin:6px 0\">2 H<sub>2</sub>S(g) &rlarr; 2 H<sub>2</sub>(g) + S<sub>2</sub>(g)</span>",
+  "c": [
+   "2 H<sub>2</sub>(g) + S<sub>2</sub>(g) &rarr; 2 H<sub>2</sub>S(g)",
+   "2 H<sub>2</sub>S(g) &rarr; 2 H<sub>2</sub>(g) + S<sub>2</sub>(g)",
+   "4 H<sub>2</sub>(g) + 2 S<sub>2</sub>(g) &rarr; 4 H<sub>2</sub>S(g)",
+   "2 H<sub>2</sub>(g) + S<sub>2</sub>(s) &rarr; 2 H<sub>2</sub>S(g)"
+  ],
+  "y": [
+   "The reverse reaction is the forward reaction read right to left, with the same coefficients and phases.",
+   "This is the forward reaction; the reverse starts from the products.",
+   "The reverse reaction keeps the same coefficients; doubling them gives a different equation.",
+   "Phases do not change when the reaction is reversed; S<sub>2</sub> is a gas here."
+  ],
+  "h": "Read the equation from right to left.",
+  "w": "Reverse: <b>2 H<sub>2</sub>(g) + S<sub>2</sub>(g) &rarr; 2 H<sub>2</sub>S(g)</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-027",
+  "t": "ch13-dynamic",
+  "q": "A student writes, &ldquo;At equilibrium, the forward and reverse rates are both zero.&rdquo; What is wrong with this statement?",
+  "c": [
+   "Both reactions keep running; the rates are equal, not zero.",
+   "Nothing; at equilibrium the reactions stop, so both rates are zero.",
+   "Only the reverse rate is zero at equilibrium.",
+   "Only the forward rate is zero at equilibrium."
+  ],
+  "y": [
+   "Equilibrium is dynamic: molecules keep reacting both ways, at the same rate, so there is no net change.",
+   "The reactions do not stop; that is why it is called <i>dynamic</i> equilibrium.",
+   "If the reverse rate were zero, products would keep piling up, and the concentrations would not be constant.",
+   "If the forward rate were zero, reactants would keep piling up, and the concentrations would not be constant."
+  ],
+  "h": "Why is it called <i>dynamic</i> equilibrium?",
+  "w": "<b>The rates are equal, not zero.</b>",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-028",
+  "t": "ch13-dynamic",
+  "q": "At equilibrium, a reaction mixture contains far more product than reactant. Which statement is true?",
+  "c": [
+   "The forward and reverse rates are equal; the equilibrium mixture of this reaction simply favors products.",
+   "The forward rate is faster than the reverse rate, which is why there is more product.",
+   "The reverse reaction has stopped, so product builds up.",
+   "The system will not be at equilibrium until the amounts become equal."
+  ],
+  "y": [
+   "At equilibrium the rates are always equal. How much product is present depends on the reaction (its K), not on unequal rates.",
+   "A faster forward rate would keep making product, so the concentrations would not be constant.",
+   "Both reactions run at equilibrium; neither one stops.",
+   "Equilibrium means constant amounts, not equal amounts."
+  ],
+  "h": "Do unequal amounts mean unequal rates?",
+  "w": "<b>Equal rates</b>; this reaction just favors products.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-029",
+  "t": "ch13-k",
+  "q": "Write the equilibrium constant expression for<span style=\"display:block;text-align:center;margin:6px 0\">2 NO(g) + O<sub>2</sub>(g) &rlarr; 2 NO<sub>2</sub>(g)</span>",
+  "c": [
+   "K = [NO<sub>2</sub>]<sup>2</sup> / ([NO]<sup>2</sup>[O<sub>2</sub>])",
+   "K = [NO]<sup>2</sup>[O<sub>2</sub>] / [NO<sub>2</sub>]<sup>2</sup>",
+   "K = 2[NO<sub>2</sub>] / (2[NO][O<sub>2</sub>])",
+   "K = [NO<sub>2</sub>] / ([NO][O<sub>2</sub>])"
+  ],
+  "y": [
+   "Products over reactants, each raised to its coefficient: NO<sub>2</sub> squared on top, NO squared and O<sub>2</sub> on the bottom.",
+   "This is reactants over products; K always puts the products on top.",
+   "Coefficients become exponents, not multipliers.",
+   "This leaves out the exponents; the coefficient 2 on NO and on NO<sub>2</sub> must become a power of 2."
+  ],
+  "h": "Products over reactants; coefficients become exponents.",
+  "w": "<b>K = [NO<sub>2</sub>]<sup>2</sup> / ([NO]<sup>2</sup>[O<sub>2</sub>])</b>",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-030",
+  "t": "ch13-k",
+  "q": "Ammonia burns in oxygen:<span style=\"display:block;text-align:center;margin:6px 0\">4 NH<sub>3</sub>(g) + 3 O<sub>2</sub>(g) &rlarr; 2 N<sub>2</sub>(g) + 6 H<sub>2</sub>O(g)</span>Write the equilibrium constant expression.",
+  "c": [
+   "K = [N<sub>2</sub>]<sup>2</sup>[H<sub>2</sub>O]<sup>6</sup> / ([NH<sub>3</sub>]<sup>4</sup>[O<sub>2</sub>]<sup>3</sup>)",
+   "K = [N<sub>2</sub>]<sup>2</sup> / ([NH<sub>3</sub>]<sup>4</sup>[O<sub>2</sub>]<sup>3</sup>)",
+   "K = [NH<sub>3</sub>]<sup>4</sup>[O<sub>2</sub>]<sup>3</sup> / ([N<sub>2</sub>]<sup>2</sup>[H<sub>2</sub>O]<sup>6</sup>)",
+   "K = [N<sub>2</sub>][H<sub>2</sub>O] / ([NH<sub>3</sub>][O<sub>2</sub>])"
+  ],
+  "y": [
+   "All four species are gases, so all appear, each raised to its coefficient, with products on top.",
+   "Water is left out only when it is a liquid. Here it is H<sub>2</sub>O(g), a gas, so it stays in.",
+   "This is reactants over products; K puts the products on top.",
+   "Every concentration must be raised to its coefficient: 4, 3, 2, and 6."
+  ],
+  "h": "Check each phase label before writing K. Is the water a liquid here?",
+  "w": "Water is a gas, so it stays: <b>K = [N<sub>2</sub>]<sup>2</sup>[H<sub>2</sub>O]<sup>6</sup> / ([NH<sub>3</sub>]<sup>4</sup>[O<sub>2</sub>]<sup>3</sup>)</b>",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c13-031",
+  "t": "ch13-k",
+  "q": "Ammonium carbonate, the solid in old-fashioned smelling salts, breaks down in a sealed jar:<span style=\"display:block;text-align:center;margin:6px 0\">(NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub>(s) &rlarr; 2 NH<sub>3</sub>(g) + CO<sub>2</sub>(g) + H<sub>2</sub>O(g)</span>Write the equilibrium constant expression.",
+  "c": [
+   "K = [NH<sub>3</sub>]<sup>2</sup>[CO<sub>2</sub>][H<sub>2</sub>O]",
+   "K = [NH<sub>3</sub>]<sup>2</sup>[CO<sub>2</sub>][H<sub>2</sub>O] / [(NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub>]",
+   "K = [NH<sub>3</sub>]<sup>2</sup>[CO<sub>2</sub>]",
+   "K = 2[NH<sub>3</sub>][CO<sub>2</sub>][H<sub>2</sub>O]"
+  ],
+  "y": [
+   "The solid is left out, so only the three gases remain, multiplied together on top, with [NH<sub>3</sub>] squared.",
+   "Pure solids are left out of K; (NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub>(s) does not belong in the denominator.",
+   "Water is left out only as a liquid; here it is a gas, so it stays in.",
+   "The coefficient 2 on NH<sub>3</sub> becomes an exponent, not a multiplier."
+  ],
+  "h": "Cross out the (s) species first. Is the water a gas or a liquid?",
+  "w": "Leave out the solid: <b>K = [NH<sub>3</sub>]<sup>2</sup>[CO<sub>2</sub>][H<sub>2</sub>O]</b>",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c13-032",
+  "t": "ch13-k",
+  "q": "Write the equilibrium constant expression for<span style=\"display:block;text-align:center;margin:6px 0\">2 H<sub>2</sub>(g) + O<sub>2</sub>(g) &rlarr; 2 H<sub>2</sub>O(l)</span>",
+  "c": [
+   "K = 1 / ([H<sub>2</sub>]<sup>2</sup>[O<sub>2</sub>])",
+   "K = [H<sub>2</sub>O]<sup>2</sup> / ([H<sub>2</sub>]<sup>2</sup>[O<sub>2</sub>])",
+   "K = [H<sub>2</sub>]<sup>2</sup>[O<sub>2</sub>]",
+   "K = 1 / ([H<sub>2</sub>][O<sub>2</sub>])"
+  ],
+  "y": [
+   "Liquid water is left out, so the numerator is 1, and the reactant gases go on the bottom with their exponents.",
+   "H<sub>2</sub>O(l) is a pure liquid, so it is left out of K.",
+   "The reactants belong in the denominator; with no product term left, the expression is 1 over the reactants.",
+   "The coefficient 2 on H<sub>2</sub> must become an exponent of 2."
+  ],
+  "h": "Which species are left out? What is left on top when every product is a liquid?",
+  "w": "<b>K = 1 / ([H<sub>2</sub>]<sup>2</sup>[O<sub>2</sub>])</b>",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c13-033",
+  "t": "ch13-k",
+  "q": "Tin ore is reduced with hydrogen in a closed furnace:<span style=\"display:block;text-align:center;margin:6px 0\">SnO<sub>2</sub>(s) + 2 H<sub>2</sub>(g) &rlarr; Sn(s) + 2 H<sub>2</sub>O(g)</span>Write the equilibrium constant expression.",
+  "c": [
+   "K = [H<sub>2</sub>O]<sup>2</sup> / [H<sub>2</sub>]<sup>2</sup>",
+   "K = [Sn][H<sub>2</sub>O]<sup>2</sup> / ([SnO<sub>2</sub>][H<sub>2</sub>]<sup>2</sup>)",
+   "K = [H<sub>2</sub>]<sup>2</sup> / [H<sub>2</sub>O]<sup>2</sup>",
+   "K = 1 / [H<sub>2</sub>]<sup>2</sup>"
+  ],
+  "y": [
+   "The two solids are left out; the gases remain, each squared, products on top.",
+   "Pure solids (SnO<sub>2</sub> and Sn) are left out of K.",
+   "This is reactants over products; the water vapor (a product) belongs on top.",
+   "This leaves out the water, but H<sub>2</sub>O(g) is a gas, so it stays in."
+  ],
+  "h": "Cross out the solids, then write products over reactants.",
+  "w": "<b>K = [H<sub>2</sub>O]<sup>2</sup> / [H<sub>2</sub>]<sup>2</sup></b>",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-034",
+  "t": "ch13-k",
+  "q": "Which reaction has the equilibrium constant expression K = [CO<sub>2</sub>]?",
+  "c": [
+   "MgCO<sub>3</sub>(s) &rlarr; MgO(s) + CO<sub>2</sub>(g)",
+   "C(s) + CO<sub>2</sub>(g) &rlarr; 2 CO(g)",
+   "CO<sub>2</sub>(aq) + H<sub>2</sub>O(l) &rlarr; H<sub>2</sub>CO<sub>3</sub>(aq)",
+   "MgO(s) + CO<sub>2</sub>(g) &rlarr; MgCO<sub>3</sub>(s)"
+  ],
+  "y": [
+   "Both magnesium compounds are solids and are left out, so only the product gas remains: K = [CO<sub>2</sub>].",
+   "Here K = [CO]<sup>2</sup> / [CO<sub>2</sub>]; carbon is a solid, but CO is a gas product.",
+   "Here K = [H<sub>2</sub>CO<sub>3</sub>] / [CO<sub>2</sub>]; only the liquid water is left out.",
+   "Here CO<sub>2</sub> is a reactant, so K = 1 / [CO<sub>2</sub>]."
+  ],
+  "h": "For each reaction, cross out (s) and (l), then write products over reactants.",
+  "w": "Only the CO<sub>2</sub> is not a solid, and it is a product: <b>MgCO<sub>3</sub>(s) &rlarr; MgO(s) + CO<sub>2</sub>(g)</b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c13-035",
+  "t": "ch13-k",
+  "q": "Each hemoglobin molecule can carry four O<sub>2</sub> molecules:<span style=\"display:block;text-align:center;margin:6px 0\">Hb(aq) + 4 O<sub>2</sub>(aq) &rlarr; Hb(O<sub>2</sub>)<sub>4</sub>(aq)</span>Write the equilibrium constant expression.",
+  "c": [
+   "K = [Hb(O<sub>2</sub>)<sub>4</sub>] / ([Hb][O<sub>2</sub>]<sup>4</sup>)",
+   "K = [Hb][O<sub>2</sub>]<sup>4</sup> / [Hb(O<sub>2</sub>)<sub>4</sub>]",
+   "K = [Hb(O<sub>2</sub>)<sub>4</sub>] / (4[O<sub>2</sub>][Hb])",
+   "K = [Hb(O<sub>2</sub>)<sub>4</sub>] / ([Hb][O<sub>2</sub>])"
+  ],
+  "y": [
+   "Products over reactants: the loaded hemoglobin on top, and [O<sub>2</sub>] raised to the 4th power on the bottom.",
+   "This is reactants over products; the product goes on top.",
+   "The coefficient 4 becomes an exponent, not a multiplier.",
+   "This leaves out the exponent; the coefficient 4 on O<sub>2</sub> must become a power of 4."
+  ],
+  "h": "Coefficients become exponents.",
+  "w": "<b>K = [Hb(O<sub>2</sub>)<sub>4</sub>] / ([Hb][O<sub>2</sub>]<sup>4</sup>)</b>",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-036",
+  "t": "ch13-k",
+  "q": "Nitrosyl chloride breaks down:<span style=\"display:block;text-align:center;margin:6px 0\">2 NOCl(g) &rlarr; 2 NO(g) + Cl<sub>2</sub>(g)</span>At equilibrium, [NOCl] = 0.344 M, [NO] = 0.0613 M, and [Cl<sub>2</sub>] = 0.0307 M. Calculate K.",
+  "c": [
+   "9.75 &times; 10<sup>&minus;4</sup>",
+   "1.03 &times; 10<sup>3</sup>",
+   "0.00547",
+   "0.267"
+  ],
+  "y": [
+   "K = [NO]<sup>2</sup>[Cl<sub>2</sub>] / [NOCl]<sup>2</sup> = (0.0613)<sup>2</sup>(0.0307) / (0.344)<sup>2</sup>; three significant figures.",
+   "This is reactants over products, the inverse of K.",
+   "This leaves out the exponents; [NO] and [NOCl] must each be squared.",
+   "This adds the product concentrations; concentrations in K are multiplied, and each is raised to its coefficient."
+  ],
+  "h": "Write K first: products over reactants, coefficients as exponents.",
+  "w": "K = (0.0613)<sup>2</sup>(0.0307) / (0.344)<sup>2</sup> = <b>9.75 &times; 10<sup>&minus;4</sup></b>. K &lt; 1, so reactants are favored.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c13-037",
+  "t": "ch13-k",
+  "q": "Use the table of equilibrium concentrations to calculate K for<span style=\"display:block;text-align:center;margin:6px 0\">H<sub>2</sub>(g) + Br<sub>2</sub>(g) &rlarr; 2 HBr(g)</span>",
+  "c": [
+   "478",
+   "0.00209",
+   "668",
+   "1.34 &times; 10<sup>3</sup>"
+  ],
+  "y": [
+   "K = [HBr]<sup>2</sup> / ([H<sub>2</sub>][Br<sub>2</sub>]) = (0.715)<sup>2</sup> / [(0.0269)(0.0398)]; three significant figures.",
+   "This is reactants over products, the inverse of K.",
+   "This forgets to square [HBr]; its coefficient is 2.",
+   "This multiplies [HBr] by its coefficient; coefficients become exponents, not multipliers."
+  ],
+  "h": "Square the HBr term, then divide by the product of the reactant terms.",
+  "w": "K = (0.715)<sup>2</sup> / [(0.0269)(0.0398)] = <b>478</b>. K &gt; 1, so HBr is favored.",
+  "d": 2,
+  "k": 1,
+  "f": [
+   {
+    "type": "table",
+    "cap": "Equilibrium concentrations",
+    "head": [
+     "Species",
+     "Concentration (M)"
+    ],
+    "rows": [
+     [
+      "H<sub>2</sub>",
+      "0.0269"
+     ],
+     [
+      "Br<sub>2</sub>",
+      "0.0398"
+     ],
+     [
+      "HBr",
+      "0.715"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c13-038",
+  "t": "ch13-k",
+  "q": "Bromine monochloride partly breaks down:<span style=\"display:block;text-align:center;margin:6px 0\">2 BrCl(g) &rlarr; Br<sub>2</sub>(g) + Cl<sub>2</sub>(g)</span>At equilibrium, [BrCl] = 0.0846 M, [Br<sub>2</sub>] = 0.0213 M, and [Cl<sub>2</sub>] = 0.0220 M. Calculate K.",
+  "c": [
+   "0.0655",
+   "15.3",
+   "0.00554",
+   "0.512"
+  ],
+  "y": [
+   "K = [Br<sub>2</sub>][Cl<sub>2</sub>] / [BrCl]<sup>2</sup> = (0.0213)(0.0220) / (0.0846)<sup>2</sup>; three significant figures.",
+   "This is reactants over products, the inverse of K.",
+   "This leaves out the exponent; [BrCl] must be squared.",
+   "This adds the product concentrations; concentrations in K are multiplied."
+  ],
+  "h": "Square the term whose coefficient is 2.",
+  "w": "K = (0.0213)(0.0220) / (0.0846)<sup>2</sup> = <b>0.0655</b>. K &lt; 1, so BrCl is favored.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c13-039",
+  "t": "ch13-k",
+  "q": "An equilibrium mixture for<span style=\"display:block;text-align:center;margin:6px 0\">CO(g) + Cl<sub>2</sub>(g) &rlarr; COCl<sub>2</sub>(g)</span>contains [CO] = 0.0155 M, [Cl<sub>2</sub>] = 0.0241 M, and [COCl<sub>2</sub>] = 0.145 M. Calculate K.",
+  "c": [
+   "388",
+   "0.00258",
+   "3.66",
+   "5.42 &times; 10<sup>&minus;5</sup>"
+  ],
+  "y": [
+   "K = [COCl<sub>2</sub>] / ([CO][Cl<sub>2</sub>]) = 0.145 / [(0.0155)(0.0241)]; three significant figures.",
+   "This is reactants over products, the inverse of K.",
+   "This adds the reactant concentrations; they are multiplied in K.",
+   "This multiplies all three concentrations; the reactant terms belong in the denominator."
+  ],
+  "h": "Products over reactants, multiplied, not added.",
+  "w": "K = 0.145 / [(0.0155)(0.0241)] = <b>388</b>. K &gt; 1, so COCl<sub>2</sub> is favored.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c13-040",
+  "t": "ch13-k",
+  "q": "Hot charcoal reacts with carbon dioxide in a closed vessel:<span style=\"display:block;text-align:center;margin:6px 0\">C(s) + CO<sub>2</sub>(g) &rlarr; 2 CO(g)</span>At equilibrium, [CO<sub>2</sub>] = 0.0371 M and [CO] = 0.115 M. Calculate K.",
+  "c": [
+   "0.356",
+   "2.81",
+   "3.10",
+   "6.20"
+  ],
+  "y": [
+   "Carbon is a solid and is left out: K = [CO]<sup>2</sup> / [CO<sub>2</sub>] = (0.115)<sup>2</sup> / 0.0371; three significant figures.",
+   "This is reactants over products, the inverse of K.",
+   "This forgets to square [CO]; its coefficient is 2.",
+   "This multiplies [CO] by 2; the coefficient becomes an exponent, not a multiplier."
+  ],
+  "h": "Leave out the solid, then square the CO term.",
+  "w": "K = (0.115)<sup>2</sup> / 0.0371 = <b>0.356</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c13-041",
+  "t": "ch13-k",
+  "q": "At a certain temperature, K = 0.0384 for<span style=\"display:block;text-align:center;margin:6px 0\">2 NO<sub>2</sub>(g) &rlarr; 2 NO(g) + O<sub>2</sub>(g)</span>What is K for the reverse reaction,<span style=\"display:block;text-align:center;margin:6px 0\">2 NO(g) + O<sub>2</sub>(g) &rlarr; 2 NO<sub>2</sub>(g)</span>at the same temperature?",
+  "c": [
+   "26.0",
+   "0.0384",
+   "&minus;0.0384",
+   "0.962"
+  ],
+  "y": [
+   "The K for a reaction written in reverse is the reciprocal: 1 / 0.0384.",
+   "Reversing the reaction flips products and reactants, so K becomes 1/K; it does not stay the same.",
+   "K is never negative. (Reversing a reaction flips the sign of &Delta;H, not of K.)",
+   "The reverse K is the reciprocal (1 divided by K), not 1 minus K."
+  ],
+  "h": "Products and reactants trade places. What does that do to the fraction?",
+  "w": "K<sub>reverse</sub> = 1 / 0.0384 = <b>26.0</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c13-042",
+  "t": "ch13-k",
+  "q": "At 25 °C, a reaction has K = 3.7 &times; 10<sup>8</sup>. What does the equilibrium mixture contain?",
+  "c": [
+   "Mostly products, with very little reactant left",
+   "Mostly reactants, with very little product formed",
+   "Sizable amounts of both reactants and products",
+   "Equal concentrations of reactants and products"
+  ],
+  "y": [
+   "K &gt; 1, and very large (&#8811; 1): products are favored, and the reaction goes nearly to completion.",
+   "That describes K &lt; 1, such as 10<sup>&minus;8</sup>; this K is far greater than 1.",
+   "That describes K close to 1 (roughly 0.1 to 10).",
+   "K does not tell you the concentrations are equal; a K this large means far more product than reactant."
+  ],
+  "h": "Compare K with 1.",
+  "w": "K &#8811; 1: <b>mostly products</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c13-043",
+  "t": "ch13-k",
+  "q": "The burning of glucose,<span style=\"display:block;text-align:center;margin:6px 0\">C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>(s) + 6 O<sub>2</sub>(g) &rlarr; 6 CO<sub>2</sub>(g) + 6 H<sub>2</sub>O(l)</span>has an enormous K at room temperature, yet sugar sits in a bowl in air for years without burning. How can both be true?",
+  "c": [
+   "K tells how far a reaction goes, not how fast; the activation energy is high, so at room temperature the reaction is extremely slow.",
+   "A large K means a fast reaction, so the sugar must be burning without anyone noticing.",
+   "Air does not contain enough oxygen for the reaction to start.",
+   "A large K means the mixture is already at equilibrium, so nothing can happen."
+  ],
+  "y": [
+   "K describes the equilibrium mixture; the rate depends on E<sub>a</sub> and collisions (Section 13.1). In your cells, enzymes provide a low-E<sub>a</sub> path.",
+   "A large K is not a fast rate; if the sugar were burning, the bowl would be empty.",
+   "Air is about 21% oxygen, plenty for burning; the barrier is the activation energy.",
+   "Sugar and oxygen are far from equilibrium; they would form CO<sub>2</sub> and water if the reaction could get going."
+  ],
+  "h": "Does K measure how far or how fast?",
+  "w": "<b>Large K = how far, not how fast</b>; a high E<sub>a</sub> keeps the reaction slow.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-044",
+  "t": "ch13-k",
+  "q": "Four reactions have these K values at the same temperature. Which equilibrium mixture contains the largest share of reactants?",
+  "c": [
+   "K = 4.3 &times; 10<sup>&minus;7</sup>",
+   "K = 0.019",
+   "K = 1.2",
+   "K = 6.8 &times; 10<sup>5</sup>"
+  ],
+  "y": [
+   "This is the smallest K, far below 1, so reactants are favored most strongly.",
+   "This K is small, but 0.019 is much larger than 4.3 &times; 10<sup>&minus;7</sup>, so it has relatively more product.",
+   "K close to 1 means sizable amounts of both reactants and products.",
+   "K &gt; 1 favors products, the opposite of what is asked."
+  ],
+  "h": "The smaller the K, the more the mixture favors reactants.",
+  "w": "Smallest K: <b>K = 4.3 &times; 10<sup>&minus;7</sup></b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-045",
+  "t": "ch13-lechat",
+  "q": "More O<sub>2</sub> is added to this mixture at equilibrium:<span style=\"display:block;text-align:center;margin:6px 0\">2 NO(g) + O<sub>2</sub>(g) &rlarr; 2 NO<sub>2</sub>(g)</span>Which way does the equilibrium shift?",
+  "c": [
+   "Shifts right, away from the added O<sub>2</sub>",
+   "Shifts left, toward the added O<sub>2</sub>",
+   "No shift, because K does not change",
+   "Shifts right, and K increases"
+  ],
+  "y": [
+   "Add &rarr; away: O<sub>2</sub> is a reactant, so the forward reaction speeds up for a while and uses some of it.",
+   "Adding a substance pushes the system away from it, not toward it.",
+   "K stays the same, but the concentrations no longer fit K, so the system shifts until they do.",
+   "The shift is to the right, but only a temperature change alters K; adding O<sub>2</sub> does not."
+  ],
+  "h": "Add &rarr; away, take &rarr; toward.",
+  "w": "O<sub>2</sub> is a reactant: <b>shifts right</b>, away from it. K is unchanged.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c13-046",
+  "t": "ch13-lechat",
+  "q": "In a hydrogen plant, CO<sub>2</sub> is removed from this equilibrium mixture by absorbing it into a solution:<span style=\"display:block;text-align:center;margin:6px 0\">CO(g) + H<sub>2</sub>O(g) &rlarr; CO<sub>2</sub>(g) + H<sub>2</sub>(g)</span>Which way does the equilibrium shift?",
+  "c": [
+   "Shifts right, toward the removed CO<sub>2</sub>",
+   "Shifts left, away from the removed CO<sub>2</sub>",
+   "No shift, because CO<sub>2</sub> is a product",
+   "Shifts left, and K decreases"
+  ],
+  "y": [
+   "Take &rarr; toward: with less CO<sub>2</sub>, the reverse reaction slows, so the forward reaction wins and more H<sub>2</sub> forms.",
+   "Removing a substance pulls the system toward it, to replace some of what was taken.",
+   "Changing the amount of a product shifts an equilibrium just as changing a reactant does.",
+   "The shift is to the right, and K does not change unless the temperature changes."
+  ],
+  "h": "Take &rarr; toward.",
+  "w": "CO<sub>2</sub> is removed: <b>shifts right</b>, toward it, making more H<sub>2</sub>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-047",
+  "t": "ch13-lechat",
+  "q": "Extra steam, H<sub>2</sub>O(g), is added to this mixture at equilibrium:<span style=\"display:block;text-align:center;margin:6px 0\">4 NH<sub>3</sub>(g) + 5 O<sub>2</sub>(g) &rlarr; 4 NO(g) + 6 H<sub>2</sub>O(g)</span>What happens?",
+  "c": [
+   "Shifts left, and [NH<sub>3</sub>] increases",
+   "Shifts right, and [NH<sub>3</sub>] decreases",
+   "No shift, because water is never part of K",
+   "Shifts left, and [NH<sub>3</sub>] decreases"
+  ],
+  "y": [
+   "Add &rarr; away: steam is a product, so the system shifts toward the reactants, and more NH<sub>3</sub> forms.",
+   "Adding a product pushes the system away from the products, to the left.",
+   "Water is left out of K only as a pure liquid; here it is a gas, so adding it causes a shift.",
+   "A shift to the left makes reactants, so [NH<sub>3</sub>] goes up, not down."
+  ],
+  "h": "Is the water a gas or a liquid here? Which side is it on?",
+  "w": "Steam is a gaseous product: <b>shifts left, and [NH<sub>3</sub>] increases</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-048",
+  "t": "ch13-lechat",
+  "q": "Some Cl<sub>2</sub> is removed from this mixture at equilibrium:<span style=\"display:block;text-align:center;margin:6px 0\">CO(g) + Cl<sub>2</sub>(g) &rlarr; COCl<sub>2</sub>(g)</span>What happens to [COCl<sub>2</sub>]?",
+  "c": [
+   "Shifts left, and [COCl<sub>2</sub>] decreases",
+   "Shifts right, and [COCl<sub>2</sub>] increases",
+   "No shift, and [COCl<sub>2</sub>] does not change",
+   "Shifts left, and [COCl<sub>2</sub>] increases"
+  ],
+  "y": [
+   "Take &rarr; toward: removing the reactant Cl<sub>2</sub> shifts the system left, so some COCl<sub>2</sub> breaks down.",
+   "Removing a substance pulls the system toward it, not away from it.",
+   "Removing a reactant upsets the ratio in K, so the system must shift.",
+   "A shift to the left uses up the product, so [COCl<sub>2</sub>] goes down."
+  ],
+  "h": "Take &rarr; toward. Which side is Cl<sub>2</sub> on?",
+  "w": "<b>Shifts left; [COCl<sub>2</sub>] decreases.</b>",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-049",
+  "t": "ch13-lechat",
+  "q": "Some NO<sub>2</sub> is added to this mixture at equilibrium:<span style=\"display:block;text-align:center;margin:6px 0\">2 NO(g) + O<sub>2</sub>(g) &rlarr; 2 NO<sub>2</sub>(g)</span>Once the new equilibrium is reached, what has happened to [O<sub>2</sub>]?",
+  "c": [
+   "[O<sub>2</sub>] increases",
+   "[O<sub>2</sub>] decreases",
+   "[O<sub>2</sub>] does not change",
+   "[O<sub>2</sub>] increases, and K decreases"
+  ],
+  "y": [
+   "Adding the product NO<sub>2</sub> shifts the system left, which makes more NO and O<sub>2</sub>.",
+   "This would happen after a shift to the right; adding a product shifts the system left.",
+   "The shift to the left changes every concentration, including [O<sub>2</sub>].",
+   "The concentration change is right, but K changes only with temperature."
+  ],
+  "h": "First find the direction of the shift, then follow it to O<sub>2</sub>.",
+  "w": "Add &rarr; away: shift left, so <b>[O<sub>2</sub>] increases</b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c13-050",
+  "t": "ch13-lechat",
+  "q": "More powdered carbon is added to this mixture at equilibrium:<span style=\"display:block;text-align:center;margin:6px 0\">C(s) + CO<sub>2</sub>(g) &rlarr; 2 CO(g)</span>Which way does the equilibrium shift?",
+  "c": [
+   "No shift, because a pure solid does not appear in K",
+   "Shifts right, away from the added carbon",
+   "Shifts left, toward the added carbon",
+   "Shifts right, and K increases"
+  ],
+  "y": [
+   "K = [CO]<sup>2</sup> / [CO<sub>2</sub>] does not include C(s), so adding more of the solid changes nothing in K.",
+   "Add &rarr; away applies to gases and dissolved species; a pure solid has no concentration term in K.",
+   "Adding a substance never shifts the system toward it, and a solid causes no shift at all.",
+   "Adding a solid neither shifts the system nor changes K."
+  ],
+  "h": "Is C(s) part of the K expression?",
+  "w": "Solid carbon is not in K: <b>no shift</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-051",
+  "t": "ch13-lechat",
+  "q": "In this equilibrium, Cu(H<sub>2</sub>O)<sub>4</sub><sup>2+</sup> is pale blue and Cu(NH<sub>3</sub>)<sub>4</sub><sup>2+</sup> is deep blue:<span style=\"display:block;text-align:center;margin:6px 0\">Cu(H<sub>2</sub>O)<sub>4</sub><sup>2+</sup>(aq) + 4 NH<sub>3</sub>(aq) &rlarr; Cu(NH<sub>3</sub>)<sub>4</sub><sup>2+</sup>(aq) + 4 H<sub>2</sub>O(l)</span>More ammonia solution is added, raising [NH<sub>3</sub>]. What happens?",
+  "c": [
+   "Shifts right, and the solution turns a deeper blue",
+   "Shifts left, and the solution turns paler blue",
+   "No shift, because water is a product",
+   "Shifts right, and the solution turns paler blue"
+  ],
+  "y": [
+   "Add &rarr; away: NH<sub>3</sub> is a reactant, so more deep blue Cu(NH<sub>3</sub>)<sub>4</sub><sup>2+</sup> forms.",
+   "Adding a reactant pushes the system to the right, not the left.",
+   "Liquid water is left out of K, but NH<sub>3</sub> is in it, so adding NH<sub>3</sub> causes a shift.",
+   "A shift to the right makes the deep blue product, not the pale blue reactant."
+  ],
+  "h": "Which side is NH<sub>3</sub> on, and which color is on the side the system shifts toward?",
+  "w": "Add NH<sub>3</sub> &rarr; <b>shifts right, deeper blue</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-052",
+  "t": "ch13-lechat",
+  "q": "For this reaction, &Delta;H = &minus;41.2 kJ:<span style=\"display:block;text-align:center;margin:6px 0\">CO(g) + H<sub>2</sub>O(g) &rlarr; CO<sub>2</sub>(g) + H<sub>2</sub>(g)</span>The mixture is heated. Which describes the shift and K?",
+  "c": [
+   "Shifts left, and K decreases",
+   "Shifts right, and K increases",
+   "Shifts left, and K does not change",
+   "No shift, and K decreases"
+  ],
+  "y": [
+   "&Delta;H is negative, so heat is a product. Adding heat shifts the system left, away from it; a temperature change also changes K, and here K gets smaller.",
+   "This treats heat as a reactant. For an exothermic reaction, heat is a product.",
+   "The direction is right, but temperature is the one stress that does change K.",
+   "Adding heat is a stress, so the system shifts; and when K changes, the mixture must shift to match it."
+  ],
+  "h": "Write heat into the equation on the correct side first.",
+  "w": "Exothermic: heat is a product. Heating &rarr; <b>shifts left, K decreases</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-053",
+  "t": "ch13-lechat",
+  "q": "For this reaction, &Delta;H = +172.5 kJ:<span style=\"display:block;text-align:center;margin:6px 0\">C(s) + CO<sub>2</sub>(g) &rlarr; 2 CO(g)</span>The temperature is lowered. Which describes the shift and K?",
+  "c": [
+   "Shifts left, and K decreases",
+   "Shifts right, and K increases",
+   "Shifts left, and K does not change",
+   "Shifts right, and K decreases"
+  ],
+  "y": [
+   "&Delta;H is positive, so heat is a reactant. Cooling removes it, and take &rarr; toward shifts the system left; K gets smaller.",
+   "Cooling removes heat, a reactant here, so the system shifts toward the reactants, not the products.",
+   "The direction is right, but a temperature change always changes K.",
+   "For an endothermic reaction, cooling shifts the system left, not right."
+  ],
+  "h": "Endothermic: heat is a reactant. Is heat being added or removed?",
+  "w": "Heat is a reactant; cooling &rarr; <b>shifts left, K decreases</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-054",
+  "t": "ch13-lechat",
+  "q": "A sealed glass vial holds liquid bromine and its brown vapor at equilibrium. Evaporating bromine is endothermic:<span style=\"display:block;text-align:center;margin:6px 0\">Br<sub>2</sub>(l) &rlarr; Br<sub>2</sub>(g)</span>The vial is placed in warm water. What happens?",
+  "c": [
+   "Shifts right, and K increases",
+   "Shifts left, and K decreases",
+   "No shift, because a pure liquid is left out of K",
+   "Shifts right, and K does not change"
+  ],
+  "y": [
+   "Heat is a reactant for an endothermic change. Adding heat shifts the system right, so more brown vapor forms, and K (= [Br<sub>2</sub>(g)]) increases.",
+   "This treats heat as a product. For an endothermic change, heat is a reactant.",
+   "The liquid is left out of K, but the vapor is in it, and a temperature change always shifts the equilibrium and changes K.",
+   "The direction is right, but a temperature change always changes K."
+  ],
+  "h": "Write heat on the reactant side, then apply add &rarr; away.",
+  "w": "Heat is a reactant: <b>shifts right, K increases</b> (more brown vapor).",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-055",
+  "t": "ch13-lechat",
+  "q": "For<span style=\"display:block;text-align:center;margin:6px 0\">CO(g) + H<sub>2</sub>O(g) &rlarr; CO<sub>2</sub>(g) + H<sub>2</sub>(g)</span>&Delta;H = &minus;41.2 kJ. Which change alters the value of K?",
+  "c": [
+   "Raising the temperature",
+   "Adding more CO",
+   "Decreasing the volume",
+   "Adding a catalyst"
+  ],
+  "y": [
+   "Temperature is the only stress that changes K. Here, heating lowers K because the reaction is exothermic.",
+   "Adding CO shifts the system right until the ratio equals the same K again.",
+   "Both sides have 2 moles of gas, so a volume change causes no shift, and K does not change.",
+   "A catalyst speeds both directions equally; it changes neither the equilibrium amounts nor K."
+  ],
+  "h": "Only one kind of stress gives a reaction a new K.",
+  "w": "Only temperature changes K: <b>raising the temperature</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-056",
+  "t": "ch13-lechat",
+  "q": "For<span style=\"display:block;text-align:center;margin:6px 0\">H<sub>2</sub>O(l) &rlarr; H<sub>2</sub>O(g)</span>&Delta;H = +44.0 kJ. How is heat written into this equation?",
+  "c": [
+   "heat + H<sub>2</sub>O(l) &rlarr; H<sub>2</sub>O(g), with heat as a reactant",
+   "H<sub>2</sub>O(l) &rlarr; H<sub>2</sub>O(g) + heat, with heat as a product",
+   "Heat appears on both sides, because &Delta;H is the same in both directions",
+   "No heat term, because only exothermic changes have one"
+  ],
+  "y": [
+   "&Delta;H is positive (endothermic): evaporation absorbs heat, so heat is written as a reactant on the left.",
+   "Heat is a product only when &Delta;H is negative (exothermic), as in condensation.",
+   "Heat goes on one side only; reversing a change flips the sign of &Delta;H.",
+   "Endothermic changes have a heat term too, on the reactant side."
+  ],
+  "h": "Positive &Delta;H: is heat absorbed or released?",
+  "w": "Endothermic: <b>heat is a reactant</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c13-057",
+  "t": "ch13-lechat",
+  "q": "The volume of the container is decreased (the pressure is increased) for this mixture at equilibrium:<span style=\"display:block;text-align:center;margin:6px 0\">4 NH<sub>3</sub>(g) + 5 O<sub>2</sub>(g) &rlarr; 4 NO(g) + 6 H<sub>2</sub>O(g)</span>Which way does the equilibrium shift?",
+  "c": [
+   "Shifts left, toward the side with fewer moles of gas",
+   "Shifts right, toward the side with more moles of gas",
+   "No shift, because the total number of atoms is the same on both sides",
+   "Shifts left, and K increases"
+  ],
+  "y": [
+   "Left: 4 + 5 = 9 mol of gas; right: 4 + 6 = 10 mol of gas. A smaller volume shifts the system toward fewer moles of gas, the left.",
+   "A smaller volume (higher pressure) shifts the system toward fewer gas particles, not more.",
+   "Atoms always balance; for pressure, count the moles of gas on each side.",
+   "The direction is right, but only temperature changes K."
+  ],
+  "h": "Count the coefficients of the gases on each side.",
+  "w": "9 mol vs 10 mol of gas: <b>shifts left</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-058",
+  "t": "ch13-lechat",
+  "q": "The volume of the container is decreased for this mixture at equilibrium:<span style=\"display:block;text-align:center;margin:6px 0\">H<sub>2</sub>(g) + Br<sub>2</sub>(g) &rlarr; 2 HBr(g)</span>Which way does the equilibrium shift?",
+  "c": [
+   "No shift, because both sides have 2 moles of gas",
+   "Shifts right, toward HBr",
+   "Shifts left, toward H<sub>2</sub> and Br<sub>2</sub>",
+   "Shifts right, and K increases"
+  ],
+  "y": [
+   "1 + 1 = 2 mol of gas on the left and 2 mol on the right, so neither direction lowers the pressure.",
+   "A shift happens only when one side has fewer moles of gas; here both sides have 2.",
+   "Both sides have the same number of gas moles, so there is no side with fewer moles to shift toward.",
+   "There is no shift, and a volume change never changes K."
+  ],
+  "h": "Count moles of gas on each side.",
+  "w": "2 mol = 2 mol of gas: <b>no shift</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-059",
+  "t": "ch13-lechat",
+  "q": "The volume of the container is increased for this mixture at equilibrium:<span style=\"display:block;text-align:center;margin:6px 0\">2 NO(g) + O<sub>2</sub>(g) &rlarr; 2 NO<sub>2</sub>(g)</span>Which way does the equilibrium shift?",
+  "c": [
+   "Shifts left, toward the side with more moles of gas",
+   "Shifts right, toward the side with fewer moles of gas",
+   "No shift, because only temperature changes an equilibrium",
+   "Shifts right, and K decreases"
+  ],
+  "y": [
+   "Left: 2 + 1 = 3 mol of gas; right: 2 mol. A larger volume (lower pressure) shifts the system toward more moles of gas, the left.",
+   "That is the response to a smaller volume. A larger volume shifts the system toward more moles of gas.",
+   "Volume changes shift gas equilibria; temperature is just the only stress that changes K.",
+   "A larger volume shifts the system left, and K does not change."
+  ],
+  "h": "Lower pressure: toward more or fewer gas particles?",
+  "w": "3 mol vs 2 mol of gas: <b>shifts left</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-060",
+  "t": "ch13-lechat",
+  "q": "The volume of the sealed container is decreased for this mixture at equilibrium:<span style=\"display:block;text-align:center;margin:6px 0\">2 NaHCO<sub>3</sub>(s) &rlarr; Na<sub>2</sub>CO<sub>3</sub>(s) + H<sub>2</sub>O(g) + CO<sub>2</sub>(g)</span>Which way does the equilibrium shift?",
+  "c": [
+   "Shifts left, because the right side has 2 moles of gas and the left side has none",
+   "Shifts right, because the right side has more moles of substances in all",
+   "No shift, because the reaction contains solids",
+   "Shifts right, toward the side with more moles of gas"
+  ],
+  "y": [
+   "Count gases only: 0 mol on the left, 1 + 1 = 2 mol on the right. A smaller volume shifts the system toward fewer moles of gas.",
+   "Solids are not counted in pressure shifts, just as they are left out of K.",
+   "The solids are not counted, but the two gases on the right still respond to a volume change.",
+   "A smaller volume shifts the system toward fewer moles of gas, not more."
+  ],
+  "h": "Cross out the solids, then count moles of gas on each side.",
+  "w": "0 vs 2 mol of gas: <b>shifts left</b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c13-061",
+  "t": "ch13-lechat",
+  "q": "Argon gas is added to this mixture at equilibrium in a rigid container (constant volume):<span style=\"display:block;text-align:center;margin:6px 0\">CO(g) + Cl<sub>2</sub>(g) &rlarr; COCl<sub>2</sub>(g)</span>What happens?",
+  "c": [
+   "No shift, because the concentrations of CO, Cl<sub>2</sub>, and COCl<sub>2</sub> do not change",
+   "Shifts right, because the total pressure increased",
+   "Shifts left, because argon reacts with Cl<sub>2</sub>",
+   "Shifts right, toward the side with fewer moles of gas"
+  ],
+  "y": [
+   "Argon is inert and the volume is fixed, so every reacting gas keeps the same concentration; nothing in K changes.",
+   "The total pressure rises, but the concentrations of the reacting gases do not, so there is no stress on the equilibrium.",
+   "Argon is a noble gas; it does not react.",
+   "That would happen if the volume were decreased; here the volume stays the same."
+  ],
+  "h": "Does adding an inert gas at constant volume change any concentration in K?",
+  "w": "Inert gas, constant volume: <b>no shift</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-062",
+  "t": "ch13-lechat",
+  "q": "A chemist adds a platinum catalyst to a sealed vessel in which this mixture is at equilibrium:<span style=\"display:block;text-align:center;margin:6px 0\">4 NH<sub>3</sub>(g) + 5 O<sub>2</sub>(g) &rlarr; 4 NO(g) + 6 H<sub>2</sub>O(g)</span>What happens to the equilibrium?",
+  "c": [
+   "No shift: [NO] does not change, though a new mixture would reach equilibrium sooner",
+   "Shifts right, and [NO] increases",
+   "Shifts left, and [NO] decreases",
+   "No shift, but K increases"
+  ],
+  "y": [
+   "A catalyst lowers E<sub>a</sub> for the forward and reverse reactions equally, so it speeds both and leaves the equilibrium amounts and K the same.",
+   "A catalyst does not favor products; it speeds up the reverse reaction just as much as the forward one.",
+   "A catalyst does not favor reactants either; the equilibrium amounts stay the same.",
+   "A catalyst never changes K; only temperature does."
+  ],
+  "h": "A catalyst speeds up which direction?",
+  "w": "<b>No shift</b>; a catalyst only gets a system to equilibrium faster.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-063",
+  "t": "ch13-lechat",
+  "q": "In the alveoli of the lungs, the O<sub>2</sub> concentration is high. What happens to this equilibrium in the red blood cells passing through the lung capillaries?<span style=\"display:block;text-align:center;margin:6px 0\">Hb(aq) + O<sub>2</sub>(aq) &rlarr; HbO<sub>2</sub>(aq)</span>",
+  "c": [
+   "Shifts right, and hemoglobin loads O<sub>2</sub> as HbO<sub>2</sub>",
+   "Shifts left, and HbO<sub>2</sub> releases O<sub>2</sub> in the lungs",
+   "No shift, because hemoglobin is a catalyst",
+   "Shifts right, and [Hb] increases"
+  ],
+  "y": [
+   "Add &rarr; away: the high O<sub>2</sub> shifts the system right, so hemoglobin picks up oxygen to carry to the tissues.",
+   "Unloading happens in the tissues, where O<sub>2</sub> is low; in the lungs, O<sub>2</sub> is high.",
+   "Hemoglobin is a reactant that binds O<sub>2</sub>, not a catalyst.",
+   "A shift to the right uses up free Hb, so [Hb] goes down."
+  ],
+  "h": "Is O<sub>2</sub> high or low in the lungs?",
+  "w": "O<sub>2</sub> is high: <b>shifts right</b>, and hemoglobin loads O<sub>2</sub>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-064",
+  "t": "ch13-lechat",
+  "q": "A family runs a gasoline generator in a closed garage, and the carbon monoxide in the air rises. What happens to this equilibrium in their blood?<span style=\"display:block;text-align:center;margin:6px 0\">Hb(aq) + CO(aq) &rlarr; HbCO(aq)</span>",
+  "c": [
+   "Shifts right, and [Hb] decreases, leaving less hemoglobin free to carry O<sub>2</sub>",
+   "Shifts left, and [HbCO] decreases",
+   "No shift, because CO does not bind hemoglobin",
+   "Shifts right, and K increases"
+  ],
+  "y": [
+   "Add &rarr; away: more CO shifts the system right, so more hemoglobin is tied up as HbCO and cannot carry oxygen.",
+   "Adding CO, a reactant, pushes the system right, toward more HbCO.",
+   "CO binds hemoglobin at the oxygen site, more than 200 times more tightly than O<sub>2</sub>.",
+   "The shift is right, but K does not change; only temperature changes K."
+  ],
+  "h": "Is CO a reactant or a product here?",
+  "w": "Add CO &rarr; <b>shifts right</b>; less free Hb is left for O<sub>2</sub>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-065",
+  "t": "ch13-lechat",
+  "q": "During a panic attack, a patient breathes much faster than her body needs and blows off CO<sub>2</sub>. What happens to this equilibrium in her blood?<span style=\"display:block;text-align:center;margin:6px 0\">CO<sub>2</sub>(aq) + H<sub>2</sub>O(l) &rlarr; H<sub>2</sub>CO<sub>3</sub>(aq) &rlarr; H<sup>+</sup>(aq) + HCO<sub>3</sub><sup>&minus;</sup>(aq)</span>",
+  "c": [
+   "Shifts left, [H<sup>+</sup>] decreases, and blood pH rises",
+   "Shifts right, [H<sup>+</sup>] increases, and blood pH falls",
+   "Shifts left, [H<sup>+</sup>] decreases, and blood pH falls",
+   "No shift, because the kidneys keep [H<sup>+</sup>] fixed"
+  ],
+  "y": [
+   "Take &rarr; toward: removing CO<sub>2</sub> shifts the system left. H<sup>+</sup> combines with HCO<sub>3</sub><sup>&minus;</sup>, so [H<sup>+</sup>] drops and the pH rises (respiratory alkalosis).",
+   "This happens when CO<sub>2</sub> builds up, as in hypoventilation; fast breathing removes CO<sub>2</sub>.",
+   "Less H<sup>+</sup> means a higher pH, not a lower one.",
+   "The kidneys respond only slowly, over hours to days; the fast change comes from the shift."
+  ],
+  "h": "Fast breathing removes CO<sub>2</sub>. Which way does take &rarr; toward point?",
+  "w": "Remove CO<sub>2</sub> &rarr; <b>shifts left, less H<sup>+</sup>, pH rises</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-066",
+  "t": "ch13-lechat",
+  "q": "A patient with severe COPD (chronic obstructive pulmonary disease) cannot breathe out CO<sub>2</sub> fast enough, and his PaCO<sub>2</sub> rises. What happens to this equilibrium in his blood?<span style=\"display:block;text-align:center;margin:6px 0\">CO<sub>2</sub>(aq) + H<sub>2</sub>O(l) &rlarr; H<sub>2</sub>CO<sub>3</sub>(aq) &rlarr; H<sup>+</sup>(aq) + HCO<sub>3</sub><sup>&minus;</sup>(aq)</span>",
+  "c": [
+   "Shifts right, [H<sup>+</sup>] increases, and blood pH falls",
+   "Shifts left, [H<sup>+</sup>] decreases, and blood pH rises",
+   "Shifts right, [H<sup>+</sup>] increases, and blood pH rises",
+   "No shift, because CO<sub>2</sub> is a gas"
+  ],
+  "y": [
+   "Add &rarr; away: built-up CO<sub>2</sub> shifts the system right, making more H<sup>+</sup>, so the pH falls (respiratory acidosis).",
+   "This is what fast breathing does; here CO<sub>2</sub> is building up, not being removed.",
+   "More H<sup>+</sup> makes blood more acidic, which means a lower pH.",
+   "CO<sub>2</sub> is dissolved in the blood here, and it is part of the equilibrium."
+  ],
+  "h": "Is CO<sub>2</sub> being added or removed?",
+  "w": "CO<sub>2</sub> builds up &rarr; <b>shifts right, more H<sup>+</sup>, pH falls</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-067",
+  "t": "ch13-lechat",
+  "q": "A toothpaste supplies extra Ca<sup>2+</sup> and phosphate ions to the tooth surface. What happens to the enamel equilibrium?<span style=\"display:block;text-align:center;margin:6px 0\">Ca<sub>5</sub>(PO<sub>4</sub>)<sub>3</sub>OH(s) &rlarr; 5 Ca<sup>2+</sup>(aq) + 3 PO<sub>4</sub><sup>3&minus;</sup>(aq) + OH<sup>&minus;</sup>(aq)</span>",
+  "c": [
+   "Shifts left, and enamel re-forms (remineralization)",
+   "Shifts right, and enamel dissolves (demineralization)",
+   "No shift, because enamel is a solid",
+   "Shifts right, and [OH<sup>&minus;</sup>] increases"
+  ],
+  "y": [
+   "Add &rarr; away: Ca<sup>2+</sup> and PO<sub>4</sub><sup>3&minus;</sup> are products, so adding them shifts the system left, toward solid hydroxyapatite.",
+   "Adding products pushes the system away from them, toward the solid.",
+   "The solid is left out of K, but the ions are in it, and adding ions does cause a shift.",
+   "Adding products shifts the system left, which uses up OH<sup>&minus;</sup> rather than making more."
+  ],
+  "h": "Which side are the ions on?",
+  "w": "Add products &rarr; <b>shifts left: remineralization</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-068",
+  "t": "ch13-lechat",
+  "q": "A dental hygienist applies fluoride varnish, which raises [F<sup>&minus;</sup>] at the tooth surface. What happens to this equilibrium?<span style=\"display:block;text-align:center;margin:6px 0\">Ca<sub>5</sub>(PO<sub>4</sub>)<sub>3</sub>OH(s) + F<sup>&minus;</sup>(aq) &rlarr; Ca<sub>5</sub>(PO<sub>4</sub>)<sub>3</sub>F(s) + OH<sup>&minus;</sup>(aq)</span>",
+  "c": [
+   "Shifts right, and more acid-resistant fluorapatite forms",
+   "Shifts left, and more hydroxyapatite forms",
+   "No shift, because both minerals are solids",
+   "Shifts right, and [OH<sup>&minus;</sup>] decreases"
+  ],
+  "y": [
+   "Add &rarr; away: F<sup>&minus;</sup> is a reactant, so the system shifts right, replacing OH<sup>&minus;</sup> in the mineral to form fluorapatite.",
+   "Adding a reactant pushes the system to the right, not the left.",
+   "The solids are left out of K, but F<sup>&minus;</sup> and OH<sup>&minus;</sup> are in it, so adding F<sup>&minus;</sup> causes a shift.",
+   "A shift to the right makes more OH<sup>&minus;</sup>, so [OH<sup>&minus;</sup>] goes up."
+  ],
+  "h": "Is F<sup>&minus;</sup> a reactant or a product?",
+  "w": "Add F<sup>&minus;</sup> &rarr; <b>shifts right: more fluorapatite</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c13-069",
+  "t": "ch13-lechat",
+  "q": "Which change shifts this enamel equilibrium toward demineralization (dissolving)?<span style=\"display:block;text-align:center;margin:6px 0\">Ca<sub>5</sub>(PO<sub>4</sub>)<sub>3</sub>OH(s) &rlarr; 5 Ca<sup>2+</sup>(aq) + 3 PO<sub>4</sub><sup>3&minus;</sup>(aq) + OH<sup>&minus;</sup>(aq)</span>",
+  "c": [
+   "Acid from plaque bacteria removing OH<sup>&minus;</sup> ions",
+   "Saliva adding Ca<sup>2+</sup> ions",
+   "Saliva adding phosphate ions",
+   "A remineralizing paste adding Ca<sup>2+</sup> and phosphate ions"
+  ],
+  "y": [
+   "Take &rarr; toward: H<sup>+</sup> from the acid reacts with OH<sup>&minus;</sup>, removing a product, so the system shifts right and enamel dissolves.",
+   "Adding Ca<sup>2+</sup>, a product, shifts the system left, toward remineralization.",
+   "Adding phosphate, a product, shifts the system left, toward remineralization.",
+   "Adding products shifts the system left, which rebuilds enamel."
+  ],
+  "h": "Dissolving is the forward direction. Which change pulls the system to the right?",
+  "w": "Removing a product shifts right: <b>acid removing OH<sup>&minus;</sup></b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c13-070",
+  "t": "ch13-lechat",
+  "q": "Ammonia plants run the exothermic Haber process,<span style=\"display:block;text-align:center;margin:6px 0\">N<sub>2</sub>(g) + 3 H<sub>2</sub>(g) &rlarr; 2 NH<sub>3</sub>(g)</span>at about 400&ndash;450 °C, even though a lower temperature would give more NH<sub>3</sub> at equilibrium. Why?",
+  "c": [
+   "At a low temperature the reaction is far too slow, so a higher temperature is used to make NH<sub>3</sub> at a useful rate",
+   "A low temperature would lower K and give less NH<sub>3</sub>",
+   "A high temperature shifts the equilibrium toward NH<sub>3</sub>",
+   "A high temperature lets the iron catalyst shift the equilibrium toward NH<sub>3</sub>"
+  ],
+  "y": [
+   "Cooling an exothermic reaction favors products, but collisions are slower and fewer reach E<sub>a</sub>. Plants trade some yield for a useful rate.",
+   "For an exothermic reaction, lowering the temperature raises K and favors NH<sub>3</sub>.",
+   "Heat is a product of this reaction, so raising the temperature shifts it left, away from NH<sub>3</sub>.",
+   "A catalyst never shifts an equilibrium; it helps the plant reach equilibrium faster."
+  ],
+  "h": "Low temperature helps the yield. What does it do to the rate?",
+  "w": "Equilibrium favors low T, but <b>the rate would be far too slow</b>; plants compromise.",
+  "d": 3,
+  "k": 0
+ }
+]

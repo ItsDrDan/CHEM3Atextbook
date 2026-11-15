@@ -1,0 +1,4 @@
+{
+"c13-003":"Energy diagram: energy in kilojoules on the vertical axis against reaction progress. The reactants sit on a flat line at 35 kJ. The curve rises to a peak at 118 kJ, then falls to the products on a flat line at 72 kJ.",
+"c13-019":"Graph of concentration in molarity (0 to 1) against time in seconds (0 to 100) for A turning into B. [A] starts at 1.0 M and falls: 0.70 at 10 s, 0.52 at 20 s, 0.42 at 30 s, 0.37 at 40 s, then stays at 0.35 M from 50 s on. [B] starts at 0 and rises: 0.30 at 10 s, 0.48 at 20 s, 0.58 at 30 s, 0.63 at 40 s, then stays at 0.65 M from 50 s on."
+}
