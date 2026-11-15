@@ -1,0 +1,1516 @@
+[
+ {
+  "id": "c7-001",
+  "t": "ch07-equations",
+  "q": "Which observation is the best evidence that a chemical reaction has occurred?",
+  "c": [
+   "Two clear, colorless solutions are mixed, and a cloudy yellow solid forms.",
+   "A pot of water on the stove forms bubbles as it heats.",
+   "A spoonful of sugar disappears when it is stirred into hot tea.",
+   "An ice cube melts into a puddle on the counter."
+  ],
+  "y": [
+   "A solid forming from two clear solutions (a precipitate) means a new, insoluble substance was made.",
+   "Bubbles in boiling water are water vapor, the same substance in a new state: a physical change.",
+   "Dissolving is a physical change; the sugar molecules are still sugar, now spread through the water.",
+   "Melting changes only the state of water, not its identity."
+  ],
+  "h": "Ask: did a new substance form, or did the same substance just change form?",
+  "w": "A new solid appearing from clear solutions is a <b>precipitate</b>, one of the four signs of reaction (gas, precipitate, color change, energy change).",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c7-002",
+  "t": "ch07-equations",
+  "q": "Each of these fizzes. Which one is a <b>physical</b> change, not a chemical reaction?",
+  "c": [
+   "A bottle of soda is opened, and dissolved carbon dioxide escapes as bubbles.",
+   "An antacid tablet containing calcium carbonate is dropped into hydrochloric acid.",
+   "Hydrogen peroxide is poured on a cut, where the enzyme catalase breaks it into water and oxygen gas.",
+   "Baking soda is stirred into vinegar."
+  ],
+  "y": [
+   "The CO<sub>2</sub> was already in the soda, dissolved under pressure. It leaves the liquid unchanged: no new substance forms.",
+   "Calcium carbonate reacts with the acid to make new substances, including CO<sub>2</sub> gas.",
+   "Catalase speeds up the decomposition of H<sub>2</sub>O<sub>2</sub> into new substances, H<sub>2</sub>O and O<sub>2</sub>: a chemical change.",
+   "Baking soda and acetic acid react to make sodium acetate, water, and new CO<sub>2</sub> gas."
+  ],
+  "h": "Bubbles are a clue, not proof. Was the gas already there, or was it made?",
+  "w": "Opening a soda only releases gas that was <b>already dissolved</b>; the other three make new substances, including a new gas.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c7-003",
+  "t": "ch07-equations",
+  "q": "Barium chloride solution is mixed with magnesium sulfate (Epsom salt) solution: BaCl<sub>2</sub>(aq) + MgSO<sub>4</sub>(aq) &rarr; BaSO<sub>4</sub>(s) + MgCl<sub>2</sub>(aq). What does the label (s) after BaSO<sub>4</sub> tell you?",
+  "c": [
+   "BaSO<sub>4</sub> forms as a solid, a precipitate.",
+   "BaSO<sub>4</sub> stays dissolved in the water.",
+   "BaSO<sub>4</sub> is formed as a gas.",
+   "Only a single unit of BaSO<sub>4</sub> forms."
+  ],
+  "y": [
+   "(s) means solid. Barium sulfate is insoluble, so it settles out of the solution.",
+   "Dissolved substances are labeled (aq), as MgCl<sub>2</sub>(aq) is here.",
+   "Gases are labeled (g).",
+   "Numbers of units are shown by coefficients in front of formulas, not by phase labels."
+  ],
+  "h": "The four phase labels are (s), (l), (g), and (aq).",
+  "w": "(s) = solid, (l) = liquid, (g) = gas, (aq) = dissolved in water. <b>BaSO<sub>4</sub>(s) is a solid precipitate</b>; MgCl<sub>2</sub>(aq) stays dissolved.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c7-004",
+  "t": "ch07-equations",
+  "q": "How many oxygen atoms are represented by 2 Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>?",
+  "c": [
+   "24",
+   "12",
+   "8",
+   "9"
+  ],
+  "y": [
+   "Each Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> has 3 sulfate groups with 4 O each: 12 O. The coefficient 2 doubles it: 24.",
+   "12 is the oxygen count in one formula unit. The coefficient 2 multiplies the whole formula.",
+   "This ignores the subscript 3 outside the parentheses: 2 &times; 4 = 8.",
+   "This adds the numbers (4 + 3 + 2) instead of multiplying."
+  ],
+  "h": "Multiply: coefficient &times; subscript outside the parentheses &times; subscript inside.",
+  "w": "2 &times; 3 &times; 4 = <b>24</b> O atoms.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-005",
+  "t": "ch07-equations",
+  "q": "In a sealed flask, 2.43 g of magnesium reacts completely with 1.60 g of oxygen gas: 2 Mg(s) + O<sub>2</sub>(g) &rarr; 2 MgO(s). What mass of magnesium oxide forms?",
+  "c": [
+   "4.03 g",
+   "0.83 g",
+   "2.43 g",
+   "8.06 g"
+  ],
+  "y": [
+   "Conservation of mass: mass of products = mass of reactants = 2.43 g + 1.60 g = 4.03 g.",
+   "This subtracts the masses. Both reactants end up in the product, so their masses add.",
+   "This counts only the magnesium. The oxygen atoms are now part of the MgO too.",
+   "This doubles the answer because of the coefficient 2. Coefficients count particles; the total mass is still just the reactant masses added."
+  ],
+  "h": "Atoms are only rearranged, so total mass in = total mass out.",
+  "w": "2.43 g + 1.60 g = <b>4.03 g</b> MgO.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c7-006",
+  "t": "ch07-equations",
+  "q": "A student heats baking soda, NaHCO<sub>3</sub>, in an open crucible: 2 NaHCO<sub>3</sub>(s) &rarr; Na<sub>2</sub>CO<sub>3</sub>(s) + H<sub>2</sub>O(g) + CO<sub>2</sub>(g). Using the data in the table, what total mass of water vapor and carbon dioxide escaped?",
+  "c": [
+   "3.10 g",
+   "60.14 g",
+   "28.52 g",
+   "0 g, because mass is conserved"
+  ],
+  "y": [
+   "The solid lost 31.62 g &minus; 28.52 g = 3.10 g. That mass left as H<sub>2</sub>O(g) and CO<sub>2</sub>(g).",
+   "This adds the two readings. The gases leaving are the difference between them.",
+   "28.52 g is what is left in the crucible, not what escaped.",
+   "Mass is conserved overall, but the gases left the open crucible, so the crucible's mass drops."
+  ],
+  "h": "The mass lost by the open crucible is the mass of the gases that escaped.",
+  "w": "Gases escaped = 31.62 g &minus; 28.52 g = <b>3.10 g</b>. In a sealed container the total mass would not change.",
+  "d": 2,
+  "k": 1,
+  "f": [
+   {
+    "type": "table",
+    "cap": "Heating baking soda",
+    "head": [
+     "Measurement",
+     "Mass (g)"
+    ],
+    "rows": [
+     [
+      "Crucible + baking soda, before",
+      "31.62"
+     ],
+     [
+      "Crucible + solid, after",
+      "28.52"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c7-007",
+  "t": "ch07-equations",
+  "q": "Sulfur dioxide from burning sulfur-containing fuel reacts with oxygen in the air to form sulfur trioxide, a step toward acid rain. Which is the correctly balanced equation?",
+  "c": [
+   "2 SO<sub>2</sub>(g) + O<sub>2</sub>(g) &rarr; 2 SO<sub>3</sub>(g)",
+   "SO<sub>2</sub>(g) + O<sub>2</sub>(g) &rarr; SO<sub>4</sub>(g)",
+   "4 SO<sub>2</sub>(g) + 2 O<sub>2</sub>(g) &rarr; 4 SO<sub>3</sub>(g)",
+   "SO<sub>2</sub>(g) + O<sub>2</sub>(g) &rarr; 2 SO<sub>3</sub>(g)"
+  ],
+  "y": [
+   "S: 2 = 2; O: 4 + 2 = 6 = 2 &times; 3; and 2, 1, 2 share no factor.",
+   "This changes a subscript so the atoms match. SO<sub>4</sub> is not sulfur trioxide; only coefficients may change.",
+   "The atoms balance, but every coefficient shares a factor of 2. Divide to get the lowest whole numbers.",
+   "S does not balance: 1 on the left, 2 on the right."
+  ],
+  "h": "Keep the formula SO<sub>3</sub>. Balance S first, then O.",
+  "w": "O: 2 + 2 = 4 on the left vs 3 on the right; 2 SO<sub>3</sub> needs 2 SO<sub>2</sub> and one O<sub>2</sub>. <b>2 SO<sub>2</sub>(g) + O<sub>2</sub>(g) &rarr; 2 SO<sub>3</sub>(g)</b>",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-008",
+  "t": "ch07-equations",
+  "q": "Balance the equation: Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(aq) + KOH(aq) &rarr; Al(OH)<sub>3</sub>(s) + K<sub>2</sub>SO<sub>4</sub>(aq). What are the coefficients, in order?",
+  "c": [
+   "1, 6, 2, 3",
+   "2, 12, 4, 6",
+   "1, 3, 2, 3",
+   "1, 6, 1, 3"
+  ],
+  "y": [
+   "Treat SO<sub>4</sub><sup>2&minus;</sup> and OH<sup>&minus;</sup> as units. Al: 2 Al(OH)<sub>3</sub>; OH: 2 &times; 3 = 6 KOH; SO<sub>4</sub>: 3 K<sub>2</sub>SO<sub>4</sub>; K: 6 = 6.",
+   "Everything balances, but all four coefficients share a factor of 2.",
+   "Al and sulfate balance, but OH does not: 3 on the left, 6 on the right (and K: 3 vs 6).",
+   "Aluminum does not balance: 2 Al on the left, 1 on the right."
+  ],
+  "h": "Balance Al first, then the polyatomic units OH and SO<sub>4</sub>, then check K.",
+  "w": "<b>1, 6, 2, 3</b>: Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(aq) + 6 KOH(aq) &rarr; 2 Al(OH)<sub>3</sub>(s) + 3 K<sub>2</sub>SO<sub>4</sub>(aq). Al 2 = 2; SO<sub>4</sub> 3 = 3; K 6 = 6; OH 6 = 6.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-009",
+  "t": "ch07-equations",
+  "q": "Lighter fluid is butane, C<sub>4</sub>H<sub>10</sub>. In the balanced equation for its complete combustion, C<sub>4</sub>H<sub>10</sub>(g) + O<sub>2</sub>(g) &rarr; CO<sub>2</sub>(g) + H<sub>2</sub>O(g), what is the lowest whole-number coefficient of O<sub>2</sub>?",
+  "c": [
+   "13",
+   "6.5",
+   "26",
+   "9"
+  ],
+  "y": [
+   "C: 4 CO<sub>2</sub>; H: 5 H<sub>2</sub>O; O on the right = 4(2) + 5 = 13, so 13/2 O<sub>2</sub>. Double everything: 2, 13, 8, 10.",
+   "13/2 balances the atoms, but coefficients must be whole numbers. Double all of them.",
+   "26 comes from doubling twice; 2, 13, 8, 10 already has no common factor.",
+   "This counts 1 O in each CO<sub>2</sub> instead of 2: 4 + 5 = 9."
+  ],
+  "h": "Balance C, then H, then O. If O comes out odd, double everything.",
+  "w": "2 C<sub>4</sub>H<sub>10</sub>(g) + 13 O<sub>2</sub>(g) &rarr; 8 CO<sub>2</sub>(g) + 10 H<sub>2</sub>O(g): O 26 = 16 + 10. The coefficient of O<sub>2</sub> is <b>13</b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c7-010",
+  "t": "ch07-equations",
+  "q": "A student balances H<sub>2</sub>(g) + Cl<sub>2</sub>(g) &rarr; HCl(g) by changing it to H<sub>2</sub>(g) + Cl<sub>2</sub>(g) &rarr; H<sub>2</sub>Cl<sub>2</sub>(g). What is wrong?",
+  "c": [
+   "Changing a subscript makes a different substance; a coefficient of 2 in front of HCl is the fix.",
+   "Nothing is wrong, because the atoms now balance.",
+   "The reactants should be written as single atoms, H and Cl, so that HCl balances.",
+   "The fix should be a coefficient of 2 in front of H<sub>2</sub> instead."
+  ],
+  "y": [
+   "Subscripts define the substance (HCl is hydrogen chloride). Only coefficients change: H<sub>2</sub> + Cl<sub>2</sub> &rarr; 2 HCl.",
+   "Atoms balance, but H<sub>2</sub>Cl<sub>2</sub> is not the product. Balancing must keep the correct formulas.",
+   "Hydrogen and chlorine are diatomic elements, H<sub>2</sub> and Cl<sub>2</sub>; writing H or Cl changes the substances.",
+   "A 2 in front of H<sub>2</sub> gives 4 H on the left and still only 1 on the right."
+  ],
+  "h": "What are you allowed to change when balancing: subscripts or coefficients?",
+  "w": "Never change subscripts. <b>H<sub>2</sub>(g) + Cl<sub>2</sub>(g) &rarr; 2 HCl(g)</b>: H 2 = 2, Cl 2 = 2.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-011",
+  "t": "ch07-equations",
+  "q": "Aluminum metal burns in chlorine gas to form solid aluminum chloride. Which balanced equation uses the lowest whole-number coefficients?",
+  "c": [
+   "2 Al(s) + 3 Cl<sub>2</sub>(g) &rarr; 2 AlCl<sub>3</sub>(s)",
+   "4 Al(s) + 6 Cl<sub>2</sub>(g) &rarr; 4 AlCl<sub>3</sub>(s)",
+   "Al(s) + 1.5 Cl<sub>2</sub>(g) &rarr; AlCl<sub>3</sub>(s)",
+   "Al(s) + Cl<sub>3</sub>(g) &rarr; AlCl<sub>3</sub>(s)"
+  ],
+  "y": [
+   "Al: 2 = 2; Cl: 6 = 6; and 2, 3, 2 share no factor.",
+   "Balanced, but 4, 6, 4 share a factor of 2.",
+   "Balanced, but 1.5 is not a whole number. Doubling gives 2, 3, 2.",
+   "Chlorine gas is Cl<sub>2</sub>; Cl<sub>3</sub> does not exist. Formulas cannot be changed to balance."
+  ],
+  "h": "Write Cl<sub>2</sub> for chlorine gas and AlCl<sub>3</sub> from the charges Al<sup>3+</sup> and Cl<sup>&minus;</sup>.",
+  "w": "Al + Cl<sub>2</sub> &rarr; AlCl<sub>3</sub>: Cl needs a common multiple of 2 and 3, so 3 Cl<sub>2</sub> and 2 AlCl<sub>3</sub>, then 2 Al. <b>2 Al(s) + 3 Cl<sub>2</sub>(g) &rarr; 2 AlCl<sub>3</sub>(s)</b>",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-012",
+  "t": "ch07-equations",
+  "q": "In a blast furnace, solid iron(III) oxide reacts with carbon monoxide gas to form solid iron and carbon dioxide gas. Which equation is correct, balanced, and labeled?",
+  "c": [
+   "Fe<sub>2</sub>O<sub>3</sub>(s) + 3 CO(g) &rarr; 2 Fe(s) + 3 CO<sub>2</sub>(g)",
+   "Fe<sub>2</sub>O<sub>3</sub>(s) + CO(g) &rarr; 2 Fe(s) + CO<sub>2</sub>(g)",
+   "Fe<sub>2</sub>O<sub>3</sub>(s) + 3 CO(g) &rarr; 2 Fe(s) + 3 CO<sub>2</sub>(aq)",
+   "FeO<sub>3</sub>(s) + 3 CO(g) &rarr; Fe(s) + 3 CO<sub>2</sub>(g)"
+  ],
+  "y": [
+   "Fe 2 = 2; C 3 = 3; O 3 + 3 = 6 = 3 &times; 2. All phases match the description.",
+   "Iron balances, but O does not: 4 on the left, 2 on the right.",
+   "Carbon dioxide is described as a gas, so its label is (g), not (aq).",
+   "Iron(III) oxide is Fe<sub>2</sub>O<sub>3</sub> (from Fe<sup>3+</sup> and O<sup>2&minus;</sup>); the formula cannot be changed."
+  ],
+  "h": "Names first (iron(III) oxide = Fe<sub>2</sub>O<sub>3</sub>), then balance Fe, C, and O, then add labels.",
+  "w": "<b>Fe<sub>2</sub>O<sub>3</sub>(s) + 3 CO(g) &rarr; 2 Fe(s) + 3 CO<sub>2</sub>(g)</b>. Check: Fe 2 = 2, C 3 = 3, O 6 = 6.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c7-013",
+  "t": "ch07-types",
+  "q": "Heating mercury(II) oxide releases oxygen gas: 2 HgO(s) &rarr; 2 Hg(l) + O<sub>2</sub>(g). What type of reaction is this?",
+  "c": [
+   "Decomposition",
+   "Combination",
+   "Single displacement",
+   "Combustion"
+  ],
+  "y": [
+   "One compound breaks into simpler substances (AB &rarr; A + B), here with heat.",
+   "Combination builds one product from two or more reactants; this goes the other way.",
+   "Single displacement needs an element and a compound as reactants. Here there is only one reactant.",
+   "Combustion needs a fuel reacting with O<sub>2</sub>. Here O<sub>2</sub> is a product."
+  ],
+  "h": "Count the reactants: one compound alone (often heated) points to one pattern.",
+  "w": "One reactant, two products: <b>decomposition</b>, AB &rarr; A + B.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c7-014",
+  "t": "ch07-types",
+  "q": "Nickel wire is placed in silver nitrate solution: Ni(s) + 2 AgNO<sub>3</sub>(aq) &rarr; Ni(NO<sub>3</sub>)<sub>2</sub>(aq) + 2 Ag(s). What type of reaction is this?",
+  "c": [
+   "Single displacement",
+   "Double displacement",
+   "Combination",
+   "Decomposition"
+  ],
+  "y": [
+   "An element (Ni) replaces the metal ion in a compound (A + BC &rarr; AC + B), releasing Ag metal.",
+   "Double displacement needs two compounds swapping partners. Here one reactant is an element.",
+   "There are two products, not one.",
+   "There are two reactants, and nothing breaks down into simpler substances."
+  ],
+  "h": "Look at the reactant side: an element plus a compound.",
+  "w": "Element + compound &rarr; new compound + new element: <b>single displacement</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c7-015",
+  "t": "ch07-types",
+  "q": "What type of reaction is AgNO<sub>3</sub>(aq) + KBr(aq) &rarr; AgBr(s) + KNO<sub>3</sub>(aq)?",
+  "c": [
+   "Double displacement",
+   "Single displacement",
+   "Combination",
+   "Decomposition"
+  ],
+  "y": [
+   "Two ionic compounds swap partners (AB + CD &rarr; AD + CB); Ag<sup>+</sup> pairs with Br<sup>&minus;</sup> as a precipitate.",
+   "Single displacement needs a free element as a reactant. Both reactants here are compounds.",
+   "Combination makes one product; this makes two.",
+   "Decomposition starts with one reactant; this has two."
+  ],
+  "h": "Two compounds on the left, two on the right, partners exchanged.",
+  "w": "The cations trade anions: <b>double displacement</b> (a precipitation, since AgBr is insoluble).",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c7-016",
+  "t": "ch07-types",
+  "q": "Which reaction is a <b>combination</b> reaction?",
+  "c": [
+   "2 Ca(s) + O<sub>2</sub>(g) &rarr; 2 CaO(s)",
+   "2 C<sub>2</sub>H<sub>2</sub>(g) + 5 O<sub>2</sub>(g) &rarr; 4 CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(g)",
+   "2 NaN<sub>3</sub>(s) &rarr; 2 Na(s) + 3 N<sub>2</sub>(g)",
+   "Mg(s) + 2 AgNO<sub>3</sub>(aq) &rarr; Mg(NO<sub>3</sub>)<sub>2</sub>(aq) + 2 Ag(s)"
+  ],
+  "y": [
+   "Two reactants make one product (A + B &rarr; AB). It uses O<sub>2</sub>, but calcium is a metal, not a carbon fuel.",
+   "A carbon fuel reacting with O<sub>2</sub> to give CO<sub>2</sub> and H<sub>2</sub>O is combustion (a welding torch).",
+   "One reactant breaking into two products is decomposition (the reaction that inflates an air bag).",
+   "An element replacing a metal ion in a compound is single displacement."
+  ],
+  "h": "Look for exactly one product.",
+  "w": "Only <b>2 Ca + O<sub>2</sub> &rarr; 2 CaO</b> makes a single product from two reactants.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-017",
+  "t": "ch07-types",
+  "q": "Calcium metal heated in nitrogen gas forms calcium nitride. Which equation correctly predicts and balances the product?",
+  "c": [
+   "3 Ca(s) + N<sub>2</sub>(g) &rarr; Ca<sub>3</sub>N<sub>2</sub>(s)",
+   "Ca(s) + N<sub>2</sub>(g) &rarr; CaN<sub>2</sub>(s)",
+   "3 Ca(s) + 2 N<sub>2</sub>(g) &rarr; Ca<sub>3</sub>N<sub>2</sub>(s)",
+   "6 Ca(s) + 2 N<sub>2</sub>(g) &rarr; 2 Ca<sub>3</sub>N<sub>2</sub>(s)"
+  ],
+  "y": [
+   "Ca<sup>2+</sup> and N<sup>3&minus;</sup> combine 3 : 2 for zero charge: 3(+2) + 2(&minus;3) = 0. Ca 3 = 3; N 2 = 2.",
+   "This copies the subscript from N<sub>2</sub> into the product. Write the product from the ion charges, Ca<sup>2+</sup> and N<sup>3&minus;</sup>.",
+   "The formula is right, but N does not balance: 4 on the left, 2 on the right.",
+   "Balanced, but every coefficient shares a factor of 2."
+  ],
+  "h": "Predict the formula from charges first (nitride is N<sup>3&minus;</sup>), then balance.",
+  "w": "Ca<sup>2+</sup> + N<sup>3&minus;</sup> &rarr; Ca<sub>3</sub>N<sub>2</sub>; <b>3 Ca(s) + N<sub>2</sub>(g) &rarr; Ca<sub>3</sub>N<sub>2</sub>(s)</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-018",
+  "t": "ch07-types",
+  "q": "Strontium carbonate is heated strongly, the way limestone is heated to make lime. Which equation shows the decomposition?",
+  "c": [
+   "SrCO<sub>3</sub>(s) &rarr; SrO(s) + CO<sub>2</sub>(g)",
+   "SrCO<sub>3</sub>(s) &rarr; Sr(s) + CO<sub>3</sub>(g)",
+   "2 SrCO<sub>3</sub>(s) &rarr; 2 Sr(s) + 2 CO<sub>2</sub>(g) + O<sub>2</sub>(g)",
+   "SrCO<sub>3</sub>(s) &rarr; SrC(s) + O<sub>3</sub>(g)"
+  ],
+  "y": [
+   "Heating a metal carbonate gives the metal oxide and carbon dioxide, like CaCO<sub>3</sub> &rarr; CaO + CO<sub>2</sub>.",
+   "CO<sub>3</sub> is the carbonate ion, not a gas molecule; it cannot leave on its own.",
+   "Balanced, but metal carbonates do not decompose to the free metal and O<sub>2</sub>. They give the oxide and CO<sub>2</sub>.",
+   "This splits the formula into made-up pieces. The products are the oxide and CO<sub>2</sub>."
+  ],
+  "h": "Metal carbonate + heat &rarr; metal oxide + ?",
+  "w": "<b>SrCO<sub>3</sub>(s) &rarr; SrO(s) + CO<sub>2</sub>(g)</b>. Sr 1 = 1; C 1 = 1; O 3 = 1 + 2.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-019",
+  "t": "ch07-types",
+  "q": "Aluminum sulfate solution (used to clarify drinking water) is mixed with barium nitrate solution. Which gives the correct formulas of the two products?",
+  "c": [
+   "Al(NO<sub>3</sub>)<sub>3</sub> and BaSO<sub>4</sub>",
+   "Al<sub>2</sub>(NO<sub>3</sub>)<sub>3</sub> and Ba(SO<sub>4</sub>)<sub>3</sub>",
+   "Al(NO<sub>3</sub>)<sub>2</sub> and BaSO<sub>4</sub>",
+   "AlNO<sub>3</sub> and BaSO<sub>4</sub>"
+  ],
+  "y": [
+   "Swap partners, then use charges: Al<sup>3+</sup> + NO<sub>3</sub><sup>&minus;</sup> &rarr; Al(NO<sub>3</sub>)<sub>3</sub>; Ba<sup>2+</sup> + SO<sub>4</sub><sup>2&minus;</sup> &rarr; BaSO<sub>4</sub>.",
+   "These subscripts were copied from the reactants. Rebuild each formula from its ion charges.",
+   "Al(NO<sub>3</sub>)<sub>2</sub> would have a 1+ charge left over: aluminum is Al<sup>3+</sup>, so it needs three nitrates.",
+   "A 1 : 1 ratio leaves Al<sup>3+</sup> with only one nitrate, a net 2+ charge."
+  ],
+  "h": "Keep each cation, give it the other anion, and make the charges sum to zero.",
+  "w": "<b>Al(NO<sub>3</sub>)<sub>3</sub> and BaSO<sub>4</sub></b>: Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(aq) + 3 Ba(NO<sub>3</sub>)<sub>2</sub>(aq) &rarr; 2 Al(NO<sub>3</sub>)<sub>3</sub>(aq) + 3 BaSO<sub>4</sub>(s).",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-020",
+  "t": "ch07-types",
+  "q": "A propane space heater run in a closed garage gets too little oxygen and makes carbon monoxide, a poison that binds hemoglobin. Which balanced equation shows this <b>incomplete</b> combustion of propane, C<sub>3</sub>H<sub>8</sub>?",
+  "c": [
+   "2 C<sub>3</sub>H<sub>8</sub>(g) + 7 O<sub>2</sub>(g) &rarr; 6 CO(g) + 8 H<sub>2</sub>O(g)",
+   "C<sub>3</sub>H<sub>8</sub>(g) + 5 O<sub>2</sub>(g) &rarr; 3 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(g)",
+   "C<sub>3</sub>H<sub>8</sub>(g) + 2 O<sub>2</sub>(g) &rarr; 3 CO(g) + 4 H<sub>2</sub>O(g)",
+   "2 C<sub>3</sub>H<sub>8</sub>(g) + 7 O<sub>2</sub>(g) &rarr; 6 CO<sub>2</sub>(g) + 8 H<sub>2</sub>O(g)"
+  ],
+  "y": [
+   "C 6 = 6; H 16 = 16; O 14 = 6 + 8. Carbon ends up as CO because oxygen is limited.",
+   "This is complete combustion (enough O<sub>2</sub>): the carbon becomes CO<sub>2</sub>, not CO.",
+   "The products are right, but O does not balance: 4 on the left, 3 + 4 = 7 on the right.",
+   "This keeps the coefficients for CO but writes CO<sub>2</sub>: O is 14 on the left and 20 on the right."
+  ],
+  "h": "Incomplete combustion gives CO. Balance C, then H, then O, and clear any fraction.",
+  "w": "C<sub>3</sub>H<sub>8</sub> &rarr; 3 CO + 4 H<sub>2</sub>O needs 7 O = 3.5 O<sub>2</sub>; double: <b>2 C<sub>3</sub>H<sub>8</sub>(g) + 7 O<sub>2</sub>(g) &rarr; 6 CO(g) + 8 H<sub>2</sub>O(g)</b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c7-021",
+  "t": "ch07-types",
+  "q": "Rubbing alcohol (isopropyl alcohol, C<sub>3</sub>H<sub>8</sub>O) is flammable, which is why it is kept away from oxygen equipment in hospitals. In the balanced equation for its complete combustion, C<sub>3</sub>H<sub>8</sub>O(l) + O<sub>2</sub>(g) &rarr; CO<sub>2</sub>(g) + H<sub>2</sub>O(g), what is the lowest whole-number coefficient of O<sub>2</sub>?",
+  "c": [
+   "9",
+   "10",
+   "4.5",
+   "18"
+  ],
+  "y": [
+   "C: 3 CO<sub>2</sub>; H: 4 H<sub>2</sub>O; O needed = 6 + 4 = 10, minus 1 O already in the fuel = 9 O = 4.5 O<sub>2</sub>. Double: 2, 9, 6, 8.",
+   "This forgets the oxygen atom already in the fuel. With two fuel molecules, 2 O come from the fuel.",
+   "4.5 balances the atoms but is not a whole number. Double every coefficient.",
+   "18 is double the lowest set; 2, 9, 6, 8 has no common factor."
+  ],
+  "h": "Count the O inside the fuel too. Clear the fraction at the end.",
+  "w": "2 C<sub>3</sub>H<sub>8</sub>O(l) + 9 O<sub>2</sub>(g) &rarr; 6 CO<sub>2</sub>(g) + 8 H<sub>2</sub>O(g): O 2 + 18 = 20 = 12 + 8. Coefficient of O<sub>2</sub>: <b>9</b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c7-022",
+  "t": "ch07-types",
+  "q": "Which reaction is a <b>single-displacement</b> reaction?",
+  "c": [
+   "Fe(s) + Pb(NO<sub>3</sub>)<sub>2</sub>(aq) &rarr; Fe(NO<sub>3</sub>)<sub>2</sub>(aq) + Pb(s)",
+   "Na<sub>2</sub>CO<sub>3</sub>(aq) + 2 HCl(aq) &rarr; 2 NaCl(aq) + H<sub>2</sub>O(l) + CO<sub>2</sub>(g)",
+   "2 H<sub>2</sub>O(l) &rarr; 2 H<sub>2</sub>(g) + O<sub>2</sub>(g)",
+   "H<sub>2</sub>(g) + Cl<sub>2</sub>(g) &rarr; 2 HCl(g)"
+  ],
+  "y": [
+   "The element Fe replaces Pb<sup>2+</sup> in its compound and becomes Fe<sup>2+</sup>; lead metal is released.",
+   "Two compounds swap partners (and H<sub>2</sub>CO<sub>3</sub> breaks into H<sub>2</sub>O and CO<sub>2</sub>): double displacement.",
+   "One compound breaks into elements: decomposition (electrolysis of water).",
+   "Two elements form one compound: combination."
+  ],
+  "h": "Look for element + compound on the left and a different element + compound on the right.",
+  "w": "<b>Fe + Pb(NO<sub>3</sub>)<sub>2</sub> &rarr; Fe(NO<sub>3</sub>)<sub>2</sub> + Pb</b> fits A + BC &rarr; AC + B.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-023",
+  "t": "ch07-solubility",
+  "q": "Which substance is a <b>nonelectrolyte</b> when dissolved in water?",
+  "c": [
+   "C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+   "KCl",
+   "HNO<sub>3</sub>",
+   "NH<sub>3</sub>"
+  ],
+  "y": [
+   "Glucose dissolves as whole molecules and forms no ions, so its solution does not conduct electricity.",
+   "KCl is a soluble ionic compound: it separates completely into K<sup>+</sup> and Cl<sup>&minus;</sup>, a strong electrolyte.",
+   "Nitric acid is on the strong-acid list; it ionizes completely, a strong electrolyte.",
+   "Ammonia is a weak base: it forms a few ions, so it is a weak electrolyte."
+  ],
+  "h": "Does it form ions? Sugars and alcohols dissolve as molecules.",
+  "w": "Glucose, <b>C<sub>6</sub>H<sub>12</sub>O<sub>6</sub></b>, dissolves without forming ions: a nonelectrolyte. It travels in blood as whole molecules.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c7-024",
+  "t": "ch07-solubility",
+  "q": "A conductivity tester is dipped into four solutions, all at the same concentration. The table shows how brightly its bulb glows. Solution B is most likely which substance?",
+  "c": [
+   "Acetic acid, HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>",
+   "Potassium chloride, KCl",
+   "Sucrose, C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>",
+   "Hydrochloric acid, HCl"
+  ],
+  "y": [
+   "A dim glow means only a few ions: a weak electrolyte. Acetic acid is a weak acid (not on the strong-acid list).",
+   "KCl is a soluble ionic compound that separates completely; it would glow brightly, like solution A.",
+   "Sucrose forms no ions, so it would not light the bulb at all, like solution C.",
+   "HCl is a strong acid that ionizes completely; it would glow brightly."
+  ],
+  "h": "Bright = many ions (strong); dim = few ions (weak); none = no ions (nonelectrolyte).",
+  "w": "Dim glow = weak electrolyte = <b>acetic acid</b>. A could be KCl or HCl; C could be sucrose.",
+  "d": 2,
+  "k": 0,
+  "f": [
+   {
+    "type": "table",
+    "cap": "Conductivity test results",
+    "head": [
+     "Solution",
+     "Bulb"
+    ],
+    "rows": [
+     [
+      "A",
+      "bright"
+     ],
+     [
+      "B",
+      "dim"
+     ],
+     [
+      "C",
+      "does not light"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c7-025",
+  "t": "ch07-solubility",
+  "q": "Calcium nitrate is a fertilizer used on Valley crops. Which equation shows what happens when it dissolves in water?",
+  "c": [
+   "Ca(NO<sub>3</sub>)<sub>2</sub>(s) &rarr; Ca<sup>2+</sup>(aq) + 2 NO<sub>3</sub><sup>&minus;</sup>(aq)",
+   "Ca(NO<sub>3</sub>)<sub>2</sub>(s) &rarr; Ca<sup>2+</sup>(aq) + NO<sub>3</sub><sup>&minus;</sup>(aq)",
+   "Ca(NO<sub>3</sub>)<sub>2</sub>(s) &rarr; Ca<sup>2+</sup>(aq) + 2 N<sup>5+</sup>(aq) + 6 O<sup>2&minus;</sup>(aq)",
+   "Ca(NO<sub>3</sub>)<sub>2</sub>(s) &rarr; Ca<sup>2+</sup>(aq) + (NO<sub>3</sub>)<sub>2</sub><sup>2&minus;</sup>(aq)"
+  ],
+  "y": [
+   "One calcium ion and two nitrate ions; polyatomic ions stay together. Charge: +2 + 2(&minus;1) = 0.",
+   "The subscript 2 means two NO<sub>3</sub><sup>&minus;</sup> ions. With only one, the charges do not balance.",
+   "Nitrate is a polyatomic ion; it stays together as NO<sub>3</sub><sup>&minus;</sup> when the salt dissolves.",
+   "The subscript outside the parentheses counts separate ions; it does not join them into one 2&minus; ion."
+  ],
+  "h": "Polyatomic ions stay intact; subscripts outside the parentheses give the number of ions.",
+  "w": "<b>Ca(NO<sub>3</sub>)<sub>2</sub>(s) &rarr; Ca<sup>2+</sup>(aq) + 2 NO<sub>3</sub><sup>&minus;</sup>(aq)</b>",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c7-026",
+  "t": "ch07-solubility",
+  "q": "How many ions in total are released when one formula unit of Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> dissolves completely?",
+  "c": [
+   "5",
+   "2",
+   "17",
+   "6"
+  ],
+  "y": [
+   "2 Al<sup>3+</sup> + 3 SO<sub>4</sub><sup>2&minus;</sup> = 5 ions. Charge: 2(+3) + 3(&minus;2) = 0.",
+   "There are two <i>kinds</i> of ions, but 2 aluminum ions and 3 sulfate ions.",
+   "17 is the number of atoms. Each sulfate stays together as one ion.",
+   "This multiplies the subscripts (2 &times; 3); add the ions instead."
+  ],
+  "h": "Write the dissolving equation and count the ions on the right.",
+  "w": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(s) &rarr; 2 Al<sup>3+</sup>(aq) + 3 SO<sub>4</sub><sup>2&minus;</sup>(aq): 2 + 3 = <b>5</b> ions.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-027",
+  "t": "ch07-solubility",
+  "q": "Use the solubility rules. Which compound is <b>insoluble</b> in water?",
+  "c": [
+   "AgI",
+   "NaI",
+   "Mg(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub>",
+   "(NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub>"
+  ],
+  "y": [
+   "Iodides are soluble except with Ag<sup>+</sup>, Hg<sub>2</sub><sup>2+</sup>, and Pb<sup>2+</sup>. Silver iodide is one of those exceptions.",
+   "Sodium is in Group 1: every sodium compound is soluble.",
+   "Acetates are always soluble.",
+   "Ammonium compounds are always soluble, even carbonates."
+  ],
+  "h": "First check for an always-soluble ion (Group 1, NH<sub>4</sub><sup>+</sup>, nitrate, acetate). Then find the anion's row.",
+  "w": "AgI: iodide with Ag<sup>+</sup> is an exception, so <b>AgI is insoluble</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c7-028",
+  "t": "ch07-solubility",
+  "q": "Kidney stones and the scale in kettles are insoluble salts. Which of these compounds is <b>soluble</b> in water?",
+  "c": [
+   "K<sub>2</sub>CO<sub>3</sub>",
+   "BaCO<sub>3</sub>",
+   "CaC<sub>2</sub>O<sub>4</sub>",
+   "Ag<sub>2</sub>SO<sub>4</sub>"
+  ],
+  "y": [
+   "Carbonates are insoluble except with Group 1 and NH<sub>4</sub><sup>+</sup>. Potassium is Group 1, so K<sub>2</sub>CO<sub>3</sub> dissolves.",
+   "Carbonate with Ba<sup>2+</sup> is not an exception, so barium carbonate is insoluble.",
+   "Oxalates are insoluble except with Group 1 and NH<sub>4</sub><sup>+</sup>; calcium oxalate is the main mineral in most kidney stones.",
+   "Sulfates are soluble except with Ca<sup>2+</sup>, Sr<sup>2+</sup>, Ba<sup>2+</sup>, Ag<sup>+</sup>, and Pb<sup>2+</sup>; silver is an exception."
+  ],
+  "h": "Carbonates, phosphates, chromates, and oxalates are insoluble unless the cation is Group 1 or ammonium.",
+  "w": "Only <b>K<sub>2</sub>CO<sub>3</sub></b> has a Group 1 cation; the other three are on the insoluble side of their rows.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-029",
+  "t": "ch07-solubility",
+  "q": "A barium contrast agent must be <b>insoluble</b>, so that almost no toxic Ba<sup>2+</sup> dissolves and is absorbed. By the solubility rules, which barium compound is insoluble?",
+  "c": [
+   "BaSO<sub>4</sub>",
+   "BaCl<sub>2</sub>",
+   "Ba(NO<sub>3</sub>)<sub>2</sub>",
+   "BaS"
+  ],
+  "y": [
+   "Sulfates are soluble except with Ca<sup>2+</sup>, Sr<sup>2+</sup>, Ba<sup>2+</sup>, Ag<sup>+</sup>, Pb<sup>2+</sup>. Barium sulfate is an exception, so it stays solid.",
+   "Chlorides are soluble unless the cation is Ag<sup>+</sup>, Hg<sub>2</sub><sup>2+</sup>, or Pb<sup>2+</sup>; BaCl<sub>2</sub> dissolves (and is toxic).",
+   "Nitrates are always soluble.",
+   "Sulfides are insoluble except with Group 1, NH<sub>4</sub><sup>+</sup>, Ca<sup>2+</sup>, Sr<sup>2+</sup>, and Ba<sup>2+</sup>; barium is one of the exceptions, so BaS dissolves."
+  ],
+  "h": "Check each anion's row and whether Ba<sup>2+</sup> is listed as an exception.",
+  "w": "<b>BaSO<sub>4</sub></b> is insoluble (sulfate with Ba<sup>2+</sup>), which is why it is used for X-ray contrast. (Context only.)",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-030",
+  "t": "ch07-solubility",
+  "q": "Which sulfide is <b>insoluble</b> in water?",
+  "c": [
+   "ZnS",
+   "CaS",
+   "Na<sub>2</sub>S",
+   "(NH<sub>4</sub>)<sub>2</sub>S"
+  ],
+  "y": [
+   "Sulfides are insoluble except with Group 1, NH<sub>4</sub><sup>+</sup>, Ca<sup>2+</sup>, Sr<sup>2+</sup>, and Ba<sup>2+</sup>. Zinc is not an exception.",
+   "Calcium is one of the listed exceptions for sulfides and oxides, so CaS is soluble.",
+   "Sodium is Group 1: always soluble.",
+   "Ammonium compounds are always soluble."
+  ],
+  "h": "Read the O<sup>2&minus;</sup>, S<sup>2&minus;</sup> row carefully: its exceptions include three Group 2 ions.",
+  "w": "<b>ZnS</b> is insoluble; Zn<sup>2+</sup> is not on the exception list.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c7-031",
+  "t": "ch07-solubility",
+  "q": "Which pair contains <b>two insoluble</b> compounds?",
+  "c": [
+   "PbI<sub>2</sub> and Hg<sub>2</sub>Cl<sub>2</sub>",
+   "PbI<sub>2</sub> and ZnCl<sub>2</sub>",
+   "AgNO<sub>3</sub> and AgCl",
+   "CaF<sub>2</sub> and NaF"
+  ],
+  "y": [
+   "Both are halide exceptions: iodide with Pb<sup>2+</sup> and chloride with Hg<sub>2</sub><sup>2+</sup>.",
+   "PbI<sub>2</sub> is insoluble, but ZnCl<sub>2</sub> is soluble; Zn<sup>2+</sup> is not a chloride exception.",
+   "AgCl is insoluble, but every nitrate, including AgNO<sub>3</sub>, is soluble.",
+   "CaF<sub>2</sub> is insoluble (fluoride with Ca<sup>2+</sup>), but NaF is soluble (Group 1)."
+  ],
+  "h": "\"What's the H.A.P. with the heavy halides?\" Which cations make insoluble chlorides, bromides, and iodides?",
+  "w": "Pb<sup>2+</sup> and Hg<sub>2</sub><sup>2+</sup> are halide exceptions, so <b>PbI<sub>2</sub> and Hg<sub>2</sub>Cl<sub>2</sub></b> are both insoluble.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-032",
+  "t": "ch07-solubility",
+  "q": "Which statement about strontium fluoride and strontium chloride is correct?",
+  "c": [
+   "SrF<sub>2</sub> is insoluble; SrCl<sub>2</sub> is soluble.",
+   "SrF<sub>2</sub> is soluble; SrCl<sub>2</sub> is insoluble.",
+   "SrF<sub>2</sub> is soluble; SrCl<sub>2</sub> is soluble.",
+   "SrF<sub>2</sub> is insoluble; SrCl<sub>2</sub> is insoluble."
+  ],
+  "y": [
+   "Fluorides are soluble except with Mg<sup>2+</sup>, Ca<sup>2+</sup>, Sr<sup>2+</sup>, Ba<sup>2+</sup>, Pb<sup>2+</sup> (so SrF<sub>2</sub> is insoluble); chlorides are soluble except with Ag<sup>+</sup>, Hg<sub>2</sub><sup>2+</sup>, Pb<sup>2+</sup> (so SrCl<sub>2</sub> dissolves).",
+   "This reverses the two rows. Strontium is a fluoride exception, not a chloride exception.",
+   "Sr<sup>2+</sup> is listed as an exception in the fluoride row.",
+   "Sr<sup>2+</sup> is not an exception in the chloride row."
+  ],
+  "h": "Fluoride has its own row with different exceptions from the other halides.",
+  "w": "<b>SrF<sub>2</sub> is insoluble; SrCl<sub>2</sub> is soluble.</b>",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c7-033",
+  "t": "ch07-netionic",
+  "q": "Copper(II) sulfate solution is mixed with sodium hydroxide solution. Which product is the precipitate?",
+  "c": [
+   "Cu(OH)<sub>2</sub>",
+   "Na<sub>2</sub>SO<sub>4</sub>",
+   "CuOH",
+   "No precipitate forms."
+  ],
+  "y": [
+   "Swap partners: Cu<sup>2+</sup> + OH<sup>&minus;</sup> &rarr; Cu(OH)<sub>2</sub>, insoluble (hydroxide, and Cu<sup>2+</sup> is not an exception).",
+   "Sodium is Group 1, so Na<sub>2</sub>SO<sub>4</sub> stays dissolved.",
+   "Copper(II) is Cu<sup>2+</sup>, so it needs two OH<sup>&minus;</sup>. The formula comes from the charges.",
+   "One product, the copper hydroxide, is insoluble, so a precipitate does form."
+  ],
+  "h": "Swap partners, write formulas from charges, then check each product on the green sheet.",
+  "w": "CuSO<sub>4</sub>(aq) + 2 NaOH(aq) &rarr; Cu(OH)<sub>2</sub>(s) + Na<sub>2</sub>SO<sub>4</sub>(aq): the blue precipitate is <b>Cu(OH)<sub>2</sub></b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c7-034",
+  "t": "ch07-netionic",
+  "q": "Calcium nitrate solution is mixed with potassium chloride solution. What precipitate forms?",
+  "c": [
+   "No precipitate forms.",
+   "CaCl<sub>2</sub>",
+   "KNO<sub>3</sub>",
+   "Both CaCl<sub>2</sub> and KNO<sub>3</sub>"
+  ],
+  "y": [
+   "The swapped products are CaCl<sub>2</sub> (chloride; Ca<sup>2+</sup> is not an exception) and KNO<sub>3</sub> (Group 1 and nitrate). Both are soluble: no reaction.",
+   "Ca<sup>2+</sup> is not a chloride exception (only Ag<sup>+</sup>, Hg<sub>2</sub><sup>2+</sup>, Pb<sup>2+</sup> are), so CaCl<sub>2</sub> dissolves.",
+   "Potassium compounds and nitrates are always soluble.",
+   "Both possible products are soluble, so neither precipitates."
+  ],
+  "h": "Swap partners, then look up both products.",
+  "w": "Both CaCl<sub>2</sub> and KNO<sub>3</sub> are soluble, so every ion is a spectator: <b>no precipitate (no reaction)</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-035",
+  "t": "ch07-netionic",
+  "q": "Hard-water scale is calcium carbonate. It forms the same way it does when calcium nitrate solution is mixed with potassium carbonate solution. What is the net ionic equation?",
+  "c": [
+   "Ca<sup>2+</sup>(aq) + CO<sub>3</sub><sup>2&minus;</sup>(aq) &rarr; CaCO<sub>3</sub>(s)",
+   "Ca(NO<sub>3</sub>)<sub>2</sub>(aq) + K<sub>2</sub>CO<sub>3</sub>(aq) &rarr; CaCO<sub>3</sub>(s) + 2 KNO<sub>3</sub>(aq)",
+   "2 K<sup>+</sup>(aq) + 2 NO<sub>3</sub><sup>&minus;</sup>(aq) &rarr; 2 KNO<sub>3</sub>(aq)",
+   "Ca<sup>2+</sup>(aq) + CO<sub>3</sub><sup>2&minus;</sup>(aq) &rarr; Ca<sup>2+</sup>(aq) + CO<sub>3</sub><sup>2&minus;</sup>(aq)"
+  ],
+  "y": [
+   "Only Ca<sup>2+</sup> and CO<sub>3</sub><sup>2&minus;</sup> change: they form the solid. K<sup>+</sup> and NO<sub>3</sub><sup>&minus;</sup> are spectators.",
+   "This is the molecular equation. The net ionic equation leaves out the spectator ions.",
+   "These are the spectators. They are the ions that do <i>not</i> react.",
+   "This splits the precipitate into ions. A solid stays together; it is the thing that forms."
+  ],
+  "h": "Write the complete ionic equation, cancel ions that are identical on both sides, and keep what is left.",
+  "w": "Complete ionic: Ca<sup>2+</sup> + 2 NO<sub>3</sub><sup>&minus;</sup> + 2 K<sup>+</sup> + CO<sub>3</sub><sup>2&minus;</sup> &rarr; CaCO<sub>3</sub>(s) + 2 K<sup>+</sup> + 2 NO<sub>3</sub><sup>&minus;</sup>. Net: <b>Ca<sup>2+</sup>(aq) + CO<sub>3</sub><sup>2&minus;</sup>(aq) &rarr; CaCO<sub>3</sub>(s)</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-036",
+  "t": "ch07-netionic",
+  "q": "Zinc chloride solution is mixed with potassium sulfide solution, forming a white precipitate. What is the complete ionic equation?",
+  "c": [
+   "Zn<sup>2+</sup>(aq) + 2 Cl<sup>&minus;</sup>(aq) + 2 K<sup>+</sup>(aq) + S<sup>2&minus;</sup>(aq) &rarr; ZnS(s) + 2 K<sup>+</sup>(aq) + 2 Cl<sup>&minus;</sup>(aq)",
+   "Zn<sup>2+</sup>(aq) + 2 Cl<sup>&minus;</sup>(aq) + 2 K<sup>+</sup>(aq) + S<sup>2&minus;</sup>(aq) &rarr; Zn<sup>2+</sup>(aq) + S<sup>2&minus;</sup>(aq) + 2 K<sup>+</sup>(aq) + 2 Cl<sup>&minus;</sup>(aq)",
+   "Zn<sup>2+</sup>(aq) + Cl<sup>&minus;</sup>(aq) + K<sup>+</sup>(aq) + S<sup>2&minus;</sup>(aq) &rarr; ZnS(s) + K<sup>+</sup>(aq) + Cl<sup>&minus;</sup>(aq)",
+   "Zn<sup>2+</sup>(aq) + Cl<sub>2</sub><sup>2&minus;</sup>(aq) + K<sub>2</sub><sup>2+</sup>(aq) + S<sup>2&minus;</sup>(aq) &rarr; ZnS(s) + K<sub>2</sub><sup>2+</sup>(aq) + Cl<sub>2</sub><sup>2&minus;</sup>(aq)"
+  ],
+  "y": [
+   "Split each aqueous strong electrolyte with the right counts (ZnCl<sub>2</sub> gives 2 Cl<sup>&minus;</sup>; K<sub>2</sub>S gives 2 K<sup>+</sup>). The solid ZnS stays together.",
+   "This splits the precipitate. ZnS is a solid and must stay as ZnS(s).",
+   "The counts are wrong: ZnCl<sub>2</sub> gives two Cl<sup>&minus;</sup>, and K<sub>2</sub>S gives two K<sup>+</sup>.",
+   "Subscripts count separate ions; they do not make new ions such as Cl<sub>2</sub><sup>2&minus;</sup>."
+  ],
+  "h": "Molecular first: ZnCl<sub>2</sub>(aq) + K<sub>2</sub>S(aq) &rarr; ZnS(s) + 2 KCl(aq). Then split only the (aq) compounds.",
+  "w": "<b>Zn<sup>2+</sup>(aq) + 2 Cl<sup>&minus;</sup>(aq) + 2 K<sup>+</sup>(aq) + S<sup>2&minus;</sup>(aq) &rarr; ZnS(s) + 2 K<sup>+</sup>(aq) + 2 Cl<sup>&minus;</sup>(aq)</b>",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c7-037",
+  "t": "ch07-netionic",
+  "q": "Lead(II) acetate solution is mixed with potassium iodide solution, and yellow lead(II) iodide precipitates. What are the spectator ions?",
+  "c": [
+   "K<sup>+</sup> and C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>&minus;</sup>",
+   "Pb<sup>2+</sup> and I<sup>&minus;</sup>",
+   "K<sup>+</sup> only",
+   "There are none; all four ions react."
+  ],
+  "y": [
+   "Potassium acetate is soluble, so K<sup>+</sup> and C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>&minus;</sup> stay dissolved and appear unchanged on both sides.",
+   "These are the ions that react: they form the PbI<sub>2</sub> precipitate.",
+   "Acetate also stays dissolved; it is unchanged on both sides too.",
+   "Only Pb<sup>2+</sup> and I<sup>&minus;</sup> leave the solution; the other two ions just watch."
+  ],
+  "h": "Spectators appear unchanged on both sides of the complete ionic equation.",
+  "w": "Net ionic: Pb<sup>2+</sup>(aq) + 2 I<sup>&minus;</sup>(aq) &rarr; PbI<sub>2</sub>(s). Spectators: <b>K<sup>+</sup> and C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>&minus;</sup></b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c7-038",
+  "t": "ch07-netionic",
+  "q": "Aluminum hydroxide, an ingredient in some antacids, can be made by mixing aluminum nitrate solution with potassium hydroxide solution. What is the net ionic equation?",
+  "c": [
+   "Al<sup>3+</sup>(aq) + 3 OH<sup>&minus;</sup>(aq) &rarr; Al(OH)<sub>3</sub>(s)",
+   "Al<sup>3+</sup>(aq) + OH<sup>&minus;</sup>(aq) &rarr; AlOH(s)",
+   "K<sup>+</sup>(aq) + NO<sub>3</sub><sup>&minus;</sup>(aq) &rarr; KNO<sub>3</sub>(s)",
+   "Al<sup>3+</sup>(aq) + 3 OH<sup>&minus;</sup>(aq) &rarr; Al<sup>3+</sup>(aq) + 3 OH<sup>&minus;</sup>(aq)"
+  ],
+  "y": [
+   "Al<sup>3+</sup> needs three OH<sup>&minus;</sup> for a neutral solid; atoms and charge (+3 &minus; 3 = 0) balance.",
+   "The formula must come from the charges: Al<sup>3+</sup> needs three OH<sup>&minus;</sup>, giving Al(OH)<sub>3</sub>.",
+   "KNO<sub>3</sub> is soluble (Group 1, nitrate), so K<sup>+</sup> and NO<sub>3</sub><sup>&minus;</sup> are spectators.",
+   "This shows no change. The precipitate Al(OH)<sub>3</sub>(s) must appear as a product."
+  ],
+  "h": "Hydroxides are insoluble except with Group 1 and NH<sub>4</sub><sup>+</sup> (and slightly soluble with Ca, Sr, Ba).",
+  "w": "<b>Al<sup>3+</sup>(aq) + 3 OH<sup>&minus;</sup>(aq) &rarr; Al(OH)<sub>3</sub>(s)</b>; K<sup>+</sup> and NO<sub>3</sub><sup>&minus;</sup> are spectators.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-039",
+  "t": "ch07-netionic",
+  "q": "Which pair of solutions gives <b>no reaction</b> when mixed?",
+  "c": [
+   "KNO<sub>3</sub> and MgCl<sub>2</sub>",
+   "KOH and MgCl<sub>2</sub>",
+   "K<sub>3</sub>PO<sub>4</sub> and MgCl<sub>2</sub>",
+   "AgNO<sub>3</sub> and MgCl<sub>2</sub>"
+  ],
+  "y": [
+   "The swapped products, KCl and Mg(NO<sub>3</sub>)<sub>2</sub>, are both soluble. No precipitate, water, or gas forms.",
+   "Mg(OH)<sub>2</sub> would precipitate: hydroxide with Mg<sup>2+</sup> is insoluble.",
+   "Mg<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> would precipitate: phosphates are insoluble except with Group 1 and NH<sub>4</sub><sup>+</sup>.",
+   "AgCl would precipitate: chloride with Ag<sup>+</sup> is an exception."
+  ],
+  "h": "For each pair, swap partners and check both products.",
+  "w": "KNO<sub>3</sub> + MgCl<sub>2</sub> &rarr; KCl(aq) + Mg(NO<sub>3</sub>)<sub>2</sub>(aq): all ions are spectators, so <b>KNO<sub>3</sub> and MgCl<sub>2</sub></b> give no reaction.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-040",
+  "t": "ch07-netionic",
+  "q": "Struvite kidney stones contain magnesium and phosphate ions. In the lab, magnesium phosphate precipitates when magnesium chloride solution is mixed with sodium phosphate solution. What is the net ionic equation?",
+  "c": [
+   "3 Mg<sup>2+</sup>(aq) + 2 PO<sub>4</sub><sup>3&minus;</sup>(aq) &rarr; Mg<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>(s)",
+   "Mg<sup>2+</sup>(aq) + PO<sub>4</sub><sup>3&minus;</sup>(aq) &rarr; MgPO<sub>4</sub>(s)",
+   "3 Mg<sup>2+</sup>(aq) + 2 PO<sub>4</sub><sup>3&minus;</sup>(aq) + 6 Na<sup>+</sup>(aq) + 6 Cl<sup>&minus;</sup>(aq) &rarr; Mg<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>(s) + 6 Na<sup>+</sup>(aq) + 6 Cl<sup>&minus;</sup>(aq)",
+   "3 Mg<sup>2+</sup>(aq) + 2 PO<sub>4</sub><sup>3&minus;</sup>(aq) &rarr; Mg<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>(aq)"
+  ],
+  "y": [
+   "Mg<sup>2+</sup> and PO<sub>4</sub><sup>3&minus;</sup> combine 3 : 2 for zero charge: 3(+2) + 2(&minus;3) = 0. Atoms and charge balance.",
+   "MgPO<sub>4</sub> is not neutral (+2 and &minus;3). The formula must come from the charges.",
+   "This is the complete ionic equation. The spectators Na<sup>+</sup> and Cl<sup>&minus;</sup> must be cancelled.",
+   "Magnesium phosphate is insoluble (phosphate, and Mg is not Group 1), so it is a solid, (s), not (aq)."
+  ],
+  "h": "Find the precipitate's formula from charges, then keep only the ions that form it.",
+  "w": "3 MgCl<sub>2</sub>(aq) + 2 Na<sub>3</sub>PO<sub>4</sub>(aq) &rarr; Mg<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>(s) + 6 NaCl(aq); net: <b>3 Mg<sup>2+</sup>(aq) + 2 PO<sub>4</sub><sup>3&minus;</sup>(aq) &rarr; Mg<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>(s)</b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c7-041",
+  "t": "ch07-netionic",
+  "q": "The complete ionic equation for mixing silver nitrate and sodium carbonate solutions is 2 Ag<sup>+</sup>(aq) + 2 NO<sub>3</sub><sup>&minus;</sup>(aq) + 2 Na<sup>+</sup>(aq) + CO<sub>3</sub><sup>2&minus;</sup>(aq) &rarr; Ag<sub>2</sub>CO<sub>3</sub>(s) + 2 Na<sup>+</sup>(aq) + 2 NO<sub>3</sub><sup>&minus;</sup>(aq). What is the net ionic equation?",
+  "c": [
+   "2 Ag<sup>+</sup>(aq) + CO<sub>3</sub><sup>2&minus;</sup>(aq) &rarr; Ag<sub>2</sub>CO<sub>3</sub>(s)",
+   "Ag<sup>+</sup>(aq) + CO<sub>3</sub><sup>2&minus;</sup>(aq) &rarr; Ag<sub>2</sub>CO<sub>3</sub>(s)",
+   "2 Ag<sup>+</sup>(aq) + 2 NO<sub>3</sub><sup>&minus;</sup>(aq) + CO<sub>3</sub><sup>2&minus;</sup>(aq) &rarr; Ag<sub>2</sub>CO<sub>3</sub>(s) + 2 NO<sub>3</sub><sup>&minus;</sup>(aq)",
+   "Ag<sub>2</sub><sup>2+</sup>(aq) + CO<sub>3</sub><sup>2&minus;</sup>(aq) &rarr; Ag<sub>2</sub>CO<sub>3</sub>(s)"
+  ],
+  "y": [
+   "Cancel 2 Na<sup>+</sup> and 2 NO<sub>3</sub><sup>&minus;</sup>, which are identical on both sides. What is left is balanced: 2(+1) + (&minus;2) = 0.",
+   "The coefficient 2 was dropped: 1 Ag on the left, 2 in the solid.",
+   "The nitrate ions are identical on both sides, so they are spectators too.",
+   "Silver ions are Ag<sup>+</sup>; there is no Ag<sub>2</sub><sup>2+</sup> ion. Keep 2 Ag<sup>+</sup>."
+  ],
+  "h": "Cancel only ions that are identical (kind, charge, and phase) on both sides.",
+  "w": "<b>2 Ag<sup>+</sup>(aq) + CO<sub>3</sub><sup>2&minus;</sup>(aq) &rarr; Ag<sub>2</sub>CO<sub>3</sub>(s)</b>",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c7-042",
+  "t": "ch07-netionic",
+  "q": "Sodium sulfide solution is mixed with copper(II) nitrate solution, and a black solid forms. What is the net ionic equation?",
+  "c": [
+   "Cu<sup>2+</sup>(aq) + S<sup>2&minus;</sup>(aq) &rarr; CuS(s)",
+   "Cu<sup>2+</sup>(aq) + S<sup>2&minus;</sup>(aq) &rarr; CuS(aq)",
+   "Cu<sup>2+</sup>(aq) + 2 NO<sub>3</sub><sup>&minus;</sup>(aq) &rarr; Cu(NO<sub>3</sub>)<sub>2</sub>(s)",
+   "Na<sup>+</sup>(aq) + NO<sub>3</sub><sup>&minus;</sup>(aq) &rarr; NaNO<sub>3</sub>(s)"
+  ],
+  "y": [
+   "Sulfides are insoluble except with Group 1, NH<sub>4</sub><sup>+</sup>, Ca, Sr, Ba, so CuS is the black solid. Na<sup>+</sup> and NO<sub>3</sub><sup>&minus;</sup> are spectators.",
+   "The black solid is the precipitate, so its label is (s).",
+   "Nitrates are always soluble; Cu(NO<sub>3</sub>)<sub>2</sub> is a reactant here, not a precipitate.",
+   "NaNO<sub>3</sub> is soluble (Group 1, nitrate). These ions are spectators."
+  ],
+  "h": "Which swapped product is insoluble?",
+  "w": "Na<sub>2</sub>S(aq) + Cu(NO<sub>3</sub>)<sub>2</sub>(aq) &rarr; CuS(s) + 2 NaNO<sub>3</sub>(aq); net: <b>Cu<sup>2+</sup>(aq) + S<sup>2&minus;</sup>(aq) &rarr; CuS(s)</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-043",
+  "t": "ch07-acidgas",
+  "q": "What is the balanced molecular equation for hydrobromic acid reacting with potassium hydroxide?",
+  "c": [
+   "HBr(aq) + KOH(aq) &rarr; H<sub>2</sub>O(l) + KBr(aq)",
+   "HBr(aq) + KOH(aq) &rarr; H<sub>2</sub>O(l) + KBr(s)",
+   "HBr(aq) + KOH(aq) &rarr; KOBr(aq) + H<sub>2</sub>(g)",
+   "HBr(aq) + KOH(aq) &rarr; KH(aq) + BrOH(aq)"
+  ],
+  "y": [
+   "Acid + base &rarr; water + salt: H<sup>+</sup> and OH<sup>&minus;</sup> form H<sub>2</sub>O; K<sup>+</sup> and Br<sup>&minus;</sup> form KBr, which is soluble.",
+   "KBr is soluble (Group 1), so it stays (aq).",
+   "Neutralization makes water, not hydrogen gas.",
+   "This pairs the cation K<sup>+</sup> with the cation H<sup>+</sup>. Swap partners: each cation takes the other anion."
+  ],
+  "h": "Acid + base &rarr; water + salt. Then check the salt's solubility.",
+  "w": "<b>HBr(aq) + KOH(aq) &rarr; H<sub>2</sub>O(l) + KBr(aq)</b>",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c7-044",
+  "t": "ch07-acidgas",
+  "q": "Sulfuric acid is neutralized by lithium hydroxide: H<sub>2</sub>SO<sub>4</sub>(aq) + 2 LiOH(aq) &rarr; 2 H<sub>2</sub>O(l) + Li<sub>2</sub>SO<sub>4</sub>(aq). What is the net ionic equation?",
+  "c": [
+   "H<sup>+</sup>(aq) + OH<sup>&minus;</sup>(aq) &rarr; H<sub>2</sub>O(l)",
+   "2 H<sup>+</sup>(aq) + 2 OH<sup>&minus;</sup>(aq) &rarr; 2 H<sub>2</sub>O(l)",
+   "H<sub>2</sub>SO<sub>4</sub>(aq) + 2 OH<sup>&minus;</sup>(aq) &rarr; 2 H<sub>2</sub>O(l) + SO<sub>4</sub><sup>2&minus;</sup>(aq)",
+   "2 Li<sup>+</sup>(aq) + SO<sub>4</sub><sup>2&minus;</sup>(aq) &rarr; Li<sub>2</sub>SO<sub>4</sub>(s)"
+  ],
+  "y": [
+   "After cancelling 2 Li<sup>+</sup> and SO<sub>4</sub><sup>2&minus;</sup>, you get 2 H<sup>+</sup> + 2 OH<sup>&minus;</sup> &rarr; 2 H<sub>2</sub>O; divide by 2.",
+   "Correct species, but the coefficients share a factor of 2. Reduce the net ionic equation.",
+   "H<sub>2</sub>SO<sub>4</sub> is a strong acid, so in an ionic equation it is split into 2 H<sup>+</sup> and SO<sub>4</sub><sup>2&minus;</sup>.",
+   "Li<sub>2</sub>SO<sub>4</sub> is soluble (Group 1), so Li<sup>+</sup> and SO<sub>4</sub><sup>2&minus;</sup> are spectators."
+  ],
+  "h": "Split the strong acid and the soluble base and salt, cancel spectators, then reduce.",
+  "w": "<b>H<sup>+</sup>(aq) + OH<sup>&minus;</sup>(aq) &rarr; H<sub>2</sub>O(l)</b>, the same for every strong acid + strong base.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-045",
+  "t": "ch07-acidgas",
+  "q": "Milk of magnesia is a suspension of solid magnesium hydroxide that neutralizes stomach acid (HCl). What is the net ionic equation?",
+  "c": [
+   "Mg(OH)<sub>2</sub>(s) + 2 H<sup>+</sup>(aq) &rarr; Mg<sup>2+</sup>(aq) + 2 H<sub>2</sub>O(l)",
+   "H<sup>+</sup>(aq) + OH<sup>&minus;</sup>(aq) &rarr; H<sub>2</sub>O(l)",
+   "Mg(OH)<sub>2</sub>(s) + 2 HCl(aq) &rarr; MgCl<sub>2</sub>(aq) + 2 H<sub>2</sub>O(l)",
+   "Mg(OH)<sub>2</sub>(s) + H<sup>+</sup>(aq) &rarr; Mg<sup>2+</sup>(aq) + H<sub>2</sub>O(l)"
+  ],
+  "y": [
+   "Mg(OH)<sub>2</sub> is insoluble, so it stays together as a solid; HCl and MgCl<sub>2</sub> are split, and Cl<sup>&minus;</sup> cancels. Charge: +2 = +2.",
+   "This splits the solid hydroxide into ions. An insoluble base is written as its formula with (s).",
+   "This is the molecular equation; HCl and MgCl<sub>2</sub> are strong electrolytes and are split, leaving Cl<sup>&minus;</sup> as a spectator.",
+   "Two OH<sup>&minus;</sup> need two H<sup>+</sup>; here H, O, and charge do not balance."
+  ],
+  "h": "Hydroxides are insoluble except with Group 1 and NH<sub>4</sub><sup>+</sup>. Keep the solid together.",
+  "w": "Complete ionic: Mg(OH)<sub>2</sub>(s) + 2 H<sup>+</sup> + 2 Cl<sup>&minus;</sup> &rarr; Mg<sup>2+</sup> + 2 Cl<sup>&minus;</sup> + 2 H<sub>2</sub>O. Net: <b>Mg(OH)<sub>2</sub>(s) + 2 H<sup>+</sup>(aq) &rarr; Mg<sup>2+</sup>(aq) + 2 H<sub>2</sub>O(l)</b>. (Context only.)",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c7-046",
+  "t": "ch07-acidgas",
+  "q": "Vinegar (acetic acid, a weak acid) reacts with sodium hydroxide solution. What is the net ionic equation?",
+  "c": [
+   "HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>(aq) + OH<sup>&minus;</sup>(aq) &rarr; H<sub>2</sub>O(l) + C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>&minus;</sup>(aq)",
+   "H<sup>+</sup>(aq) + OH<sup>&minus;</sup>(aq) &rarr; H<sub>2</sub>O(l)",
+   "Na<sup>+</sup>(aq) + C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>&minus;</sup>(aq) &rarr; NaC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>(s)",
+   "HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>(aq) + NaOH(aq) &rarr; H<sub>2</sub>O(l) + NaC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>(aq)"
+  ],
+  "y": [
+   "A weak acid is a weak electrolyte, so it stays together as HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub> in ionic equations. Only Na<sup>+</sup> cancels.",
+   "This splits acetic acid into ions as if it were a strong acid. It is not on the strong-acid list.",
+   "Sodium acetate is soluble (Group 1, acetate), so it does not precipitate.",
+   "This is the molecular equation. In an ionic equation, NaOH and NaC<sub>2</sub>H<sub>3</sub>O<sub>2</sub> are split and Na<sup>+</sup> cancels."
+  ],
+  "h": "Split only strong electrolytes. Is acetic acid a strong acid?",
+  "w": "Complete ionic: HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub> + Na<sup>+</sup> + OH<sup>&minus;</sup> &rarr; H<sub>2</sub>O + Na<sup>+</sup> + C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>&minus;</sup>. Net: <b>HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>(aq) + OH<sup>&minus;</sup>(aq) &rarr; H<sub>2</sub>O(l) + C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>&minus;</sup>(aq)</b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c7-047",
+  "t": "ch07-acidgas",
+  "q": "After swapping partners for potassium carbonate + nitric acid, a student writes carbonic acid, H<sub>2</sub>CO<sub>3</sub>(aq), as a product. What should it be replaced with?",
+  "c": [
+   "CO<sub>2</sub>(g) + H<sub>2</sub>O(l)",
+   "CO(g) + H<sub>2</sub>O<sub>2</sub>(l)",
+   "H<sub>2</sub>(g) + CO<sub>3</sub>(g)",
+   "Nothing; H<sub>2</sub>CO<sub>3</sub>(aq) is the final product."
+  ],
+  "y": [
+   "Carbonic acid is unstable and falls apart into carbon dioxide gas and water: the fizz.",
+   "Atoms add up, but carbonic acid breaks into CO<sub>2</sub> and H<sub>2</sub>O, not carbon monoxide and peroxide.",
+   "CO<sub>3</sub> is the carbonate ion, not a gas; carbonic acid does not release H<sub>2</sub>.",
+   "H<sub>2</sub>CO<sub>3</sub> is one of the three products that should never be a final answer."
+  ],
+  "h": "Which three \"products\" must always be rewritten as a gas plus water?",
+  "w": "H<sub>2</sub>CO<sub>3</sub> &rarr; <b>CO<sub>2</sub>(g) + H<sub>2</sub>O(l)</b>: K<sub>2</sub>CO<sub>3</sub>(aq) + 2 HNO<sub>3</sub>(aq) &rarr; 2 KNO<sub>3</sub>(aq) + H<sub>2</sub>O(l) + CO<sub>2</sub>(g).",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c7-048",
+  "t": "ch07-acidgas",
+  "q": "Sodium bisulfite (NaHSO<sub>3</sub>) is a preservative in dried fruit such as golden raisins and apricots. When it reacts with hydrochloric acid, which gas is released?",
+  "c": [
+   "SO<sub>2</sub>",
+   "H<sub>2</sub>S",
+   "SO<sub>3</sub>",
+   "H<sub>2</sub>"
+  ],
+  "y": [
+   "Swapping gives NaCl and H<sub>2</sub>SO<sub>3</sub>; sulfurous acid is unstable and breaks into SO<sub>2</sub>(g) and H<sub>2</sub>O.",
+   "H<sub>2</sub>S comes from an acid + a sulfide (S<sup>2&minus;</sup>). Bisulfite contains HSO<sub>3</sub><sup>&minus;</sup>.",
+   "Sulfurous acid breaks into SO<sub>2</sub> and water; it does not make SO<sub>3</sub>.",
+   "Hydrogen gas comes from a metal + an acid, not from a double displacement."
+  ],
+  "h": "Swap partners and look for one of the unstable products.",
+  "w": "NaHSO<sub>3</sub>(aq) + HCl(aq) &rarr; NaCl(aq) + H<sub>2</sub>O(l) + SO<sub>2</sub>(g): the gas is <b>sulfur dioxide, SO<sub>2</sub></b>, the sharp smell of the preservative.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-049",
+  "t": "ch07-acidgas",
+  "q": "Spreading an ammonium fertilizer together with a strong base wastes nitrogen as ammonia gas. Which equation correctly shows ammonium sulfate reacting with potassium hydroxide?",
+  "c": [
+   "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(aq) + 2 KOH(aq) &rarr; K<sub>2</sub>SO<sub>4</sub>(aq) + 2 H<sub>2</sub>O(l) + 2 NH<sub>3</sub>(g)",
+   "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(aq) + 2 KOH(aq) &rarr; K<sub>2</sub>SO<sub>4</sub>(aq) + 2 NH<sub>4</sub>OH(aq)",
+   "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(aq) + KOH(aq) &rarr; K<sub>2</sub>SO<sub>4</sub>(aq) + H<sub>2</sub>O(l) + NH<sub>3</sub>(g)",
+   "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(aq) + 2 KOH(aq) &rarr; K<sub>2</sub>SO<sub>4</sub>(s) + 2 H<sub>2</sub>O(l) + 2 NH<sub>3</sub>(g)"
+  ],
+  "y": [
+   "Swapping gives K<sub>2</sub>SO<sub>4</sub> and NH<sub>4</sub>OH; NH<sub>4</sub>OH becomes NH<sub>3</sub>(g) + H<sub>2</sub>O(l). N 2 = 2, K 2 = 2, H 10 = 4 + 6.",
+   "NH<sub>4</sub>OH is unstable and must be rewritten as NH<sub>3</sub>(g) + H<sub>2</sub>O(l).",
+   "The products are right, but K, N, and H do not balance: 2 K on the right needs 2 KOH.",
+   "K<sub>2</sub>SO<sub>4</sub> is soluble (Group 1), so it stays (aq)."
+  ],
+  "h": "Swap, replace NH<sub>4</sub>OH, then balance.",
+  "w": "<b>(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(aq) + 2 KOH(aq) &rarr; K<sub>2</sub>SO<sub>4</sub>(aq) + 2 H<sub>2</sub>O(l) + 2 NH<sub>3</sub>(g)</b>",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-050",
+  "t": "ch07-acidgas",
+  "q": "Solid iron(II) sulfide reacts with hydrochloric acid and gives off a rotten-egg smell. Which is the balanced equation?",
+  "c": [
+   "FeS(s) + 2 HCl(aq) &rarr; FeCl<sub>2</sub>(aq) + H<sub>2</sub>S(g)",
+   "FeS(s) + 2 HCl(aq) &rarr; FeCl<sub>2</sub>(aq) + H<sub>2</sub>O(l) + SO<sub>2</sub>(g)",
+   "FeS(s) + 2 HCl(aq) &rarr; FeCl<sub>2</sub>(aq) + H<sub>2</sub>(g) + S(s)",
+   "FeS(s) + 2 HCl(aq) &rarr; FeCl<sub>2</sub>(s) + H<sub>2</sub>S(g)"
+  ],
+  "y": [
+   "Acid + sulfide: H<sup>+</sup> pairs with S<sup>2&minus;</sup> as H<sub>2</sub>S, already a gas (the rotten-egg smell). FeCl<sub>2</sub> is soluble.",
+   "SO<sub>2</sub> comes from sulfites (SO<sub>3</sub><sup>2&minus;</sup>). There is no oxygen in FeS or HCl, so O cannot balance.",
+   "Balanced, but this is a double displacement: the partners swap and H<sub>2</sub>S forms; no element is released.",
+   "FeCl<sub>2</sub> is soluble (Fe<sup>2+</sup> is not a chloride exception), so it is (aq)."
+  ],
+  "h": "Swap partners: Fe<sup>2+</sup> with Cl<sup>&minus;</sup>, H<sup>+</sup> with S<sup>2&minus;</sup>.",
+  "w": "<b>FeS(s) + 2 HCl(aq) &rarr; FeCl<sub>2</sub>(aq) + H<sub>2</sub>S(g)</b>",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c7-051",
+  "t": "ch07-acidgas",
+  "q": "Which of these solutions gives <b>no reaction</b> when it is mixed with nitric acid, HNO<sub>3</sub>(aq)?",
+  "c": [
+   "KCl",
+   "KOH",
+   "K<sub>2</sub>CO<sub>3</sub>",
+   "K<sub>2</sub>SO<sub>3</sub>"
+  ],
+  "y": [
+   "Swapping gives HCl and KNO<sub>3</sub>: a strong acid and a soluble salt, both fully ionized. No precipitate, water, or gas forms.",
+   "An acid and a base make water: a neutralization.",
+   "Acid + carbonate makes H<sub>2</sub>CO<sub>3</sub>, which releases CO<sub>2</sub> gas.",
+   "Acid + sulfite makes H<sub>2</sub>SO<sub>3</sub>, which releases SO<sub>2</sub> gas."
+  ],
+  "h": "A double displacement needs a precipitate, water, or a gas.",
+  "w": "<b>KCl</b>: HNO<sub>3</sub>(aq) + KCl(aq) would give only HCl(aq) and KNO<sub>3</sub>(aq), so all four ions are spectators and there is no reaction.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-052",
+  "t": "ch07-redox",
+  "q": "In Mg(s) + Cl<sub>2</sub>(g) &rarr; MgCl<sub>2</sub>(s), what happens to magnesium?",
+  "c": [
+   "It loses 2 electrons and is oxidized.",
+   "It gains 2 electrons and is reduced.",
+   "It loses 2 electrons and is reduced.",
+   "It gains 2 electrons and is oxidized."
+  ],
+  "y": [
+   "Mg goes from 0 (element) to +2 (in MgCl<sub>2</sub>): loss of electrons is oxidation (LEO).",
+   "Magnesium is a metal; it gives electrons to chlorine, which is the one that gains.",
+   "Losing electrons is oxidation, not reduction (OIL RIG).",
+   "Gaining electrons is reduction, and Mg does not gain electrons here."
+  ],
+  "h": "Track Mg's oxidation number: element (0) to Mg<sup>2+</sup>.",
+  "w": "Mg: 0 &rarr; +2, so it <b>loses 2 electrons and is oxidized</b>; each Cl: 0 &rarr; &minus;1, reduced.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c7-053",
+  "t": "ch07-redox",
+  "q": "Ground-level ozone, O<sub>3</sub>, is a Valley air pollutant. What is the oxidation number of oxygen in O<sub>3</sub>?",
+  "c": [
+   "0",
+   "&minus;2",
+   "&minus;6",
+   "+2"
+  ],
+  "y": [
+   "Rule 1: an atom in a pure element has oxidation number 0. Ozone contains only oxygen.",
+   "&minus;2 is oxygen's value in compounds. Rule 1 (elements are 0) comes first.",
+   "&minus;6 is 3 &times; (&minus;2), but the sum for a neutral element must be 0, and each O is 0.",
+   "There is no other element here for O to be positive against."
+  ],
+  "h": "Is O<sub>3</sub> an element or a compound?",
+  "w": "O<sub>3</sub> is a form of the element oxygen, so each O is <b>0</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c7-054",
+  "t": "ch07-redox",
+  "q": "Nitrate, NO<sub>3</sub><sup>&minus;</sup>, is a fertilizer ion that can reach well water. What is the oxidation number of nitrogen in NO<sub>3</sub><sup>&minus;</sup>?",
+  "c": [
+   "+5",
+   "+6",
+   "+7",
+   "&minus;1"
+  ],
+  "y": [
+   "N + 3(&minus;2) = &minus;1 (the ion's charge), so N = +5.",
+   "+6 makes the sum 0. A polyatomic ion's oxidation numbers add to its charge, &minus;1.",
+   "+7 uses +1 as the total, reversing the sign of the charge.",
+   "&minus;1 is the charge of the whole ion, not of nitrogen."
+  ],
+  "h": "O is &minus;2; the sum must equal the ion's charge.",
+  "w": "N + 3(&minus;2) = &minus;1 &rarr; N = <b>+5</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-055",
+  "t": "ch07-redox",
+  "q": "What is the oxidation number of chromium in potassium chromate, K<sub>2</sub>CrO<sub>4</sub>?",
+  "c": [
+   "+6",
+   "+8",
+   "+7",
+   "&minus;2"
+  ],
+  "y": [
+   "2(+1) + Cr + 4(&minus;2) = 0, so Cr = +6.",
+   "This leaves out the two K atoms: Cr &minus; 8 = 0.",
+   "This counts only one K: 1 + Cr &minus; 8 = 0.",
+   "&minus;2 is the charge of the chromate ion, not of chromium."
+  ],
+  "h": "K (Group 1) is +1 and there are two; O is &minus;2 and there are four.",
+  "w": "2(+1) + Cr + 4(&minus;2) = 0 &rarr; Cr = <b>+6</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-056",
+  "t": "ch07-redox",
+  "q": "What is the oxidation number of oxygen in oxygen difluoride, OF<sub>2</sub>?",
+  "c": [
+   "+2",
+   "&minus;2",
+   "&minus;1",
+   "0"
+  ],
+  "y": [
+   "Rule 4 (F is &minus;1) comes before rule 6 (O is &minus;2). With F at &minus;1 each, O + 2(&minus;1) = 0, so O = +2.",
+   "Oxygen is usually &minus;2, but the fluorine rule comes earlier and wins; then the sum rule sets O.",
+   "&minus;1 is fluorine's value, not oxygen's.",
+   "0 is for an element. OF<sub>2</sub> is a compound."
+  ],
+  "h": "Apply the rules in order. Which comes first: fluorine or oxygen?",
+  "w": "F = &minus;1 (rule 4, before oxygen's rule); O + 2(&minus;1) = 0 &rarr; O = <b>+2</b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c7-057",
+  "t": "ch07-redox",
+  "q": "In Ni(s) + 2 Ag<sup>+</sup>(aq) &rarr; Ni<sup>2+</sup>(aq) + 2 Ag(s), which reactant is oxidized?",
+  "c": [
+   "Ni",
+   "Ag<sup>+</sup>",
+   "Ni<sup>2+</sup>",
+   "Ag"
+  ],
+  "y": [
+   "Ni goes from 0 to +2: it loses electrons, so it is oxidized.",
+   "Ag<sup>+</sup> goes from +1 to 0: it gains an electron, so it is reduced.",
+   "Ni<sup>2+</sup> is the product formed when Ni is oxidized, not the reactant that was oxidized.",
+   "Ag is the product formed when Ag<sup>+</sup> is reduced."
+  ],
+  "h": "Which reactant's oxidation number increases?",
+  "w": "Ni: 0 &rarr; +2 (oxidized); Ag: +1 &rarr; 0 (reduced). <b>Ni</b> is oxidized.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-058",
+  "t": "ch07-redox",
+  "q": "The thermite reaction welds railroad rails: 2 Al(s) + Fe<sub>2</sub>O<sub>3</sub>(s) &rarr; Al<sub>2</sub>O<sub>3</sub>(s) + 2 Fe(s). What is the oxidizing agent?",
+  "c": [
+   "Fe<sub>2</sub>O<sub>3</sub>",
+   "Al",
+   "Al<sub>2</sub>O<sub>3</sub>",
+   "Fe"
+  ],
+  "y": [
+   "Fe goes from +3 (in Fe<sub>2</sub>O<sub>3</sub>) to 0: Fe is reduced, so Fe<sub>2</sub>O<sub>3</sub>, the reactant that contains it, is the oxidizing agent.",
+   "Al goes from 0 to +3: it is oxidized, so Al is the reducing agent. The agents are swapped.",
+   "Al<sub>2</sub>O<sub>3</sub> is a product. The agents are reactants.",
+   "Fe is a product."
+  ],
+  "h": "The oxidizing agent is the reactant that contains the element that is reduced.",
+  "w": "Al: 0 &rarr; +3 (oxidized; reducing agent). Fe: +3 &rarr; 0 (reduced). Oxidizing agent: <b>Fe<sub>2</sub>O<sub>3</sub></b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-059",
+  "t": "ch07-redox",
+  "q": "A welding torch burns acetylene: 2 C<sub>2</sub>H<sub>2</sub>(g) + 5 O<sub>2</sub>(g) &rarr; 4 CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(g). What is the reducing agent?",
+  "c": [
+   "C<sub>2</sub>H<sub>2</sub>",
+   "O<sub>2</sub>",
+   "CO<sub>2</sub>",
+   "H<sub>2</sub>O"
+  ],
+  "y": [
+   "C goes from &minus;1 (in C<sub>2</sub>H<sub>2</sub>, with H at +1) to +4 (in CO<sub>2</sub>): C is oxidized, so C<sub>2</sub>H<sub>2</sub> is the reducing agent.",
+   "O goes from 0 to &minus;2: oxygen is reduced, so O<sub>2</sub> is the oxidizing agent.",
+   "CO<sub>2</sub> is a product; agents are reactants.",
+   "H<sub>2</sub>O is a product; agents are reactants."
+  ],
+  "h": "Which reactant contains the element whose oxidation number goes up?",
+  "w": "C: &minus;1 &rarr; +4 (oxidized); O: 0 &rarr; &minus;2 (reduced); H stays +1. Reducing agent: <b>C<sub>2</sub>H<sub>2</sub></b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-060",
+  "t": "ch07-redox",
+  "q": "How many electrons are transferred in 2 Al(s) + 3 Sn<sup>2+</sup>(aq) &rarr; 2 Al<sup>3+</sup>(aq) + 3 Sn(s) as written?",
+  "c": [
+   "6",
+   "3",
+   "2",
+   "12"
+  ],
+  "y": [
+   "2 Al each lose 3 electrons = 6 lost; 3 Sn<sup>2+</sup> each gain 2 = 6 gained. Lost = gained = 6.",
+   "3 is the number lost by one Al atom. There are two Al atoms.",
+   "2 is the number gained by one Sn<sup>2+</sup> ion. There are three.",
+   "This adds the electrons lost and gained. They are the same 6 electrons, counted once."
+  ],
+  "h": "Electrons transferred = electrons lost = electrons gained.",
+  "w": "2 Al &rarr; 2 Al<sup>3+</sup> + 6 e<sup>&minus;</sup>; 3 Sn<sup>2+</sup> + 6 e<sup>&minus;</sup> &rarr; 3 Sn. <b>6</b> electrons.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-061",
+  "t": "ch07-redox",
+  "q": "Stainless-steel implants resist corrosion because the chromium in the steel forms a thin protective layer. Where chromium is oxidized, it forms Cr<sup>3+</sup>. Which is the oxidation half-reaction?",
+  "c": [
+   "Cr(s) &rarr; Cr<sup>3+</sup>(aq) + 3 e<sup>&minus;</sup>",
+   "Cr(s) + 3 e<sup>&minus;</sup> &rarr; Cr<sup>3+</sup>(aq)",
+   "Cr<sup>3+</sup>(aq) + 3 e<sup>&minus;</sup> &rarr; Cr(s)",
+   "Cr(s) &rarr; Cr<sup>3+</sup>(aq) + e<sup>&minus;</sup>"
+  ],
+  "y": [
+   "Oxidation is loss of electrons, so the electrons are products. Charge: 0 = +3 + 3(&minus;1).",
+   "The electrons are on the wrong side, and the charge does not balance (&minus;3 vs +3).",
+   "This is the reverse: a reduction half-reaction.",
+   "Cr<sup>3+</sup> means three electrons were lost; with one, the charge does not balance."
+  ],
+  "h": "Oxidation: electrons on the right. Balance the charge with electrons.",
+  "w": "<b>Cr(s) &rarr; Cr<sup>3+</sup>(aq) + 3 e<sup>&minus;</sup></b>",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-062",
+  "t": "ch07-redox",
+  "q": "Use the half-reactions Al(s) &rarr; Al<sup>3+</sup>(aq) + 3 e<sup>&minus;</sup> and Ag<sup>+</sup>(aq) + e<sup>&minus;</sup> &rarr; Ag(s). What is the balanced net equation?",
+  "c": [
+   "Al(s) + 3 Ag<sup>+</sup>(aq) &rarr; Al<sup>3+</sup>(aq) + 3 Ag(s)",
+   "Al(s) + Ag<sup>+</sup>(aq) &rarr; Al<sup>3+</sup>(aq) + Ag(s)",
+   "Al(s) + 3 Ag<sup>+</sup>(aq) + 3 e<sup>&minus;</sup> &rarr; Al<sup>3+</sup>(aq) + 3 Ag(s)",
+   "3 Al(s) + Ag<sup>+</sup>(aq) &rarr; 3 Al<sup>3+</sup>(aq) + Ag(s)"
+  ],
+  "y": [
+   "Multiply the silver half-reaction by 3 so 3 electrons are lost and 3 gained, then add and cancel the electrons. Charge: +3 = +3.",
+   "Atoms balance, but charge does not: +1 on the left, +3 on the right.",
+   "The electrons were not cancelled. After adding, the 3 e<sup>&minus;</sup> on each side cancel.",
+   "The wrong half-reaction was multiplied: 3 Al would lose 9 electrons, and one Ag<sup>+</sup> gains only 1."
+  ],
+  "h": "Make electrons lost = electrons gained, then add and cancel the electrons.",
+  "w": "Al &rarr; Al<sup>3+</sup> + 3 e<sup>&minus;</sup>; 3 Ag<sup>+</sup> + 3 e<sup>&minus;</sup> &rarr; 3 Ag. Sum: <b>Al(s) + 3 Ag<sup>+</sup>(aq) &rarr; Al<sup>3+</sup>(aq) + 3 Ag(s)</b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c7-063",
+  "t": "ch07-redox",
+  "q": "Which reaction is <b>not</b> a redox reaction?",
+  "c": [
+   "BaCl<sub>2</sub>(aq) + K<sub>2</sub>SO<sub>4</sub>(aq) &rarr; BaSO<sub>4</sub>(s) + 2 KCl(aq)",
+   "2 Cu(s) + O<sub>2</sub>(g) &rarr; 2 CuO(s)",
+   "Fe(s) + NiSO<sub>4</sub>(aq) &rarr; FeSO<sub>4</sub>(aq) + Ni(s)",
+   "N<sub>2</sub>(g) + 3 H<sub>2</sub>(g) &rarr; 2 NH<sub>3</sub>(g)"
+  ],
+  "y": [
+   "A double displacement: Ba stays +2, Cl &minus;1, K +1, and S +6 on both sides. No oxidation number changes.",
+   "Cu goes from 0 to +2 and O from 0 to &minus;2 (copper darkening as it oxidizes in air): redox.",
+   "Fe goes from 0 to +2 and Ni from +2 to 0: a single displacement, which is redox.",
+   "N goes from 0 to &minus;3 and H from 0 to +1: a combination of elements is redox."
+  ],
+  "h": "Look for a free element on one side that is part of a compound on the other.",
+  "w": "Only <b>BaCl<sub>2</sub> + K<sub>2</sub>SO<sub>4</sub> &rarr; BaSO<sub>4</sub> + 2 KCl</b> keeps every oxidation number; double displacement is never redox.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-064",
+  "t": "ch07-activity",
+  "q": "Copper(II) sulfate solution is sprayed on Valley orchards as a fungicide, and it corrodes iron sprayer tanks. Activity series (most active first): Mg, Al, Zn, Fe, Ni, Sn, Pb, H<sub>2</sub>, Cu, Ag. Does iron react with copper(II) sulfate solution?",
+  "c": [
+   "Yes: Fe(s) + CuSO<sub>4</sub>(aq) &rarr; FeSO<sub>4</sub>(aq) + Cu(s)",
+   "No reaction, because iron is below copper in the series.",
+   "Yes: Fe(s) + CuSO<sub>4</sub>(aq) &rarr; FeSO<sub>4</sub>(s) + Cu(s)",
+   "Yes: Cu(s) + FeSO<sub>4</sub>(aq) &rarr; CuSO<sub>4</sub>(aq) + Fe(s)"
+  ],
+  "y": [
+   "Fe is above Cu, so Fe displaces Cu<sup>2+</sup>: iron is oxidized to Fe<sup>2+</sup> and copper metal plates out.",
+   "This reads the list upside down. Iron is above copper (more active).",
+   "FeSO<sub>4</sub> is soluble (sulfate, and Fe<sup>2+</sup> is not an exception), so it is (aq).",
+   "This is the reverse reaction. The free metal here is iron, not copper."
+  ],
+  "h": "Is the free metal (Fe) above the metal in the compound (Cu)?",
+  "w": "Fe is above Cu: <b>Fe(s) + CuSO<sub>4</sub>(aq) &rarr; FeSO<sub>4</sub>(aq) + Cu(s)</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c7-065",
+  "t": "ch07-activity",
+  "q": "Activity series (most active first): Mg, Al, Zn, Fe, Ni, Sn, Pb, H<sub>2</sub>, Cu, Ag, Au. Which metal will <b>not</b> react with hydrochloric acid?",
+  "c": [
+   "Cu",
+   "Zn",
+   "Mg",
+   "Sn"
+  ],
+  "y": [
+   "Copper is below H<sub>2</sub>, so it cannot displace H<sup>+</sup> from the acid.",
+   "Zinc is above H<sub>2</sub>, so it reacts with HCl and releases H<sub>2</sub> gas.",
+   "Magnesium is above H<sub>2</sub> and reacts quickly with acids.",
+   "Tin is above H<sub>2</sub> (just barely), so it reacts slowly with HCl."
+  ],
+  "h": "Metals above H<sub>2</sub> release hydrogen from acids.",
+  "w": "<b>Cu</b> is below H<sub>2</sub>: no reaction with HCl.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c7-066",
+  "t": "ch07-activity",
+  "q": "Activity series (most active first): Zn, Fe, Ni, Sn, Pb, H<sub>2</sub>, Cu, Ag, Au. Which metal could recover lead from a solution of lead(II) nitrate?",
+  "c": [
+   "Zn",
+   "Cu",
+   "Ag",
+   "Au"
+  ],
+  "y": [
+   "Zinc is above lead, so it displaces Pb<sup>2+</sup>: Zn(s) + Pb(NO<sub>3</sub>)<sub>2</sub>(aq) &rarr; Zn(NO<sub>3</sub>)<sub>2</sub>(aq) + Pb(s).",
+   "Copper is below lead, so it cannot displace Pb<sup>2+</sup>.",
+   "Silver is below lead.",
+   "Gold is at the bottom of the list; it displaces nothing."
+  ],
+  "h": "The free metal must be above the metal in the ion.",
+  "w": "Only <b>Zn</b> is above Pb on the list.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-067",
+  "t": "ch07-activity",
+  "q": "Activity series (most active first): Mg, Al, Zn, Fe, Ni, Sn, Pb. Does lead metal react with zinc chloride solution?",
+  "c": [
+   "No reaction: lead is below zinc.",
+   "Yes: Pb(s) + ZnCl<sub>2</sub>(aq) &rarr; PbCl<sub>2</sub>(s) + Zn(s)",
+   "Yes: Pb(s) + ZnCl<sub>2</sub>(aq) &rarr; PbCl<sub>2</sub>(aq) + Zn(s)",
+   "Yes: Pb(s) + 2 ZnCl<sub>2</sub>(aq) &rarr; PbCl<sub>4</sub>(aq) + 2 Zn(s)"
+  ],
+  "y": [
+   "The free metal (Pb) is below the metal in the compound (Zn), so it cannot displace Zn<sup>2+</sup>.",
+   "This compares the metals the wrong way. Lead is below zinc, so no products form.",
+   "Lead is below zinc, so no reaction occurs (and PbCl<sub>2</sub> would be insoluble anyway).",
+   "Lead is below zinc, so there is no reaction; lead also forms Pb<sup>2+</sup>, not Pb<sup>4+</sup>, in this chapter."
+  ],
+  "h": "Compare the free metal with the metal in the compound, not with the anion.",
+  "w": "Pb is below Zn: <b>no reaction</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-068",
+  "t": "ch07-activity",
+  "q": "Activity series (most active first): Mg, Al, Zn, Fe, Ni, Sn, Pb, H<sub>2</sub>, Cu. Which equation correctly shows aluminum reacting with hydrochloric acid?",
+  "c": [
+   "2 Al(s) + 6 HCl(aq) &rarr; 2 AlCl<sub>3</sub>(aq) + 3 H<sub>2</sub>(g)",
+   "Al(s) + 3 HCl(aq) &rarr; AlCl<sub>3</sub>(aq) + 3 H(g)",
+   "Al(s) + 2 HCl(aq) &rarr; AlCl<sub>2</sub>(aq) + H<sub>2</sub>(g)",
+   "4 Al(s) + 12 HCl(aq) &rarr; 4 AlCl<sub>3</sub>(aq) + 6 H<sub>2</sub>(g)"
+  ],
+  "y": [
+   "Al is above H<sub>2</sub>. Al<sup>3+</sup> needs 3 Cl<sup>&minus;</sup>: AlCl<sub>3</sub>. H: 6 = 3 &times; 2; and 2, 6, 2, 3 share no factor.",
+   "Hydrogen gas is diatomic, H<sub>2</sub>, not H.",
+   "Aluminum forms Al<sup>3+</sup>, so its chloride is AlCl<sub>3</sub>.",
+   "Balanced, but every coefficient shares a factor of 2."
+  ],
+  "h": "Metal + acid &rarr; salt + H<sub>2</sub>(g). Write the salt from charges, then balance.",
+  "w": "<b>2 Al(s) + 6 HCl(aq) &rarr; 2 AlCl<sub>3</sub>(aq) + 3 H<sub>2</sub>(g)</b>",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-069",
+  "t": "ch07-activity",
+  "q": "Activity series (most active first): Mg, Al, Zn, Fe, Ni, Sn, Pb, H<sub>2</sub>, Cu. A metal reacts with nickel(II) nitrate solution but not with zinc nitrate solution. Which metal could it be?",
+  "c": [
+   "Fe",
+   "Mg",
+   "Sn",
+   "Cu"
+  ],
+  "y": [
+   "Fe is above Ni (so it displaces Ni<sup>2+</sup>) but below Zn (so it cannot displace Zn<sup>2+</sup>).",
+   "Mg is above Zn, so it would react with zinc nitrate too.",
+   "Sn is below Ni, so it would not react with nickel(II) nitrate.",
+   "Cu is below both Ni and Zn; it reacts with neither."
+  ],
+  "h": "The metal must sit between Zn and Ni on the list.",
+  "w": "Between Zn and Ni there is only <b>Fe</b>.",
+  "d": 3,
+  "k": 0
+ },
+ {
+  "id": "c7-070",
+  "t": "ch07-activity",
+  "q": "Galvanized steel irrigation pipe is coated with zinc, which corrodes in place of the iron. Activity series (most active first): Mg, Al, Zn, Fe, Ni. Which net ionic equation shows zinc reacting with Fe<sup>2+</sup> ions?",
+  "c": [
+   "Zn(s) + Fe<sup>2+</sup>(aq) &rarr; Zn<sup>2+</sup>(aq) + Fe(s)",
+   "Fe(s) + Zn<sup>2+</sup>(aq) &rarr; Fe<sup>2+</sup>(aq) + Zn(s)",
+   "Zn(s) + 2 Fe<sup>2+</sup>(aq) &rarr; Zn<sup>2+</sup>(aq) + 2 Fe(s)",
+   "Zn(s) + Fe<sup>2+</sup>(aq) &rarr; Zn<sup>2+</sup>(aq) + Fe(s) + 2 e<sup>&minus;</sup>"
+  ],
+  "y": [
+   "Zn is above Fe, so Zn is oxidized to Zn<sup>2+</sup> and Fe<sup>2+</sup> is reduced to Fe. 2 electrons lost = 2 gained; charge +2 = +2.",
+   "This is the reverse. Iron is below zinc, so it cannot displace Zn<sup>2+</sup>.",
+   "Charge does not balance: +4 on the left, +2 on the right. One Zn gives 2 electrons, enough for one Fe<sup>2+</sup>.",
+   "Electrons cancel in a net equation; here the charge does not balance (+2 vs 0)."
+  ],
+  "h": "Higher metal is oxidized; the lower metal's ion is reduced. Check charge.",
+  "w": "<b>Zn(s) + Fe<sup>2+</sup>(aq) &rarr; Zn<sup>2+</sup>(aq) + Fe(s)</b>",
+  "d": 3,
+  "k": 0
+ }
+]
