@@ -1,6 +1,6 @@
 # CHEM 3A — Science and answer-key audit (2026-11-17)
 
-Book: *Introductory Chemistry Atoms First for FCC — Revision Draft* (Workbench `DTvJm7TcCY`). Snapshot audited: `Full (19).pdf` (exported 2026-11-17, 1,478 pp.; active book = pp. 14–850) plus repo `drafts/`, `bank/` at `686c024`. Fixes are on branch `audit/2026-11-17-release-gate` (commits `9596f45`, next). **Nothing has been written to LibreTexts or ADAPT yet.**
+Book: *Introductory Chemistry Atoms First for FCC — Revision Draft* (Workbench `DTvJm7TcCY`). Snapshot audited: `Full (19).pdf` (exported 2026-11-17, 1,478 pp.; active book = pp. 14–850) plus repo `drafts/`, `bank/` at `686c024`. Fixes are on branch `audit/2026-11-17-release-gate` (commits `9596f45`–`a7685da`). **Nothing has been written to LibreTexts or ADAPT yet.**
 
 ## Method and honest coverage
 

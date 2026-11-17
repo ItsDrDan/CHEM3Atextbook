@@ -9,9 +9,9 @@
 | Commit | What |
 |---|---|
 | `9596f45` | Science and answer-key fixes from the 14-chapter review (25 draft pages, 9 bank files, 7 generator scripts) + new original figure `figures/ch01/accuracy_targets.svg/.png` + `tools/fig_targets_ch01.py` |
-| next | Ch 8 Experiment 8a title matches the Fall 2026 manual and Ch 10 |
-| next | `backmatter/` glossary (350 terms) and index (425 entries) data, `build_backmatter.py` → `glossary_page.html`, `index_tags.json`; audit tools (`tools/pdftext.swift`, `render.swift`, `sheet.swift`, `linkcheck.py`, `apply_repl.py`); reviewer findings in `audit/findings/` |
-| next | The seven `audit/CHEM3A-*.md` reports |
+| `1152916` | Ch 8 Experiment 8a title matches the Fall 2026 manual and Ch 10 |
+| `791ca86` | `backmatter/` glossary (350 terms) and index (425 entries) data, `build_backmatter.py` → `glossary_page.html`, `index_tags.json`; audit tools (`tools/pdftext.swift`, `render.swift`, `sheet.swift`, `linkcheck.py`, `apply_repl.py`); reviewer findings in `audit/findings/` |
+| `a7685da` | The seven `audit/CHEM3A-*.md` reports |
 
 ## Regression checks run after the edits
 
