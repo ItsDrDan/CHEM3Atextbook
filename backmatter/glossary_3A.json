@@ -1,0 +1,3131 @@
+[
+ {
+  "term": "chemistry",
+  "synonyms": [],
+  "definition": "The study of matter and the changes it undergoes.",
+  "section": "1.1",
+  "source_file": "drafts/ch01/1.1_scientific_method.html",
+  "going_further": false
+ },
+ {
+  "term": "scientific method",
+  "synonyms": [],
+  "definition": "The cycle of observing, asking a question, forming a hypothesis, experimenting and analyzing that scientists use to learn about nature.",
+  "section": "1.1",
+  "source_file": "drafts/ch01/1.1_scientific_method.html",
+  "going_further": false
+ },
+ {
+  "term": "qualitative observation",
+  "synonyms": [],
+  "definition": "An observation that describes a quality in words, not numbers, such as \"the solution turned pink.\"",
+  "section": "1.1",
+  "source_file": "drafts/ch01/1.1_scientific_method.html",
+  "going_further": false
+ },
+ {
+  "term": "quantitative observation",
+  "synonyms": [],
+  "definition": "An observation that is a measurement: a number with a unit, such as \"the volume is 25.0 mL.\"",
+  "section": "1.1",
+  "source_file": "drafts/ch01/1.1_scientific_method.html",
+  "going_further": false
+ },
+ {
+  "term": "hypothesis",
+  "synonyms": [],
+  "definition": "A tentative, testable explanation of an observation. A good hypothesis is falsifiable: an experiment could show it is wrong.",
+  "section": "1.1",
+  "source_file": "drafts/ch01/1.1_scientific_method.html",
+  "going_further": false
+ },
+ {
+  "term": "scientific law",
+  "synonyms": [
+   "law"
+  ],
+  "definition": "A short statement, often an equation, that describes what always happens. A law says what happens; it does not explain why.",
+  "section": "1.1",
+  "source_file": "drafts/ch01/1.1_scientific_method.html",
+  "going_further": false
+ },
+ {
+  "term": "scientific theory",
+  "synonyms": [
+   "theory"
+  ],
+  "definition": "A well-tested explanation of why nature behaves the way it does, such as the atomic theory.",
+  "section": "1.1",
+  "source_file": "drafts/ch01/1.1_scientific_method.html",
+  "going_further": false
+ },
+ {
+  "term": "law of conservation of mass",
+  "synonyms": [
+   "conservation of mass"
+  ],
+  "definition": "Mass is neither created nor destroyed in a chemical reaction: atoms are only rearranged, so the total mass of the products equals the total mass of the reactants.",
+  "section": "1.1",
+  "source_file": "drafts/ch01/1.1_scientific_method.html",
+  "going_further": false
+ },
+ {
+  "term": "scientific notation",
+  "synonyms": [],
+  "definition": "A way of writing a number as N × 10<sup>n</sup>, where N is at least 1 but less than 10 and n is a positive or negative integer.",
+  "section": "1.2.1",
+  "source_file": "inherited: LibreTexts 1.2.1 Scientific Notation (not in drafts)",
+  "going_further": false
+ },
+ {
+  "term": "SI units",
+  "synonyms": [
+   "International System of Units",
+   "SI base units"
+  ],
+  "definition": "The international system of measurement based on the metric system; its base units include the meter, kilogram, second, kelvin and mole.",
+  "section": "1.2.2",
+  "source_file": "inherited: LibreTexts 1.2.2 The Basic Units of Measurement (not in drafts)",
+  "going_further": false
+ },
+ {
+  "term": "metric prefix",
+  "synonyms": [
+   "prefix multiplier"
+  ],
+  "definition": "A prefix such as kilo- (1000), centi- (1/100), milli- (1/1000) or micro- (1/1,000,000) that changes the size of a metric unit by a power of ten.",
+  "section": "1.2.2",
+  "source_file": "inherited: LibreTexts 1.2.2 The Basic Units of Measurement (not in drafts)",
+  "going_further": false
+ },
+ {
+  "term": "significant figures",
+  "synonyms": [
+   "sig figs",
+   "significant digits"
+  ],
+  "definition": "All the certain digits in a measurement plus one estimated digit. Nonzero and middle zeros count, leading zeros never count, and trailing zeros count only when a decimal point is shown (2500 has 2; 2500. has 4).",
+  "section": "1.3.1",
+  "source_file": "inherited: LibreTexts 1.3.1 Significant Figures (not in drafts)",
+  "going_further": false
+ },
+ {
+  "term": "trailing zeros",
+  "synonyms": [],
+  "definition": "Zeros after all the nonzero digits. Without a decimal point they are not significant (500 has 1 significant figure); with a decimal point they are (500. has 3; 620.0 has 4).",
+  "section": "1.3.1",
+  "source_file": "inherited: LibreTexts 1.3.1 Significant Figures (not in drafts)",
+  "going_further": false
+ },
+ {
+  "term": "exact number",
+  "synonyms": [],
+  "definition": "A number that is counted or defined (12 eggs; 1 kg = 1000 g) rather than measured; it has unlimited significant figures and never limits a calculated answer.",
+  "section": "1.3.1",
+  "source_file": "inherited: LibreTexts 1.3.1 Significant Figures (not in drafts)",
+  "going_further": false
+ },
+ {
+  "term": "accuracy",
+  "synonyms": [
+   "accurate"
+  ],
+  "definition": "How close a measured value is to the true value.",
+  "section": "1.3.1",
+  "source_file": "inherited: LibreTexts 1.3.1 Significant Figures (not in drafts)",
+  "going_further": false
+ },
+ {
+  "term": "precision",
+  "synonyms": [
+   "precise"
+  ],
+  "definition": "How close repeated measurements are to one another (how reproducible they are).",
+  "section": "1.3.1",
+  "source_file": "inherited: LibreTexts 1.3.1 Significant Figures (not in drafts)",
+  "going_further": false
+ },
+ {
+  "term": "conversion factor",
+  "synonyms": [],
+  "definition": "A ratio, equal to 1, that relates two units (such as 100 cm / 1 m) and is used to change a quantity from one unit to another.",
+  "section": "1.4.1",
+  "source_file": "inherited: LibreTexts 1.4.1 Problem Solving and Unit Conversions (not in drafts)",
+  "going_further": false
+ },
+ {
+  "term": "dimensional analysis",
+  "synonyms": [
+   "factor-label method"
+  ],
+  "definition": "Solving a problem by multiplying the given quantity by conversion factors arranged so the unwanted units cancel and the desired unit remains.",
+  "section": "1.4.1",
+  "source_file": "inherited: LibreTexts 1.4.1 Problem Solving and Unit Conversions (not in drafts)",
+  "going_further": false
+ },
+ {
+  "term": "matter",
+  "synonyms": [],
+  "definition": "Anything that has mass and takes up space. Light, heat and sound are forms of energy, not matter.",
+  "section": "1.5",
+  "source_file": "drafts/ch01/1.5_classifying_matter.html",
+  "going_further": false
+ },
+ {
+  "term": "atom",
+  "synonyms": [],
+  "definition": "The smallest particle of an element that still has the properties of that element.",
+  "section": "1.5",
+  "source_file": "drafts/ch01/1.5_classifying_matter.html",
+  "going_further": false
+ },
+ {
+  "term": "molecule",
+  "synonyms": [],
+  "definition": "Two or more atoms bonded together as a unit, such as O<sub>2</sub> or H<sub>2</sub>O.",
+  "section": "1.5",
+  "source_file": "drafts/ch01/1.5_classifying_matter.html",
+  "going_further": false
+ },
+ {
+  "term": "formula unit",
+  "synonyms": [],
+  "definition": "The smallest repeating ratio of ions in an ionic compound, such as one Na<sup>+</sup> and one Cl<sup>−</sup> in NaCl. Ionic compounds are not made of molecules.",
+  "section": "1.5",
+  "source_file": "drafts/ch01/1.5_classifying_matter.html",
+  "going_further": false
+ },
+ {
+  "term": "chemical formula",
+  "synonyms": [
+   "formula"
+  ],
+  "definition": "A code that lists the elements in a substance, with subscripts that count the atoms of each, such as H<sub>2</sub>O.",
+  "section": "1.5",
+  "source_file": "drafts/ch01/1.5_classifying_matter.html",
+  "going_further": false
+ },
+ {
+  "term": "diatomic molecule",
+  "synonyms": [
+   "diatomic",
+   "diatomic seven"
+  ],
+  "definition": "A two-atom molecule. Seven elements exist as diatomic molecules when uncombined: H<sub>2</sub>, N<sub>2</sub>, O<sub>2</sub>, F<sub>2</sub>, Cl<sub>2</sub>, Br<sub>2</sub> and I<sub>2</sub>.",
+  "section": "1.5",
+  "source_file": "drafts/ch01/1.5_classifying_matter.html",
+  "going_further": false
+ },
+ {
+  "term": "pure substance",
+  "synonyms": [
+   "substance"
+  ],
+  "definition": "Matter with a fixed composition in which every particle is the same; it is either an element or a compound.",
+  "section": "1.5",
+  "source_file": "drafts/ch01/1.5_classifying_matter.html",
+  "going_further": false
+ },
+ {
+  "term": "element",
+  "synonyms": [],
+  "definition": "A pure substance that contains only one kind of atom and cannot be broken down into simpler substances by a chemical change.",
+  "section": "1.5",
+  "source_file": "drafts/ch01/1.5_classifying_matter.html",
+  "going_further": false
+ },
+ {
+  "term": "compound",
+  "synonyms": [],
+  "definition": "A pure substance made of two or more elements chemically bonded in a fixed ratio; it can be broken down into its elements only by a chemical change.",
+  "section": "1.5",
+  "source_file": "drafts/ch01/1.5_classifying_matter.html",
+  "going_further": false
+ },
+ {
+  "term": "mixture",
+  "synonyms": [],
+  "definition": "Two or more substances physically combined, not bonded. Its composition can vary and it can be separated by physical means.",
+  "section": "1.5",
+  "source_file": "drafts/ch01/1.5_classifying_matter.html",
+  "going_further": false
+ },
+ {
+  "term": "homogeneous mixture",
+  "synonyms": [],
+  "definition": "A mixture that is uniform throughout, such as saline or air; also called a solution.",
+  "section": "1.5",
+  "source_file": "drafts/ch01/1.5_classifying_matter.html",
+  "going_further": false
+ },
+ {
+  "term": "heterogeneous mixture",
+  "synonyms": [],
+  "definition": "A mixture that is not uniform, with regions you (or a microscope) can tell apart, such as salad dressing or whole blood.",
+  "section": "1.5",
+  "source_file": "drafts/ch01/1.5_classifying_matter.html",
+  "going_further": false
+ },
+ {
+  "term": "states of matter",
+  "synonyms": [
+   "phases",
+   "physical states"
+  ],
+  "definition": "The three common forms of matter: solid, liquid and gas.",
+  "section": "1.6",
+  "source_file": "drafts/ch01/1.6_states_of_matter.html",
+  "going_further": false
+ },
+ {
+  "term": "solid",
+  "synonyms": [],
+  "definition": "A state of matter with a definite shape and a definite volume; its particles are closely packed and touching.",
+  "section": "1.6",
+  "source_file": "drafts/ch01/1.6_states_of_matter.html",
+  "going_further": false
+ },
+ {
+  "term": "liquid",
+  "synonyms": [],
+  "definition": "A state of matter with a definite volume but no definite shape; its particles touch but can slide past one another, so it flows.",
+  "section": "1.6",
+  "source_file": "drafts/ch01/1.6_states_of_matter.html",
+  "going_further": false
+ },
+ {
+  "term": "gas",
+  "synonyms": [],
+  "definition": "A state of matter with no definite shape or volume; its particles are far apart and fast, so a gas fills its container and is easy to compress.",
+  "section": "1.6",
+  "source_file": "drafts/ch01/1.6_states_of_matter.html",
+  "going_further": false
+ },
+ {
+  "term": "electric charge",
+  "synonyms": [
+   "charge"
+  ],
+  "definition": "A property of matter that causes pushes and pulls between particles. It is positive or negative: like charges repel and opposite charges attract.",
+  "section": "1.7",
+  "source_file": "drafts/ch01/1.7_electric_charge.html",
+  "going_further": false
+ },
+ {
+  "term": "physical property",
+  "synonyms": [],
+  "definition": "A property that can be observed or measured without changing the identity of the substance, such as color, melting point or density.",
+  "section": "1.8",
+  "source_file": "drafts/ch01/1.8_properties_and_changes.html",
+  "going_further": false
+ },
+ {
+  "term": "chemical property",
+  "synonyms": [],
+  "definition": "A property that describes how a substance changes into a different substance, such as flammability; it is observed only by trying the change.",
+  "section": "1.8",
+  "source_file": "drafts/ch01/1.8_properties_and_changes.html",
+  "going_further": false
+ },
+ {
+  "term": "extensive property",
+  "synonyms": [],
+  "definition": "A property that depends on how much of the sample you have, such as mass or volume.",
+  "section": "1.8",
+  "source_file": "drafts/ch01/1.8_properties_and_changes.html",
+  "going_further": false
+ },
+ {
+  "term": "intensive property",
+  "synonyms": [],
+  "definition": "A property that is the same for any amount of the substance, such as color, boiling point or density.",
+  "section": "1.8",
+  "source_file": "drafts/ch01/1.8_properties_and_changes.html",
+  "going_further": false
+ },
+ {
+  "term": "physical change",
+  "synonyms": [],
+  "definition": "A change in form or appearance in which the particles stay the same, such as cutting, dissolving or any change of state.",
+  "section": "1.8",
+  "source_file": "drafts/ch01/1.8_properties_and_changes.html",
+  "going_further": false
+ },
+ {
+  "term": "chemical change",
+  "synonyms": [
+   "chemical reaction"
+  ],
+  "definition": "A change that turns one or more substances into new substances with different compositions and properties; atoms are rearranged, old bonds break and new bonds form.",
+  "section": "1.8",
+  "source_file": "drafts/ch01/1.8_properties_and_changes.html",
+  "going_further": false
+ },
+ {
+  "term": "precipitate",
+  "synonyms": [],
+  "definition": "A solid that forms when two solutions are mixed.",
+  "section": "1.8",
+  "source_file": "drafts/ch01/1.8_properties_and_changes.html",
+  "going_further": false
+ },
+ {
+  "term": "density",
+  "synonyms": [],
+  "definition": "The mass of a substance divided by its volume (d = m/V), often in g/mL or g/cm<sup>3</sup>. It is an intensive property and can be used as a conversion factor between mass and volume.",
+  "section": "1.9",
+  "source_file": "drafts/ch01/1.9_density.html",
+  "going_further": false
+ },
+ {
+  "term": "Dalton's atomic theory",
+  "synonyms": [
+   "atomic theory"
+  ],
+  "definition": "The theory that elements are made of atoms, atoms of one element are alike, atoms combine in simple whole-number ratios, and atoms are rearranged (not created or destroyed) in reactions.",
+  "section": "2.1",
+  "source_file": "drafts/ch02/2.1_atomic_theory.html",
+  "going_further": false
+ },
+ {
+  "term": "law of definite proportions",
+  "synonyms": [
+   "law of constant composition"
+  ],
+  "definition": "A compound always contains the same elements in the same proportions by mass, whatever its source.",
+  "section": "2.1",
+  "source_file": "drafts/ch02/2.1_atomic_theory.html",
+  "going_further": false
+ },
+ {
+  "term": "electron",
+  "synonyms": [],
+  "definition": "A negatively charged subatomic particle (charge 1−, mass about 0 amu) found outside the nucleus; electrons are what atoms gain, lose or share in reactions.",
+  "section": "2.1",
+  "source_file": "drafts/ch02/2.1_atomic_theory.html",
+  "going_further": false
+ },
+ {
+  "term": "nucleus",
+  "synonyms": [
+   "atomic nucleus"
+  ],
+  "definition": "The tiny, dense center of an atom that holds all of its positive charge (protons) and almost all of its mass (protons and neutrons).",
+  "section": "2.1",
+  "source_file": "drafts/ch02/2.1_atomic_theory.html",
+  "going_further": false
+ },
+ {
+  "term": "proton",
+  "synonyms": [],
+  "definition": "A subatomic particle in the nucleus with a 1+ charge and a mass of about 1 amu. The number of protons identifies the element.",
+  "section": "2.2",
+  "source_file": "drafts/ch02/2.2_subatomic_particles.html",
+  "going_further": false
+ },
+ {
+  "term": "neutron",
+  "synonyms": [],
+  "definition": "A subatomic particle in the nucleus with no charge and a mass of about 1 amu.",
+  "section": "2.2",
+  "source_file": "drafts/ch02/2.2_subatomic_particles.html",
+  "going_further": false
+ },
+ {
+  "term": "atomic mass unit",
+  "synonyms": [
+   "amu"
+  ],
+  "definition": "A unit for the masses of atoms, defined as one-twelfth of the mass of a carbon-12 atom (1 amu = 1.6605 × 10<sup>−24</sup> g).",
+  "section": "2.2",
+  "source_file": "drafts/ch02/2.2_subatomic_particles.html",
+  "going_further": false
+ },
+ {
+  "term": "atomic number",
+  "synonyms": [
+   "Z"
+  ],
+  "definition": "The number of protons in an atom's nucleus (symbol Z). It defines the element; in a neutral atom it also equals the number of electrons.",
+  "section": "2.2",
+  "source_file": "drafts/ch02/2.2_subatomic_particles.html",
+  "going_further": false
+ },
+ {
+  "term": "group",
+  "synonyms": [
+   "family"
+  ],
+  "definition": "A vertical column of the periodic table, numbered 1 to 18. Elements in a group have similar chemical properties.",
+  "section": "2.3",
+  "source_file": "drafts/ch02/2.3_periodic_table.html",
+  "going_further": false
+ },
+ {
+  "term": "period",
+  "synonyms": [],
+  "definition": "A horizontal row of the periodic table, numbered 1 to 7.",
+  "section": "2.3",
+  "source_file": "drafts/ch02/2.3_periodic_table.html",
+  "going_further": false
+ },
+ {
+  "term": "main-group elements",
+  "synonyms": [
+   "representative elements"
+  ],
+  "definition": "The elements in groups 1, 2 and 13–18, whose behavior is predictable from their position.",
+  "section": "2.3",
+  "source_file": "drafts/ch02/2.3_periodic_table.html",
+  "going_further": false
+ },
+ {
+  "term": "transition metals",
+  "synonyms": [],
+  "definition": "The elements in groups 3–12, in the middle of the periodic table.",
+  "section": "2.3",
+  "source_file": "drafts/ch02/2.3_periodic_table.html",
+  "going_further": false
+ },
+ {
+  "term": "metal",
+  "synonyms": [],
+  "definition": "An element to the left of the staircase line that is shiny, conducts heat and electricity, and is malleable and ductile; metals tend to lose electrons and form cations.",
+  "section": "2.3",
+  "source_file": "drafts/ch02/2.3_periodic_table.html",
+  "going_further": false
+ },
+ {
+  "term": "nonmetal",
+  "synonyms": [],
+  "definition": "An element in the upper right of the periodic table (plus hydrogen) that is dull and brittle as a solid and conducts poorly; nonmetals tend to gain electrons.",
+  "section": "2.3",
+  "source_file": "drafts/ch02/2.3_periodic_table.html",
+  "going_further": false
+ },
+ {
+  "term": "metalloid",
+  "synonyms": [
+   "semimetal"
+  ],
+  "definition": "An element along the staircase line (B, Si, Ge, As, Sb, Te and usually At) with properties between those of metals and nonmetals.",
+  "section": "2.3",
+  "source_file": "drafts/ch02/2.3_periodic_table.html",
+  "going_further": false
+ },
+ {
+  "term": "alkali metals",
+  "synonyms": [],
+  "definition": "The group 1 metals (Li, Na, K, Rb, Cs): soft, very reactive metals that react with water. Hydrogen sits in group 1 but is not an alkali metal.",
+  "section": "2.3",
+  "source_file": "drafts/ch02/2.3_periodic_table.html",
+  "going_further": false
+ },
+ {
+  "term": "alkaline earth metals",
+  "synonyms": [],
+  "definition": "The group 2 metals (Be, Mg, Ca, Sr, Ba): reactive metals that form 2+ ions.",
+  "section": "2.3",
+  "source_file": "drafts/ch02/2.3_periodic_table.html",
+  "going_further": false
+ },
+ {
+  "term": "halogens",
+  "synonyms": [],
+  "definition": "The group 17 elements (F, Cl, Br, I): very reactive nonmetals that exist as diatomic molecules.",
+  "section": "2.3",
+  "source_file": "drafts/ch02/2.3_periodic_table.html",
+  "going_further": false
+ },
+ {
+  "term": "noble gases",
+  "synonyms": [],
+  "definition": "The group 18 elements (He, Ne, Ar, Kr, Xe): very unreactive gases that exist as single atoms because their valence shells are full.",
+  "section": "2.3",
+  "source_file": "drafts/ch02/2.3_periodic_table.html",
+  "going_further": false
+ },
+ {
+  "term": "ion",
+  "synonyms": [],
+  "definition": "An atom or group of atoms with an overall electric charge because its numbers of protons and electrons are not equal. Only electrons are gained or lost.",
+  "section": "2.4",
+  "source_file": "drafts/ch02/2.4_ions.html",
+  "going_further": false
+ },
+ {
+  "term": "cation",
+  "synonyms": [],
+  "definition": "A positive ion, formed when an atom loses electrons. Metals usually form cations.",
+  "section": "2.4",
+  "source_file": "drafts/ch02/2.4_ions.html",
+  "going_further": false
+ },
+ {
+  "term": "anion",
+  "synonyms": [],
+  "definition": "A negative ion, formed when an atom gains electrons. Nonmetals usually form anions.",
+  "section": "2.4",
+  "source_file": "drafts/ch02/2.4_ions.html",
+  "going_further": false
+ },
+ {
+  "term": "mass number",
+  "synonyms": [
+   "A"
+  ],
+  "definition": "The total number of protons and neutrons in an atom's nucleus (symbol A).",
+  "section": "2.5",
+  "source_file": "drafts/ch02/2.5_isotopes.html",
+  "going_further": false
+ },
+ {
+  "term": "isotopes",
+  "synonyms": [
+   "isotope"
+  ],
+  "definition": "Atoms of the same element (same atomic number) with different numbers of neutrons, and so different mass numbers, such as chlorine-35 and chlorine-37.",
+  "section": "2.5",
+  "source_file": "drafts/ch02/2.5_isotopes.html",
+  "going_further": false
+ },
+ {
+  "term": "isotope symbol",
+  "synonyms": [
+   "nuclide symbol",
+   "nuclear symbol"
+  ],
+  "definition": "A symbol that shows the mass number as a superscript and the atomic number as a subscript to the left of the element symbol, as in <sup>37</sup><sub>17</sub>Cl; also written chlorine-37 or Cl-37.",
+  "section": "2.5",
+  "source_file": "drafts/ch02/2.5_isotopes.html",
+  "going_further": false
+ },
+ {
+  "term": "average atomic mass",
+  "synonyms": [
+   "atomic mass"
+  ],
+  "definition": "The weighted average of the masses of an element's isotopes, using their natural percent abundances; it is the mass shown on the periodic table.",
+  "section": "2.6",
+  "source_file": "drafts/ch02/2.6_atomic_mass.html",
+  "going_further": false
+ },
+ {
+  "term": "percent abundance",
+  "synonyms": [
+   "natural abundance",
+   "fractional abundance"
+  ],
+  "definition": "The percentage of an element's atoms in nature that are a given isotope; dividing by 100 gives the fractional abundance.",
+  "section": "2.6",
+  "source_file": "drafts/ch02/2.6_atomic_mass.html",
+  "going_further": false
+ },
+ {
+  "term": "electromagnetic radiation",
+  "synonyms": [
+   "light"
+  ],
+  "definition": "Energy that travels as a wave of electric and magnetic fields, including radio waves, visible light, X-rays and gamma rays.",
+  "section": "3.1",
+  "source_file": "drafts/ch03/3.1_light.html",
+  "going_further": false
+ },
+ {
+  "term": "wavelength",
+  "synonyms": [
+   "λ"
+  ],
+  "definition": "The distance from one wave peak to the next (symbol λ). Visible light has wavelengths of about 400 to 700 nm.",
+  "section": "3.1",
+  "source_file": "drafts/ch03/3.1_light.html",
+  "going_further": false
+ },
+ {
+  "term": "frequency",
+  "synonyms": [
+   "ν"
+  ],
+  "definition": "The number of wave peaks that pass a point each second (symbol ν), in hertz (Hz = s<sup>−1</sup>). Wavelength and frequency are inversely related.",
+  "section": "3.1",
+  "source_file": "drafts/ch03/3.1_light.html",
+  "going_further": false
+ },
+ {
+  "term": "speed of light",
+  "synonyms": [
+   "c"
+  ],
+  "definition": "The speed at which all electromagnetic radiation travels in a vacuum, c = 3.00 × 10<sup>8</sup> m s<sup>−1</sup>; c = λν.",
+  "section": "3.1",
+  "source_file": "drafts/ch03/3.1_light.html",
+  "going_further": false
+ },
+ {
+  "term": "photon",
+  "synonyms": [],
+  "definition": "A tiny packet of light energy. Its energy depends only on its frequency (E = hν), so shorter wavelengths carry more energy per photon.",
+  "section": "3.1",
+  "source_file": "drafts/ch03/3.1_light.html",
+  "going_further": false
+ },
+ {
+  "term": "electromagnetic spectrum",
+  "synonyms": [],
+  "definition": "The full range of electromagnetic radiation, from long-wavelength, low-energy radio waves to short-wavelength, high-energy gamma rays; visible light is a narrow band.",
+  "section": "3.1",
+  "source_file": "drafts/ch03/3.1_light.html",
+  "going_further": false
+ },
+ {
+  "term": "ionizing radiation",
+  "synonyms": [],
+  "definition": "Radiation with enough energy to knock electrons off atoms and molecules, making ions; it includes X-rays, gamma rays and alpha and beta particles.",
+  "section": "2.1",
+  "source_file": "drafts/ch02/2.1_atomic_theory.html",
+  "going_further": false
+ },
+ {
+  "term": "line spectrum",
+  "synonyms": [
+   "emission spectrum"
+  ],
+  "definition": "The pattern of separate bright lines of specific wavelengths given off by a glowing gas; each element has its own line spectrum.",
+  "section": "3.2",
+  "source_file": "drafts/ch03/3.2_bohr_model.html",
+  "going_further": false
+ },
+ {
+  "term": "Bohr model",
+  "synonyms": [],
+  "definition": "Niels Bohr's model of hydrogen, in which the electron moves only in certain allowed energy levels and gives off or absorbs a photon when it jumps between them.",
+  "section": "3.2",
+  "source_file": "drafts/ch03/3.2_bohr_model.html",
+  "going_further": false
+ },
+ {
+  "term": "energy level",
+  "synonyms": [],
+  "definition": "One of the allowed energies an electron can have in an atom, numbered n = 1, 2, 3 and so on; an electron can be in one level or another but never in between.",
+  "section": "3.2",
+  "source_file": "drafts/ch03/3.2_bohr_model.html",
+  "going_further": false
+ },
+ {
+  "term": "ground state",
+  "synonyms": [],
+  "definition": "The lowest-energy arrangement of an atom's electrons.",
+  "section": "3.2",
+  "source_file": "drafts/ch03/3.2_bohr_model.html",
+  "going_further": false
+ },
+ {
+  "term": "excited state",
+  "synonyms": [],
+  "definition": "An arrangement in which an electron has absorbed energy and moved to a higher energy level; when it drops back, it emits a photon.",
+  "section": "3.2",
+  "source_file": "drafts/ch03/3.2_bohr_model.html",
+  "going_further": false
+ },
+ {
+  "term": "shell",
+  "synonyms": [
+   "principal energy level"
+  ],
+  "definition": "A main energy level of an atom, numbered n = 1, 2, 3 ...; higher n means electrons farther from the nucleus and higher in energy.",
+  "section": "3.3",
+  "source_file": "drafts/ch03/3.3_orbitals.html",
+  "going_further": false
+ },
+ {
+  "term": "subshell",
+  "synonyms": [
+   "sublevel"
+  ],
+  "definition": "A group of orbitals within a shell, labeled s, p, d or f. Shell n has n kinds of subshells.",
+  "section": "3.3",
+  "source_file": "drafts/ch03/3.3_orbitals.html",
+  "going_further": false
+ },
+ {
+  "term": "orbital",
+  "synonyms": [],
+  "definition": "A region of space where an electron is most likely to be found. Each orbital holds at most 2 electrons; an s subshell has 1 orbital, p has 3, d has 5 and f has 7.",
+  "section": "3.3",
+  "source_file": "drafts/ch03/3.3_orbitals.html",
+  "going_further": false
+ },
+ {
+  "term": "Aufbau principle",
+  "synonyms": [],
+  "definition": "Electrons fill the lowest-energy orbitals first; for example, 4s fills before 3d.",
+  "section": "3.3",
+  "source_file": "drafts/ch03/3.3_orbitals.html",
+  "going_further": false
+ },
+ {
+  "term": "Pauli exclusion principle",
+  "synonyms": [],
+  "definition": "An orbital holds at most two electrons, and if it holds two they must have opposite spins (↑↓).",
+  "section": "3.3",
+  "source_file": "drafts/ch03/3.3_orbitals.html",
+  "going_further": false
+ },
+ {
+  "term": "Hund's rule",
+  "synonyms": [],
+  "definition": "When filling orbitals of equal energy, put one electron in each orbital, all with the same spin, before pairing any of them.",
+  "section": "3.3",
+  "source_file": "drafts/ch03/3.3_orbitals.html",
+  "going_further": false
+ },
+ {
+  "term": "orbital diagram",
+  "synonyms": [],
+  "definition": "A diagram that shows each orbital as a box or line and each electron as an arrow.",
+  "section": "3.3",
+  "source_file": "drafts/ch03/3.3_orbitals.html",
+  "going_further": false
+ },
+ {
+  "term": "electron configuration",
+  "synonyms": [],
+  "definition": "A one-line list of the occupied subshells, each with a superscript for its number of electrons, such as 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>3</sup> for nitrogen.",
+  "section": "3.4",
+  "source_file": "drafts/ch03/3.4_electron_configurations.html",
+  "going_further": false
+ },
+ {
+  "term": "noble-gas configuration",
+  "synonyms": [
+   "shorthand configuration",
+   "abbreviated configuration"
+  ],
+  "definition": "An electron configuration that replaces the inner electrons with the symbol of the previous noble gas in brackets, such as [Ne] 3s<sup>2</sup> 3p<sup>3</sup> for phosphorus.",
+  "section": "3.4",
+  "source_file": "drafts/ch03/3.4_electron_configurations.html",
+  "going_further": false
+ },
+ {
+  "term": "core electrons",
+  "synonyms": [
+   "inner electrons"
+  ],
+  "definition": "The electrons in an atom that are not valence electrons; in a noble-gas configuration, the electrons represented by the bracket.",
+  "section": "3.4",
+  "source_file": "drafts/ch03/3.4_electron_configurations.html",
+  "going_further": false
+ },
+ {
+  "term": "isoelectronic",
+  "synonyms": [],
+  "definition": "Having the same electron configuration; Na<sup>+</sup> is isoelectronic with neon and Cl<sup>−</sup> with argon.",
+  "section": "3.4",
+  "source_file": "drafts/ch03/3.4_electron_configurations.html",
+  "going_further": false
+ },
+ {
+  "term": "valence electrons",
+  "synonyms": [],
+  "definition": "The electrons in an atom's outermost (highest-numbered) shell, which are gained, lost or shared in reactions. For main-group elements, groups 1–2 have 1–2 and groups 13–18 have (group number − 10), except helium with 2.",
+  "section": "3.5",
+  "source_file": "drafts/ch03/3.5_valence_electrons.html",
+  "going_further": false
+ },
+ {
+  "term": "octet",
+  "synonyms": [],
+  "definition": "A set of eight valence electrons (ns<sup>2</sup> np<sup>6</sup>), the full valence shell of the noble gases other than helium.",
+  "section": "3.5",
+  "source_file": "drafts/ch03/3.5_valence_electrons.html",
+  "going_further": false
+ },
+ {
+  "term": "octet rule",
+  "synonyms": [],
+  "definition": "Main-group atoms tend to gain, lose or share electrons until they have eight valence electrons (two for hydrogen and helium).",
+  "section": "3.5",
+  "source_file": "drafts/ch03/3.5_valence_electrons.html",
+  "going_further": false
+ },
+ {
+  "term": "electron-dot symbol",
+  "synonyms": [
+   "Lewis symbol",
+   "Lewis dot symbol"
+  ],
+  "definition": "An element symbol surrounded by dots that represent its valence electrons.",
+  "section": "3.5",
+  "source_file": "drafts/ch03/3.5_valence_electrons.html",
+  "going_further": false
+ },
+ {
+  "term": "atomic radius",
+  "synonyms": [],
+  "definition": "A measure of an atom's size: half the distance between the nuclei of two identical bonded atoms. It increases down a group and decreases across a period.",
+  "section": "3.6",
+  "source_file": "drafts/ch03/3.6_periodic_trends.html",
+  "going_further": false
+ },
+ {
+  "term": "ionization energy",
+  "synonyms": [],
+  "definition": "The energy needed to remove one electron from a gaseous atom, forming a 1+ ion. It increases across a period and decreases down a group.",
+  "section": "3.6",
+  "source_file": "drafts/ch03/3.6_periodic_trends.html",
+  "going_further": false
+ },
+ {
+  "term": "metallic character",
+  "synonyms": [],
+  "definition": "How readily an element behaves as a metal by losing electrons; it is greatest toward the lower left of the periodic table.",
+  "section": "3.6",
+  "source_file": "drafts/ch03/3.6_periodic_trends.html",
+  "going_further": false
+ },
+ {
+  "term": "subscript",
+  "synonyms": [],
+  "definition": "A small number written low after a symbol that tells how many atoms of that element are in the formula; no subscript means 1. Subscripts are never changed when balancing.",
+  "section": "4.1",
+  "source_file": "drafts/ch04/4.1_formulas_and_types.html",
+  "going_further": false
+ },
+ {
+  "term": "coefficient",
+  "synonyms": [],
+  "definition": "A number in front of a formula that counts whole molecules or formula units (or moles of them).",
+  "section": "4.1",
+  "source_file": "drafts/ch04/4.1_formulas_and_types.html",
+  "going_further": false
+ },
+ {
+  "term": "ionic compound",
+  "synonyms": [],
+  "definition": "A compound made of ions, usually a metal cation (or NH<sub>4</sub><sup>+</sup>) and an anion, held together by ionic bonds in a crystal lattice.",
+  "section": "4.1",
+  "source_file": "drafts/ch04/4.1_formulas_and_types.html",
+  "going_further": false
+ },
+ {
+  "term": "molecular compound",
+  "synonyms": [
+   "covalent compound"
+  ],
+  "definition": "A compound made only of nonmetals whose atoms share electrons in covalent bonds; it exists as separate molecules.",
+  "section": "4.1",
+  "source_file": "drafts/ch04/4.1_formulas_and_types.html",
+  "going_further": false
+ },
+ {
+  "term": "acid",
+  "synonyms": [],
+  "definition": "A compound that releases H<sup>+</sup> ions when dissolved in water; acid formulas usually start with H. Acids taste sour, turn blue litmus red and react with active metals and carbonates.",
+  "section": "4.1",
+  "source_file": "drafts/ch04/4.1_formulas_and_types.html",
+  "going_further": false
+ },
+ {
+  "term": "aqueous",
+  "synonyms": [
+   "(aq)",
+   "aqueous solution"
+  ],
+  "definition": "Dissolved in water, shown by the phase label (aq). A solution with water as the solvent is an aqueous solution.",
+  "section": "4.1",
+  "source_file": "drafts/ch04/4.1_formulas_and_types.html",
+  "going_further": false
+ },
+ {
+  "term": "binary compound",
+  "synonyms": [],
+  "definition": "A compound that contains just two elements, such as NaCl or CO<sub>2</sub>.",
+  "section": "4.2",
+  "source_file": "drafts/ch04/4.2_ionic_formulas.html",
+  "going_further": false
+ },
+ {
+  "term": "polyatomic ion",
+  "synonyms": [],
+  "definition": "A group of atoms bonded together that carries an overall charge and acts as a single unit, such as sulfate, SO<sub>4</sub><sup>2−</sup>.",
+  "section": "4.2",
+  "source_file": "drafts/ch04/4.2_ionic_formulas.html",
+  "going_further": false
+ },
+ {
+  "term": "oxyanion",
+  "synonyms": [],
+  "definition": "A polyatomic anion that contains oxygen. Names follow a pattern from the -ate ion: per-...-ate (one more O), -ite (one fewer O), hypo-...-ite (two fewer O).",
+  "section": "4.2",
+  "source_file": "drafts/ch04/4.2_ionic_formulas.html",
+  "going_further": false
+ },
+ {
+  "term": "fixed-charge metal",
+  "synonyms": [],
+  "definition": "A metal that forms only one ion, so the metal name alone is enough in a compound name (for example, sodium, calcium and aluminum).",
+  "section": "4.3",
+  "source_file": "drafts/ch04/4.3_naming_ionic.html",
+  "going_further": false
+ },
+ {
+  "term": "variable-charge metal",
+  "synonyms": [],
+  "definition": "A metal, usually a transition metal, that can form more than one ion; its charge is shown with a Roman numeral in the name, as in iron(III) oxide.",
+  "section": "4.3",
+  "source_file": "drafts/ch04/4.3_naming_ionic.html",
+  "going_further": false
+ },
+ {
+  "term": "hydrate",
+  "synonyms": [],
+  "definition": "An ionic compound whose crystals hold a fixed number of water molecules, written after a raised dot, such as CuSO<sub>4</sub>·5H<sub>2</sub>O (copper(II) sulfate pentahydrate).",
+  "section": "4.3",
+  "source_file": "drafts/ch04/4.3_naming_ionic.html",
+  "going_further": false
+ },
+ {
+  "term": "anhydrous",
+  "synonyms": [],
+  "definition": "Without water; the compound left after the water is driven off a hydrate.",
+  "section": "4.3",
+  "source_file": "drafts/ch04/4.3_naming_ionic.html",
+  "going_further": false
+ },
+ {
+  "term": "binary acid",
+  "synonyms": [],
+  "definition": "An acid made of hydrogen and one other nonmetal dissolved in water, named hydro- + root + -ic acid, such as hydrochloric acid, HCl(aq).",
+  "section": "4.5",
+  "source_file": "drafts/ch04/4.5_naming_acids.html",
+  "going_further": false
+ },
+ {
+  "term": "oxyacid",
+  "synonyms": [],
+  "definition": "An acid that contains hydrogen, oxygen and another element; an -ate anion gives an -ic acid and an -ite anion gives an -ous acid, with no hydro- prefix.",
+  "section": "4.5",
+  "source_file": "drafts/ch04/4.5_naming_acids.html",
+  "going_further": false
+ },
+ {
+  "term": "mole",
+  "synonyms": [
+   "mol"
+  ],
+  "definition": "The counting unit for particles: 1 mol = 6.0221 × 10<sup>23</sup> particles (atoms, molecules, formula units or ions).",
+  "section": "5.1",
+  "source_file": "drafts/ch05/5.1_the_mole.html",
+  "going_further": false
+ },
+ {
+  "term": "Avogadro's number",
+  "synonyms": [
+   "N<sub>A</sub>",
+   "Avogadro's constant"
+  ],
+  "definition": "The number of particles in one mole, 6.0221 × 10<sup>23</sup>; it converts between moles and particles.",
+  "section": "5.1",
+  "source_file": "drafts/ch05/5.1_the_mole.html",
+  "going_further": false
+ },
+ {
+  "term": "formula mass",
+  "synonyms": [
+   "molecular mass",
+   "formula weight"
+  ],
+  "definition": "The sum of the average atomic masses (in amu) of all the atoms in a formula; called molecular mass for a molecule.",
+  "section": "5.2",
+  "source_file": "drafts/ch05/5.2_molar_mass.html",
+  "going_further": false
+ },
+ {
+  "term": "molar mass",
+  "synonyms": [],
+  "definition": "The mass of one mole of a substance, in g/mol (g mol<sup>−1</sup>). For an element it is the atomic mass on the periodic table; for a compound it is the formula mass in g/mol.",
+  "section": "5.2",
+  "source_file": "drafts/ch05/5.2_molar_mass.html",
+  "going_further": false
+ },
+ {
+  "term": "stoichiometry",
+  "synonyms": [],
+  "definition": "Using the mole ratios in a balanced equation to answer \"how much?\": how much product forms, how much reactant is needed, which reactant runs out and how much heat is released.",
+  "section": "8.1",
+  "source_file": "drafts/ch08/8.0_chapter_intro.html",
+  "going_further": false
+ },
+ {
+  "term": "ionic bond",
+  "synonyms": [],
+  "definition": "The attraction between oppositely charged ions formed when electrons transfer from a metal to a nonmetal.",
+  "section": "6.1",
+  "source_file": "drafts/ch06/6.1_ionic_bonding.html",
+  "going_further": false
+ },
+ {
+  "term": "salt",
+  "synonyms": [],
+  "definition": "An ionic compound made of a cation (other than H<sup>+</sup>) and an anion (other than OH<sup>−</sup> or O<sup>2−</sup>), such as NaCl; salts form when acids neutralize bases.",
+  "section": "6.1",
+  "source_file": "drafts/ch06/6.1_ionic_bonding.html",
+  "going_further": false
+ },
+ {
+  "term": "base",
+  "synonyms": [
+   "alkaline substance"
+  ],
+  "definition": "A substance that releases OH<sup>−</sup> ions in water (in this course, mostly metal hydroxides) or accepts H<sup>+</sup>. Bases taste bitter, feel slippery, turn red litmus blue and turn phenolphthalein pink.",
+  "section": "6.1",
+  "source_file": "drafts/ch06/6.1_ionic_bonding.html",
+  "going_further": false
+ },
+ {
+  "term": "crystal lattice",
+  "synonyms": [
+   "lattice"
+  ],
+  "definition": "A huge, repeating three-dimensional array of particles; in an ionic solid each ion is surrounded by ions of opposite charge.",
+  "section": "6.1",
+  "source_file": "drafts/ch06/6.1_ionic_bonding.html",
+  "going_further": false
+ },
+ {
+  "term": "covalent bond",
+  "synonyms": [],
+  "definition": "A pair of electrons shared between two atoms, usually two nonmetals.",
+  "section": "6.2",
+  "source_file": "drafts/ch06/6.2_covalent_bonds.html",
+  "going_further": false
+ },
+ {
+  "term": "Lewis structure",
+  "synonyms": [
+   "Lewis dot structure",
+   "electron-dot structure"
+  ],
+  "definition": "A drawing of a molecule or polyatomic ion that shows all valence electrons: each shared pair as a line and unshared electrons as pairs of dots.",
+  "section": "6.2",
+  "source_file": "drafts/ch06/6.2_covalent_bonds.html",
+  "going_further": false
+ },
+ {
+  "term": "lone pair",
+  "synonyms": [
+   "nonbonding pair",
+   "unshared pair"
+  ],
+  "definition": "A pair of valence electrons that belongs to one atom only and is not shared in a bond.",
+  "section": "6.2",
+  "source_file": "drafts/ch06/6.2_covalent_bonds.html",
+  "going_further": false
+ },
+ {
+  "term": "double bond",
+  "synonyms": [],
+  "definition": "A covalent bond made of two shared pairs of electrons, as in O=O; it is shorter and stronger than a single bond.",
+  "section": "6.2",
+  "source_file": "drafts/ch06/6.2_covalent_bonds.html",
+  "going_further": false
+ },
+ {
+  "term": "triple bond",
+  "synonyms": [],
+  "definition": "A covalent bond made of three shared pairs of electrons, as in N≡N; it is shorter and stronger than a double bond.",
+  "section": "6.2",
+  "source_file": "drafts/ch06/6.2_covalent_bonds.html",
+  "going_further": false
+ },
+ {
+  "term": "VSEPR theory",
+  "synonyms": [
+   "valence shell electron pair repulsion theory"
+  ],
+  "definition": "The theory that the electron groups around a central atom repel each other and spread out as far apart as possible, which predicts the molecule's shape.",
+  "section": "6.4",
+  "source_file": "drafts/ch06/6.4_vsepr.html",
+  "going_further": false
+ },
+ {
+  "term": "electron group",
+  "synonyms": [
+   "electron domain"
+  ],
+  "definition": "Any region of electrons around a central atom: a single, double or triple bond (each counts as one group) or a lone pair.",
+  "section": "6.4",
+  "source_file": "drafts/ch06/6.4_vsepr.html",
+  "going_further": false
+ },
+ {
+  "term": "electron-group geometry",
+  "synonyms": [
+   "electron geometry"
+  ],
+  "definition": "The arrangement of all electron groups around a central atom: 2 groups linear, 3 trigonal planar, 4 tetrahedral.",
+  "section": "6.4",
+  "source_file": "drafts/ch06/6.4_vsepr.html",
+  "going_further": false
+ },
+ {
+  "term": "molecular geometry",
+  "synonyms": [
+   "molecular shape",
+   "shape"
+  ],
+  "definition": "The arrangement of the atoms only (not lone pairs) around a central atom, such as linear, bent, trigonal planar, trigonal pyramidal or tetrahedral.",
+  "section": "6.4",
+  "source_file": "drafts/ch06/6.4_vsepr.html",
+  "going_further": false
+ },
+ {
+  "term": "linear",
+  "synonyms": [],
+  "definition": "The shape with two electron groups and no lone pairs on the central atom, with a 180° bond angle, as in CO<sub>2</sub>.",
+  "section": "6.4",
+  "source_file": "drafts/ch06/6.4_vsepr.html",
+  "going_further": false
+ },
+ {
+  "term": "trigonal planar",
+  "synonyms": [],
+  "definition": "The flat shape with three electron groups and no lone pairs on the central atom, with 120° bond angles, as in CH<sub>2</sub>O.",
+  "section": "6.4",
+  "source_file": "drafts/ch06/6.4_vsepr.html",
+  "going_further": false
+ },
+ {
+  "term": "tetrahedral",
+  "synonyms": [],
+  "definition": "The shape with four electron groups and no lone pairs on the central atom, with 109.5° bond angles, as in CH<sub>4</sub>.",
+  "section": "6.4",
+  "source_file": "drafts/ch06/6.4_vsepr.html",
+  "going_further": false
+ },
+ {
+  "term": "trigonal pyramidal",
+  "synonyms": [],
+  "definition": "The shape with four electron groups, one of them a lone pair, on the central atom (about 109.5°), as in NH<sub>3</sub>.",
+  "section": "6.4",
+  "source_file": "drafts/ch06/6.4_vsepr.html",
+  "going_further": false
+ },
+ {
+  "term": "bent",
+  "synonyms": [],
+  "definition": "The shape of a molecule with two bonded atoms and one or two lone pairs on the central atom, as in H<sub>2</sub>O (two lone pairs) and SO<sub>2</sub> (one lone pair).",
+  "section": "6.4",
+  "source_file": "drafts/ch06/6.4_vsepr.html",
+  "going_further": false
+ },
+ {
+  "term": "electronegativity",
+  "synonyms": [
+   "EN"
+  ],
+  "definition": "An atom's ability to attract the shared electrons in a bond toward itself (Pauling scale, about 0.7 to 4.0). It increases across a period and decreases down a group.",
+  "section": "6.5",
+  "source_file": "drafts/ch06/6.5_polarity.html",
+  "going_further": false
+ },
+ {
+  "term": "nonpolar covalent bond",
+  "synonyms": [],
+  "definition": "A bond in which electrons are shared (almost) equally: an electronegativity difference of 0 to 0.4, as in H–H or C–H.",
+  "section": "6.5",
+  "source_file": "drafts/ch06/6.5_polarity.html",
+  "going_further": false
+ },
+ {
+  "term": "polar covalent bond",
+  "synonyms": [
+   "polar bond",
+   "bond dipole",
+   "dipole arrow"
+  ],
+  "definition": "A bond in which electrons are shared unequally: an electronegativity difference of more than 0.4 up to 2.0, giving the more electronegative atom a partial negative charge (δ−) and the other a partial positive charge (δ+); shown with a dipole arrow pointing toward the more electronegative atom.",
+  "section": "6.5",
+  "source_file": "drafts/ch06/6.5_polarity.html",
+  "going_further": false
+ },
+ {
+  "term": "polar molecule",
+  "synonyms": [],
+  "definition": "A molecule whose bond dipoles do not cancel, leaving a net dipole; usually asymmetrical, with lone pairs on the central atom or different outer atoms (H<sub>2</sub>O, NH<sub>3</sub>).",
+  "section": "6.5",
+  "source_file": "drafts/ch06/6.5_polarity.html",
+  "going_further": false
+ },
+ {
+  "term": "nonpolar molecule",
+  "synonyms": [],
+  "definition": "A molecule with no net dipole, either because it has no polar bonds or because it is symmetrical so its bond dipoles cancel (CO<sub>2</sub>, CCl<sub>4</sub>).",
+  "section": "6.5",
+  "source_file": "drafts/ch06/6.5_polarity.html",
+  "going_further": false
+ },
+ {
+  "term": "percent composition",
+  "synonyms": [
+   "mass percent of an element"
+  ],
+  "definition": "The percent by mass of each element in a compound.",
+  "section": "6.6",
+  "source_file": "drafts/ch06/6.6_percent_composition.html",
+  "going_further": false
+ },
+ {
+  "term": "empirical formula",
+  "synonyms": [],
+  "definition": "A formula that gives the smallest whole-number ratio of atoms in a compound; glucose, C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>, has the empirical formula CH<sub>2</sub>O.",
+  "section": "6.7",
+  "source_file": "drafts/ch06/6.7_empirical_molecular.html",
+  "going_further": false
+ },
+ {
+  "term": "molecular formula",
+  "synonyms": [],
+  "definition": "A formula that gives the actual number of each kind of atom in one molecule; it is a whole-number multiple of the empirical formula.",
+  "section": "6.7",
+  "source_file": "drafts/ch06/6.7_empirical_molecular.html",
+  "going_further": false
+ },
+ {
+  "term": "resonance structures",
+  "synonyms": [
+   "resonance",
+   "resonance hybrid"
+  ],
+  "definition": "Two or more valid Lewis structures that differ only in where the electrons, not the atoms, are placed; they are drawn with a double-headed arrow between them. The real molecule is one resonance hybrid, a blend of the structures.",
+  "section": "6.11",
+  "source_file": "drafts/ch06/6.11_going_further.html",
+  "going_further": true
+ },
+ {
+  "term": "radical",
+  "synonyms": [
+   "odd-electron molecule",
+   "free radical"
+  ],
+  "definition": "A molecule or fragment with an unpaired electron, such as NO or the hydroxyl radical (·OH); radicals are usually very reactive.",
+  "section": "6.11",
+  "source_file": "drafts/ch06/6.11_going_further.html",
+  "going_further": true
+ },
+ {
+  "term": "chemical equation",
+  "synonyms": [
+   "equation"
+  ],
+  "definition": "A description of a reaction with the reactants on the left, an arrow meaning \"react to form,\" and the products on the right.",
+  "section": "7.1",
+  "source_file": "drafts/ch07/7.1_chemical_equations.html",
+  "going_further": false
+ },
+ {
+  "term": "reactant",
+  "synonyms": [],
+  "definition": "A starting substance in a chemical reaction, written on the left of the arrow.",
+  "section": "7.1",
+  "source_file": "drafts/ch07/7.1_chemical_equations.html",
+  "going_further": false
+ },
+ {
+  "term": "product",
+  "synonyms": [],
+  "definition": "A substance formed in a chemical reaction, written on the right of the arrow.",
+  "section": "7.1",
+  "source_file": "drafts/ch07/7.1_chemical_equations.html",
+  "going_further": false
+ },
+ {
+  "term": "balanced equation",
+  "synonyms": [],
+  "definition": "A chemical equation with the same number of atoms of each element on both sides, as the law of conservation of mass requires; it is balanced by changing coefficients, never subscripts.",
+  "section": "7.1",
+  "source_file": "drafts/ch07/7.1_chemical_equations.html",
+  "going_further": false
+ },
+ {
+  "term": "combination reaction",
+  "synonyms": [
+   "synthesis reaction"
+  ],
+  "definition": "A reaction in which two or more reactants form one product: A + B → AB.",
+  "section": "7.3",
+  "source_file": "drafts/ch07/7.3_reaction_patterns.html",
+  "going_further": false
+ },
+ {
+  "term": "decomposition reaction",
+  "synonyms": [],
+  "definition": "A reaction in which one reactant breaks into two or more simpler substances, AB → A + B, usually with heat, light or electricity.",
+  "section": "7.3",
+  "source_file": "drafts/ch07/7.3_reaction_patterns.html",
+  "going_further": false
+ },
+ {
+  "term": "single-displacement reaction",
+  "synonyms": [
+   "single replacement"
+  ],
+  "definition": "A reaction in which an element replaces one partner in a compound: A + BC → AC + B, such as a metal replacing a metal ion or hydrogen.",
+  "section": "7.3",
+  "source_file": "drafts/ch07/7.3_reaction_patterns.html",
+  "going_further": false
+ },
+ {
+  "term": "double-displacement reaction",
+  "synonyms": [
+   "double replacement"
+  ],
+  "definition": "A reaction in which two ionic compounds swap partners, AB + CD → AD + CB; it happens only if a precipitate, water (or another weak electrolyte) or a gas forms.",
+  "section": "7.3",
+  "source_file": "drafts/ch07/7.3_reaction_patterns.html",
+  "going_further": false
+ },
+ {
+  "term": "combustion",
+  "synonyms": [
+   "combustion reaction"
+  ],
+  "definition": "A rapid reaction of a carbon-based fuel with oxygen that releases heat and light. Complete combustion (enough O<sub>2</sub>) gives CO<sub>2</sub> and H<sub>2</sub>O; incomplete combustion (too little O<sub>2</sub>) also forms carbon monoxide and soot.",
+  "section": "7.3",
+  "source_file": "drafts/ch07/7.3_reaction_patterns.html",
+  "going_further": false
+ },
+ {
+  "term": "electrolyte",
+  "synonyms": [],
+  "definition": "A substance that forms ions in water, so its solution conducts electricity.",
+  "section": "7.4",
+  "source_file": "drafts/ch07/7.4_solubility.html",
+  "going_further": false
+ },
+ {
+  "term": "strong electrolyte",
+  "synonyms": [],
+  "definition": "A substance that breaks apart completely into ions in water: soluble ionic compounds, strong acids and strong bases.",
+  "section": "7.4",
+  "source_file": "drafts/ch07/7.4_solubility.html",
+  "going_further": false
+ },
+ {
+  "term": "weak electrolyte",
+  "synonyms": [],
+  "definition": "A substance that forms only a few ions in water, so most of it stays as molecules, such as acetic acid and ammonia.",
+  "section": "7.4",
+  "source_file": "drafts/ch07/7.4_solubility.html",
+  "going_further": false
+ },
+ {
+  "term": "nonelectrolyte",
+  "synonyms": [],
+  "definition": "A substance that dissolves as whole molecules and forms no ions, such as sugar, ethanol or urea.",
+  "section": "7.4",
+  "source_file": "drafts/ch07/7.4_solubility.html",
+  "going_further": false
+ },
+ {
+  "term": "insoluble",
+  "synonyms": [],
+  "definition": "Not dissolving appreciably in water; an insoluble ionic compound stays a solid because its ions attract each other more strongly than they attract water.",
+  "section": "7.4",
+  "source_file": "drafts/ch07/7.4_solubility.html",
+  "going_further": false
+ },
+ {
+  "term": "solubility rules",
+  "synonyms": [],
+  "definition": "Rules (on the course green sheet) that predict whether an ionic compound dissolves in water; any compound with a group 1 ion or ammonium is soluble.",
+  "section": "7.4",
+  "source_file": "drafts/ch07/7.4_solubility.html",
+  "going_further": false
+ },
+ {
+  "term": "precipitation reaction",
+  "synonyms": [],
+  "definition": "A double-displacement reaction in which one product is an insoluble solid (a precipitate).",
+  "section": "7.5",
+  "source_file": "drafts/ch07/7.5_precipitation.html",
+  "going_further": false
+ },
+ {
+  "term": "molecular equation",
+  "synonyms": [],
+  "definition": "An equation that writes every substance as a neutral formula.",
+  "section": "7.5",
+  "source_file": "drafts/ch07/7.5_precipitation.html",
+  "going_further": false
+ },
+ {
+  "term": "complete ionic equation",
+  "synonyms": [
+   "total ionic equation"
+  ],
+  "definition": "An equation that splits every aqueous strong electrolyte into its ions; solids, liquids, gases and weak electrolytes stay together.",
+  "section": "7.5",
+  "source_file": "drafts/ch07/7.5_precipitation.html",
+  "going_further": false
+ },
+ {
+  "term": "spectator ion",
+  "synonyms": [],
+  "definition": "An ion that appears unchanged on both sides of a complete ionic equation and is cancelled out.",
+  "section": "7.5",
+  "source_file": "drafts/ch07/7.5_precipitation.html",
+  "going_further": false
+ },
+ {
+  "term": "net ionic equation",
+  "synonyms": [],
+  "definition": "An equation that shows only the species that actually change, after the spectator ions are cancelled.",
+  "section": "7.5",
+  "source_file": "drafts/ch07/7.5_precipitation.html",
+  "going_further": false
+ },
+ {
+  "term": "neutralization reaction",
+  "synonyms": [
+   "neutralization",
+   "acid–base reaction"
+  ],
+  "definition": "A reaction of an acid with a base in which H<sup>+</sup> and OH<sup>−</sup> combine to form water and the remaining ions form a salt: acid + base → water + salt.",
+  "section": "7.6",
+  "source_file": "drafts/ch07/7.6_acid_base_gas.html",
+  "going_further": false
+ },
+ {
+  "term": "gas-evolution reaction",
+  "synonyms": [],
+  "definition": "A double-displacement reaction that releases a gas, often because a product such as H<sub>2</sub>CO<sub>3</sub> breaks down into CO<sub>2</sub> and water.",
+  "section": "7.6",
+  "source_file": "drafts/ch07/7.6_acid_base_gas.html",
+  "going_further": false
+ },
+ {
+  "term": "oxidation–reduction reaction",
+  "synonyms": [
+   "redox reaction",
+   "redox"
+  ],
+  "definition": "A reaction in which electrons move from one substance to another; oxidation and reduction always happen together.",
+  "section": "7.7",
+  "source_file": "drafts/ch07/7.7_redox.html",
+  "going_further": false
+ },
+ {
+  "term": "oxidation",
+  "synonyms": [],
+  "definition": "The loss of electrons; the oxidation number increases (\"LEO\": lose electrons, oxidation; \"OIL\": oxidation is loss).",
+  "section": "7.7",
+  "source_file": "drafts/ch07/7.7_redox.html",
+  "going_further": false
+ },
+ {
+  "term": "reduction",
+  "synonyms": [],
+  "definition": "The gain of electrons; the oxidation number decreases (\"GER\": gain electrons, reduction; \"RIG\": reduction is gain).",
+  "section": "7.7",
+  "source_file": "drafts/ch07/7.7_redox.html",
+  "going_further": false
+ },
+ {
+  "term": "oxidation number",
+  "synonyms": [
+   "oxidation state"
+  ],
+  "definition": "A bookkeeping charge assigned to each atom, by rules applied in order, to track electrons in a reaction; an atom in a pure element has oxidation number 0.",
+  "section": "7.7",
+  "source_file": "drafts/ch07/7.7_redox.html",
+  "going_further": false
+ },
+ {
+  "term": "oxidizing agent",
+  "synonyms": [],
+  "definition": "The reactant that is reduced; it causes the other substance to be oxidized.",
+  "section": "7.7",
+  "source_file": "drafts/ch07/7.7_redox.html",
+  "going_further": false
+ },
+ {
+  "term": "reducing agent",
+  "synonyms": [],
+  "definition": "The reactant that is oxidized; it causes the other substance to be reduced.",
+  "section": "7.7",
+  "source_file": "drafts/ch07/7.7_redox.html",
+  "going_further": false
+ },
+ {
+  "term": "half-reaction",
+  "synonyms": [],
+  "definition": "One part of a redox reaction, showing only the electrons lost (oxidation) or only the electrons gained (reduction).",
+  "section": "7.7",
+  "source_file": "drafts/ch07/7.7_redox.html",
+  "going_further": false
+ },
+ {
+  "term": "activity series",
+  "synonyms": [],
+  "definition": "A list of metals in order of how easily they give up electrons. A free metal displaces the ions of any metal below it, and metals above hydrogen react with acids to release H<sub>2</sub>.",
+  "section": "7.8",
+  "source_file": "drafts/ch07/7.8_activity_series.html",
+  "going_further": false
+ },
+ {
+  "term": "galvanic cell",
+  "synonyms": [
+   "voltaic cell",
+   "battery"
+  ],
+  "definition": "A device in which the oxidation and reduction half-reactions happen in separate places, so electrons travel through an outside wire and can power a device.",
+  "section": "7.12",
+  "source_file": "drafts/ch07/7.12_going_further.html",
+  "going_further": true
+ },
+ {
+  "term": "anode",
+  "synonyms": [],
+  "definition": "The electrode where oxidation happens.",
+  "section": "7.12",
+  "source_file": "drafts/ch07/7.12_going_further.html",
+  "going_further": true
+ },
+ {
+  "term": "cathode",
+  "synonyms": [],
+  "definition": "The electrode where reduction happens.",
+  "section": "7.12",
+  "source_file": "drafts/ch07/7.12_going_further.html",
+  "going_further": true
+ },
+ {
+  "term": "mole ratio",
+  "synonyms": [],
+  "definition": "A ratio from the coefficients of a balanced equation (such as 1 mol N<sub>2</sub> : 3 mol H<sub>2</sub>) that converts moles of one substance to moles of another; it is exact.",
+  "section": "8.1",
+  "source_file": "drafts/ch08/8.1_mole_ratios.html",
+  "going_further": false
+ },
+ {
+  "term": "molarity",
+  "synonyms": [
+   "M",
+   "molar concentration"
+  ],
+  "definition": "The moles of solute per liter of solution (M = mol/L); a conversion factor between liters of solution and moles of solute.",
+  "section": "8.3",
+  "source_file": "drafts/ch08/8.3_solutions_gases.html",
+  "going_further": false
+ },
+ {
+  "term": "standard temperature and pressure",
+  "synonyms": [
+   "STP"
+  ],
+  "definition": "0 °C (273 K) and 1 atm.",
+  "section": "8.3",
+  "source_file": "drafts/ch08/8.3_solutions_gases.html",
+  "going_further": false
+ },
+ {
+  "term": "molar volume",
+  "synonyms": [],
+  "definition": "The volume of one mole of a gas; at STP it is 22.4 L for any ideal gas.",
+  "section": "8.3",
+  "source_file": "drafts/ch08/8.3_solutions_gases.html",
+  "going_further": false
+ },
+ {
+  "term": "limiting reactant",
+  "synonyms": [
+   "limiting reagent"
+  ],
+  "definition": "The reactant that runs out first and so limits the amount of product that can form; it is the one that makes the least product.",
+  "section": "8.4",
+  "source_file": "drafts/ch08/8.4_limiting_reactant.html",
+  "going_further": false
+ },
+ {
+  "term": "excess reactant",
+  "synonyms": [],
+  "definition": "A reactant that is left over when the limiting reactant is used up.",
+  "section": "8.4",
+  "source_file": "drafts/ch08/8.4_limiting_reactant.html",
+  "going_further": false
+ },
+ {
+  "term": "theoretical yield",
+  "synonyms": [],
+  "definition": "The maximum amount of product predicted by stoichiometry from the limiting reactant.",
+  "section": "8.5",
+  "source_file": "drafts/ch08/8.5_percent_yield.html",
+  "going_further": false
+ },
+ {
+  "term": "actual yield",
+  "synonyms": [],
+  "definition": "The amount of product actually collected and weighed.",
+  "section": "8.5",
+  "source_file": "drafts/ch08/8.5_percent_yield.html",
+  "going_further": false
+ },
+ {
+  "term": "percent yield",
+  "synonyms": [],
+  "definition": "The actual yield divided by the theoretical yield, times 100%.",
+  "section": "8.5",
+  "source_file": "drafts/ch08/8.5_percent_yield.html",
+  "going_further": false
+ },
+ {
+  "term": "enthalpy of reaction",
+  "synonyms": [
+   "ΔH",
+   "heat of reaction"
+  ],
+  "definition": "The heat absorbed or released by a reaction at constant pressure (ΔH), usually in kJ; it goes with the moles in the balanced equation as written.",
+  "section": "8.6",
+  "source_file": "drafts/ch08/8.6_enthalpy.html",
+  "going_further": false
+ },
+ {
+  "term": "exothermic",
+  "synonyms": [],
+  "definition": "Releasing heat to the surroundings, which warm up; ΔH (and q for the system) is negative.",
+  "section": "8.6",
+  "source_file": "drafts/ch08/8.6_enthalpy.html",
+  "going_further": false
+ },
+ {
+  "term": "endothermic",
+  "synonyms": [],
+  "definition": "Absorbing heat from the surroundings, which cool down; ΔH (and q for the system) is positive.",
+  "section": "8.6",
+  "source_file": "drafts/ch08/8.6_enthalpy.html",
+  "going_further": false
+ },
+ {
+  "term": "thermochemical equation",
+  "synonyms": [],
+  "definition": "A balanced chemical equation written with its ΔH.",
+  "section": "8.6",
+  "source_file": "drafts/ch08/8.6_enthalpy.html",
+  "going_further": false
+ },
+ {
+  "term": "food Calorie",
+  "synonyms": [
+   "Cal",
+   "kilocalorie",
+   "kcal"
+  ],
+  "definition": "The Calorie on a food label (capital C), equal to one kilocalorie: 1 Cal = 1 kcal = 1000 cal = 4.184 kJ.",
+  "section": "8.6",
+  "source_file": "drafts/ch08/8.6_enthalpy.html",
+  "going_further": false
+ },
+ {
+  "term": "energy",
+  "synonyms": [],
+  "definition": "The capacity to do work or to supply heat.",
+  "section": "9.1",
+  "source_file": "drafts/ch09/9.1_energy.html",
+  "going_further": false
+ },
+ {
+  "term": "heat",
+  "synonyms": [],
+  "definition": "Energy that flows from a hotter object to a colder one because of their difference in temperature.",
+  "section": "9.1",
+  "source_file": "drafts/ch09/9.1_energy.html",
+  "going_further": false
+ },
+ {
+  "term": "kinetic energy",
+  "synonyms": [
+   "KE"
+  ],
+  "definition": "The energy of motion; the faster something moves, the more kinetic energy it has.",
+  "section": "9.1",
+  "source_file": "drafts/ch09/9.1_energy.html",
+  "going_further": false
+ },
+ {
+  "term": "potential energy",
+  "synonyms": [
+   "PE",
+   "chemical potential energy"
+  ],
+  "definition": "Stored energy due to position or composition; chemical potential energy is stored in the arrangement of atoms in bonds and in the attractions between particles.",
+  "section": "9.1",
+  "source_file": "drafts/ch09/9.1_energy.html",
+  "going_further": false
+ },
+ {
+  "term": "temperature",
+  "synonyms": [],
+  "definition": "A measure of how hot or cold something is; on the particle level, a measure of the average kinetic energy of the particles.",
+  "section": "9.2",
+  "source_file": "drafts/ch09/9.2_temperature.html",
+  "going_further": false
+ },
+ {
+  "term": "law of conservation of energy",
+  "synonyms": [
+   "first law of thermodynamics"
+  ],
+  "definition": "Energy cannot be created or destroyed; it can only change from one form to another or move from one object to another.",
+  "section": "9.1",
+  "source_file": "drafts/ch09/9.1_energy.html",
+  "going_further": false
+ },
+ {
+  "term": "Kelvin scale",
+  "synonyms": [
+   "kelvin",
+   "K"
+  ],
+  "definition": "The SI temperature scale, which starts at absolute zero; a kelvin is the same size as a Celsius degree, and K = °C + 273.15. It is written K, never °K, and is never negative.",
+  "section": "9.2",
+  "source_file": "drafts/ch09/9.2_temperature.html",
+  "going_further": false
+ },
+ {
+  "term": "absolute zero",
+  "synonyms": [],
+  "definition": "The lowest possible temperature, 0 K = −273.15 °C, where particles have the least possible energy.",
+  "section": "9.2",
+  "source_file": "drafts/ch09/9.2_temperature.html",
+  "going_further": false
+ },
+ {
+  "term": "joule",
+  "synonyms": [
+   "J"
+  ],
+  "definition": "The SI unit of energy (1 J = 1 kg·m<sup>2</sup>/s<sup>2</sup>); 1 kJ = 1000 J.",
+  "section": "9.3",
+  "source_file": "drafts/ch09/9.3_heat_units.html",
+  "going_further": false
+ },
+ {
+  "term": "calorie",
+  "synonyms": [
+   "cal"
+  ],
+  "definition": "A unit of energy first defined as the heat needed to raise 1 g of water by 1 °C; today defined exactly as 1 cal = 4.184 J.",
+  "section": "9.3",
+  "source_file": "drafts/ch09/9.3_heat_units.html",
+  "going_further": false
+ },
+ {
+  "term": "system",
+  "synonyms": [],
+  "definition": "The part of the world being studied, such as a reaction or a melting ice cube.",
+  "section": "9.3",
+  "source_file": "drafts/ch09/9.3_heat_units.html",
+  "going_further": false
+ },
+ {
+  "term": "surroundings",
+  "synonyms": [],
+  "definition": "Everything outside the system, such as the water, the container and the air.",
+  "section": "9.3",
+  "source_file": "drafts/ch09/9.3_heat_units.html",
+  "going_further": false
+ },
+ {
+  "term": "specific heat capacity",
+  "synonyms": [
+   "specific heat",
+   "c"
+  ],
+  "definition": "The heat needed to raise the temperature of 1 g of a substance by 1 °C, in J/(g·°C); for liquid water it is 4.184 J/(g·°C). Used in q = mcΔT.",
+  "section": "9.4",
+  "source_file": "drafts/ch09/9.4_specific_heat.html",
+  "going_further": false
+ },
+ {
+  "term": "calorimeter",
+  "synonyms": [
+   "calorimetry"
+  ],
+  "definition": "An insulated container in which heat moves between objects but does not escape, so heat lost by the hot object equals heat gained by the cold one.",
+  "section": "9.4",
+  "source_file": "drafts/ch09/9.4_specific_heat.html",
+  "going_further": false
+ },
+ {
+  "term": "phase change",
+  "synonyms": [
+   "change of state"
+  ],
+  "definition": "The conversion of a substance from one state to another without changing its identity; the temperature stays constant during the change.",
+  "section": "9.5",
+  "source_file": "drafts/ch09/9.5_phase_changes.html",
+  "going_further": false
+ },
+ {
+  "term": "melting",
+  "synonyms": [
+   "fusion"
+  ],
+  "definition": "The change from solid to liquid; it absorbs heat (endothermic).",
+  "section": "9.5",
+  "source_file": "drafts/ch09/9.5_phase_changes.html",
+  "going_further": false
+ },
+ {
+  "term": "freezing",
+  "synonyms": [],
+  "definition": "The change from liquid to solid; it releases heat (exothermic).",
+  "section": "9.5",
+  "source_file": "drafts/ch09/9.5_phase_changes.html",
+  "going_further": false
+ },
+ {
+  "term": "vaporization",
+  "synonyms": [
+   "boiling"
+  ],
+  "definition": "The change from liquid to gas, by evaporation at the surface or by boiling throughout the liquid; it absorbs heat (endothermic).",
+  "section": "9.5",
+  "source_file": "drafts/ch09/9.5_phase_changes.html",
+  "going_further": false
+ },
+ {
+  "term": "condensation",
+  "synonyms": [],
+  "definition": "The change from gas to liquid; it releases heat (exothermic).",
+  "section": "9.5",
+  "source_file": "drafts/ch09/9.5_phase_changes.html",
+  "going_further": false
+ },
+ {
+  "term": "sublimation",
+  "synonyms": [],
+  "definition": "The change directly from solid to gas without melting, as dry ice does; it absorbs heat. The reverse, gas directly to solid, is deposition.",
+  "section": "9.5",
+  "source_file": "drafts/ch09/9.5_phase_changes.html",
+  "going_further": false
+ },
+ {
+  "term": "heat of fusion",
+  "synonyms": [
+   "ΔH<sub>fus</sub>"
+  ],
+  "definition": "The heat needed to melt a substance at its melting point; for water, 6.02 kJ/mol (334 J/g).",
+  "section": "9.5",
+  "source_file": "drafts/ch09/9.5_phase_changes.html",
+  "going_further": false
+ },
+ {
+  "term": "heat of vaporization",
+  "synonyms": [
+   "ΔH<sub>vap</sub>"
+  ],
+  "definition": "The heat needed to vaporize a liquid at its boiling point; for water, 40.7 kJ/mol (2260 J/g).",
+  "section": "9.5",
+  "source_file": "drafts/ch09/9.5_phase_changes.html",
+  "going_further": false
+ },
+ {
+  "term": "heating curve",
+  "synonyms": [],
+  "definition": "A graph of a substance's temperature against heat added: sloped segments where one state warms (q = mcΔT) and flat plateaus where a phase change happens (q = nΔH).",
+  "section": "9.5",
+  "source_file": "drafts/ch09/9.5_phase_changes.html",
+  "going_further": false
+ },
+ {
+  "term": "intermolecular forces",
+  "synonyms": [
+   "IMFs"
+  ],
+  "definition": "Attractions between separate molecules (or between ions and molecules). They are not bonds; they control melting points, boiling points and solubility.",
+  "section": "9.6",
+  "source_file": "drafts/ch09/9.6_imf.html",
+  "going_further": false
+ },
+ {
+  "term": "dispersion forces",
+  "synonyms": [
+   "London dispersion forces"
+  ],
+  "definition": "Attractions between all atoms and molecules, caused by brief instantaneous dipoles that induce dipoles in neighbors; stronger for particles with more electrons (larger molar mass).",
+  "section": "9.6",
+  "source_file": "drafts/ch09/9.6_imf.html",
+  "going_further": false
+ },
+ {
+  "term": "dipole–dipole forces",
+  "synonyms": [
+   "dipole–dipole attraction"
+  ],
+  "definition": "Attractions between the δ+ end of one polar molecule and the δ− end of another.",
+  "section": "9.6",
+  "source_file": "drafts/ch09/9.6_imf.html",
+  "going_further": false
+ },
+ {
+  "term": "hydrogen bond",
+  "synonyms": [
+   "hydrogen bonding"
+  ],
+  "definition": "An especially strong dipole–dipole attraction between an H atom bonded directly to N, O or F and a lone pair on another N, O or F.",
+  "section": "9.6",
+  "source_file": "drafts/ch09/9.6_imf.html",
+  "going_further": false
+ },
+ {
+  "term": "ion–dipole force",
+  "synonyms": [],
+  "definition": "The attraction between an ion and a polar molecule, as when water molecules surround Na<sup>+</sup> and Cl<sup>−</sup> ions in solution.",
+  "section": "9.6",
+  "source_file": "drafts/ch09/9.6_imf.html",
+  "going_further": false
+ },
+ {
+  "term": "surface tension",
+  "synonyms": [],
+  "definition": "The energy needed to increase the surface area of a liquid; it is high when intermolecular forces are strong, as in water.",
+  "section": "9.7",
+  "source_file": "drafts/ch09/9.7_liquids_solids.html",
+  "going_further": false
+ },
+ {
+  "term": "viscosity",
+  "synonyms": [],
+  "definition": "A liquid's resistance to flow; stronger intermolecular forces and long, tangling molecules make a liquid more viscous.",
+  "section": "9.7",
+  "source_file": "drafts/ch09/9.7_liquids_solids.html",
+  "going_further": false
+ },
+ {
+  "term": "capillary action",
+  "synonyms": [],
+  "definition": "A liquid rising in a narrow tube, which happens when the liquid's attraction to the tube walls (adhesion) is stronger than its attraction to itself (cohesion).",
+  "section": "9.7",
+  "source_file": "drafts/ch09/9.7_liquids_solids.html",
+  "going_further": false
+ },
+ {
+  "term": "crystalline solid",
+  "synonyms": [],
+  "definition": "A solid whose particles are arranged in a regular, repeating three-dimensional pattern (a crystal lattice), such as salt, ice and metals.",
+  "section": "9.7",
+  "source_file": "drafts/ch09/9.7_liquids_solids.html",
+  "going_further": false
+ },
+ {
+  "term": "amorphous solid",
+  "synonyms": [],
+  "definition": "A solid whose particles are jumbled, with no long-range order, such as glass and many plastics.",
+  "section": "9.7",
+  "source_file": "drafts/ch09/9.7_liquids_solids.html",
+  "going_further": false
+ },
+ {
+  "term": "ionic solid",
+  "synonyms": [],
+  "definition": "A crystalline solid of cations and anions held by ionic bonds: high melting point, hard but brittle, conducts only when melted or dissolved.",
+  "section": "9.7",
+  "source_file": "drafts/ch09/9.7_liquids_solids.html",
+  "going_further": false
+ },
+ {
+  "term": "molecular solid",
+  "synonyms": [],
+  "definition": "A crystalline solid of molecules held by intermolecular forces: low melting point, soft, does not conduct.",
+  "section": "9.7",
+  "source_file": "drafts/ch09/9.7_liquids_solids.html",
+  "going_further": false
+ },
+ {
+  "term": "covalent network solid",
+  "synonyms": [
+   "network solid"
+  ],
+  "definition": "A crystalline solid of atoms joined by covalent bonds throughout, such as diamond and quartz: very high melting point and very hard.",
+  "section": "9.7",
+  "source_file": "drafts/ch09/9.7_liquids_solids.html",
+  "going_further": false
+ },
+ {
+  "term": "metallic solid",
+  "synonyms": [
+   "metallic bonding"
+  ],
+  "definition": "A crystalline solid of metal cations in a \"sea\" of electrons: shiny, malleable and a good conductor of heat and electricity.",
+  "section": "9.7",
+  "source_file": "drafts/ch09/9.7_liquids_solids.html",
+  "going_further": false
+ },
+ {
+  "term": "evaporation",
+  "synonyms": [],
+  "definition": "The escape of molecules from the surface of a liquid into the gas phase, which can happen at any temperature and cools the liquid left behind.",
+  "section": "9.8",
+  "source_file": "drafts/ch09/9.8_vapor_pressure_ranking.html",
+  "going_further": false
+ },
+ {
+  "term": "vapor pressure",
+  "synonyms": [],
+  "definition": "The pressure of a vapor in dynamic equilibrium with its liquid in a closed container. It increases with temperature and is lower when intermolecular forces are stronger.",
+  "section": "9.8",
+  "source_file": "drafts/ch09/9.8_vapor_pressure_ranking.html",
+  "going_further": false
+ },
+ {
+  "term": "dynamic equilibrium",
+  "synonyms": [],
+  "definition": "A state in which two opposite processes run at the same rate, so nothing appears to change even though both continue.",
+  "section": "9.8",
+  "source_file": "drafts/ch09/9.8_vapor_pressure_ranking.html",
+  "going_further": false
+ },
+ {
+  "term": "boiling point",
+  "synonyms": [],
+  "definition": "The temperature at which a liquid's vapor pressure equals the pressure above it, so bubbles of vapor form throughout the liquid. It changes with outside pressure.",
+  "section": "9.8",
+  "source_file": "drafts/ch09/9.8_vapor_pressure_ranking.html",
+  "going_further": false
+ },
+ {
+  "term": "kinetic molecular theory",
+  "synonyms": [
+   "KMT"
+  ],
+  "definition": "The model of an ideal gas: tiny particles in constant, random motion with mostly empty space between them, elastic collisions, no attractions, and an average kinetic energy proportional to the Kelvin temperature.",
+  "section": "10.1",
+  "source_file": "drafts/ch10/10.1_kmt.html",
+  "going_further": false
+ },
+ {
+  "term": "ideal gas",
+  "synonyms": [],
+  "definition": "A gas that behaves exactly as kinetic molecular theory describes.",
+  "section": "10.1",
+  "source_file": "drafts/ch10/10.1_kmt.html",
+  "going_further": false
+ },
+ {
+  "term": "pressure",
+  "synonyms": [
+   "P"
+  ],
+  "definition": "Force per unit area; for a gas, the result of particles hitting the container walls.",
+  "section": "10.2",
+  "source_file": "drafts/ch10/10.2_pressure.html",
+  "going_further": false
+ },
+ {
+  "term": "atmospheric pressure",
+  "synonyms": [],
+  "definition": "The pressure exerted by the weight of the air above us, about 1 atm at sea level; it decreases with altitude.",
+  "section": "10.2",
+  "source_file": "drafts/ch10/10.2_pressure.html",
+  "going_further": false
+ },
+ {
+  "term": "Boyle's law",
+  "synonyms": [],
+  "definition": "At constant temperature and amount of gas, pressure and volume are inversely related: P<sub>1</sub>V<sub>1</sub> = P<sub>2</sub>V<sub>2</sub>.",
+  "section": "10.3",
+  "source_file": "drafts/ch10/10.3_gas_laws.html",
+  "going_further": false
+ },
+ {
+  "term": "Charles's law",
+  "synonyms": [],
+  "definition": "At constant pressure and amount of gas, volume and Kelvin temperature are directly related: V<sub>1</sub>/T<sub>1</sub> = V<sub>2</sub>/T<sub>2</sub>.",
+  "section": "10.3",
+  "source_file": "drafts/ch10/10.3_gas_laws.html",
+  "going_further": false
+ },
+ {
+  "term": "Gay-Lussac's law",
+  "synonyms": [],
+  "definition": "At constant volume and amount of gas, pressure and Kelvin temperature are directly related: P<sub>1</sub>/T<sub>1</sub> = P<sub>2</sub>/T<sub>2</sub>.",
+  "section": "10.3",
+  "source_file": "drafts/ch10/10.3_gas_laws.html",
+  "going_further": false
+ },
+ {
+  "term": "Avogadro's law",
+  "synonyms": [],
+  "definition": "At constant pressure and temperature, volume and moles of gas are directly related; equal volumes of gases at the same T and P contain equal numbers of particles.",
+  "section": "10.3",
+  "source_file": "drafts/ch10/10.3_gas_laws.html",
+  "going_further": false
+ },
+ {
+  "term": "combined gas law",
+  "synonyms": [],
+  "definition": "P<sub>1</sub>V<sub>1</sub>/T<sub>1</sub> = P<sub>2</sub>V<sub>2</sub>/T<sub>2</sub>, used when pressure, volume and temperature all change for a fixed amount of gas.",
+  "section": "10.3",
+  "source_file": "drafts/ch10/10.3_gas_laws.html",
+  "going_further": false
+ },
+ {
+  "term": "direct relationship",
+  "synonyms": [
+   "directly proportional"
+  ],
+  "definition": "A relationship in which two variables move in the same direction (one doubles, the other doubles); written as a ratio, A<sub>1</sub>/B<sub>1</sub> = A<sub>2</sub>/B<sub>2</sub>.",
+  "section": "10.3",
+  "source_file": "drafts/ch10/10.3_gas_laws.html",
+  "going_further": false
+ },
+ {
+  "term": "inverse relationship",
+  "synonyms": [
+   "inversely proportional"
+  ],
+  "definition": "A relationship in which two variables move in opposite directions (one doubles, the other halves); written as a product, A<sub>1</sub>B<sub>1</sub> = A<sub>2</sub>B<sub>2</sub>.",
+  "section": "10.3",
+  "source_file": "drafts/ch10/10.3_gas_laws.html",
+  "going_further": false
+ },
+ {
+  "term": "ideal gas law",
+  "synonyms": [
+   "PV = nRT"
+  ],
+  "definition": "PV = nRT, which relates the pressure, volume, moles and Kelvin temperature of a gas.",
+  "section": "10.4",
+  "source_file": "drafts/ch10/10.4_ideal_gas_law.html",
+  "going_further": false
+ },
+ {
+  "term": "ideal gas constant",
+  "synonyms": [
+   "R",
+   "gas constant"
+  ],
+  "definition": "The constant R in PV = nRT; with P in atm, V in liters and T in kelvins, R = 0.082058 L·atm/(mol·K).",
+  "section": "10.4",
+  "source_file": "drafts/ch10/10.4_ideal_gas_law.html",
+  "going_further": false
+ },
+ {
+  "term": "partial pressure",
+  "synonyms": [],
+  "definition": "The pressure one gas in a mixture would exert if it were alone in the same container at the same temperature.",
+  "section": "10.6",
+  "source_file": "drafts/ch10/10.6_dalton.html",
+  "going_further": false
+ },
+ {
+  "term": "Dalton's law of partial pressures",
+  "synonyms": [
+   "Dalton's law"
+  ],
+  "definition": "The total pressure of a gas mixture is the sum of the partial pressures of its gases: P<sub>total</sub> = P<sub>1</sub> + P<sub>2</sub> + ...",
+  "section": "10.6",
+  "source_file": "drafts/ch10/10.6_dalton.html",
+  "going_further": false
+ },
+ {
+  "term": "mole fraction",
+  "synonyms": [
+   "X"
+  ],
+  "definition": "The moles of one component divided by the total moles in a mixture; a gas's partial pressure equals its mole fraction times the total pressure.",
+  "section": "10.6",
+  "source_file": "drafts/ch10/10.6_dalton.html",
+  "going_further": false
+ },
+ {
+  "term": "solution",
+  "synonyms": [],
+  "definition": "A homogeneous mixture of a solute dissolved in a solvent.",
+  "section": "11.1",
+  "source_file": "drafts/ch11/11.1_solutions_form.html",
+  "going_further": false
+ },
+ {
+  "term": "solvent",
+  "synonyms": [],
+  "definition": "The component of a solution present in the larger amount; the substance that does the dissolving.",
+  "section": "11.1",
+  "source_file": "drafts/ch11/11.1_solutions_form.html",
+  "going_further": false
+ },
+ {
+  "term": "solute",
+  "synonyms": [],
+  "definition": "The substance dissolved in a solvent.",
+  "section": "11.1",
+  "source_file": "drafts/ch11/11.1_solutions_form.html",
+  "going_further": false
+ },
+ {
+  "term": "like dissolves like",
+  "synonyms": [],
+  "definition": "The rule that polar and ionic solutes dissolve in polar solvents and nonpolar solutes dissolve in nonpolar solvents.",
+  "section": "11.1",
+  "source_file": "drafts/ch11/11.1_solutions_form.html",
+  "going_further": false
+ },
+ {
+  "term": "miscible",
+  "synonyms": [],
+  "definition": "Describes two liquids that mix in all proportions, such as ethanol and water.",
+  "section": "11.1",
+  "source_file": "drafts/ch11/11.1_solutions_form.html",
+  "going_further": false
+ },
+ {
+  "term": "immiscible",
+  "synonyms": [],
+  "definition": "Describes two liquids that do not mix and separate into layers, such as oil and water.",
+  "section": "11.1",
+  "source_file": "drafts/ch11/11.1_solutions_form.html",
+  "going_further": false
+ },
+ {
+  "term": "solubility",
+  "synonyms": [],
+  "definition": "The maximum amount of a substance that dissolves in a given amount of solvent at a given temperature, often in grams per 100 g of water.",
+  "section": "11.1",
+  "source_file": "drafts/ch11/11.1_solutions_form.html",
+  "going_further": false
+ },
+ {
+  "term": "unsaturated solution",
+  "synonyms": [
+   "unsaturated"
+  ],
+  "definition": "A solution that holds less solute than the maximum; more solute will dissolve.",
+  "section": "11.1",
+  "source_file": "drafts/ch11/11.1_solutions_form.html",
+  "going_further": false
+ },
+ {
+  "term": "saturated solution",
+  "synonyms": [
+   "saturated"
+  ],
+  "definition": "A solution that holds the maximum amount of solute; added solute stays undissolved.",
+  "section": "11.1",
+  "source_file": "drafts/ch11/11.1_solutions_form.html",
+  "going_further": false
+ },
+ {
+  "term": "supersaturated solution",
+  "synonyms": [
+   "supersaturated"
+  ],
+  "definition": "An unstable solution that holds more than the maximum amount of solute; stirring or a seed crystal makes the extra solute crystallize.",
+  "section": "11.1",
+  "source_file": "drafts/ch11/11.1_solutions_form.html",
+  "going_further": false
+ },
+ {
+  "term": "Henry's law",
+  "synonyms": [],
+  "definition": "At constant temperature, the solubility of a gas in a liquid is directly proportional to the partial pressure of that gas above the liquid.",
+  "section": "11.2",
+  "source_file": "drafts/ch11/11.2_solubility_t_p.html",
+  "going_further": false
+ },
+ {
+  "term": "mass percent",
+  "synonyms": [
+   "%(m/m)",
+   "mass percent concentration"
+  ],
+  "definition": "A concentration equal to the mass of solute divided by the mass of solution, times 100%.",
+  "section": "11.3",
+  "source_file": "drafts/ch11/11.3_concentration.html",
+  "going_further": false
+ },
+ {
+  "term": "mass/volume percent",
+  "synonyms": [
+   "%(m/v)"
+  ],
+  "definition": "A concentration equal to grams of solute per 100 mL of solution; 0.9% NaCl contains 0.9 g NaCl in every 100 mL.",
+  "section": "11.3",
+  "source_file": "drafts/ch11/11.3_concentration.html",
+  "going_further": false
+ },
+ {
+  "term": "volume percent",
+  "synonyms": [
+   "%(v/v)"
+  ],
+  "definition": "A concentration equal to the volume of solute divided by the volume of solution, times 100%, used for liquids mixed with liquids.",
+  "section": "11.3",
+  "source_file": "drafts/ch11/11.3_concentration.html",
+  "going_further": false
+ },
+ {
+  "term": "parts per million",
+  "synonyms": [
+   "ppm"
+  ],
+  "definition": "A concentration for very dilute solutions that works like a percent but per million parts of solution instead of per hundred.",
+  "section": "11.3",
+  "source_file": "drafts/ch11/11.3_concentration.html",
+  "going_further": false
+ },
+ {
+  "term": "dilution",
+  "synonyms": [
+   "dilute"
+  ],
+  "definition": "Adding solvent to lower a solution's concentration; the moles of solute do not change, so M<sub>1</sub>V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub>.",
+  "section": "11.4",
+  "source_file": "drafts/ch11/11.4_molarity_dilution.html",
+  "going_further": false
+ },
+ {
+  "term": "titration",
+  "synonyms": [],
+  "definition": "A method that finds the unknown concentration of a solution by reacting a measured volume of it with a solution of known concentration.",
+  "section": "11.5",
+  "source_file": "drafts/ch11/11.5_titration.html",
+  "going_further": false
+ },
+ {
+  "term": "titrant",
+  "synonyms": [],
+  "definition": "The solution of known concentration that is added from the buret in a titration.",
+  "section": "11.5",
+  "source_file": "drafts/ch11/11.5_titration.html",
+  "going_further": false
+ },
+ {
+  "term": "indicator",
+  "synonyms": [
+   "acid–base indicator"
+  ],
+  "definition": "A dye whose color depends on how acidic or basic a solution is, such as phenolphthalein, litmus or red cabbage indicator.",
+  "section": "11.5",
+  "source_file": "drafts/ch11/11.5_titration.html",
+  "going_further": false
+ },
+ {
+  "term": "endpoint",
+  "synonyms": [
+   "end point"
+  ],
+  "definition": "The point in a titration where the indicator changes color (for phenolphthalein, the first faint pink that lasts), showing that the moles of base match the moles of acid.",
+  "section": "11.5",
+  "source_file": "drafts/ch11/11.5_titration.html",
+  "going_further": false
+ },
+ {
+  "term": "molality",
+  "synonyms": [
+   "m"
+  ],
+  "definition": "Moles of solute per kilogram of solvent.",
+  "section": "11.6",
+  "source_file": "drafts/ch11/11.6_colligative.html",
+  "going_further": false
+ },
+ {
+  "term": "colligative property",
+  "synonyms": [
+   "colligative properties"
+  ],
+  "definition": "A property that depends on the number of dissolved particles, not their identity, such as freezing point depression, boiling point elevation and osmotic pressure.",
+  "section": "11.6",
+  "source_file": "drafts/ch11/11.6_colligative.html",
+  "going_further": false
+ },
+ {
+  "term": "van 't Hoff factor",
+  "synonyms": [
+   "i"
+  ],
+  "definition": "The number of particles each formula unit of solute forms in solution (i = 1 for glucose, 2 for NaCl, 3 for CaCl<sub>2</sub>).",
+  "section": "11.6",
+  "source_file": "drafts/ch11/11.6_colligative.html",
+  "going_further": false
+ },
+ {
+  "term": "freezing point depression",
+  "synonyms": [],
+  "definition": "The lowering of a solvent's freezing point by dissolved particles.",
+  "section": "11.6",
+  "source_file": "drafts/ch11/11.6_colligative.html",
+  "going_further": false
+ },
+ {
+  "term": "boiling point elevation",
+  "synonyms": [],
+  "definition": "The raising of a solvent's boiling point by dissolved particles.",
+  "section": "11.6",
+  "source_file": "drafts/ch11/11.6_colligative.html",
+  "going_further": false
+ },
+ {
+  "term": "osmosis",
+  "synonyms": [],
+  "definition": "The net flow of water across a semipermeable membrane from the side with lower solute (particle) concentration to the side with higher solute concentration.",
+  "section": "11.6",
+  "source_file": "drafts/ch11/11.6_colligative.html",
+  "going_further": false
+ },
+ {
+  "term": "osmotic pressure",
+  "synonyms": [],
+  "definition": "The pressure needed to stop the flow of water across a semipermeable membrane by osmosis.",
+  "section": "11.6",
+  "source_file": "drafts/ch11/11.6_colligative.html",
+  "going_further": false
+ },
+ {
+  "term": "isotonic",
+  "synonyms": [],
+  "definition": "Having the same particle concentration as a cell, so there is no net water flow; 0.9% NaCl (normal saline) is isotonic.",
+  "section": "11.6",
+  "source_file": "drafts/ch11/11.6_colligative.html",
+  "going_further": false
+ },
+ {
+  "term": "hypotonic",
+  "synonyms": [],
+  "definition": "Having a lower particle concentration than a cell; water flows into the cell, and red blood cells can swell and burst (hemolysis).",
+  "section": "11.6",
+  "source_file": "drafts/ch11/11.6_colligative.html",
+  "going_further": false
+ },
+ {
+  "term": "hypertonic",
+  "synonyms": [],
+  "definition": "Having a higher particle concentration than a cell; water flows out, and the cell shrinks (crenation).",
+  "section": "11.6",
+  "source_file": "drafts/ch11/11.6_colligative.html",
+  "going_further": false
+ },
+ {
+  "term": "litmus",
+  "synonyms": [],
+  "definition": "A dye on paper strips that turns red in acid and blue in base (\"BRA\": blue turns red in acid); it shows only acid or base, not strength.",
+  "section": "12.1",
+  "source_file": "drafts/ch12/12.1_properties.html",
+  "going_further": false
+ },
+ {
+  "term": "phenolphthalein",
+  "synonyms": [],
+  "definition": "An indicator that is colorless in acidic and neutral solutions and pink in basic solutions (above about pH 8).",
+  "section": "12.1",
+  "source_file": "drafts/ch12/12.1_properties.html",
+  "going_further": false
+ },
+ {
+  "term": "Arrhenius acid",
+  "synonyms": [],
+  "definition": "A substance that produces hydrogen ions, H<sup>+</sup>, when it dissolves in water.",
+  "section": "12.2",
+  "source_file": "drafts/ch12/12.2_bronsted_lowry.html",
+  "going_further": false
+ },
+ {
+  "term": "Arrhenius base",
+  "synonyms": [],
+  "definition": "A substance that produces hydroxide ions, OH<sup>−</sup>, when it dissolves in water.",
+  "section": "12.2",
+  "source_file": "drafts/ch12/12.2_bronsted_lowry.html",
+  "going_further": false
+ },
+ {
+  "term": "hydronium ion",
+  "synonyms": [
+   "H<sub>3</sub>O<sup>+</sup>"
+  ],
+  "definition": "H<sub>3</sub>O<sup>+</sup>, the form H<sup>+</sup> (a bare proton) takes in water by bonding to a water molecule.",
+  "section": "12.2",
+  "source_file": "drafts/ch12/12.2_bronsted_lowry.html",
+  "going_further": false
+ },
+ {
+  "term": "Brønsted–Lowry acid",
+  "synonyms": [
+   "proton donor"
+  ],
+  "definition": "A proton (H<sup>+</sup>) donor.",
+  "section": "12.2",
+  "source_file": "drafts/ch12/12.2_bronsted_lowry.html",
+  "going_further": false
+ },
+ {
+  "term": "Brønsted–Lowry base",
+  "synonyms": [
+   "proton acceptor"
+  ],
+  "definition": "A proton (H<sup>+</sup>) acceptor.",
+  "section": "12.2",
+  "source_file": "drafts/ch12/12.2_bronsted_lowry.html",
+  "going_further": false
+ },
+ {
+  "term": "conjugate base",
+  "synonyms": [],
+  "definition": "The species left after an acid donates a proton; it has one fewer H and one more negative charge.",
+  "section": "12.2",
+  "source_file": "drafts/ch12/12.2_bronsted_lowry.html",
+  "going_further": false
+ },
+ {
+  "term": "conjugate acid",
+  "synonyms": [],
+  "definition": "The species formed when a base accepts a proton; it has one more H and one more positive charge.",
+  "section": "12.2",
+  "source_file": "drafts/ch12/12.2_bronsted_lowry.html",
+  "going_further": false
+ },
+ {
+  "term": "conjugate acid–base pair",
+  "synonyms": [],
+  "definition": "Two species that differ by exactly one H<sup>+</sup>, such as NH<sub>4</sub><sup>+</sup> and NH<sub>3</sub>; every Brønsted–Lowry reaction has two pairs.",
+  "section": "12.2",
+  "source_file": "drafts/ch12/12.2_bronsted_lowry.html",
+  "going_further": false
+ },
+ {
+  "term": "amphoteric",
+  "synonyms": [],
+  "definition": "Able to act as either an acid or a base, depending on what it reacts with, as water is.",
+  "section": "12.2",
+  "source_file": "drafts/ch12/12.2_bronsted_lowry.html",
+  "going_further": false
+ },
+ {
+  "term": "strong acid",
+  "synonyms": [],
+  "definition": "An acid that ionizes completely in water. The six to memorize are HCl, HBr, HI, HNO<sub>3</sub>, HClO<sub>4</sub> and H<sub>2</sub>SO<sub>4</sub>.",
+  "section": "12.3",
+  "source_file": "drafts/ch12/12.3_strong_weak.html",
+  "going_further": false
+ },
+ {
+  "term": "weak acid",
+  "synonyms": [],
+  "definition": "An acid that ionizes only slightly in water, so most of it stays as molecules; any acid not on the strong list, such as HF, acetic acid and carbonic acid.",
+  "section": "12.3",
+  "source_file": "drafts/ch12/12.3_strong_weak.html",
+  "going_further": false
+ },
+ {
+  "term": "strong base",
+  "synonyms": [],
+  "definition": "A soluble metal hydroxide that dissociates completely into metal ions and OH<sup>−</sup>: the group 1 hydroxides and the hydroxides of Ca, Sr and Ba.",
+  "section": "12.3",
+  "source_file": "drafts/ch12/12.3_strong_weak.html",
+  "going_further": false
+ },
+ {
+  "term": "weak base",
+  "synonyms": [],
+  "definition": "A base that accepts protons from water only to a small extent, such as ammonia, amines and bicarbonate.",
+  "section": "12.3",
+  "source_file": "drafts/ch12/12.3_strong_weak.html",
+  "going_further": false
+ },
+ {
+  "term": "autoionization of water",
+  "synonyms": [
+   "self-ionization of water"
+  ],
+  "definition": "The reaction of water with itself, H<sub>2</sub>O + H<sub>2</sub>O ⇄ H<sub>3</sub>O<sup>+</sup> + OH<sup>−</sup>; in pure water at 25 °C, [H<sub>3</sub>O<sup>+</sup>] = [OH<sup>−</sup>] = 1.0 × 10<sup>−7</sup> M.",
+  "section": "12.4",
+  "source_file": "drafts/ch12/12.4_water_kw.html",
+  "going_further": false
+ },
+ {
+  "term": "ion-product constant of water",
+  "synonyms": [
+   "K<sub>w</sub>"
+  ],
+  "definition": "K<sub>w</sub> = [H<sub>3</sub>O<sup>+</sup>][OH<sup>−</sup>] = 1.0 × 10<sup>−14</sup> at 25 °C in any water solution, so the two concentrations are inversely related.",
+  "section": "12.4",
+  "source_file": "drafts/ch12/12.4_water_kw.html",
+  "going_further": false
+ },
+ {
+  "term": "acidic solution",
+  "synonyms": [
+   "acidic"
+  ],
+  "definition": "A solution in which [H<sub>3</sub>O<sup>+</sup>] is greater than [OH<sup>−</sup>] (greater than 1.0 × 10<sup>−7</sup> M at 25 °C); pH below 7.",
+  "section": "12.4",
+  "source_file": "drafts/ch12/12.4_water_kw.html",
+  "going_further": false
+ },
+ {
+  "term": "basic solution",
+  "synonyms": [
+   "basic",
+   "alkaline"
+  ],
+  "definition": "A solution in which [OH<sup>−</sup>] is greater than [H<sub>3</sub>O<sup>+</sup>] ([H<sub>3</sub>O<sup>+</sup>] less than 1.0 × 10<sup>−7</sup> M at 25 °C); pH above 7.",
+  "section": "12.4",
+  "source_file": "drafts/ch12/12.4_water_kw.html",
+  "going_further": false
+ },
+ {
+  "term": "neutral solution",
+  "synonyms": [],
+  "definition": "A solution in which [H<sub>3</sub>O<sup>+</sup>] = [OH<sup>−</sup>] = 1.0 × 10<sup>−7</sup> M at 25 °C; pH 7.00.",
+  "section": "12.4",
+  "source_file": "drafts/ch12/12.4_water_kw.html",
+  "going_further": false
+ },
+ {
+  "term": "pH",
+  "synonyms": [
+   "pH scale"
+  ],
+  "definition": "The negative base-10 logarithm of the hydronium ion concentration, pH = −log[H<sub>3</sub>O<sup>+</sup>]. Lower pH means more acidic, and each pH unit is a tenfold change.",
+  "section": "12.5",
+  "source_file": "drafts/ch12/12.5_ph.html",
+  "going_further": false
+ },
+ {
+  "term": "pOH",
+  "synonyms": [],
+  "definition": "The negative logarithm of the hydroxide ion concentration, pOH = −log[OH<sup>−</sup>]; at 25 °C, pH + pOH = 14.00.",
+  "section": "12.5",
+  "source_file": "drafts/ch12/12.5_ph.html",
+  "going_further": false
+ },
+ {
+  "term": "acidosis",
+  "synonyms": [
+   "respiratory acidosis"
+  ],
+  "definition": "A blood pH below 7.35 (blood too acidic); respiratory acidosis comes from breathing too little, which lets CO<sub>2</sub> build up.",
+  "section": "12.5",
+  "source_file": "drafts/ch12/12.5_ph.html",
+  "going_further": false
+ },
+ {
+  "term": "alkalosis",
+  "synonyms": [
+   "respiratory alkalosis"
+  ],
+  "definition": "A blood pH above 7.45 (blood too basic); respiratory alkalosis comes from breathing too fast, which blows off CO<sub>2</sub>.",
+  "section": "12.5",
+  "source_file": "drafts/ch12/12.5_ph.html",
+  "going_further": false
+ },
+ {
+  "term": "buffer",
+  "synonyms": [],
+  "definition": "A solution that resists changes in pH when small amounts of acid or base are added; it contains a weak acid and its conjugate base (or a weak base and its conjugate acid).",
+  "section": "12.6",
+  "source_file": "drafts/ch12/12.6_buffers.html",
+  "going_further": false
+ },
+ {
+  "term": "buffer capacity",
+  "synonyms": [],
+  "definition": "The amount of acid or base a buffer can absorb before its pH changes sharply.",
+  "section": "12.6",
+  "source_file": "drafts/ch12/12.6_buffers.html",
+  "going_further": false
+ },
+ {
+  "term": "reaction rate",
+  "synonyms": [
+   "rate"
+  ],
+  "definition": "How fast a reactant is used up or a product forms, usually measured as a change in concentration per unit of time.",
+  "section": "13.1",
+  "source_file": "drafts/ch13/13.1_rates.html",
+  "going_further": false
+ },
+ {
+  "term": "collision theory",
+  "synonyms": [],
+  "definition": "The idea that a reaction happens only when reactant particles collide with enough energy and the right orientation.",
+  "section": "13.1",
+  "source_file": "drafts/ch13/13.1_rates.html",
+  "going_further": false
+ },
+ {
+  "term": "activation energy",
+  "synonyms": [
+   "E<sub>a</sub>"
+  ],
+  "definition": "The minimum energy colliding particles need to break bonds and start a reaction; the height of the energy hill above the reactants.",
+  "section": "13.1",
+  "source_file": "drafts/ch13/13.1_rates.html",
+  "going_further": false
+ },
+ {
+  "term": "catalyst",
+  "synonyms": [],
+  "definition": "A substance that speeds up a reaction without being used up, by providing a path with a lower activation energy. It does not shift an equilibrium.",
+  "section": "13.1",
+  "source_file": "drafts/ch13/13.1_rates.html",
+  "going_further": false
+ },
+ {
+  "term": "enzyme",
+  "synonyms": [],
+  "definition": "A biological catalyst, usually a protein, shaped to bind one particular reactant (its substrate).",
+  "section": "13.1",
+  "source_file": "drafts/ch13/13.1_rates.html",
+  "going_further": false
+ },
+ {
+  "term": "reversible reaction",
+  "synonyms": [],
+  "definition": "A reaction that runs in both directions, the forward reaction (reactants → products, left to right) and the reverse reaction (products → reactants, right to left), written with a double arrow ⇄.",
+  "section": "13.2",
+  "source_file": "drafts/ch13/13.2_dynamic.html",
+  "going_further": false
+ },
+ {
+  "term": "chemical equilibrium",
+  "synonyms": [
+   "equilibrium"
+  ],
+  "definition": "The state in which the forward and reverse reactions run at the same rate, so the concentrations no longer change. The concentrations are constant but usually not equal.",
+  "section": "13.2",
+  "source_file": "drafts/ch13/13.2_dynamic.html",
+  "going_further": false
+ },
+ {
+  "term": "equilibrium constant",
+  "synonyms": [
+   "K",
+   "K<sub>eq</sub>"
+  ],
+  "definition": "The value of the equilibrium constant expression at equilibrium; written without units. A large K favors products and a small K favors reactants.",
+  "section": "13.3",
+  "source_file": "drafts/ch13/13.3_k.html",
+  "going_further": false
+ },
+ {
+  "term": "equilibrium constant expression",
+  "synonyms": [],
+  "definition": "The ratio of product concentrations over reactant concentrations, each raised to the power of its coefficient in the balanced equation; pure solids and pure liquids are left out.",
+  "section": "13.3",
+  "source_file": "drafts/ch13/13.3_k.html",
+  "going_further": false
+ },
+ {
+  "term": "Le Chatelier's principle",
+  "synonyms": [],
+  "definition": "When a system at equilibrium is disturbed by a stress (a change in concentration, temperature, or pressure or volume), it shifts in the direction that partly relieves the stress.",
+  "section": "13.4",
+  "source_file": "drafts/ch13/13.4_le_chatelier.html",
+  "going_further": false
+ },
+ {
+  "term": "acid ionization constant",
+  "synonyms": [
+   "K<sub>a</sub>"
+  ],
+  "definition": "The equilibrium constant for a weak acid giving up H<sup>+</sup> to water; the larger K<sub>a</sub>, the stronger the weak acid.",
+  "section": "13.8",
+  "source_file": "drafts/ch13/13.8_going_further.html",
+  "going_further": true
+ },
+ {
+  "term": "base ionization constant",
+  "synonyms": [
+   "K<sub>b</sub>"
+  ],
+  "definition": "The equilibrium constant for a weak base accepting H<sup>+</sup> from water.",
+  "section": "13.8",
+  "source_file": "drafts/ch13/13.8_going_further.html",
+  "going_further": true
+ },
+ {
+  "term": "solubility product",
+  "synonyms": [
+   "K<sub>sp</sub>"
+  ],
+  "definition": "The equilibrium constant for a slightly soluble ionic solid dissolving: the product of the ion concentrations, each raised to its coefficient.",
+  "section": "13.8",
+  "source_file": "drafts/ch13/13.8_going_further.html",
+  "going_further": true
+ },
+ {
+  "term": "common-ion effect",
+  "synonyms": [
+   "common ion"
+  ],
+  "definition": "The decrease in a salt's solubility when an ion it already contains is added, because the equilibrium shifts left (Le Chatelier's principle).",
+  "section": "13.8",
+  "source_file": "drafts/ch13/13.8_going_further.html",
+  "going_further": true
+ },
+ {
+  "term": "radioactivity",
+  "synonyms": [
+   "radioactive"
+  ],
+  "definition": "The spontaneous emission of radiation by an unstable nucleus.",
+  "section": "14.1",
+  "source_file": "drafts/ch14/14.1_radioactivity.html",
+  "going_further": false
+ },
+ {
+  "term": "radioisotope",
+  "synonyms": [
+   "radioactive isotope"
+  ],
+  "definition": "An isotope whose nucleus is radioactive; carbon-12 and carbon-13 are stable, but carbon-14 is a radioisotope.",
+  "section": "14.1",
+  "source_file": "drafts/ch14/14.1_radioactivity.html",
+  "going_further": false
+ },
+ {
+  "term": "curie",
+  "synonyms": [
+   "Ci"
+  ],
+  "definition": "An older unit of activity (how many nuclei in a sample decay each second): 1 Ci = 3.7 × 10<sup>10</sup> decays per second.",
+  "section": "14.1",
+  "source_file": "drafts/ch14/14.1_radioactivity.html",
+  "going_further": false
+ },
+ {
+  "term": "becquerel",
+  "synonyms": [
+   "Bq"
+  ],
+  "definition": "The SI unit of activity: 1 Bq = 1 decay per second.",
+  "section": "14.1",
+  "source_file": "drafts/ch14/14.1_radioactivity.html",
+  "going_further": false
+ },
+ {
+  "term": "gray",
+  "synonyms": [
+   "Gy",
+   "rad",
+   "absorbed dose"
+  ],
+  "definition": "The SI unit of absorbed dose (radiation energy absorbed per kilogram of tissue): 1 Gy = 1 J/kg = 100 rad.",
+  "section": "14.1",
+  "source_file": "drafts/ch14/14.1_radioactivity.html",
+  "going_further": false
+ },
+ {
+  "term": "sievert",
+  "synonyms": [
+   "Sv",
+   "rem",
+   "equivalent dose"
+  ],
+  "definition": "The SI unit of equivalent dose (absorbed dose adjusted for how much harm that kind of radiation does to the body): 1 Sv = 100 rem; doses are usually given in millisieverts (mSv).",
+  "section": "14.1",
+  "source_file": "drafts/ch14/14.1_radioactivity.html",
+  "going_further": false
+ },
+ {
+  "term": "nuclear equation",
+  "synonyms": [],
+  "definition": "An equation for a nuclear change in which both the mass numbers (top) and the atomic numbers (bottom) add up to the same totals on each side.",
+  "section": "14.2",
+  "source_file": "drafts/ch14/14.2_decay.html",
+  "going_further": false
+ },
+ {
+  "term": "alpha particle",
+  "synonyms": [
+   "α",
+   "<sup>4</sup><sub>2</sub>He"
+  ],
+  "definition": "A helium nucleus (2 protons and 2 neutrons) given off in alpha decay; mass number 4, charge 2+. It is stopped by paper or the outer layer of skin.",
+  "section": "14.2",
+  "source_file": "drafts/ch14/14.2_decay.html",
+  "going_further": false
+ },
+ {
+  "term": "alpha decay",
+  "synonyms": [],
+  "definition": "Radioactive decay in which a nucleus gives off an alpha particle, so its mass number drops by 4 and its atomic number by 2.",
+  "section": "14.2",
+  "source_file": "drafts/ch14/14.2_decay.html",
+  "going_further": false
+ },
+ {
+  "term": "beta particle",
+  "synonyms": [
+   "β",
+   "β<sup>−</sup>"
+  ],
+  "definition": "A high-energy electron made in the nucleus and given off in beta decay, written <sup>0</sup><sub>−1</sub>e.",
+  "section": "14.2",
+  "source_file": "drafts/ch14/14.2_decay.html",
+  "going_further": false
+ },
+ {
+  "term": "beta decay",
+  "synonyms": [],
+  "definition": "Radioactive decay in which a neutron changes into a proton and an electron, and the electron is thrown out as a beta particle; the atomic number rises by 1.",
+  "section": "14.2",
+  "source_file": "drafts/ch14/14.2_decay.html",
+  "going_further": false
+ },
+ {
+  "term": "positron",
+  "synonyms": [
+   "β<sup>+</sup>"
+  ],
+  "definition": "The antimatter partner of the electron, with the same mass and a positive charge, written <sup>0</sup><sub>+1</sub>e.",
+  "section": "14.2",
+  "source_file": "drafts/ch14/14.2_decay.html",
+  "going_further": false
+ },
+ {
+  "term": "positron emission",
+  "synonyms": [],
+  "definition": "Radioactive decay in which a proton changes into a neutron and a positron, which leaves the nucleus; the atomic number drops by 1.",
+  "section": "14.2",
+  "source_file": "drafts/ch14/14.2_decay.html",
+  "going_further": false
+ },
+ {
+  "term": "electron capture",
+  "synonyms": [],
+  "definition": "A nuclear change in which the nucleus pulls in one of its atom's inner electrons, which combines with a proton to make a neutron.",
+  "section": "14.2",
+  "source_file": "drafts/ch14/14.2_decay.html",
+  "going_further": false
+ },
+ {
+  "term": "gamma ray",
+  "synonyms": [
+   "γ",
+   "gamma radiation"
+  ],
+  "definition": "High-energy electromagnetic radiation given off by a nucleus that has extra energy; it changes neither the mass number nor the atomic number.",
+  "section": "14.2",
+  "source_file": "drafts/ch14/14.2_decay.html",
+  "going_further": false
+ },
+ {
+  "term": "metastable",
+  "synonyms": [],
+  "definition": "Describes a nucleus waiting to release extra energy as a gamma ray, shown by an m after the mass number, as in technetium-99m.",
+  "section": "14.2",
+  "source_file": "drafts/ch14/14.2_decay.html",
+  "going_further": false
+ },
+ {
+  "term": "penetrating power",
+  "synonyms": [],
+  "definition": "How far radiation travels into matter before it is stopped; gamma rays penetrate most and alpha particles least.",
+  "section": "14.2",
+  "source_file": "drafts/ch14/14.2_decay.html",
+  "going_further": false
+ },
+ {
+  "term": "half-life",
+  "synonyms": [
+   "t<sub>1/2</sub>"
+  ],
+  "definition": "The time it takes for half of the radioactive nuclei in a sample to decay; after each half-life, half of what was left remains.",
+  "section": "14.3",
+  "source_file": "drafts/ch14/14.3_half_life.html",
+  "going_further": false
+ },
+ {
+  "term": "radiocarbon dating",
+  "synonyms": [
+   "carbon-14 dating"
+  ],
+  "definition": "Finding the age of once-living material from how much of its carbon-14 (half-life 5730 years) has decayed since the organism died.",
+  "section": "14.4",
+  "source_file": "drafts/ch14/14.4_radiocarbon.html",
+  "going_further": false
+ },
+ {
+  "term": "nuclear fission",
+  "synonyms": [
+   "fission"
+  ],
+  "definition": "The splitting of a heavy nucleus into two smaller nuclei, which converts a little mass into a great deal of energy.",
+  "section": "14.5",
+  "source_file": "drafts/ch14/14.5_fission_fusion.html",
+  "going_further": false
+ },
+ {
+  "term": "chain reaction",
+  "synonyms": [],
+  "definition": "A self-sustaining series of fissions in which neutrons released by one fission cause more fissions.",
+  "section": "14.5",
+  "source_file": "drafts/ch14/14.5_fission_fusion.html",
+  "going_further": false
+ },
+ {
+  "term": "critical mass",
+  "synonyms": [],
+  "definition": "The smallest amount of fissionable material that can keep a chain reaction going.",
+  "section": "14.5",
+  "source_file": "drafts/ch14/14.5_fission_fusion.html",
+  "going_further": false
+ },
+ {
+  "term": "nuclear reactor",
+  "synonyms": [],
+  "definition": "A device in which a fission chain reaction is kept steady, with on average one neutron from each fission causing another fission.",
+  "section": "14.5",
+  "source_file": "drafts/ch14/14.5_fission_fusion.html",
+  "going_further": false
+ },
+ {
+  "term": "nuclear fusion",
+  "synonyms": [
+   "fusion"
+  ],
+  "definition": "The joining of two light nuclei to form a heavier nucleus, which releases even more energy per gram of fuel than fission.",
+  "section": "14.5",
+  "source_file": "drafts/ch14/14.5_fission_fusion.html",
+  "going_further": false
+ },
+ {
+  "term": "background radiation",
+  "synonyms": [],
+  "definition": "The radiation everyone is exposed to all the time, from cosmic rays, radioactive elements in rocks and soil, potassium-40 in the body, and radon.",
+  "section": "14.6",
+  "source_file": "drafts/ch14/14.6_radiation_health.html",
+  "going_further": false
+ },
+ {
+  "term": "inverse-square law",
+  "synonyms": [],
+  "definition": "From a small source, the radiation dose rate falls with the square of the distance: doubling the distance cuts it to one-fourth.",
+  "section": "14.6",
+  "source_file": "drafts/ch14/14.6_radiation_health.html",
+  "going_further": false
+ },
+ {
+  "term": "tracer",
+  "synonyms": [
+   "radioactive tracer"
+  ],
+  "definition": "A radioisotope, often attached to a molecule the body handles in a known way, given in a tiny amount so its location can be imaged.",
+  "section": "14.7",
+  "source_file": "drafts/ch14/14.7_medicine.html",
+  "going_further": false
+ },
+ {
+  "term": "positron emission tomography",
+  "synonyms": [
+   "PET"
+  ],
+  "definition": "An imaging method that detects the gamma rays made when positrons from a tracer, usually fluorine-18 fluorodeoxyglucose (FDG), meet electrons in the body.",
+  "section": "14.7",
+  "source_file": "drafts/ch14/14.7_medicine.html",
+  "going_further": false
+ }
+]

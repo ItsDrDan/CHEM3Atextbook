@@ -1,0 +1,2917 @@
+[
+ {
+  "term": "chemistry",
+  "sections": [
+   "1.1"
+  ]
+ },
+ {
+  "term": "scientific method",
+  "sections": [
+   "1.1"
+  ]
+ },
+ {
+  "term": "qualitative observation",
+  "sections": [
+   "1.1"
+  ]
+ },
+ {
+  "term": "quantitative observation",
+  "sections": [
+   "1.1",
+   "1.2"
+  ]
+ },
+ {
+  "term": "hypothesis",
+  "sections": [
+   "1.1"
+  ]
+ },
+ {
+  "term": "scientific law",
+  "sections": [
+   "1.1",
+   "2.1"
+  ]
+ },
+ {
+  "term": "scientific theory",
+  "sections": [
+   "1.1",
+   "2.1",
+   "10.1"
+  ]
+ },
+ {
+  "term": "law of conservation of mass",
+  "sections": [
+   "1.1",
+   "2.1",
+   "7.1"
+  ]
+ },
+ {
+  "term": "scientific notation",
+  "sections": [
+   "1.2.1",
+   "1.3.1",
+   "5.1"
+  ]
+ },
+ {
+  "term": "SI units",
+  "sections": [
+   "1.2.2",
+   "9.3",
+   "10.2"
+  ]
+ },
+ {
+  "term": "metric prefix",
+  "sections": [
+   "1.2.2",
+   "1.4.1"
+  ]
+ },
+ {
+  "term": "significant figures",
+  "sections": [
+   "1.3.1",
+   "1.3.2",
+   "12.5"
+  ]
+ },
+ {
+  "term": "trailing zeros",
+  "sections": [
+   "1.3.1",
+   "1.3.2"
+  ]
+ },
+ {
+  "term": "exact number",
+  "sections": [
+   "1.3.1",
+   "1.4.1",
+   "9.2"
+  ]
+ },
+ {
+  "term": "accuracy",
+  "sections": [
+   "1.3.1"
+  ]
+ },
+ {
+  "term": "precision",
+  "sections": [
+   "1.3.1"
+  ]
+ },
+ {
+  "term": "conversion factor",
+  "sections": [
+   "1.4.1",
+   "1.4.2",
+   "1.9.1"
+  ]
+ },
+ {
+  "term": "dimensional analysis",
+  "sections": [
+   "1.4.1",
+   "1.4.2",
+   "1.4.3"
+  ]
+ },
+ {
+  "term": "matter",
+  "sections": [
+   "1.5"
+  ]
+ },
+ {
+  "term": "atom",
+  "sections": [
+   "1.5",
+   "2.1",
+   "2.2"
+  ]
+ },
+ {
+  "term": "molecule",
+  "sections": [
+   "1.5",
+   "4.1",
+   "6.2"
+  ]
+ },
+ {
+  "term": "formula unit",
+  "sections": [
+   "1.5",
+   "4.1",
+   "5.1"
+  ]
+ },
+ {
+  "term": "chemical formula",
+  "sections": [
+   "1.5",
+   "4.1"
+  ]
+ },
+ {
+  "term": "diatomic molecule",
+  "sections": [
+   "1.5",
+   "4.1",
+   "7.1"
+  ]
+ },
+ {
+  "term": "pure substance",
+  "sections": [
+   "1.5"
+  ]
+ },
+ {
+  "term": "element",
+  "sections": [
+   "1.5",
+   "2.2",
+   "2.3"
+  ]
+ },
+ {
+  "term": "compound",
+  "sections": [
+   "1.5",
+   "4.1",
+   "6.6"
+  ]
+ },
+ {
+  "term": "mixture",
+  "sections": [
+   "1.5",
+   "11.1"
+  ]
+ },
+ {
+  "term": "homogeneous mixture",
+  "sections": [
+   "1.5",
+   "11.1"
+  ]
+ },
+ {
+  "term": "heterogeneous mixture",
+  "sections": [
+   "1.5"
+  ]
+ },
+ {
+  "term": "states of matter",
+  "sections": [
+   "1.6",
+   "9.5",
+   "10.1"
+  ]
+ },
+ {
+  "term": "solid",
+  "sections": [
+   "1.6",
+   "9.7"
+  ]
+ },
+ {
+  "term": "liquid",
+  "sections": [
+   "1.6",
+   "9.7"
+  ]
+ },
+ {
+  "term": "gas",
+  "sections": [
+   "1.6",
+   "10.1"
+  ]
+ },
+ {
+  "term": "electric charge",
+  "sections": [
+   "1.7",
+   "2.2",
+   "2.4"
+  ]
+ },
+ {
+  "term": "physical property",
+  "sections": [
+   "1.8",
+   "1.9"
+  ]
+ },
+ {
+  "term": "chemical property",
+  "sections": [
+   "1.8"
+  ]
+ },
+ {
+  "term": "extensive property",
+  "sections": [
+   "1.8"
+  ]
+ },
+ {
+  "term": "intensive property",
+  "sections": [
+   "1.8",
+   "1.9"
+  ]
+ },
+ {
+  "term": "physical change",
+  "sections": [
+   "1.8"
+  ]
+ },
+ {
+  "term": "chemical change",
+  "sections": [
+   "1.8",
+   "7.1",
+   "7.3"
+  ]
+ },
+ {
+  "term": "precipitate",
+  "sections": [
+   "1.8",
+   "7.5"
+  ]
+ },
+ {
+  "term": "density",
+  "sections": [
+   "1.9",
+   "1.9.1",
+   "10.4"
+  ]
+ },
+ {
+  "term": "Dalton's atomic theory",
+  "sections": [
+   "2.1",
+   "1.1"
+  ]
+ },
+ {
+  "term": "law of definite proportions",
+  "sections": [
+   "2.1",
+   "6.6"
+  ]
+ },
+ {
+  "term": "electron",
+  "sections": [
+   "2.1",
+   "2.2",
+   "3.3"
+  ]
+ },
+ {
+  "term": "nucleus",
+  "sections": [
+   "2.1",
+   "2.2",
+   "14.1"
+  ]
+ },
+ {
+  "term": "proton",
+  "sections": [
+   "2.2",
+   "2.4",
+   "12.2"
+  ]
+ },
+ {
+  "term": "neutron",
+  "sections": [
+   "2.2",
+   "2.5",
+   "14.2"
+  ]
+ },
+ {
+  "term": "atomic mass unit",
+  "sections": [
+   "2.2",
+   "2.6",
+   "5.2"
+  ]
+ },
+ {
+  "term": "atomic number",
+  "sections": [
+   "2.2",
+   "2.5",
+   "14.2"
+  ]
+ },
+ {
+  "term": "group",
+  "sections": [
+   "2.3",
+   "3.5"
+  ]
+ },
+ {
+  "term": "period",
+  "sections": [
+   "2.3",
+   "3.6"
+  ]
+ },
+ {
+  "term": "main-group elements",
+  "sections": [
+   "2.3",
+   "3.5"
+  ]
+ },
+ {
+  "term": "transition metals",
+  "sections": [
+   "2.3",
+   "3.4",
+   "4.3"
+  ]
+ },
+ {
+  "term": "metal",
+  "sections": [
+   "2.3",
+   "3.6",
+   "4.1"
+  ]
+ },
+ {
+  "term": "nonmetal",
+  "sections": [
+   "2.3",
+   "3.5",
+   "4.1"
+  ]
+ },
+ {
+  "term": "metalloid",
+  "sections": [
+   "2.3"
+  ]
+ },
+ {
+  "term": "alkali metals",
+  "sections": [
+   "2.3",
+   "3.5"
+  ]
+ },
+ {
+  "term": "alkaline earth metals",
+  "sections": [
+   "2.3",
+   "3.5"
+  ]
+ },
+ {
+  "term": "halogens",
+  "sections": [
+   "2.3",
+   "3.5",
+   "4.4"
+  ]
+ },
+ {
+  "term": "noble gases",
+  "sections": [
+   "2.3",
+   "3.4",
+   "3.5"
+  ]
+ },
+ {
+  "term": "ion",
+  "sections": [
+   "2.4",
+   "1.7",
+   "3.5"
+  ]
+ },
+ {
+  "term": "cation",
+  "sections": [
+   "2.4",
+   "3.5",
+   "4.3"
+  ]
+ },
+ {
+  "term": "anion",
+  "sections": [
+   "2.4",
+   "4.3"
+  ]
+ },
+ {
+  "term": "mass number",
+  "sections": [
+   "2.5",
+   "14.2"
+  ]
+ },
+ {
+  "term": "isotopes",
+  "sections": [
+   "2.5",
+   "2.6",
+   "14.1"
+  ]
+ },
+ {
+  "term": "isotope symbol",
+  "sections": [
+   "2.5",
+   "14.2"
+  ]
+ },
+ {
+  "term": "average atomic mass",
+  "sections": [
+   "2.6",
+   "5.2"
+  ]
+ },
+ {
+  "term": "percent abundance",
+  "sections": [
+   "2.6"
+  ]
+ },
+ {
+  "term": "electromagnetic radiation",
+  "sections": [
+   "3.1",
+   "3.2"
+  ]
+ },
+ {
+  "term": "wavelength",
+  "sections": [
+   "3.1",
+   "3.2"
+  ]
+ },
+ {
+  "term": "frequency",
+  "sections": [
+   "3.1"
+  ]
+ },
+ {
+  "term": "speed of light",
+  "sections": [
+   "3.1",
+   "14.5"
+  ]
+ },
+ {
+  "term": "photon",
+  "sections": [
+   "3.1",
+   "3.2"
+  ]
+ },
+ {
+  "term": "electromagnetic spectrum",
+  "sections": [
+   "3.1"
+  ]
+ },
+ {
+  "term": "ionizing radiation",
+  "sections": [
+   "2.1",
+   "3.1",
+   "14.2"
+  ]
+ },
+ {
+  "term": "line spectrum",
+  "sections": [
+   "3.2"
+  ]
+ },
+ {
+  "term": "Bohr model",
+  "sections": [
+   "3.2"
+  ]
+ },
+ {
+  "term": "energy level",
+  "sections": [
+   "3.2",
+   "3.3"
+  ]
+ },
+ {
+  "term": "ground state",
+  "sections": [
+   "3.2",
+   "3.3"
+  ]
+ },
+ {
+  "term": "excited state",
+  "sections": [
+   "3.2"
+  ]
+ },
+ {
+  "term": "shell",
+  "sections": [
+   "3.3",
+   "3.4",
+   "3.5"
+  ]
+ },
+ {
+  "term": "subshell",
+  "sections": [
+   "3.3",
+   "3.4"
+  ]
+ },
+ {
+  "term": "orbital",
+  "sections": [
+   "3.3",
+   "3.2",
+   "3.4"
+  ]
+ },
+ {
+  "term": "Aufbau principle",
+  "sections": [
+   "3.3"
+  ]
+ },
+ {
+  "term": "Pauli exclusion principle",
+  "sections": [
+   "3.3"
+  ]
+ },
+ {
+  "term": "Hund's rule",
+  "sections": [
+   "3.3"
+  ]
+ },
+ {
+  "term": "orbital diagram",
+  "sections": [
+   "3.3",
+   "3.4"
+  ]
+ },
+ {
+  "term": "electron configuration",
+  "sections": [
+   "3.4",
+   "3.5",
+   "3.6"
+  ]
+ },
+ {
+  "term": "noble-gas configuration",
+  "sections": [
+   "3.4",
+   "3.5"
+  ]
+ },
+ {
+  "term": "core electrons",
+  "sections": [
+   "3.4",
+   "3.5"
+  ]
+ },
+ {
+  "term": "isoelectronic",
+  "sections": [
+   "3.4",
+   "3.5"
+  ]
+ },
+ {
+  "term": "valence electrons",
+  "sections": [
+   "3.5",
+   "3.4",
+   "6.3"
+  ]
+ },
+ {
+  "term": "octet",
+  "sections": [
+   "3.5",
+   "6.2"
+  ]
+ },
+ {
+  "term": "octet rule",
+  "sections": [
+   "3.5",
+   "6.2",
+   "6.11"
+  ]
+ },
+ {
+  "term": "electron-dot symbol",
+  "sections": [
+   "3.5",
+   "6.1"
+  ]
+ },
+ {
+  "term": "atomic radius",
+  "sections": [
+   "3.6"
+  ]
+ },
+ {
+  "term": "ionization energy",
+  "sections": [
+   "3.6"
+  ]
+ },
+ {
+  "term": "metallic character",
+  "sections": [
+   "3.6"
+  ]
+ },
+ {
+  "term": "subscript",
+  "sections": [
+   "4.1",
+   "5.4",
+   "7.1"
+  ]
+ },
+ {
+  "term": "coefficient",
+  "sections": [
+   "4.1",
+   "7.1",
+   "8.1"
+  ]
+ },
+ {
+  "term": "ionic compound",
+  "sections": [
+   "4.1",
+   "4.2",
+   "6.1"
+  ]
+ },
+ {
+  "term": "molecular compound",
+  "sections": [
+   "4.1",
+   "4.4",
+   "6.2"
+  ]
+ },
+ {
+  "term": "acid",
+  "sections": [
+   "4.1",
+   "4.5",
+   "12.1"
+  ]
+ },
+ {
+  "term": "aqueous",
+  "sections": [
+   "4.1",
+   "7.1",
+   "11.1"
+  ]
+ },
+ {
+  "term": "binary compound",
+  "sections": [
+   "4.2",
+   "4.4"
+  ]
+ },
+ {
+  "term": "polyatomic ion",
+  "sections": [
+   "4.2",
+   "4.3",
+   "7.2"
+  ]
+ },
+ {
+  "term": "oxyanion",
+  "sections": [
+   "4.2",
+   "4.5"
+  ]
+ },
+ {
+  "term": "fixed-charge metal",
+  "sections": [
+   "4.3"
+  ]
+ },
+ {
+  "term": "variable-charge metal",
+  "sections": [
+   "4.3"
+  ]
+ },
+ {
+  "term": "hydrate",
+  "sections": [
+   "4.3",
+   "5.2",
+   "6.7"
+  ]
+ },
+ {
+  "term": "anhydrous",
+  "sections": [
+   "4.3",
+   "6.7"
+  ]
+ },
+ {
+  "term": "binary acid",
+  "sections": [
+   "4.5",
+   "12.3"
+  ]
+ },
+ {
+  "term": "oxyacid",
+  "sections": [
+   "4.5",
+   "12.3"
+  ]
+ },
+ {
+  "term": "mole",
+  "sections": [
+   "5.1",
+   "5.3",
+   "8.1"
+  ]
+ },
+ {
+  "term": "Avogadro's number",
+  "sections": [
+   "5.1",
+   "5.3"
+  ]
+ },
+ {
+  "term": "formula mass",
+  "sections": [
+   "5.2"
+  ]
+ },
+ {
+  "term": "molar mass",
+  "sections": [
+   "5.2",
+   "5.3",
+   "8.2"
+  ]
+ },
+ {
+  "term": "stoichiometry",
+  "sections": [
+   "8.1",
+   "8.2",
+   "11.5"
+  ]
+ },
+ {
+  "term": "ionic bond",
+  "sections": [
+   "6.1",
+   "4.1",
+   "9.7"
+  ]
+ },
+ {
+  "term": "salt",
+  "sections": [
+   "6.1",
+   "7.6",
+   "12.3"
+  ]
+ },
+ {
+  "term": "base",
+  "sections": [
+   "6.1",
+   "12.1",
+   "12.2"
+  ]
+ },
+ {
+  "term": "crystal lattice",
+  "sections": [
+   "6.1",
+   "9.7"
+  ]
+ },
+ {
+  "term": "covalent bond",
+  "sections": [
+   "6.2",
+   "4.1",
+   "6.5"
+  ]
+ },
+ {
+  "term": "Lewis structure",
+  "sections": [
+   "6.2",
+   "6.3",
+   "6.4"
+  ]
+ },
+ {
+  "term": "lone pair",
+  "sections": [
+   "6.2",
+   "6.4",
+   "9.6"
+  ]
+ },
+ {
+  "term": "double bond",
+  "sections": [
+   "6.2",
+   "6.3",
+   "6.4"
+  ]
+ },
+ {
+  "term": "triple bond",
+  "sections": [
+   "6.2",
+   "6.3"
+  ]
+ },
+ {
+  "term": "VSEPR theory",
+  "sections": [
+   "6.4"
+  ]
+ },
+ {
+  "term": "electron group",
+  "sections": [
+   "6.4"
+  ]
+ },
+ {
+  "term": "electron-group geometry",
+  "sections": [
+   "6.4"
+  ]
+ },
+ {
+  "term": "molecular geometry",
+  "sections": [
+   "6.4",
+   "6.5",
+   "9.6"
+  ]
+ },
+ {
+  "term": "linear",
+  "sections": [
+   "6.4",
+   "6.5"
+  ]
+ },
+ {
+  "term": "trigonal planar",
+  "sections": [
+   "6.4",
+   "6.5"
+  ]
+ },
+ {
+  "term": "tetrahedral",
+  "sections": [
+   "6.4",
+   "6.5"
+  ]
+ },
+ {
+  "term": "trigonal pyramidal",
+  "sections": [
+   "6.4",
+   "6.5"
+  ]
+ },
+ {
+  "term": "bent",
+  "sections": [
+   "6.4",
+   "6.5"
+  ]
+ },
+ {
+  "term": "electronegativity",
+  "sections": [
+   "6.5",
+   "6.3",
+   "9.6"
+  ]
+ },
+ {
+  "term": "nonpolar covalent bond",
+  "sections": [
+   "6.5"
+  ]
+ },
+ {
+  "term": "polar covalent bond",
+  "sections": [
+   "6.5",
+   "9.6"
+  ]
+ },
+ {
+  "term": "polar molecule",
+  "sections": [
+   "6.5",
+   "9.6",
+   "11.1"
+  ]
+ },
+ {
+  "term": "nonpolar molecule",
+  "sections": [
+   "6.5",
+   "9.6",
+   "11.1"
+  ]
+ },
+ {
+  "term": "percent composition",
+  "sections": [
+   "6.6"
+  ]
+ },
+ {
+  "term": "empirical formula",
+  "sections": [
+   "6.7"
+  ]
+ },
+ {
+  "term": "molecular formula",
+  "sections": [
+   "6.7"
+  ]
+ },
+ {
+  "term": "resonance structures",
+  "sections": [
+   "6.11"
+  ]
+ },
+ {
+  "term": "radical",
+  "sections": [
+   "6.11",
+   "14.6"
+  ]
+ },
+ {
+  "term": "chemical equation",
+  "sections": [
+   "7.1",
+   "7.2",
+   "8.1"
+  ]
+ },
+ {
+  "term": "reactant",
+  "sections": [
+   "7.1",
+   "8.4"
+  ]
+ },
+ {
+  "term": "product",
+  "sections": [
+   "7.1",
+   "8.5"
+  ]
+ },
+ {
+  "term": "balanced equation",
+  "sections": [
+   "7.1",
+   "7.2",
+   "8.1"
+  ]
+ },
+ {
+  "term": "combination reaction",
+  "sections": [
+   "7.3"
+  ]
+ },
+ {
+  "term": "decomposition reaction",
+  "sections": [
+   "7.3"
+  ]
+ },
+ {
+  "term": "single-displacement reaction",
+  "sections": [
+   "7.3",
+   "7.7",
+   "7.8"
+  ]
+ },
+ {
+  "term": "double-displacement reaction",
+  "sections": [
+   "7.3",
+   "7.5",
+   "7.6"
+  ]
+ },
+ {
+  "term": "combustion",
+  "sections": [
+   "7.3",
+   "7.7",
+   "8.6"
+  ]
+ },
+ {
+  "term": "electrolyte",
+  "sections": [
+   "7.4",
+   "2.4",
+   "12.1"
+  ]
+ },
+ {
+  "term": "strong electrolyte",
+  "sections": [
+   "7.4",
+   "7.5",
+   "11.1"
+  ]
+ },
+ {
+  "term": "weak electrolyte",
+  "sections": [
+   "7.4",
+   "12.3"
+  ]
+ },
+ {
+  "term": "nonelectrolyte",
+  "sections": [
+   "7.4",
+   "11.1",
+   "11.6"
+  ]
+ },
+ {
+  "term": "insoluble",
+  "sections": [
+   "7.4",
+   "7.5"
+  ]
+ },
+ {
+  "term": "solubility rules",
+  "sections": [
+   "7.4",
+   "7.5"
+  ]
+ },
+ {
+  "term": "precipitation reaction",
+  "sections": [
+   "7.5",
+   "7.3"
+  ]
+ },
+ {
+  "term": "molecular equation",
+  "sections": [
+   "7.5",
+   "7.6"
+  ]
+ },
+ {
+  "term": "complete ionic equation",
+  "sections": [
+   "7.5"
+  ]
+ },
+ {
+  "term": "spectator ion",
+  "sections": [
+   "7.5",
+   "12.6"
+  ]
+ },
+ {
+  "term": "net ionic equation",
+  "sections": [
+   "7.5",
+   "7.6",
+   "12.1"
+  ]
+ },
+ {
+  "term": "neutralization reaction",
+  "sections": [
+   "7.6",
+   "11.5",
+   "12.1"
+  ]
+ },
+ {
+  "term": "gas-evolution reaction",
+  "sections": [
+   "7.6",
+   "12.1"
+  ]
+ },
+ {
+  "term": "oxidation–reduction reaction",
+  "sections": [
+   "7.7",
+   "7.12"
+  ]
+ },
+ {
+  "term": "oxidation",
+  "sections": [
+   "7.7",
+   "7.8"
+  ]
+ },
+ {
+  "term": "reduction",
+  "sections": [
+   "7.7",
+   "7.8"
+  ]
+ },
+ {
+  "term": "oxidation number",
+  "sections": [
+   "7.7"
+  ]
+ },
+ {
+  "term": "oxidizing agent",
+  "sections": [
+   "7.7"
+  ]
+ },
+ {
+  "term": "reducing agent",
+  "sections": [
+   "7.7"
+  ]
+ },
+ {
+  "term": "half-reaction",
+  "sections": [
+   "7.7",
+   "7.12"
+  ]
+ },
+ {
+  "term": "activity series",
+  "sections": [
+   "7.8"
+  ]
+ },
+ {
+  "term": "galvanic cell",
+  "sections": [
+   "7.12"
+  ]
+ },
+ {
+  "term": "anode",
+  "sections": [
+   "7.12"
+  ]
+ },
+ {
+  "term": "cathode",
+  "sections": [
+   "7.12"
+  ]
+ },
+ {
+  "term": "mole ratio",
+  "sections": [
+   "8.1",
+   "8.2",
+   "8.4"
+  ]
+ },
+ {
+  "term": "molarity",
+  "sections": [
+   "8.3",
+   "11.3",
+   "11.4"
+  ]
+ },
+ {
+  "term": "standard temperature and pressure",
+  "sections": [
+   "8.3",
+   "10.4",
+   "10.5"
+  ]
+ },
+ {
+  "term": "molar volume",
+  "sections": [
+   "8.3",
+   "10.4",
+   "10.5"
+  ]
+ },
+ {
+  "term": "limiting reactant",
+  "sections": [
+   "8.4",
+   "8.5"
+  ]
+ },
+ {
+  "term": "excess reactant",
+  "sections": [
+   "8.4"
+  ]
+ },
+ {
+  "term": "theoretical yield",
+  "sections": [
+   "8.5",
+   "8.4"
+  ]
+ },
+ {
+  "term": "actual yield",
+  "sections": [
+   "8.5"
+  ]
+ },
+ {
+  "term": "percent yield",
+  "sections": [
+   "8.5"
+  ]
+ },
+ {
+  "term": "enthalpy of reaction",
+  "sections": [
+   "8.6",
+   "9.5",
+   "13.4"
+  ]
+ },
+ {
+  "term": "exothermic",
+  "sections": [
+   "8.6",
+   "9.3",
+   "13.4"
+  ]
+ },
+ {
+  "term": "endothermic",
+  "sections": [
+   "8.6",
+   "9.3",
+   "13.4"
+  ]
+ },
+ {
+  "term": "thermochemical equation",
+  "sections": [
+   "8.6"
+  ]
+ },
+ {
+  "term": "food Calorie",
+  "sections": [
+   "8.6",
+   "9.3"
+  ]
+ },
+ {
+  "term": "energy",
+  "sections": [
+   "9.1"
+  ]
+ },
+ {
+  "term": "heat",
+  "sections": [
+   "9.1",
+   "9.2",
+   "9.3"
+  ]
+ },
+ {
+  "term": "kinetic energy",
+  "sections": [
+   "9.1",
+   "10.1"
+  ]
+ },
+ {
+  "term": "potential energy",
+  "sections": [
+   "9.1",
+   "9.5"
+  ]
+ },
+ {
+  "term": "temperature",
+  "sections": [
+   "9.2",
+   "9.1",
+   "10.1"
+  ]
+ },
+ {
+  "term": "law of conservation of energy",
+  "sections": [
+   "9.1",
+   "9.4"
+  ]
+ },
+ {
+  "term": "Kelvin scale",
+  "sections": [
+   "9.2",
+   "10.1",
+   "10.3"
+  ]
+ },
+ {
+  "term": "absolute zero",
+  "sections": [
+   "9.2"
+  ]
+ },
+ {
+  "term": "joule",
+  "sections": [
+   "9.3",
+   "9.4"
+  ]
+ },
+ {
+  "term": "calorie",
+  "sections": [
+   "9.3"
+  ]
+ },
+ {
+  "term": "system",
+  "sections": [
+   "9.3"
+  ]
+ },
+ {
+  "term": "surroundings",
+  "sections": [
+   "9.3",
+   "8.6"
+  ]
+ },
+ {
+  "term": "specific heat capacity",
+  "sections": [
+   "9.4",
+   "9.5"
+  ]
+ },
+ {
+  "term": "calorimeter",
+  "sections": [
+   "9.4"
+  ]
+ },
+ {
+  "term": "phase change",
+  "sections": [
+   "9.5",
+   "1.8",
+   "9.8"
+  ]
+ },
+ {
+  "term": "melting",
+  "sections": [
+   "9.5"
+  ]
+ },
+ {
+  "term": "freezing",
+  "sections": [
+   "9.5"
+  ]
+ },
+ {
+  "term": "vaporization",
+  "sections": [
+   "9.5",
+   "9.8"
+  ]
+ },
+ {
+  "term": "condensation",
+  "sections": [
+   "9.5",
+   "9.8"
+  ]
+ },
+ {
+  "term": "sublimation",
+  "sections": [
+   "9.5",
+   "9.8"
+  ]
+ },
+ {
+  "term": "heat of fusion",
+  "sections": [
+   "9.5"
+  ]
+ },
+ {
+  "term": "heat of vaporization",
+  "sections": [
+   "9.5"
+  ]
+ },
+ {
+  "term": "heating curve",
+  "sections": [
+   "9.5"
+  ]
+ },
+ {
+  "term": "intermolecular forces",
+  "sections": [
+   "9.6",
+   "9.7",
+   "9.8"
+  ]
+ },
+ {
+  "term": "dispersion forces",
+  "sections": [
+   "9.6",
+   "9.8",
+   "11.1"
+  ]
+ },
+ {
+  "term": "dipole–dipole forces",
+  "sections": [
+   "9.6",
+   "9.8"
+  ]
+ },
+ {
+  "term": "hydrogen bond",
+  "sections": [
+   "9.6",
+   "9.8",
+   "11.1"
+  ]
+ },
+ {
+  "term": "ion–dipole force",
+  "sections": [
+   "9.6",
+   "11.1"
+  ]
+ },
+ {
+  "term": "surface tension",
+  "sections": [
+   "9.7"
+  ]
+ },
+ {
+  "term": "viscosity",
+  "sections": [
+   "9.7"
+  ]
+ },
+ {
+  "term": "capillary action",
+  "sections": [
+   "9.7"
+  ]
+ },
+ {
+  "term": "crystalline solid",
+  "sections": [
+   "9.7",
+   "1.6"
+  ]
+ },
+ {
+  "term": "amorphous solid",
+  "sections": [
+   "9.7",
+   "1.6"
+  ]
+ },
+ {
+  "term": "ionic solid",
+  "sections": [
+   "9.7",
+   "6.1"
+  ]
+ },
+ {
+  "term": "molecular solid",
+  "sections": [
+   "9.7"
+  ]
+ },
+ {
+  "term": "covalent network solid",
+  "sections": [
+   "9.7"
+  ]
+ },
+ {
+  "term": "metallic solid",
+  "sections": [
+   "9.7"
+  ]
+ },
+ {
+  "term": "evaporation",
+  "sections": [
+   "9.8",
+   "9.5"
+  ]
+ },
+ {
+  "term": "vapor pressure",
+  "sections": [
+   "9.8",
+   "10.6"
+  ]
+ },
+ {
+  "term": "dynamic equilibrium",
+  "sections": [
+   "9.8",
+   "13.2"
+  ]
+ },
+ {
+  "term": "boiling point",
+  "sections": [
+   "9.8",
+   "9.5",
+   "11.6"
+  ]
+ },
+ {
+  "term": "kinetic molecular theory",
+  "sections": [
+   "10.1",
+   "10.6"
+  ]
+ },
+ {
+  "term": "ideal gas",
+  "sections": [
+   "10.1",
+   "10.4"
+  ]
+ },
+ {
+  "term": "pressure",
+  "sections": [
+   "10.2",
+   "10.1",
+   "10.3"
+  ]
+ },
+ {
+  "term": "atmospheric pressure",
+  "sections": [
+   "10.2",
+   "9.8"
+  ]
+ },
+ {
+  "term": "Boyle's law",
+  "sections": [
+   "10.3"
+  ]
+ },
+ {
+  "term": "Charles's law",
+  "sections": [
+   "10.3"
+  ]
+ },
+ {
+  "term": "Gay-Lussac's law",
+  "sections": [
+   "10.3"
+  ]
+ },
+ {
+  "term": "Avogadro's law",
+  "sections": [
+   "10.3",
+   "10.4",
+   "10.5"
+  ]
+ },
+ {
+  "term": "combined gas law",
+  "sections": [
+   "10.3"
+  ]
+ },
+ {
+  "term": "direct relationship",
+  "sections": [
+   "10.3",
+   "11.2"
+  ]
+ },
+ {
+  "term": "inverse relationship",
+  "sections": [
+   "10.3",
+   "3.1",
+   "12.4"
+  ]
+ },
+ {
+  "term": "ideal gas law",
+  "sections": [
+   "10.4",
+   "10.5"
+  ]
+ },
+ {
+  "term": "ideal gas constant",
+  "sections": [
+   "10.4",
+   "10.5"
+  ]
+ },
+ {
+  "term": "partial pressure",
+  "sections": [
+   "10.6",
+   "11.2",
+   "13.4"
+  ]
+ },
+ {
+  "term": "Dalton's law of partial pressures",
+  "sections": [
+   "10.6"
+  ]
+ },
+ {
+  "term": "mole fraction",
+  "sections": [
+   "10.6"
+  ]
+ },
+ {
+  "term": "solution",
+  "sections": [
+   "11.1",
+   "1.5",
+   "11.3"
+  ]
+ },
+ {
+  "term": "solvent",
+  "sections": [
+   "11.1",
+   "11.3"
+  ]
+ },
+ {
+  "term": "solute",
+  "sections": [
+   "11.1",
+   "11.3",
+   "11.6"
+  ]
+ },
+ {
+  "term": "like dissolves like",
+  "sections": [
+   "11.1"
+  ]
+ },
+ {
+  "term": "miscible",
+  "sections": [
+   "11.1"
+  ]
+ },
+ {
+  "term": "immiscible",
+  "sections": [
+   "11.1"
+  ]
+ },
+ {
+  "term": "solubility",
+  "sections": [
+   "11.1",
+   "11.2",
+   "7.4"
+  ]
+ },
+ {
+  "term": "unsaturated solution",
+  "sections": [
+   "11.1",
+   "11.2"
+  ]
+ },
+ {
+  "term": "saturated solution",
+  "sections": [
+   "11.1",
+   "11.2",
+   "13.8"
+  ]
+ },
+ {
+  "term": "supersaturated solution",
+  "sections": [
+   "11.1"
+  ]
+ },
+ {
+  "term": "Henry's law",
+  "sections": [
+   "11.2"
+  ]
+ },
+ {
+  "term": "mass percent",
+  "sections": [
+   "11.3"
+  ]
+ },
+ {
+  "term": "mass/volume percent",
+  "sections": [
+   "11.3"
+  ]
+ },
+ {
+  "term": "volume percent",
+  "sections": [
+   "11.3"
+  ]
+ },
+ {
+  "term": "parts per million",
+  "sections": [
+   "11.3",
+   "5.4"
+  ]
+ },
+ {
+  "term": "dilution",
+  "sections": [
+   "11.4"
+  ]
+ },
+ {
+  "term": "titration",
+  "sections": [
+   "11.5",
+   "12.3"
+  ]
+ },
+ {
+  "term": "titrant",
+  "sections": [
+   "11.5",
+   "12.3"
+  ]
+ },
+ {
+  "term": "indicator",
+  "sections": [
+   "11.5",
+   "12.1"
+  ]
+ },
+ {
+  "term": "endpoint",
+  "sections": [
+   "11.5"
+  ]
+ },
+ {
+  "term": "molality",
+  "sections": [
+   "11.6"
+  ]
+ },
+ {
+  "term": "colligative property",
+  "sections": [
+   "11.6"
+  ]
+ },
+ {
+  "term": "van 't Hoff factor",
+  "sections": [
+   "11.6"
+  ]
+ },
+ {
+  "term": "freezing point depression",
+  "sections": [
+   "11.6"
+  ]
+ },
+ {
+  "term": "boiling point elevation",
+  "sections": [
+   "11.6"
+  ]
+ },
+ {
+  "term": "osmosis",
+  "sections": [
+   "11.6"
+  ]
+ },
+ {
+  "term": "osmotic pressure",
+  "sections": [
+   "11.6"
+  ]
+ },
+ {
+  "term": "isotonic",
+  "sections": [
+   "11.6"
+  ]
+ },
+ {
+  "term": "hypotonic",
+  "sections": [
+   "11.6"
+  ]
+ },
+ {
+  "term": "hypertonic",
+  "sections": [
+   "11.6"
+  ]
+ },
+ {
+  "term": "litmus",
+  "sections": [
+   "12.1"
+  ]
+ },
+ {
+  "term": "phenolphthalein",
+  "sections": [
+   "12.1",
+   "11.5"
+  ]
+ },
+ {
+  "term": "Arrhenius acid",
+  "sections": [
+   "12.2"
+  ]
+ },
+ {
+  "term": "Arrhenius base",
+  "sections": [
+   "12.2"
+  ]
+ },
+ {
+  "term": "hydronium ion",
+  "sections": [
+   "12.2",
+   "12.4",
+   "12.5"
+  ]
+ },
+ {
+  "term": "Brønsted–Lowry acid",
+  "sections": [
+   "12.2"
+  ]
+ },
+ {
+  "term": "Brønsted–Lowry base",
+  "sections": [
+   "12.2"
+  ]
+ },
+ {
+  "term": "conjugate base",
+  "sections": [
+   "12.2",
+   "12.6"
+  ]
+ },
+ {
+  "term": "conjugate acid",
+  "sections": [
+   "12.2",
+   "12.6"
+  ]
+ },
+ {
+  "term": "conjugate acid–base pair",
+  "sections": [
+   "12.2",
+   "12.6"
+  ]
+ },
+ {
+  "term": "amphoteric",
+  "sections": [
+   "12.2",
+   "12.4"
+  ]
+ },
+ {
+  "term": "strong acid",
+  "sections": [
+   "12.3",
+   "12.5",
+   "7.4"
+  ]
+ },
+ {
+  "term": "weak acid",
+  "sections": [
+   "12.3",
+   "12.6",
+   "13.8"
+  ]
+ },
+ {
+  "term": "strong base",
+  "sections": [
+   "12.3",
+   "12.5"
+  ]
+ },
+ {
+  "term": "weak base",
+  "sections": [
+   "12.3",
+   "12.6"
+  ]
+ },
+ {
+  "term": "autoionization of water",
+  "sections": [
+   "12.4"
+  ]
+ },
+ {
+  "term": "ion-product constant of water",
+  "sections": [
+   "12.4",
+   "12.5"
+  ]
+ },
+ {
+  "term": "acidic solution",
+  "sections": [
+   "12.4",
+   "12.5"
+  ]
+ },
+ {
+  "term": "basic solution",
+  "sections": [
+   "12.4",
+   "12.5"
+  ]
+ },
+ {
+  "term": "neutral solution",
+  "sections": [
+   "12.4",
+   "12.5"
+  ]
+ },
+ {
+  "term": "pH",
+  "sections": [
+   "12.5",
+   "12.6"
+  ]
+ },
+ {
+  "term": "pOH",
+  "sections": [
+   "12.5"
+  ]
+ },
+ {
+  "term": "acidosis",
+  "sections": [
+   "12.5",
+   "12.6",
+   "13.4"
+  ]
+ },
+ {
+  "term": "alkalosis",
+  "sections": [
+   "12.5",
+   "12.6",
+   "13.4"
+  ]
+ },
+ {
+  "term": "buffer",
+  "sections": [
+   "12.6",
+   "13.4"
+  ]
+ },
+ {
+  "term": "buffer capacity",
+  "sections": [
+   "12.6"
+  ]
+ },
+ {
+  "term": "reaction rate",
+  "sections": [
+   "13.1"
+  ]
+ },
+ {
+  "term": "collision theory",
+  "sections": [
+   "13.1"
+  ]
+ },
+ {
+  "term": "activation energy",
+  "sections": [
+   "13.1",
+   "13.4"
+  ]
+ },
+ {
+  "term": "catalyst",
+  "sections": [
+   "13.1",
+   "13.4"
+  ]
+ },
+ {
+  "term": "enzyme",
+  "sections": [
+   "13.1"
+  ]
+ },
+ {
+  "term": "reversible reaction",
+  "sections": [
+   "13.2",
+   "12.3"
+  ]
+ },
+ {
+  "term": "chemical equilibrium",
+  "sections": [
+   "13.2",
+   "13.3",
+   "13.4"
+  ]
+ },
+ {
+  "term": "equilibrium constant",
+  "sections": [
+   "13.3",
+   "13.4",
+   "13.8"
+  ]
+ },
+ {
+  "term": "equilibrium constant expression",
+  "sections": [
+   "13.3"
+  ]
+ },
+ {
+  "term": "Le Chatelier's principle",
+  "sections": [
+   "13.4",
+   "13.8"
+  ]
+ },
+ {
+  "term": "acid ionization constant",
+  "sections": [
+   "13.8"
+  ]
+ },
+ {
+  "term": "base ionization constant",
+  "sections": [
+   "13.8"
+  ]
+ },
+ {
+  "term": "solubility product",
+  "sections": [
+   "13.8"
+  ]
+ },
+ {
+  "term": "common-ion effect",
+  "sections": [
+   "13.8"
+  ]
+ },
+ {
+  "term": "radioactivity",
+  "sections": [
+   "14.1",
+   "14.2"
+  ]
+ },
+ {
+  "term": "radioisotope",
+  "sections": [
+   "14.1",
+   "2.5",
+   "14.7"
+  ]
+ },
+ {
+  "term": "curie",
+  "sections": [
+   "14.1",
+   "14.6"
+  ]
+ },
+ {
+  "term": "becquerel",
+  "sections": [
+   "14.1"
+  ]
+ },
+ {
+  "term": "gray",
+  "sections": [
+   "14.1"
+  ]
+ },
+ {
+  "term": "sievert",
+  "sections": [
+   "14.1",
+   "14.6"
+  ]
+ },
+ {
+  "term": "nuclear equation",
+  "sections": [
+   "14.2",
+   "14.4",
+   "14.5"
+  ]
+ },
+ {
+  "term": "alpha particle",
+  "sections": [
+   "14.2",
+   "2.1"
+  ]
+ },
+ {
+  "term": "alpha decay",
+  "sections": [
+   "14.2"
+  ]
+ },
+ {
+  "term": "beta particle",
+  "sections": [
+   "14.2"
+  ]
+ },
+ {
+  "term": "beta decay",
+  "sections": [
+   "14.2",
+   "14.4"
+  ]
+ },
+ {
+  "term": "positron",
+  "sections": [
+   "14.2",
+   "14.7"
+  ]
+ },
+ {
+  "term": "positron emission",
+  "sections": [
+   "14.2",
+   "14.7"
+  ]
+ },
+ {
+  "term": "electron capture",
+  "sections": [
+   "14.2"
+  ]
+ },
+ {
+  "term": "gamma ray",
+  "sections": [
+   "14.2",
+   "14.7"
+  ]
+ },
+ {
+  "term": "metastable",
+  "sections": [
+   "14.2",
+   "14.7"
+  ]
+ },
+ {
+  "term": "penetrating power",
+  "sections": [
+   "14.2",
+   "14.6"
+  ]
+ },
+ {
+  "term": "half-life",
+  "sections": [
+   "14.3",
+   "14.4",
+   "14.7"
+  ]
+ },
+ {
+  "term": "radiocarbon dating",
+  "sections": [
+   "14.4"
+  ]
+ },
+ {
+  "term": "nuclear fission",
+  "sections": [
+   "14.5"
+  ]
+ },
+ {
+  "term": "chain reaction",
+  "sections": [
+   "14.5"
+  ]
+ },
+ {
+  "term": "critical mass",
+  "sections": [
+   "14.5"
+  ]
+ },
+ {
+  "term": "nuclear reactor",
+  "sections": [
+   "14.5"
+  ]
+ },
+ {
+  "term": "nuclear fusion",
+  "sections": [
+   "14.5"
+  ]
+ },
+ {
+  "term": "background radiation",
+  "sections": [
+   "14.6"
+  ]
+ },
+ {
+  "term": "inverse-square law",
+  "sections": [
+   "14.6"
+  ]
+ },
+ {
+  "term": "tracer",
+  "sections": [
+   "14.7"
+  ]
+ },
+ {
+  "term": "positron emission tomography",
+  "sections": [
+   "14.7"
+  ]
+ },
+ {
+  "term": "swap-drop method",
+  "sections": [
+   "4.2"
+  ]
+ },
+ {
+  "term": "Greek prefixes (mono-, di-, tri- ...)",
+  "sections": [
+   "4.4",
+   "4.3"
+  ]
+ },
+ {
+  "term": "-ate, -ite, per- and hypo- endings",
+  "sections": [
+   "4.2",
+   "4.5"
+  ]
+ },
+ {
+  "term": "mole road map",
+  "sections": [
+   "5.3",
+   "8.2"
+  ]
+ },
+ {
+  "term": "HONC 1-2-3-4",
+  "sections": [
+   "6.2",
+   "6.3"
+  ]
+ },
+ {
+  "term": "SNAP (symmetrical is nonpolar, asymmetrical is polar)",
+  "sections": [
+   "6.5",
+   "9.6"
+  ]
+ },
+ {
+  "term": "LEO the lion goes GER",
+  "sections": [
+   "7.7"
+  ]
+ },
+ {
+  "term": "OIL RIG",
+  "sections": [
+   "7.7"
+  ]
+ },
+ {
+  "term": "BAD (bases accept, acids donate)",
+  "sections": [
+   "12.2"
+  ]
+ },
+ {
+  "term": "Add → Away, Take → Toward",
+  "sections": [
+   "13.4",
+   "13.8"
+  ]
+ },
+ {
+  "term": "diagonal method (orbital filling order)",
+  "sections": [
+   "3.3",
+   "3.4"
+  ]
+ },
+ {
+  "term": "yellow sheet (course reference sheet)",
+  "sections": [
+   "5.1",
+   "6.5"
+  ]
+ },
+ {
+  "term": "green sheet (course reference sheet)",
+  "sections": [
+   "7.4",
+   "12.3"
+  ]
+ },
+ {
+  "term": "TI-36X Pro calculator tips",
+  "sections": [
+   "12.4",
+   "12.5"
+  ]
+ },
+ {
+  "term": "E = hν",
+  "sections": [
+   "3.1"
+  ]
+ },
+ {
+  "term": "c = λν",
+  "sections": [
+   "3.1"
+  ]
+ },
+ {
+  "term": "q = mcΔT",
+  "sections": [
+   "9.4",
+   "9.5"
+  ]
+ },
+ {
+  "term": "q = nΔH",
+  "sections": [
+   "9.5"
+  ]
+ },
+ {
+  "term": "specific heat of water",
+  "sections": [
+   "9.4",
+   "9.5"
+  ]
+ },
+ {
+  "term": "density of water",
+  "sections": [
+   "1.9",
+   "1.9.1"
+  ]
+ },
+ {
+  "term": "temperature conversions (°F, °C, K)",
+  "sections": [
+   "9.2"
+  ]
+ },
+ {
+  "term": "M<sub>1</sub>V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub>",
+  "sections": [
+   "11.4"
+  ]
+ },
+ {
+  "term": "pH + pOH = 14.00",
+  "sections": [
+   "12.5"
+  ]
+ },
+ {
+  "term": "K<sub>w</sub>",
+  "sections": [
+   "12.4",
+   "12.5"
+  ]
+ },
+ {
+  "term": "22.4 L/mol (molar volume at STP)",
+  "sections": [
+   "8.3",
+   "10.4",
+   "10.5"
+  ]
+ },
+ {
+  "term": "E = mc<sup>2</sup>",
+  "sections": [
+   "14.5"
+  ]
+ },
+ {
+  "term": "units raised to a power (area, volume)",
+  "sections": [
+   "1.4.3"
+  ]
+ },
+ {
+  "term": "density as a conversion factor",
+  "sections": [
+   "1.9.1"
+  ]
+ },
+ {
+  "term": "multi-step conversions",
+  "sections": [
+   "1.4.2"
+  ]
+ },
+ {
+  "term": "significant figures in calculations",
+  "sections": [
+   "1.3.2",
+   "12.5"
+  ]
+ },
+ {
+  "term": "rounding",
+  "sections": [
+   "1.3.2"
+  ]
+ },
+ {
+  "term": "Rutherford gold-foil experiment",
+  "sections": [
+   "2.1"
+  ]
+ },
+ {
+  "term": "Thomson, J. J. (cathode rays)",
+  "sections": [
+   "2.1"
+  ]
+ },
+ {
+  "term": "Bohr, Niels",
+  "sections": [
+   "3.2"
+  ]
+ },
+ {
+  "term": "Becquerel, Henri, and Marie and Pierre Curie",
+  "sections": [
+   "14.1"
+  ]
+ },
+ {
+  "term": "hydroxyapatite (tooth enamel and bone)",
+  "sections": [
+   "4.1",
+   "6.1",
+   "13.4"
+  ]
+ },
+ {
+  "term": "hemoglobin and oxygen transport",
+  "sections": [
+   "13.4",
+   "3.1"
+  ]
+ },
+ {
+  "term": "bicarbonate buffer (blood)",
+  "sections": [
+   "12.6",
+   "13.4"
+  ]
+ },
+ {
+  "term": "arterial blood gas (ABG)",
+  "sections": [
+   "12.5",
+   "13.4"
+  ]
+ },
+ {
+  "term": "pulse oximeter",
+  "sections": [
+   "3.1",
+   "13.4"
+  ]
+ },
+ {
+  "term": "kidney stones (calcium oxalate)",
+  "sections": [
+   "4.5",
+   "7.5"
+  ]
+ },
+ {
+  "term": "nitrate in drinking water",
+  "sections": [
+   "4.2"
+  ]
+ },
+ {
+  "term": "catalase test",
+  "sections": [
+   "1.8",
+   "7.3",
+   "13.1"
+  ]
+ },
+ {
+  "term": "carbon-14",
+  "sections": [
+   "2.5",
+   "14.4"
+  ]
+ },
+ {
+  "term": "technetium-99m",
+  "sections": [
+   "14.2",
+   "14.3",
+   "14.7"
+  ]
+ },
+ {
+  "term": "iodine-131",
+  "sections": [
+   "14.7"
+  ]
+ },
+ {
+  "term": "uranium-235",
+  "sections": [
+   "14.5"
+  ]
+ },
+ {
+  "term": "radon",
+  "sections": [
+   "14.6"
+  ]
+ },
+ {
+  "term": "time, distance and shielding",
+  "sections": [
+   "14.6"
+  ]
+ },
+ {
+  "term": "ALARA (as low as reasonably achievable)",
+  "sections": [
+   "14.1"
+  ]
+ },
+ {
+  "term": "X-rays",
+  "sections": [
+   "14.1",
+   "14.7",
+   "3.1"
+  ]
+ },
+ {
+  "term": "electron-group shapes table (VSEPR)",
+  "sections": [
+   "6.4"
+  ]
+ },
+ {
+  "term": "named groups of the periodic table",
+  "sections": [
+   "2.3"
+  ]
+ },
+ {
+  "term": "six strong acids",
+  "sections": [
+   "12.3",
+   "7.4"
+  ]
+ },
+ {
+  "term": "phase changes, six",
+  "sections": [
+   "9.5"
+  ]
+ },
+ {
+  "term": "Planck's constant (h)",
+  "sections": [
+   "3.1"
+  ]
+ },
+ {
+  "term": "Celsius and Fahrenheit scales",
+  "sections": [
+   "9.2"
+  ]
+ },
+ {
+  "term": "pressure units: atm, mmHg, torr, Pa, psi",
+  "sections": [
+   "10.2",
+   "10.4"
+  ]
+ },
+ {
+  "term": "barometer",
+  "sections": [
+   "10.2"
+  ]
+ },
+ {
+  "term": "buret",
+  "sections": [
+   "11.5"
+  ]
+ },
+ {
+  "term": "stock solution",
+  "sections": [
+   "11.4"
+  ]
+ },
+ {
+  "term": "parts per billion (ppb)",
+  "sections": [
+   "11.3"
+  ]
+ },
+ {
+  "term": "exceptions to the octet rule",
+  "sections": [
+   "6.11"
+  ]
+ },
+ {
+  "term": "control rods and moderator (nuclear reactor)",
+  "sections": [
+   "14.5"
+  ]
+ },
+ {
+  "term": "dosimeter (film badge)",
+  "sections": [
+   "14.1"
+  ]
+ },
+ {
+  "term": "absorbed dose and equivalent dose",
+  "sections": [
+   "14.1",
+   "14.6"
+  ]
+ },
+ {
+  "term": "Pauling electronegativity scale",
+  "sections": [
+   "6.5"
+  ]
+ },
+ {
+  "term": "leading and trailing zeros",
+  "sections": [
+   "1.3.1"
+  ]
+ },
+ {
+  "term": "s, p, d and f blocks",
+  "sections": [
+   "3.4"
+  ]
+ },
+ {
+  "term": "normal boiling point",
+  "sections": [
+   "9.8"
+  ]
+ },
+ {
+  "term": "solubility curve",
+  "sections": [
+   "11.2"
+  ]
+ },
+ {
+  "term": "forward and reverse reactions",
+  "sections": [
+   "13.2",
+   "13.4"
+  ]
+ },
+ {
+  "term": "size of K (what K tells you)",
+  "sections": [
+   "13.3"
+  ]
+ },
+ {
+  "term": "ionizing power",
+  "sections": [
+   "14.2"
+  ]
+ },
+ {
+  "term": "carboxylic acids (–COOH)",
+  "sections": [
+   "12.3"
+  ]
+ }
+]
