@@ -14,7 +14,7 @@ Evidence: [Science](CHEM3A-SCIENCE-AND-ANSWERS.md) · [Matrix](CHEM3A-14-CHAPTER
 | B2 | P1 | 1.2.1 Example 1.2.1.3: Answer column clipped off the PDF page | **Done 2026-11-17** |
 | B3 | P1 | 1.12 exercises: broken answer lists; "100 K"/"300 K" keys break the course sig-fig rule | **Done 2026-11-17** (+ 122.0 °F and −273.15 °C key fixes) |
 | B4 | P1 | 25 book pages with fixes (incl. 12.4 garbled tip, 14.36 backward K–Ar dating, 8.5 undefined percent error) | **Done 2026-11-17** |
-| B5 | P1 | Retired Pages (42% of the PDF) in the student TOC and export; un-prefixed archive titles | Reversible plan (back up → rename → Private → recompile); **your approval** |
+| B5 | P1 | Retired Pages (42% of the PDF) in the student TOC and export; un-prefixed archive titles | **Done 2026-11-17**: moved out of the book to your user space, set Private (reversible); confirm in next PDF |
 | B6 | P1 | Glossary and Index print placeholders | **Done 2026-11-17** (350 glossary entries; 839 index tags on 97 pages); confirm in next PDF |
 | B7 | P1 | Cover author "Unknown"; Detailed Licensing empty | Needs your credit line; then fix tags and rerun |
 | B8 | P1 | 12 inherited Ch 1 pages print "a license … Staff": NC/NC-SA/CK-12 terms not shown, your curation uncredited | **Done 2026-11-17** (tags + Licensing-page statement) |

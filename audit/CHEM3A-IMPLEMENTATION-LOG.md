@@ -116,3 +116,11 @@ Method (CHEM 3B recipe): PATCH `/api/questions/{id}` with the editor-shaped body
 ## Retest and follow-up fix, Full (20).pdf (2026-11-17)
 
 The retest is logged in `CHEM3A-PDF-AND-WEB-QA.md`. One defect from this session's rebuild of 1.12: answer labels 1(d) and 3(d) printed "(undefined)". Both were fixed on page 597500 (2 occurrences, read back). No other "undefined", NaN (except NaNO₃ and other formulas), placeholder or raw-TeX text appears in pp. 14–850.
+
+## Retired Pages hidden, 2026-11-17 (Dr. Kwasniewski: "Hide Retired Pages")
+
+- **Why a move instead of only Private:** the Workbench draft is already closed to anonymous readers (403), so restricting the archive would not change what the PDF compiler includes. The plan's reversible fallback was used instead.
+- **Done:** `POST pages/597819/move?to=User:2797c837-8938-496d-8fee-2095d3d22cc5/CHEM_3A_Retired_Pages_2026-11` moved **170 pages** (the holder + 169), and every page ID is unchanged. Then `PUT security?cascade=delta` set restriction **Private** with a Manager grant to user 31641 (Dr. Kwasniewski).
+- **Verified:** the book's top level now ends at Back Matter (16 entries: Front Matter, Ch 1–14, Back Matter). A signed-out request to the holder and 3 sampled children returns 403; Dr. Kwasniewski still reads them (200). The holder notice now gives the location and the restore steps.
+- **Undo:** move 597819 back under `Workbench/Introductory_Chemistry_Atoms_First_for_FCC_-_Revision_Draft_DTvJm7TcCY` (old paths keep redirects, so pick the same path or a new one). Nothing was deleted.
+- **To confirm:** the next PDF compile should end at about page 873 (14.10 + Index, Glossary, Detailed Licensing), with no "Retired Pages" in the outline.

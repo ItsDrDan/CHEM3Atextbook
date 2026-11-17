@@ -51,7 +51,7 @@ A major overhaul of the free LibreTexts textbook for **CHEM 3A (Introductory Gen
   | 1.5 | 597499 |
   | 1.6 Exercises | 597500 |
 
-- **Draft reordered to COR order 2026-11-14** (with his go-ahead): 14 chapters, blueprint titles, sections renumbered, pages moved between chapters per the blueprint, superseded pages moved to a "Retired Pages" holder (597819) at the end. Full map and undo notes: `tools/REORDER_2026-11-14.md`. Page ids did not change. New Chapter 1 path is now `.../01:_Matter_and_the_Scientific_Method`. Source of truth from now on is LibreTexts; pull before re-editing. Tags: `article:topic(-guide)`, `author@Daniel Kwasniewski`, `authorname:dkwasniewski`, `license:ccby`, `licenseversion:40`, `showtoc:no`.
+- **Draft reordered to COR order 2026-11-14** (with his go-ahead): 14 chapters, blueprint titles, sections renumbered, pages moved between chapters per the blueprint, superseded pages moved to a "Retired Pages" holder (597819) at the end. **2026-11-17: holder + 169 subpages moved out of the book to `User:2797c837-8938-496d-8fee-2095d3d22cc5/CHEM_3A_Retired_Pages_2026-11` and set Private (ids unchanged); restore by moving 597819 back under the book.** Full map and undo notes: `tools/REORDER_2026-11-14.md`. Page ids did not change. New Chapter 1 path is now `.../01:_Matter_and_the_Scientific_Method`. Source of truth from now on is LibreTexts; pull before re-editing. Tags: `article:topic(-guide)`, `author@Daniel Kwasniewski`, `authorname:dkwasniewski`, `license:ccby`, `licenseversion:40`, `showtoc:no`.
 
   | Page | ID |
   |---|---|
