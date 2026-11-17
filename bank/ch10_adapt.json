@@ -601,7 +601,7 @@
    "Correct: Same T and P, so volumes follow coefficients: 2.65 L N<sub>2</sub> &times; (2 L NO / 1 L N<sub>2</sub>).",
    "This flips the ratio.",
    "This assumes 1 : 1; one N<sub>2</sub> makes two NO.",
-   "This finds the moles of NO (2.65 × 2 ÷ 22.4) and stops; that number is moles, not liters. With all gases at the same T and P, the volume ratio gives liters directly."
+   "This finds the moles of NO (2.65 &times; 2 &divide; 22.4) and stops; that number is moles, not liters. With all gases at the same T and P, the volume ratio gives liters directly."
   ],
   "h": "Coefficients are volume ratios for gases at the same T and P.",
   "w": "2.65 &times; 2 = <b>5.30 L</b>.",

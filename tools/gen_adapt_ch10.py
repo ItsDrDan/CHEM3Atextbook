@@ -318,7 +318,7 @@ def build_hw():
       ["Same T and P, so volumes follow coefficients: %s L {N2} &times; (2 L NO / 1 L {N2})." % L,
        "This flips the ratio.",
        "This assumes 1 : 1; one {N2} makes two NO.",
-       "This finds the moles of NO (2.65 × 2 ÷ 22.4) and stops; that number is moles, not liters. With all gases at the same T and P, the volume ratio gives liters directly."],
+       "This finds the moles of NO (2.65 &times; 2 &divide; 22.4) and stops; that number is moles, not liters. With all gases at the same T and P, the volume ratio gives liters directly."],
       "Coefficients are volume ratios for gases at the same T and P.",
       "%s &times; 2 = <b>%s</b>." % (L, S(v, 3, 'L')), 1, 1)
 

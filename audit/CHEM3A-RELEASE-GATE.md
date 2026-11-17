@@ -18,7 +18,7 @@ Evidence: [Science](CHEM3A-SCIENCE-AND-ANSWERS.md) · [Matrix](CHEM3A-14-CHAPTER
 | B6 | P1 | Glossary and Index print placeholders | **Done 2026-11-17** (350 glossary entries; 839 index tags on 97 pages); confirm in next PDF |
 | B7 | P1 | Cover author "Unknown"; Detailed Licensing empty | Needs your credit line; then fix tags and rerun |
 | B8 | P1 | 12 inherited Ch 1 pages print "a license … Staff": NC/NC-SA/CK-12 terms not shown, your curation uncredited | **Done 2026-11-17** (tags + Licensing-page statement) |
-| B9 | P1 | ADAPT c1-h19 (1-sig-fig volume keyed to 3), c1-h21 feedback | Fixed in bank; update ADAPT |
+| B9 | P1 | ADAPT c1-h19 (1-sig-fig volume keyed to 3), c1-h21 feedback (+ 11 other bank-fix items) | **Done 2026-11-17** (13 ADAPT questions updated) |
 
 ## Nonblocking (fix when practical)
 

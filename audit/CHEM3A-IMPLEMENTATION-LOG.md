@@ -91,3 +91,24 @@ Every write followed the same steps: GET the page, require each old string to ma
 | Licensing page (597480) | 1 | Added the statement "CC BY 4.0 unless otherwise noted", the 12-page exception and the note that ItsDrDan media is all rights reserved, above the dynamic licensing template. |
 
 **Not done (need you or a separate OK):** the Retired Pages plan, the cover credit line, regenerating Detailed Licensing and the PDF in Conductor, ADAPT (waiting for sign-in), and a `git push` of the Try It banks to GitHub Pages.
+
+## Applied to ADAPT, 2026-11-17 (course 11836)
+
+Method (CHEM 3B recipe): PATCH `/api/questions/{id}` with the editor-shaped body, `automatically_update_revision` "1", `revision_action` "notify", and a reason for the edit. Each question had a dry run first: every old string had to be present in its exact field (stem, choice, per-choice feedback, hint) and choice 0 had to stay the key. Each was read back after saving.
+
+| Question | ADAPT id | Assignment | Change |
+|---|---|---|---|
+| c1-h19 | 356156 | 224842 | **Data replaced** (193 g nugget, 20.0 → 30.0 mL; key 19.3 g/mL now 3 sig figs); new distractors 6.43, 9.65, 0.0518 g/mL with matching feedback; stale "Chapter 5" note removed |
+| c1-h21 | 356158 | 224842 | 6800 g → 68,000 g in feedback |
+| c1-072 | 356114 | 224842 | Feedback: all three other samples are larger |
+| c2-007, c2-058, c2-063 | 356196, 356247, 356252 | 224843 | Intermediate sums and percent shown correctly |
+| c5-013, c5-050 | 356517, 356554 | 224849 | "exactly 12 g" → "12 g"; 159.70 g/mol |
+| c6-h36 | 356706 | 224851 | 18.14 mol |
+| c7-039 | 356749 | 224852 | Balanced equation in explanation |
+| c8-053 | 356875 | 224853 | Percent error defined instead of "(Chapter 1)" |
+| c10-h29 | 357143 | 224855 | Distractor feedback names the actual slip |
+| c11-h08 | 357236 | 224856 | Distractor feedback names the actual slip |
+
+**Read back:** all 13 saved; feedback, stem and choices identical to what was sent. For c10-h29, ADAPT stored × and ÷ as `&times;`/`&divide;`, so the bank and generator now use the same entities. Each question kept its ID, there are no duplicates, and the pools are unchanged (224842: 139, 224843: 104, 224849: 100, 224851: 106, 224852: 112, 224853: 108, 224855: 112, 224856: 114).
+
+**Repo correction found during this step:** the 2026-11-17 bank fix for c1-h19 had changed only the stem, leaving 9.65 g / 0.5 mL choices and feedback. `bank/ch01_adapt.json` now has the full replacement; the one-line diff keeps the file's format, and `check_bank_ch01` passes. The Try It widget does not use the ADAPT bank, so no student-facing practice showed the half-fixed item.
