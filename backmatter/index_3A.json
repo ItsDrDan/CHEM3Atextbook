@@ -2804,7 +2804,7 @@
   ]
  },
  {
-  "term": "pressure units: atm, mmHg, torr, Pa, psi",
+  "term": "pressure units (atm, mmHg, torr, Pa, psi)",
   "sections": [
    "10.2",
    "10.4"

@@ -679,7 +679,7 @@
   "atmospheric pressure",
   "barometer",
   "pressure",
-  "pressure units: atm, mmHg, torr, Pa, psi",
+  "pressure units (atm, mmHg, torr, Pa, psi)",
   "SI units"
  ],
  "598001": [
@@ -702,7 +702,7 @@
   "ideal gas constant",
   "ideal gas law",
   "molar volume",
-  "pressure units: atm, mmHg, torr, Pa, psi",
+  "pressure units (atm, mmHg, torr, Pa, psi)",
   "standard temperature and pressure"
  ],
  "598003": [

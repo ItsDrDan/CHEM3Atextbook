@@ -1206,7 +1206,7 @@
  {
   "term": "trigonal pyramidal",
   "synonyms": [],
-  "definition": "The shape with four electron groups, one of them a lone pair, on the central atom (about 109.5°), as in NH<sub>3</sub>.",
+  "definition": "The shape with four electron groups, one of them a lone pair, on the central atom (bond angles slightly less than 109.5°), as in NH<sub>3</sub>.",
   "section": "6.4",
   "source_file": "drafts/ch06/6.4_vsepr.html",
   "going_further": false
