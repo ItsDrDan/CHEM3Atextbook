@@ -745,13 +745,13 @@
    "C<sub>8</sub>H<sub>3</sub>"
   ],
   "y": [
-   "Correct: C: 81.71 &divide; 12.011 = 6.803 mol; H: 18.29 &divide; 1.008 = 18.15 mol. Ratio 1 : 2.667; &times; 3 = 3 : 8.",
+   "Correct: C: 81.71 &divide; 12.011 = 6.803 mol; H: 18.29 &divide; 1.008 = 18.14 mol. Ratio 1 : 2.667; &times; 3 = 3 : 8.",
    "This rounds 2.67 up to 3. A value near 2.67 (2 and 2/3) means multiply by 3.",
    "Multiplying by 2 gives 2 : 5.33, still not whole numbers; it was rounded to 5.",
    "This inverts the ratio; there are more moles of H than of C."
   ],
   "h": "After dividing by the smaller, a decimal near .67 or .33 means multiply by 3.",
-  "w": "C 6.803 : H 18.15 = 1 : 2.667; &times; 3 = <b>C<sub>3</sub>H<sub>8</sub></b>.",
+  "w": "C 6.803 : H 18.14 = 1 : 2.667; &times; 3 = <b>C<sub>3</sub>H<sub>8</sub></b>.",
   "d": 3,
   "k": 1
  },

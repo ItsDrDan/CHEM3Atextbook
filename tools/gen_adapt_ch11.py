@@ -92,7 +92,7 @@ def build_hw():
       ["P<sub>2</sub> = P<sub>1</sub> &times; S<sub>2</sub>/S<sub>1</sub>: about four times the solubility needs about four times the pressure.",
        "This inverts the ratio, giving a lower pressure for a higher solubility.",
        "This is only the solubility ratio; multiply it by P<sub>1</sub> = %s atm." % P1,
-       "This multiplies the two solubilities; solve S<sub>1</sub>/P<sub>1</sub> = S<sub>2</sub>/P<sub>2</sub> for P<sub>2</sub>."],
+       "This multiplies the two solubilities and divides by P<sub>1</sub> (1.68 &times; 6.85 &divide; 0.850); solve S<sub>1</sub>/P<sub>1</sub> = S<sub>2</sub>/P<sub>2</sub> for P<sub>2</sub> = P<sub>1</sub>S<sub>2</sub>/S<sub>1</sub>."],
       "Solve Henry's law for P<sub>2</sub>.",
       "P<sub>2</sub> = %s atm &times; %s / %s = <b>%s</b>." % (P1, S2, S1, S(v, n, 'atm')), 3, 1)
 

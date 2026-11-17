@@ -427,12 +427,12 @@ Q(T, "Hydrogen peroxide is 5.93% H and 94.07% O by mass, and its molar mass is 3
 
 Q(T, "Propane, the fuel in many farm and barbecue tanks, is 81.71% C and 18.29% H by mass. What is its empirical formula? (" + MSs('C', 'H') + ")",
   ["{C3H8}", "{CH3}", "{C2H5}", "{C8H3}"],
-  ["C: 81.71 &divide; 12.011 = 6.803 mol; H: 18.29 &divide; 1.008 = 18.15 mol. Ratio 1 : 2.667; &times; 3 = 3 : 8.",
+  ["C: 81.71 &divide; 12.011 = 6.803 mol; H: 18.29 &divide; 1.008 = 18.14 mol. Ratio 1 : 2.667; &times; 3 = 3 : 8.",
    "This rounds 2.67 up to 3. A value near 2.67 (2 and 2/3) means multiply by 3.",
    "Multiplying by 2 gives 2 : 5.33, still not whole numbers; it was rounded to 5.",
    "This inverts the ratio; there are more moles of H than of C."],
   "After dividing by the smaller, a decimal near .67 or .33 means multiply by 3.",
-  "C 6.803 : H 18.15 = 1 : 2.667; &times; 3 = <b>{C3H8}</b>.", 3, 1)
+  "C 6.803 : H 18.14 = 1 : 2.667; &times; 3 = <b>{C3H8}</b>.", 3, 1)
 
 w = D('3.150') - D('2.491'); xw = w / mm('H2O'); xs = D('2.491') / mm('CaSO4')
 Q(T, "Gypsum, the raw material for dental stone, is calcium sulfate hydrate, {CaSO4}&middot;xH<sub>2</sub>O. Heating 3.150 g of gypsum leaves 2.491 g of anhydrous {CaSO4} (" + G('CaSO4') + " g/mol). What is x? ({H2O} " + G('H2O') + " g/mol)",

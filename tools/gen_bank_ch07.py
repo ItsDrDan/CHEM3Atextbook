@@ -466,7 +466,7 @@ Q(T, "Which pair of solutions gives <b>no reaction</b> when mixed?",
    "{Mg3(PO4)2} would precipitate: phosphates are insoluble except with Group 1 and {NH4^+}.",
    "AgCl would precipitate: chloride with {Ag^+} is an exception."],
   "For each pair, swap partners and check both products.",
-  "{KNO3} + {MgCl2} &rarr; KCl(aq) + {Mg(NO3)2}(aq): all ions are spectators, so <b>{KNO3} and {MgCl2}</b> give no reaction.", 2)
+  "2 {KNO3} + {MgCl2} &rarr; 2 KCl(aq) + {Mg(NO3)2}(aq): all ions are spectators, so <b>{KNO3} and {MgCl2}</b> give no reaction.", 2)
 
 Q(T, "Struvite kidney stones contain magnesium and phosphate ions. In the lab, magnesium phosphate precipitates when magnesium chloride solution is mixed with sodium phosphate solution. What is the net ionic equation?",
   ["[[3 Mg^2+(aq) + 2 PO4^3-(aq) -> Mg3(PO4)2(s)]]",

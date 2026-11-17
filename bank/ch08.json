@@ -1254,7 +1254,7 @@
   ],
   "y": [
    "Percent yield = actual &divide; theoretical &times; 100%.",
-   "That is percent error (Chapter 1), which compares a measurement with an accepted value.",
+   "That is percent error (|measured &minus; accepted| &divide; accepted &times; 100%), which compares a measurement with an accepted value.",
    "That is a leftover (excess reactant) calculation.",
    "Yield says nothing about speed."
   ],

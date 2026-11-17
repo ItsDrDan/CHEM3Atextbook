@@ -99,7 +99,7 @@ Q(T, "A 9.00 g sample of pure water contains 1.01 g of hydrogen and 7.99 g of ox
    "The <i>ratio</i> of elements is fixed, not the mass of each element; a bigger sample has more oxygen.",
    "This multiplies 36.0 by 7.99 without dividing by the 9.00 g sample size, so the oxygen comes out heavier than the whole sample."],
   "Water always has the same mass ratio of oxygen to the whole. How many times larger is the second sample?",
-  "Pure water always has the same composition (law of definite proportions). 36.0 g &divide; 9.00 g = 4.00, so the oxygen is 4.00 &times; 7.99 g = <b>32.0 g</b>. Check: 32.0 &divide; 36.0 = 88.8% oxygen, the same as 7.99 &divide; 9.00.", 2, 1)
+  "Pure water always has the same composition (law of definite proportions). 36.0 g &divide; 9.00 g = 4.00, so the oxygen is 4.00 &times; 7.99 g = <b>32.0 g</b>. Check: 32.0 &divide; 36.0 = 88.9% oxygen, the same (within rounding) as 7.99 &divide; 9.00 = 88.8%.", 2, 1)
 
 Q(T, "Which part of Dalton's atomic theory was later shown to be <b>not quite right</b>, once isotopes were discovered?",
   ["All atoms of a given element have the same mass.",
@@ -597,12 +597,12 @@ Q(T, "Boron is a micronutrient that almond trees need. Natural boron is 19.9% bo
 
 Q(T, "Potassium is a key nutrient in Central Valley soils and almond hulls. Natural potassium is almost all potassium-39 (38.964 amu, 93.26%) and potassium-41 (40.962 amu, 6.73%). Using these two isotopes, what is potassium's average atomic mass?",
   ["39.09 amu", "39.96 amu", "3909 amu", "40.82 amu"],
-  ["(0.9326)(38.964) + (0.0673)(40.962) = 36.338 + 2.757 = 39.09 amu, rounded once at the end.",
+  ["(0.9326)(38.964) + (0.0673)(40.962) = 36.3378 + 2.7567 = 39.09 amu, rounded once at the end.",
    "This is the simple average, which treats the two isotopes as equally common.",
    "This uses 93.26 and 6.73 instead of 0.9326 and 0.0673, so the answer is 100 times too big.",
    "This puts the 93.26% on potassium-41; the heavier isotope is the rare one."],
   "Fractional abundance = percent &divide; 100.",
-  "(0.9326)(38.964) + (0.0673)(40.962) = 36.338 + 2.757 = <b>39.09 amu</b>, close to 39 because potassium-39 dominates. The abundances add to 99.99% because a tiny amount of potassium-40 (about 0.01%) is left out; including it brings the value to the periodic table's 39.098 amu.", 2, 1)
+  "(0.9326)(38.964) + (0.0673)(40.962) = 36.3378 + 2.7567 = <b>39.09 amu</b>, close to 39 because potassium-39 dominates. The abundances add to 99.99% because a tiny amount of potassium-40 (about 0.01%) is left out; including it brings the value to the periodic table's 39.098 amu.", 2, 1)
 
 Q(T, "Silver, used in some dental alloys, is 51.84% silver-107 (106.905 amu) and 48.16% silver-109 (108.905 amu). What is the average atomic mass of silver?",
   ["107.87 amu", "107.91 amu", "107.94 amu", "10787 amu"],
@@ -647,12 +647,12 @@ Q(T, "An element has two isotopes with masses 20.0 amu and 22.0 amu. Which value
 
 Q(T, "Nitrogen is a major fertilizer element. Use the isotope data in the table to calculate nitrogen's average atomic mass.",
   ["14.01 amu", "14.50 amu", "15.00 amu", "1401 amu"],
-  ["(0.9964)(14.003) + (0.0036)(15.000) = 13.95 + 0.054 = 14.01 amu.",
+  ["(0.9964)(14.003) + (0.0036)(15.000) = 13.953 + 0.054 = 14.01 amu.",
    "This is the simple average; nitrogen-15 is far too rare to pull the average halfway.",
    "This gives the 99.64% to nitrogen-15; the rare isotope is the heavier one.",
    "This uses percents directly; divide each by 100 first."],
   "Which isotope is far more abundant? The answer should be very close to its mass.",
-  "(0.9964)(14.003) + (0.0036)(15.000) = 13.95 + 0.054 = <b>14.01 amu</b>, very close to 14 because nitrogen-14 is 99.64% of natural nitrogen.", 2, 1,
+  "(0.9964)(14.003) + (0.0036)(15.000) = 13.953 + 0.054 = <b>14.01 amu</b>, very close to 14 because nitrogen-14 is 99.64% of natural nitrogen.", 2, 1,
   [{"type": "table", "cap": "Natural isotopes of nitrogen", "head": ["Isotope", "Mass (amu)", "Abundance (%)"],
     "rows": [["Nitrogen-14", "14.003", "99.64"], ["Nitrogen-15", "15.000", "0.36"]]}])
 

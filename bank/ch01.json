@@ -2273,7 +2273,7 @@
   "y": [
    "1 g = 100 cg, so 5.2 &times; 10<sup>4</sup> cg &divide; 100 = 520 g, the largest of the four.",
    "0.50 kg is 500 g; it is large, but one of the other samples is 20 g more.",
-   "455 g is already in grams, and two of the other samples are larger once you convert them.",
+   "455 g is already in grams, and it is actually the smallest: the other three are 480 g, 500 g and 520 g once you convert them.",
    "1 g = 1000 mg, so 4.8 &times; 10<sup>5</sup> mg is 480 g, which is not the largest."
   ],
   "h": "Convert every mass to grams before you compare.",

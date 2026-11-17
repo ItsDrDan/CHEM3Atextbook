@@ -226,7 +226,7 @@ Q(T, "Why is the molar mass of an element, in g/mol, the same number as its atom
    "One gram is defined as one amu.",
    "Every atom has a mass of exactly 1 amu, so the numbers always match.",
    "It is a coincidence that holds only for carbon."],
-  ["1 mol of carbon-12 atoms is exactly 12 g, and each atom is 12 amu. That choice of N<sub>A</sub> makes the numbers match for every element.",
+  ["1 mol of carbon-12 atoms is 12 g, and each atom is 12 amu. That choice of N<sub>A</sub> makes the numbers match for every element.",
    "One amu is about 1.66 &times; 10<sup>" + M + "24</sup> g, far smaller than a gram. It takes Avogadro's number of amu to make 1 g.",
    "Atoms have different masses (H 1.008 amu, Fe 55.85 amu); that is why molar masses differ.",
    "It holds for every element and compound: Na is 22.99 amu per atom and 22.99 g per mole."],
@@ -595,7 +595,7 @@ Q(T, "Rust is mostly iron(III) oxide, {Fe2O3}. What mass of iron is in 0.400 mol
   [num(x, 3) + " g Fe", num(D('0.400') * mm('Fe'), 3) + " g Fe", num(D('0.400') * mm('Fe2O3'), 3) + " g Fe", num(D('0.400') * 2 / mm('Fe'), 3) + " g Fe"],
   ["0.400 mol Fe<sub>2</sub>O<sub>3</sub> &times; 2 mol Fe / 1 mol = 0.800 mol Fe; &times; 55.85 g/mol.",
    "This skips the subscript: Fe<sub>2</sub>O<sub>3</sub> has 2 Fe per formula unit.",
-   "This is the mass of the whole compound (0.400 mol &times; 159.69 g/mol), not the iron in it.",
+   "This is the mass of the whole compound (0.400 mol &times; 159.70 g/mol), not the iron in it.",
    "This divides by the molar mass of iron in the last step instead of multiplying."],
   "mol compound &rarr; mol Fe (subscript) &rarr; g Fe (molar mass of Fe).",
   "0.400 mol &times; (2 mol Fe / 1 mol {Fe2O3}) &times; (55.85 g Fe / 1 mol Fe) = <b>" + num(x, 3) + " g Fe</b>.", 2, 1)

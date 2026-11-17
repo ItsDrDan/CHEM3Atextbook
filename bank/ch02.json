@@ -142,7 +142,7 @@
    "This multiplies 36.0 by 7.99 without dividing by the 9.00 g sample size, so the oxygen comes out heavier than the whole sample."
   ],
   "h": "Water always has the same mass ratio of oxygen to the whole. How many times larger is the second sample?",
-  "w": "Pure water always has the same composition (law of definite proportions). 36.0 g &divide; 9.00 g = 4.00, so the oxygen is 4.00 &times; 7.99 g = <b>32.0 g</b>. Check: 32.0 &divide; 36.0 = 88.8% oxygen, the same as 7.99 &divide; 9.00.",
+  "w": "Pure water always has the same composition (law of definite proportions). 36.0 g &divide; 9.00 g = 4.00, so the oxygen is 4.00 &times; 7.99 g = <b>32.0 g</b>. Check: 32.0 &divide; 36.0 = 88.9% oxygen, the same (within rounding) as 7.99 &divide; 9.00 = 88.8%.",
   "d": 2,
   "k": 1
  },
@@ -1662,13 +1662,13 @@
    "40.82 amu"
   ],
   "y": [
-   "(0.9326)(38.964) + (0.0673)(40.962) = 36.338 + 2.757 = 39.09 amu, rounded once at the end.",
+   "(0.9326)(38.964) + (0.0673)(40.962) = 36.3378 + 2.7567 = 39.09 amu, rounded once at the end.",
    "This is the simple average, which treats the two isotopes as equally common.",
    "This uses 93.26 and 6.73 instead of 0.9326 and 0.0673, so the answer is 100 times too big.",
    "This puts the 93.26% on potassium-41; the heavier isotope is the rare one."
   ],
   "h": "Fractional abundance = percent &divide; 100.",
-  "w": "(0.9326)(38.964) + (0.0673)(40.962) = 36.338 + 2.757 = <b>39.09 amu</b>, close to 39 because potassium-39 dominates. The abundances add to 99.99% because a tiny amount of potassium-40 (about 0.01%) is left out; including it brings the value to the periodic table's 39.098 amu.",
+  "w": "(0.9326)(38.964) + (0.0673)(40.962) = 36.3378 + 2.7567 = <b>39.09 amu</b>, close to 39 because potassium-39 dominates. The abundances add to 99.99% because a tiny amount of potassium-40 (about 0.01%) is left out; including it brings the value to the periodic table's 39.098 amu.",
   "d": 2,
   "k": 1
  },
@@ -1795,13 +1795,13 @@
    "1401 amu"
   ],
   "y": [
-   "(0.9964)(14.003) + (0.0036)(15.000) = 13.95 + 0.054 = 14.01 amu.",
+   "(0.9964)(14.003) + (0.0036)(15.000) = 13.953 + 0.054 = 14.01 amu.",
    "This is the simple average; nitrogen-15 is far too rare to pull the average halfway.",
    "This gives the 99.64% to nitrogen-15; the rare isotope is the heavier one.",
    "This uses percents directly; divide each by 100 first."
   ],
   "h": "Which isotope is far more abundant? The answer should be very close to its mass.",
-  "w": "(0.9964)(14.003) + (0.0036)(15.000) = 13.95 + 0.054 = <b>14.01 amu</b>, very close to 14 because nitrogen-14 is 99.64% of natural nitrogen.",
+  "w": "(0.9964)(14.003) + (0.0036)(15.000) = 13.953 + 0.054 = <b>14.01 amu</b>, very close to 14 because nitrogen-14 is 99.64% of natural nitrogen.",
   "d": 2,
   "k": 1,
   "f": [
