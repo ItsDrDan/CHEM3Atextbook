@@ -60,3 +60,21 @@
 | External citations | 7 | 4 × 200. doi.org/10.1002/2014GL060018, escholarship.org/uc/item/3791z02f and a USGS publication page gave 403 to a script (bot blocking is likely). **Check them in a browser.** |
 
 **Not tested:** iframes inside LibreTexts on a phone, keyboard focus order, and screen-reader output. These need the live pages; see the accessibility section of the release gate.
+
+## Retest: `Full (20).pdf` (compiled after the 2026-11-17 fixes; 1,498 pages)
+
+| Item | Result |
+|---|---|
+| Index (Q3) | **Fixed**: pp. 1476–1483, A–Y, entries link to section titles. Hyphenated tags are dropped in print and their en-dash copies print instead ("X–rays"), as planned. |
+| Glossary (Q4) | **Fixed**: pp. 1484–1497. All 350 headwords print, each with its definition and "[CC BY 4.0; Daniel Kwasniewski]". |
+| Licensing page | New "CC BY 4.0 unless otherwise noted" statement prints on p. 13 |
+| Inherited Ch 1 footers (Q7) | **Fixed** on 10 pages: e.g. 1.2.1 "shared under a CK-12 license … curated by Daniel Kwasniewski, Henry Agnew, & Marisa Alviar-Agnew" (the duplicate name seen on the web was a cache and did not print); 1.12 "CC BY-NC-SA 3.0 … Daniel Kwasniewski & David W. Ball". Parent pages 1.3 and 1.4 (pp. 31, 46) still print "a license" because their license tag was left as mixed. |
+| P0 targets image (Q9) | **Fixed**, p. 37: new figure prints with its credit line. |
+| 1.2.1 Example 1.2.1.3 (Q8) | **Fixed**, p. 26: "Answer:" lines print inside each row. |
+| 1.12 (Q10) | Rebuilt lists print, p. 129–130. **A new defect from the rebuild was found:** in answers 1(d) and 3(d), the label printed "(undefined)" because the label helper only had letters a–c. It was fixed on LibreTexts the same day (both now "(d)", read back). Next compile should confirm. |
+| 12.4 tip (Q11) | **Fixed**: garbled text gone. |
+| Other fixes (8.5 percent error, 14.36 K–Ar, 4.4 B₂Cl₄, Exp 8a titles, 9.2 note) | Present at the expected pages |
+| Raw TeX / Math Processing Error / blank footers | 0 |
+| Cover author (Q2) | Still "Unknown"; needs your credit decision and a Conductor/author-record fix |
+| Detailed Licensing (Q5) | Still "not available"; needs the Detailed Licensing build in Conductor |
+| Retired Pages (Q1) | Still pp. 851–1475; awaiting the archive decision |

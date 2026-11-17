@@ -112,3 +112,7 @@ Method (CHEM 3B recipe): PATCH `/api/questions/{id}` with the editor-shaped body
 **Read back:** all 13 saved; feedback, stem and choices identical to what was sent. For c10-h29, ADAPT stored × and ÷ as `&times;`/`&divide;`, so the bank and generator now use the same entities. Each question kept its ID, there are no duplicates, and the pools are unchanged (224842: 139, 224843: 104, 224849: 100, 224851: 106, 224852: 112, 224853: 108, 224855: 112, 224856: 114).
 
 **Repo correction found during this step:** the 2026-11-17 bank fix for c1-h19 had changed only the stem, leaving 9.65 g / 0.5 mL choices and feedback. `bank/ch01_adapt.json` now has the full replacement; the one-line diff keeps the file's format, and `check_bank_ch01` passes. The Try It widget does not use the ADAPT bank, so no student-facing practice showed the half-fixed item.
+
+## Retest and follow-up fix, Full (20).pdf (2026-11-17)
+
+The retest is logged in `CHEM3A-PDF-AND-WEB-QA.md`. One defect from this session's rebuild of 1.12: answer labels 1(d) and 3(d) printed "(undefined)". Both were fixed on page 597500 (2 occurrences, read back). No other "undefined", NaN (except NaNO₃ and other formulas), placeholder or raw-TeX text appears in pp. 14–850.
