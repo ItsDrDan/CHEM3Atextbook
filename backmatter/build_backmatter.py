@@ -10,7 +10,7 @@ Outputs (in this folder):
 Nothing is uploaded. Section -> page id map below comes from CLAUDE.md / REORDER notes and must be checked against
 the live Workbench tree (GET pages/{book}/tree) before any write.
 """
-import json, os, html, collections
+import re, json, os, html, collections
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 IDS = {'1.1': 597677, '1.2': 597495, '1.2.1': 597593, '1.2.2': 597594, '1.3': 597496, '1.3.1': 597595,
@@ -35,10 +35,16 @@ X = json.load(open(os.path.join(HERE, 'index_3A.json')))
 
 rows = []
 for g in sorted(G, key=lambda g: g['term'].lower()):
-    words = ', '.join([g['term']] + g.get('synonyms', []))
+    # One-character symbols (A, X, m, i, c, K, ν …) are left out of the Word(s) column: LibreTexts' glossary matches
+    # words case-insensitively, so "A" would turn every article "a" in the book into a pop-up (2026-11-17).
+    syn = g.get('synonyms', []); short = [x for x in syn if len(x.strip()) == 1]
+    words = ', '.join([g['term']] + [x for x in syn if x not in short])
+    defin = g['definition']
+    miss = [x for x in short if not re.search(r'(?<![\w])' + re.escape(x) + r'(?![\w])', re.sub(r'<[^>]+>', ' ', defin))]
+    if miss: defin = defin.rstrip() + ' (Symbol: ' + ', '.join(miss) + '.)'
     sec = g['section']; pid = IDS[sec]
     tag = ' (Going Further, not on CHEM 3A exams)' if g.get('going_further') else ''
-    rows.append(f'<tr><td data-th="Word(s)">{words}</td><td data-th="Definition">{g["definition"]}</td>'
+    rows.append(f'<tr><td data-th="Word(s)">{words}</td><td data-th="Definition">{defin}</td>'
                 f'<td data-th="Image">&nbsp;</td><td data-th="Caption">&nbsp;</td>'
                 f'<td data-th="Link"><a href="/@go/page/{pid}">Section {sec}</a>{tag}</td>'
                 f'<td data-th="Source">CC BY 4.0; Daniel Kwasniewski</td></tr>')

@@ -1858,5 +1858,152 @@
   "w": "<b>Bone marrow</b>: its rapidly dividing cells are the most sensitive.",
   "d": 1,
   "k": 0
+ },
+ {
+  "id": "c14-076",
+  "t": "ch14-health",
+  "q": "<b>Context only; a math example.</b> A patient who just received a technetium-99m dose for a bone scan gives a dose rate of 18 &mu;Sv/h at 1.0 m. A technologist works 3.0 m from the patient for 20. minutes. What dose does the technologist receive?",
+  "c": [
+   "0.67 &mu;Sv",
+   "2.0 &mu;Sv",
+   "40. &mu;Sv",
+   "6.0 &mu;Sv"
+  ],
+  "y": [
+   "Three times the distance gives one-ninth the rate: 18 &times; 1/9 = 2.0 &mu;Sv/h. Then 2.0 &mu;Sv/h &times; (20. min &times; 1 h/60 min) = 0.67 &mu;Sv.",
+   "This divides the rate by 3 for three times the distance (6.0 &mu;Sv/h). The dose rate falls with the <i>square</i> of the distance: one-ninth.",
+   "This multiplies 2.0 &mu;Sv/h by 20. as if it were hours. Convert 20. min to hours first (0.333 h).",
+   "This is 18 &times; 0.333 h: it uses the time but leaves out the distance. At 3.0 m the rate is only 2.0 &mu;Sv/h."
+  ],
+  "h": "Find the dose rate at 3.0 m first (inverse-square law), then multiply by the time in hours.",
+  "w": "Rate at 3.0 m = 18 &times; (1.0/3.0)<sup>2</sup> = 2.0 &mu;Sv/h. Dose = 2.0 &mu;Sv/h &times; (20./60) h = 0.667 &rarr; <b>0.67 &mu;Sv</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c14-077",
+  "t": "ch14-health",
+  "q": "A biology research lab uses phosphorus-32, a pure beta emitter, to label DNA. Which shield is the best match for a vial of it?",
+  "c": [
+   "A thick plastic (acrylic) shield",
+   "A sheet of paper, which stops beta particles",
+   "No shield, because beta particles cannot travel through air",
+   "A lead shield, because only lead can stop beta particles"
+  ],
+  "y": [
+   "Beta particles pass through paper but are stopped by plastic or aluminum, so a plastic shield is matched to a beta emitter.",
+   "Paper (or skin) stops alpha particles. Beta particles go through paper.",
+   "Beta particles travel easily through air, far enough to reach a worker standing near the bench.",
+   "Lead is the match for gamma rays. Plastic or aluminum is enough to stop beta particles."
+  ],
+  "h": "Match the shield to the radiation: paper for alpha, plastic or aluminum for beta, lead for gamma.",
+  "w": "A pure beta emitter is shielded with <b>plastic (or aluminum)</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c14-078",
+  "t": "ch14-health",
+  "q": "<b>Context only; a math example.</b> A chest X-ray gives a dose of about 0.1 mSv. Natural background radiation gives about 3 mSv per year. About how many chest X-rays give the same dose as one year of background radiation?",
+  "c": [
+   "About 30",
+   "About 0.03",
+   "About 300",
+   "About 3"
+  ],
+  "y": [
+   "3 mSv &divide; 0.1 mSv per X-ray = 30 X-rays. One chest X-ray is roughly ten days of background.",
+   "This divides 0.1 by 3, the fraction of a year's background that one X-ray gives, not the number of X-rays.",
+   "This divides by 0.01 instead of 0.1, a decimal slip.",
+   "This uses 3 mSv as the answer without dividing by the dose of one X-ray."
+  ],
+  "h": "Divide the yearly background dose by the dose of one X-ray.",
+  "w": "3 mSv &divide; 0.1 mSv = <b>about 30 chest X-rays</b>, which is why a single chest X-ray has no detectable effect.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c14-079",
+  "t": "ch14-medicine",
+  "q": "<b>Context only; a math example.</b> Carbon-11, used in some PET scans, decays by positron emission with a half-life of 20.4 min. A dose with an activity of 555 MBq is prepared. Which choice gives the daughter nucleus and the activity left 61.2 min later?",
+  "c": [
+   "<sup>11</sup><sub>5</sub>B; 69.4 MBq",
+   "<sup>11</sup><sub>7</sub>N; 69.4 MBq",
+   "<sup>11</sup><sub>5</sub>B; 185 MBq",
+   "<sup>11</sup><sub>5</sub>B; 139 MBq"
+  ],
+  "y": [
+   "Positron emission keeps A = 11 and lowers Z by 1 (6 &rarr; 5, boron). 61.2 &divide; 20.4 = 3 half-lives: 555 &times; (1/2)<sup>3</sup> = 69.4 MBq.",
+   "Z goes <i>down</i> by 1 in positron emission (a proton becomes a neutron). Raising Z to 7 is what beta decay does.",
+   "This divides 555 by 3, the number of half-lives. Halve three times instead: divide by 2<sup>3</sup> = 8.",
+   "This halves only twice. 61.2 min is 3 half-lives, not 2."
+  ],
+  "h": "Positron emission: the daughter has the same A and Z one lower. Then count half-lives: time &divide; half-life.",
+  "w": "<sup>11</sup><sub>6</sub>C &rarr; <sup>11</sup><sub>5</sub>B + <sup>0</sup><sub>+1</sub>e. n = 61.2 &divide; 20.4 = 3; 555 MBq &times; (1/2)<sup>3</sup> = 69.375 &rarr; <b>boron-11; 69.4 MBq</b>.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c14-080",
+  "t": "ch14-medicine",
+  "q": "<b>Context only.</b> A patient scheduled for a barium swallow asks whether the barium sulfate, BaSO<sub>4</sub>, will make them radioactive. Which statement is correct chemistry?",
+  "c": [
+   "No. BaSO<sub>4</sub> is not radioactive; its heavy barium atoms simply absorb X-rays, and it is insoluble, so it passes through the gut.",
+   "Yes. Barium is a gamma emitter, and the camera detects the gamma rays it gives off.",
+   "Yes, slightly. The X-rays change the barium nuclei and make them radioactive for a few days.",
+   "No. BaSO<sub>4</sub> dissolves quickly in the stomach, so it leaves the body before it can become radioactive."
+  ],
+  "y": [
+   "Contrast agents are not radioactive. Barium blocks X-rays, and because BaSO<sub>4</sub> is insoluble (a green-sheet exception), toxic Ba<sup>2+</sup> ions are not released.",
+   "This confuses a contrast agent with a nuclear medicine tracer. The X-rays come from a tube outside the patient; the barium only blocks them.",
+   "X-rays pass through and deposit energy; they do not change nuclei, just as gamma-sterilized supplies do not become radioactive.",
+   "BaSO<sub>4</sub> is insoluble; that is why it is safe. If it dissolved, it would release toxic Ba<sup>2+</sup> ions."
+  ],
+  "h": "Is a contrast agent a source of radiation, or does it only block X-rays from the tube?",
+  "w": "<b>No: BaSO<sub>4</sub> is not radioactive.</b> Its heavy atoms absorb X-rays, and its insolubility keeps toxic Ba<sup>2+</sup> out of the body.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c14-081",
+  "t": "ch14-medicine",
+  "q": "<b>Context only; a math example.</b> Used syringes from technetium-99m doses (half-life 6.0 h) are held in shielded storage for 10 half-lives before disposal. How long is that, and about what fraction of the activity is left?",
+  "c": [
+   "60. h, leaving about 0.1% (1/1024) of the activity",
+   "60. h, leaving none of the activity",
+   "60. h, leaving 5% (1/20) of the activity",
+   "0.60 h, leaving about 0.1% (1/1024) of the activity"
+  ],
+  "y": [
+   "10 &times; 6.0 h = 60. h, and (1/2)<sup>10</sup> = 1/1024, about 0.1%. That is small enough to treat as essentially gone.",
+   "Activity never reaches exactly zero; each half-life removes half of what is left. After 10 half-lives, 1/1024 remains.",
+   "This multiplies 1/2 by 10 (1/20). The fraction is (1/2) multiplied by itself 10 times: 1/2<sup>10</sup>.",
+   "This divides the half-life by 10 instead of multiplying: 10 half-lives of 6.0 h each is 60. h."
+  ],
+  "h": "Time = number of half-lives &times; half-life. Fraction left = (1/2)<sup>n</sup>.",
+  "w": "10 &times; 6.0 h = 60. h; (1/2)<sup>10</sup> = 1/1024 &asymp; 0.1%: <b>60. h, about 0.1% left</b>.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c14-082",
+  "t": "ch14-medicine",
+  "q": "<b>Context only.</b> A nuclear medicine department needs to image a patient's thyroid. Which isotope is the best choice?",
+  "c": [
+   "Iodine-123: gives off gamma rays; half-life about 13 h",
+   "Iodine-131: gives off beta particles and gamma rays; half-life 8.0 days",
+   "Phosphorus-32: gives off only beta particles; half-life 14.3 days",
+   "Radium-223: gives off alpha particles; half-life 11.4 days"
+  ],
+  "y": [
+   "Iodine goes to the thyroid, gamma rays leave the body to reach the camera, and a half-life of hours means the activity is gone soon after the scan.",
+   "Iodine-131 does reach the thyroid, but its beta particles stay in the body and add dose without helping the image, and its 8.0-day half-life keeps it active much longer. It is used to <i>treat</i> the thyroid.",
+   "Beta particles are stopped inside the body and make no image, the half-life is long, and phosphorus does not collect in the thyroid.",
+   "Alpha particles are stopped within the body and cannot reach a camera, and radium does not go to the thyroid."
+  ],
+  "h": "Ask three questions: what does it emit, how long does it last, and where does its chemistry take it?",
+  "w": "Imaging needs gamma rays, a short half-life, and the right chemistry: <b>iodine-123</b>.",
+  "d": 2,
+  "k": 0
  }
 ]

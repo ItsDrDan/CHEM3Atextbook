@@ -23,9 +23,9 @@ html,body{margin:0;background:var(--bg,#f5f6fb);color:var(--ink,#1f2a44);font-fa
 .tb-head{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:8px}
 .tb-kicker{display:block;font-size:12px;font-weight:900;letter-spacing:.08em;text-transform:uppercase;color:var(--c3B,#86509b)}
 .tb h1{font-family:var(--font-display,Fredoka,sans-serif);font-weight:600;font-size:22px;margin:0;line-height:1.15;text-wrap:balance}
-.tb-game{font-weight:800;color:var(--accent,#4b57d1);text-decoration:none;border:2px solid var(--accent-soft,#eef0fe);background:var(--accent-soft,#eef0fe);border-radius:999px;padding:6px 12px;white-space:nowrap}
+.tb-game{font-weight:800;color:var(--accent,#4b57d1);text-decoration:none;border:2px solid var(--accent-soft,#eef0fe);background:var(--accent-soft,#eef0fe);border-radius:999px;padding:6px 12px;white-space:nowrap;min-height:44px;display:inline-flex;align-items:center;box-sizing:border-box}
 .tb-game:hover{border-color:var(--accent,#4b57d1)}
-.tb-foot{margin-top:10px;font-size:12px;color:var(--faint,#6f7890)}
+.tb-foot{margin-top:10px;font-size:12px;color:#4f586e}
 .tb-foot a{color:inherit}
 /* FBX card tweaks: tighter for an embed */
 .fbx .fbx-card{background:var(--surface,#fff);border:1px solid var(--line,#e3e6f0);border-radius:var(--r-lg,20px);box-shadow:var(--shadow);padding:14px}
@@ -95,4 +95,4 @@ html,body{margin:0;background:var(--bg,#f5f6fb);color:var(--ink,#1f2a44);font-fa
 .rl-ref b{color:var(--ink)}
 .fbx .fbx-tsel[hidden]{display:none}
 /* keyboard focus (fallback in case the shared brand stylesheet does not load) */
-.fbx .fbx-opt:focus-visible,.rl-opt:focus-visible,.fbx .fbx-btn:focus-visible,.rl-btn:focus-visible{outline:3px solid #9fb0ff;outline-offset:2px}
+.fbx .fbx-opt:focus-visible,.rl-opt:focus-visible,.fbx .fbx-btn:focus-visible,.rl-btn:focus-visible,.tb-game:focus-visible,.fbx select:focus-visible,.tb-foot a:focus-visible{outline:3px solid #3346c4;outline-offset:2px}

@@ -1512,5 +1512,68 @@
   "w": "<b>Zn(s) + Fe<sup>2+</sup>(aq) &rarr; Zn<sup>2+</sup>(aq) + Fe(s)</b>",
   "d": 3,
   "k": 0
+ },
+ {
+  "id": "c7-071",
+  "t": "ch07-activity",
+  "q": "Steel (iron) boat hulls on the Sacramento&ndash;San Joaquin Delta carry blocks of another metal bolted on as a sacrificial anode, which corrodes in place of the iron. Activity series (most active first): Li, K, Ca, Na, Mg, Al, Zn, Fe, Ni, Sn, Pb, H<sub>2</sub>, Cu, Ag, Au. Which metal would work?",
+  "c": [
+   "Mg",
+   "Sn",
+   "Ni",
+   "Cu"
+  ],
+  "y": [
+   "Magnesium is above iron, so it gives up electrons more easily and is oxidized instead of the iron.",
+   "Tin is below iron. It would not be oxidized first, so the iron would still rust.",
+   "Nickel is just below iron, so it cannot protect it; the protecting metal must be <i>above</i> iron.",
+   "Copper is far below iron (and below H<sub>2</sub>). This reads the list upside down."
+  ],
+  "h": "The protecting metal must be oxidized more easily than iron. Where must it sit on the list?",
+  "w": "A sacrificial metal must be above Fe on the list (Zn, Al, Mg, &hellip;). Of the choices, only <b>Mg</b> is above iron.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c7-072",
+  "t": "ch07-activity",
+  "q": "In lab, a magnesium ribbon placed in tin(II) chloride solution becomes coated with tin. Activity series (most active first): Li, K, Ca, Na, Mg, Al, Zn, Fe, Ni, Sn, Pb, H<sub>2</sub>, Cu, Ag, Au. A student then places a tin strip in magnesium chloride solution. What happens?",
+  "c": [
+   "No reaction: tin is below magnesium, so the reverse reaction does not happen on its own.",
+   "Sn(s) + MgCl<sub>2</sub>(aq) &rarr; SnCl<sub>2</sub>(aq) + Mg(s), the reverse of the first reaction",
+   "Magnesium metal plates out, because the metal higher on the list is the one that gets reduced.",
+   "It depends on the anion: tin replaces magnesium in MgCl<sub>2</sub> but not in Mg(NO<sub>3</sub>)<sub>2</sub>."
+  ],
+  "y": [
+   "The free metal (Sn) is below the metal in the compound (Mg), so nothing happens. A reaction that runs one way on its own does not run in reverse on its own.",
+   "This assumes the reverse also happens. Mg + Sn<sup>2+</sup> runs on its own, like water running downhill, so Sn + Mg<sup>2+</sup> does not.",
+   "This has the roles backward: the metal higher on the list is <i>oxidized</i>, and the ion of the lower metal is reduced. Here the ion is Mg<sup>2+</sup>, the higher metal, so no reaction.",
+   "Compare the free metal with the metal in the compound, not with the anion. Chloride or nitrate, tin is still below magnesium."
+  ],
+  "h": "Is the lone metal (Sn) higher than the metal in the compound (Mg)?",
+  "w": "Mg + Sn<sup>2+</sup> happens, so the reverse does not. Tin is below magnesium: <b>no reaction</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c7-073",
+  "t": "ch07-activity",
+  "q": "A lab technician drops strips of zinc, nickel, copper, and silver into separate test tubes of dilute hydrochloric acid. Activity series (most active first): Li, K, Ca, Na, Mg, Al, Zn, Fe, Ni, Sn, Pb, H<sub>2</sub>, Cu, Ag, Au. Which strips give off bubbles of H<sub>2</sub> gas?",
+  "c": [
+   "Zinc and nickel only",
+   "Zinc only",
+   "All four strips",
+   "Copper and silver only"
+  ],
+  "y": [
+   "Zn and Ni are above H<sub>2</sub>, so they react with the acid: for example, Ni(s) + 2 HCl(aq) &rarr; NiCl<sub>2</sub>(aq) + H<sub>2</sub>(g). Cu and Ag are below H<sub>2</sub>.",
+   "Nickel is also above H<sub>2</sub>. Only the metals at the very top (Li, K, Ca, Na) are special: they react even with water.",
+   "Not every metal reacts with acids. Copper and silver are below H<sub>2</sub>, one reason they are used in coins and jewelry.",
+   "This reads the list upside down. Metals <i>above</i> hydrogen react with acids."
+  ],
+  "h": "Find H<sub>2</sub> on the list. Which of the four metals are above it?",
+  "w": "Above H<sub>2</sub>: Zn, Ni. Below: Cu, Ag. <b>Zinc and nickel only</b> release H<sub>2</sub>.",
+  "d": 2,
+  "k": 0
  }
 ]

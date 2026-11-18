@@ -1674,5 +1674,131 @@
     ]
    }
   ]
+ },
+ {
+  "id": "c9-073",
+  "t": "ch09-energy",
+  "q": "On a hot Fresno afternoon, which change involves particles <b>losing potential energy</b>?",
+  "c": [
+   "Water vapor condensing into droplets on the outside of a glass of iced tea",
+   "Hot tea cooling from 80 &deg;C to 60 &deg;C on the counter",
+   "Ice cubes melting in the iced tea",
+   "Iced tea warming from 5 &deg;C to 20 &deg;C in the sun"
+  ],
+  "y": [
+   "Condensing pulls the water molecules closer together, so their potential energy goes down (and that energy is given off as heat).",
+   "A temperature change is a kinetic energy change: the molecules slow down. Cooling liquid tea does not pull the molecules together into a new state.",
+   "Melting pulls the molecules farther apart, so their potential energy goes <i>up</i>.",
+   "A rising temperature means the molecules gain kinetic energy (move faster), not that they lose potential energy."
+  ],
+  "h": "Temperature change: think kinetic energy. Change of state: think potential energy. Which state change brings particles closer?",
+  "w": "Losing potential energy means the particles move closer together: freezing or condensing. <b>Water vapor condensing on the cold glass</b> is the only one.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c9-074",
+  "t": "ch09-energy",
+  "q": "A nurse places a cold metal stethoscope on a patient's warm chest. Which statement uses the words <b>heat</b> and <b>temperature</b> correctly?",
+  "c": [
+   "Heat flows from the patient's warmer skin into the colder metal, so the metal's temperature rises.",
+   "Cold flows from the metal into the patient's skin, so the skin's temperature falls.",
+   "Temperature flows from the patient's skin into the metal until both have the same heat.",
+   "The metal has a heat of 20 &deg;C, lower than the skin's heat."
+  ],
+  "y": [
+   "Heat is energy that flows from a hotter object to a colder one; the metal's particles speed up, so its temperature rises.",
+   "There is no such thing as &ldquo;cold&rdquo; flowing. Energy (heat) flows out of the skin, which is why it feels cold.",
+   "This swaps the words. Heat is what flows; temperature measures the average kinetic energy of the particles.",
+   "20 &deg;C is a temperature, not heat. Heat is energy in transit, measured in joules."
+  ],
+  "h": "Heat is energy that flows. Which way does it flow, and what does temperature measure?",
+  "w": "Heat flows from hot to cold: <b>from the warmer skin into the colder metal, raising the metal's temperature</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c9-075",
+  "t": "ch09-energy",
+  "q": "Helium must be cooled to about &minus;269 &deg;C before it becomes a liquid, but water is a liquid at room temperature. Using the spring (energy well) model, which explanation is best?",
+  "c": [
+   "Helium's dispersion forces make a very shallow well, so even slow helium atoms have enough kinetic energy to pull apart; water's hydrogen bonds make a much deeper well.",
+   "Particles become a liquid once they are slow enough, whatever their attractions; helium simply has to be slowed down more.",
+   "Helium atoms have their highest potential energy when they are close together, so they push each other apart.",
+   "Helium's attractions are the strongest, so it takes the most cooling to make the atoms stick."
+  ],
+  "y": [
+   "Particles stick when their attraction beats their kinetic energy. A shallow well (weak dispersion forces) is escaped easily, so helium stays a gas until its atoms are extremely slow.",
+   "Cold particles do not only slow down; they stick because of their attraction. Without enough attraction, slowing down alone does not make a liquid.",
+   "This gets the spring backward: attracted particles have <i>low</i> potential energy close together and high potential energy pulled apart.",
+   "This reverses the strength. Weak attractions need very low temperatures to win over kinetic energy; strong ones (water's hydrogen bonds) win even at room temperature."
+  ],
+  "h": "Compare how deep each well is with how much kinetic energy the particles have.",
+  "w": "Attraction (potential energy well) versus kinetic energy: <b>helium's well is very shallow (dispersion only), so only extremely slow atoms stick; water's hydrogen bonds make a deep well</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c9-076",
+  "t": "ch09-solids",
+  "q": "Window glass is made mostly of SiO<sub>2</sub>, the same formula as quartz. When a glassblower heats it, the glass softens gradually over a range of temperatures instead of melting at one temperature. What kind of solid is glass?",
+  "c": [
+   "Amorphous: its particles have no long-range order",
+   "Crystalline covalent network, the same as quartz",
+   "Crystalline molecular solid made of SiO<sub>2</sub> molecules",
+   "Crystalline metallic solid, since it can be bent and shaped when hot"
+  ],
+  "y": [
+   "Softening over a range, rather than melting sharply, is the sign of an amorphous solid; glass, rubber, and most plastics are amorphous.",
+   "Same formula does not mean the same arrangement. Quartz has a regular repeating lattice; glass does not.",
+   "SiO<sub>2</sub> does not form small molecules the way CO<sub>2</sub> does, and glass has no regular lattice at all.",
+   "Being shaped when hot is softening, not metallic malleability. Glass is not shiny metal and does not conduct electricity."
+  ],
+  "h": "Crystalline solids melt sharply at one temperature. What does softening over a range tell you?",
+  "w": "No regular, repeating lattice and gradual softening: glass is an <b>amorphous solid</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c9-077",
+  "t": "ch09-solids",
+  "q": "A liquid has a very low surface tension and a high vapor pressure. What do these tell you about its intermolecular forces, and which other properties fit?",
+  "c": [
+   "Weak forces: a low boiling point and a low viscosity",
+   "Weak forces: a high boiling point and a high viscosity",
+   "Strong forces: a high boiling point and a low viscosity",
+   "Strong forces: a low boiling point and a low viscosity"
+  ],
+  "y": [
+   "Low surface tension and high vapor pressure both mean weak forces, and weak forces also give a low boiling point and low viscosity.",
+   "The forces are weak, but weak forces give <i>low</i> boiling points and viscosities, not high ones.",
+   "This reads the vapor pressure row backward. Strong forces hold molecules in the liquid and give a <i>low</i> vapor pressure.",
+   "Low surface tension cannot come from strong forces; stronger forces mean higher surface tension. Every row of the table points to weak forces."
+  ],
+  "h": "Vapor pressure is the one row that runs the other way. Strong forces give a low vapor pressure.",
+  "w": "Low surface tension and high vapor pressure &rarr; weak intermolecular forces &rarr; <b>low boiling point and low viscosity</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c9-078",
+  "t": "ch09-solids",
+  "q": "Which solid melts at the lowest temperature: solid argon, Ar(s); calcium fluoride, CaF<sub>2</sub>(s); quartz, SiO<sub>2</sub>(s); or iron, Fe(s)?",
+  "c": [
+   "Ar(s)",
+   "CaF<sub>2</sub>(s)",
+   "SiO<sub>2</sub>(s)",
+   "Fe(s)"
+  ],
+  "y": [
+   "Solid argon is an atomic nonbonding solid: single noble-gas atoms held only by weak dispersion forces, so it melts far below room temperature (&minus;189 &deg;C).",
+   "CaF<sub>2</sub> is a metal plus a nonmetal, an ionic solid. Ionic bonds are strong, so it melts high.",
+   "Quartz is a covalent network solid; covalent bonds run throughout, so it melts very high (about 1700 &deg;C). Not every solid made of atoms melts low.",
+   "Iron is metallic. Metals have a wide range of melting points, but iron melts at 1538 &deg;C; mercury is the low one."
+  ],
+  "h": "Name the type of each solid first. Which type is held together only by dispersion forces?",
+  "w": "Ar(s) is atomic nonbonding (dispersion forces only); the others are ionic, covalent network, and metallic. <b>Ar(s)</b> melts lowest.",
+  "d": 2,
+  "k": 0
  }
 ]

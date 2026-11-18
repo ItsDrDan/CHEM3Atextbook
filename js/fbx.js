@@ -420,7 +420,9 @@ function fbxMount(root,items,opts){
   const L='ABCD'[S.order.indexOf(0)],txt=String(q.c[0]).startsWith('§')?'':' ('+q.c[0]+')',later='<small>🔁 This question will come back later for review.</small>';
   const others=whyList(q);
   fb(solved?'good':'info',(first?'✅ <b>Correct!</b> '+q.w:solved?'✅ <b>Got it on the second try.</b> '+q.w+later:`👀 ${lastWhy?lastWhy+' ':''}The answer is <b>${L}</b>${txt}. ${q.w}${later}`)+others);
-  E('check').disabled=true;E('hintb').disabled=true;E('next').classList.add('go');buildSel();score();
+  const hadF=root.contains(document.activeElement)&&document.activeElement!==document.body;E('check').disabled=true;E('hintb').disabled=true;E('next').classList.add('go');buildSel();score();
+  /* keyboard users: Check is now disabled, so keep focus inside the widget on the Next button (2026-11-17) */
+  if(hadF||document.activeElement===document.body||document.activeElement===E('check')){try{E('next').focus({preventScroll:true})}catch(e){}}
   try{if(opts.onAnswer)opts.onAnswer(q,first,{solved,revealed:!solved,tries:S.tries+(solved?1:0),hinted:S.hinted,review:S.again,topic:tname(t),topicId:t})}catch(e){console.error(e)}
   const f=E('fb'),r=f.getBoundingClientRect();if(r.bottom>innerHeight&&f.scrollIntoView)f.scrollIntoView({behavior:'smooth',block:'nearest'})}
  function hint(){if(S.done||!S.q||!S.q.h)return;S.hinted=true;const h=E('hint');h.innerHTML='💡 '+S.q.h;h.hidden=false;E('hintb').disabled=true}
