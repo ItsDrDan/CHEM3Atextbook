@@ -2415,16 +2415,16 @@
    "24 tablets counted into a bottle",
    "24.0 mL of cough syrup",
    "2.4 kg infant mass gain",
-   "1 lb = 453.6 g"
+   "1 lb = 453.59 g"
   ],
   "y": [
    "A count of whole objects is exact: there are exactly 24 tablets, not 23.9 or 24.1.",
    "A volume read from glassware is a measurement, so it carries uncertainty and three significant figures.",
    "A mass read from a scale is a measurement with uncertainty; it has two significant figures.",
-   "This equality is a rounded value (to four significant figures), so it is not exact, even though it is a conversion factor."
+   "This equality is a rounded value (to five significant figures), so it is not exact, even though it is a conversion factor."
   ],
   "h": "Exact numbers come from counting or from definitions. Which of these was counted?",
-  "w": "<b>Counted items</b> are exact, so 24 tablets has unlimited significant figures and never limits a calculation. Defined equalities within one system (1 kg = 1000 g) and 1 in = 2.54 cm are exact too; rounded factors such as 1 lb = 453.6 g are not.",
+  "w": "<b>Counted items</b> are exact, so 24 tablets has unlimited significant figures and never limits a calculation. Defined equalities within one system (1 kg = 1000 g) and 1 in = 2.54 cm are exact too; rounded factors such as 1 lb = 453.59 g are not.",
   "d": 1,
   "k": 0
  },
@@ -2728,21 +2728,21 @@
  {
   "id": "c1-091",
   "t": "ch01-convert",
-  "q": "<b>Math practice only; always follow the order and facility policy.</b> An order calls for 15.0 mg/kg of a medication. The child weighs 44.0 lb. Using 1 kg = 2.205 lb, what dose in milligrams does the order describe?",
+  "q": "<b>Math practice only; always follow the order and facility policy.</b> An order calls for 15.0 mg/kg of a medication. The child weighs 44.0 lb. Using 1 kg = 2.2046 lb, what dose in milligrams does the order describe?",
   "c": [
    "299 mg",
    "660. mg",
    "1.46 &times; 10<sup>3</sup> mg",
-   "299.3 mg"
+   "299.4 mg"
   ],
   "y": [
-   "44.0 lb &divide; 2.205 lb/kg = 19.95 kg, and 19.95 kg &times; 15.0 mg/kg = 299 mg (three significant figures).",
+   "44.0 lb &divide; 2.2046 lb/kg = 19.96 kg, and 19.96 kg &times; 15.0 mg/kg = 299 mg (three significant figures).",
    "This multiplies the weight in pounds by 15.0 mg/kg; the order is per kilogram, so convert pounds to kilograms first.",
-   "This multiplies by 2.205 instead of dividing, which makes the weight in kilograms larger than in pounds, the wrong direction.",
-   "The arithmetic is right, but every given value has three or four significant figures, so the answer keeps three."
+   "This multiplies by 2.2046 instead of dividing, which makes the weight in kilograms larger than in pounds, the wrong direction.",
+   "The arithmetic is right, but 44.0 lb and 15.0 mg/kg have three significant figures, so the answer keeps three."
   ],
   "h": "First convert pounds to kilograms (a kilogram is heavier than a pound, so the number should shrink). Then multiply by mg/kg.",
-  "w": "44.0 lb &times; (1 kg / 2.205 lb) = 19.95 kg; 19.95 kg &times; (15.0 mg / 1 kg) = 299.3 mg &rarr; <b>299 mg</b>. Check: the child is about 20 kg, and 20 &times; 15 = 300, so the answer is reasonable.",
+  "w": "44.0 lb &times; (1 kg / 2.2046 lb) = 19.96 kg; 19.96 kg &times; (15.0 mg / 1 kg) = 299.4 mg &rarr; <b>299 mg</b>. Check: the child is about 20 kg, and 20 &times; 15 = 300, so the answer is reasonable.",
   "d": 2,
   "k": 1
  },
@@ -2896,7 +2896,7 @@
  {
   "id": "c1-099",
   "t": "ch01-convert",
-  "q": "A bag of Valley almonds weighs 2.50 lb. Using 1 lb = 453.6 g, what is its mass in kilograms?",
+  "q": "A bag of Valley almonds weighs 2.50 lb. Using 1 lb = 453.59 g, what is its mass in kilograms?",
   "c": [
    "1.13 kg",
    "1.13 &times; 10<sup>3</sup> kg",
@@ -2904,13 +2904,13 @@
    "1.134 kg"
   ],
   "y": [
-   "2.50 lb &times; 453.6 g/lb = 1134 g; &times; 1 kg/1000 g = 1.134 kg, which rounds to three significant figures as 1.13 kg.",
+   "2.50 lb &times; 453.59 g/lb = 1134 g (1133.975 g); &times; 1 kg/1000 g = 1.134 kg, which rounds to three significant figures as 1.13 kg.",
    "This is the mass in grams (1134 g) labeled as kilograms; the g &rarr; kg step was skipped.",
-   "This multiplies by 2.205 (lb per kg); a kilogram is heavier than a pound, so the number of kilograms must be smaller.",
+   "This multiplies by 2.2046 (lb per kg); a kilogram is heavier than a pound, so the number of kilograms must be smaller.",
    "The setup is right, but 2.50 lb has three significant figures, so the answer keeps three."
   ],
   "h": "Two steps: lb &rarr; g, then g &rarr; kg. A kilogram is heavier than a pound.",
-  "w": "2.50 lb &times; (453.6 g / 1 lb) &times; (1 kg / 1000 g) = 1.134 kg &rarr; <b>1.13 kg</b>. The 453.6 g factor has four significant figures, so the measured 2.50 lb (three) limits the answer.",
+  "w": "2.50 lb &times; (453.59 g / 1 lb) &times; (1 kg / 1000 g) = 1.134 kg &rarr; <b>1.13 kg</b>. The 453.59 g factor has five significant figures, so the measured 2.50 lb (three) limits the answer.",
   "d": 2,
   "k": 1
  },
