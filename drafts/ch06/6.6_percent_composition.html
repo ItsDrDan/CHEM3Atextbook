@@ -4,13 +4,19 @@
 <li>Calculate the percent by mass of each element in a compound from its formula.</li>
 <li>Calculate percent composition from measured masses.</li>
 <li>Use the law of constant composition to check a compound's identity.</li>
+<li>Use a mass percent as a conversion factor to find the mass of an element in a sample.</li>
 </ul>
 </div>
 
 <p>Every sample of pure water, from a Sierra snowfield or a Fresno tap, is 11.19% hydrogen and 88.81% oxygen by mass. This is the <strong>law of constant composition</strong> (also called the law of definite proportions, Section 2.1): a compound always contains the same elements in the same proportions by mass. The <strong>percent composition</strong> (mass percent) of a compound lists those proportions, and it is one of the first things a chemist measures about an unknown substance.</p>
 
 <h2>Percent Composition from a Formula</h2>
-<p>Use one mole of the compound. Its mass is the molar mass, and the mass of each element in it comes from the subscripts (Section 5.4):</p>
+<p>Use one mole of the compound. Its mass is the molar mass, and the mass of each element in it comes from the subscripts (Section 5.4). Every problem of this kind takes the same three simple steps:</p>
+<ol>
+<li><strong>Mass of each element</strong> in one mole: subscript &times; atomic mass.</li>
+<li><strong>Molar mass of the compound</strong>: add up the masses from step 1.</li>
+<li><strong>Plug in</strong>: part &divide; whole &times; 100%, for each element. The percents must total 100%.</li>
+</ol>
 <p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \text{mass percent of element} = \dfrac{(\text{subscript})(\text{atomic mass of element})}{\text{molar mass of compound}} \times 100\% \)</p>
 
 <div class="box-example"><p class="boxtitle">Example \(\PageIndex{1}\): Percent composition of glucose</p>
@@ -33,7 +39,31 @@
 <p><strong>Problem.</strong> A student heats 0.486 g of magnesium ribbon in a crucible until it has all reacted with oxygen from the air. The product, an oxide of magnesium, has a mass of 0.806 g. What are the mass percents of Mg and O in the product?</p>
 <p><strong>Solution.</strong> By conservation of mass, the oxygen that combined has a mass of 0.806 g &minus; 0.486 g = 0.320 g.</p>
 <p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \%\text{Mg} = \dfrac{0.486\ \text{g}}{0.806\ \text{g}} \times 100\% = 60.3\% \qquad \%\text{O} = \dfrac{0.320\ \text{g}}{0.806\ \text{g}} \times 100\% = 39.7\% \)</p>
-<p><strong>Check.</strong> 60.3 + 39.7 = 100.0%. The formula MgO predicts 24.31 &divide; 40.31 = 60.31% Mg, so this sample is consistent with MgO (Section 6.7 shows how to get the formula itself).</p></div>
+<p><strong>Check.</strong> 60.3 + 39.7 = 100.0%. There are two ways to get the oxygen percent, and they should agree: from the mass of oxygen found by conservation of mass (as above), or as 100% &minus; 60.3% = 39.7%. The formula MgO predicts 24.31 &divide; 40.31 = 60.31% Mg, so this sample is consistent with MgO (Section 6.7 shows how to get the formula itself).</p></div>
+
+<h2>Is This Sample Really What the Label Says?</h2>
+<p>Because a pure compound always has the same percent composition, you can test a sample's identity: measure the percent of one element, calculate the percent the formula predicts, and compare. If they agree (within experimental error), the sample is consistent with that compound. If they do not, the sample <strong>fails the law of constant composition</strong> for that formula: it is a different compound, or it is not pure.</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{4}\): Checking an identity</p>
+<p><strong>Problem.</strong> A jar in the stockroom is labeled "magnesium sulfate, MgSO<sub>4</sub>." An analysis of a 5.00 g sample finds 0.493 g of magnesium. Is the sample anhydrous MgSO<sub>4</sub>? Could it be the hydrate MgSO<sub>4</sub>&middot;7H<sub>2</sub>O (Epsom salt)? (Mg 24.31, S 32.06, O 15.999, H 1.008)</p>
+<p><strong>Solution.</strong> Measured: 0.493 g &divide; 5.00 g &times; 100% = <strong>9.86% Mg</strong>.</p>
+<p>Predicted for MgSO<sub>4</sub>: molar mass = 24.31 + 32.06 + 4(15.999) = 120.37 g/mol, so</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \%\text{Mg} = \dfrac{24.31}{120.37} \times 100\% = 20.20\% \)</p>
+<p>The measured 9.86% is less than half of that, so the sample is <strong>not</strong> anhydrous MgSO<sub>4</sub>. For the heptahydrate, add seven waters: 120.366 + 7(18.015) = 246.47 g/mol, so</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \%\text{Mg} = \dfrac{24.31}{246.47} \times 100\% = 9.863\% \)</p>
+<p>That matches the measured 9.86%. The jar holds <strong>MgSO<sub>4</sub>&middot;7H<sub>2</sub>O</strong>, and its label should say so.</p>
+<p><strong>Check.</strong> The hydrate is heavier per mole than the anhydrous salt but has the same one Mg, so its percent Mg must be smaller, as found. A label that leaves out the waters is a real source of error when you weigh out a chemical.</p></div>
+
+<h2>Mass Percent as a Conversion Factor</h2>
+<p>A mass percent is a ratio "per 100," so it can be written as a conversion factor and used in dimensional analysis, just like a molar mass. If a compound is 69.94% iron, then every 100 g of the compound contains 69.94 g of iron:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \dfrac{69.94\ \text{g Fe}}{100\ \text{g Fe}_2\text{O}_3} \qquad \text{or} \qquad \dfrac{100\ \text{g Fe}_2\text{O}_3}{69.94\ \text{g Fe}} \)</p>
+<p>Multiplying by the decimal (0.6994) gives the same answer, but writing the factor with units shows your work and keeps the units honest.</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{5}\): Iron from iron ore</p>
+<p><strong>Problem.</strong> Hematite, an iron ore, is iron(III) oxide, Fe<sub>2</sub>O<sub>3</sub>. What mass of iron is contained in 5.00 kg of pure hematite? (Fe 55.85, O 15.999)</p>
+<p><strong>Solution.</strong> Steps 1&ndash;3: Fe: 2(55.85) = 111.70 g; O: 3(15.999) = 47.997 g; molar mass = 159.70 g/mol; %Fe = 111.70 &divide; 159.70 &times; 100% = 69.94%. Now use the percent as a conversion factor:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 5.00\ \text{kg Fe}_2\text{O}_3 \times \dfrac{69.94\ \text{kg Fe}}{100\ \text{kg Fe}_2\text{O}_3} = 3.50\ \text{kg Fe} \)</p>
+<p><strong>Check.</strong> A little less than 70% of 5 kg is about 3.5 kg. The answer has 3 significant figures, set by the measured 5.00 kg. A percent works in any mass unit, as long as the same unit is used on top and bottom.</p></div>
 
 <div class="box-note"><p class="boxtitle">Professor Tip</p>
 <p>The percents of all the elements in a compound must add up to 100% (allowing for a small rounding difference). Use that as a free check, or, when a problem gives every percent but one, as a shortcut for the last one. And watch the subscripts: the "6" in C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> multiplies the atomic mass of carbon before you divide.</p></div>
@@ -42,7 +72,7 @@
 <p>Percent composition explains why electrolyte replacements are labeled the way they are. Potassium chloride, KCl (74.55 g/mol), is 39.10 &divide; 74.55 = <strong>52.45% potassium</strong> by mass, so a gram of KCl contains a little over half a gram of potassium. Because the body responds to the number of K<sup>+</sup> ions, not grams of salt, potassium orders and labels use milliequivalents or millimoles rather than grams (Sections 3.5 and 5.3): 1 g of KCl is 13.4 mmol of K<sup>+</sup>. Calcium is even more striking: calcium carbonate is 40.04% calcium, while calcium gluconate, a larger salt, is only about 9% calcium, so equal masses of the two deliver very different amounts of calcium. (Context only; follow the order and the product label.)</p></div>
 
 <h2>Video Lesson</h2>
-<p>Percent composition by mass in three steps, with exam-style examples, from <a href="https://youtu.be/ZtWHJci1vgc?t=27" target="_blank" rel="noopener">0:27</a>.</p>
+<p>Percent composition by mass in three steps, with exam-style examples, from <a href="https://youtu.be/ZtWHJci1vgc?t=27" target="_blank" rel="noopener">0:27</a> (the three steps at <a href="https://youtu.be/ZtWHJci1vgc?t=68" target="_blank" rel="noopener">1:08</a>; grams of iron in a sample of rust, using the percent as a conversion factor, from <a href="https://youtu.be/ZtWHJci1vgc?t=673" target="_blank" rel="noopener">11:13</a>). The video rounds some values while writing (for example, O as 15.99); use your yellow-sheet values as printed.</p>
 <p><iframe style="max-width:100%;height:auto;aspect-ratio:16/9;" width="560" height="315" src="https://www.youtube.com/embed/ZtWHJci1vgc?start=27&amp;rel=0" title="How to Find Percent Composition by Mass in 3 Simple Steps! Exam and HW Style Examples! (ItsDrDan)" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></p>
 
 <div class="box-note" style="border-left:6px solid #86509b;">
@@ -57,6 +87,8 @@
 <li><strong>Forgetting the subscript.</strong> %H in H<sub>2</sub>O uses 2(1.008), not 1.008.</li>
 <li><strong>Dividing by the wrong total.</strong> Divide by the mass of the whole compound (or whole sample), not by another element.</li>
 <li><strong>Using the metal's starting mass as the product mass</strong> in a lab problem. The product weighs more, because oxygen was added.</li>
+<li><strong>Writing the percent factor upside down.</strong> To find grams of an element from grams of compound, the compound goes on the bottom: 69.94 g Fe / 100 g Fe<sub>2</sub>O<sub>3</sub>.</li>
+<li><strong>Ignoring waters of hydration</strong> when checking an identity. MgSO<sub>4</sub> and MgSO<sub>4</sub>&middot;7H<sub>2</sub>O have very different percent compositions.</li>
 </ul>
 
 <h2>Summary</h2>
@@ -64,6 +96,8 @@
 <li>A compound always has the same percent composition (law of constant composition).</li>
 <li>From a formula: (subscript &times; atomic mass) &divide; molar mass &times; 100%.</li>
 <li>From data: mass of element &divide; total mass &times; 100%. All percents add to 100%.</li>
+<li>A measured percent that does not match the formula's percent means the sample is not that compound (or is impure).</li>
+<li>A mass percent is a conversion factor: 69.94 g Fe per 100 g Fe<sub>2</sub>O<sub>3</sub>.</li>
 </ul>
 
 <h2>Exercises</h2>
@@ -76,6 +110,12 @@
 <div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{3}\)</p>
 <p>A 2.500 g sample of a copper oxide contains 1.997 g of copper. Find the mass percent of each element.</p>
 <details><summary>Answer</summary><p>Cu: 1.997 &divide; 2.500 &times; 100% = 79.88%. O: (2.500 &minus; 1.997) = 0.503 g; 0.503 &divide; 2.500 &times; 100% = 20.1%. (CuO is 79.89% Cu.)</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{4}\)</p>
+<p>Copper(I) sulfide, Cu<sub>2</sub>S (159.16 g/mol), is a copper ore. What mass of copper is in 250. g of pure Cu<sub>2</sub>S? (Cu 63.55)</p>
+<details><summary>Answer</summary><p>%Cu = 2(63.55) &divide; 159.16 &times; 100% = 79.86%. 250. g Cu<sub>2</sub>S &times; (79.86 g Cu / 100 g Cu<sub>2</sub>S) = 200. g Cu (3 significant figures; the decimal point in 250. makes the zero significant).</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{5}\)</p>
+<p>A white powder is supposed to be sodium chloride, NaCl (58.44 g/mol). A 2.000 g sample contains 1.213 g of chlorine. Is the sample consistent with NaCl? (Cl 35.45)</p>
+<details><summary>Answer</summary><p>Measured: 1.213 &divide; 2.000 &times; 100% = 60.65% Cl. NaCl: 35.45 &divide; 58.44 &times; 100% = 60.66% Cl. They agree within rounding, so the sample is consistent with NaCl.</p></details></div>
 
 <div class="box-note"><p class="boxtitle">Attribution</p>
 <p>Written by Daniel Kwasniewski (Dr. Dan), Fresno City College, for CHEM 3A, with AI assistance; reviewed by the author. Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>. This page replaces "Mass Percent Composition" from earlier versions of this book. Atomic masses are those printed on the CHEM 3A yellow sheet. Video by ItsDrDan (all rights reserved; embedded, not part of the licensed text).</p></div>

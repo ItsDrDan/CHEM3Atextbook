@@ -20,7 +20,7 @@
 <h2>Finding an Empirical Formula</h2>
 <figure class="figure"><img src="https://itsdrdan.github.io/CHEM3Atextbook/figures/ch06/empirical_flow.svg" alt="Steps for finding an empirical formula, stacked with arrows: 1, grams of each element (from percent composition, assume 100 grams); 2, moles of each element (divide by atomic mass); 3, divide by the smallest number of moles; 4, whole-number subscripts (multiply by 2 or 3 if you see .5 or .33); 5, molecular formula, if needed: multiply by n, where n equals molar mass divided by empirical formula mass. Example: 40.0 percent C, 6.71 percent H, 53.3 percent O gives CH2O; with a molar mass of 180, the molecular formula is C6H12O6." width="470" />
 <figcaption>Figure \(\PageIndex{1}\): The route from masses or percents to an empirical formula, and on to a molecular formula. (Diagram: Daniel Kwasniewski, CC BY 4.0.)</figcaption></figure>
-<p>Subscripts are mole ratios (Section 5.4), so the job is to turn masses into moles and then find the simplest ratio of moles.</p>
+<p>Subscripts are mole ratios (Section 5.4), so the job is to turn masses into moles and then find the simplest ratio of moles. Start with a simple lab scenario. A chemist runs an elemental analysis on a mystery compound and finds that her sample contains 3 mol of carbon and 6 mol of hydrogen. What formula can she write? Only the <strong>empirical</strong> formula. The test tells her <em>how much</em> of each element is there, not how many atoms are in one molecule. There is twice as much H as C, and dividing each mole value by the smallest (3) gives C 1, H 2: <strong>CH<sub>2</sub></strong>. In reality, nobody measures moles directly in the lab; we measure mass. So real problems add one step at the start: grams &rarr; moles. As always, <strong>the goal is the mole</strong>.</p>
 
 <div class="box-example"><p class="boxtitle">Example \(\PageIndex{1}\): From lab masses (magnesium oxide)</p>
 <p><strong>Problem.</strong> In Section 6.6, 0.486 g of Mg combined with 0.320 g of O. Find the empirical formula.</p>
@@ -39,28 +39,50 @@
 <p>A molecular formula is always a whole-number multiple, n, of the empirical formula. If you know the molar mass of the compound (from another experiment, such as mass spectrometry), find n:</p>
 <p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( n = \dfrac{\text{molar mass of compound}}{\text{empirical formula mass}} \)</p>
 <p>Then multiply every subscript in the empirical formula by n.</p>
+<p>Why does this work? Look at CH<sub>2</sub>, C<sub>2</sub>H<sub>4</sub>, and C<sub>3</sub>H<sub>6</sub>. All three say "twice as many H atoms as C atoms," and their molar masses are 14.027, 28.054, and 42.081 g/mol: one, two, and three times the mass of CH<sub>2</sub>. A molecular formula's mass is always an <strong>exact whole-number multiple</strong> of the empirical formula's mass. So if a compound with the empirical formula CH<sub>2</sub> has a molar mass of 70.14 g/mol, then n = 70.14 &divide; 14.027 = 5.000, and the molecular formula is C<sub>5</sub>H<sub>10</sub>.</p>
 
 <div class="box-example"><p class="boxtitle">Example \(\PageIndex{3}\): Vitamin C</p>
 <p><strong>Problem.</strong> Vitamin C (ascorbic acid) is 40.92% C, 4.58% H, and 54.50% O, and its molar mass is 176.12 g/mol. Find its empirical and molecular formulas.</p>
 <p><strong>Solution.</strong> Per 100 g: C, 40.92 &divide; 12.011 = 3.407 mol; H, 4.58 &divide; 1.008 = 4.544 mol; O, 54.50 &divide; 15.999 = 3.406 mol. Divide by the smallest (3.406): C 1.000, H 1.334, O 1.000. A ratio of 1.33 means multiply by 3: C 3, H 4, O 3. Empirical formula: <strong>C<sub>3</sub>H<sub>4</sub>O<sub>3</sub></strong>, mass 3(12.011) + 4(1.008) + 3(15.999) = 88.062 g/mol. Then n = 176.12 &divide; 88.062 = 2.000, so the molecular formula is <strong>C<sub>6</sub>H<sub>8</sub>O<sub>6</sub></strong>.</p>
 <p><strong>Check.</strong> 6(12.011) + 8(1.008) + 6(15.999) = 176.124, matching the given molar mass.</p></div>
 
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{4}\): Putting it all together (caffeine)</p>
+<p><strong>Problem.</strong> Caffeine is 49.48% C, 5.19% H, 28.85% N, and 16.48% O by mass, and its molar mass is 194.19 g/mol. Find its empirical and molecular formulas. (C 12.011, H 1.008, N 14.007, O 15.999)</p>
+<p><strong>Solution.</strong> Assume 100 g, then convert each mass to moles:</p>
+<style type="text/css">@media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } }</style>
+<table class="mt-responsive-table">
+<caption>Table \(\PageIndex{1}\): Caffeine, from percents to a mole ratio</caption>
+<thead><tr><th scope="col">Element</th><th scope="col">Grams (per 100 g)</th><th scope="col">Moles</th><th scope="col">&divide; smallest (1.030)</th></tr></thead>
+<tbody>
+<tr><td data-th="Element">C</td><td data-th="Grams (per 100 g)">49.48</td><td data-th="Moles">49.48 &divide; 12.011 = 4.120</td><td data-th="Divide by smallest">4.000</td></tr>
+<tr><td data-th="Element">H</td><td data-th="Grams (per 100 g)">5.19</td><td data-th="Moles">5.19 &divide; 1.008 = 5.15</td><td data-th="Divide by smallest">5.00</td></tr>
+<tr><td data-th="Element">N</td><td data-th="Grams (per 100 g)">28.85</td><td data-th="Moles">28.85 &divide; 14.007 = 2.060</td><td data-th="Divide by smallest">2.000</td></tr>
+<tr><td data-th="Element">O</td><td data-th="Grams (per 100 g)">16.48</td><td data-th="Moles">16.48 &divide; 15.999 = 1.030</td><td data-th="Divide by smallest">1.000</td></tr>
+</tbody></table>
+<p>Empirical formula: <strong>C<sub>4</sub>H<sub>5</sub>N<sub>2</sub>O</strong>, with mass 4(12.011) + 5(1.008) + 2(14.007) + 15.999 = 97.097 g/mol. Then</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( n = \dfrac{194.19\ \text{g/mol}}{97.097\ \text{g/mol}} = 2.000 \)</p>
+<p>so the molecular formula is <strong>C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub></strong>.</p>
+<p><strong>Check.</strong> 8(12.011) + 10(1.008) + 4(14.007) + 2(15.999) = 194.194, matching the given 194.19 g/mol, and n came out as a whole number. If n is not close to a whole number, check whether you divided the molar mass by the empirical mass (not the other way around) and whether the empirical formula is right.</p></div>
+
+<div class="box-note"><p class="boxtitle">Professor Tip: The Goal Is Still the Mole</p>
+<p>Empirical formula problems feel new, but the first move is the one from Chapter 5: get to moles. Three more habits save points. First, the empirical and molecular formulas <em>can be the same</em>: if the subscripts have no common factor, as in H<sub>2</sub>O or ethanol, C<sub>2</sub>H<sub>6</sub>O, n is 1, and a question that seems to want "something different" may be a trick. Second, ionic formulas are always empirical, because a formula unit is already the simplest ratio. Third, mass percent and empirical formula problems are among the hardest in this unit, so write the step-by-step routine on your study sheet and practice it until you can do it without looking.</p></div>
+
 <h3>Hydrates</h3>
 <p>The same mole-ratio idea finds the number of waters in a hydrate (Section 4.3): heat it, weigh the water lost, and compare moles of water to moles of anhydrous salt.</p>
 
-<div class="box-example"><p class="boxtitle">Example \(\PageIndex{4}\): Copper(II) sulfate hydrate</p>
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{5}\): Copper(II) sulfate hydrate</p>
 <p><strong>Problem.</strong> Heating 2.500 g of blue copper(II) sulfate hydrate, CuSO<sub>4</sub>&middot;xH<sub>2</sub>O, leaves 1.598 g of white anhydrous CuSO<sub>4</sub> (159.61 g/mol). Find x.</p>
 <p><strong>Solution.</strong> Water lost: 2.500 &minus; 1.598 = 0.902 g, or 0.902 &divide; 18.015 = 0.05007 mol. CuSO<sub>4</sub>: 1.598 &divide; 159.61 = 0.01001 mol. Ratio: 0.05007 &divide; 0.01001 = 5.00, so x = 5: <strong>CuSO<sub>4</sub>&middot;5H<sub>2</sub>O</strong>.</p>
 <p><strong>Check.</strong> This matches the pentahydrate whose molar mass you found in Section 5.2.</p></div>
 
 <div class="box-note"><p class="boxtitle">In the Lab: Experiment 5a, Empirical Formula</p>
-<p>In this experiment you heat a weighed coil of magnesium ribbon in a covered crucible over a Bunsen burner until it has reacted with oxygen from the air, then weigh the white oxide, exactly the calculation in Sections 6.6 and 6.7. Two known errors pull results away from MgO: magnesium that does not fully react (too little oxygen), and magnesium that reacts with nitrogen in the air (about 78% of air) to form some magnesium nitride. Report what you actually measured and explain the difference; honest data with a reasoned error analysis is the goal.</p></div>
+<p>In this experiment you heat weighed magnesium turnings in a crucible, with the lid slightly ajar to let air in, over a Bunsen burner until it has reacted with oxygen from the air, then weigh the white oxide, exactly the calculation in Sections 6.6 and 6.7. Two known errors pull results away from MgO: magnesium that does not fully react (too little oxygen), and magnesium that reacts with nitrogen in the air (about 78% of air) to form some magnesium nitride. Report what you actually measured and explain the difference; honest data with a reasoned error analysis is the goal. Know the equipment by name, since a lab practical may ask you to identify it: the <strong>crucible</strong> and its lid, the <strong>clay triangle</strong> that holds it, the <strong>iron ring</strong> on the ring stand, the <strong>wire mesh</strong> (wire gauze), and the <strong>crucible tongs</strong>. Handle the crucible only with the tongs: fingerprints leave oils and moisture that add mass to a container you are weighing to the milligram, and a hot crucible can burn you. If you must touch the crucible, wear gloves.</p></div>
 
 <div class="box-note"><p class="boxtitle">Biology Connection: Biochemistry</p>
 <p>The name <strong>carbohydrate</strong> comes from the empirical formula: many sugars have the formula C<sub>n</sub>(H<sub>2</sub>O)<sub>n</sub>, which looks like "carbon hydrate," or CH<sub>2</sub>O for short. Glucose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>), fructose (also C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>), and ribose (C<sub>5</sub>H<sub>10</sub>O<sub>5</sub>, part of RNA) all share the empirical formula CH<sub>2</sub>O. Glucose and fructose even share the same <em>molecular</em> formula, but their atoms are arranged differently, so they are different sugars with different properties. A formula tells you what is there; a structure (Sections 6.3 and 6.4) tells you how it is put together.</p></div>
 
 <h2>Video Lesson</h2>
-<p>Empirical and molecular formulas with exam-style examples, from <a href="https://youtu.be/r5ciwMWV8Ns?t=54" target="_blank" rel="noopener">0:54</a>; from empirical to molecular formula at <a href="https://youtu.be/r5ciwMWV8Ns?t=343" target="_blank" rel="noopener">5:43</a>.</p>
+<p>Empirical and molecular formulas with exam-style examples, from <a href="https://youtu.be/r5ciwMWV8Ns?t=54" target="_blank" rel="noopener">0:54</a>; when the empirical and molecular formulas are the same (a favorite trick question) at <a href="https://youtu.be/r5ciwMWV8Ns?t=316" target="_blank" rel="noopener">5:16</a>; caffeine from percents, "the goal is the mole," from <a href="https://youtu.be/r5ciwMWV8Ns?t=389" target="_blank" rel="noopener">6:29</a>; from empirical to molecular formula, n = molar mass &divide; empirical mass, from <a href="https://youtu.be/r5ciwMWV8Ns?t=779" target="_blank" rel="noopener">12:59</a>. The video rounds some values while writing; use your yellow-sheet values as printed. Around 7:43 it reads caffeine's carbon as 49.98%; the correct value is <strong>49.48%</strong>, as in Example \(\PageIndex{4}\).</p>
 <p><iframe style="max-width:100%;height:auto;aspect-ratio:16/9;" width="560" height="315" src="https://www.youtube.com/embed/r5ciwMWV8Ns?start=54&amp;rel=0" title="Introduction to Finding the Empirical and Molecular Formula! Exam Style Examples! (ItsDrDan)" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></p>
 
 <div class="box-note" style="border-left:6px solid #86509b;">
@@ -76,13 +98,16 @@
 <li><strong>Rounding 1.5 to 2</strong> (or 1.33 to 1). Multiply to clear the fraction instead.</li>
 <li><strong>Using the empirical formula as the molecular formula</strong> when a molar mass is given; find n.</li>
 <li><strong>Forgetting to assume 100 g</strong> when the data are percents.</li>
+<li><strong>Dividing the wrong way to find n.</strong> n = molar mass &divide; empirical formula mass, which is always 1 or more. A value like 0.5 means the division is upside down.</li>
+<li><strong>Assuming the molecular formula must differ from the empirical formula.</strong> For H<sub>2</sub>O, CO<sub>2</sub>, or caffeine's empirical formula C<sub>4</sub>H<sub>5</sub>N<sub>2</sub>O itself, n can be 1.</li>
 </ul>
 
 <h2>Summary</h2>
 <ul>
 <li>Empirical formula: smallest whole-number ratio. Molecular formula: actual atoms per molecule, n &times; empirical.</li>
 <li>Masses (or percents, using 100 g) &rarr; moles &rarr; divide by smallest &rarr; clear fractions &rarr; empirical formula.</li>
-<li>n = molar mass &divide; empirical formula mass.</li>
+<li>n = molar mass &divide; empirical formula mass, always a whole number, because a molecular formula's mass is an exact multiple of the empirical mass (CH<sub>2</sub>, C<sub>2</sub>H<sub>4</sub>, C<sub>3</sub>H<sub>6</sub>: 14, 28, 42 g/mol).</li>
+<li>Elemental analysis gives amounts, not atoms per molecule, so lab data alone give only the empirical formula; a molar mass is needed for the molecular formula.</li>
 </ul>
 
 <h2>Exercises</h2>
@@ -95,6 +120,9 @@
 <div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{3}\)</p>
 <p>Acetic acid has the empirical formula CH<sub>2</sub>O and a molar mass of 60.05 g/mol. What is its molecular formula?</p>
 <details><summary>Answer</summary><p>CH<sub>2</sub>O = 30.026 g/mol; n = 60.05 &divide; 30.026 = 2.000; C<sub>2</sub>H<sub>4</sub>O<sub>2</sub> (written HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub> in Section 4.5).</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{4}\)</p>
+<p>An elemental analysis finds 0.250 mol of N and 0.500 mol of O in a sample of a gas. (a) What formula can you write from this alone? (b) The gas has a molar mass of 92.01 g/mol. What is its molecular formula?</p>
+<details><summary>Answer</summary><p>(a) Only the empirical formula: divide by 0.250 to get N 1, O 2, so NO<sub>2</sub> (46.005 g/mol). (b) n = 92.01 &divide; 46.005 = 2.000, so N<sub>2</sub>O<sub>4</sub> (dinitrogen tetroxide).</p></details></div>
 
 <div class="box-note"><p class="boxtitle">Attribution</p>
 <p>Written by Daniel Kwasniewski (Dr. Dan), Fresno City College, for CHEM 3A, with AI assistance; reviewed by the author. Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>. This page replaces "Empirical Formulas" and "Molecular Formulas" from earlier versions of this book. Atomic masses are those printed on the CHEM 3A yellow sheet. Video by ItsDrDan (all rights reserved; embedded, not part of the licensed text).</p></div>
