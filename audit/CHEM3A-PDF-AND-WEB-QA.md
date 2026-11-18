@@ -78,3 +78,14 @@
 | Cover author (Q2) | Still "Unknown"; needs your credit decision and a Conductor/author-record fix |
 | Detailed Licensing (Q5) | Still "not available"; needs the Detailed Licensing build in Conductor |
 | Retired Pages (Q1) | Still pp. 851–1475; awaiting the archive decision |
+
+## Retest: `Full (21).pdf` (after the archive move and the 1.12 label fix; **871 pages**)
+
+| Item | Result |
+|---|---|
+| Retired Pages (Q1) | **Fixed**: outline and TOC end at 14.10 Practice Games (p. 846) → Index (847) → Glossary (855) → Detailed Licensing (869). No "Retired" or "Old x.x" pages remain. 1,498 → 871 pages. |
+| 1.12 answer labels | **Fixed**: "(d) −58.0°F" and "(d) 27°C" on p. 126; no "undefined" anywhere |
+| Detailed Licensing (Q5) | **Fixed**: generated. 167 webpages; CC BY 4.0 87.4% (146), CK-12 3.6% (6), CC BY-NC-SA 3.0 2.4% (4), Undeclared 5.4% (9: book root and LibreTexts front/back-matter system pages), **Unknown 1.2% (2: parent pages 1.3 and 1.4)**. It reports "Applicable Restrictions: Noncommercial" because of the 10 NC pages. |
+| Index, Glossary, fixed pages | Still present. 0 raw TeX, Math Processing Error, placeholder or blank-footer hits. |
+| Cover (Q2) | Still "Unknown" (needs the credit decision) |
+| Parent pages 1.3, 1.4 (pp. 27, 42) | Still "a license": their source license is unverified, so it was not guessed |
