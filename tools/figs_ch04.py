@@ -135,6 +135,66 @@ NAMING_ALT=('Flowchart for naming any compound, in the order of the blue naming 
  '2 elements is a covalent binary compound, named with prefixes (no mono- on the first element) and an -ide ending, for example N2O4, dinitrogen tetroxide.')
 svg('naming_flowchart.svg',470,max(yendL,yendR)+16,o,NAMING_ALT,title='How to name any compound (blue naming sheet order)')
 
+# 4b. Naming flowchart, LANDSCAPE print version (same content; larger labels for the PDF, where tall images are height-limited)
+def qboxP(cx,y,w,h,lines,size=16,fill='#f3f6fa',notes=(),nsize=13.5):
+    x=cx-w/2; s=f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="8" fill="{fill}" stroke="{INK}" stroke-width="1.6"/>'
+    tot=len(lines)*size*1.25+(len(notes)*nsize*1.3+3 if notes else 0)
+    yy=y+(h-tot)/2+size*0.95
+    for l in lines: s+=T(cx,yy,l,size,weight='800'); yy+=size*1.25
+    yy+=3
+    for l in notes: s+=T(cx,yy-size*0.25+nsize*0.2,l,nsize,weight='600',fill=NOTE,extra='font-style="italic"'); yy+=nsize*1.3
+    return s
+def leafP(x,y,w,lines,fill):
+    h=len(lines)*18+14
+    s=f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="8" fill="{fill}" stroke="{INK}" stroke-width="1.6"/>'
+    for i,l in enumerate(lines): s+=T(x+w/2,y+23+i*18,l,15 if i==0 else 14,weight='800' if i==0 else '600')
+    return s,h
+def busP(ytop,colx,colw,leaves,fill):
+    s=''; y=ytop+14; lx=colx+16; lw=colw-16; mids=[]
+    for lines in leaves:
+        b,h=leafP(lx,y,lw,lines,fill); s+=b; mids.append(y+h/2); y+=h+10
+    bx=colx+5
+    s+=f'<path d="M{bx} {ytop} V{mids[-1]}" stroke="{INK}" stroke-width="2" fill="none"/>'
+    for m in mids: s+=arrow(bx,m,lx-1,m,2)
+    return s,y-10
+def lab(x,y,s):
+    """YES/NO label to the right of a down arrow, on a white patch."""
+    return f'<rect x="{x-3}" y="{y-14}" width="{len(s)*11+6}" height="18" fill="#fff"/>'+T(x,y,s,14,anchor='start',weight='800')
+def split(cx,y1,y2,xl,xr,yend,ll,lr):
+    """Down from (cx,y1) to y2, then a horizontal bar to xl and xr with down arrows to yend; labels ll (left) and lr (right)."""
+    s=f'<path d="M{cx} {y1} V{y2}" stroke="{INK}" stroke-width="2.2" fill="none"/>'
+    s+=f'<path d="M{xl} {y2} H{xr}" stroke="{INK}" stroke-width="2.2" fill="none"/>'
+    s+=arrow(xl,y2,xl,yend)+arrow(xr,y2,xr,yend)
+    s+=lab(xl+8,yend-4,ll)+lab(xr+8,yend-4,lr)
+    return s
+NH4P='NH'+sub('4',13)+sup('+',13)
+PW=984; CW=236; CX=[8,252,496,740]; CC=[x+CW/2 for x in CX]
+M12=(CC[0]+CC[1])/2; M34=(CC[2]+CC[3])/2
+o=T(PW/2,26,'Naming any compound',20,weight='800')
+o+=qboxP(PW/2,38,380,44,['Is there a metal (or '+NH4P+')?'],17)
+o+=split(PW/2,82,98,M12,M34,118,'YES','NO')
+o+=qboxP(M12,120,360,74,['Can the metal have','more than one charge?'],notes=['transition metals except Zn, Ag; also Sn, Pb'])
+o+=qboxP(M34,120,320,74,['Is H written first','(and aqueous)?'])
+o+=split(M12,194,208,CC[0],CC[1],230,'NO','YES')
+o+=split(M34,194,208,CC[2],CC[3],230,'YES','NO')
+HY=232; HH=34
+for i,(t,f) in enumerate([('Count the elements','#f3f6fa'),('Count the elements','#f3f6fa'),('Acid','#fde9c8'),('Count the elements','#f3f6fa')]):
+    o+=qboxP(CC[i],HY,CW,HH,[t],15.5,fill=f)
+S=lambda t:sub(t,12)
+cols=[[['2 elements: ionic binary','metal + nonmetal-ide','NaCl, sodium chloride'],
+       ['3 or more: ionic ternary','metal + polyatomic ion','(keep its ending)','K'+S('2')+'CO'+S('3')+', potassium carbonate']],
+      [['2 elements: ionic binary','metal (Roman numeral charge)','+ nonmetal-ide','FeCl'+S('3')+', iron(III) chloride'],
+       ['3 or more: ionic ternary','metal (Roman numeral charge)','+ polyatomic ion','(keep ending)','CuSO'+S('4')+', copper(II) sulfate']],
+      [['H + one element','hydro- root -ic acid','HCl(aq), hydrochloric acid'],
+       ['-ate ion → -ic acid','HNO'+S('3')+', nitric acid'],
+       ['-ite ion → -ous acid','HNO'+S('2')+', nitrous acid']],
+      [['1 element: diatomic','name the element','Cl'+S('2')+', chlorine'],
+       ['2 elements: covalent binary','prefixes + -ide','(no mono- on the first)','N'+S('2')+'O'+S('4')+', dinitrogen tetroxide']]]
+fills=[IONIC,IONIC,'#fde9c8','#e3f2e1']; ends=[]
+for i in range(4):
+    b,e=busP(HY+HH,CX[i],CW,cols[i],fills[i]); o+=b; ends.append(e)
+svg('naming_flowchart_print.svg',PW,max(ends)+14,o,NAMING_ALT,title='How to name any compound (blue naming sheet order)')
+
 # 5. Classify: ionic vs molecular particle picture
 o=T(117,22,'Ionic: NaCl',16,weight='800')+T(352,22,'Molecular: H'+sub('2')+'O',16,weight='800')
 o+=f'<rect x="12" y="34" width="210" height="190" rx="10" fill="#f6f8fb" stroke="{INK}" stroke-width="1.5"/><rect x="248" y="34" width="210" height="190" rx="10" fill="#f6f8fb" stroke="{INK}" stroke-width="1.5"/>'
