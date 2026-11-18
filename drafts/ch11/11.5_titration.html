@@ -1,8 +1,9 @@
 <div class="box-objectives">
 <p class="boxtitle">Learning Objectives</p>
 <ul>
-<li>Use volumes and molarities in stoichiometry for reactions in solution.</li>
-<li>Describe a titration: buret, titrant, indicator, and endpoint.</li>
+<li>Use volumes and molarities in stoichiometry for reactions in solution, choosing the right conversion (grams, gas volume, or solution volume) for each substance.</li>
+<li>Set up a solution stoichiometry problem from the substance whose volume and molarity are both known, and recognize and solve a limiting-reactant problem with two solutions.</li>
+<li>Describe a titration (buret, titrant, indicator, equivalence point, and endpoint) and explain the endpoint with H<sup>+</sup> + OH<sup>&minus;</sup> &rarr; H<sub>2</sub>O.</li>
 <li>Find the concentration of an unknown solution from a titration with a liquid known or a solid known, and find the percent by mass of a solid.</li>
 </ul>
 </div>
@@ -20,17 +21,64 @@
 <p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 0.0200\ \text{L} \times \dfrac{0.100\ \text{mol CaCl}_2}{1\ \text{L}} \times \dfrac{2\ \text{mol AgNO}_3}{1\ \text{mol CaCl}_2} \times \dfrac{1\ \text{L}}{0.150\ \text{mol AgNO}_3} = 0.0267\ \text{L} = 26.7\ \text{mL} \)</p>
 <p><strong>Check.</strong> Each CaCl<sub>2</sub> needs two AgNO<sub>3</sub>, which outweighs the AgNO<sub>3</sub> solution being a little more concentrated, so a slightly larger volume of it is needed.</p></div>
 
+<h2>Choosing a Strategy: The Full Stoichiometry Road Map</h2>
+<p>You now have three ways onto the mole road map, one for each way a substance can be measured. Every stoichiometry problem in this course, whatever it looks like, has the same middle step: moles of what you are given, through the mole ratio from the balanced equation, to moles of what you want. Only the on-ramp and the off-ramp change.</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \left.\begin{array}{r} \text{g A} \xrightarrow{\ \div\ \text{molar mass}\ } \\ \text{L gas A} \xrightarrow{\ \div\ 22.4\ \text{L/mol (STP)}\ } \\ \text{V}_\text{A} \times M_\text{A} \longrightarrow \end{array}\right\} \text{mol A} \xrightarrow{\ \text{mole ratio}\ } \text{mol B} \left\{\begin{array}{l} \xrightarrow{\ \times\ \text{molar mass}\ } \text{g B} \\ \xrightarrow{\ \times\ 22.4\ \text{L/mol (STP)}\ } \text{L gas B} \\ \xrightarrow{\ \div\ M_\text{B}\ } \text{V}_\text{B} \end{array}\right. \)</p>
+<p>To decide which ramp to use, look at what the problem says about each substance:</p>
+<style type="text/css">@media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } }</style>
+<table class="mt-responsive-table">
+<caption>Which conversion turns each kind of quantity into moles</caption>
+<thead><tr><th scope="col">The problem gives or asks for</th><th scope="col">Conversion to or from moles</th><th scope="col">Taught in</th></tr></thead>
+<tbody>
+<tr><td data-th="The problem gives or asks for">A mass (g, mg, kg) of a substance</td><td data-th="Conversion to or from moles">Molar mass, g mol<sup>&minus;1</sup></td><td data-th="Taught in">Sections 5.2 and 8.2</td></tr>
+<tr><td data-th="The problem gives or asks for">A volume of a <em>gas</em></td><td data-th="Conversion to or from moles">22.4 L/mol at STP; otherwise PV = nRT</td><td data-th="Taught in">Sections 8.3 and 10.5</td></tr>
+<tr><td data-th="The problem gives or asks for">A volume of a <em>solution</em> and its molarity</td><td data-th="Conversion to or from moles">mol = M &times; V(L); V(L) = mol &divide; M</td><td data-th="Taught in">Section 11.4</td></tr>
+<tr><td data-th="The problem gives or asks for">A number of atoms, molecules, or ions</td><td data-th="Conversion to or from moles">Avogadro's number, 6.0221 &times; 10<sup>23</sup> per mol</td><td data-th="Taught in">Section 5.1</td></tr>
+</tbody></table>
+<p>The two substances in one problem can use different ramps: grams of a solid on one side and a solution volume on the other, as in Example 3 below. A titration is not a new kind of problem either; it is this same road map with the solution ramp at both ends.</p>
+
+<h3>The Setup Routine</h3>
+<ol>
+<li><strong>Predict and balance the equation.</strong> Most reactions between solutions are double replacement (Section 7.3), so pair the inside ions together and the outside ions together. For a neutralization, write the water as HOH while you balance, so the OH<sup>&minus;</sup> group is easy to count; balance polyatomic ions first, zigzag to their partners, and write H<sub>2</sub>O at the end.</li>
+<li><strong>Write each given under its formula</strong> in the equation: the volume and molarity, or the grams, under the substance they belong to, and a question mark under the one you want. Writing them in place keeps two solutions from getting mixed up.</li>
+<li><strong>Let your units guide you, starting from the right place.</strong> Start on the substance for which you know <em>both</em> the volume and the molarity (or the mass): it is the only one you can turn into moles. Start with the <strong>term by itself</strong>, a volume, a mass, or moles, never the molarity. Molarity is a fraction, mol over L, that could be written either way up; the term by itself cannot be flipped, so it is the safe first number. Then go to moles, use the mole ratio, and finish with what is asked.</li>
+</ol>
+<p>One clue changes the plan: if the problem gives <strong>both a volume and a molarity for each of two solutions</strong>, either one could run out first. It is a <strong>limiting-reactant</strong> problem, and you find the product each reactant could make, exactly as in Section 8.4.</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{2}\): Limiting reactant with two solutions</p>
+<p><strong>Problem.</strong> Lead from old paint still turns up in soil and dust. 50.0 mL of 0.200 M lead(II) acetate is mixed with 75.0 mL of 0.250 M NaCl. What mass of PbCl<sub>2</sub> (278.10 g/mol) precipitates?</p>
+<p style="text-align:center;">Pb(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub>(aq) + 2 NaCl(aq) &rarr; PbCl<sub>2</sub>(s) + 2 NaC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>(aq)</p>
+<p><strong>Given and Desire.</strong> Under Pb(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub>: 50.0 mL, 0.200 M. Under NaCl: 75.0 mL, 0.250 M. Under PbCl<sub>2</sub>: ??? g. Both reactants have V and M, so this is a limiting-reactant problem.</p>
+<p><strong>Solution.</strong> Find the PbCl<sub>2</sub> each reactant could make, starting each time with the volume:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 0.0500\ \text{L} \times \dfrac{0.200\ \text{mol Pb(C}_2\text{H}_3\text{O}_2)_2}{1\ \text{L}} \times \dfrac{1\ \text{mol PbCl}_2}{1\ \text{mol Pb(C}_2\text{H}_3\text{O}_2)_2} = 0.0100\ \text{mol PbCl}_2 \)</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 0.0750\ \text{L} \times \dfrac{0.250\ \text{mol NaCl}}{1\ \text{L}} \times \dfrac{1\ \text{mol PbCl}_2}{2\ \text{mol NaCl}} = 0.009375\ \text{mol PbCl}_2 \)</p>
+<p>NaCl makes less, so <strong>NaCl is the limiting reactant</strong>, and the lead(II) acetate is in excess.</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 0.009375\ \text{mol PbCl}_2 \times \dfrac{278.10\ \text{g}}{1\ \text{mol PbCl}_2} = 2.61\ \text{g PbCl}_2 \)</p>
+<p><strong>Check.</strong> NaCl has more moles (0.01875 vs 0.0100), yet it runs out first, because it takes two NaCl for each lead ion. Only 0.009375 mol of the 0.0100 mol of lead(II) acetate reacts, leaving 0.000625 mol in solution. Three significant figures, from the givens.</p></div>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{3}\): A solid base neutralized by an acid solution</p>
+<p><strong>Problem.</strong> Aluminum hydroxide, Al(OH)<sub>3</sub> (78.00 g/mol), is an antacid ingredient. What volume of 0.150 M HCl can 0.250 g of Al(OH)<sub>3</sub> neutralize?</p>
+<p><strong>Solution.</strong> <em>Step 1, balance.</em> Inside&ndash;outside: Al<sup>3+</sup> pairs with Cl<sup>&minus;</sup>, and H pairs with OH as HOH. Al(OH)<sub>3</sub> has three OH groups, so put a 3 in front of HOH; that needs three H on the left, so 3 HCl; that gives three Cl, which matches AlCl<sub>3</sub>:</p>
+<p style="text-align:center;">Al(OH)<sub>3</sub>(s) + 3 HCl(aq) &rarr; AlCl<sub>3</sub>(aq) + 3 H<sub>2</sub>O(l)</p>
+<p><em>Step 2, givens under the equation.</em> Under Al(OH)<sub>3</sub>: 0.250 g. Under HCl: 0.150 M, V = ???. "Neutralize" means the reaction goes to completion.</p>
+<p><em>Step 3, start from the term by itself.</em> The only substance you can turn into moles is Al(OH)<sub>3</sub>, and its mass is the term by itself:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 0.250\ \text{g Al(OH)}_3 \times \dfrac{1\ \text{mol Al(OH)}_3}{78.00\ \text{g}} \times \dfrac{3\ \text{mol HCl}}{1\ \text{mol Al(OH)}_3} \times \dfrac{1\ \text{L}}{0.150\ \text{mol HCl}} = 0.0641\ \text{L} = 64.1\ \text{mL} \)</p>
+<p><strong>Check.</strong> 0.250 g is about 0.0032 mol of Al(OH)<sub>3</sub>, which needs three times as much HCl, about 0.0096 mol; at 0.15 mol per liter that is a little under a tenth of a liter. The ratio is what makes Al(OH)<sub>3</sub> effective: each formula unit neutralizes three H<sup>+</sup>. (Context only; follow the product label and the medication list.)</p></div>
+
 <h2>Titration</h2>
-<p>A <strong>titration</strong> finds the unknown concentration of a solution by reacting a measured volume of it with a solution of known concentration. In an acid&ndash;base titration:</p>
+<p>A <strong>titration</strong> finds the unknown concentration of a solution by reacting a measured volume of it with a solution of known concentration. Why would you need one? Picture a bottle of acid in the lab whose label was scribbled in a hurry and can no longer be read. Handling it safely, or using it in an experiment, depends on knowing how concentrated it is, and a titration tells you. In an acid&ndash;base titration:</p>
 <ul>
-<li>The solution of known concentration, the <strong>titrant</strong> (often NaOH), is added from a <strong>buret</strong>, a long tube marked every 0.1 mL and read to 0.01 mL that reads 0.00 at the top. The volume used is the final reading minus the initial reading.</li>
+<li>The solution of known concentration, the <strong>titrant</strong> (often NaOH), is added from a <strong>buret</strong>, a long tube marked every 0.1 mL and read to 0.01 mL that reads 0.00 at the top. The volume used is the final reading minus the initial reading. A buret tells you how much you <strong>dispensed</strong>, not how much is inside: a starting reading of 0.55 mL means the liquid level sits 0.55 mL below the zero mark, not that the buret holds only 0.55 mL.</li>
 <li>The acid and a few drops of an <strong>indicator</strong>, such as phenolphthalein, are in a flask. Phenolphthalein is colorless in acid and pink in base.</li>
 <li>Base is added slowly, with swirling, until the <strong>endpoint</strong>: the first faint pink color that lasts. At that point, the moles of base added match the moles of acid according to the balanced equation.</li>
 </ul>
+<p>Why does the color change exactly when the acid runs out? In the flask, the reaction is really the net ionic equation for neutralization (Section 7.6):</p>
+<p style="text-align:center;">H<sup>+</sup>(aq) + OH<sup>&minus;</sup>(aq) &rarr; H<sub>2</sub>O(l)</p>
+<p>Each drop of base uses up some of the acid's H<sup>+</sup>, so the H<sup>+</sup> keeps decreasing while the solution stays colorless. The <strong>equivalence point</strong> is the moment when the moles of base added exactly match the moles of acid by the balanced equation. The very next bit of base has no H<sup>+</sup> left to react with, so OH<sup>&minus;</sup> is now in excess, and phenolphthalein turns pink, almost like flipping a switch. That color change, the <strong>endpoint</strong>, is where you stop. It comes a fraction of a drop after the equivalence point, close enough that the calculation treats them as the same.</p>
 <figure class="figure"><img src="https://itsdrdan.github.io/CHEM3Atextbook/figures/ch11/titration.svg" alt="An acid–base titration. A buret, read from 0.00 mL at the top, holds sodium hydroxide of known molarity. Below it, a flask holds the acid and an indicator, colorless at the start. Base is added drop by drop until the endpoint, when the solution turns a first lasting faint pink. Steps: 1, moles of base = liters times molarity; 2, use the mole ratio from the balanced equation; 3, molarity of acid = moles of acid divided by liters of acid. The volume used is the final buret reading minus the initial reading." width="470" />
 <figcaption>Figure \(\PageIndex{1}\): An acid&ndash;base titration with phenolphthalein. (Diagram: Daniel Kwasniewski, CC BY 4.0.)</figcaption></figure>
 
-<div class="box-example"><p class="boxtitle">Example \(\PageIndex{2}\): A liquid unknown</p>
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{4}\): A liquid unknown</p>
 <p><strong>Problem.</strong> A 25.00 mL sample of HCl is titrated with 0.1050 M NaOH. The buret reads 0.55 mL at the start and 19.00 mL at the endpoint. What is the molarity of the HCl?</p>
 <p style="text-align:center;">HCl(aq) + NaOH(aq) &rarr; NaCl(aq) + H<sub>2</sub>O(l)</p>
 <p><strong>Solution.</strong> Volume of NaOH = 19.00 &minus; 0.55 = 18.45 mL.</p>
@@ -38,7 +86,7 @@
 <p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( M_\text{HCl} = \dfrac{1.937 \times 10^{-3}\ \text{mol}}{0.02500\ \text{L}} = 0.07749\ M \)</p>
 <p><strong>Check.</strong> Less base was needed than the volume of acid, so the acid is less concentrated than the base. Four significant figures come from the buret volume and the molarity.</p></div>
 
-<div class="box-example"><p class="boxtitle">Example \(\PageIndex{3}\): A solid known (standardizing NaOH)</p>
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{5}\): A solid known (standardizing NaOH)</p>
 <p><strong>Problem.</strong> NaOH solutions slowly absorb CO<sub>2</sub> from the air, so their molarity must be checked against a weighed solid acid. A 0.2150 g sample of oxalic acid, H<sub>2</sub>C<sub>2</sub>O<sub>4</sub> (90.034 g/mol), dissolved in water, requires 31.62 mL of NaOH to reach the endpoint. What is the molarity of the NaOH?</p>
 <p style="text-align:center;">H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>(aq) + 2 NaOH(aq) &rarr; Na<sub>2</sub>C<sub>2</sub>O<sub>4</sub>(aq) + 2 H<sub>2</sub>O(l)</p>
 <p><strong>Solution.</strong></p>
@@ -46,7 +94,7 @@
 <p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( M_\text{NaOH} = \dfrac{4.776 \times 10^{-3}\ \text{mol}}{0.03162\ \text{L}} = 0.1510\ M \)</p>
 <p><strong>Check.</strong> Oxalic acid has two acidic hydrogens, so each mole uses two moles of NaOH. The water used to dissolve the solid does not enter the calculation.</p></div>
 
-<div class="box-example"><p class="boxtitle">Example \(\PageIndex{4}\): Percent by mass of a solid</p>
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{6}\): Percent by mass of a solid</p>
 <p><strong>Problem.</strong> A 0.500 g piece of a vitamin C tablet is dissolved in water and titrated with 0.1000 M NaOH; the endpoint takes 22.45 mL. Vitamin C, ascorbic acid (C<sub>6</sub>H<sub>8</sub>O<sub>6</sub>, 176.124 g/mol), reacts 1 : 1 with NaOH. What is the mass percent of ascorbic acid in the tablet?</p>
 <p><strong>Solution.</strong></p>
 <p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 0.02245\ \text{L} \times 0.1000\ \dfrac{\text{mol NaOH}}{\text{L}} \times \dfrac{1\ \text{mol C}_6\text{H}_8\text{O}_6}{1\ \text{mol NaOH}} \times \dfrac{176.124\ \text{g}}{1\ \text{mol}} = 0.3954\ \text{g} \)</p>
@@ -57,7 +105,7 @@
 <p>Titration is not a new kind of problem; it is solution stoichiometry. Start from the side you know completely (volume and molarity of the titrant, or grams of a solid), go to moles, use the mole ratio from the <em>balanced</em> equation, and finish with what is asked: molarity (divide by liters of the unknown), grams (multiply by molar mass), or percent (divide by the sample mass). Watch for acids with two acidic hydrogens, such as H<sub>2</sub>SO<sub>4</sub> and oxalic acid: they need two moles of NaOH each.</p></div>
 
 <div class="box-note"><p class="boxtitle">In the Lab: Experiment 12b, Determination of Citric Acid in Soda</p>
-<p>This experiment uses both kinds of titration. In Part I, standardization, you titrate a weighed sample of oxalic acid, a solid known, to find the exact molarity of your NaOH, as in Example 3. In Part II, determination, you use that NaOH to titrate a measured volume of lemon-lime soda and find the concentration of citric acid, a liquid unknown. Citric acid has three acidic hydrogens, so the balanced equation, not a 1 : 1 guess, sets the mole ratio. Read the buret at eye level, record the starting and ending readings, and keep the unrounded values in your calculator until the end.</p></div>
+<p>This experiment uses both kinds of titration. In Part I, standardization, you titrate a weighed sample of oxalic acid, a solid known, to find the exact molarity of your NaOH, as in Example 5. In Part II, determination, you use that NaOH to titrate a measured volume of lemon-lime soda and find the concentration of citric acid, a liquid unknown. Citric acid has three acidic hydrogens, so the balanced equation, not a 1 : 1 guess, sets the mole ratio. Read the buret at eye level, record the starting and ending readings, and keep the unrounded values in your calculator until the end.</p></div>
 
 <div class="box-note"><p class="boxtitle">Clinical Connection: Nursing</p>
 <p>Antacids are a bedside example of neutralization stoichiometry. A tablet of calcium carbonate or magnesium hydroxide neutralizes a fixed number of moles of stomach acid, HCl, and product labels sometimes describe this as acid-neutralizing capacity, measured in the lab by titration. Two tablets neutralize twice as much acid, but there is a limit: calcium carbonate also releases CO<sub>2</sub> gas, and too much calcium or magnesium can cause problems for people with kidney disease, which is why antacid use is reviewed with each patient's medication list. (Context only; follow the order and the medication guide.)</p></div>
@@ -70,7 +118,7 @@
 </div>
 
 <h2>Video Lessons</h2>
-<p>Acid&ndash;base titration calculations, from <a href="https://youtu.be/Ca7o0AjwhcY?t=81" target="_blank" rel="noopener">1:21</a>; solution stoichiometry with molarity, from <a href="https://youtu.be/auELinUz1R4?t=140" target="_blank" rel="noopener">2:20</a> of the solution stoichiometry video.</p>
+<p>Acid&ndash;base titration calculations, from <a href="https://youtu.be/Ca7o0AjwhcY?t=81" target="_blank" rel="noopener">1:21</a>: why the indicator flips at the endpoint (H<sup>+</sup> + OH<sup>&minus;</sup> &rarr; H<sub>2</sub>O) at <a href="https://youtu.be/Ca7o0AjwhcY?t=262" target="_blank" rel="noopener">4:22</a> (where the narration says the color changes "when the pH reaches zero," it means at neutralization, the endpoint), what a buret reading means at <a href="https://youtu.be/Ca7o0AjwhcY?t=405" target="_blank" rel="noopener">6:45</a>, and a sulfuric acid titration, "where balancing does matter," from <a href="https://youtu.be/Ca7o0AjwhcY?t=777" target="_blank" rel="noopener">12:57</a>. In the solution stoichiometry video, the setup steps start at <a href="https://youtu.be/auELinUz1R4?t=47" target="_blank" rel="noopener">0:47</a>, a solid base neutralized by an acid at <a href="https://youtu.be/auELinUz1R4?t=140" target="_blank" rel="noopener">2:20</a>, a limiting reactant with two solutions at <a href="https://youtu.be/auELinUz1R4?t=914" target="_blank" rel="noopener">15:14</a>, and "start with the side that has both the volume and the molarity" at <a href="https://youtu.be/auELinUz1R4?t=1416" target="_blank" rel="noopener">23:36</a>. (The videos round some values while writing; use your yellow-sheet values as printed.)</p>
 <p><iframe style="max-width:100%;height:auto;aspect-ratio:16/9;" width="560" height="315" src="https://www.youtube.com/embed/Ca7o0AjwhcY?start=81&amp;rel=0" title="Acid-Base Titration Stoichiometry: How to find Molarity | Solutions | Introduction | Calculations (ItsDrDan)" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></p>
 
 <div class="box-note" style="border-left:6px solid #86509b;">
@@ -83,6 +131,9 @@
 <h2>Common Mistakes</h2>
 <ul>
 <li><strong>Skipping the mole ratio</strong> (assuming 1 : 1 for H<sub>2</sub>SO<sub>4</sub>, oxalic acid, or citric acid).</li>
+<li><strong>Starting from the wrong substance or with the molarity</strong>: start on the side where you know both V and M (or the grams), and start with the term by itself.</li>
+<li><strong>Missing a limiting-reactant problem</strong>: when both solutions come with a volume and a molarity, find the product each could make.</li>
+<li><strong>Thinking a buret reading is how much liquid is in the buret</strong>: it is how far the level is below zero.</li>
 <li><strong>Using a buret reading instead of the volume used</strong> (final &minus; initial).</li>
 <li><strong>Dividing by the titrant's volume</strong> instead of the unknown's volume when finding the unknown's molarity.</li>
 <li><strong>Adding the water used to dissolve a solid</strong> into the calculation: it does not react.</li>
@@ -90,7 +141,9 @@
 
 <h2>Summary</h2>
 <ul>
-<li>Solution stoichiometry: V &times; M &rarr; mol &rarr; mole ratio &rarr; mol &rarr; V or g.</li>
+<li>Solution stoichiometry: V &times; M &rarr; mol &rarr; mole ratio &rarr; mol &rarr; V or g. Grams, gas volumes, and solution volumes are three on-ramps to the same mole road map.</li>
+<li>Setup: balance (HOH for neutralizations), write givens under the equation, start from the side with both V and M and from the term by itself. V and M for both reactants means limiting reactant.</li>
+<li>H<sup>+</sup> + OH<sup>&minus;</sup> &rarr; H<sub>2</sub>O: the equivalence point is where the moles match; the endpoint is the color change just after it.</li>
 <li>Titration: titrant from a buret reacts with the unknown until the indicator's endpoint.</li>
 <li>Liquid known: find mol from V &times; M. Solid known: find mol from grams. Percent of a solid = g found &divide; sample mass &times; 100%.</li>
 </ul>
@@ -105,6 +158,12 @@
 <div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{3}\)</p>
 <p>What mass of AgCl (143.32 g/mol) precipitates when 30.0 mL of 0.250 M NaCl reacts with excess AgNO<sub>3</sub>? NaCl + AgNO<sub>3</sub> &rarr; AgCl + NaNO<sub>3</sub></p>
 <details><summary>Answer</summary><p>0.0300 &times; 0.250 = 7.50 &times; 10<sup>&minus;3</sup> mol AgCl; &times; 143.32 = 1.07 g.</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{4}\)</p>
+<p>25.0 mL of 0.100 M AgNO<sub>3</sub> is mixed with 15.0 mL of 0.200 M NaCl. Which reactant is limiting, and what mass of AgCl (143.32 g/mol) forms? AgNO<sub>3</sub> + NaCl &rarr; AgCl + NaNO<sub>3</sub></p>
+<details><summary>Answer</summary><p>AgNO<sub>3</sub> could make 0.0250 &times; 0.100 = 2.50 &times; 10<sup>&minus;3</sup> mol AgCl; NaCl could make 0.0150 &times; 0.200 = 3.00 &times; 10<sup>&minus;3</sup> mol. AgNO<sub>3</sub> is limiting: 2.50 &times; 10<sup>&minus;3</sup> mol &times; 143.32 g/mol = 0.358 g AgCl.</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{5}\)</p>
+<p>What volume of 0.250 M HNO<sub>3</sub> neutralizes 0.500 g of Ca(OH)<sub>2</sub> (74.09 g/mol)? Balance the equation first.</p>
+<details><summary>Answer</summary><p>Ca(OH)<sub>2</sub> + 2 HNO<sub>3</sub> &rarr; Ca(NO<sub>3</sub>)<sub>2</sub> + 2 H<sub>2</sub>O. 0.500 g &divide; 74.09 g/mol = 6.749 &times; 10<sup>&minus;3</sup> mol; &times; 2 = 0.01350 mol HNO<sub>3</sub>; &divide; 0.250 M = 0.0540 L = 54.0 mL.</p></details></div>
 
 <div class="box-note"><p class="boxtitle">Attribution</p>
 <p>Written by Daniel Kwasniewski (Dr. Dan), Fresno City College, for CHEM 3A, with AI assistance; reviewed by the author. Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>. This page replaces "Solution Stoichiometry" and "Acid&ndash;Base Titration" from earlier versions of this book. Atomic masses are those printed on the CHEM 3A yellow sheet. Videos by ItsDrDan (all rights reserved; embedded or linked, not part of the licensed text).</p></div>

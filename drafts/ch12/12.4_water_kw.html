@@ -2,7 +2,7 @@
 <p class="boxtitle">Learning Objectives</p>
 <ul>
 <li>Write the equation for the autoionization of water.</li>
-<li>Use K<sub>w</sub> = [H<sub>3</sub>O<sup>+</sup>][OH<sup>&minus;</sup>] = 1.0 &times; 10<sup>&minus;14</sup> at 25 &deg;C to find one ion concentration from the other.</li>
+<li>Use K<sub>w</sub> = [H<sub>3</sub>O<sup>+</sup>][OH<sup>&minus;</sup>] = 1.0 &times; 10<sup>&minus;14</sup> at 25 &deg;C to find one ion concentration from the other, and show why neutral water has 1.0 &times; 10<sup>&minus;7</sup> M of each ion.</li>
 <li>Classify a solution as acidic, basic, or neutral from [H<sub>3</sub>O<sup>+</sup>] or [OH<sup>&minus;</sup>].</li>
 <li>Find [H<sub>3</sub>O<sup>+</sup>] and [OH<sup>&minus;</sup>] in solutions of strong acids and strong bases.</li>
 </ul>
@@ -23,6 +23,10 @@
 <p>K<sub>w</sub> is called the <strong>ion-product constant of water</strong>. It makes [H<sub>3</sub>O<sup>+</sup>] and [OH<sup>&minus;</sup>] an <strong>inverse</strong> pair, like the two ends of a seesaw: when an acid raises [H<sub>3</sub>O<sup>+</sup>], [OH<sup>&minus;</sup>] must fall, and when a base raises [OH<sup>&minus;</sup>], [H<sub>3</sub>O<sup>+</sup>] must fall. Rearranged:</p>
 <p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( [\text{OH}^-] = \dfrac{1.0 \times 10^{-14}}{[\text{H}_3\text{O}^+]} \qquad [\text{H}_3\text{O}^+] = \dfrac{1.0 \times 10^{-14}}{[\text{OH}^-]} \)</p>
 <p>(K<sub>w</sub> changes with temperature; this book always uses the 25 &deg;C value.)</p>
+<h3>Where 1.0 &times; 10<sup>&minus;7</sup> Comes From</h3>
+<p>The value for neutral water is not a separate fact to memorize; it comes straight out of K<sub>w</sub>. In pure water every H<sub>3</sub>O<sup>+</sup> that forms comes with one OH<sup>&minus;</sup>, so the two concentrations are equal. Call each one x:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( [\text{H}_3\text{O}^+][\text{OH}^-] = x \cdot x = x^2 = 1.0 \times 10^{-14} \qquad x = \sqrt{1.0 \times 10^{-14}} = 1.0 \times 10^{-7}\ M \)</p>
+<p>Taking the square root undoes the square, and the square root of 10<sup>&minus;14</sup> is 10<sup>&minus;7</sup>. The 14 in K<sub>w</sub> also sets the size of the pH scale in Section 12.5: pH runs from about 0 to 14, and neutral water sits in the middle, at 7.</p>
 
 <h2>Acidic, Basic, and Neutral Solutions</h2>
 <p>Compare the ion concentrations with 1.0 &times; 10<sup>&minus;7</sup> M. The table below summarizes the three cases.</p>
@@ -35,7 +39,10 @@
 <tr><td data-th="Solution">Neutral</td><td data-th="[H3O+]">1.0 &times; 10<sup>&minus;7</sup> M</td><td data-th="[OH−]">1.0 &times; 10<sup>&minus;7</sup> M</td><td data-th="Comparison">[H<sub>3</sub>O<sup>+</sup>] = [OH<sup>&minus;</sup>]</td></tr>
 <tr><td data-th="Solution">Basic</td><td data-th="[H3O+]">less than 1.0 &times; 10<sup>&minus;7</sup> M</td><td data-th="[OH−]">greater than 1.0 &times; 10<sup>&minus;7</sup> M</td><td data-th="Comparison">[H<sub>3</sub>O<sup>+</sup>] &lt; [OH<sup>&minus;</sup>]</td></tr>
 </tbody></table>
-<p>Watch the negative exponents. 1 &times; 10<sup>&minus;4</sup> (0.0001) is <em>larger</em> than 1 &times; 10<sup>&minus;7</sup> (0.0000001), so [H<sub>3</sub>O<sup>+</sup>] = 1 &times; 10<sup>&minus;4</sup> M is acidic. The smaller the negative exponent's size, the bigger the number.</p>
+<p>Watch the negative exponents; the size of the power is misleading. Is [H<sub>3</sub>O<sup>+</sup>] = 1.0 &times; 10<sup>&minus;4</sup> M acidic or basic? Write both numbers out as decimals by moving the decimal point to the left as many places as the exponent says, and line them up:</p>
+<p style="text-align:center;">1 &times; 10<sup>&minus;4</sup> = 0.0001<br />
+1 &times; 10<sup>&minus;7</sup> = 0.0000001</p>
+<p>0.0001 is clearly the bigger number, a thousand times bigger, even though 7 is bigger than 4. So [H<sub>3</sub>O<sup>+</sup>] = 1.0 &times; 10<sup>&minus;4</sup> M is above neutral: the solution is <strong>acidic</strong>. The smaller the size of the negative exponent, the bigger the number. Once you have practiced writing out the zeros a few times, you can compare exponents directly: &minus;4 is closer to zero than &minus;7, so 10<sup>&minus;4</sup> is larger.</p>
 
 <div class="box-example"><p class="boxtitle">Example \(\PageIndex{1}\): [OH<sup>&minus;</sup>] from [H<sub>3</sub>O<sup>+</sup>]</p>
 <p><strong>Problem.</strong> A sports drink has [H<sub>3</sub>O<sup>+</sup>] = 2.5 &times; 10<sup>&minus;3</sup> M. Find [OH<sup>&minus;</sup>] and classify the drink.</p>
@@ -71,7 +78,7 @@
 <p>Gastric fluid in the stomach can reach [H<sub>3</sub>O<sup>+</sup>] of about 10<sup>&minus;2</sup> M, while the cells of the stomach wall work at nearly neutral conditions, about 10<sup>&minus;7</sup> M: a difference of roughly 100,000 times. The cells survive because they are covered by a thick layer of <strong>mucus</strong>, and the surface cells secrete <strong>bicarbonate</strong> (HCO<sub>3</sub><sup>&minus;</sup>) into it. Bicarbonate is a base, so it neutralizes H<sub>3</sub>O<sup>+</sup> that diffuses into the mucus before it reaches the cells. When this barrier is damaged, for example by some pain relievers or by <em>H. pylori</em> infection (Section 12.2), acid can reach the lining and cause an ulcer, an open sore.</p></div>
 
 <h2>Video Lessons</h2>
-<p>The autoionization of water and amphoteric substances, from <a href="https://youtu.be/tGqiUbBxqec?t=798" target="_blank" rel="noopener">13:18</a>; K<sub>w</sub> = [H<sup>+</sup>][OH<sup>&minus;</sup>] = 1.0 &times; 10<sup>&minus;14</sup>, from <a href="https://youtu.be/tGqiUbBxqec?t=1085" target="_blank" rel="noopener">18:05</a>; why neutral water has 10<sup>&minus;7</sup> M of each ion, from <a href="https://youtu.be/tGqiUbBxqec?t=1189" target="_blank" rel="noopener">19:49</a>; and a worked acidic-or-basic example finding [OH<sup>&minus;</sup>], from <a href="https://youtu.be/tGqiUbBxqec?t=1356" target="_blank" rel="noopener">22:36</a>.</p>
+<p>The autoionization of water and amphoteric substances, from <a href="https://youtu.be/tGqiUbBxqec?t=798" target="_blank" rel="noopener">13:18</a>; K<sub>w</sub> = [H<sup>+</sup>][OH<sup>&minus;</sup>] = 1.0 &times; 10<sup>&minus;14</sup> and its link to the 0&ndash;14 pH scale, from <a href="https://youtu.be/tGqiUbBxqec?t=1085" target="_blank" rel="noopener">18:05</a>; why neutral water has 10<sup>&minus;7</sup> M of each ion, from <a href="https://youtu.be/tGqiUbBxqec?t=1189" target="_blank" rel="noopener">19:49</a> (the x<sup>2</sup> = K<sub>w</sub> algebra at <a href="https://youtu.be/tGqiUbBxqec?t=1213" target="_blank" rel="noopener">20:13</a>); and writing out the zeros to compare 10<sup>&minus;4</sup> with 10<sup>&minus;7</sup>, then finding [OH<sup>&minus;</sup>], from <a href="https://youtu.be/tGqiUbBxqec?t=1356" target="_blank" rel="noopener">22:36</a>.</p>
 <p><iframe style="max-width:100%;height:auto;aspect-ratio:16/9;" width="560" height="315" src="https://www.youtube.com/embed/tGqiUbBxqec?start=798&amp;rel=0" title="Acid-Base Equilibria (Ka): Strength of Acids and Bases | Auto ionization of Water! Strong vs Weak! (ItsDrDan)" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></p>
 
 <div class="box-note" style="border-left:6px solid #86509b;">
@@ -91,9 +98,9 @@
 
 <h2>Summary</h2>
 <ul>
-<li>Autoionization: H<sub>2</sub>O + H<sub>2</sub>O &rlarr; H<sub>3</sub>O<sup>+</sup> + OH<sup>&minus;</sup>; in pure water each ion is 1.0 &times; 10<sup>&minus;7</sup> M at 25 &deg;C.</li>
+<li>Autoionization: H<sub>2</sub>O + H<sub>2</sub>O &rlarr; H<sub>3</sub>O<sup>+</sup> + OH<sup>&minus;</sup>; in pure water each ion is 1.0 &times; 10<sup>&minus;7</sup> M at 25 &deg;C, because x<sup>2</sup> = 1.0 &times; 10<sup>&minus;14</sup>.</li>
 <li>K<sub>w</sub> = [H<sub>3</sub>O<sup>+</sup>][OH<sup>&minus;</sup>] = 1.0 &times; 10<sup>&minus;14</sup> in every water solution at 25 &deg;C; the two concentrations are inversely related.</li>
-<li>Acidic: [H<sub>3</sub>O<sup>+</sup>] &gt; 10<sup>&minus;7</sup> M. Neutral: equal. Basic: [OH<sup>&minus;</sup>] &gt; 10<sup>&minus;7</sup> M.</li>
+<li>Acidic: [H<sub>3</sub>O<sup>+</sup>] &gt; 10<sup>&minus;7</sup> M. Neutral: equal. Basic: [OH<sup>&minus;</sup>] &gt; 10<sup>&minus;7</sup> M. When in doubt, write the numbers out as decimals and compare.</li>
 <li>Strong acids: [H<sub>3</sub>O<sup>+</sup>] = acid molarity. Strong bases: [OH<sup>&minus;</sup>] = base molarity &times; number of OH<sup>&minus;</sup>.</li>
 </ul>
 
@@ -107,6 +114,9 @@
 <div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{3}\)</p>
 <p>Which solution is more acidic: A, with [H<sub>3</sub>O<sup>+</sup>] = 4.0 &times; 10<sup>&minus;4</sup> M, or B, with [OH<sup>&minus;</sup>] = 4.0 &times; 10<sup>&minus;4</sup> M? Find [OH<sup>&minus;</sup>] in A.</p>
 <details><summary>Answer</summary><p>A is acidic ([H<sub>3</sub>O<sup>+</sup>] above 10<sup>&minus;7</sup> M); B is basic. A is more acidic. In A, [OH<sup>&minus;</sup>] = 1.0 &times; 10<sup>&minus;14</sup> &divide; 4.0 &times; 10<sup>&minus;4</sup> = 2.5 &times; 10<sup>&minus;11</sup> M.</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{4}\)</p>
+<p>Write 1 &times; 10<sup>&minus;5</sup> and 1 &times; 10<sup>&minus;9</sup> as decimals. A solution has [H<sub>3</sub>O<sup>+</sup>] = 1.0 &times; 10<sup>&minus;9</sup> M. Is it acidic, basic, or neutral?</p>
+<details><summary>Answer</summary><p>1 &times; 10<sup>&minus;5</sup> = 0.00001 and 1 &times; 10<sup>&minus;9</sup> = 0.000000001. Since 0.000000001 is smaller than neutral's 0.0000001 (10<sup>&minus;7</sup>), [H<sub>3</sub>O<sup>+</sup>] is below neutral, so the solution is <strong>basic</strong>; its [OH<sup>&minus;</sup>] is 1.0 &times; 10<sup>&minus;5</sup> M.</p></details></div>
 
 <div class="box-note"><p class="boxtitle">Attribution</p>
 <p>Written by Daniel Kwasniewski (Dr. Dan), Fresno City College, for CHEM 3A, with AI assistance; reviewed by the author. Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>. This page replaces "Acid-Base Equilibria" and "Water: Acid and Base in One" from earlier versions of this book. Video by ItsDrDan (all rights reserved; embedded or linked, not part of the licensed text).</p></div>

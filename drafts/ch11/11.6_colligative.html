@@ -4,6 +4,7 @@
 <li>Calculate molality and explain why it is used for colligative properties.</li>
 <li>Count dissolved particles (i) and calculate osmolality.</li>
 <li>Calculate freezing point depression and boiling point elevation, and explain osmosis and tonicity.</li>
+<li>Explain at the particle level why dissolved solutes raise the boiling point, and rank solutions by their particle concentration (i &times; m).</li>
 </ul>
 </div>
 
@@ -26,7 +27,10 @@
 <li>glucose, urea, ethylene glycol (nonelectrolytes): i = 1</li>
 <li>NaCl &rarr; Na<sup>+</sup> + Cl<sup>&minus;</sup>: i = 2</li>
 <li>CaCl<sub>2</sub> &rarr; Ca<sup>2+</sup> + 2 Cl<sup>&minus;</sup>: i = 3</li>
+<li>Ca(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub> &rarr; Ca<sup>2+</sup> + 2 C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>&minus;</sup>: i = 3 (the acetate ion stays together)</li>
+<li>FeCl<sub>3</sub> &rarr; Fe<sup>3+</sup> + 3 Cl<sup>&minus;</sup>: i = 4</li>
 </ul>
+<p>Finding i is just counting: write the dissolving equation (Section 11.1) and add up the coefficients on the right.</p>
 <p>The concentration of <em>particles</em> is the <strong>osmolality</strong>, in osmoles per kilogram of water (Osm/kg), or more often milliosmoles (mOsm/kg) in medicine:</p>
 <p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \text{osmolality} = i \times m \)</p>
 <p>Normal <strong>serum osmolality</strong>, the total particle concentration of blood plasma, is about 275 to 295 mOsm/kg, mostly from Na<sup>+</sup>, Cl<sup>&minus;</sup>, HCO<sub>3</sub><sup>&minus;</sup>, glucose, and urea.</p>
@@ -54,6 +58,26 @@
 <p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \Delta T_b = (1)(0.512\ {}^\circ\text{C}/m)(1.50\ m) = 0.768\ {}^\circ\text{C} \qquad T_b = 100.00 + 0.768 = 100.77\ {}^\circ\text{C} \)</p>
 <p><strong>Check.</strong> Boiling point elevation is small compared with freezing point depression, because K<sub>b</sub> is much smaller than K<sub>f</sub>.</p></div>
 
+<h3>Why Does a Solute Raise the Boiling Point?</h3>
+<p>Ask yourself two questions. When a liquid boils, what has to happen? Molecules have to leave the liquid and enter the gas phase, and to do that each one needs enough kinetic energy to break away from its neighbors. So does a <em>higher</em> boiling point mean it is easier or harder for water molecules to escape? Harder.</p>
+<p>In pure water, the molecules are held back by hydrogen bonds. Dissolve salt, and the water molecules that crowd around each Na<sup>+</sup> and Cl<sup>&minus;</sup> are now held by <strong>ion&ndash;dipole</strong> attractions, which are stronger than hydrogen bonds (Section 9.6). The ions hang on to the water like a kid at a sleepover who does not want to go home. Water molecules now need more kinetic energy to break free, and that means a higher temperature before the solution boils. The more dissolved particles there are, the more water is held back, which is why &Delta;T<sub>b</sub> grows with i &times; m. (Salting pasta water raises its boiling point, but only a little: about 20 g of salt in 4 kg of water raises it by less than 0.1 &deg;C. The salt is mostly there for flavor.)</p>
+
+<h3>Comparing Solutions: Count Particles First</h3>
+<p>Many questions ask which of several solutions has the lowest freezing point, the highest boiling point, or the greatest osmotic pressure. Use this checklist:</p>
+<ol>
+<li><strong>Count particles.</strong> Write each dissolving equation and find i. Ionic solutes give 2, 3, or 4 particles; molecular solutes give 1.</li>
+<li><strong>If the molalities are the same</strong>, the larger i wins: an ionic solute beats a molecular one, and FeCl<sub>3</sub> (4) beats CaCl<sub>2</sub> (3), which beats NaCl (2).</li>
+<li><strong>If i is the same</strong>, the larger molality wins.</li>
+<li><strong>If both differ</strong>, multiply: the larger i &times; m has the larger effect. Do not rank by i alone. 0.10 m NaCl (2 &times; 0.10 = 0.20 m of particles) has a <em>smaller</em> effect than 0.30 m glucose (0.30 m of particles).</li>
+</ol>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{5}\): Same molality, different particles</p>
+<p><strong>Problem.</strong> Rank 0.10 m solutions of glucose, NaCl, Ca(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub>, and FeCl<sub>3</sub> from lowest to highest boiling point, and find the boiling point of the FeCl<sub>3</sub> solution.</p>
+<p><strong>Solution.</strong> The molalities are equal, so count particles: glucose i = 1, NaCl i = 2, Ca(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub> i = 3, FeCl<sub>3</sub> i = 4.</p>
+<p style="text-align:center;">glucose (lowest) &lt; NaCl &lt; Ca(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub> &lt; FeCl<sub>3</sub> (highest)</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \Delta T_b = (4)(0.512\ {}^\circ\text{C}/m)(0.10\ m) = 0.20\ {}^\circ\text{C} \qquad T_b = 100.00 + 0.20 = 100.20\ {}^\circ\text{C} \)</p>
+<p><strong>Check.</strong> Four particles per formula unit give four times glucose's elevation (0.051 &deg;C). Two significant figures, from 0.10 m.</p></div>
+
 <div class="box-note" style="border-left:6px solid #2e7d32;">
 <p class="boxtitle">Explore It: Solutions Lab</p>
 <p>Three beakers hold the same molality of ethylene glycol, NaCl and K<sub>3</sub>PO<sub>4</sub>. Predict which freezes first, then cool the beakers and change the molality to test it.</p>
@@ -63,6 +87,8 @@
 
 <h2>Osmosis and Tonicity</h2>
 <p>A <strong>semipermeable membrane</strong>, such as a cell membrane, lets water pass but blocks many solutes. <strong>Osmosis</strong> is the net flow of water across such a membrane from the side with <em>lower</em> solute (particle) concentration to the side with <em>higher</em> solute concentration, as if the solutes were pulling water toward them. The pressure needed to stop that flow is the <strong>osmotic pressure</strong>; it is larger when the difference in particle concentration is larger.</p>
+<p>Build the idea in two steps. First, picture pure water on both sides of the membrane. Water molecules cross in both directions at the same rate, a <strong>dynamic equilibrium</strong>, so neither level changes. Now dissolve salt on one side. Water molecules are attracted to the ions and cluster around them, so more water crosses <em>toward</em> the salty side than leaves it, and the level on that side rises. The taller column of liquid pushes back harder and harder; when its pressure is large enough to make the two flows equal again, the level stops rising. That pressure is the osmotic pressure.</p>
+<p>Your intestines work like a semipermeable membrane. Water you drink has far fewer dissolved particles than your blood and tissues, so it moves into the body. Salty seawater is the reverse: in the intestine it is a "thirsty" solution with more particles than body fluids, so it pulls water <em>out</em> of the body (the Biology Connection below explains why the kidneys cannot keep up).</p>
 <figure class="figure"><img src="https://itsdrdan.github.io/CHEM3Atextbook/figures/ch11/osmosis_rbc.svg" alt="Red blood cells in three solutions. Hypotonic, with fewer solutes outside the cell than inside: water flows into the cell, which swells and may burst (hemolysis). Isotonic, with equal solute concentrations: there is no net flow of water, and the cell keeps its normal disk shape. Hypertonic, with more solutes outside: water flows out of the cell, which shrinks and develops a spiky surface (crenation). Blue arrows show the net flow of water, from lower to higher solute concentration. 0.9% NaCl (normal saline) is isotonic with blood." width="470" />
 <figcaption>Figure \(\PageIndex{1}\): Red blood cells in hypotonic, isotonic, and hypertonic solutions. (Diagram: Daniel Kwasniewski, CC BY 4.0.)</figcaption></figure>
 <ul>
@@ -70,6 +96,7 @@
 <li><strong>Hypotonic</strong>: lower particle concentration outside; water flows in, and red blood cells swell and can burst (<strong>hemolysis</strong>).</li>
 <li><strong>Hypertonic</strong>: higher particle concentration outside; water flows out, and cells shrink (<strong>crenation</strong>).</li>
 </ul>
+<p>Pickling is osmosis in the kitchen. A cucumber or jalape&ntilde;o sitting in a salty brine is in a hypertonic solution, so water moves out of its cells into the brine, and the vegetable's texture and flavor change. Road salt (freezing point depression), antifreeze (both freezing point depression and boiling point elevation), and pickling (osmosis) are the three everyday faces of colligative properties.</p>
 
 <div class="box-note" style="border-left:6px solid #2e7d32;">
 <p class="boxtitle">Explore It: Cell Lab</p>
@@ -92,7 +119,7 @@
 <p>For any colligative property, count particles first. Write the dissociation (CaCl<sub>2</sub> &rarr; Ca<sup>2+</sup> + 2 Cl<sup>&minus;</sup>) to find i, then multiply by the molality. When comparing solutions, the one with the larger i &times; m freezes lowest, boils highest, and has the highest osmotic pressure. For osmosis, remember "water follows solute": it flows toward the side with more dissolved particles.</p></div>
 
 <h2>Video Lessons</h2>
-<p>Colligative properties and counting particles (i), from <a href="https://youtu.be/efD7e2XiNsM?t=587" target="_blank" rel="noopener">9:47</a>; osmosis, IV fluids, and red blood cells, from <a href="https://youtu.be/efD7e2XiNsM?t=1072" target="_blank" rel="noopener">17:52</a>; calculating molality, from <a href="https://youtu.be/-G1zjTVpkgU?t=743" target="_blank" rel="noopener">12:23</a> of the concentrations video.</p>
+<p>Why a solute raises the boiling point, from <a href="https://youtu.be/efD7e2XiNsM?t=144" target="_blank" rel="noopener">2:24</a> (the sleepover picture at <a href="https://youtu.be/efD7e2XiNsM?t=341" target="_blank" rel="noopener">5:41</a>); colligative properties and counting particles (i), from <a href="https://youtu.be/efD7e2XiNsM?t=587" target="_blank" rel="noopener">9:47</a>; osmosis built from two sides of a membrane, from <a href="https://youtu.be/efD7e2XiNsM?t=823" target="_blank" rel="noopener">13:43</a>, with the intestines and seawater at <a href="https://youtu.be/efD7e2XiNsM?t=965" target="_blank" rel="noopener">16:05</a>; and IV fluids and red blood cells, from <a href="https://youtu.be/efD7e2XiNsM?t=1072" target="_blank" rel="noopener">17:52</a> (stop before 19:08). To compare solutions, use this section's rule (i &times; m) rather than the video's closing summary. Calculating molality is at <a href="https://youtu.be/-G1zjTVpkgU?t=743" target="_blank" rel="noopener">12:23</a> of the concentrations video.</p>
 <p><iframe style="max-width:100%;height:auto;aspect-ratio:16/9;" width="560" height="315" src="https://www.youtube.com/embed/efD7e2XiNsM?start=587&amp;rel=0" title="Understanding Colligative Properties: Boiling Point Elevation, Freezing Point Depression, Osmosis (ItsDrDan)" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></p>
 
 <div class="box-note" style="border-left:6px solid #86509b;">
@@ -106,6 +133,7 @@
 <ul>
 <li><strong>Using liters of solution for molality</strong>: molality is per kilogram of solvent.</li>
 <li><strong>Forgetting i</strong> for ionic solutes (NaCl gives 2 particles, CaCl<sub>2</sub> gives 3).</li>
+<li><strong>Ranking by i alone when the molalities differ</strong>: multiply i &times; m.</li>
 <li><strong>Adding &Delta;T<sub>f</sub> to the freezing point</strong>: freezing points go down.</li>
 <li><strong>Reversing osmosis</strong>: water moves toward the higher solute concentration.</li>
 </ul>
@@ -113,7 +141,8 @@
 <h2>Summary</h2>
 <ul>
 <li>Molality m = mol solute / kg solvent; osmolality = i &times; m.</li>
-<li>&Delta;T<sub>f</sub> = iK<sub>f</sub>m (K<sub>f</sub> = 1.86 &deg;C/m); &Delta;T<sub>b</sub> = iK<sub>b</sub>m (K<sub>b</sub> = 0.512 &deg;C/m).</li>
+<li>&Delta;T<sub>f</sub> = iK<sub>f</sub>m (K<sub>f</sub> = 1.86 &deg;C/m); &Delta;T<sub>b</sub> = iK<sub>b</sub>m (K<sub>b</sub> = 0.512 &deg;C/m). Dissolved ions hold water molecules with ion&ndash;dipole attractions, so a solution needs a higher temperature to boil. Any dissolved particle has an effect; more particles, bigger effect.</li>
+<li>To compare solutions, count particles first; at equal molality the larger i wins, and in general the larger i &times; m wins.</li>
 <li>Osmosis moves water toward higher particle concentration; isotonic, hypotonic, and hypertonic solutions keep, swell, or shrink cells.</li>
 </ul>
 
@@ -127,6 +156,12 @@
 <div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{3}\)</p>
 <p>Red blood cells are placed in 3% NaCl. What happens to them, and what is this solution called relative to the cells?</p>
 <details><summary>Answer</summary><p>The solution is hypertonic; water flows out of the cells and they shrink (crenation).</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{4}\)</p>
+<p>Give the van 't Hoff factor i for (a) K<sub>3</sub>PO<sub>4</sub>; (b) Mg(NO<sub>3</sub>)<sub>2</sub>; (c) urea, CO(NH<sub>2</sub>)<sub>2</sub>.</p>
+<details><summary>Answer</summary><p>(a) 4: 3 K<sup>+</sup> + PO<sub>4</sub><sup>3&minus;</sup>. (b) 3: Mg<sup>2+</sup> + 2 NO<sub>3</sub><sup>&minus;</sup>. (c) 1: urea is molecular and stays whole.</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{5}\)</p>
+<p>Which has the higher boiling point, 0.10 m FeCl<sub>3</sub> or 0.15 m CaCl<sub>2</sub>?</p>
+<details><summary>Answer</summary><p>0.15 m CaCl<sub>2</sub>. FeCl<sub>3</sub> has more particles per formula unit, but the molalities differ, so multiply: FeCl<sub>3</sub> 4 &times; 0.10 = 0.40 m of particles; CaCl<sub>2</sub> 3 &times; 0.15 = 0.45 m.</p></details></div>
 
 <div class="box-note"><p class="boxtitle">Attribution</p>
 <p>Written by Daniel Kwasniewski (Dr. Dan), Fresno City College, for CHEM 3A, with AI assistance; reviewed by the author. Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>. This page replaces "Colligative Properties and Molality" and its subpages from earlier versions of this book. K<sub>f</sub>, K<sub>b</sub>, and physiological ranges are standard reference values. Video by ItsDrDan (all rights reserved; embedded or linked, not part of the licensed text).</p></div>
