@@ -1,0 +1,41 @@
+# Chapter expansion from Dr. Dan's lectures and videos (started 2026-11-17)
+
+Goal: deepen every chapter and add sections where his CHEM 3A lecture slides and ItsDrDan videos teach things the book lacks.
+Approach chosen by Dr. Dan: deepen existing sections **and** add new ones; pilot one chapter (Ch 5) first; publish each chapter
+to the LibreTexts Revision Draft once it passes checks.
+
+- `GAP_BRIEF.md`: the brief the gap reviewers followed.
+- `gaps/ch01.md` – `gaps/ch14.md`: per-chapter gap analyses with exact sources (deck + slide number, video id + m:ss),
+  priorities, proposed new sections, out-of-scope items, and **video moments not to cite** (misstatements).
+- Source texts (slide text, 149 transcripts) were extracted to the session scratchpad and are not stored in the repo.
+
+## Chapter 5 pilot (published 2026-11-17)
+
+Section text grew from about 4,860 to about 11,300 words (5.1–5.5), plus 5 new practice problems (5.57–5.61).
+
+| Page | What was added | Main sources |
+|---|---|---|
+| 5.1 (597906) | "A mole of anything" (puppies, blue boxes), avocado memory aid, **Given / Desire / Equality** setup applied to both examples, "Skipping the Desire" mistake | L11 slides 17–23; wB01PrQBxVw 1:47, 9:11–10:28 |
+| 5.2 (597907) | **Why g/mol = amu** (H, He, Mg weighed against C table), synonyms (formula/molecular weight), O vs O₂ vs O₃, diatomics + "Have No Fear Of Ice Cold Beer", identify an unknown element (Example 4, Exercise 4), serotonin molar mass (Biology box), hydrate framing; video timestamp fixed (6:49 → 7:43) | L11 slides 34–40; mvdjSfWFdaU 3:17, 5:11, 7:43, 11:39, 15:32 |
+| 5.3 (597908) | "The goal is the mole" tip, **cue-word table** (which factor), Given/Desire in all examples, sig figs set by the measurement, "multiply the top, divide the bottom" calculator tip, **equal-mass comparison** (five vials, Example 5, Exercise 4), "relabeling grams as moles" mistake | Uk5EulrSWeI 0:23–1:12, 4:27; wB01PrQBxVw 15:19; PslRg4W-QDY 77:45 (idea only, new metals); L23 slide 20 |
+| 5.4 (597909) | Scale-up table (1, 2, 3 … 1 mol CO₂ → O), polyatomic ions as units (Ca₃(PO₄)₂), total atoms, **the diatomic trap** (Cl₂ atoms, Example 5), N in laughing gas (Example 6, dental), 2 exercises | L11 slides 24–33; Uk5EulrSWeI 19:11, 22:19 |
+| **5.5 (598089, new)** | Putting It Together: four-step routine; Na₃N atoms, moles → mL through density, working backward (Ca from CaCO₃), same-mass O-atom comparison, wordy-problem distractors; estimate-to-check and "which conversions matter later" tips; 3 exercises | Uk5EulrSWeI (whole video; embed at 24:31); L11.5 slide 10; oV83y0awOow 23:09; PslRg4W-QDY 19:25, 83:25 |
+| 5.6 guide (597910, was 5.5) | Key Idea 5, "goal is the mole", expanded key ideas, corrected and added video moments (5:50 → 4:27, 6:49 → 7:43, plus 15:19, 11:39, 19:11, 24:31) | |
+| 5.7 problems (597911, was 5.6) | Problems 5.57–5.61: identify Mn, Br₂ atoms (MC), acetone volume, Ca₃(PO₄)₂ ions, Fe₂O₃ backward | |
+| 5.8 games (597912, was 5.7) | Retitled only | |
+| Chapter page 597481, 6.6 (597927) | Section list updated; 6.6 now points to Section 5.6 for the antacid example | |
+
+All numbers use the yellow-sheet masses and were recomputed independently (reviewer pass: no calculation errors; wording fixes applied).
+Exam-review (Kahoot) items were used only for emphasis; every example uses new numbers and substances.
+Index: "diatomic molecule" now also on 5.2, 5.4, 5.5; "density as a conversion factor" on 5.5. Try It banks and ADAPT were not changed.
+
+## Open questions for Dr. Dan (from the gap analyses)
+
+1. Ch 11: a video says students won't calculate freezing points, but 11.6 does (CLAUDE.md records the calculation as his choice).
+2. Ch 14: a video says he won't ask students to balance fission/fusion equations, but 14.5 and 14.9/ADAPT items do.
+3. Ch 13: add "Finding an equilibrium concentration from K" (simple rearrangement, no ICE table)?
+4. Ch 3: Cr/Cu configuration exceptions (he says they are commonly tested; the COR and 3.4 exclude them).
+5. Ch 9: a Going Further page on phase diagrams (taught in two decks; beyond the COR)?
+6. Ch 7: video says insoluble ionic compounds are still strong electrolytes; 7.4 says "soluble ionic compounds".
+7. Ch 4: is there a "blue naming sheet"? Mention the older name "biphosphate"?
+8. Ch 7: what does the slides' "James Bond / Alien" analogy for metals in acid mean?

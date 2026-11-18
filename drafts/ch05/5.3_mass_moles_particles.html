@@ -4,6 +4,7 @@
 <li>Convert between mass and moles using molar mass.</li>
 <li>Convert between mass and number of particles in two steps, through moles.</li>
 <li>Use millimoles and milligrams in clinical-style conversions.</li>
+<li>Choose the conversion factor from the words in a problem, and compare equal-mass samples without a calculator.</li>
 </ul>
 </div>
 
@@ -11,18 +12,36 @@
 <figure class="figure"><img src="https://itsdrdan.github.io/CHEM3Atextbook/figures/ch05/mole_roadmap.svg" alt="The mole road map. Three boxes stacked vertically: GRAMS (mass of a sample) at the top, MOLES (the hub) in the middle, and PARTICLES (atoms, molecules, ions) at the bottom. Between grams and moles: going down, divide by molar mass in grams per mole; going up, multiply by molar mass. Between moles and particles: going down, multiply by Avogadro’s number, 6.0221 times 10 to the 23; going up, divide by Avogadro’s number. Always go through moles; there is no direct path from grams to particles. Subscripts link moles of a compound to moles of each element in it: 1 mole of H2O contains 2 moles of H and 1 mole of O." width="470" />
 <figcaption>Figure \(\PageIndex{1}\): The mole road map. Moles are the hub: every route between grams and particles passes through moles. (Diagram: Daniel Kwasniewski, CC BY 4.0.)</figcaption></figure>
 
+<div class="box-note"><p class="boxtitle">Professor Tip: The Goal Is the Mole</p>
+<p>"The goal is the mole." If you can get to moles, you can get anywhere: grams, particles, atoms of one element, and later, grams of a product in a reaction (Chapter 8), liters of a solution (Chapter 11), and liters of a gas (Chapter 10). The reason is practical. Nobody can count particles, and there is no instrument that reads moles directly. What you can measure in the lab is mass, on a balance. So almost every problem starts by turning what you measured into moles, and then turning moles into what you want.</p></div>
+
+<h2>Which Factor Do I Need?</h2>
+<p>Map the problem before you calculate, and let the units guide you. Each arrow on the road map has its own conversion factor, and the words in the problem tell you which one:</p>
+<style type="text/css">@media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } }</style>
+<table class="mt-responsive-table">
+<caption>Table \(\PageIndex{1}\): Cue words and the conversion factor they call for</caption>
+<thead><tr><th scope="col">If the problem says&hellip;</th><th scope="col">Use&hellip;</th><th scope="col">Example factor</th></tr></thead>
+<tbody>
+<tr><td data-th="Problem says">grams, mg, kg (a mass), together with moles</td><td data-th="Use">Molar mass (Section 5.2)</td><td data-th="Example factor">18.015 g H<sub>2</sub>O / 1 mol H<sub>2</sub>O</td></tr>
+<tr><td data-th="Problem says">atoms, molecules, ions, formula units (something tiny, counted one by one)</td><td data-th="Use">Avogadro's number (Section 5.1)</td><td data-th="Example factor">6.0221 &times; 10<sup>23</sup> molecules / 1 mol</td></tr>
+<tr><td data-th="Problem says">a different substance: an element or ion <em>inside</em> the compound</td><td data-th="Use">Subscript mole ratio (Section 5.4)</td><td data-th="Example factor">2 mol O / 1 mol CO<sub>2</sub></td></tr>
+</tbody></table>
+<p>Read carefully: atoms and molecules are not the same thing. "How many molecules of CO<sub>2</sub>" needs one factor less than "how many atoms of O in CO<sub>2</sub>."</p>
+
 <h2>Grams and Moles</h2>
 <p>Molar mass can be written as a conversion factor either way up, for example for NaCl:</p>
 <p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \dfrac{58.44\ \text{g NaCl}}{1\ \text{mol NaCl}} \qquad \text{or} \qquad \dfrac{1\ \text{mol NaCl}}{58.44\ \text{g NaCl}} \)</p>
 
 <div class="box-example"><p class="boxtitle">Example \(\PageIndex{1}\): Grams to moles (Mateo's IV bag)</p>
 <p><strong>Problem.</strong> An IV bag contains 2.00 g of magnesium sulfate, MgSO<sub>4</sub> (molar mass 120.37 g/mol). How many moles, and how many millimoles, of MgSO<sub>4</sub> is that?</p>
-<p><strong>Solution.</strong></p>
+<p><strong>Given:</strong> 2.00 g MgSO<sub>4</sub>. <strong>Desire:</strong> ??? mol MgSO<sub>4</sub>. <strong>Equality:</strong> 1 mol MgSO<sub>4</sub> = 120.37 g MgSO<sub>4</sub>.</p>
+<p><strong>Solution.</strong> Grams are in the given, so grams go on the bottom:</p>
 <p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 2.00\ \text{g MgSO}_4 \times \dfrac{1\ \text{mol MgSO}_4}{120.37\ \text{g MgSO}_4} = 0.0166\ \text{mol MgSO}_4 = 16.6\ \text{mmol} \)</p>
 <p><strong>Check.</strong> 2 g is a small fraction of 120 g (one mole), so a small fraction of a mole makes sense. 1 mmol = 10<sup>&minus;3</sup> mol, so 0.0166 mol = 16.6 mmol. (Context only; this is not dosing guidance.)</p></div>
 
 <div class="box-example"><p class="boxtitle">Example \(\PageIndex{2}\): Moles to grams</p>
 <p><strong>Problem.</strong> A lab procedure calls for 0.350 mol of NaCl. What mass should you weigh?</p>
+<p><strong>Given:</strong> 0.350 mol NaCl. <strong>Desire:</strong> ??? g NaCl. <strong>Equality:</strong> 1 mol NaCl = 58.44 g NaCl.</p>
 <p><strong>Solution.</strong></p>
 <p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 0.350\ \text{mol NaCl} \times \dfrac{58.44\ \text{g NaCl}}{1\ \text{mol NaCl}} = 20.5\ \text{g NaCl} \)</p>
 <p><strong>Check.</strong> About a third of a mole should weigh about a third of 58 g, roughly 20 g.</p></div>
@@ -32,9 +51,10 @@
 
 <div class="box-example"><p class="boxtitle">Example \(\PageIndex{3}\): Grams to molecules</p>
 <p><strong>Problem.</strong> How many water molecules are in 25.0 g of water (about one big sip)?</p>
+<p><strong>Given:</strong> 25.0 g H<sub>2</sub>O. <strong>Desire:</strong> ??? H<sub>2</sub>O molecules. <strong>Map:</strong> grams &rarr; moles &rarr; molecules (two arrows, so two factors). <strong>Equalities:</strong> 1 mol H<sub>2</sub>O = 18.015 g; 1 mol H<sub>2</sub>O = 6.0221 &times; 10<sup>23</sup> molecules.</p>
 <p><strong>Solution.</strong></p>
 <p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 25.0\ \text{g H}_2\text{O} \times \dfrac{1\ \text{mol H}_2\text{O}}{18.015\ \text{g H}_2\text{O}} \times \dfrac{6.0221 \times 10^{23}\ \text{molecules}}{1\ \text{mol H}_2\text{O}} = 8.36 \times 10^{23}\ \text{molecules} \)</p>
-<p><strong>Check.</strong> 25.0 g is a bit more than one mole (18.015 g), so a bit more than 6.02 &times; 10<sup>23</sup> molecules is right.</p></div>
+<p><strong>Check.</strong> 25.0 g is a bit more than one mole (18.015 g), so a bit more than 6.02 &times; 10<sup>23</sup> molecules is right. The answer has 3 significant figures because the measurement, 25.0 g, has 3. The molar mass (5 significant figures) and Avogadro's number (5) are not what limits you; the number you started with is.</p></div>
 
 <div class="box-example"><p class="boxtitle">Example \(\PageIndex{4}\): The mass of one molecule</p>
 <p><strong>Problem.</strong> What is the mass, in grams, of a single water molecule?</p>
@@ -42,7 +62,21 @@
 <p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \dfrac{18.015\ \text{g}}{6.0221 \times 10^{23}\ \text{molecules}} = 2.9915 \times 10^{-23}\ \text{g per molecule} \)</p>
 <p><strong>Check.</strong> A single molecule should be unimaginably light, and 3 &times; 10<sup>&minus;23</sup> g is. (In amu, it is 18.015 amu, the formula mass.)</p></div>
 
-<div class="box-note"><p class="boxtitle">Professor Tip</p>
+<div class="box-note"><p class="boxtitle">Professor Tip: Multiply the Top, Divide the Bottom</p>
+<p>Once the units cancel, you do not need to work out each step separately. Multiply every number on the top of the setup, then divide by every number on the bottom, and round once at the end. For Example 3 on the TI-36X Pro, type</p>
+<p style="text-align:center;"><code>25.0 &times; 6.0221E23 &divide; 18.015</code></p>
+<p>with no parentheses needed, and the screen shows 8.357&hellip; &times; 10<sup>23</sup>. If you prefer to divide step by step, that works too; just do not round in the middle. Flipping a conversion factor does not change the equality it comes from: 1 mol H<sub>2</sub>O = 18.015 g can be written 18.015 g / 1 mol or 1 mol / 18.015 g. That is why you can turn a molar mass upside down whenever grams need to cancel.</p></div>
+
+<h2>Comparing Samples Without a Calculator</h2>
+<p>Some questions ask which sample has the most particles. If the samples all have the <em>same mass</em>, you can reason it out. Dividing the same mass by a <strong>smaller</strong> molar mass gives <strong>more</strong> moles, and more moles means more particles.</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{5}\): Which sample has the most atoms?</p>
+<p><strong>Problem.</strong> Five vials each hold 15.0 g of a pure metal: aluminum, iron, copper, silver, and lead. Which vial holds the most atoms? Which holds the fewest?</p>
+<p><strong>Solution.</strong> Every vial has the same mass, so compare molar masses: Al 26.98, Fe 55.85, Cu 63.55, Ag 107.87, Pb 207.20 g/mol. Aluminum has the smallest molar mass (its atoms are the lightest), so it takes the most aluminum atoms to make 15.0 g. The vial with the <strong>most atoms is aluminum</strong>; the vial with the <strong>fewest is lead</strong>.</p>
+<p><strong>Check.</strong> You can prove it for the two extremes: 15.0 g &divide; 26.98 g/mol = 0.556 mol Al, but 15.0 g &divide; 207.20 g/mol = 0.0724 mol Pb. More moles means more atoms (3.35 &times; 10<sup>23</sup> Al atoms versus 4.36 &times; 10<sup>22</sup> Pb atoms), so the aluminum vial holds almost eight times as many atoms.</p></div>
+<p>This shortcut works only when the masses are equal. If the masses are different, convert each to moles.</p>
+
+<div class="box-note"><p class="boxtitle">Professor Tip: Map It First</p>
 <p>Before you calculate, find your starting box and your ending box on the road map and count the arrows. Grams to moles is one step; grams to particles is two. Then write each conversion factor with units, and cross out units as they cancel. If the units you are left with are not the units you want, a factor is upside down. This habit is the same dimensional analysis you learned in Chapter 1, and it is what you will use for stoichiometry in Chapter 8.</p></div>
 
 <div class="box-note"><p class="boxtitle">Clinical Connection: Nursing</p>
@@ -51,9 +85,9 @@
 <p>That is why nurses who work with glucose meters set to different units learn the shortcut "divide mg/dL by about 18" to get mmol/L. (Context only; always use the units on your facility's meter and report.)</p></div>
 
 <h2>Video Lessons</h2>
-<p>The three mole conversions, with grams and molar mass from <a href="https://youtu.be/wB01PrQBxVw?t=190" target="_blank" rel="noopener">3:10</a>.</p>
+<p>"The goal is the mole" and the three mole conversions, with grams and molar mass from <a href="https://youtu.be/wB01PrQBxVw?t=190" target="_blank" rel="noopener">3:10</a>.</p>
 <p><iframe style="max-width:100%;height:auto;aspect-ratio:16/9;" width="560" height="315" src="https://www.youtube.com/embed/wB01PrQBxVw?start=190&amp;rel=0" title="What is a Mole? | 3 Conversions Needed to Ace Chemistry! (ItsDrDan)" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></p>
-<p>Practice with mass-to-mole, mole-to-mole, and Avogadro conversions, from <a href="https://youtu.be/Uk5EulrSWeI?t=72" target="_blank" rel="noopener">1:12</a>.</p>
+<p>Practice with mass-to-mole, mole-to-mole, and Avogadro conversions, from <a href="https://youtu.be/Uk5EulrSWeI?t=72" target="_blank" rel="noopener">1:12</a> (why "your goal is the mole" at <a href="https://youtu.be/Uk5EulrSWeI?t=49" target="_blank" rel="noopener">0:49</a>; a full moles-to-grams example at <a href="https://youtu.be/Uk5EulrSWeI?t=267" target="_blank" rel="noopener">4:27</a>).</p>
 <p><iframe style="max-width:100%;height:auto;aspect-ratio:16/9;" width="560" height="315" src="https://www.youtube.com/embed/Uk5EulrSWeI?start=72&amp;rel=0" title="Practicing Conversion Factors found in Chemical Formulas: Mole to Mole, Mass to Moles, Avogadro! (ItsDrDan)" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></p>
 
 <div class="box-note" style="border-left:6px solid #86509b;">
@@ -65,6 +99,7 @@
 
 <h2>Common Mistakes</h2>
 <ul>
+<li><strong>Turning a mass into moles by relabeling it.</strong> "12 g of hydrogen" is a mass, not 12 mol. You need the molar mass to get to moles.</li>
 <li><strong>Trying to go straight from grams to particles.</strong> Always pass through moles.</li>
 <li><strong>Multiplying by molar mass to get moles.</strong> Grams &divide; (g/mol) = mol. Check that grams cancel.</li>
 <li><strong>Mixing up mmol and mol.</strong> 1 mmol = 0.001 mol; 16.6 mmol = 0.0166 mol.</li>
@@ -76,6 +111,8 @@
 <li>grams &divide; molar mass = moles; moles &times; molar mass = grams.</li>
 <li>moles &times; 6.0221 &times; 10<sup>23</sup> = particles; particles &divide; 6.0221 &times; 10<sup>23</sup> = moles.</li>
 <li>Grams &harr; particles always takes two steps, through moles.</li>
+<li>Cue words pick the factor: mass &rarr; molar mass; atoms or molecules &rarr; Avogadro's number; another substance &rarr; subscript ratio.</li>
+<li>For equal masses, the smaller molar mass gives more moles and more particles.</li>
 </ul>
 
 <h2>Exercises</h2>
@@ -88,6 +125,10 @@
 <div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{3}\)</p>
 <p>What is the mass of 2.50 &times; 10<sup>22</sup> glucose molecules (180.156 g/mol)?</p>
 <details><summary>Answer</summary><p>2.50 &times; 10<sup>22</sup> &divide; 6.0221 &times; 10<sup>23</sup> = 0.04151 mol; &times; 180.156 g/mol = 7.48 g.</p></details></div>
+
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{4}\)</p>
+<p>Without a calculator: which contains more atoms, 5.00 g of helium or 5.00 g of neon?</p>
+<details><summary>Answer</summary><p>Helium. The masses are equal and helium has the smaller molar mass (4.003 vs 20.180 g/mol), so 5.00 g of He is more moles (1.25 mol vs 0.248 mol) and therefore more atoms.</p></details></div>
 
 <div class="box-note"><p class="boxtitle">Attribution</p>
 <p>Written by Daniel Kwasniewski (Dr. Dan), Fresno City College, for CHEM 3A, with AI assistance; reviewed by the author. Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>. This page replaces "Conversions Between Moles and Mass" and "Conversions Between Mass and Number of Particles" from earlier versions of this book. Videos by ItsDrDan (all rights reserved; embedded, not part of the licensed text).</p></div>
