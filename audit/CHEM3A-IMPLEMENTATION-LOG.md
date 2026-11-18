@@ -124,3 +124,8 @@ The retest is logged in `CHEM3A-PDF-AND-WEB-QA.md`. One defect from this session
 - **Verified:** the book's top level now ends at Back Matter (16 entries: Front Matter, Ch 1–14, Back Matter). A signed-out request to the holder and 3 sampled children returns 403; Dr. Kwasniewski still reads them (200). The holder notice now gives the location and the restore steps.
 - **Undo:** move 597819 back under `Workbench/Introductory_Chemistry_Atoms_First_for_FCC_-_Revision_Draft_DTvJm7TcCY` (old paths keep redirects, so pick the same path or a new one). Nothing was deleted.
 - **To confirm:** the next PDF compile should end at about page 873 (14.10 + Index, Glossary, Detailed Licensing), with no "Retired Pages" in the outline.
+
+## Cover credit, 2026-11-17 (Dr. Kwasniewski: "Kwasniewski, adapted Yates")
+
+- **Title page (597474, PDF p. 2):** the empty `pdf-title-author` line now reads "Daniel Kwasniewski / Adapted from *Introductory Chemistry, Atoms First for FCC*, compiled by Seth Yates" (read back).
+- **Cover (PDF p. 1) "Unknown":** not fixable from this account. The cover author comes from the site's author records (`Template:Custom/Data/Authors`, read-only for faculty), which have no entry for Kwasniewski or Yates, and the root page has no `authorname:` tag. A ready-to-send request is in `audit/LIBRETEXTS-COVER-AUTHOR-REQUEST.md`. Conductor's project settings were not checked, because Conductor needs a separate LibreOne sign-in.
