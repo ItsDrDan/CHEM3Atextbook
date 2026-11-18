@@ -1,4 +1,4 @@
-/* ItsDrDan embed helper — removes the inner scrollbar when a Try It box is iframed into Canvas or LibreTexts.
+/* ItsDrDan Canvas embed helper — removes the inner scrollbar when a game is iframed into Canvas.
    <script src="https://itsdrdan.github.io/games/brand/embed.js" defer></script>
    Opened directly (not in an iframe) it does nothing. In an iframe it measures the page height and
    posts an `lti.frameResize` message; Canvas listens for that from any iframe on a page and sets the
@@ -22,9 +22,6 @@
     lastSent = h;
     var before = window.innerHeight, asked = h;
     try { window.parent.postMessage({ subject: 'lti.frameResize', height: h }, '*'); } catch (e) {}
-    // LibreTexts pages load MyOpenMath's embedqresizer.js, which only accepts this message as a JSON string with
-    // height + wrapheight (it then sizes the iframe that sent it). Canvas ignores the duplicate (same height).
-    try { window.parent.postMessage(JSON.stringify({ subject: 'lti.frameResize', height: h, wrapheight: h }), '*'); } catch (e) {}
     // Switch on the embedded tweaks (incl. overflow:hidden) only once the host has really resized the frame for us:
     // the frame height must have changed after this message AND now match what we asked for. A frame that merely
     // happens to be about the right height already (fixed-height iframe on a host that ignores the message) does not count.
