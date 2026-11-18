@@ -1,0 +1,171 @@
+<div class="box-objectives">
+<p class="boxtitle">Learning Objectives</p>
+<ul>
+<li>Round a number to a given place or number of significant figures, keeping placeholder zeros so the size does not change.</li>
+<li>Apply the multiplication/division rule (fewest significant figures) and the addition/subtraction rule (fewest decimal places).</li>
+<li>Combine units correctly: multiply and divide them along with the numbers, and add or subtract only identical units.</li>
+<li>Work a calculation with several operations in the right order, underlining the last significant digit at each step and rounding only at the end.</li>
+<li>Explain why a calculated answer can be no more precise than its least precise measurement.</li>
+</ul>
+</div>
+
+<p>Imagine an experiment with three steps. You measure a liquid in a beaker, transfer it with a graduated cylinder, and analyze it on an instrument that cost &#36;50,000. How precise is the final result? Only as precise as the beaker. The expensive instrument cannot recover digits that were never measured in the first step. If you were careless at one step, the whole answer has to be reported at that step's level. <strong>The least precise step wins.</strong></p>
+<p>Your calculator does not know this. Divide 25.3 by 24.6 and it shows 1.028455285, claiming ten digits from measurements that had three. This section gives the rules for deciding how many of those digits are real, starting with how to round.</p>
+
+<h2>Rounding</h2>
+<p>To round, <strong>underline the last digit you are keeping</strong>, then look at the one digit to its right:</p>
+<ul>
+<li>If that digit is <strong>0 to 4</strong>, round down: the underlined digit stays the same.</li>
+<li>If that digit is <strong>5 to 9</strong>, round up: add 1 to the underlined digit.</li>
+</ul>
+<p>Look only at the one digit next door, not at the digits beyond it.</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{1}\): Round to different places</p>
+<p><strong>Problem.</strong> Round 37.846 to (a) the tenths place, (b) the hundredths place, and (c) the ones place. How many significant figures does each result have?</p>
+<p><strong>Solution.</strong> (a) Underline the 8; the digit to its right is 4, so round down: <strong>37.8</strong> (3 significant figures). (b) Underline the 4; the next digit is 6, so round up: <strong>37.85</strong> (4). (c) Underline the 7; the next digit is 8, so round up: <strong>38</strong> (2).</p>
+<p><strong>Check.</strong> Each answer is close to 37.846, and each has fewer digits than the original.</p></div>
+
+<h3>Keep the placeholders</h3>
+<p>When you round a large number, the digits you drop to the left of the decimal point must be replaced with zeros, or the size of the number changes. Rounding 8,802.14 to 2 significant figures gives <strong>8,800</strong>, not 88 or 880. Think of it as money: if someone owed you &#36;8,800 and "rounded" it to &#36;880, you would be getting a tenth of what you are owed. Under this book's rule, 8,800 (no decimal point) shows exactly the 2 significant figures you wanted.</p>
+<p>In scientific notation, round A and bring the power of ten down unchanged. Rounded to 3 significant figures, 4.0752 &times; 10<sup>5</sup> becomes 4.08 &times; 10<sup>5</sup>.</p>
+
+<h2>Multiplication and Division: Fewest Significant Figures</h2>
+<p>When you multiply or divide, count the significant figures in each <em>measured</em> value. The answer gets as many significant figures as the value with the <strong>fewest</strong>. Exact numbers (counts and definitions) do not count, because they have unlimited significant figures.</p>
+<p>The units follow the same operation as the numbers. Centimeters times centimeters is square centimeters (cm<sup>2</sup>), the same way a room is measured in square feet. Grams divided by milliliters is grams per milliliter (g/mL), a <strong>derived unit</strong> made from two others.</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{2}\): Area of a wound dressing</p>
+<p><strong>Problem.</strong> A rectangular dressing measures 10.2 cm by 7.6 cm. What is its area?</p>
+<p><strong>Solution.</strong></p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 10.2\ \text{cm} \times 7.6\ \text{cm} = 77.52\ \text{cm}^{2} \to 78\ \text{cm}^{2} \)</p>
+<p>10.2 has 3 significant figures and 7.6 has 2, so the answer gets 2. Underline the 7 in the ones place; the next digit is 5, so round up: <strong>78 cm<sup>2</sup></strong>.</p>
+<p><strong>Check.</strong> About 10 &times; 8 = 80, and the unit is an area unit, cm<sup>2</sup>. Notice that the answer has fewer significant figures than 10.2 cm: the less precise measurement wins.</p></div>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{3}\): A derived unit</p>
+<p><strong>Problem.</strong> A 24.6 mL urine sample has a mass of 25.3 g. What is its mass per milliliter?</p>
+<p><strong>Solution.</strong></p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \dfrac{25.3\ \text{g}}{24.6\ \text{mL}} = 1.028455\ldots\ \text{g/mL} \to 1.03\ \text{g/mL} \)</p>
+<p>Both values have 3 significant figures, so the answer has 3: <strong>1.03 g/mL</strong>. The unit g/mL is the unit of density (Section 1.9).</p>
+<p><strong>Check.</strong> The mass in grams is a little larger than the volume in milliliters, so the answer is a little larger than 1. Urine is mostly water (1.00 g/mL) with dissolved substances that make it slightly denser; that is the idea behind the urine specific-gravity test.</p></div>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{4}\): An exact number does not limit the answer</p>
+<p><strong>Problem.</strong> Each of 4 vials holds 2.50 mL of vaccine. What is the total volume?</p>
+<p><strong>Solution.</strong> \( 4 \times 2.50\ \text{mL} = 10.0\ \text{mL} \). The 4 is a count (exact), so only 2.50 mL (3 significant figures) limits the answer: <strong>10.0 mL</strong>, with the decimal point and the trailing zero showing 3 significant figures.</p>
+<p><strong>Check.</strong> Writing "10 mL" would report only 1 significant figure (no decimal point), losing two measured digits.</p></div>
+
+<h2>Addition and Subtraction: Fewest Decimal Places</h2>
+<p>For adding and subtracting, the rule changes. Line the numbers up at their decimal points. The answer can have only as many <strong>decimal places</strong> as the value with the fewest; the total number of significant figures does not matter.</p>
+<p>There is also a unit rule: you can add or subtract only quantities with <strong>identical units, including the prefix</strong>. Grams can be added to grams, but grams cannot be added directly to milligrams. Convert first.</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{5}\): Mass by difference</p>
+<p><strong>Problem.</strong> A weighing boat with a powder has a mass of 31.472 g on an analytical balance. The empty boat had a mass of 29.85 g on a different balance. What is the mass of the powder?</p>
+<p><strong>Solution.</strong></p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 31.472\ \text{g} - 29.85\ \text{g} = 1.622\ \text{g} \to 1.62\ \text{g} \)</p>
+<p>31.472 has three decimal places and 29.85 has two, so the answer gets two: <strong>1.62 g</strong>.</p>
+<p><strong>Check.</strong> The answer has only 3 significant figures, even though both measurements had 4 or 5. Subtracting two similar numbers can lose significant figures; the decimal places are what carry over.</p></div>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{6}\): Match the units first</p>
+<p><strong>Problem.</strong> A pharmacy technician adds 350. mg of one powder to 1.25 g of another. What is the total mass in grams?</p>
+<p><strong>Solution.</strong> Grams and milligrams cannot be added directly. Since 1000 mg = 1 g, 350. mg is 0.350 g. Then:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 1.25\ \text{g} + 0.350\ \text{g} = 1.600\ \text{g} \to 1.60\ \text{g} \)</p>
+<p>1.25 has two decimal places, so the answer has two: <strong>1.60 g</strong>. The trailing zero is significant and must be written.</p>
+<p><strong>Check.</strong> Adding the raw numbers, 350. + 1.25 = 351.25, would be nonsense: it adds milligrams to grams. Your calculator would not warn you.</p></div>
+
+<div class="box-note"><p class="boxtitle">Clinical Connection: Clinical Laboratory Science</p>
+<p>Some lab values are calculated from other lab values, and they follow the same rules. The <strong>anion gap</strong>, used to help evaluate a patient's acid&ndash;base balance (Chapter 12), is found by subtracting: sodium minus (chloride plus bicarbonate). With sodium 141 mmol/L, chloride 104 mmol/L, and bicarbonate 24 mmol/L, the gap is 141 &minus; (104 + 24) = 13 mmol/L. Every value is reported to the ones place, so the gap is reported to the ones place too. Reporting "13.0" would claim a tenth of a millimole per liter that none of the measurements had. (Context only; reference ranges and formulas vary by laboratory.)</p></div>
+
+<h2>Several Operations: Keep Track, Round Once</h2>
+<p>Many calculations combine operations. Do them in the usual order, remembered as PEMDAS, "Please Excuse My Dear Aunt Sally": <strong>P</strong>arentheses, <strong>E</strong>xponents, <strong>M</strong>ultiplication and <strong>D</strong>ivision, then <strong>A</strong>ddition and <strong>S</strong>ubtraction. Two habits make the significant figures easy:</p>
+<ol>
+<li><strong>Treat the top and the bottom of a fraction as if each were in parentheses.</strong> Finish everything on top and everything on the bottom before you divide.</li>
+<li><strong>Do not round until the end, but underline the last significant digit at each step.</strong> Keep every digit in the calculator, and use the underline as a bookmark that tells you how many significant figures that step allows. At the end, round once.</li>
+</ol>
+<p>Here is a summary of all the rules before the worked examples.</p>
+<style type="text/css">@media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } }</style>
+<table class="mt-responsive-table">
+<caption>Table \(\PageIndex{1}\): Significant-figure and unit rules for calculations</caption>
+<thead><tr><th scope="col">Operation</th><th scope="col">Significant-figure rule</th><th scope="col">Unit rule</th><th scope="col">Example</th></tr></thead>
+<tbody>
+<tr><td data-th="Operation">Multiply or divide</td><td data-th="Significant-figure rule">Answer has as many <strong>significant figures</strong> as the measured value with the fewest</td><td data-th="Unit rule">Units multiply or divide too (cm &times; cm = cm<sup>2</sup>; g &divide; mL = g/mL)</td><td data-th="Example">10.2 cm &times; 7.6 cm = 78 cm<sup>2</sup></td></tr>
+<tr><td data-th="Operation">Add or subtract</td><td data-th="Significant-figure rule">Answer has as many <strong>decimal places</strong> as the measured value with the fewest</td><td data-th="Unit rule">Only identical units (same prefix) can be combined; the unit stays the same</td><td data-th="Example">31.472 g &minus; 29.85 g = 1.62 g</td></tr>
+<tr><td data-th="Operation">Several steps</td><td data-th="Significant-figure rule">Follow the order of operations; underline the last significant digit at each step; round only at the end</td><td data-th="Unit rule">Carry the units through every step</td><td data-th="Example">(24.36 g &minus; 19.2 g) &divide; 3.85 mL = 1.3 g/mL</td></tr>
+</tbody></table>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{7}\): Subtract, then divide</p>
+<p><strong>Problem.</strong> A filled container has a mass of 24.36 g, and the empty container 19.2 g. The liquid's volume is 3.85 mL. What is its mass per milliliter?</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \dfrac{24.36\ \text{g} - 19.2\ \text{g}}{3.85\ \text{mL}} \)</p>
+<p><strong>Solution.</strong> <em>Top first (subtraction).</em> 24.36 &minus; 19.2 = 5.16 g. The fewest decimal places is one (19.2), so underline the 1 in the tenths place: 5.<u>1</u>6. That means this step has 2 significant figures. Keep 5.16 in the calculator.</p>
+<p><em>Then divide.</em> 5.16 &divide; 3.85 = 1.3403 g/mL. The top allows 2 significant figures (from the underline) and 3.85 has 3, so the answer gets 2: <strong>1.3 g/mL</strong>.</p>
+<p><strong>Check.</strong> What if you had rounded the top to 5.2 g first? Then 5.2 &divide; 3.85 = 1.351, which rounds to 1.4 g/mL, the wrong answer. Rounding in the middle changed the last digit. Underline, do not round.</p></div>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{8}\): Averaging readings</p>
+<p><strong>Problem.</strong> Three blood glucose readings are 102, 98, and 105 mg/dL. What is their average?</p>
+<p><strong>Solution.</strong> Add first (top of the fraction), then divide by the count:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \dfrac{102 + 98 + 105}{3} = \dfrac{30\underline{5}}{3} = 101.67 \to 102\ \text{mg/dL} \)</p>
+<p>Each reading is known to the ones place, so the sum is known to the ones place: underline the 5, which gives 305 three significant figures. The 3 is a count, so it is exact. The answer gets 3 significant figures: <strong>102 mg/dL</strong>.</p>
+<p><strong>Check.</strong> The average lies between the lowest (98) and highest (105) readings, as it must.</p></div>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{9}\): An exponent in the denominator</p>
+<p><strong>Problem.</strong> Body mass index (BMI) is a person's mass in kilograms divided by the square of their height in meters. Find the BMI of a person with a mass of 68.0 kg and a height of 1.75 m. (Context only; BMI is a screening number, not a diagnosis.)</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \text{BMI} = \dfrac{68.0\ \text{kg}}{(1.75\ \text{m})^{2}} \)</p>
+<p><strong>Solution.</strong> <em>Exponent first.</em> (1.75 m)<sup>2</sup> = 3.0625 m<sup>2</sup>. Squaring is multiplication (1.75 &times; 1.75), so it keeps 3 significant figures: underline 3.0<u>6</u>25. The unit is squared too.</p>
+<p><em>Then divide.</em> 68.0 &divide; 3.0625 = 22.204 kg/m<sup>2</sup>. Both have 3 significant figures: <strong>22.2 kg/m<sup>2</sup></strong>.</p>
+<p><strong>Check.</strong> On the TI-36X Pro, type <code>68.0 &divide; 1.75 x<sup>2</sup></code>; the calculator squares before dividing. Typing <code>68.0 &divide; 1.75 &times; 1.75</code> instead would divide and then multiply, giving 68.0, which is wrong. When in doubt, add parentheses around the bottom.</p></div>
+
+<div class="box-note"><p class="boxtitle">Professor Tip</p>
+<p>Make the underline a habit on every multi-step problem, including conversions in Section 1.4. Write each intermediate value with all its digits, underline the last significant one, and keep going. The underline costs you a second; rounding too early can cost you the last digit of the answer, and on an exam that is the difference between right and wrong.</p></div>
+
+<h2>Video Lessons</h2>
+<p>"The least precise step wins" (the beaker and the &#36;50,000 instrument) starts at <a href="https://youtu.be/SsLd_YRnLtw?t=38" target="_blank" rel="noopener">0:38</a>; underline-and-look-right rounding at <a href="https://youtu.be/SsLd_YRnLtw?t=82" target="_blank" rel="noopener">1:22</a>; the &#36;8,800 versus &#36;880 mistake at <a href="https://youtu.be/SsLd_YRnLtw?t=382" target="_blank" rel="noopener">6:22</a>; rounding in scientific notation at <a href="https://youtu.be/SsLd_YRnLtw?t=538" target="_blank" rel="noopener">8:58</a>.</p>
+<p><iframe style="max-width:100%;height:auto;aspect-ratio:16/9;" width="560" height="315" src="https://www.youtube.com/embed/SsLd_YRnLtw?start=38&amp;rel=0" title="Rounding Significant Figures (Math Skills to Ace Chemistry) (ItsDrDan)" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></p>
+<p>PEMDAS and treating the top and bottom of a fraction as parentheses start at <a href="https://youtu.be/ewjg7JtM_cA?t=51" target="_blank" rel="noopener">0:51</a>; the multiplication/division rule at <a href="https://youtu.be/ewjg7JtM_cA?t=265" target="_blank" rel="noopener">4:25</a> and how units multiply and divide at <a href="https://youtu.be/ewjg7JtM_cA?t=313" target="_blank" rel="noopener">5:13</a>; the addition/subtraction rule and matching units at <a href="https://youtu.be/ewjg7JtM_cA?t=550" target="_blank" rel="noopener">9:10</a>; combined operations with the underline bookkeeping at <a href="https://youtu.be/ewjg7JtM_cA?t=780" target="_blank" rel="noopener">13:00</a>; a harder example with units at <a href="https://youtu.be/ewjg7JtM_cA?t=967" target="_blank" rel="noopener">16:07</a>. (In that last example, one unrounded calculator value is read aloud as "9.44847"; the value is 9.94485, which rounds to the 9.94 shown.)</p>
+<p><iframe style="max-width:100%;height:auto;aspect-ratio:16/9;" width="560" height="315" src="https://www.youtube.com/embed/ewjg7JtM_cA?start=780&amp;rel=0" title="Order of Operations and Rounding (Math Skills to Ace Chemistry) (ItsDrDan)" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></p>
+
+<div class="box-note" style="border-left:6px solid #86509b;">
+<p class="boxtitle">Try It: Significant figures</p>
+<p>Round, and carry significant figures through multiplication, division, addition, and subtraction. Every answer choice gives feedback.</p>
+<p><iframe src="https://itsdrdan.github.io/CHEM3Atextbook/practice.html?t=ch01-sigfig&amp;n=6&amp;title=Significant+figures" width="100%" height="620" style="border:0;border-radius:12px;background:#f5f6fb;" title="Try It: Significant figures" loading="lazy"></iframe></p>
+<p style="font-size:0.9em;">Not loading? <a href="https://itsdrdan.github.io/CHEM3Atextbook/practice.html?t=ch01-sigfig&amp;n=6&amp;title=Significant+figures" target="_blank" rel="noopener">Open this practice in a new tab</a>.</p>
+</div>
+
+<h2>Common Mistakes</h2>
+<ul>
+<li><strong>Copying every digit from the calculator.</strong> The calculator does not know significant figures; you do.</li>
+<li><strong>Using the wrong rule.</strong> Multiplication and division use significant figures; addition and subtraction use decimal places.</li>
+<li><strong>Dropping placeholder zeros when rounding.</strong> 8,802.14 to 2 significant figures is 8,800, not 880.</li>
+<li><strong>Rounding in the middle of a calculation.</strong> Underline the last significant digit at each step, keep all digits, and round once at the end.</li>
+<li><strong>Letting an exact number limit the answer.</strong> Counts (4 vials, 3 readings) and definitions (1000 mg = 1 g) never limit significant figures.</li>
+<li><strong>Adding unlike units.</strong> Convert milligrams to grams (or the reverse) before adding them.</li>
+<li><strong>Forgetting the units of the answer.</strong> cm &times; cm = cm<sup>2</sup>, and g &divide; mL = g/mL.</li>
+</ul>
+
+<h2>Summary</h2>
+<ul>
+<li>A calculated answer can be no more precise than its least precise measurement.</li>
+<li>To round, underline the last digit to keep and look one digit to the right: 0&ndash;4 round down, 5&ndash;9 round up. Keep placeholder zeros so the size of the number does not change.</li>
+<li>Multiplying and dividing: the answer has the fewest significant figures of the measured values, and the units multiply or divide too.</li>
+<li>Adding and subtracting: the answer has the fewest decimal places, and only identical units (same prefix) can be combined.</li>
+<li>With several operations, follow PEMDAS, treat the top and bottom of a fraction as parenthesized, underline the last significant digit at each step, and round only at the end.</li>
+</ul>
+
+<h2>Exercises</h2>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{1}\)</p>
+<p>Round each to the number of significant figures shown: (a) 76,349 (2); (b) 0.0049872 (3); (c) 6.0449 &times; 10<sup>&minus;3</sup> (2).</p>
+<details><summary>Answer</summary><p>(a) 76,000 (the next digit is 3, so round down; the zeros hold the place). (b) 0.00499 (the next digit is 7, so round up: 498 becomes 499). (c) 6.0 &times; 10<sup>&minus;3</sup> (the next digit is 4, so round down; the zero stays as the second significant figure).</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{2}\)</p>
+<p>Calculate and report with the correct significant figures and units: (a) 0.0457 cm &times; 2.1 cm; (b) 45.82 mL + 3.6 mL &minus; 0.555 mL.</p>
+<details><summary>Answer</summary><p>(a) 0.09597 cm<sup>2</sup> &rarr; <strong>0.096 cm<sup>2</sup></strong> (2.1 has 2 significant figures). (b) 48.865 mL &rarr; <strong>48.9 mL</strong> (3.6 has one decimal place).</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{3}\)</p>
+<p>Calculate (8.47 g &minus; 6.2 g) &times; 4.105, where 4.105 is a measured value with no unit. Show the underline step.</p>
+<details><summary>Answer</summary><p>Parentheses first: 8.47 &minus; 6.2 = 2.27 g; one decimal place, so underline 2.<u>2</u>7 (2 significant figures). Then 2.27 &times; 4.105 = 9.318 g. The answer gets 2 significant figures: <strong>9.3 g</strong>.</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{4}\)</p>
+<p>A bottle of 40 tablets (counted) has a total tablet mass of 15.2 g. What is the average mass of one tablet?</p>
+<details><summary>Answer</summary><p>15.2 g &divide; 40 = 0.38 g. The 40 is exact, so 15.2 g (3 significant figures) decides: <strong>0.380 g</strong>. The trailing zero must be written to show 3 significant figures.</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{5}\)</p>
+<p>A student adds 132 mg of a salt to 2.50 g of water and reports the total as 134.50 g. Find two mistakes and give the correct total in grams.</p>
+<details><summary>Answer</summary><p>The student added milligrams to grams directly, and reported too many decimal places. Convert first: 132 mg = 0.132 g. Then 2.50 g + 0.132 g = 2.632 g &rarr; <strong>2.63 g</strong> (two decimal places, from 2.50).</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{6}\)</p>
+<p>Three measurements of a patient's forearm length are 24.6 cm, 24.9 cm, and 24.7 cm. What is the average length?</p>
+<details><summary>Answer</summary><p>(24.6 + 24.9 + 24.7) &divide; 3 = 74.2 &divide; 3 = 24.733&hellip; cm. The sum has one decimal place (74.<u>2</u>, 3 significant figures), and 3 is exact: <strong>24.7 cm</strong>.</p></details></div>
+
+<div class="box-note"><p class="boxtitle">Attribution</p>
+<p>Written by Daniel Kwasniewski (Dr. Dan), Fresno City College, for CHEM 3A, with AI assistance; reviewed by the author. Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>. This page replaces an earlier adapted page; it is newly written for this book. Video by ItsDrDan (all rights reserved; embedded, not part of the licensed text).</p></div>

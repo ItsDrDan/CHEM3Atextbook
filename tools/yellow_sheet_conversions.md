@@ -1,7 +1,8 @@
 # CHEM 3A yellow sheet: "Common Conversions and Constants for Chemistry Courses" (transcribed 2026-11-17)
 
-Source: `Study Games/Stoichiometry/reference/yellow-sheet-conversions.png` (same sheet as the Exam 1 edition). The sheet has
-**no metric-prefix table** (students memorize prefixes). Only two entries are marked "(exactly)": **1 in = 2.54 cm** and
+Source: the CHEM 3A "yellow Sheet Exam 1 Edition" PDF (FCC Teaching/CHEM 3A), page 2. (An older PNG copy in
+Study Games/Stoichiometry/reference/ lacks the prefix table; the Exam 1 edition that students hold HAS one, below.)
+Only two entries are marked "(exactly)": **1 in = 2.54 cm** and
 **1 cal = 4.184 J**. Within-system definitions (12 in = 1 ft, 1000 g = 1 kg, 1 cm³ = 1 mL, 4 qt = 1 gal, …) are exact by
 definition.
 
@@ -46,6 +47,18 @@ definition.
 | **Misc** | | |
 | 1 coulomb | C | 1 A·s |
 | 1 Newton | N | 1 kg·m/s² |
+| **SI prefixes** (as printed: prefix, symbol, multiplier) | | |
+| tera- | T- | 10¹² |
+| giga- | G- | 10⁹ |
+| mega- | M- | 10⁶ |
+| kilo- | k- | 10³ |
+| deci- | d- | 10⁻¹ |
+| centi- | c- | 10⁻² |
+| milli- | m- | 10⁻³ |
+| micro- | µ- | 10⁻⁶ |
+| nano- | n- | 10⁻⁹ |
+| pico- | p- | 10⁻¹² |
+| femto- | f- | 10⁻¹⁵ |
 | **Physical constants** | | |
 | Ideal gas constant | R | 0.082058 L·atm/(mol·K); 62.36 L·torr/(mol·K); 8.3144 J/(mol·K) |
 | Avogadro's number | N_A | 6.0221 × 10²³ |

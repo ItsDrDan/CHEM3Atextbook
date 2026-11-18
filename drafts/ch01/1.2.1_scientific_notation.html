@@ -1,0 +1,160 @@
+<div class="box-objectives">
+<p class="boxtitle">Learning Objectives</p>
+<ul>
+<li>Write a number in scientific notation, A &times; 10<sup>B</sup>, by factoring out powers of ten, keeping every significant figure in A.</li>
+<li>Decide the sign of the exponent from the direction the decimal point moves, and reverse the process to return to standard form.</li>
+<li>Multiply and divide numbers in scientific notation, and enter them correctly on a TI-36X Pro.</li>
+<li>Check a scientific-notation answer by typing it back into your calculator.</li>
+<li>Read cell counts, bacterial counts, and sizes written in scientific notation on lab reports.</li>
+</ul>
+</div>
+
+<p>Here is a number you will meet in Chapter 5: 602,210,000,000,000,000,000,000. That is roughly how many water molecules are in about half of a shot glass of water. Written out, it is too long to read, too easy to miscount, and too annoying to type. Chemistry is full of numbers like this, very large (molecules in a sample) and very small (the mass of one atom), and so is health care. A complete blood count reports a white blood cell count of 7,200 cells in every microliter of blood as <strong>7.2 &times; 10<sup>3</sup>/&micro;L</strong>. That short form is <strong>scientific notation</strong>, and it is how science writes numbers that are too big or too small to write comfortably.</p>
+
+<h2>Factoring Out Tens</h2>
+<p>Start with a small number. How can you build 300 out of tens? Three times ten times ten:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 300 = 3 \times 10 \times 10 = 3 \times 10^{2} \)</p>
+<p>The exponent counts how many factors of ten were "pulled out" of the number. You can always check it by working backward: 3 &times; 10<sup>2</sup> is 3 &times; 100, which is our original 300. Every number in scientific notation has two parts:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( A \times 10^{B} \)</p>
+<ul>
+<li><strong>A</strong>, the decimal part, is a number from 1 up to (but not including) 10, with exactly one nonzero digit in front of the decimal point. A holds <em>all</em> of the significant figures of the number (Section 1.3.1).</li>
+<li><strong>10<sup>B</sup></strong>, the exponential part, is the "bigness" part. It tells you how many places the decimal point moved, and so how large or small the number is. A positive B means a big number; a negative B means a number smaller than 1.</li>
+</ul>
+<p>The table below connects powers of ten to the numbers they stand for. Negative exponents mean "one over": 10<sup>&minus;3</sup> is 1/10<sup>3</sup>, one thousandth.</p>
+<style type="text/css">@media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } }</style>
+<table class="mt-responsive-table">
+<caption>Table \(\PageIndex{1}\): Powers of ten</caption>
+<thead><tr><th scope="col">Power of ten</th><th scope="col">Fraction</th><th scope="col">Standard form</th><th scope="col">In words</th></tr></thead>
+<tbody>
+<tr><td data-th="Power of ten">10<sup>&minus;6</sup></td><td data-th="Fraction">1/10<sup>6</sup></td><td data-th="Standard form">0.000001</td><td data-th="In words">one millionth</td></tr>
+<tr><td data-th="Power of ten">10<sup>&minus;3</sup></td><td data-th="Fraction">1/10<sup>3</sup></td><td data-th="Standard form">0.001</td><td data-th="In words">one thousandth</td></tr>
+<tr><td data-th="Power of ten">10<sup>&minus;2</sup></td><td data-th="Fraction">1/10<sup>2</sup></td><td data-th="Standard form">0.01</td><td data-th="In words">one hundredth</td></tr>
+<tr><td data-th="Power of ten">10<sup>&minus;1</sup></td><td data-th="Fraction">1/10<sup>1</sup></td><td data-th="Standard form">0.1</td><td data-th="In words">one tenth</td></tr>
+<tr><td data-th="Power of ten">10<sup>0</sup></td><td data-th="Fraction">1</td><td data-th="Standard form">1</td><td data-th="In words">one</td></tr>
+<tr><td data-th="Power of ten">10<sup>1</sup></td><td data-th="Fraction">10</td><td data-th="Standard form">10</td><td data-th="In words">ten</td></tr>
+<tr><td data-th="Power of ten">10<sup>2</sup></td><td data-th="Fraction">100</td><td data-th="Standard form">100</td><td data-th="In words">one hundred</td></tr>
+<tr><td data-th="Power of ten">10<sup>3</sup></td><td data-th="Fraction">1,000</td><td data-th="Standard form">1,000</td><td data-th="In words">one thousand</td></tr>
+<tr><td data-th="Power of ten">10<sup>6</sup></td><td data-th="Fraction">1,000,000</td><td data-th="Standard form">1,000,000</td><td data-th="In words">one million</td></tr>
+</tbody></table>
+
+<h2>From Standard Form to Scientific Notation</h2>
+<p>Every number has a decimal point, even when it is not written: in 300 it sits just after the last zero. To write a number in scientific notation:</p>
+<ol>
+<li><strong>Move the decimal point</strong> until exactly one nonzero digit is in front of it. That gives A. Keep every significant figure, and drop only placeholder zeros.</li>
+<li><strong>Count the places you moved.</strong> That count is the size of the exponent.</li>
+<li><strong>Choose the sign.</strong> If you moved the decimal point to the <strong>left</strong> (a big number), the exponent is <strong>positive</strong>. If you moved it to the <strong>right</strong> (a number smaller than 1), the exponent is <strong>negative</strong>.</li>
+</ol>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{1}\): A large number</p>
+<p><strong>Problem.</strong> Write 1,004,700,000 in scientific notation. Then round it to three significant figures.</p>
+<p><strong>Solution.</strong> Hop the decimal point to the left until only the 1 is in front of it: nine hops. The significant digits are 1, the two sandwiched zeros, 4, and 7; the trailing zeros are placeholders (no decimal point), so they are dropped.</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 1{,}004{,}700{,}000 = 1.0047 \times 10^{9} \)</p>
+<p>To round to three significant figures, keep 1.00 and look at the next digit, a 4, so round down: <strong>1.00 &times; 10<sup>9</sup></strong>. The two zeros after the decimal point stay, because they are two of the three significant figures.</p>
+<p><strong>Check.</strong> The decimal point moved left, so the exponent is positive, and 10<sup>9</sup> (a billion) matches a number just over one billion.</p></div>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{2}\): A small number</p>
+<p><strong>Problem.</strong> Write 0.0324 and 0.00030460 in scientific notation.</p>
+<p><strong>Solution.</strong> For 0.0324, move the decimal point to the right, past the 3: two places. The leading zeros were only placeholders.</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 0.0324 = 3.24 \times 10^{-2} \)</p>
+<p>For 0.00030460, move the decimal point four places to the right, to just after the 3. The final zero is a trailing zero after a decimal point, so it is significant and must stay in A (5 significant figures):</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 0.00030460 = 3.0460 \times 10^{-4} \)</p>
+<p><strong>Check.</strong> Both numbers are less than 1 and both decimal points moved right, so both exponents are negative. Writing 3.046 &times; 10<sup>&minus;4</sup> would throw away a measured digit.</p></div>
+
+<p>Scientific notation also solves a problem with trailing zeros. Under this book's rule, 2500 has only 2 significant figures (Section 1.3.1). If a value was measured to 3 significant figures, write it as 2.50 &times; 10<sup>3</sup>; to 4, as 2.500 &times; 10<sup>3</sup>. Every digit in A counts.</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{3}\): Numbers from a lab report</p>
+<p><strong>Problem.</strong> Write each value in scientific notation: (a) a platelet count of 265,000 platelets per microliter; (b) the diameter of a red blood cell, 0.0000075 m.</p>
+<p><strong>Solution.</strong> (a) Move the decimal point five places left: <strong>2.65 &times; 10<sup>5</sup> per &micro;L</strong> (the trailing zeros are placeholders, so 3 significant figures). (b) Move it six places right: <strong>7.5 &times; 10<sup>&minus;6</sup> m</strong>.</p>
+<p><strong>Check.</strong> The count is large, so its exponent is positive; the cell is tiny, so its exponent is negative. Looking back at Table 1, 10<sup>&minus;6</sup> is a millionth, so the cell is 7.5 millionths of a meter across.</p></div>
+
+<h2>Back to Standard Form: The Trend Flips</h2>
+<p>To go the other way, read the exponent and move the decimal point the <em>opposite</em> way:</p>
+<ul>
+<li>A <strong>positive</strong> exponent means the number is big: move the decimal point to the <strong>right</strong>, filling empty places with zeros.</li>
+<li>A <strong>negative</strong> exponent means the number is small: move the decimal point to the <strong>left</strong>, filling empty places with zeros.</li>
+</ul>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{4}\): Standard form</p>
+<p><strong>Problem.</strong> Write in standard form: (a) 6.32 &times; 10<sup>&minus;6</sup>; (b) 4.8 &times; 10<sup>6</sup> red blood cells per microliter.</p>
+<p><strong>Solution.</strong> (a) The exponent is negative, so move the decimal point six places to the left. The 6 itself fills one of the six places, so five zeros appear between the decimal point and the 6: <strong>0.00000632</strong>. (b) The exponent is positive, so move six places to the right: <strong>4,800,000 per &micro;L</strong>.</p>
+<p><strong>Check.</strong> Count the places after the decimal point in 0.00000632: the 6 is in the sixth place, matching 10<sup>&minus;6</sup>. And 4.8 million is written 4,800,000.</p></div>
+
+<div class="box-note"><p class="boxtitle">Professor Tip</p>
+<p>Your calculator can check every scientific-notation answer you write. Type your answer back in and press <strong>enter</strong>: you should get the original decimal number back. For 3.0460 &times; 10<sup>&minus;4</sup> on the TI-36X Pro, press <code>3.0460</code>, the <code>&times;10<sup>n</sup></code> key, <code>(&minus;)</code>, <code>4</code>, <strong>enter</strong>; the display shows 0.0003046 (calculators drop trailing zeros, so put the significant zero back yourself). If you get 30460 instead, your exponent has the wrong sign. Use the <code>&times;10<sup>n</sup></code> key (shown as <code>E</code> on the screen), not "&times; 10 ^", so the calculator keeps the power of ten attached to its number.</p></div>
+
+<h2>Multiplying and Dividing in Scientific Notation</h2>
+<p>Scientific notation makes multiplication and division of very large or small numbers manageable:</p>
+<ul>
+<li><strong>Multiplying:</strong> multiply the A parts and <strong>add</strong> the exponents.</li>
+<li><strong>Dividing:</strong> divide the A parts and <strong>subtract</strong> the exponents (top minus bottom).</li>
+<li>If the new A is not between 1 and 10, adjust it: each place you move its decimal point to the left adds 1 to the exponent, and each place to the right subtracts 1.</li>
+</ul>
+<p>In practice you will let the calculator do the arithmetic, but knowing the rule lets you estimate the answer and catch a mistyped exponent. Adding and subtracting numbers in scientific notation is easiest on the calculator; Section 1.3.2 shows how to round the result.</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{5}\): White blood cells in the body</p>
+<p><strong>Problem.</strong> A patient's white blood cell count is 7.2 &times; 10<sup>3</sup> cells per microliter. An adult has about 5.0 L of blood, which is 5.0 &times; 10<sup>6</sup> &micro;L. About how many white blood cells are circulating?</p>
+<p><strong>Solution.</strong> Multiply the A parts and add the exponents:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \left(7.2 \times 10^{3}\ \tfrac{\text{cells}}{\mu\text{L}}\right)\left(5.0 \times 10^{6}\ \mu\text{L}\right) = 36 \times 10^{9}\ \text{cells} = 3.6 \times 10^{10}\ \text{cells} \)</p>
+<p>36 is not between 1 and 10, so move its decimal point one place left (36 &rarr; 3.6) and add 1 to the exponent. Both values have 2 significant figures: <strong>3.6 &times; 10<sup>10</sup> cells</strong>.</p>
+<p><strong>Check.</strong> On the TI-36X Pro: <code>7.2E3 &times; 5.0E6</code> gives 3.6E10. The microliters canceled, leaving cells.</p></div>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{6}\): Bacteria per milliliter</p>
+<p><strong>Problem.</strong> A broth culture contains 1.2 &times; 10<sup>12</sup> bacteria in 3.0 &times; 10<sup>2</sup> mL. How many bacteria are in each milliliter?</p>
+<p><strong>Solution.</strong> Divide the A parts and subtract the exponents:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \dfrac{1.2 \times 10^{12}\ \text{bacteria}}{3.0 \times 10^{2}\ \text{mL}} = 0.40 \times 10^{10}\ \tfrac{\text{bacteria}}{\text{mL}} = 4.0 \times 10^{9}\ \tfrac{\text{bacteria}}{\text{mL}} \)</p>
+<p>0.40 is less than 1, so move its decimal point one place right (0.40 &rarr; 4.0) and subtract 1 from the exponent: <strong>4.0 &times; 10<sup>9</sup> bacteria/mL</strong>.</p>
+<p><strong>Check.</strong> 1.2 trillion shared among a few hundred milliliters should be a few billion per milliliter, and 4.0 &times; 10<sup>9</sup> is four billion.</p></div>
+
+<div class="box-note"><p class="boxtitle">Clinical Connection: Lab Technology</p>
+<p>The same white blood cell count can appear on reports in different forms: 7.2 &times; 10<sup>3</sup>/&micro;L, 7.2 K/&micro;L (K for thousand), or 7.2 &times; 10<sup>9</sup>/L. They are the same count. The last one is per liter instead of per microliter, and a liter is 10<sup>6</sup> microliters, so the exponent is larger by 6. A typical adult reference range is roughly 4.5 to 11.0 &times; 10<sup>3</sup>/&micro;L, though each laboratory sets its own. Reading the exponent or the unit wrong is a thousandfold (or millionfold) error, which is why clinical laboratory scientists and nurses read the whole quantity, A, exponent, and unit, every time. (Context only; reference ranges vary by laboratory.)</p></div>
+
+<div class="box-note"><p class="boxtitle">Biology Connection: Microbiology</p>
+<p>Bacteria are counted in colony-forming units (CFU), and their numbers span many powers of ten. A urine culture with 10<sup>5</sup> CFU/mL or more of one organism has traditionally been used as a sign of a urinary tract infection, while much lower counts are interpreted case by case and can come from skin bacteria picked up during collection. Bacteria themselves are about 1 to 2 &times; 10<sup>&minus;6</sup> m long, so you could line up roughly a thousand of them across the head of a pin. Exponents let microbiologists compare such numbers at a glance: 10<sup>5</sup> is a thousand times 10<sup>2</sup>.</p></div>
+
+<h2>Video Lesson</h2>
+<p>Factoring out tens (500 = 5 &times; 10<sup>2</sup>) starts at <a href="https://youtu.be/UCQq22qA-vo?t=133" target="_blank" rel="noopener">2:13</a>; A as the number from 1 to 10 and 10<sup>B</sup> as the "bigness" part at <a href="https://youtu.be/UCQq22qA-vo?t=262" target="_blank" rel="noopener">4:22</a>; Avogadro's number and the half-filled shot glass at <a href="https://youtu.be/UCQq22qA-vo?t=363" target="_blank" rel="noopener">6:03</a>; 1,004,700,000 &rarr; 1.0047 &times; 10<sup>9</sup> and rounding to 1.00 &times; 10<sup>9</sup> at <a href="https://youtu.be/UCQq22qA-vo?t=433" target="_blank" rel="noopener">7:13</a>; small numbers and negative exponents at <a href="https://youtu.be/UCQq22qA-vo?t=612" target="_blank" rel="noopener">10:12</a>; going back to standard form at <a href="https://youtu.be/UCQq22qA-vo?t=783" target="_blank" rel="noopener">13:03</a>. The "type it back into your calculator" check, in an exam review session, is at <a href="https://youtu.be/NYbTp0OEHCM?t=1711" target="_blank" rel="noopener">28:31</a>.</p>
+<p><iframe style="max-width:100%;height:auto;aspect-ratio:16/9;" width="560" height="315" src="https://www.youtube.com/embed/UCQq22qA-vo?start=133&amp;rel=0" title="Scientific Notation (Math Skills to Ace Chemistry) (ItsDrDan)" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></p>
+
+<div class="box-note" style="border-left:6px solid #86509b;">
+<p class="boxtitle">Try It: Numbers and units</p>
+<p>Scientific notation, SI units, and metric prefixes, with health-care and biology examples. Every answer choice gives feedback.</p>
+<p><iframe src="https://itsdrdan.github.io/CHEM3Atextbook/practice.html?t=ch01-units&amp;n=6&amp;title=Numbers+and+units" width="100%" height="620" style="border:0;border-radius:12px;background:#f5f6fb;" title="Try It: Numbers and units" loading="lazy"></iframe></p>
+<p style="font-size:0.9em;">Not loading? <a href="https://itsdrdan.github.io/CHEM3Atextbook/practice.html?t=ch01-units&amp;n=6&amp;title=Numbers+and+units" target="_blank" rel="noopener">Open this practice in a new tab</a>.</p>
+</div>
+
+<h2>Common Mistakes</h2>
+<ul>
+<li><strong>The wrong exponent sign.</strong> Big numbers (moved left) get positive exponents; numbers smaller than 1 (moved right) get negative exponents. Check by typing your answer back into the calculator.</li>
+<li><strong>Dropping a significant zero from A.</strong> 0.00030460 is 3.0460 &times; 10<sup>&minus;4</sup>, not 3.046 &times; 10<sup>&minus;4</sup>.</li>
+<li><strong>Keeping placeholder zeros in A.</strong> 265,000 is 2.65 &times; 10<sup>5</sup>, not 2.65000 &times; 10<sup>5</sup>, unless the value was really measured to six figures.</li>
+<li><strong>An A that is not between 1 and 10,</strong> such as 36 &times; 10<sup>9</sup> or 0.40 &times; 10<sup>10</sup>. Adjust A and the exponent together.</li>
+<li><strong>Typing "&times; 10 ^ 9" instead of using the &times;10<sup>n</sup> key.</strong> Inside a longer calculation, the typed version can break the order of operations.</li>
+</ul>
+
+<h2>Summary</h2>
+<ul>
+<li>Scientific notation writes a number as A &times; 10<sup>B</sup>, where 1 &le; A &lt; 10 holds all the significant figures and 10<sup>B</sup> gives the size.</li>
+<li>Moving the decimal point left gives a positive exponent (a big number); moving it right gives a negative exponent (a number smaller than 1). Going back to standard form, the direction flips.</li>
+<li>To multiply, multiply the A parts and add the exponents; to divide, divide the A parts and subtract the exponents; then adjust A to be between 1 and 10.</li>
+<li>Enter numbers with the &times;10<sup>n</sup> key, and check an answer by typing it back into the calculator.</li>
+</ul>
+
+<h2>Exercises</h2>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{1}\)</p>
+<p>Write in scientific notation: (a) 93,000,000 mi; (b) 0.000482 g; (c) 0.07050 L.</p>
+<details><summary>Answer</summary><p>(a) 9.3 &times; 10<sup>7</sup> mi (the trailing zeros are placeholders). (b) 4.82 &times; 10<sup>&minus;4</sup> g. (c) 7.050 &times; 10<sup>&minus;2</sup> L (the final zero is significant, so it stays).</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{2}\)</p>
+<p>Write in standard form: (a) 7.04 &times; 10<sup>&minus;3</sup> m; (b) 3.1 &times; 10<sup>5</sup> platelets/&micro;L.</p>
+<details><summary>Answer</summary><p>(a) 0.00704 m (negative exponent: move three places left). (b) 310,000 platelets/&micro;L (positive exponent: move five places right).</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{3}\)</p>
+<p>A student writes 0.0056 as 5.6 &times; 10<sup>3</sup>. Without redoing the problem, how can a calculator show that this is wrong, and what is the correct answer?</p>
+<details><summary>Answer</summary><p>Typing 5.6 &times; 10<sup>3</sup> into the calculator gives 5600, not 0.0056, so the sign of the exponent is wrong. The decimal point moves three places to the right, so the answer is <strong>5.6 &times; 10<sup>&minus;3</sup></strong>.</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{4}\)</p>
+<p>Calculate, and give the answer in scientific notation: (a) (4.0 &times; 10<sup>8</sup>)(2.5 &times; 10<sup>&minus;3</sup>); (b) (9.0 &times; 10<sup>4</sup>) &divide; (3.0 &times; 10<sup>&minus;2</sup>).</p>
+<details><summary>Answer</summary><p>(a) 4.0 &times; 2.5 = 10, and 8 + (&minus;3) = 5, so 10 &times; 10<sup>5</sup> = <strong>1.0 &times; 10<sup>6</sup></strong> (2 significant figures). (b) 9.0 &divide; 3.0 = 3.0, and 4 &minus; (&minus;2) = 6, so <strong>3.0 &times; 10<sup>6</sup></strong>.</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{5}\)</p>
+<p>(Context only.) One lab reports a white blood cell count as 6.4 &times; 10<sup>3</sup>/&micro;L, and another reports a count for a different patient as 6.4 &times; 10<sup>9</sup>/L. Which patient has more white blood cells per unit of blood?</p>
+<details><summary>Answer</summary><p>Neither: they are the same. 6.4 &times; 10<sup>9</sup> per liter, divided by 10<sup>6</sup> microliters per liter, is 6.4 &times; 10<sup>3</sup> per microliter. The exponents differ only because the units differ.</p></details></div>
+
+<div class="box-note"><p class="boxtitle">Attribution</p>
+<p>Written by Daniel Kwasniewski (Dr. Dan), Fresno City College, for CHEM 3A, with AI assistance; reviewed by the author. Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>. This page replaces an earlier adapted page; it is newly written for this book. Video by ItsDrDan (all rights reserved; embedded, not part of the licensed text).</p></div>

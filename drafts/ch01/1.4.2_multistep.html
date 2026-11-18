@@ -1,0 +1,119 @@
+<div class="box-objectives">
+<p class="boxtitle">Learning Objectives</p>
+<ul>
+<li>Chain two or more conversion factors in one setup so each unit cancels in turn.</li>
+<li>Convert from one metric prefix to another by going through the base unit.</li>
+<li>Convert a rate or concentration (mg/dL, m/s, mL/h) by converting its top unit and its bottom unit.</li>
+<li>Enter a long setup into a calculator one step at a time and round once at the end.</li>
+</ul>
+</div>
+
+<p>Very few real conversions take one step. A drug label lists micrograms, the order is in milligrams, and the stock bottle is labeled in grams. A lab reports glucose in milligrams per deciliter, and a research paper uses grams per liter. The method from Section 1.4.1 does not change; you just keep adding factors until the only unit left is the one you want. Each factor cancels the unit the previous one created, like stepping stones across a creek.</p>
+
+<h2>Go Through the Base Unit</h2>
+<p>The metric prefix table on your yellow sheet lists each prefix with its power of ten (micro- = 10<sup>&minus;6</sup>), which compares that prefix to the <strong>base unit</strong> (gram, meter, liter, second): 1 &micro;g = 10<sup>&minus;6</sup> g. It does not tell you directly how many micrograms are in a milligram or how many centimeters are in a kilometer. So when you convert from one prefix to another, take two steps: first go from the starting prefix to the base unit, then from the base unit to the prefix you want.</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \text{prefix A} \;\longrightarrow\; \text{base unit} \;\longrightarrow\; \text{prefix B} \)</p>
+<p>You can skip the middle step once you are confident, but most students make fewer mistakes when they use it, because every factor then comes straight off the sheet.</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{1}\): Milligrams to kilograms</p>
+<p><strong>Problem.</strong> Convert 3.6 mg to kilograms.</p>
+<p><strong>Given:</strong> 3.6 mg. <strong>Desired:</strong> ??? kg. <strong>Strategy:</strong> mg &rarr; g &rarr; kg (1000 mg = 1 g; 1000 g = 1 kg).</p>
+<p><strong>Solution.</strong></p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \begin{array}{l|l|l} 3.6\ \text{mg} & 1\ \text{g} & 1\ \text{kg} \\ \hline & 1000\ \text{mg} & 1000\ \text{g} \end{array} \;=\; 3.6 \times 10^{-6}\ \text{kg} \)</p>
+<p>Milligrams cancel in the first factor, grams in the second. Both factors are exact, so the answer keeps the 2 significant figures of 3.6 mg: <strong>3.6 &times; 10<sup>&minus;6</sup> kg</strong> (0.0000036 kg).</p>
+<p><strong>Check.</strong> A kilogram is a million times larger than a milligram (10<sup>3</sup> &times; 10<sup>3</sup> = 10<sup>6</sup>), so the number must get a million times smaller. Put a check mark next to the final unit to confirm it is the one you wanted.</p></div>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{2}\): Milligrams to micrograms</p>
+<p><strong>Problem.</strong> A medication order is written in milligrams: 0.125 mg. The tablets on hand are labeled in micrograms (mcg, the health-care symbol for &micro;g). How many micrograms is the order? (Context only; a math example, not dosing guidance.)</p>
+<p><strong>Given:</strong> 0.125 mg. <strong>Desired:</strong> ??? mcg. <strong>Strategy:</strong> mg &rarr; g &rarr; mcg (1000 mg = 1 g; 1 g = 10<sup>6</sup> mcg).</p>
+<p><strong>Solution.</strong></p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 0.125\ \text{mg} \times \dfrac{1\ \text{g}}{1000\ \text{mg}} \times \dfrac{10^{6}\ \text{mcg}}{1\ \text{g}} = 125\ \text{mcg} \)</p>
+<p>The answer keeps the 3 significant figures of 0.125 mg: <strong>125 mcg</strong>.</p>
+<p><strong>Check.</strong> A microgram is smaller than a milligram, so the number must get bigger, and 1 mg = 1000 mcg, so 0.125 &times; 1000 = 125. A nurse who finds that the order and the label use different units does this conversion before preparing anything, then double-checks it.</p></div>
+
+<div class="box-note"><p class="boxtitle">Professor Tip</p>
+<p>When a problem has a long chain of factors, write down every factor you might need before you set anything up, both ways up. Then build the T-table one unit at a time, asking each time, "Which piece has the unit I just made on the bottom?" The pieces fit together only one way. Finally, put a check mark next to the unit at the end; it should be exactly the unit you wrote under Desired.</p></div>
+
+<h2>Converting Rates and Concentrations</h2>
+<p>Many quantities have a unit on top and a different unit on the bottom: speed (mi/h), flow rate (mL/h), concentration (mg/dL). These are called <strong>derived units</strong>. To convert one, convert the top unit and the bottom unit separately. Two habits keep this organized:</p>
+<ul>
+<li><strong>Do one kind of unit at a time.</strong> Finish every top-unit (for example, distance) conversion first, then every bottom-unit (time) conversion.</li>
+<li><strong>Watch where each unit sits.</strong> A unit on the <em>bottom</em> of the given needs a factor with that unit on the <em>top</em> to cancel.</li>
+</ul>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{3}\): A lab value in different units</p>
+<p><strong>Problem.</strong> A fasting blood glucose result is 95 mg/dL, the unit used by most United States labs. Some labs and research papers use grams per liter. Express the result in g/L. (1 dL = 10<sup>&minus;1</sup> L, so 10 dL = 1 L.)</p>
+<p><strong>Given:</strong> 95 mg/dL. <strong>Desired:</strong> ??? g/L. <strong>Strategy:</strong> top: mg &rarr; g; bottom: dL &rarr; L.</p>
+<p><strong>Solution.</strong> Milligrams are on top, so the first factor has mg on the bottom. Deciliters are on the bottom, so the second factor has dL on the top:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \dfrac{95\ \text{mg}}{1\ \text{dL}} \times \dfrac{1\ \text{g}}{1000\ \text{mg}} \times \dfrac{10\ \text{dL}}{1\ \text{L}} = 0.95\ \text{g/L} \)</p>
+<p>Two significant figures, from 95 mg/dL: <strong>0.95 g/L</strong>.</p>
+<p><strong>Check.</strong> Going from mg to g divides by 1000; going from "per dL" to "per L" multiplies by 10, because a liter holds ten times as much blood as a deciliter. Overall the number gets 100 times smaller: 95 &rarr; 0.95. (Context only; reference ranges depend on the lab.)</p></div>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{4}\): Pick the right answer</p>
+<p><strong>Problem.</strong> Convert 6.4 &times; 10<sup>&minus;3</sup> m/s to m/h. Which answer is right: (A) 0.384 m/h, (B) 23.04 m/h, (C) 23 m/h, (D) 3.84 m/h?</p>
+<p><strong>Given:</strong> 6.4 &times; 10<sup>&minus;3</sup> m/s. <strong>Desired:</strong> ??? m/h. <strong>Strategy:</strong> only the bottom unit changes: s &rarr; min &rarr; h.</p>
+<p><strong>Solution.</strong> Seconds are on the bottom, so the next factor needs seconds on top:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \dfrac{6.4 \times 10^{-3}\ \text{m}}{1\ \text{s}} \times \dfrac{60\ \text{s}}{1\ \text{min}} \times \dfrac{60\ \text{min}}{1\ \text{h}} = 23.04\ \text{m/h} \to 23\ \text{m/h} \)</p>
+<p>The answer is <strong>(C), 23 m/h</strong>. (B) has the right digits but too many significant figures: 6.4 has 2, and 60 s = 1 min is exact. (A) multiplies by 60 only once (seconds to minutes) and stops. (D) misplaces the decimal point.</p>
+<p><strong>Check.</strong> There are 3600 seconds in an hour, so the distance per hour must be 3600 times the distance per second: 0.0064 &times; 3600 &asymp; 23.</p></div>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{5}\): A long chain, top and bottom</p>
+<p><strong>Problem.</strong> Convert 32.5 mi/h to cm/ms. (1 mi = 5280 ft and 1 ft = 12 in, both exact US definitions; 1 in = 2.54 cm, exact.)</p>
+<p><strong>Given:</strong> 32.5 mi/h. <strong>Desired:</strong> ??? cm/ms. <strong>Strategy:</strong> top: mi &rarr; ft &rarr; in &rarr; cm; then bottom: h &rarr; min &rarr; s &rarr; ms.</p>
+<p><strong>Solution.</strong> Do all the distance factors first, then all the time factors:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \dfrac{32.5\ \text{mi}}{1\ \text{h}} \times \dfrac{5280\ \text{ft}}{1\ \text{mi}} \times \dfrac{12\ \text{in}}{1\ \text{ft}} \times \dfrac{2.54\ \text{cm}}{1\ \text{in}} \times \dfrac{1\ \text{h}}{60\ \text{min}} \times \dfrac{1\ \text{min}}{60\ \text{s}} \times \dfrac{1\ \text{s}}{1000\ \text{ms}} = 1.453\ \text{cm/ms} \)</p>
+<p>Notice that "h" in the given cancels "h" four factors later; units do not have to be next to each other to cancel. Every factor is exact, so the answer keeps the 3 significant figures of 32.5: <strong>1.45 cm/ms</strong>.</p>
+<p><strong>Check.</strong> On a calculator, multiply all the tops first (32.5 &times; 5280 &times; 12 &times; 2.54), press enter, then divide by 60, enter, by 60, enter, and by 1000, enter. Doing the bottoms one at a time keeps you from dividing by only part of the bottom.</p></div>
+
+<div class="box-note"><p class="boxtitle">Clinical Connection: Respiratory Therapy</p>
+<p>Respiratory therapists describe breathing with rates. <strong>Tidal volume</strong> is the volume of air moved in one normal breath, often around 400&ndash;500 mL in a resting adult, and the <strong>respiratory rate</strong> is breaths per minute. Multiplying them gives <strong>minute ventilation</strong>, usually reported in liters per minute. For a tidal volume of 450 mL per breath and a rate of 16 breaths per minute:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \dfrac{450\ \text{mL}}{1\ \text{breath}} \times \dfrac{16\ \text{breaths}}{1\ \text{min}} \times \dfrac{1\ \text{L}}{1000\ \text{mL}} = 7.2\ \text{L/min} \)</p>
+<p>Breaths cancel breaths and milliliters cancel milliliters, leaving L/min. A resting adult's minute ventilation is commonly around 5 to 8 L/min. Oxygen flow, ventilator settings, and nebulizer volumes are all rates like this, and they are charted in metric units. (Context only; values vary by patient.)</p></div>
+
+<h2>Video Lesson</h2>
+<p>Going through the base unit (3.4 mg to kg) starts at <a href="https://youtu.be/s7Dr7FSQ4R8?t=1026" target="_blank" rel="noopener">17:06</a>. (At about 19:00 the video says "1000 grams is one milligram"; it means 1000 g = 1 kilogram, as written on the screen and in the first example above.) The long mi/h &rarr; cm/ms chain, with "do one conversion at a time" and the calculator method, is in a second video at <a href="https://youtu.be/ilqm5Quaggc?t=670" target="_blank" rel="noopener">11:10</a>.</p>
+<p><iframe style="max-width:100%;height:auto;aspect-ratio:16/9;" width="560" height="315" src="https://www.youtube.com/embed/ilqm5Quaggc?start=670&amp;rel=0" title="Practice Problem Series for Unit Conversions: Cubed Units and Multi-Step Problems (ItsDrDan)" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></p>
+
+<div class="box-note" style="border-left:6px solid #86509b;">
+<p class="boxtitle">Try It: Conversions</p>
+<p>One-step and multi-step conversions. Every answer choice gives feedback.</p>
+<p><iframe src="https://itsdrdan.github.io/CHEM3Atextbook/practice.html?t=ch01-convert&amp;n=6&amp;title=Conversions" width="100%" height="620" style="border:0;border-radius:12px;background:#f5f6fb;" title="Try It: Conversions (multi-step page)" loading="lazy"></iframe></p>
+<p style="font-size:0.9em;">Not loading? <a href="https://itsdrdan.github.io/CHEM3Atextbook/practice.html?t=ch01-convert&amp;n=6&amp;title=Conversions" target="_blank" rel="noopener">Open this practice in a new tab</a>.</p>
+</div>
+
+<h2>Common Mistakes</h2>
+<ul>
+<li><strong>Jumping between prefixes in one step</strong> and guessing the factor (for example, writing 100 mcg = 1 mg). Go through the base unit and use factors from the sheet.</li>
+<li><strong>Converting only the top of a rate.</strong> In mg/dL &rarr; g/L, both mg and dL must change.</li>
+<li><strong>Putting the bottom unit's factor the wrong way up.</strong> A unit on the bottom of the given cancels with a factor that has that unit on top.</li>
+<li><strong>Rounding after every step.</strong> Keep all digits in the calculator and round once at the end.</li>
+<li><strong>Dividing by only part of the bottom</strong> when typing a long chain. Divide by each bottom number one at a time.</li>
+</ul>
+
+<h2>Summary</h2>
+<ul>
+<li>A multi-step conversion is a chain of factors; each factor cancels the unit the previous one created.</li>
+<li>For prefix-to-prefix conversions, go through the base unit: prefix &rarr; base &rarr; prefix.</li>
+<li>To convert a rate or concentration, convert the top unit and the bottom unit, one kind at a time.</li>
+<li>Exact factors (prefixes, 60 s = 1 min, 1 in = 2.54 cm) never limit significant figures; round once, at the end.</li>
+</ul>
+
+<h2>Exercises</h2>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{1}\)</p>
+<p>Convert 11.84 &micro;s to milliseconds.</p>
+<details><summary>Answer</summary><p>\( 11.84\ \mu\text{s} \times \dfrac{1\ \text{s}}{10^{6}\ \mu\text{s}} \times \dfrac{1000\ \text{ms}}{1\ \text{s}} = \) <strong>1.184 &times; 10<sup>&minus;2</sup> ms</strong> (0.01184 ms; 4 significant figures).</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{2}\)</p>
+<p>Convert 3.549 lb to milligrams. (1 lb = 453.59 g)</p>
+<details><summary>Answer</summary><p>\( 3.549\ \text{lb} \times \dfrac{453.59\ \text{g}}{1\ \text{lb}} \times \dfrac{1000\ \text{mg}}{1\ \text{g}} = 1{,}609{,}791\ \text{mg} \to \) <strong>1.610 &times; 10<sup>6</sup> mg</strong>. The measurement has 4 significant figures and the factor 453.59 has 5, so the answer has 4; scientific notation shows the significant final zero.</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{3}\)</p>
+<p>A hemoglobin result is 13.5 g/dL. Labs in many other countries report it in g/L. Convert it.</p>
+<details><summary>Answer</summary><p>\( \dfrac{13.5\ \text{g}}{1\ \text{dL}} \times \dfrac{10\ \text{dL}}{1\ \text{L}} = \) <strong>135 g/L</strong> (3 significant figures; only the bottom unit changes).</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{4}\)</p>
+<p>A simple syrup has a sugar concentration of 0.5 g/mL. Express it in kg/dL. (1 dL = 100 mL)</p>
+<details><summary>Answer</summary><p>\( \dfrac{0.5\ \text{g}}{1\ \text{mL}} \times \dfrac{1\ \text{kg}}{1000\ \text{g}} \times \dfrac{100\ \text{mL}}{1\ \text{dL}} = \) <strong>0.05 kg/dL</strong> (1 significant figure). Answers of 50 kg/dL (forgot g &rarr; kg: 0.5 &times; 100) or 5 &times; 10<sup>&minus;6</sup> kg/dL (put 100 mL on the bottom: 0.5 &divide; 1000 &divide; 100) come from one flipped or missing factor.</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{5}\)</p>
+<p>(Math practice only.) An IV pump is set to 125 mL/h. What is this rate in mL/min?</p>
+<details><summary>Answer</summary><p>\( \dfrac{125\ \text{mL}}{1\ \text{h}} \times \dfrac{1\ \text{h}}{60\ \text{min}} = 2.083\ \text{mL/min} \to \) <strong>2.08 mL/min</strong> (3 significant figures; 60 min = 1 h is exact).</p></details></div>
+
+<div class="box-note"><p class="boxtitle">Attribution</p>
+<p>Written by Daniel Kwasniewski (Dr. Dan), Fresno City College, for CHEM 3A, with AI assistance; reviewed by the author. Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>. This page replaces an earlier adapted page; it is newly written for this book. Videos by ItsDrDan (all rights reserved; embedded, not part of the licensed text).</p></div>

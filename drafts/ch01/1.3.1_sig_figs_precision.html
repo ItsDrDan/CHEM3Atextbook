@@ -1,0 +1,170 @@
+<div class="box-objectives">
+<p class="boxtitle">Learning Objectives</p>
+<ul>
+<li>Explain why a measurement has certain digits plus one estimated digit, and why extra zeros "cost" something.</li>
+<li>Count significant figures with three rules: nonzero and sandwiched zeros, trailing zeros, and leading zeros.</li>
+<li>Use scientific notation to show the significant figures of a number that ends in zeros.</li>
+<li>Recognize exact numbers (counts, definitions, and numbers in formulas) and explain why they never limit a calculation.</li>
+<li>Tell accuracy from precision, using targets and repeated measurements.</li>
+<li>Explain why medication orders never use a trailing zero and always use a leading zero, while lab records keep every significant zero.</li>
+</ul>
+</div>
+
+<p>Picture the famous movie scene: an adventurer stands in front of a golden idol on a pressure-sensitive pedestal, holding a bag of sand he hopes weighs the same. If the idol weighs "20 kg," how much sand should be in the bag? Is it 20 kg, 20.0 kg, or 20.00 kg? All three are the same number, twenty. But they are not the same <em>measurement</em>. "20 kg" means somewhere around twenty, give or take a few kilograms. "20.00 kg" means twenty to the nearest hundredth of a kilogram, ten grams. Getting those extra zeros costs something: a better balance, more care, more time. When you have paid for them, you write them down, so that whoever reads your number knows how far to trust it.</p>
+<p>The digits that carry real meaning in a measurement are its <strong>significant figures</strong>. This section shows how to count them, how to write them, and how they connect to accuracy, precision, and patient safety.</p>
+
+<h2>Certain Digits and One Estimated Digit</h2>
+<p>Every measuring tool has a limit. When you read a ruler marked every tenth of a centimeter, the tenths are <strong>certain</strong>, and you <strong>estimate</strong> one more digit, the hundredths, by eye. So a reading such as 13.52 cm has three certain digits (1, 3, 5) and one estimated digit (2), and all four are significant. The estimated digit is still significant: you are the scientist, and your best estimate is real information. Section 1.3.3 shows how to read rulers, glassware, thermometers, and balances; this section is about what the digits mean once they are written down.</p>
+
+<h2>Three Rules for Counting Significant Figures</h2>
+<p>Nonzero digits are always significant. All of the difficulty is in the zeros: some zeros were measured, and some only hold the decimal point in place. Three rules sort them out.</p>
+
+<h3>Rule 1: Nonzero digits, and zeros sandwiched between them, are significant</h3>
+<p>Every digit from 1 to 9 counts. A zero with a nonzero digit on each side is a <strong>sandwiched</strong> zero (sometimes called a captive zero). It was measured, so it counts.</p>
+<ul>
+<li>45.7 has 3 significant figures.</li>
+<li>2,008 has 4 (the two zeros are sandwiched between the 2 and the 8).</li>
+<li>6,302,051 has 7.</li>
+</ul>
+
+<h3>Rule 2: Trailing zeros count only when there is a decimal point</h3>
+<p>Zeros at the end of a number are <strong>trailing</strong> zeros. If the number has a decimal point anywhere in it, trailing zeros count. If it has no decimal point, trailing zeros are only placeholders that show how big the number is, and they do not count. Think of money: "You owe me about &#36;100" is a round number with 1 significant figure. "You owe me exactly &#36;100." (with the decimal point) means a hundred on the dot, 3 significant figures.</p>
+<ul>
+<li>300 has 1 significant figure; 300. has 3.</li>
+<li>2500 has 2; 2500. has 4.</li>
+<li>45.0 has 3; 8.200 has 4. (The decimal point makes these trailing zeros count.)</li>
+</ul>
+<p>This book follows that rule strictly: a number like 3800 has 2 significant figures. If 3800 was measured to 3 significant figures, the decimal-point trick cannot show it (3800. means 4), so write it in scientific notation, where every digit in A counts (Section 1.2.1):</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 3.8 \times 10^{3}\ (2) \qquad 3.80 \times 10^{3}\ (3) \qquad 3.800 \times 10^{3}\ (4) \)</p>
+
+<h3>Rule 3: Leading zeros are placeholders and never count</h3>
+<p>In a number smaller than 1 (one that starts "0.&hellip;"), the zeros in front of the first nonzero digit are <strong>leading</strong> zeros. Like pennies when you do not have a whole dollar, they only tell you the number is small. They are never significant. Start counting at the first nonzero digit; any trailing zeros after it still follow Rule 2.</p>
+<ul>
+<li>0.7 has 1 significant figure; 0.007 also has 1.</li>
+<li>0.0450 has 3 (the 4, the 5, and the trailing zero).</li>
+<li>0.00020 has 2.</li>
+</ul>
+<p>A quick way to test a leading zero: write the number in scientific notation. 0.0450 becomes 4.50 &times; 10<sup>&minus;2</sup>, and the leading zeros disappear into the exponent, while the trailing zero stays in A.</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{1}\): Name every zero</p>
+<p><strong>Problem.</strong> Name each zero in 30,400.0 and in 0.0050600, and count the significant figures in each number.</p>
+<p><strong>Solution.</strong> In <strong>30,400.0</strong>, the 0 between the 3 and the 4 is sandwiched (counts). The two zeros after the 4 are trailing, but the number has a decimal point, so they count, and so does the final 0 after the decimal point: <strong>6 significant figures</strong>. In <strong>0.0050600</strong>, the first three zeros (including the one before the decimal point) are leading (do not count). The 0 between the 5 and the 6 is sandwiched (counts), and the last two zeros are trailing after a decimal point (count): 5, 0, 6, 0, 0, so <strong>5 significant figures</strong>.</p>
+<p><strong>Check.</strong> In scientific notation, 3.04000 &times; 10<sup>4</sup> and 5.0600 &times; 10<sup>&minus;3</sup> show 6 and 5 digits in A.</p></div>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{2}\): Count them</p>
+<p><strong>Problem.</strong> How many significant figures are in each number in the table below? Name the rule that decides each one.</p>
+<p><strong>Solution.</strong> The answers are in the table.</p>
+<style type="text/css">@media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } }</style>
+<table class="mt-responsive-table">
+<caption>Table \(\PageIndex{1}\): Counting significant figures</caption>
+<thead><tr><th scope="col">Number</th><th scope="col">Significant figures</th><th scope="col">Reason</th></tr></thead>
+<tbody>
+<tr><td data-th="Number">1.823</td><td data-th="Significant figures">4</td><td data-th="Reason">all nonzero (Rule 1)</td></tr>
+<tr><td data-th="Number">0.6730</td><td data-th="Significant figures">4</td><td data-th="Reason">leading zero not counted (Rule 3); trailing zero after a decimal point counts (Rule 2)</td></tr>
+<tr><td data-th="Number">50.</td><td data-th="Significant figures">2</td><td data-th="Reason">the decimal point makes the trailing zero count (Rule 2)</td></tr>
+<tr><td data-th="Number">0.09</td><td data-th="Significant figures">1</td><td data-th="Reason">leading zeros are placeholders (Rule 3)</td></tr>
+<tr><td data-th="Number">1.0050</td><td data-th="Significant figures">5</td><td data-th="Reason">sandwiched zeros count (Rule 1); the final zero follows a decimal point (Rule 2)</td></tr>
+<tr><td data-th="Number">5400</td><td data-th="Significant figures">2</td><td data-th="Reason">no decimal point, so the trailing zeros are placeholders (Rule 2)</td></tr>
+<tr><td data-th="Number">100.075</td><td data-th="Significant figures">6</td><td data-th="Reason">sandwiched zeros count (Rule 1)</td></tr>
+<tr><td data-th="Number">0.000010001</td><td data-th="Significant figures">5</td><td data-th="Reason">leading zeros do not count (Rule 3); the zeros between the 1s are sandwiched (Rule 1)</td></tr>
+</tbody></table>
+<p><strong>Check.</strong> Look first for a decimal point; it decides whether trailing zeros count. Then start counting at the first nonzero digit.</p></div>
+
+<h2>Exact Numbers</h2>
+<p>Some numbers are not measured at all, so they have no uncertainty. These <strong>exact numbers</strong> have an unlimited (infinite) number of significant figures. There are three kinds:</p>
+<ul>
+<li><strong>Counted numbers.</strong> A nurse who counts 12 tablets has exactly 12 tablets, not 12 &plusmn; 1. It could be written 12, 12.0, or 12.000&hellip;; all are true.</li>
+<li><strong>Definitions.</strong> 1 ft = 12 in, 1 kg = 1000 g, 1 L = 1000 mL, and 1 in = 2.54 cm are exact because people defined them that way. Every metric-prefix relationship is a definition. (Equalities like the yellow sheet's 1 kg = 2.2046 lb are rounded, not exact; Section 1.4.1.)</li>
+<li><strong>Numbers in formulas.</strong> The 2 in a circle's circumference, 2&pi;r, and the 3 you divide by to average three readings are exact.</li>
+</ul>
+<p>Because exact numbers have unlimited significant figures, they <strong>never limit</strong> the significant figures of a calculated answer. Only measured numbers do.</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{3}\): Measured or exact?</p>
+<p><strong>Problem.</strong> Is each number measured or exact? (a) 24 hours in a day; (b) a patient's height of 165 cm; (c) 30 students in a lab section; (d) 1 lb = 453.59 g.</p>
+<p><strong>Solution.</strong> (a) Exact (a definition). (b) Measured (3 significant figures). (c) Exact (a count). (d) Measured, or more precisely a rounded value of a defined quantity, so treat it as having 5 significant figures.</p>
+<p><strong>Check.</strong> Ask: could someone get a slightly different value by measuring again? If yes, the number is measured.</p></div>
+
+<h2>Accuracy and Precision</h2>
+<p>Two words describe how good a set of measurements is, and they are not the same:</p>
+<ul>
+<li><strong>Accuracy</strong> is how close a measurement is to the true (accepted) value.</li>
+<li><strong>Precision</strong> is how close repeated measurements are to each other, how reproducible they are. The number of significant figures a tool gives is a sign of its precision.</li>
+</ul>
+<p>A dartboard or archery target makes the difference easy to see (Figure \(\PageIndex{1}\)). The bull's-eye is the true value, and each mark is one measurement.</p>
+
+<figure class="figure"><img src="https://itsdrdan.github.io/CHEM3Atextbook/figures/ch01/accuracy_targets.svg" alt="Four archery targets, each with four marks. Target (a): the four marks sit in a tight cluster far from the center, in the upper right. Target (b): the four marks are spread widely around the center, roughly evenly on different sides. Target (c): the four marks sit in a tight cluster in the center. Target (d): the four marks are spread widely near the outer edge on one side." width="560" />
+<figcaption>Figure \(\PageIndex{1}\): Accuracy and precision. (a) Precise but not accurate: the marks agree with each other but miss the center. (b) Accurate on average but not precise: the marks scatter, but their average is near the center. (c) Accurate and precise. (d) Neither accurate nor precise. (Diagram: Daniel Kwasniewski, CC BY 4.0.)</figcaption></figure>
+
+<p>A precise tool can still be inaccurate. A clinic scale that has never been calibrated may give the same reading three times in a row, very precise, and be wrong by a kilogram every time. Precision tells you the tool is consistent; only comparison with a known standard tells you it is right. That is why balances are checked with standard masses and why glucose meters are checked with control solutions of known concentration.</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{4}\): Testing glucose meters</p>
+<p><strong>Problem.</strong> A nursing skills lab tests four glucose meters with a control solution known to contain 120 mg/dL of glucose. Each meter reads the solution three times. Classify each meter, and match it to a target in Figure 1.</p>
+<p><strong>Solution.</strong> Compare the readings with each other (precision) and their average with 120 mg/dL (accuracy):</p>
+<style type="text/css">@media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } }</style>
+<table class="mt-responsive-table">
+<caption>Table \(\PageIndex{2}\): Four glucose meters and a 120 mg/dL control solution</caption>
+<thead><tr><th scope="col">Meter</th><th scope="col">Readings (mg/dL)</th><th scope="col">Average (mg/dL)</th><th scope="col">Precise?</th><th scope="col">Accurate?</th><th scope="col">Matching target</th></tr></thead>
+<tbody>
+<tr><td data-th="Meter">A</td><td data-th="Readings (mg/dL)">98, 99, 98</td><td data-th="Average (mg/dL)">98</td><td data-th="Precise?">yes (readings agree)</td><td data-th="Accurate?">no (about 22 mg/dL low)</td><td data-th="Matching target">(a)</td></tr>
+<tr><td data-th="Meter">B</td><td data-th="Readings (mg/dL)">105, 134, 121</td><td data-th="Average (mg/dL)">120</td><td data-th="Precise?">no (readings scatter)</td><td data-th="Accurate?">on average only</td><td data-th="Matching target">(b)</td></tr>
+<tr><td data-th="Meter">C</td><td data-th="Readings (mg/dL)">119, 121, 120</td><td data-th="Average (mg/dL)">120</td><td data-th="Precise?">yes</td><td data-th="Accurate?">yes</td><td data-th="Matching target">(c)</td></tr>
+<tr><td data-th="Meter">D</td><td data-th="Readings (mg/dL)">70, 128, 99</td><td data-th="Average (mg/dL)">99</td><td data-th="Precise?">no</td><td data-th="Accurate?">no (average 21 mg/dL low)</td><td data-th="Matching target">(d)</td></tr>
+</tbody></table>
+<p><strong>Check.</strong> Meter A is the miscalibrated scale of glucose meters: consistent and consistently wrong. Meter B's average hits the true value only because its high and low errors cancel; any single reading could be off by more than 10 mg/dL. Only Meter C can be trusted for one reading.</p></div>
+
+<div class="box-note"><p class="boxtitle">Clinical Connection: Nursing</p>
+<p>Lab notebooks and medication orders follow different zero rules, for different reasons. In the lab, the trailing zero in "5.0 mL" is information: it says the volume was measured to the tenth of a milliliter, so you must write it. On a medication order, the same zero is a hazard. If the decimal point in "5.0 mg" is missed, the order reads "50 mg," a tenfold overdose. A missing leading zero is just as dangerous: ".5 mg" can be read as "5 mg." That is why The Joint Commission's official "Do Not Use" list forbids a trailing zero (write 5 mg, not 5.0 mg) and requires a leading zero (write 0.5 mg, never .5 mg) in medication orders and related documents. The list itself allows trailing zeros where the level of precision must be shown, such as laboratory results. Both habits protect the reader: the lab rule protects the meaning of the number, and the medication rule protects the patient. (Context only; follow your facility's documentation policy.)</p></div>
+
+<div class="box-note"><p class="boxtitle">Clinical Connection: Respiratory Therapy and Point-of-Care Testing</p>
+<p>Handheld meters used at the bedside, such as glucose meters and blood-gas analyzers, are checked against controls on a schedule, and their results are compared with the central laboratory. For blood glucose meters, the international standard ISO 15197 asks that 95% of results fall within 15 mg/dL of the laboratory value when glucose is below 100 mg/dL, and within 15% at or above 100 mg/dL. A meter that reads 98 mg/dL on a 120 mg/dL control is precise, but its readings would also fall outside that accuracy window: it needs attention even though its readings agree with each other. (Context only; follow the device's quality-control procedure.)</p></div>
+
+<h2>Video Lesson</h2>
+<p>The golden-idol example (20 vs 20.0 vs 20.00 kg) starts at <a href="https://youtu.be/c3m2L5Ni3wk?t=60" target="_blank" rel="noopener">1:00</a>; Rule 1, nonzero digits and sandwiched zeros, at <a href="https://youtu.be/c3m2L5Ni3wk?t=349" target="_blank" rel="noopener">5:49</a>; Rule 2, trailing zeros, at <a href="https://youtu.be/c3m2L5Ni3wk?t=500" target="_blank" rel="noopener">8:20</a>; the "you owe me exactly &#36;100." money example at <a href="https://youtu.be/c3m2L5Ni3wk?t=577" target="_blank" rel="noopener">9:37</a>; Rule 3, leading zeros as placeholders, at <a href="https://youtu.be/c3m2L5Ni3wk?t=622" target="_blank" rel="noopener">10:22</a>; a recap of all three kinds of zeros at <a href="https://youtu.be/c3m2L5Ni3wk?t=756" target="_blank" rel="noopener">12:36</a>; exact numbers (counted, formula, and defined) at <a href="https://youtu.be/c3m2L5Ni3wk?t=859" target="_blank" rel="noopener">14:19</a>. Why 2.54 cm = 1 in never limits significant figures is discussed in an exam review session at <a href="https://youtu.be/NYbTp0OEHCM?t=1934" target="_blank" rel="noopener">32:14</a>.</p>
+<p><iframe style="max-width:100%;height:auto;aspect-ratio:16/9;" width="560" height="315" src="https://www.youtube.com/embed/c3m2L5Ni3wk?start=60&amp;rel=0" title="Significant Figures (Math Skills to Ace Chemistry) (ItsDrDan)" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></p>
+
+<div class="box-note" style="border-left:6px solid #86509b;">
+<p class="boxtitle">Try It: Significant figures</p>
+<p>Count significant figures, spot exact numbers, and tell accuracy from precision. Every answer choice gives feedback.</p>
+<p><iframe src="https://itsdrdan.github.io/CHEM3Atextbook/practice.html?t=ch01-sigfig&amp;n=6&amp;title=Significant+figures" width="100%" height="620" style="border:0;border-radius:12px;background:#f5f6fb;" title="Try It: Significant figures" loading="lazy"></iframe></p>
+<p style="font-size:0.9em;">Not loading? <a href="https://itsdrdan.github.io/CHEM3Atextbook/practice.html?t=ch01-sigfig&amp;n=6&amp;title=Significant+figures" target="_blank" rel="noopener">Open this practice in a new tab</a>.</p>
+</div>
+
+<h2>Common Mistakes</h2>
+<ul>
+<li><strong>Counting leading zeros.</strong> 0.0045 has 2 significant figures, not 4 or 5.</li>
+<li><strong>Counting trailing zeros with no decimal point.</strong> Under this book's rule, 2500 has 2 significant figures. Use scientific notation (2.50 &times; 10<sup>3</sup>) to show more.</li>
+<li><strong>Dropping a measured zero.</strong> A balance reading of 2.050 g has 4 significant figures; writing 2.05 g throws one away.</li>
+<li><strong>Treating counts and definitions as measured.</strong> 12 tablets, 1000 mg = 1 g, and the 2 in 2&pi;r are exact and never limit an answer.</li>
+<li><strong>Using "accurate" and "precise" as the same word.</strong> Precise means the readings agree with each other; accurate means they agree with the true value.</li>
+<li><strong>Bringing lab zero habits to medication orders,</strong> or the reverse. Lab records keep every significant zero; medication orders never use a trailing zero and always use a leading zero.</li>
+</ul>
+
+<h2>Summary</h2>
+<ul>
+<li>Significant figures are all the certain digits in a measurement plus one estimated digit; more digits mean a more precise measurement.</li>
+<li>Rule 1: nonzero digits and sandwiched zeros count. Rule 2: trailing zeros count only if the number has a decimal point. Rule 3: leading zeros never count.</li>
+<li>Scientific notation shows significant figures unambiguously: every digit in A counts.</li>
+<li>Exact numbers (counts, definitions, formula numbers) have unlimited significant figures.</li>
+<li>Accuracy is closeness to the true value; precision is closeness of repeated measurements to each other. A precise tool can still be inaccurate until it is calibrated.</li>
+<li>Medication orders use "0.5 mg" (leading zero) and "5 mg" (no trailing zero) to prevent tenfold errors; lab records keep every significant zero.</li>
+</ul>
+
+<h2>Exercises</h2>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{1}\)</p>
+<p>How many significant figures are in each? (a) 0.0400 g; (b) 60.50 mL; (c) 7,000 m; (d) 7,000. m; (e) 3.010 &times; 10<sup>4</sup> cells; (f) 0.008 L.</p>
+<details><summary>Answer</summary><p>(a) 3 (leading zeros do not count; the trailing zeros after a decimal point do). (b) 4. (c) 1 (no decimal point). (d) 4 (the decimal point makes the trailing zeros count). (e) 4 (every digit in A). (f) 1.</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{2}\)</p>
+<p>Write 45,000 g so that it shows (a) 2, (b) 3, and (c) 5 significant figures.</p>
+<details><summary>Answer</summary><p>(a) 45,000 g or 4.5 &times; 10<sup>4</sup> g. (b) 4.50 &times; 10<sup>4</sup> g. (c) 45,000. g or 4.5000 &times; 10<sup>4</sup> g.</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{3}\)</p>
+<p>Which of these have an unlimited number of significant figures? (a) 60 s = 1 min; (b) a blood pressure of 118 mmHg; (c) 4 vials on a tray; (d) 1 kg = 2.2046 lb.</p>
+<details><summary>Answer</summary><p>(a) and (c). The first is a definition and the second is a count. A blood pressure is measured (3 significant figures), and 2.2046 lb is a rounded value (5 significant figures).</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{4}\)</p>
+<p>A newborn scale is tested with a 5.000 kg reference mass. It reads 5.120 kg, 5.118 kg, and 5.121 kg. Is the scale accurate, precise, both, or neither? Which target in Figure 1 does it match?</p>
+<details><summary>Answer</summary><p>Precise but not accurate: the readings agree within 0.003 kg, but all are about 0.12 kg (120 g) too high. This matches target (a). The scale needs to be recalibrated.</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{5}\)</p>
+<p>(Context only.) Rewrite each medication amount the way a safe order would write it, and explain the change: (a) .25 mg; (b) 10.0 mg.</p>
+<details><summary>Answer</summary><p>(a) <strong>0.25 mg</strong>: a leading zero is required, so the decimal point cannot be missed (".25" could be read as "25"). (b) <strong>10 mg</strong>: no trailing zero, so the order cannot be misread as 100 mg. In a lab notebook, by contrast, 10.0 mg would be correct if the mass was measured to the tenth of a milligram.</p></details></div>
+
+<div class="box-note"><p class="boxtitle">Attribution</p>
+<p>Written by Daniel Kwasniewski (Dr. Dan), Fresno City College, for CHEM 3A, with AI assistance; reviewed by the author. Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>. This page replaces an earlier adapted page; it is newly written for this book. Video by ItsDrDan (all rights reserved; embedded, not part of the licensed text).</p></div>
