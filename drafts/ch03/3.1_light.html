@@ -1,7 +1,7 @@
 <div class="box-objectives">
 <p class="boxtitle">Learning Objectives</p>
 <ul>
-<li>Define wavelength and frequency and state how they are related.</li>
+<li>Name the three parts of a wave (wavelength, frequency, amplitude), and state how wavelength and frequency are related.</li>
 <li>Use \( c = \lambda\nu \) to convert between wavelength and frequency.</li>
 <li>Use \( E = h\nu \) to find the energy of a photon, and explain why shorter wavelengths carry more energy.</li>
 <li>Put the regions of the electromagnetic spectrum in order of wavelength and energy.</li>
@@ -15,10 +15,14 @@
 <ul>
 <li>The <strong>wavelength</strong>, symbol \( \lambda \) (Greek lambda), is the distance from one peak to the next. Visible light has wavelengths of about 400 to 700 nanometers (1 nm = 10<sup>&minus;9</sup> m).</li>
 <li>The <strong>frequency</strong>, symbol \( \nu \) (Greek nu), is the number of peaks that pass a point each second. Its unit is the hertz (Hz), which means "per second": 1 Hz = 1 s<sup>&minus;1</sup>.</li>
+<li>The <strong>amplitude</strong> is the height of each peak (crest) above the middle of the wave. For light, amplitude is <strong>intensity</strong>: it is what we see as <em>brightness</em>. Turning a dimmer switch up makes the waves taller (brighter); turning it down makes them lower (dimmer). Amplitude does not change the color. Color is set by the wavelength.</li>
 </ul>
 <p>All electromagnetic radiation travels through a vacuum at the same speed, the <strong>speed of light</strong>, \( c = 3.00 \times 10^{8}\ \text{m s}^{-1} \). Because the speed is fixed, wavelength and frequency are tied together:</p>
 <p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( c = \lambda \nu \)</p>
-<p>Wavelength and frequency are <strong>inversely related</strong>: if one goes up, the other goes down. Long waves pass by slowly (low frequency); short waves pass by quickly (high frequency).</p>
+<p>You can prove the equation makes sense with dimensional analysis, the same unit check you used in Chapter 1. Wavelength is a distance (m) and frequency is "per second" (s<sup>&minus;1</sup>), so</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \lambda \times \nu = \text{m} \times \text{s}^{-1} = \dfrac{\text{m}}{\text{s}} \)</p>
+<p>which is a speed, the units of \( c \).</p>
+<p>Wavelength and frequency are <strong>inversely related</strong>: if one goes up, the other goes down. Picture yourself standing in the ocean. On a calm day the waves are long and gentle, the crests are far apart, and one reaches you only every so often: long wavelength, low frequency. In a storm the waves are short and choppy, the crests are close together, and they slam into you one after another: short wavelength, high frequency. All light moves at the same speed, so the closer together the crests are, the more of them pass you each second.</p>
 
 <div class="box-example"><p class="boxtitle">Example \(\PageIndex{1}\): Frequency of a pulse oximeter's red light</p>
 <p><strong>Problem.</strong> A pulse oximeter uses red light with a wavelength of 660. nm. What is its frequency?</p>
@@ -53,10 +57,14 @@
 <p>That is smaller than \( 3.01 \times 10^{-19}\ \text{J} \).</p>
 <p><strong>Check.</strong> Energy and wavelength are inversely related, so the ratio of energies should be about 940/660 &asymp; 1.4, and 3.01/2.11 &asymp; 1.4.</p></div>
 
+<div class="box-note"><p class="boxtitle">Professor Tip: Three Formulas, Plug and Play</p>
+<p>Write all three light equations in your notebook, side by side: \( c = \lambda\nu \), \( E = h\nu \), and \( E = hc/\lambda \). Every light problem in this course uses one of them. Find which two quantities you are given and which one you want, pick the equation that contains all three, and plug in, with the wavelength in meters.</p></div>
+
 <h2>The Electromagnetic Spectrum</h2>
 <p>The full range of electromagnetic radiation is the <strong>electromagnetic spectrum</strong>. The figure lists its regions from the longest, lowest-energy waves (radio) to the shortest, highest-energy ones (gamma rays). Visible light is a narrow band in the middle; within it, red has the longest wavelength and lowest energy, and violet has the shortest wavelength and highest energy. A memory aid for the visible colors from long to short wavelength is ROY G BV (red, orange, yellow, green, blue, violet).</p>
 <figure class="figure"><img src="https://itsdrdan.github.io/CHEM3Atextbook/figures/ch03/em_spectrum.svg" alt="The electromagnetic spectrum listed from longest wavelength and lowest energy at the top to shortest wavelength and highest energy at the bottom: radio waves (over about 1 meter; MRI scanners, radio), microwaves (about 1 millimeter to 1 meter; microwave ovens, cell phones), infrared (about 700 nanometers to 1 millimeter; heat lamps, pulse oximeter at 940 nanometers), visible light (about 400 to 700 nanometers; red through violet), ultraviolet (about 10 to 400 nanometers; sunburn, germicidal UV-C lamps), X-rays (about 0.01 to 10 nanometers; radiographs, CT scans), and gamma rays (under about 0.01 nanometer; nuclear medicine, radiation therapy). An arrow down the side says wavelength gets shorter and frequency and energy get higher." width="470" />
 <figcaption>Figure \(\PageIndex{1}\): The electromagnetic spectrum. Going down the list, wavelength decreases while frequency and photon energy increase. Region boundaries are approximate. (Diagram: Daniel Kwasniewski, CC BY 4.0.)</figcaption></figure>
+<p>You use most of these regions every day: radio waves carry the station in your car, microwaves heat your food, infrared is the warmth of a heat lamp, ultraviolet comes from the sun, X-rays make radiographs, and gamma rays are used to destroy cancer cells in radiation therapy. Astronauts need shielding in space partly because, above the atmosphere, high-energy radiation is no longer filtered out before it reaches them. The rule that ties it together: <strong>shorter wavelength = higher frequency = more energy</strong>, and the more energy a photon has, the more damage it can do to tissue.</p>
 <p>The energy per photon explains why the regions act so differently on the body. Radio waves and microwaves can warm tissue but cannot break chemical bonds. Ultraviolet photons have enough energy to damage DNA, and X-ray and gamma-ray photons have enough to knock electrons out of atoms, which is why they are called <strong>ionizing radiation</strong> and why radiology staff wear dosimeters and lead aprons.</p>
 
 <div class="box-note"><p class="boxtitle">Clinical Connection: Respiratory Therapy</p>
@@ -75,7 +83,7 @@
 <p style="font-size:0.9em;">Sources: University of California Agriculture and Natural Resources, Advanced Sensing and Management Technology for Specialty Crops, "Update 2012: Predicting yield with Landsat" (ucanr.edu); UC Davis Digital Agriculture Laboratory, Virtual Orchard project.</p></div>
 
 <h2>Video Lesson</h2>
-<p>Wavelength and frequency start at <a href="https://youtu.be/AgKAXoYLRBA?t=282" target="_blank" rel="noopener">4:42</a>; energy and \( E = h\nu \) at <a href="https://youtu.be/AgKAXoYLRBA?t=331" target="_blank" rel="noopener">5:31</a>.</p>
+<p>Wavelength and frequency start at <a href="https://youtu.be/AgKAXoYLRBA?t=282" target="_blank" rel="noopener">4:42</a>; amplitude as a dimmer switch at <a href="https://youtu.be/AgKAXoYLRBA?t=432" target="_blank" rel="noopener">7:12</a>; the units check and the calm-day versus storm waves at <a href="https://youtu.be/AgKAXoYLRBA?t=503" target="_blank" rel="noopener">8:23</a>; the spectrum, from car radios to gamma rays for cancer therapy, at <a href="https://youtu.be/AgKAXoYLRBA?t=657" target="_blank" rel="noopener">10:57</a>; and photons and \( E = h\nu \) at <a href="https://youtu.be/AgKAXoYLRBA?t=805" target="_blank" rel="noopener">13:25</a>.</p>
 <p><iframe style="max-width:100%;height:auto;aspect-ratio:16/9;" width="560" height="315" src="https://www.youtube.com/embed/AgKAXoYLRBA?start=282&amp;rel=0" title="Introduction to Electromagnetic Radiation for Chemistry: (Part 1) Wavelength, Frequency, and Energy! (ItsDrDan)" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></p>
 
 <div class="box-note" style="border-left:6px solid #86509b;">
@@ -90,11 +98,12 @@
 <li><strong>Leaving the wavelength in nanometers.</strong> Convert to meters before using \( c = 3.00 \times 10^{8}\ \text{m s}^{-1} \).</li>
 <li><strong>Thinking longer wavelength means more energy.</strong> It is the reverse: long wavelength, low frequency, low energy.</li>
 <li><strong>Multiplying when you should divide.</strong> \( \nu = c/\lambda \) and \( \lambda = c/\nu \). A visible-light frequency should come out near 10<sup>14</sup> Hz; if you get 10<sup>2</sup> or 10<sup>&minus;15</sup>, recheck.</li>
-<li><strong>Mixing up "brighter" and "more energetic."</strong> A brighter light has more photons; each photon's energy depends only on its wavelength.</li>
+<li><strong>Mixing up "brighter" and "more energetic."</strong> Brightness is amplitude (intensity): a brighter light has taller waves and more photons, but each photon's energy depends only on its wavelength.</li>
 </ul>
 
 <h2>Summary</h2>
 <ul>
+<li>Every wave has a wavelength (distance between crests), a frequency (crests per second), and an amplitude (height; for light, brightness).</li>
 <li>Electromagnetic radiation travels at \( c = 3.00 \times 10^{8}\ \text{m s}^{-1} \); \( c = \lambda\nu \), so wavelength and frequency are inversely related.</li>
 <li>Each photon has energy \( E = h\nu = hc/\lambda \), with \( h = 6.626 \times 10^{-34}\ \text{J s} \).</li>
 <li>From radio waves to gamma rays, wavelength decreases and frequency and energy increase. Visible light runs from red (about 700 nm) to violet (about 400 nm).</li>
@@ -110,6 +119,10 @@
 <div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{3}\)</p>
 <p>Put these in order of increasing photon energy: X-rays, infrared, radio waves, ultraviolet, visible light.</p>
 <details><summary>Answer</summary><p>Radio waves &lt; infrared &lt; visible light &lt; ultraviolet &lt; X-rays (the same order as decreasing wavelength).</p></details></div>
+
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{4}\)</p>
+<p>Two red laser pointers have the same wavelength, 650 nm, but one is much brighter. Which wave property is different, and do their photons have different energies?</p>
+<details><summary>Answer</summary><p>The amplitude (intensity) is different: the brighter pointer has taller waves and sends out more photons each second. The wavelength is the same, so each photon has the same energy, and the color is the same red.</p></details></div>
 
 <div class="box-note"><p class="boxtitle">Attribution</p>
 <p>Written by Daniel Kwasniewski (Dr. Dan), Fresno City College, for CHEM 3A, with AI assistance; reviewed by the author. Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>. This page replaces "Light" and "The Electromagnetic Spectrum" from earlier versions of this book. Pulse oximeter wavelengths and accuracy note: U.S. Food and Drug Administration. Video by ItsDrDan (all rights reserved; embedded, not part of the licensed text).</p></div>

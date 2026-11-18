@@ -5,6 +5,7 @@
 <li>Find the number of half-lives from the elapsed time and the half-life.</li>
 <li>Calculate the amount (or activity) remaining after a whole number of half-lives.</li>
 <li>Work backward to find the elapsed time, the half-life, or the starting amount.</li>
+<li>Set up a half-life problem with a half-life equality as a conversion factor, and solve percent-only problems with an arrow map.</li>
 </ul>
 </div>
 
@@ -20,13 +21,17 @@
 <caption>Half-lives of some radioisotopes</caption>
 <thead><tr><th scope="col">Radioisotope</th><th scope="col">Half-life</th><th scope="col">Decay</th><th scope="col">Use or source</th></tr></thead>
 <tbody>
+<tr><td data-th="Radioisotope">Gallium-68</td><td data-th="Half-life">68 minutes</td><td data-th="Decay">positron</td><td data-th="Use or source">PET scans of some tumors (Section 14.7)</td></tr>
 <tr><td data-th="Radioisotope">Fluorine-18</td><td data-th="Half-life">110 minutes</td><td data-th="Decay">positron</td><td data-th="Use or source">PET scans (FDG)</td></tr>
 <tr><td data-th="Radioisotope">Technetium-99m</td><td data-th="Half-life">6.0 hours</td><td data-th="Decay">gamma</td><td data-th="Use or source">Most nuclear medicine scans, including V/Q lung scans</td></tr>
 <tr><td data-th="Radioisotope">Iodine-123</td><td data-th="Half-life">13 hours</td><td data-th="Decay">electron capture, gamma</td><td data-th="Use or source">Thyroid imaging</td></tr>
 <tr><td data-th="Radioisotope">Radon-222</td><td data-th="Half-life">3.8 days</td><td data-th="Decay">alpha</td><td data-th="Use or source">Radon gas in homes</td></tr>
 <tr><td data-th="Radioisotope">Iodine-131</td><td data-th="Half-life">8.0 days</td><td data-th="Decay">beta, gamma</td><td data-th="Use or source">Thyroid treatment</td></tr>
 <tr><td data-th="Radioisotope">Phosphorus-32</td><td data-th="Half-life">14.3 days</td><td data-th="Decay">beta</td><td data-th="Use or source">Biology research (labeling DNA)</td></tr>
+<tr><td data-th="Radioisotope">Iridium-192</td><td data-th="Half-life">74 days</td><td data-th="Decay">beta, gamma</td><td data-th="Use or source">Brachytherapy sources for cancer treatment</td></tr>
 <tr><td data-th="Radioisotope">Cobalt-60</td><td data-th="Half-life">5.27 years</td><td data-th="Decay">beta, gamma</td><td data-th="Use or source">Radiation therapy, sterilizing supplies</td></tr>
+<tr><td data-th="Radioisotope">Hydrogen-3 (tritium)</td><td data-th="Half-life">12.3 years</td><td data-th="Decay">beta</td><td data-th="Use or source">Glow-in-the-dark exit signs and watch dials</td></tr>
+<tr><td data-th="Radioisotope">Strontium-90</td><td data-th="Half-life">28.8 years</td><td data-th="Decay">beta</td><td data-th="Use or source">Fission product in nuclear fallout and reactor waste</td></tr>
 <tr><td data-th="Radioisotope">Carbon-14</td><td data-th="Half-life">5730 years</td><td data-th="Decay">beta</td><td data-th="Use or source">Radiocarbon dating</td></tr>
 <tr><td data-th="Radioisotope">Uranium-238</td><td data-th="Half-life">4.5 &times; 10<sup>9</sup> years</td><td data-th="Decay">alpha</td><td data-th="Use or source">Natural uranium in rocks</td></tr>
 </tbody></table>
@@ -56,7 +61,8 @@
 <p><strong>Solution.</strong></p>
 <p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( n = \dfrac{24.0\ \text{days}}{8.0\ \text{days}} = 3 \qquad 80.0\ \text{mg} \times \left(\tfrac{1}{2}\right)^{3} = 80.0\ \text{mg} \times \tfrac{1}{8} = 10.0\ \text{mg} \)</p>
 <p style="text-align:center;">80.0 mg &rarr; 40.0 mg &rarr; 20.0 mg &rarr; 10.0 mg</p>
-<p><strong>Check.</strong> Three arrows, three half-lives, and the amount was halved three times.</p></div>
+<p style="text-align:center;">(100% &rarr; 50% &rarr; 25% &rarr; 12.5%; each arrow is 8.0 days)</p>
+<p><strong>Check.</strong> Three arrows, three half-lives, and the amount was halved three times. Writing the percent under each amount, as in the second line, is a good habit: it works the same way when a problem gives only percents (Example 7).</p></div>
 
 <div class="box-example"><p class="boxtitle">Example \(\PageIndex{3}\): How long until only a little is left?</p>
 <p><strong>Problem.</strong> A dose of fluorine-18 (half-life 110 minutes) has an activity of 40.0 mCi when it is prepared. How long will it take for the activity to fall to 5.00 mCi?</p>
@@ -77,6 +83,37 @@
 <p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 0.500\ \text{mg} \times 2^{4} = 0.500\ \text{mg} \times 16 = 8.00\ \text{mg} \)</p>
 <p><strong>Check.</strong> Forward from 8.00 mg: 4.00, 2.00, 1.00, 0.500 mg in four half-lives.</p></div>
 
+<h2>Setting Up a Half-Life Problem Step by Step</h2>
+<p>A half-life can be written as an <strong>equality</strong>, just like the conversion factors in Chapter 1. For strontium-90, 1 half-life = 28.8 years, so you can write</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \dfrac{1\ \text{half-life}}{28.8\ \text{years}} \qquad \text{or} \qquad \dfrac{28.8\ \text{years}}{1\ \text{half-life}} \)</p>
+<p>and let the units tell you which one to use. A four-step plan keeps longer problems organized: (1) write the <strong>known</strong> and <strong>unknown</strong> quantities; (2) <strong>plan</strong> the path from one to the other; (3) write the <strong>half-life equality</strong> and any other conversions; (4) <strong>set up and solve</strong>.</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{6}\): Strontium-90, step by step</p>
+<p><strong>Problem.</strong> Strontium-90, a product of nuclear fission, has a half-life of 28.8 years. A soil sample contained 40.0 mg of strontium-90. How many milligrams remain after 115.2 years?</p>
+<p><strong>Solution.</strong></p>
+<ol>
+<li><strong>Known:</strong> 40.0 mg Sr-90 at the start; 115.2 years elapsed. <strong>Unknown:</strong> mg Sr-90 remaining.</li>
+<li><strong>Plan:</strong> years &rarr; number of half-lives &rarr; mg remaining.</li>
+<li><strong>Equality:</strong> 1 half-life = 28.8 years.</li>
+<li><strong>Set up and solve:</strong></li>
+</ol>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 115.2\ \text{years} \times \dfrac{1\ \text{half-life}}{28.8\ \text{years}} = 4\ \text{half-lives} \qquad 40.0\ \text{mg} \times \left(\tfrac{1}{2}\right)^{4} = 2.50\ \text{mg} \)</p>
+<p style="text-align:center;">40.0 mg &rarr; 20.0 &rarr; 10.0 &rarr; 5.00 &rarr; 2.50 mg</p>
+<p><strong>Check.</strong> Years cancel and leave half-lives, so the factor is right side up. Four arrows, four half-lives, one-sixteenth of the start. Strontium behaves like calcium in the body and settles in bone, which is why this long-lived isotope in fallout is a health concern.</p></div>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{7}\): Only a percent is given</p>
+<p><strong>Problem.</strong> The tritium (hydrogen-3, half-life 12.3 years) in a glowing exit sign decays until only 6.25% of the original amount is left. How long does that take?</p>
+<p><strong>Solution.</strong> No mass is given, so map out the percents and count the arrows:</p>
+<p style="text-align:center;">100% &rarr; 50% &rarr; 25% &rarr; 12.5% &rarr; 6.25% &nbsp; (4 arrows = 4 half-lives)</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 4\ \text{half-lives} \times \dfrac{12.3\ \text{years}}{1\ \text{half-life}} = 49.2\ \text{years} \)</p>
+<p><strong>Check.</strong> (1/2)<sup>4</sup> = 1/16 = 0.0625 = 6.25%. Starting from 100% works for any sample size, because the fraction left after n half-lives does not depend on how much you start with. (Exit signs are labeled with a replacement date long before this, because they dim as the tritium decays.)</p></div>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{8}\): A brachytherapy source</p>
+<p><strong>Problem.</strong> Some cancer centers treat tumors with a machine that briefly moves a tiny, sealed iridium-192 source into or next to the tumor (high-dose-rate brachytherapy). Iridium-192 has a half-life of 74 days. A new source has an activity of 10.0 Ci. What is its activity after 148 days?</p>
+<p><strong>Solution.</strong></p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 148\ \text{days} \times \dfrac{1\ \text{half-life}}{74\ \text{days}} = 2\ \text{half-lives} \qquad 10.0\ \text{Ci} \times \left(\tfrac{1}{2}\right)^{2} = 2.50\ \text{Ci} \)</p>
+<p><strong>Check.</strong> Two half-lives leave one-fourth. As the source weakens, each treatment has to run longer to deliver the same dose, which is why centers replace iridium-192 sources every few months. (Context only.)</p></div>
+
 <p>The percent remaining after each half-life is the same for every radioisotope, as the table below shows.</p>
 <table class="mt-responsive-table">
 <caption>Percent remaining after n half-lives</caption>
@@ -92,14 +129,14 @@
 <p>A common rule of thumb is that after about 10 half-lives a radioisotope is essentially gone (less than 0.1% remains). For technetium-99m that is about 60 hours, two and a half days.</p>
 
 <div class="box-note"><p class="boxtitle">Professor Tip</p>
-<p>Before you multiply anything, find n. If the problem gives the time, divide by the half-life. If it gives the starting and ending amounts, halve the starting amount step by step and count the steps. Then sanity-check the direction: going forward in time the amount must get <em>smaller</em>; going backward to find a starting amount, it must get <em>bigger</em>. A table with columns for time, half-lives, and amount is the safest way to show your work.</p></div>
+<p>Before you multiply anything, find n. If the problem gives the time, divide by the half-life. If it gives the starting and ending amounts, halve the starting amount step by step and count the steps. Then sanity-check the direction: going forward in time the amount must get <em>smaller</em>; going backward to find a starting amount, it must get <em>bigger</em>. A table with columns for time, half-lives, and amount is the safest way to show your work. Or draw an arrow map: write the amounts in a row with an arrow between each pair, label every arrow with the half-life (for iodine-131, "8.0 days"), and write the percent remaining under each amount. Then count the arrows.</p></div>
 
 <div class="box-note"><p class="boxtitle">Clinical Connection: Respiratory Therapy</p>
 <p>A <strong>ventilation/perfusion (V/Q) scan</strong> compares <strong>ventilation</strong> (where inhaled air reaches in the lungs) with <strong>perfusion</strong> (where blood flows through the lung's capillaries). For the ventilation images, the patient breathes a radioactive gas or an <strong>aerosol</strong> (a fine mist), commonly made with technetium-99m, through a mouthpiece; respiratory therapists are often the ones who coach patients through the breathing. For the perfusion images, a technetium-99m tracer of tiny albumin particles is injected into a vein, and the particles briefly lodge in the small blood vessels of the lungs. A gamma camera images both. An area that gets air but no blood flow (a "mismatch") suggests a <strong>pulmonary embolism</strong>, a clot blocking a lung artery. Technetium-99m works well here because its gamma rays leave the body to reach the camera, and its 6-hour half-life leaves time to image, then decays quickly. Lung disease such as asthma can change the ventilation images, which is one reason the scan is read together with the patient's history. (Context only.)</p>
 <p style="font-size:0.9em;">Source: Derenoncourt P-R, et al., "Ventilation-Perfusion Scan: A Primer for Practicing Radiologists," <em>RadioGraphics</em> 41 (2021): 2047&ndash;2070.</p></div>
 
 <h2>Video Lessons</h2>
-<p>What a half-life is, from <a href="https://youtu.be/tjAebD_t8PA?t=50" target="_blank" rel="noopener">0:50</a>; working out the number of half-lives and the time, from <a href="https://youtu.be/tjAebD_t8PA?t=212" target="_blank" rel="noopener">3:32</a>; finding the half-life from data, from <a href="https://youtu.be/tjAebD_t8PA?t=559" target="_blank" rel="noopener">9:19</a>. A technetium dose that decays from 8.0 to 0.5 millicuries, from <a href="https://youtu.be/bZHo3kHvGi0?t=1199" target="_blank" rel="noopener">19:59</a> of the lecture video. (In that video at 21:32, the value 3.7 &times; 10<sup>10</sup> decays per second belongs to one <em>curie</em>; one becquerel is one decay per second.)</p>
+<p>What a half-life is, from <a href="https://youtu.be/tjAebD_t8PA?t=50" target="_blank" rel="noopener">0:50</a>; working out the number of half-lives and the time, with the arrow map and percents, from <a href="https://youtu.be/tjAebD_t8PA?t=212" target="_blank" rel="noopener">3:32</a>; a percent-only problem (hydrogen-3; the video carries it one more half-life, to about 3.1%), from <a href="https://youtu.be/tjAebD_t8PA?t=454" target="_blank" rel="noopener">7:34</a>; finding the half-life from data, from <a href="https://youtu.be/tjAebD_t8PA?t=559" target="_blank" rel="noopener">9:19</a>. A technetium dose that decays from 8.0 to 0.5 millicuries, from <a href="https://youtu.be/bZHo3kHvGi0?t=1199" target="_blank" rel="noopener">19:59</a> of the lecture video. (In that video at 21:32, the value 3.7 &times; 10<sup>10</sup> decays per second belongs to one <em>curie</em>; one becquerel is one decay per second.)</p>
 <p><iframe style="max-width:100%;height:auto;aspect-ratio:16/9;" width="560" height="315" src="https://www.youtube.com/embed/tjAebD_t8PA?start=50&amp;rel=0" title="Introductory Half Life Nuclear Chemistry with Step by Step Examples! Quick Tutorial! (ItsDrDan)" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></p>
 
 <div class="box-note" style="border-left:6px solid #86509b;">
@@ -115,13 +152,15 @@
 <li><strong>Using the time as n</strong>: n is time &divide; half-life, with matching units (hours with hours, days with days).</li>
 <li><strong>Counting the starting amount as a half-life</strong>: in 80 &rarr; 40 &rarr; 20 &rarr; 10, count the arrows (3), not the numbers (4).</li>
 <li><strong>Halving when working backward</strong>: to find a starting amount, double once per half-life.</li>
+<li><strong>Flipping the half-life equality</strong>: to turn years into half-lives, years go on the bottom (1 half-life / 28.8 years) so they cancel.</li>
 </ul>
 
 <h2>Summary</h2>
 <ul>
 <li>Half-life: the time for half of a radioisotope's nuclei to decay; it is constant for each isotope.</li>
 <li>n = time &divide; half-life; amount remaining = initial &times; (1/2)<sup>n</sup>; for this course n is always a whole number.</li>
-<li>Time = n &times; half-life; half-life = time &divide; n; starting amount = remaining &times; 2<sup>n</sup>.</li>
+<li>Time = n &times; half-life; half-life = time &divide; n; starting amount = remaining &times; 2<sup>n</sup>. The half-life is an equality (1 half-life = t<sub>1/2</sub>) that works as a conversion factor.</li>
+<li>When only a percent is given, map 100% &rarr; 50% &rarr; 25% &rarr; &hellip; and count the arrows.</li>
 <li>Diagnostic tracers such as technetium-99m (6.0 h) and fluorine-18 (110 min) have short half-lives, so the radioactivity is gone soon after the scan.</li>
 </ul>
 
@@ -138,6 +177,13 @@
 <div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{4}\)</p>
 <p>What percent of a fluorine-18 sample is left after 550 minutes? (Half-life 110 min.)</p>
 <details><summary>Answer</summary><p>n = 550 &divide; 110 = 5. (1/2)<sup>5</sup> = 1/32 = 3.125% (about 3.1%).</p></details></div>
+
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{5}\)</p>
+<p>Iodine-123 (half-life 13 hours) is used to image the thyroid. A dose has an activity of 8.00 mCi when it is prepared. Use the half-life as a conversion factor to find the number of half-lives in 39 hours, and then find the activity left.</p>
+<details><summary>Answer</summary><p>39 h &times; (1 half-life / 13 h) = 3 half-lives. 8.00 &rarr; 4.00 &rarr; 2.00 &rarr; 1.00 mCi.</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{6}\)</p>
+<p>A sample of phosphorus-32 (half-life 14.3 days) used to label DNA has decayed to 12.5% of its original activity. How many days have passed?</p>
+<details><summary>Answer</summary><p>100% &rarr; 50% &rarr; 25% &rarr; 12.5% is 3 half-lives. 3 &times; 14.3 days = 42.9 days.</p></details></div>
 
 <div class="box-note"><p class="boxtitle">Attribution</p>
 <p>Written by Daniel Kwasniewski (Dr. Dan), Fresno City College, for CHEM 3A, with AI assistance; reviewed by the author. Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>. This page replaces "Radioactivity and Half-Life" from earlier versions of this book. Half-lives are standard reference values (National Nuclear Data Center, Brookhaven National Laboratory), rounded. Videos by ItsDrDan (all rights reserved; embedded or linked, not part of the licensed text).</p></div>

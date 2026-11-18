@@ -3,7 +3,8 @@
 <ul>
 <li>Describe how radioisotopes are used in diagnosis (technetium-99m, PET with fluorine-18) and explain what makes a good imaging tracer.</li>
 <li>Describe how radioisotopes and radiation beams are used in therapy (iodine-131, external beam, brachytherapy) and in sterilization (gamma rays).</li>
-<li>Distinguish X-rays from gamma rays.</li>
+<li>Combine a decay equation and a half-life calculation for a medical tracer, as when choosing a tracer for a scan.</li>
+<li>Distinguish X-rays from gamma rays, and explain how contrast agents such as barium sulfate make soft tissue visible on X-ray and CT images.</li>
 </ul>
 </div>
 
@@ -16,8 +17,18 @@
 <li>has a <strong>short half-life</strong> (hours, not years), so the activity is gone soon after the scan (Section 14.3);</li>
 <li>goes to the organ of interest because of its chemistry.</li>
 </ul>
-<p><strong>Technetium-99m</strong> (half-life 6.0 h) is used in most nuclear medicine scans. It is attached to different carrier molecules to image bones, the heart muscle, the kidneys, and, in Mateo's V/Q scan, blood flow and airflow in the lungs. <strong>Iodine-123</strong> is used to image the thyroid.</p>
+<p><strong>Technetium-99m</strong> (half-life 6.0 h) is used in most nuclear medicine scans, about 80% of them by a commonly cited estimate. Its half-life is long enough to image a patient several times over a day, but short enough that the activity is nearly gone within a couple of days. It is attached to different carrier molecules to image bones, the heart muscle, the kidneys, and, in Mateo's V/Q scan, blood flow and airflow in the lungs. <strong>Iodine-123</strong> is used to image the thyroid.</p>
 <p>In <strong>positron emission tomography (PET)</strong>, the tracer is usually <strong>fluorine-18 fluorodeoxyglucose (FDG)</strong>, a glucose molecule in which one &minus;OH group is replaced by a fluorine-18 atom. Cells take up FDG as if it were glucose. Each fluorine-18 nucleus emits a positron (Section 14.2), which travels a millimeter or so before meeting an electron. The two annihilate, and their mass becomes two gamma rays that fly off in opposite directions. A ring of detectors around the patient catches both gamma rays at the same instant and works out where they came from.</p>
+
+<p>Other positron emitters are attached to molecules that seek out particular tissues. <strong>Gallium-68</strong>, for example, is linked to molecules that bind to receptors found in large numbers on certain tumor cells, such as some neuroendocrine tumors and prostate cancers, so a PET scan shows where those tumors have spread. Choosing a tracer always brings decay and half-life together: what does it emit, and how long does it live in the body?</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{1}\): Gallium-68, from decay to dose</p>
+<p><strong>Problem.</strong> Gallium-68 decays by positron emission. (a) Write the balanced nuclear equation. (b) The half-life of gallium-68 is 68 minutes. A dose with an activity of 148 MBq is prepared for a PET scan. What activity is left 136 minutes later?</p>
+<p><strong>Solution.</strong> (a) Gallium is element 31. A positron has A = 0 and Z = +1, so the daughter keeps A = 68 and has Z = 31 &minus; 1 = 30, zinc:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( {}^{68}_{31}\text{Ga} \rightarrow {}^{68}_{30}\text{Zn} + {}^{0}_{+1}\text{e} \)</p>
+<p>(b) Number of half-lives, then halve:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 136\ \text{min} \times \dfrac{1\ \text{half-life}}{68\ \text{min}} = 2\ \text{half-lives} \qquad 148\ \text{MBq} \times \left(\tfrac{1}{2}\right)^{2} = 37.0\ \text{MBq} \)</p>
+<p><strong>Check.</strong> Top: 68 = 68 + 0; bottom: 31 = 30 + 1. Gallium-68 has 31 protons and 37 neutrons, and zinc-68 has 30 and 38: a proton became a neutron, as in all positron emission. Losing three-fourths of the activity in just over 2 hours is why a gallium-68 dose is prepared shortly before the scan, and why the patient's dose ends quickly. (Context only.)</p></div>
 
 <div class="box-note"><p class="boxtitle">Biology Connection: Why FDG Lights Up Active Tissue</p>
 <p>Glucose is the main fuel for cellular respiration, and tissues that are working hard take up more of it through glucose transporter proteins in their membranes. Many cancers, the brain, and actively contracting heart muscle use glucose at high rates. FDG enters cells through the same transporters, and the first enzyme of glycolysis attaches a phosphate to it, as it does to glucose. But the altered molecule cannot continue through glycolysis and cannot easily leave the cell, so it is trapped. The PET image is therefore a map of glucose use: bright spots show tissue with high metabolic activity, such as a tumor. That is also why patients fast before a PET scan, so blood glucose does not compete with the tracer.</p></div>
@@ -47,6 +58,7 @@
 <li><strong>Gamma rays</strong> come from the nucleus during radioactive decay. A radioisotope cannot be switched off; it decays at the rate set by its half-life.</li>
 </ul>
 <p>In X-ray imaging and CT (computed tomography) scans, a beam passes <em>through</em> the patient from outside; dense tissue such as bone absorbs more X-rays and shows up white. In nuclear medicine, the source is <em>inside</em> the patient, and the gamma camera shows where the tracer went, which reveals how an organ is working, not just its shape.</p>
+<p>A <strong>CT scan</strong> rotates an X-ray tube around the patient and combines hundreds of images into cross-sectional "slices," the same body planes you learn in anatomy. Bone shows up well on its own, but soft tissues such as the intestines, blood vessels, and organs absorb X-rays about equally and blend together. To make them stand out, patients are given a <strong>contrast agent</strong>, a compound containing heavy atoms that absorb X-rays strongly. Iodine-containing contrast is injected into a vein to outline blood vessels and organs. For the digestive tract, the patient drinks a chalky suspension of <strong>barium sulfate</strong>, BaSO<sub>4</sub> (a "barium swallow"), which coats the lining of the esophagus, stomach, or intestines so that their shape, a narrowing, or a leak shows up on X-ray (fluoroscopy) images; oral barium is also used for some CT scans. Dissolved barium ions are toxic, but BaSO<sub>4</sub> is insoluble (sulfates of barium are on the green sheet's list of exceptions), so it passes through the gut and leaves the body. Contrast agents are <strong>not</strong> radioactive; they only block X-rays.</p>
 
 <div class="box-note"><p class="boxtitle">Clinical Connection: Radiologic Technology</p>
 <p><strong>Radiologic technologists</strong> take X-ray and CT images; <strong>nuclear medicine technologists</strong> prepare and give tracers such as technetium-99m and operate gamma cameras and PET scanners. Both apply time, distance, and shielding every day. An X-ray technologist steps behind a lead-lined barrier or lead-glass window during the exposure and uses collimation (narrowing the beam) so only the needed area is exposed. A nuclear medicine technologist draws up doses behind lead-glass shields, uses tungsten or lead syringe shields, carries vials in lead "pigs," and keeps distance from patients who have just received a tracer, since the patient is now the gamma source. Short-lived waste, such as used syringes, is often held in shielded storage until it has decayed for about 10 half-lives (Section 14.3). Dosimeter badges (Section 14.1) confirm that doses stay as low as reasonably achievable. (Context only.)</p></div>
@@ -55,7 +67,7 @@
 <p>For any medical use of radiation, ask three questions and the answer usually follows. <strong>Imaging or treating?</strong> Imaging needs radiation that escapes the body (gamma or positron); treating needs radiation that stays local (beta, or a focused beam). <strong>How long should it last?</strong> Pick the half-life to match. <strong>Where should it go?</strong> The chemistry decides: iodine to the thyroid, glucose (FDG) to active cells.</p></div>
 
 <h2>Video Lessons</h2>
-<p>Positron emitters for medical imaging (gallium-68), with a half-life calculation, from <a href="https://youtu.be/bZHo3kHvGi0?t=924" target="_blank" rel="noopener">15:24</a>; Gamma Knife radiosurgery, from <a href="https://youtu.be/g--JowvBqM8?t=1809" target="_blank" rel="noopener">30:09</a>, and CT scans with contrast agents, from <a href="https://youtu.be/g--JowvBqM8?t=1896" target="_blank" rel="noopener">31:36</a> of the Radiant Realms video.</p>
+<p>Positron emitters for medical imaging (gallium-68), from <a href="https://youtu.be/bZHo3kHvGi0?t=899" target="_blank" rel="noopener">14:59</a>, with the two-half-life calculation from <a href="https://youtu.be/bZHo3kHvGi0?t=1014" target="_blank" rel="noopener">16:54</a>; technetium-99m and why its 6-hour half-life suits imaging, from <a href="https://youtu.be/bZHo3kHvGi0?t=1199" target="_blank" rel="noopener">19:59</a>; Gamma Knife radiosurgery, from <a href="https://youtu.be/g--JowvBqM8?t=1809" target="_blank" rel="noopener">30:09</a>, and CT and X-ray contrast agents, including the barium swallow, from <a href="https://youtu.be/g--JowvBqM8?t=1896" target="_blank" rel="noopener">31:36</a> of the Radiant Realms video.</p>
 <p><iframe style="max-width:100%;height:auto;aspect-ratio:16/9;" width="560" height="315" src="https://www.youtube.com/embed/bZHo3kHvGi0?start=924&amp;rel=0" title="Let's Practice Balancing Nuclear Decay Equations, Half Life, Fission, and Fusion | Lecture Series (ItsDrDan)" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></p>
 
 <div class="box-note" style="border-left:6px solid #86509b;">
@@ -70,13 +82,15 @@
 <li><strong>Thinking irradiated food or sterilized supplies become radioactive</strong>: gamma rays pass through without changing any nuclei.</li>
 <li><strong>Choosing an alpha or beta emitter for imaging</strong>: their particles do not leave the body; imaging needs gamma rays.</li>
 <li><strong>Calling X-rays and gamma rays the same thing</strong>: both are high-energy light, but X-rays come from a machine that can be turned off, and gamma rays come from decaying nuclei.</li>
+<li><strong>Thinking contrast agents are radioactive</strong>: barium sulfate and iodine contrast simply absorb X-rays; they do not decay.</li>
+<li><strong>Grouping MRI with X-rays and nuclear medicine</strong>: MRI (magnetic resonance imaging) uses a strong magnet and radio waves, not ionizing radiation.</li>
 </ul>
 
 <h2>Summary</h2>
 <ul>
-<li>Diagnosis uses short-lived gamma or positron emitters (technetium-99m, fluorine-18 FDG for PET); the tracer's chemistry decides where it goes.</li>
+<li>Diagnosis uses short-lived gamma or positron emitters (technetium-99m, fluorine-18 FDG and gallium-68 for PET); the tracer's chemistry decides where it goes, and its decay type and half-life decide whether it suits the job.</li>
 <li>Therapy uses iodine-131, external beams, or implanted seeds; cobalt-60 gamma rays sterilize supplies and food without making them radioactive.</li>
-<li>X-rays come from a tube that can be switched off; gamma rays come from decaying nuclei.</li>
+<li>X-rays come from a tube that can be switched off; gamma rays come from decaying nuclei. CT combines many X-ray images; contrast agents with heavy atoms (iodine, insoluble BaSO<sub>4</sub>) make soft tissue visible and are not radioactive.</li>
 </ul>
 
 <h2>Exercises</h2>
@@ -89,6 +103,13 @@
 <div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{3}\)</p>
 <p>A CT scanner and a technetium-99m bone scan both make images with high-energy electromagnetic radiation. For each, state where the radiation comes from and whether it can be switched off.</p>
 <details><summary>Answer</summary><p>A CT scanner uses X-rays made in an X-ray tube outside the patient, when fast electrons hit a metal target; switching the tube off stops the X-rays. A bone scan uses gamma rays from technetium-99m nuclei inside the patient; they cannot be switched off and fade only as the tracer decays (half-life 6.0 h) and leaves the body.</p></details></div>
+
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{4}\)</p>
+<p>Nitrogen-13, a PET tracer for blood flow to the heart, decays by positron emission with a half-life of 10 minutes. (a) Write the balanced equation. (b) What fraction of a dose is left 40 minutes after it is made? (c) Why must nitrogen-13 be made in a cyclotron at or very near the hospital?</p>
+<details><summary>Answer</summary><p>(a) \( {}^{13}_{7}\text{N} \rightarrow {}^{13}_{6}\text{C} + {}^{0}_{+1}\text{e} \). (b) 40 &divide; 10 = 4 half-lives; (1/2)<sup>4</sup> = 1/16, or 6.25%. (c) With a 10-minute half-life, most of it would decay during shipping from a distant supplier.</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{5}\)</p>
+<p>Barium nitrate, Ba(NO<sub>3</sub>)<sub>2</sub>, also contains barium, which blocks X-rays. Use the green sheet to explain why it could never be used for a barium swallow.</p>
+<details><summary>Answer</summary><p>All nitrates are soluble, so Ba(NO<sub>3</sub>)<sub>2</sub> would dissolve and release toxic Ba<sup>2+</sup> ions into the body. BaSO<sub>4</sub> is used because it is insoluble and passes through the digestive tract without dissolving.</p></details></div>
 
 <div class="box-note"><p class="boxtitle">Attribution</p>
 <p>Written by Daniel Kwasniewski (Dr. Dan), Fresno City College, for CHEM 3A, with AI assistance; reviewed by the author. Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>. This page replaces "Radioactivity in Medicine" from earlier versions of this book. Sources are cited in the boxes. Videos by ItsDrDan (all rights reserved; embedded or linked, not part of the licensed text).</p></div>

@@ -1,9 +1,11 @@
 <div class="box-objectives">
 <p class="boxtitle">Learning Objectives</p>
 <ul>
-<li>Distinguish a continuous spectrum from a line (emission) spectrum.</li>
+<li>Distinguish a continuous spectrum from a line (emission) spectrum, and explain why absorption and emission spectra of an element match.</li>
 <li>Describe the Bohr model: electrons in fixed energy levels, excitation, and relaxation.</li>
 <li>Explain why each element gives off its own pattern of colors, and relate a larger energy jump to a shorter wavelength.</li>
+<li>Calculate the energy gap between two levels from the wavelength of the light emitted.</li>
+<li>Draw Bohr diagrams (electrons per ring) for the first 20 elements and their simple ions.</li>
 <li>State what the Bohr model gets right and where it falls short.</li>
 </ul>
 </div>
@@ -18,12 +20,16 @@
 <ul>
 <li>The electron moves around the nucleus only in certain allowed orbits, called <strong>energy levels</strong>, numbered n = 1, 2, 3, and so on. An electron can be in one level or another, but never in between. Energy that comes only in certain fixed amounts is called <strong>quantized</strong>, like standing on the steps of a staircase but never between steps.</li>
 <li>Level n = 1 is closest to the nucleus and lowest in energy. The lowest-energy arrangement of an atom's electrons is its <strong>ground state</strong>.</li>
-<li><strong>Excitation:</strong> when the atom absorbs exactly the right amount of energy (from heat, electricity, or light), the electron jumps up to a higher level, an <strong>excited state</strong>.</li>
-<li><strong>Relaxation:</strong> an excited electron soon drops back to a lower level and gives off the energy difference as one photon of light.</li>
+<li><strong>Excitation:</strong> when the atom absorbs exactly the right amount of energy (from heat, electricity, or light), the electron jumps up to a higher level, an <strong>excited state</strong>. Think of an elevator: going from the first floor to the second takes some work from the motor, and going from the first floor to the fifth takes much more. Does moving an electron to a bigger orbit, farther from the nucleus, need energy? Yes: the negative electron is attracted to the positive nucleus (Section 1.7), so pulling them farther apart takes energy.</li>
+<li><strong>Relaxation:</strong> an excited electron soon drops back to a lower level and gives off the energy difference as one photon of light. An excited atom, like an anxious person, always looks for a way to relax; for an atom, the way to relax is to release a photon.</li>
 </ul>
 <figure class="figure"><img src="https://itsdrdan.github.io/CHEM3Atextbook/figures/ch03/bohr_levels.svg" alt="Bohr model energy levels of hydrogen drawn as horizontal lines labeled n = 1 at the bottom through n = 4, with n = 5, 6 and higher crowded together near the top. An upward arrow from n = 1 to n = 2 shows an electron absorbing energy (excitation). A downward arrow from n = 3 to n = 2 with a wavy line shows an electron emitting a photon (relaxation). Below, hydrogen's visible emission spectrum: four bright lines on a black background at 410, 434, 486, and 656 nanometers. Each line is one jump down between two energy levels." width="470" />
 <figcaption>Figure \(\PageIndex{1}\): Energy levels in the Bohr model of hydrogen, and hydrogen's visible emission lines. The levels get closer together as n increases. (Diagram: Daniel Kwasniewski, CC BY 4.0; line wavelengths: NIST Atomic Spectra Database.)</figcaption></figure>
 <p>Because the levels have fixed energies, the energy gaps between them are fixed too. A photon given off in a jump has an energy equal to the gap, so it has one particular wavelength. That is why an element emits only certain colors. In hydrogen, the red line at 656 nm comes from electrons dropping from n = 3 to n = 2, and the blue-green line at 486 nm comes from n = 4 to n = 2.</p>
+<p>Follow one hydrogen lamp from the wall plug to your eye. Plugging in the lamp sends electricity through the hydrogen gas, which excites electrons, for example from n = 1 up to n = 3. An electron at n = 3 relaxes by dropping to n = 2 and releasing one photon, and that photon's energy matches the 3 &rarr; 2 gap, which is red light at 656 nm. Billions of atoms doing the same thing make the red glow you see.</p>
+
+<h3>The toll-road analogy</h3>
+<p>Why does an atom give several lines instead of one? Picture a toll road where the booth accepts <strong>exact change only</strong>, and you carry only &#36;5, &#36;10, and &#36;20 bills. If the toll is &#36;5, there is only one way to pay: one &#36;5 bill. If the toll is &#36;20, there are several ways: one &#36;20, two &#36;10s, a &#36;10 and two &#36;5s, or four &#36;5s. An electron coming down from a high level is like paying a large toll. It can drop all the way in one step, giving off one high-energy photon, or in several smaller steps, giving off several lower-energy photons. Each step must match one gap exactly (exact change; no partial payments), so each step gives one particular wavelength. Add up all the ways electrons can step down, and you get the set of lines in the element's spectrum, its bar code.</p>
 
 <div class="box-note"><p class="boxtitle">Professor Tip</p>
 <p>Connect the jump size to the color. A <em>bigger</em> drop in energy gives a <em>higher-energy</em> photon, which means a <em>shorter</em> wavelength. In hydrogen, the drop from n = 4 to n = 2 is bigger than the drop from n = 3 to n = 2, so its line (486 nm, blue-green) has a shorter wavelength than the red 656 nm line. Up arrows absorb energy; down arrows give off light.</p></div>
@@ -40,8 +46,44 @@
 <p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( E = \dfrac{(6.626 \times 10^{-34})(3.00 \times 10^{8})}{4.10 \times 10^{-7}} = 4.8 \times 10^{-19}\ \text{J} \)</p>
 <p>That is larger than the \( 3.0 \times 10^{-19}\ \text{J} \) of the 656 nm line.</p></div>
 
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{3}\): The energy gap behind a spectral line</p>
+<p><strong>Problem.</strong> A hydrogen atom emits red light with a wavelength of 656 nm. How big is the energy gap between the two levels involved?</p>
+<p><strong>Given:</strong> \( \lambda = 656\ \text{nm} \). <strong>Desire:</strong> the energy gap, \( \Delta E \), in J. <strong>Key idea:</strong> the photon carries away exactly the energy of the gap, so \( \Delta E = E_{\text{photon}} \).</p>
+<p><strong>Solution.</strong> Convert the wavelength to meters, \( 656\ \text{nm} \times \dfrac{10^{-9}\ \text{m}}{1\ \text{nm}} = 6.56 \times 10^{-7}\ \text{m} \), then use \( E = hc/\lambda \) from Section 3.1:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \Delta E = \dfrac{hc}{\lambda} = \dfrac{(6.626 \times 10^{-34}\ \text{J s})(3.00 \times 10^{8}\ \text{m s}^{-1})}{6.56 \times 10^{-7}\ \text{m}} = 3.03 \times 10^{-19}\ \text{J} \)</p>
+<p>On the TI-36X Pro, type it on one line: <code>6.626E-34 &times; 3E8 &divide; 656E-9</code>.</p>
+<p><strong>Check.</strong> Meters and seconds cancel, leaving joules. The answer is close to the 3.01 &times; 10<sup>&minus;19</sup> J of Section 3.1's 660 nm red photon; 656 nm is a slightly shorter wavelength, so slightly more energy is expected. It has 3 significant figures, set by 656 nm and 3.00 &times; 10<sup>8</sup>.</p></div>
+
+<h2>Absorption and Emission Spectra Match</h2>
+<p>Light can also go the other way. If white light shines <em>through</em> a cool gas, the atoms absorb exactly the photons whose energies match their gaps, and those colors go missing. The result is an <strong>absorption spectrum</strong>: a full rainbow with a few dark lines. For mercury (and every other element), every dark line in the absorption spectrum sits at exactly the same wavelength as a bright line in its emission spectrum, because the same gaps are involved: an atom can emit any photon it absorbs. Excitation uses the gap going up; relaxation releases it coming down. The match does not run the other way for every line, though. A cool gas does not absorb every line it can emit: its atoms sit in the ground state, so they absorb mainly the photons that lift an electron up from there. An absorption spectrum usually shows fewer dark lines than the emission spectrum has bright ones.</p>
+
 <div class="box-note"><p class="boxtitle">In the Lab: Experiment 3a, Electrons in Atoms</p>
 <p>In the CHEM 3A lab you look at gas discharge tubes through a <strong>spectroscope</strong>, a small instrument with a slit, a diffraction grating that spreads light into its colors, and a scale in nanometers. You record the wavelengths of the bright lines you see for hydrogen and other elements, compare them with accepted values, and connect each line to an electron dropping between Bohr energy levels. You also put the regions of the electromagnetic spectrum in order. Read the lines carefully: the scale gives you a measured wavelength with its own uncertainty, the same idea as reading a buret in Chapter 1.</p></div>
+
+<h2>Drawing Bohr Diagrams for Atoms and Ions</h2>
+<p>A <strong>Bohr diagram</strong> is a quick sketch that organizes all three subatomic particles: the nucleus in the center, labeled with its protons and neutrons, and the electrons as dots on rings (the energy levels) around it. The Bohr model's physics works only for hydrogen, but the diagram is still a handy way to count electrons by level, and it sets up the idea of valence electrons in Section 3.5.</p>
+<p>To draw one for any of the first 20 elements:</p>
+<ol>
+<li><strong>Nucleus.</strong> Protons = atomic number Z. Neutrons = mass number &minus; Z (round the atomic mass to a whole number if no isotope is given).</li>
+<li><strong>Electrons.</strong> For a neutral atom, electrons = Z. For an ion, electrons = Z &minus; charge.</li>
+<li><strong>Fill the rings like reading a book.</strong> Each ring matches a row (period) of the periodic table, and for the first 20 elements it holds as many electrons as there are elements in that row of the main groups: <strong>2</strong> in the first ring (H, He), <strong>8</strong> in the second (Li to Ne), <strong>8</strong> in the third (Na to Ar), and the last 1 or 2 in the fourth ring (K, Ca). Fill the inner ring before starting the next, and stop when you run out of electrons.</li>
+</ol>
+<style type="text/css">@media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } }</style>
+<table class="mt-responsive-table">
+<caption>Bohr diagrams written as electrons per ring</caption>
+<thead><tr><th scope="col">Particle</th><th scope="col">Nucleus</th><th scope="col">Electrons</th><th scope="col">Electrons per ring</th><th scope="col">Outer ring looks like</th></tr></thead>
+<tbody>
+<tr><td data-th="Particle">Na atom (sodium-23)</td><td data-th="Nucleus">11 p<sup>+</sup>, 12 n<sup>0</sup></td><td data-th="Electrons">11</td><td data-th="Electrons per ring">2, 8, 1</td><td data-th="Outer ring looks like">1 lone electron in ring 3</td></tr>
+<tr><td data-th="Particle">Na<sup>+</sup> ion</td><td data-th="Nucleus">11 p<sup>+</sup>, 12 n<sup>0</sup></td><td data-th="Electrons">10</td><td data-th="Electrons per ring">2, 8</td><td data-th="Outer ring looks like">neon (2, 8)</td></tr>
+<tr><td data-th="Particle">Cl atom (chlorine-35)</td><td data-th="Nucleus">17 p<sup>+</sup>, 18 n<sup>0</sup></td><td data-th="Electrons">17</td><td data-th="Electrons per ring">2, 8, 7</td><td data-th="Outer ring looks like">one short of a full ring</td></tr>
+<tr><td data-th="Particle">Cl<sup>&minus;</sup> ion</td><td data-th="Nucleus">17 p<sup>+</sup>, 18 n<sup>0</sup></td><td data-th="Electrons">18</td><td data-th="Electrons per ring">2, 8, 8</td><td data-th="Outer ring looks like">argon (2, 8, 8)</td></tr>
+</tbody></table>
+<p>The table above shows the pattern that the next sections explain. Sodium loses its single outer electron and is left with neon's arrangement; chlorine gains one electron and reaches argon's. The nucleus does not change when the ion forms: only the electrons do (Section 2.4).</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{4}\): Bohr diagrams for magnesium and its ion</p>
+<p><strong>Problem.</strong> Describe the Bohr diagrams of a magnesium-24 atom and of the Mg<sup>2+</sup> ion.</p>
+<p><strong>Solution.</strong> Magnesium has Z = 12, so the nucleus holds 12 protons and 24 &minus; 12 = 12 neutrons in both diagrams. The atom has 12 electrons: 2 in ring 1, 8 in ring 2, and the last 2 in ring 3, written <strong>2, 8, 2</strong>. Mg<sup>2+</sup> has 12 &minus; 2 = 10 electrons, so the third ring is empty: <strong>2, 8</strong>, the same as neon.</p>
+<p><strong>Check.</strong> The atom's rings add to 2 + 8 + 2 = 12 = Z, and the ion's add to 10 = 12 &minus; 2. Magnesium is in group 2, and the two electrons it loses are exactly the two in its outer ring.</p></div>
 
 <h2>Beyond the Bohr Model</h2>
 <p>The Bohr model predicts hydrogen's lines very well, and its central idea, that electrons have only certain allowed energies, is still correct. But it fails for atoms with more than one electron, and electrons do not actually travel in neat circular orbits. The modern <strong>quantum-mechanical model</strong> keeps the numbered energy levels but describes where an electron is likely to be found as a cloud-shaped region called an <strong>orbital</strong>. Section 3.3 uses that model.</p>
@@ -60,7 +102,7 @@
 </div>
 
 <h2>Video Lesson</h2>
-<p>Emission lamps, line spectra, and the Bohr model start at <a href="https://youtu.be/2QWO4oGxvfA?t=157" target="_blank" rel="noopener">2:37</a>.</p>
+<p>Emission lamps, line spectra, and the Bohr model start at <a href="https://youtu.be/2QWO4oGxvfA?t=157" target="_blank" rel="noopener">2:37</a>. Paying an exact amount for a photon is at <a href="https://youtu.be/2QWO4oGxvfA?t=82" target="_blank" rel="noopener">1:22</a>; the elevator and stairs picture of excitation and relaxation at <a href="https://youtu.be/2QWO4oGxvfA?t=280" target="_blank" rel="noopener">4:40</a>; the hydrogen lamp and its red 656 nm line at <a href="https://youtu.be/2QWO4oGxvfA?t=426" target="_blank" rel="noopener">7:06</a>; and the toll-road analogy at <a href="https://youtu.be/2QWO4oGxvfA?t=521" target="_blank" rel="noopener">8:41</a>. Bohr diagrams of sodium, Na<sup>+</sup>, and Cl<sup>&minus;</sup> are drawn ring by ring at <a href="https://youtu.be/JmyWmu3RA6Q?t=167" target="_blank" rel="noopener">2:47</a> and <a href="https://youtu.be/JmyWmu3RA6Q?t=605" target="_blank" rel="noopener">10:05</a> of the periodic table lesson.</p>
 <p><iframe style="max-width:100%;height:auto;aspect-ratio:16/9;" width="560" height="315" src="https://www.youtube.com/embed/2QWO4oGxvfA?start=157&amp;rel=0" title="Introduction to Electromagnetic Radiation for Chemistry: (Part 2) Quantum and Atomic Spectroscopy (ItsDrDan)" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></p>
 
 <div class="box-note" style="border-left:6px solid #86509b;">
@@ -74,14 +116,18 @@
 <ul>
 <li><strong>Thinking an absorbed photon produces a bright line.</strong> Bright emission lines come from electrons dropping down; going up absorbs energy.</li>
 <li><strong>Linking bigger jumps to longer wavelengths.</strong> A bigger energy drop gives a shorter wavelength.</li>
-<li><strong>Thinking electrons can sit between levels.</strong> In the Bohr model the energies are quantized; there is nothing in between.</li>
+<li><strong>Thinking electrons can sit between levels.</strong> In the Bohr model the energies are quantized; there is nothing in between. Exact change only.</li>
+<li><strong>Thinking absorption and emission lines are different.</strong> Every dark absorption line sits at the same wavelength as a bright emission line of the same element (though a cool gas does not absorb every line it can emit).</li>
+<li><strong>Putting too many electrons in a Bohr ring.</strong> For the first 20 elements the rings hold 2, 8, 8 (then 2 more in the fourth ring for K and Ca), read like a book from the rows of the periodic table.</li>
 </ul>
 
 <h2>Summary</h2>
 <ul>
 <li>White light gives a continuous spectrum; a glowing element gives a line (emission) spectrum unique to that element.</li>
 <li>In the Bohr model, electrons occupy fixed energy levels. Absorbing energy moves an electron up (excitation); dropping down releases a photon (relaxation).</li>
-<li>Each line corresponds to one energy gap; bigger gaps give higher-energy, shorter-wavelength light.</li>
+<li>Each line corresponds to one energy gap, \( \Delta E = hc/\lambda \); bigger gaps give higher-energy, shorter-wavelength light. Like exact change at a toll booth, an electron can come down in one big step or several small ones, which is why there are several lines.</li>
+<li>Every dark line in an element's absorption spectrum sits at the same wavelength as a bright line in its emission spectrum (an atom can emit any photon it absorbs), but a cool gas does not absorb every line it can emit.</li>
+<li>Bohr diagrams put 2, 8, 8 electrons in the first three rings; an ion's outer ring matches a noble gas.</li>
 <li>The Bohr model works for hydrogen; the quantum-mechanical model with orbitals works for all atoms.</li>
 </ul>
 
@@ -95,6 +141,16 @@
 <div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{3}\)</p>
 <p>What is the difference between the ground state and an excited state?</p>
 <details><summary>Answer</summary><p>In the ground state the electrons are in the lowest energy levels available. In an excited state at least one electron has absorbed energy and moved to a higher level.</p></details></div>
+
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{4}\)</p>
+<p>A sodium lamp gives off yellow light at 589 nm. What is the energy gap, in joules, between the two levels involved?</p>
+<details><summary>Answer</summary><p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \Delta E = \dfrac{(6.626 \times 10^{-34}\ \text{J s})(3.00 \times 10^{8}\ \text{m s}^{-1})}{5.89 \times 10^{-7}\ \text{m}} = 3.37 \times 10^{-19}\ \text{J} \)</p><p>Slightly larger than the 656 nm red gap, as a shorter wavelength should be.</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{5}\)</p>
+<p>Give the electrons per ring for (a) a nitrogen atom, (b) the N<sup>3&minus;</sup> ion, (c) a potassium atom, and (d) the K<sup>+</sup> ion.</p>
+<details><summary>Answer</summary><p>(a) N, 7 electrons: 2, 5. (b) N<sup>3&minus;</sup>, 10 electrons: 2, 8 (like neon). (c) K, 19 electrons: 2, 8, 8, 1. (d) K<sup>+</sup>, 18 electrons: 2, 8, 8 (like argon).</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{6}\)</p>
+<p>A gas absorbs light at 434 nm when white light passes through it. At what wavelength would you expect a bright line when the same gas glows in a discharge tube?</p>
+<details><summary>Answer</summary><p>At 434 nm. Absorption and emission use the same energy gaps, and an atom can emit any photon it absorbs, so the dark absorption line has a matching bright emission line at the same wavelength.</p></details></div>
 
 <div class="box-note"><p class="boxtitle">Attribution</p>
 <p>Written by Daniel Kwasniewski (Dr. Dan), Fresno City College, for CHEM 3A, with AI assistance; reviewed by the author. Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>. This page replaces "The Bohr Model: Atoms with Orbits" from earlier versions of this book. Hydrogen line wavelengths: NIST Atomic Spectra Database. Video by ItsDrDan (all rights reserved; embedded, not part of the licensed text).</p></div>
