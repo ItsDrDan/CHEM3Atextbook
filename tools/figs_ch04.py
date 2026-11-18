@@ -6,8 +6,9 @@ FF="Lato, Helvetica, Arial, sans-serif"; INK="#2d3f4b"
 def T(x,y,s,size=15,anchor='middle',weight='700',fill=INK,extra=''):
     return f'<text x="{x:.1f}" y="{y:.1f}" font-family="{FF}" font-size="{size}" font-weight="{weight}" text-anchor="{anchor}" fill="{fill}" {extra}>{s}</text>'
 DEFS=f'<defs><marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10z" fill="{INK}"/></marker></defs>'
-def svg(name,W,H,body,aria):
-    open(os.path.join(OUT,name),'w').write(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-label="{aria}"><rect width="{W}" height="{H}" fill="#fff"/>{DEFS}{body}</svg>')
+def svg(name,W,H,body,aria,title=None):
+    t=f'<title>{title}</title>' if title else ''
+    open(os.path.join(OUT,name),'w').write(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-label="{aria}">{t}<rect width="{W}" height="{H}" fill="#fff"/>{DEFS}{body}</svg>')
 def arrow(x1,y1,x2,y2,w=2.2,c=INK): return f'<path d="M{x1} {y1} L{x2} {y2}" stroke="{c}" stroke-width="{w}" fill="none" marker-end="url(#ar)"/>'
 def box(x,y,w,h,fill,lines,size=14,stroke=INK,rx=8):
     s=f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="{rx}" fill="{fill}" stroke="{stroke}" stroke-width="1.6"/>'
@@ -58,26 +59,81 @@ y+=18;o+=T(235,y+26,'Add enough H'+sup('+')+' to cancel the anion charge: SO'+su
 o+=T(235,y+50,'Memory aids: "I hate this mnemonic" (-ate → -ic);',13,weight='800')+T(235,y+68,'"Sprite is delicious" (-ite → -ous)',13,weight='800')
 svg('acid_names.svg',470,y+80,o,'Matching anion names to acid names. An -ide ion becomes a hydro- -ic acid: chloride, Cl-, becomes hydrochloric acid, HCl(aq). An -ate ion becomes an -ic acid: chlorate, ClO3-, becomes chloric acid, HClO3. An -ite ion becomes an -ous acid: chlorite, ClO2-, becomes chlorous acid, HClO2. Prefixes stay: hypochlorite becomes hypochlorous acid and perchlorate becomes perchloric acid. Add enough H+ to cancel the anion charge: sulfate, SO4 2-, becomes H2SO4, sulfuric acid. Memory aids: I hate this mnemonic, for -ate to -ic; Sprite is delicious, for -ite to -ous.')
 
-# 4. Naming flowchart (stacked, phone-first)
+# 4. Naming flowchart (blue naming sheet order: metal? -> charges? -> count; H first? -> acid / count)
+NOTE="#4a5a66"
+def qbox(x,y,w,h,lines,size=13.5,fill='#f3f6fa',notes=(),nsize=11.5):
+    s=f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="8" fill="{fill}" stroke="{INK}" stroke-width="1.6"/>'
+    yy=y+size+5
+    for l in lines: s+=T(x+w/2,yy,l,size,weight='800'); yy+=size*1.25
+    yy+=2
+    for l in notes: s+=T(x+w/2,yy,l,nsize,weight='600',fill=NOTE,extra='font-style="italic"'); yy+=nsize*1.3
+    return s
+def leaf(x,y,w,lines,fill):
+    h=len(lines)*16+12
+    s=f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="8" fill="{fill}" stroke="{INK}" stroke-width="1.6"/>'
+    for i,l in enumerate(lines): s+=T(x+w/2,y+20+i*16,l,13 if i==0 else 12.5,weight='800' if i==0 else '600')
+    return s,h
+def bus(cx,ytop,colx,colw,leaves,fill):
+    """Vertical line from a 'count' box down the left side of a column, short arrow into each leaf."""
+    s=''; y=ytop+12; lx=colx+18; lw=colw-18; mids=[]
+    for lines in leaves:
+        b,h=leaf(lx,y,lw,lines,fill); s+=b; mids.append(y+h/2); y+=h+8
+    bx=colx+5
+    s+=f'<path d="M{bx} {ytop} V{mids[-1]}" stroke="{INK}" stroke-width="1.8" fill="none"/>'
+    for m in mids: s+=arrow(bx,m,lx-1,m,1.8)
+    return s,y-8
+def vlabel(x,y,s):
+    """Rotated YES/NO label sitting on a vertical connector line (white patch behind it)."""
+    h=len(s)*9+6
+    return f'<rect x="{x-7}" y="{y-h/2}" width="14" height="{h}" fill="#fff"/>'+T(x+4.3,y,s,12,weight='800',extra=f'transform="rotate(-90 {x+4.3} {y})"')
+NH4='NH'+sub('4')+sup('+')
+LX,LW=20,218; RX,RW=246,202          # left column (metal YES), right column (metal NO)
+LC,RC=LX+LW/2,RX+RW/2
 o=T(235,22,'Naming any compound',17,weight='800')
-o+=box(85,36,300,48,'#f3f6fa',['Look at the formula'],15)
-o+=arrow(235,84,235,104)
-o+=box(20,106,430,62,'#fde9c8',['Starts with H and is dissolved in water (aq)?','YES → ACID (Section 4.5)'],14)
-o+=arrow(235,168,235,188)+T(244,182,'no',12,anchor='start',weight='700')
-o+=box(20,190,430,62,'#dbe7f6',['Starts with a metal or NH'+sub('4')+'?','YES → IONIC (Sections 4.2–4.3)'],14)
-o+=arrow(235,252,235,272)+T(244,266,'no',12,anchor='start',weight='700')
-o+=box(20,274,430,62,'#e3f2e1',['Only nonmetals?','YES → MOLECULAR (Section 4.4)'],14)
-# details
-y=360
-o+=T(20,y,'ACID',14,anchor='start',weight='900')+T(80,y,'H + -ide → hydro-…-ic acid;  -ate → -ic;  -ite → -ous',13,anchor='start',weight='600')
-y+=26
-o+=T(20,y,'IONIC',14,anchor='start',weight='900')+T(80,y,'Fixed-charge metal (groups 1, 2; Al, Zn, Ag) → metal name',13,anchor='start',weight='600')
-o+=T(80,y+19,'Any other metal → Roman numeral for its charge',13,anchor='start',weight='600')
-o+=T(80,y+38,'Anion: -ide for one element; polyatomic name as is',13,anchor='start',weight='600')
-y+=64
-o+=T(20,y,'MOLEC.',14,anchor='start',weight='900')+T(80,y,'Greek prefixes (no mono- on the first element);',13,anchor='start',weight='600')
-o+=T(80,y+19,'second element ends in -ide',13,anchor='start',weight='600')
-svg('naming_flowchart.svg',470,y+32,o,'Flowchart for naming any compound. Look at the formula. First question: does it start with H and is it dissolved in water (aq)? If yes, it is an acid (Section 4.5). If no, does it start with a metal or NH4? If yes, it is ionic (Sections 4.2 and 4.3). If no, is it only nonmetals? If yes, it is molecular (Section 4.4). Summary of rules: Acid: H plus an -ide ion gives hydro- -ic acid; -ate gives -ic acid; -ite gives -ous acid. Ionic: a fixed-charge metal (groups 1 and 2, plus Al, Zn, and Ag) keeps its name; any other metal gets a Roman numeral for its charge; the anion ends in -ide if it is one element, or keeps its polyatomic name. Molecular: Greek prefixes, no mono- on the first element, second element ends in -ide.')
+o+=qbox(100,34,270,40,['Is there a metal (or '+NH4+')?'],15)
+o+=f'<path d="M235 74 V86 H{LC} V104" stroke="{INK}" stroke-width="2.2" fill="none" marker-end="url(#ar)"/>'
+o+=f'<path d="M235 86 H{RC} V104" stroke="{INK}" stroke-width="2.2" fill="none" marker-end="url(#ar)"/>'
+o+=T(LC+8,100,'YES',12,anchor='start',weight='800')+T(RC+8,100,'NO',12,anchor='start',weight='800')
+# ---- left column: ionic
+o+=qbox(LX,106,LW,82,['Can the metal have','more than one charge?'],notes=['transition metals except Zn, Ag;','also Sn, Pb'])
+o+=arrow(LC,188,LC,206)+T(LC+8,202,'NO',12,anchor='start',weight='800')
+o+=qbox(LX,208,LW,28,['Count the elements'],13)
+IONIC='#dbe7f6'
+b,yend=bus(LC,236,LX,LW,[['2 elements: ionic binary','metal + nonmetal-ide','NaCl, sodium chloride'],
+                          ['3 or more: ionic ternary','metal + polyatomic ion','(keep its ending)','K'+sub('2')+'CO'+sub('3')+', potassium carbonate']],IONIC)
+o+=b
+y2=yend+18
+o+=f'<path d="M{LX} 160 H10 V{y2+14} H{LX-1}" stroke="{INK}" stroke-width="2.2" fill="none" marker-end="url(#ar)"/>'
+o+=vlabel(10,(160+y2)/2,'YES')
+o+=qbox(LX,y2,LW,28,['Count the elements'],13)
+b,yendL=bus(LC,y2+28,LX,LW,[['2 elements: ionic binary','metal (Roman numeral charge)','+ nonmetal-ide','FeCl'+sub('3')+', iron(III) chloride'],
+                            ['3 or more: ionic ternary','metal (Roman numeral charge)','+ polyatomic ion (keep ending)','CuSO'+sub('4')+', copper(II) sulfate']],IONIC)
+o+=b
+# ---- right column: acids and molecular
+o+=qbox(RX,106,RW,50,['Is H written first','(and aqueous)?'])
+o+=arrow(RC,156,RC,174)+T(RC+8,170,'YES',12,anchor='start',weight='800')
+o+=qbox(RX,176,RW,28,['Acid'],13,fill='#fde9c8')
+b,yend=bus(RC,204,RX,RW,[['H + one element','hydro- root -ic acid','HCl(aq), hydrochloric acid'],
+                         ['-ate ion → -ic acid','HNO'+sub('3')+', nitric acid'],
+                         ['-ite ion → -ous acid','HNO'+sub('2')+', nitrous acid']],'#fde9c8')
+o+=b
+y3=yend+18
+o+=f'<path d="M{RX+RW} 131 H460 V{y3+14} H{RX+RW+1}" stroke="{INK}" stroke-width="2.2" fill="none" marker-end="url(#ar)"/>'
+o+=vlabel(460,(131+y3)/2,'NO')
+o+=qbox(RX,y3,RW,28,['Count the elements'],13)
+b,yendR=bus(RC,y3+28,RX,RW,[['1 element: diatomic','name the element','Cl'+sub('2')+', chlorine'],
+                            ['2 elements: covalent binary','prefixes + -ide','(no mono- on the first)','N'+sub('2')+'O'+sub('4')+', dinitrogen tetroxide']],'#e3f2e1')
+o+=b
+NAMING_ALT=('Flowchart for naming any compound, in the order of the blue naming sheet. First question: is there a metal (or the ammonium ion, NH4+)? '
+ 'If yes, ask: can the metal have more than one charge? (Transition metals except Zn and Ag can, and so can Sn and Pb.) '
+ 'If no, count the elements: 2 elements is an ionic binary compound, named metal plus nonmetal with an -ide ending, for example NaCl, sodium chloride; '
+ '3 or more elements is an ionic ternary compound, named metal plus the polyatomic ion, keeping its ending, for example K2CO3, potassium carbonate. '
+ 'If yes, count the elements the same way, but write the metal charge as a Roman numeral: FeCl3, iron(III) chloride; CuSO4, copper(II) sulfate. '
+ 'If there is no metal, ask: is H written first (and is it aqueous)? If yes, it is an acid: H plus one element is named hydro-, root, -ic acid, for example HCl(aq), hydrochloric acid; '
+ 'an -ate ion becomes an -ic acid, for example HNO3, nitric acid; an -ite ion becomes an -ous acid, for example HNO2, nitrous acid. '
+ 'If no, count the elements: 1 element is a diatomic element, named as the element, for example Cl2, chlorine; '
+ '2 elements is a covalent binary compound, named with prefixes (no mono- on the first element) and an -ide ending, for example N2O4, dinitrogen tetroxide.')
+svg('naming_flowchart.svg',470,max(yendL,yendR)+16,o,NAMING_ALT,title='How to name any compound (blue naming sheet order)')
 
 # 5. Classify: ionic vs molecular particle picture
 o=T(117,22,'Ionic: NaCl',16,weight='800')+T(352,22,'Molecular: H'+sub('2')+'O',16,weight='800')

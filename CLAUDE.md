@@ -131,6 +131,18 @@ A major overhaul of the free LibreTexts textbook for **CHEM 3A (Introductory Gen
 - **Molality:** taught in the main path, tied to **osmolality and physiology** (serum osmolality, IV fluids, colligative properties in the body).
 - **Going Further (not on CHEM 3A exams):** resonance, octet-rule exceptions, redox balancing in acidic/basic solution, batteries, special types of equilibria. Keep them as labeled pages so other faculty can assign them.
 
+### Scope decisions (Dr. Dan, 2026-11-17)
+
+- **Colligative properties:** the main skill is how much the freezing point is lowered (ΔTf) or the boiling point raised (ΔTb). Finding the new freezing point is a short optional last step; CHEM 3A problems usually stop at ΔT.
+- **Nuclear:** simple decay, bombardment and electron capture are the main skills. Balancing fission and fusion equations is a challenge item (fine in the ADAPT bank as challenge problems).
+- **Equilibrium:** no ICE tables; K expressions (products over reactants) and Keq only.
+- **Electron configurations:** the Cr and Cu exceptions are a normal CHEM 3A problem (taught in 3.4).
+- **Phase changes:** heating/cooling curves with q = mcΔT are the main skill; phase diagrams are shown so students see both (Going Further section in 9.5).
+- **Naming:** Dr. Dan's "blue sheet" is the naming flowchart he gives students (metal? → transition metal? → count elements; no metal → hydrogen first? → acid, else diatomic or covalent binary). Section 4.6 follows its logic.
+- **"James Bond / Alien" slide:** shows that films portray acids eating through metal (villains using acid); used as a "Movie Chemistry" misconception box in 7.3.
+- **Chapter 1 measurement pages:** rewrite the inherited pages as his own, tied to nursing and health care (why measurement, accuracy and precision matter).
+- **Lab safety in examples:** no benzene in student-facing lab examples; use a safer liquid.
+
 ### Patient case (approved 2026-11-14)
 
 **Case A: Mateo Herrera, 34**, an irrigation technician on a Fresno County almond orchard, with asthma (see `tools/PATIENT_CASE_PROPOSAL.md`). He appears **only where the chemistry has a strong tie** to his care, not in every chapter. Chapters without him (1, 6, 8, 9) open with one of: a short one-off patient vignette (a different person), a Biology Connection opener, or a **Chemistry in the Community** opener (local, Valley-based), whichever fits the chapter best (Dr. Dan, 2026-11-14).
