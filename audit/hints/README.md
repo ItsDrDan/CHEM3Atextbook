@@ -18,3 +18,7 @@ Wording fixes found along the way: 1.11 Problem 1.17(d) rounding 99.96; 4.2 and 
 - GitHub Pages: banks with the fuller reasons live (f0becc1).
 - LibreTexts: 118 pages published from f0becc1 after a live-equals-previous check; every page read back with all its hints (1,398 total).
 - ADAPT: 164 questions updated in place in the 14 chapter assignments (wrong-choice feedback only; reason "Wrong-answer feedback now gives the fix as well as the mistake (2026-11-17)."), each read back; no assignment has a pending revision.
+
+## Print rule 2026-11-18
+- Every exercise page starts with a print-only style (`details > summary { break-after: avoid }`) so a Hint or Answer label never ends a printed page. Tested on 1.3.2 (PDF: no stranded labels), then added to all 118 pages (149e514) and published; every live page has the rule once and its text matches the repo.
+- New exercise pages need the same first line.
