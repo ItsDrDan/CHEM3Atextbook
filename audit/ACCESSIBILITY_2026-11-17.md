@@ -36,3 +36,21 @@ rules axe can check and axe "best practice" rules, plus the book's own checklist
   all LIVE_COUNT pages was not done: the Workbench is private (the simulator's Safari is not signed in), and the phone-width
   scan above covers layout on every page instead.
 - **LibreTexts' own interface** (header, menus, search, the Previous/Next arrows) is outside the book's control.
+
+## Second pass against the CHEM 3B checklist (textbook/audit/WEB-PDF-ACCESSIBILITY-QA.md), 2026-11-17 evening
+
+| Check (from the 3B list) | Result | Action |
+|---|---|---|
+| Widget and game addresses | 1,036 distinct external links: 915 answer 200; 119 YouTube links refused the script (429 rate limit), and all 107 video IDs behind them exist (YouTube oEmbed 200); 2 citation sites (doi.org, escholarship.org) block scripts (403) | none |
+| Widget parameters (topic exists, pool >= n) | 9.1 and 9.7 asked for 8 from pools of 7 | 16 new items: ch07-activity, ch09-energy, ch09-solids, ch14-health, ch14-medicine now 10 each (848b19b) |
+| Picture answer choices with identical names (3B finding A1) | 3A has no picture answer choices | none |
+| Widget contrast, measured by hand (3B A5) | choice letters 3.67:1, footer 4.08:1, white on the selected/right/wrong circles 2.9–3.1:1 | darker colors; every state now 4.5:1 or more (measured before answering, selected, hint open, wrong, right) |
+| 44 px touch targets | "Play the game" button 39 px | min-height 44 px |
+| Keyboard-only use | works (Tab to a choice, Space selects, Enter checks, feedback announced); focus ring #9fb0ff was 2:1; focus fell to the top of the page after Check | ring #3346c4 (6.7–7.5:1); focus moves to New Question after Check |
+| `lang`, reduced motion, live region | present | none |
+| Glossary pop-ups (platform, 3B A2) | same LibreTexts ARIA failure in 3A; **plus a 3A bug:** one-letter symbol synonyms (A, X, m, i, c, K, P …) made every "a" a pop-up (49 on page 1.4.5 alone) | glossary generator drops one-letter synonyms and writes "Symbol: X." into the definition (glossary_page.html rebuilt; **publish pending**) |
+| Accessibility statement | 3A had none | drafted in drafts/front/accessibility_statement.html (**needs Dr. Dan's OK** to add as a front-matter page) |
+| PDF (Full (24).pdf) | tagged (/Marked true, StructTreeRoot), Lang en, 92/92 Figure tags with Alt, 162 tables with 580 TH, H1/H2/H3 tags | none |
+| iOS Simulator (separate iPhone 17, live GitHub Pages) | Try It: wrong answer, right answer, picture question, new colors, 44 px button; Final Boss chapter link (Ch 14) | pass |
+
+Still not covered: a VoiceOver listening session; 400% zoom reflow on the live LibreTexts pages (375 px tested); the live LibreTexts pages in the simulator (the draft is private, so the simulator's Safari would need Dr. Dan's sign-in).
