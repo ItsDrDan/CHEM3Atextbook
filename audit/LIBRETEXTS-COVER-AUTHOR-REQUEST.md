@@ -12,4 +12,6 @@
 1. Create author records `dkwasniewski` (Daniel Kwasniewski, Fresno City College) and, if you credit compilers on covers, one for Seth Yates.
 2. Tell us which `authorname:` tag(s) to put on root page 597470 (we can add the tag ourselves), or add it for us.
 
+**Conductor:** project DTvJm7TcCY has no author fields (`libreCoverID` 597470; lead Daniel Kwasniewski), so we could not set the cover there.
+
 **Already done on our side:** the title page (597474) shows the credit line, and every chapter page carries `author@Daniel Kwasniewski`.
