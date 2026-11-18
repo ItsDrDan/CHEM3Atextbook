@@ -22,3 +22,7 @@ Wording fixes found along the way: 1.11 Problem 1.17(d) rounding 99.96; 4.2 and 
 ## Print rule 2026-11-18
 - Every exercise page starts with a print-only style (`details > summary { break-after: avoid }`) so a Hint or Answer label never ends a printed page. Tested on 1.3.2 (PDF: no stranded labels), then added to all 118 pages (149e514) and published; every live page has the rule once and its text matches the repo.
 - New exercise pages need the same first line.
+
+## Print layout test 2026-11-18 (waiting on the next full compile)
+- Live on 1.3.1, 1.5, 2.1, 12.6 only (local commit 8d8a5dc, tools/print_layout.py): whole Hint block kept on one page; `float: top unless-fit` on figures; `fig-wrap` (float right, 46%) on near-square figures followed by text.
+- In the next full PDF check: Exercises 2.1.3 and 12.6.4 Hints stay with their text; text wraps beside the 1.3.1 dartboards and the 12.6 buffer figure; no gap above the 1.5 flowchart; no overlap or clipped captions. If good: run tools/print_layout.py on all pages (17 more wraps), push, publish.
