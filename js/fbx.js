@@ -134,12 +134,20 @@ const bw=180,bh=170,gap=f.arrow?54:22,key=f.key||{};let o='',x=0;
  const keys=Object.entries(key).filter(([k,v])=>v.n&&!f._noKey);let lg='';if(keys.length){lg=`<div class="fbx-flegend">${keys.map(([k,v])=>`<span><svg width="22" height="22"><circle cx="11" cy="11" r="${Math.min(10,v.r||9)}" fill="${v.c}" stroke="${FS}" stroke-width="1.4"/>${v.q?`<text x="11" y="15" text-anchor="middle" font-size="11" font-weight="900" fill="#fff" font-family="${FF}">${v.q}</text>`:''}</svg><span>= ${v.n}</span></span>`).join('')}</div>`}
  const H=bh+(f.boxes.some(b=>b.cap)?30:8);return `<div class="fbx-fpart"><svg class="fbx-fsvg" viewBox="-2 0 ${x+4} ${H}" width="${x+4}" height="${H}" role="img" aria-label="particle diagram">${o}</svg>${lg}</div>`}
 /* measurement: cylinder (scale up), buret (scale increases downward), ruler; f.lo,f.hi window, f.minor, f.major, f.level */
+/* screen-reader description for measuring-tool pictures: where the level/end sits between marks (same information the eye gets) */
+function fScaleDesc(f){const t=f.type,u=f.unit||(t==='ruler'?'cm':'mL');
+ if(t==='balance')return `digital balance; the display reads ${f.read}`;
+ const v=t==='ruler'?f.len:f.level,m=f.minor,lo=f.lo,k=Math.floor((v-lo)/m+1e-9),a=+(lo+k*m).toFixed(6),b=+(a+m).toFixed(6),fr=Math.round((v-a)/m*10);
+ const marks=`marks every ${m} ${u}, numbered every ${f.major} ${u}, scale from ${lo} to ${f.hi} ${u}`;
+ const pos=fr===0||fr===10?`exactly on the ${fr===10?b:a} ${u} mark`:`between the ${a} and ${b} ${u} marks, about ${fr} tenths of the way from ${a} to ${b}`;
+ if(t==='ruler')return `ruler; ${marks}; the object starts at the ${f.start||lo} ${u} mark and its end is ${pos}`;
+ return `${t==='buret'?'buret (numbers increase going down)':'graduated cylinder'}; ${marks}; the bottom of the meniscus is ${pos}`}
 function fScale(f){const t=f.type;let o='';
  if(t==='ruler'){const W=420,H=110,L=20,pw=W-40,sx=v=>L+(v-f.lo)/(f.hi-f.lo)*pw;o+=`<rect x="${L-8}" y="44" width="${pw+16}" height="52" rx="4" fill="#fff6dc" stroke="${FS}" stroke-width="1.6"/>`;
   for(let v=f.lo;v<=f.hi+1e-9;v+=f.minor){const vv=+v.toFixed(6),maj=Math.abs(vv/f.major-Math.round(vv/f.major))<1e-6,half=f.half&&Math.abs(vv/f.half-Math.round(vv/f.half))<1e-6;const len=maj?22:half?15:9;o+=`<line x1="${sx(vv)}" y1="44" x2="${sx(vv)}" y2="${44+len}" stroke="${FS}" stroke-width="${maj?1.6:1}"/>`;if(maj)o+=svgT(sx(vv),82,+vv.toFixed(6),'font-size="13" text-anchor="middle" font-weight="700"')}
   o+=`<rect x="${sx(f.start||f.lo)}" y="12" width="${sx(f.len)-sx(f.start||f.lo)}" height="26" rx="5" fill="#9a7fc9" stroke="${FS}" stroke-width="1.4"/><line x1="${sx(f.len)}" y1="10" x2="${sx(f.len)}" y2="48" stroke="#c0473b" stroke-width="1.4" stroke-dasharray="3 2"/>`+svgT(W-24,106,f.unit||'cm','font-size="12" text-anchor="end"');
-  return `<svg class="fbx-fsvg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="ruler">${o}</svg>`}
- if(t==='balance'){return `<svg class="fbx-fsvg" viewBox="0 0 260 150" width="260" height="150" role="img" aria-label="balance"><rect x="20" y="58" width="220" height="80" rx="12" fill="#eef3f7" stroke="${FS}" stroke-width="2"/><rect x="60" y="34" width="140" height="10" rx="4" fill="#cfd8df" stroke="${FS}"/><rect x="95" y="44" width="70" height="14" fill="#cfd8df" stroke="${FS}"/><rect x="50" y="82" width="160" height="40" rx="6" fill="#1f2d36"/><text x="196" y="111" text-anchor="end" font-family="'Courier New',monospace" font-size="24" font-weight="700" fill="#8ff0b8">${f.read}</text></svg>`}
+  return `<svg class="fbx-fsvg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="${esc(fScaleDesc(f))}">${o}</svg>`}
+ if(t==='balance'){return `<svg class="fbx-fsvg" viewBox="0 0 260 150" width="260" height="150" role="img" aria-label="${esc(fScaleDesc(f))}"><rect x="20" y="58" width="220" height="80" rx="12" fill="#eef3f7" stroke="${FS}" stroke-width="2"/><rect x="60" y="34" width="140" height="10" rx="4" fill="#cfd8df" stroke="${FS}"/><rect x="95" y="44" width="70" height="14" fill="#cfd8df" stroke="${FS}"/><rect x="50" y="82" width="160" height="40" rx="6" fill="#1f2d36"/><text x="196" y="111" text-anchor="end" font-family="'Courier New',monospace" font-size="24" font-weight="700" fill="#8ff0b8">${f.read}</text></svg>`}
  const W=210,H=300,T=20,B=20,ph=H-T-B,down=t==='buret',sy=v=>down?T+(v-f.lo)/(f.hi-f.lo)*ph:T+ph-(v-f.lo)/(f.hi-f.lo)*ph,x0=70,x1=150;
  o+=`<rect x="${x0}" y="${T-12}" width="${x1-x0}" height="${ph+24}" fill="#f4fbff" stroke="${FS}" stroke-width="2"/>`;
  const ly=sy(f.level),dip=9;o+=`<path d="M${x0} ${ly-dip} Q ${(x0+x1)/2} ${ly+dip} ${x1} ${ly-dip} L ${x1} ${down?T+ph+12:T+ph+12} L ${x0} ${T+ph+12} Z" fill="#9fd0f0" opacity=".75"/>`;
@@ -147,11 +155,15 @@ function fScale(f){const t=f.type;let o='';
  o+=`<path d="M${x0} ${ly-dip} Q ${(x0+x1)/2} ${ly+dip} ${x1} ${ly-dip}" fill="none" stroke="#2f6f9a" stroke-width="2"/>`;
  for(let v=f.lo;v<=f.hi+1e-9;v+=f.minor){const vv=+v.toFixed(6),maj=Math.abs(vv/f.major-Math.round(vv/f.major))<1e-6;const y=sy(vv);o+=`<line x1="${x0}" y1="${y}" x2="${x0+(maj?34:18)}" y2="${y}" stroke="${FS}" stroke-width="${maj?1.8:1}"/>`;if(maj)o+=svgT(x0-8,y+5,+vv.toFixed(6),'font-size="14" font-weight="700" text-anchor="end"')}
  o+=svgT(x1+10,T+ph/2,f.unit||'mL','font-size="13"');
- return `<svg class="fbx-fsvg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="${t} scale">${o}</svg>`}
+ return `<svg class="fbx-fsvg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="${esc(fScaleDesc(f))}">${o}</svg>`}
 /* precision/accuracy targets: f.items=[{cap,pts:[[x,y]...]}] with x,y in -1..1 (0,0 = bullseye) */
 function fTargets(f){const r=62,w=150;let o='';f.items.forEach((it,i)=>{const cx=w*i+w/2,cy=70;[1,.75,.5,.25].forEach((k,j)=>{o+=`<circle cx="${cx}" cy="${cy}" r="${r*k}" fill="${j%2?'#fff':'#fdeeed'}" stroke="${FS}" stroke-width="1.4"/>`});o+=`<circle cx="${cx}" cy="${cy}" r="4" fill="#e0675a"/>`;
  it.pts.forEach(p=>{const x=cx+p[0]*r,y=cy+p[1]*r;o+=`<path d="M${x-5} ${y-5}l10 10m0-10l-10 10" stroke="#2f4b60" stroke-width="2.6"/>`});if(it.cap)o+=svgT(cx,cy+r+24,it.cap,'font-size="15" font-weight="900" text-anchor="middle"')});
- return `<svg class="fbx-fsvg" viewBox="0 0 ${w*f.items.length} 162" width="${w*f.items.length}" height="162" role="img" aria-label="targets">${o}</svg>`}
+ return `<svg class="fbx-fsvg" viewBox="0 0 ${w*f.items.length} 162" width="${w*f.items.length}" height="162" role="img" aria-label="${esc(f.items.map((it,i)=>fTargetDesc(it,i,f.items.length)).join('. '))}">${o}</svg>`}
+/* screen-reader description of a dart target: how tight the group is and where it sits (pts in -1..1, y down) */
+function fTargetDesc(it,i,n){const P=it.pts,mx=P.reduce((a,p)=>a+p[0],0)/P.length,my=P.reduce((a,p)=>a+p[1],0)/P.length,dc=Math.hypot(mx,my),sp=Math.max(...P.map(p=>Math.hypot(p[0]-mx,p[1]-my)));
+ const where=dc<0.2?'centered on the bullseye':'off to the '+(Math.abs(my)>0.15?(my<0?'upper ':'lower '):'')+(Math.abs(mx)>0.15?(mx>0?'right':'left'):'side')+', away from the bullseye';
+ return (n>1?'Target '+(it.cap||i+1)+': ':'Dart target: ')+P.length+' darts, '+(sp<0.3?'tightly grouped':'spread far apart')+', with the group '+where}
 /* metabolic pathways: cycle (wheel) and path (vertical). outs[i]/ins[i] belong to the step from node i to node i+1 */
 function fCycle(f){const n=f.nodes.length,R=f.r||132,W=440,H=2*R+150,cx=W/2,cy=H/2,ang=i=>-Math.PI/2+i*2*Math.PI/n;let o='';
  const P=i=>[cx+R*Math.cos(ang(i)),cy+R*Math.sin(ang(i))];
