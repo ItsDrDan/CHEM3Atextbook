@@ -4,7 +4,8 @@
 <li>Use the ideal gas law, PV = nRT, to find pressure, volume, moles, or temperature.</li>
 <li>Choose the value of R that matches the units, and use the molar volume at STP.</li>
 <li>Find the molar mass and density of a gas from its mass, volume, pressure, and temperature.</li>
-<li>Decide whether a problem needs the combined gas law or the ideal gas law.</li>
+<li>Decide whether a problem needs the combined gas law or the ideal gas law from the subscripts.</li>
+<li>Identify a gas from its molar mass, and combine molar volume with an empirical formula to find a molecular formula.</li>
 </ul>
 </div>
 
@@ -34,6 +35,9 @@
 <p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( P = \dfrac{nRT}{V} = \dfrac{(0.2840\ \text{mol})(0.082058)(298.15\ \text{K})}{5.00\ \text{L}} = 1.39\ \text{atm} \)</p>
 <p><strong>Check.</strong> Grams were converted to moles first: our goal is the mole. About a quarter of a mole in 5 L gives a pressure a bit above 1 atm.</p></div>
 
+<div class="box-note"><p class="boxtitle">Professor Tip: Parentheses Around the Bottom</p>
+<p>When you solve PV = nRT for n, P, or V, the denominator holds two numbers multiplied together. On the TI-36X Pro, wrap the whole bottom in parentheses, or use the fraction template so the top and bottom are separate. For Example 1, type <code>1.00 &times; 5.85 &divide; (0.082058 &times; 310.15)</code>. Without the parentheses, the calculator divides by R and then <em>multiplies</em> by T, and the answer is off by a factor of about 96,000.</p></div>
+
 <h2>STP and Molar Volume</h2>
 <p><strong>Standard temperature and pressure (STP)</strong> is 0 &deg;C (273 K) and 1 atm. Solving PV = nRT for the volume of 1.00 mol at STP:</p>
 <p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( V = \dfrac{nRT}{P} = \dfrac{(1.00\ \text{mol})(0.082058)(273\ \text{K})}{1.00\ \text{atm}} = 22.4\ \text{L} \)</p>
@@ -49,6 +53,37 @@
 <p>The gas is <strong>butane</strong>. Its density at these conditions is d = 0.846 g &divide; 0.355 L = 2.38 g/L.</p>
 <p><strong>Check.</strong> Butane's density is about twice that of air (about 1.2 g/L), which is why leaking butane or propane collects in low places, a fire hazard around camp stoves and lighters.</p></div>
 
+<p>Molar mass works like a gas's ID number or fingerprint: you cannot tell gases apart by looking at them, but you can calculate their molar mass. The route is always the same: P, V, and T give n; then M = m/n; then match M to a clue in the problem.</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{4}\): A mystery diatomic gas</p>
+<p><strong>Problem.</strong> A 3.48 g sample of a gas occupies 1.20 L at 1.00 atm and 25.0 &deg;C. The gas is an element that exists as diatomic molecules. Which one is it?</p>
+<p><strong>Solution.</strong> One set of conditions, no subscripts: use PV = nRT. T = 298.15 K.</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( n = \dfrac{PV}{RT} = \dfrac{(1.00\ \text{atm})(1.20\ \text{L})}{(0.082058)(298.15\ \text{K})} = 0.04905\ \text{mol} \qquad M = \dfrac{3.48\ \text{g}}{0.04905\ \text{mol}} = 71.0\ \text{g/mol} \)</p>
+<p>The seven diatomic elements are H<sub>2</sub>, N<sub>2</sub>, F<sub>2</sub>, O<sub>2</sub>, I<sub>2</sub>, Cl<sub>2</sub>, and Br<sub>2</sub> ("Have No Fear Of Ice Cold Beer"). Each molecule has two atoms, so halve the molar mass: 71.0 &divide; 2 = 35.5 g/mol, the atomic mass of chlorine. The gas is <strong>Cl<sub>2</sub></strong> (70.90 g/mol).</p>
+<p><strong>Check.</strong> Chlorine is a gas at room temperature, as it must be here. Forgetting to halve would send you looking for an atom of mass 71, and no diatomic element has one.</p></div>
+
+<h3>Molar volume plus an empirical formula</h3>
+<p>The hardest problems combine this chapter with Chapter 6. Percent composition gives only the <strong>empirical formula</strong> (the simplest ratio). Gas data give the <strong>molar mass</strong>. Divide the molar mass by the empirical-formula mass to get the whole number that turns the empirical formula into the <strong>molecular formula</strong>.</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{5}\): From gas data and percent composition to a molecular formula</p>
+<p><strong>Problem.</strong> A hydrocarbon gas used to make plastics is 85.63% carbon and 14.37% hydrogen by mass. A 1.26 g sample occupies 0.672 L at STP. What is its molecular formula?</p>
+<p><strong>Solution.</strong> <em>Step 1, molar mass from the gas data.</em> At STP, 1 mol = 22.4 L:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 0.672\ \text{L} \times \dfrac{1\ \text{mol}}{22.4\ \text{L}} = 0.0300\ \text{mol} \qquad M = \dfrac{1.26\ \text{g}}{0.0300\ \text{mol}} = 42.0\ \text{g/mol} \)</p>
+<p><em>Step 2, empirical formula.</em> Assume 100 g: 85.63 g C &divide; 12.011 g/mol = 7.129 mol C; 14.37 g H &divide; 1.008 g/mol = 14.26 mol H. Divide by the smaller: C 1.000, H 2.000. The empirical formula is CH<sub>2</sub> (14.027 g/mol).</p>
+<p><em>Step 3, the multiplier.</em> 42.0 &divide; 14.027 = 2.99, about 3. The molecular formula is 3 &times; CH<sub>2</sub> = <strong>C<sub>3</sub>H<sub>6</sub></strong> (propene, 42.081 g/mol).</p>
+<p><strong>Check.</strong> The multiplier must come out close to a whole number; if it does not, recheck the molar mass. C<sub>3</sub>H<sub>6</sub> has the same 1 : 2 ratio as CH<sub>2</sub>.</p></div>
+
+<h2>Combined or Ideal? The Secret Is in the Subscripts</h2>
+<p>You really need only two gas equations: the combined gas law and the ideal gas law. To choose, read the problem for <strong>subscripts</strong>. If it gives two pressures, two volumes, two temperatures, or two amounts (words like "increased," "compressed," "heated," "then"), the gas is <strong>changing</strong>, and the numbers carry subscripts 1 and 2: use the <strong>combined gas law</strong>. If it gives just one value of each, it describes the <strong>current state</strong> of the gas, with no subscripts: use <strong>PV = nRT</strong>.</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{6}\): Same balloon, two questions</p>
+<p><strong>Problem.</strong> (a) A 6.00 L balloon is filled at STP. The balloon is then taken to a hyperbaric chamber where the pressure is increased to 1.50 atm and the temperature to 35.0 &deg;C. What is its new volume? (b) A 6.00 L balloon is at 1.50 atm and 35.0 &deg;C. How many moles of gas does it hold?</p>
+<p><strong>Solution.</strong> (a) Two pressures and two temperatures: the gas changes, so use the combined gas law, with T<sub>1</sub> = 273 K (STP) and T<sub>2</sub> = 308.15 K:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( V_2 = V_1 \times \dfrac{P_1}{P_2} \times \dfrac{T_2}{T_1} = 6.00\ \text{L} \times \dfrac{1.00\ \text{atm}}{1.50\ \text{atm}} \times \dfrac{308.15\ \text{K}}{273\ \text{K}} = 4.52\ \text{L} \)</p>
+<p>(b) One pressure, one volume, one temperature: the current state, so use PV = nRT:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( n = \dfrac{PV}{RT} = \dfrac{(1.50\ \text{atm})(6.00\ \text{L})}{(0.082058)(308.15\ \text{K})} = 0.356\ \text{mol} \)</p>
+<p><strong>Check.</strong> In (a) the higher pressure squeezes the balloon more than the warming expands it, so it shrinks. Part (a) needed no R, and part (b) needed no "before" values.</p></div>
+
 <div class="box-note"><p class="boxtitle">Professor Tip</p>
 <p>Ask first: is the gas changing? If a problem has a "before" and an "after," use the combined gas law and you never need R. If there is one set of conditions, use PV = nRT. Then line up your units with R: liters (not mL), atm (not mmHg), kelvins (not &deg;C), and moles (not grams). Most wrong answers come from one unconverted unit.</p></div>
 
@@ -56,7 +91,8 @@
 <p>Patients like Mateo often arrive in imaging on portable oxygen. In an MRI suite, a standard steel oxygen cylinder is a deadly hazard: the scanner's magnet is always on, and it can pull a steel cylinder across the room like a missile. MRI departments use non-magnetic cylinders and equipment labeled MR Safe or MR Conditional (often aluminum), keep ferromagnetic items outside a controlled zone, and screen everything that enters. The cylinder's high pressure (Section 10.2) adds a second danger: a damaged valve can turn it into a projectile anywhere. (Context only; follow the department's MRI safety policy.)</p></div>
 
 <h2>Video Lesson</h2>
-<p>The ideal gas law, molar volume at STP, and finding a molar mass, from <a href="https://youtu.be/T0fOuTmNY6g?t=108" target="_blank" rel="noopener">1:48</a>; molar mass of an unknown gas from <a href="https://youtu.be/T0fOuTmNY6g?t=722" target="_blank" rel="noopener">12:02</a>.</p>
+<p>The ideal gas law, molar volume at STP, and finding a molar mass, from <a href="https://youtu.be/T0fOuTmNY6g?t=108" target="_blank" rel="noopener">1:48</a>; molar mass of an unknown gas from <a href="https://youtu.be/T0fOuTmNY6g?t=722" target="_blank" rel="noopener">12:02</a>, where a mystery diatomic gas turns out to be bromine. "The secret is in the subscripts" (combined versus ideal gas law) is at <a href="https://youtu.be/efgNeWjlsGY?t=164" target="_blank" rel="noopener">2:44</a> of &ldquo;Tips and Tricks on Solving Gas Laws,&rdquo; and molar volume combined with an empirical formula is in &ldquo;Using Molar Volume and Gas Laws to Solve for Empirical and Molecular Formulas,&rdquo; from <a href="https://youtu.be/UteEh5Vgvv8?t=53" target="_blank" rel="noopener">0:53</a>.</p>
+<p style="font-size:0.9em;">The videos round some values while writing; use your yellow-sheet values as printed.</p>
 <p><iframe style="max-width:100%;height:auto;aspect-ratio:16/9;" width="560" height="315" src="https://www.youtube.com/embed/T0fOuTmNY6g?start=108&amp;rel=0" title="Introduction to the Ideal Gas Law (ItsDrDan)" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></p>
 
 <div class="box-note" style="border-left:6px solid #86509b;">
@@ -71,14 +107,18 @@
 <li><strong>Using &deg;C, mL, or mmHg with R = 0.082058</strong>: convert to K, L, and atm.</li>
 <li><strong>Putting grams in for n</strong>: convert to moles with the molar mass.</li>
 <li><strong>Using 22.4 L/mol away from STP</strong>.</li>
-<li><strong>Using PV = nRT for a before-and-after problem</strong> (it works, but the combined gas law is simpler and avoids R).</li>
+<li><strong>Using PV = nRT for a before-and-after problem</strong> (it works, but the combined gas law is simpler and avoids R). Look for subscripts.</li>
+<li><strong>Forgetting to halve the molar mass</strong> of a diatomic element before matching it to the periodic table.</li>
+<li><strong>Dividing by R and then multiplying by T</strong> on the calculator: put (R &times; T) in parentheses.</li>
 </ul>
 
 <h2>Summary</h2>
 <ul>
 <li>PV = nRT, with R = 0.082058 L&middot;atm/(mol&middot;K) and T in kelvins.</li>
 <li>At STP (273 K, 1 atm), 1 mol of any ideal gas occupies 22.4 L.</li>
-<li>Molar mass M = m/n with n from PV = nRT; density d = m/V.</li>
+<li>Molar mass M = m/n with n from PV = nRT; density d = m/V. Molar mass is a gas's ID number.</li>
+<li>Subscripts 1 and 2 (change): combined gas law. One value of each (current state): PV = nRT.</li>
+<li>Gas data give the molar mass; percent composition gives the empirical formula; their ratio gives the molecular formula.</li>
 </ul>
 
 <h2>Exercises</h2>
@@ -91,6 +131,13 @@
 <div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{3}\)</p>
 <p>What volume does 4.40 g of CO<sub>2</sub> occupy at STP?</p>
 <details><summary>Answer</summary><p>4.40 &divide; 44.009 = 0.1000 mol; &times; 22.4 L/mol = 2.24 L.</p></details></div>
+
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{4}\)</p>
+<p>A 1.14 g sample of a diatomic element occupies 0.800 L at STP. Identify the gas.</p>
+<details><summary>Answer</summary><p>n = 0.800 &divide; 22.4 = 0.03571 mol; M = 1.14 &divide; 0.03571 = 31.9 g/mol. Half is 16.0, oxygen: the gas is O<sub>2</sub> (31.998 g/mol).</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{5}\)</p>
+<p>Combined or ideal? (a) A tire holds 12.0 L of air at 2.40 atm and 18.0 &deg;C; how many moles of air does it hold? (b) The same tire warms to 42.0 &deg;C on the road at constant volume; what is its new pressure?</p>
+<details><summary>Answer</summary><p>(a) One set of conditions: n = (2.40)(12.0) &divide; [(0.082058)(291.15)] = 1.21 mol. (b) A change (two temperatures): P<sub>2</sub> = 2.40 &times; 315.15 &divide; 291.15 = 2.60 atm.</p></details></div>
 
 <div class="box-note"><p class="boxtitle">Attribution</p>
 <p>Written by Daniel Kwasniewski (Dr. Dan), Fresno City College, for CHEM 3A, with AI assistance; reviewed by the author. Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>. This page replaces "The Ideal Gas Law and Some Applications" from earlier versions of this book. Values of R are those on the CHEM 3A yellow sheet. Video by ItsDrDan (all rights reserved; embedded, not part of the licensed text).</p></div>

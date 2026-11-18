@@ -3,10 +3,12 @@
 <ul>
 <li>Use the stoichiometry road map to convert grams of one substance into grams of another.</li>
 <li>Combine molar masses and mole ratios in one setup.</li>
+<li>Extend the road map to particles with Avogadro's number, and start or finish a problem in moles, grams, or particles.</li>
+<li>Round a stoichiometry answer to the measured given, and state what the answer means in a sentence.</li>
 </ul>
 </div>
 
-<p>In the lab and the pharmacy, nobody measures moles directly; they weigh grams. A mass-to-mass problem asks, "If I start with this many grams of A, how many grams of B can I make (or do I need)?" The answer always goes through moles, because only moles have a ratio in the balanced equation. As the lectures put it: <em>our goal is the mole</em>.</p>
+<p>In the lab and the pharmacy, nobody measures moles directly; there is no "mole-o-meter" on the bench. People weigh grams on a balance. A mass-to-mass problem asks, "If I start with this many grams of A, how many grams of B can I make (or do I need)?" The answer always goes through moles, because only moles have a ratio in the balanced equation. As the lectures put it: <em>our goal is the mole</em>.</p>
 
 <h2>The Road Map</h2>
 <figure class="figure"><img src="https://itsdrdan.github.io/CHEM3Atextbook/figures/ch08/stoich_roadmap.svg" alt="The stoichiometry road map. Top row: grams of A (given) and grams of B (wanted). Middle row: moles of A and moles of B. Grams of A divided by the molar mass of A gives moles of A; moles of A times the mole ratio from the balanced equation coefficients gives moles of B; moles of B times the molar mass of B gives grams of B. Other entry points into moles of A: liters of gas at STP divided by 22.4 liters per mole, and liters of solution times molarity. From moles of B you can also find heat in kilojoules using the enthalpy change per mole (Section 8.6). Every route passes through the mole ratio between moles of A and moles of B." width="470" />
@@ -17,6 +19,12 @@
 <li>moles of A &rarr; moles of B (mole ratio from the coefficients).</li>
 <li>moles of B &rarr; grams of B (multiply by the molar mass of B).</li>
 </ol>
+<p>Lay out every problem the same way: <strong>Given</strong> (the measured number, with its unit and formula), <strong>Desired</strong> (the unit and formula you want, with "???"), and the conversion factors in between. Not every problem goes all the way from grams to grams. Start on the map wherever the given is, stop wherever the desired is, and count the arrows.</p>
+
+<h3>Particles on the map</h3>
+<p>The mole is the hub on both sides of the mole ratio, so Avogadro's number (6.0221 &times; 10<sup>23</sup> particles per mole, Section 5.1) gives one more on-ramp and off-ramp on each side:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">grams A &harr; mol A &harr; particles A &nbsp;&nbsp;|&nbsp;&nbsp; mol A &rarr; (mole ratio) &rarr; mol B &nbsp;&nbsp;|&nbsp;&nbsp; mol B &harr; grams B or particles B</p>
+<p>Divide grams by molar mass, or divide particles by 6.0221 &times; 10<sup>23</sup>, to get moles; multiply to go back. The bridge between A and B is still the mole ratio.</p>
 
 <div class="box-example"><p class="boxtitle">Example \(\PageIndex{1}\): CO<sub>2</sub> from glucose</p>
 <p><strong>Problem.</strong> How many grams of CO<sub>2</sub> are produced when your cells completely oxidize 25.0 g of glucose? (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> 180.156 g/mol; CO<sub>2</sub> 44.009 g/mol)</p>
@@ -28,16 +36,29 @@
 <p><strong>Problem.</strong> How many grams of NH<sub>3</sub> can be made from 100. g of N<sub>2</sub> and plenty of H<sub>2</sub>? (N<sub>2</sub> 28.014 g/mol; NH<sub>3</sub> 17.031 g/mol)</p>
 <p><strong>Solution.</strong> N<sub>2</sub> + 3 H<sub>2</sub> &rarr; 2 NH<sub>3</sub>.</p>
 <p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 100.\ \text{g N}_2 \times \dfrac{1\ \text{mol N}_2}{28.014\ \text{g}} \times \dfrac{2\ \text{mol NH}_3}{1\ \text{mol N}_2} \times \dfrac{17.031\ \text{g NH}_3}{1\ \text{mol NH}_3} = 122\ \text{g NH}_3 \)</p>
-<p><strong>Check.</strong> All of the nitrogen ends up in ammonia, plus the added hydrogen, so a little more than 100 g of product makes sense.</p></div>
+<p><strong>Check.</strong> All of the nitrogen ends up in ammonia, plus the added hydrogen, so a little more than 100 g of product makes sense. <strong>In a sentence:</strong> reacting 100. g of N<sub>2</sub> completely, with plenty of H<sub>2</sub>, should make 122 g of NH<sub>3</sub>. The calculated answer is how much we <em>should</em> make; Section 8.5 compares it with how much a real reaction gives.</p></div>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{3}\): Grams of fuel to molecules of CO<sub>2</sub></p>
+<p><strong>Problem.</strong> A camp stove burns 5.00 g of propane: C<sub>3</sub>H<sub>8</sub>(g) + 5 O<sub>2</sub>(g) &rarr; 3 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(g). How many molecules of CO<sub>2</sub> are produced? (C<sub>3</sub>H<sub>8</sub> 44.097 g/mol)</p>
+<p><strong>Given:</strong> 5.00 g C<sub>3</sub>H<sub>8</sub>. <strong>Desired:</strong> ??? molecules CO<sub>2</sub>. <strong>Map:</strong> grams C<sub>3</sub>H<sub>8</sub> &rarr; mol C<sub>3</sub>H<sub>8</sub> &rarr; mol CO<sub>2</sub> &rarr; molecules CO<sub>2</sub>.</p>
+<p><strong>Solution.</strong></p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 5.00\ \text{g C}_3\text{H}_8 \times \dfrac{1\ \text{mol C}_3\text{H}_8}{44.097\ \text{g C}_3\text{H}_8} \times \dfrac{3\ \text{mol CO}_2}{1\ \text{mol C}_3\text{H}_8} \times \dfrac{6.0221 \times 10^{23}\ \text{molecules CO}_2}{1\ \text{mol CO}_2} = 2.05 \times 10^{23}\ \text{molecules CO}_2 \)</p>
+<p><strong>Check.</strong> 5.00 g is about 0.113 mol of propane, which makes 3 times as many moles of CO<sub>2</sub> (0.340 mol), about a third of Avogadro's number of molecules.</p></div>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{4}\): Butane, from balancing to grams</p>
+<p><strong>Problem.</strong> A butane lighter burns 15.0 g of butane, C<sub>4</sub>H<sub>10</sub>. What mass of CO<sub>2</sub> is produced? (C<sub>4</sub>H<sub>10</sub> 58.124 g/mol; CO<sub>2</sub> 44.009 g/mol)</p>
+<p><strong>Solution.</strong> <em>Step 1, balance.</em> With one butane, C gives 4 CO<sub>2</sub> and H gives 5 H<sub>2</sub>O, so the oxygen on the right is 8 + 5 = 13, which is odd. Double the hydrocarbon (Section 7.2): 2 C<sub>4</sub>H<sub>10</sub>(g) + 13 O<sub>2</sub>(g) &rarr; 8 CO<sub>2</sub>(g) + 10 H<sub>2</sub>O(g). <em>Steps 2&ndash;4:</em></p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 15.0\ \text{g C}_4\text{H}_{10} \times \dfrac{1\ \text{mol C}_4\text{H}_{10}}{58.124\ \text{g C}_4\text{H}_{10}} \times \dfrac{8\ \text{mol CO}_2}{2\ \text{mol C}_4\text{H}_{10}} \times \dfrac{44.009\ \text{g CO}_2}{1\ \text{mol CO}_2} = 45.4\ \text{g CO}_2 \)</p>
+<p><strong>Check.</strong> Each butane carbon ends up in CO<sub>2</sub>, which is heavier than the fuel, so a mass of CO<sub>2</sub> about three times the fuel's is reasonable. The answer has 3 significant figures because the measured mass, 15.0 g, has 3. The molar masses (5 significant figures) and the exact coefficients are not what limits you; the measured number you started with is.</p></div>
 
 <div class="box-note"><p class="boxtitle">Professor Tip</p>
-<p>Two pitfalls from the lectures: never put a coefficient into a molar mass (the molar mass of K is 39.10 g/mol even when the equation says 2 K), and never "add mol" to a given number that was in grams. Set up the whole chain of factors in one line, check that every unit cancels except the one you want, and press enter once on the TI-36X Pro.</p></div>
+<p>Two pitfalls from the lectures: never put a coefficient into a molar mass (the molar mass of K is 39.10 g/mol even when the equation says 2 K), and never "add mol" to a given number that was in grams. "How many grams of water form from 12 g of hydrogen?" gives 12 g, not 12 mol; the gram-to-mole step needs the molar mass of H<sub>2</sub>, 2.016 g/mol (answer: 1.1 &times; 10<sup>2</sup> g H<sub>2</sub>O). Label every unit with its formula (write "mol Li," not just "mol") so you can see which factors cancel. Set up the whole chain of factors in one line, check that every unit cancels except the one you want, and press enter once on the TI-36X Pro.</p></div>
 
 <div class="box-note"><p class="boxtitle">Biology Connection: Microbiology</p>
 <p>Yeast running out of oxygen switch to <strong>fermentation</strong>: C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> &rarr; 2 C<sub>2</sub>H<sub>5</sub>OH + 2 CO<sub>2</sub>. Bakers rely on the CO<sub>2</sub> to raise bread; brewers and winemakers in California rely on the ethanol. The same stoichiometry applies: 50.0 g of glucose can produce at most 25.6 g of ethanol and 24.4 g of CO<sub>2</sub>. Many bacteria ferment too, and microbiology labs identify species partly by which acids and gases they produce from a sugar, for example by watching for gas bubbles trapped in a small inverted tube in the growth broth.</p></div>
 
 <h2>Video Lessons</h2>
-<p>Mole-to-mole and mass-to-mass stoichiometry, from <a href="https://youtu.be/x4VcJBZFGAY?t=100" target="_blank" rel="noopener">1:40</a> (mass to mass at <a href="https://youtu.be/x4VcJBZFGAY?t=396" target="_blank" rel="noopener">6:36</a>).</p>
+<p>Mole-to-mole and mass-to-mass stoichiometry, from <a href="https://youtu.be/x4VcJBZFGAY?t=100" target="_blank" rel="noopener">1:40</a> (the coefficients tell a story at <a href="https://youtu.be/x4VcJBZFGAY?t=178" target="_blank" rel="noopener">2:58</a>; why there is no "mole-o-meter" at <a href="https://youtu.be/x4VcJBZFGAY?t=301" target="_blank" rel="noopener">5:01</a>; mass to mass at <a href="https://youtu.be/x4VcJBZFGAY?t=396" target="_blank" rel="noopener">6:36</a>, with butane combustion from <a href="https://youtu.be/x4VcJBZFGAY?t=422" target="_blank" rel="noopener">7:02</a>; significant figures follow the measured number at <a href="https://youtu.be/x4VcJBZFGAY?t=754" target="_blank" rel="noopener">12:34</a>).</p>
 <p><iframe style="max-width:100%;height:auto;aspect-ratio:16/9;" width="560" height="315" src="https://www.youtube.com/embed/x4VcJBZFGAY?start=100&amp;rel=0" title="Introduction to Stoichiometry | Mole to Mole | Mass to Mass | How to Pass Chemistry! (ItsDrDan)" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></p>
 <p>A full practice lecture covering mass-to-mass, gases, and enthalpy:</p>
 <p><iframe style="max-width:100%;height:auto;aspect-ratio:16/9;" width="560" height="315" src="https://www.youtube.com/embed/yXV7aNPvkWA?rel=0" title="Let's Practice Stoichiometry! A Lecture on Mass to Mass, Volume to Volume, Gases, Enthalpy and More! (ItsDrDan)" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></p>
@@ -54,12 +75,16 @@
 <li><strong>Skipping moles</strong>: grams of A &times; mole ratio is meaningless.</li>
 <li><strong>Using the wrong molar mass</strong> at each end: A's molar mass first, B's last.</li>
 <li><strong>Multiplying a molar mass by a coefficient.</strong></li>
+<li><strong>Rounding to the molar mass.</strong> Significant figures follow the measured given, not the molar mass or the coefficients.</li>
+<li><strong>Writing "mol" for a mass.</strong> 12 g H<sub>2</sub> is not 12 mol H<sub>2</sub>.</li>
 </ul>
 
 <h2>Summary</h2>
 <ul>
 <li>grams A &rarr; mol A &rarr; mol B &rarr; grams B, using molar mass, mole ratio, molar mass.</li>
 <li>Always balance first; always pass through moles.</li>
+<li>Particles join the map through Avogadro's number on either side of the mole ratio.</li>
+<li>Round to the measured given, and read the answer as "how much we should make (or need)."</li>
 </ul>
 
 <h2>Exercises</h2>
@@ -72,6 +97,12 @@
 <div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{3}\)</p>
 <p>Iron is made from iron ore: Fe<sub>2</sub>O<sub>3</sub> + 3 CO &rarr; 2 Fe + 3 CO<sub>2</sub>. How many grams of Fe come from 500. g of Fe<sub>2</sub>O<sub>3</sub> (159.70 g/mol)?</p>
 <details><summary>Answer</summary><p>500./159.70 = 3.131 mol; &times; 2 = 6.262 mol Fe; &times; 55.85 = 350. g Fe.</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{4}\)</p>
+<p>How many moles of AgCl precipitate when 3.5 g of KCl in solution reacts with excess silver nitrate? KCl(aq) + AgNO<sub>3</sub>(aq) &rarr; AgCl(s) + KNO<sub>3</sub>(aq) (KCl 74.55 g/mol)</p>
+<details><summary>Answer</summary><p>3.5 g KCl &times; (1 mol KCl / 74.55 g) &times; (1 mol AgCl / 1 mol KCl) = 0.047 mol AgCl (2 significant figures, like 3.5 g). The problem stops at moles, so there is no last molar-mass step.</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{5}\)</p>
+<p>What mass of N<sub>2</sub> is needed to make 1.50 &times; 10<sup>24</sup> molecules of NH<sub>3</sub>? N<sub>2</sub> + 3 H<sub>2</sub> &rarr; 2 NH<sub>3</sub> (N<sub>2</sub> 28.014 g/mol)</p>
+<details><summary>Answer</summary><p>1.50 &times; 10<sup>24</sup> &divide; 6.0221 &times; 10<sup>23</sup> = 2.491 mol NH<sub>3</sub>; &times; (1 mol N<sub>2</sub> / 2 mol NH<sub>3</sub>) = 1.245 mol N<sub>2</sub>; &times; 28.014 g/mol = 34.9 g N<sub>2</sub>.</p></details></div>
 
 <div class="box-note"><p class="boxtitle">Attribution</p>
 <p>Written by Daniel Kwasniewski (Dr. Dan), Fresno City College, for CHEM 3A, with AI assistance; reviewed by the author. Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>. This page replaces "Making Molecules: Mole-to-Mass and Mass-to-Mass Conversions" from earlier versions of this book. Atomic masses are those printed on the CHEM 3A yellow sheet. Videos by ItsDrDan (all rights reserved; embedded, not part of the licensed text).</p></div>

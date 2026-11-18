@@ -4,10 +4,20 @@
 <li>Distinguish theoretical yield from actual yield.</li>
 <li>Calculate percent yield and judge whether it is reasonable.</li>
 <li>Distinguish percent yield from percent error.</li>
+<li>Find the actual yield from a given percent yield, and combine a limiting reactant with percent yield.</li>
+<li>Avoid the most common percent-yield mistake: comparing masses of two different substances.</li>
 </ul>
 </div>
 
-<p>Everything you have calculated so far assumes the reaction runs perfectly: every bit of the limiting reactant turns into product, and you collect all of it. Real reactions fall short. Some product sticks to the glassware or the filter paper, side reactions make other products, and some reactant never reacts.</p>
+<p>Everything you have calculated so far assumes the reaction runs perfectly: every bit of the limiting reactant turns into product, and you collect all of it. Conservation of mass is a true law, but in a real lab some product always goes missing. Where does it go?</p>
+<ul>
+<li>It is left behind during transfers: on the stirring rod, the spatula, the walls of the beaker, the filter paper.</li>
+<li>The reaction did not go to completion. The procedure said 15 minutes, but your lab partner wanted to leave early, so it ran for 5.</li>
+<li>A side reaction made a different product.</li>
+<li>The reactants were not pure to begin with.</li>
+<li>Plain human error: a spill, a misread scale, too much rinse water.</li>
+</ul>
+<p>Comparing what you got with what was possible tells you how well the experiment went, and where to improve.</p>
 
 <h2>Theoretical, Actual, and Percent Yield</h2>
 <ul>
@@ -31,6 +41,33 @@
 <p>Percent yield: 2.18 g &divide; 2.609 g &times; 100% = <strong>83.6%</strong>.</p>
 <p><strong>Check.</strong> Salicylic acid is the limiting reactant (the other is in excess), so it sets the theoretical yield.</p></div>
 
+<p>Is 84% good? For an introductory lab, yes. A yield around 75% is a good result for many reactions, and in multi-step organic synthesis a chemist can be happy with 5 to 10% for a difficult step.</p>
+
+<h2>The Most Common Percent-Yield Mistake</h2>
+<p>The actual yield and the theoretical yield must be masses of the <strong>same substance</strong>, the product. A very common mistake is to divide the mass of the <em>reactant</em> you started with by the mass of product you collected. Those are different substances with different molar masses, so the ratio means nothing. First convert the reactant to the theoretical yield of product, then compare.</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{3}\): Lithium hydroxide scrubbing CO<sub>2</sub></p>
+<p><strong>Problem.</strong> Lithium hydroxide removes carbon dioxide from the air in spacecraft and closed breathing systems: 2 LiOH(s) + CO<sub>2</sub>(g) &rarr; Li<sub>2</sub>CO<sub>3</sub>(s) + H<sub>2</sub>O(l). In a test, 20.0 g of LiOH with excess CO<sub>2</sub> gives 24.0 g of Li<sub>2</sub>CO<sub>3</sub>. What is the percent yield? (LiOH 23.95 g/mol; Li<sub>2</sub>CO<sub>3</sub> 73.89 g/mol)</p>
+<p><strong>Solution.</strong> <em>Not</em> 20.0 g &divide; 24.0 g &times; 100% = 83.3%: that compares grams of LiOH with grams of Li<sub>2</sub>CO<sub>3</sub>. Find the theoretical yield of Li<sub>2</sub>CO<sub>3</sub> first (the balanced equation gives 2 mol LiOH : 1 mol Li<sub>2</sub>CO<sub>3</sub>):</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 20.0\ \text{g LiOH} \times \dfrac{1\ \text{mol LiOH}}{23.95\ \text{g LiOH}} \times \dfrac{1\ \text{mol Li}_2\text{CO}_3}{2\ \text{mol LiOH}} \times \dfrac{73.89\ \text{g Li}_2\text{CO}_3}{1\ \text{mol Li}_2\text{CO}_3} = 30.85\ \text{g Li}_2\text{CO}_3 \)</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \text{percent yield} = \dfrac{24.0\ \text{g}}{30.85\ \text{g}} \times 100\% = 77.8\% \)</p>
+<p><strong>Check.</strong> Both numbers in the percent-yield fraction are grams of Li<sub>2</sub>CO<sub>3</sub>. The theoretical yield (30.9 g, unrounded 30.85 g kept for the next step) is larger than the actual yield, as it should be. The wrong-way 83.3% looks believable, which is what makes this mistake easy to miss.</p></div>
+
+<h2>Working Backward: Actual Yield from Percent Yield</h2>
+<p>The actual yield is always measured in the lab or given to you; you cannot calculate it from the equation alone. The one exception is when the problem gives you the <strong>percent yield</strong>. Then rearrange the formula:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( \text{actual yield} = \dfrac{\text{percent yield}}{100\%} \times \text{theoretical yield} \)</p>
+
+<div class="box-example"><p class="boxtitle">Example \(\PageIndex{4}\): How much will we really get?</p>
+<p><strong>Problem.</strong> Magnesium burns in oxygen: 2 Mg(s) + O<sub>2</sub>(g) &rarr; 2 MgO(s). A student burns 12.0 g of Mg in excess O<sub>2</sub>, and the procedure typically gives an 85.0% yield. What mass of MgO should the student expect to collect? (Mg 24.31 g/mol; MgO 40.31 g/mol)</p>
+<p><strong>Solution.</strong> Theoretical yield first:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 12.0\ \text{g Mg} \times \dfrac{1\ \text{mol Mg}}{24.31\ \text{g Mg}} \times \dfrac{2\ \text{mol MgO}}{2\ \text{mol Mg}} \times \dfrac{40.31\ \text{g MgO}}{1\ \text{mol MgO}} = 19.90\ \text{g MgO} \)</p>
+<p>Then the actual yield:</p>
+<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">\( 0.850 \times 19.90\ \text{g} = 16.9\ \text{g MgO} \)</p>
+<p><strong>Check.</strong> 85% of about 20 g is about 17 g, and the actual yield is less than the theoretical, as it must be.</p></div>
+
+<h3>Limiting reactant and percent yield together</h3>
+<p>When amounts of two reactants are given, find the limiting reactant first (Section 8.4); <em>its</em> product amount is the theoretical yield. For example, a reaction box holds 9 H<sub>2</sub> molecules and 4 N<sub>2</sub> molecules (N<sub>2</sub> + 3 H<sub>2</sub> &rarr; 2 NH<sub>3</sub>). H<sub>2</sub> could make 9 &times; 2/3 = 6 NH<sub>3</sub>; N<sub>2</sub> could make 4 &times; 2 = 8. H<sub>2</sub> limits, so the theoretical yield is 6 NH<sub>3</sub> molecules. If only 4 NH<sub>3</sub> molecules form, the percent yield is 4 &divide; 6 &times; 100% = 66.7%.</p>
+
 <div class="box-note"><p class="boxtitle">Professor Tip</p>
 <p>Do not confuse percent yield with percent error, which equals |measured &minus; accepted| &divide; accepted &times; 100%. Percent yield asks, "How much of the possible product did I collect?" Percent error asks, "How close is my measurement to the accepted value?" Also, always find the theoretical yield from the <em>limiting</em> reactant; using the excess reactant makes your percent yield look too small.</p></div>
 
@@ -41,7 +78,7 @@
 <p>Making a modern drug can take 10 or more reaction steps, and the overall yield is the product of the yields of every step. Ten steps at 90% each give 0.90<sup>10</sup> &asymp; 35% overall; at 70% each, only about 3%. That is why process chemists work hard to raise the yield of every step: a few percent per step can decide whether a medicine is affordable to produce.</p></div>
 
 <h2>Video Lesson</h2>
-<p>Theoretical and percent yield, step by step, from <a href="https://youtu.be/EcT5aqQzaYA?t=161" target="_blank" rel="noopener">2:41</a>.</p>
+<p>Theoretical and percent yield, step by step, from <a href="https://youtu.be/EcT5aqQzaYA?t=161" target="_blank" rel="noopener">2:41</a> (where product goes, at <a href="https://youtu.be/EcT5aqQzaYA?t=73" target="_blank" rel="noopener">1:13</a>; a limiting reactant and percent yield in a reaction box at <a href="https://youtu.be/EcT5aqQzaYA?t=229" target="_blank" rel="noopener">3:49</a>; the "divide the given by the product" mistake at <a href="https://youtu.be/EcT5aqQzaYA?t=408" target="_blank" rel="noopener">6:48</a> (the video uses a simplified product, lithium bicarbonate; the real scrubber makes lithium carbonate, as in Example 3); actual yield from a percent yield, working backward, at <a href="https://youtu.be/EcT5aqQzaYA?t=682" target="_blank" rel="noopener">11:22</a>).</p>
 <p><iframe style="max-width:100%;height:auto;aspect-ratio:16/9;" width="560" height="315" src="https://www.youtube.com/embed/EcT5aqQzaYA?start=161&amp;rel=0" title="How to Calculate Theoretical and Percent Yield in Chemical Reactions | Chemistry Tutorial (ItsDrDan)" frameborder="0" allowfullscreen="allowfullscreen" loading="lazy"></iframe></p>
 
 <div class="box-note" style="border-left:6px solid #86509b;">
@@ -56,12 +93,16 @@
 <li><strong>Dividing theoretical by actual</strong> (the ratio is actual &divide; theoretical).</li>
 <li><strong>Using the excess reactant</strong> to find the theoretical yield.</li>
 <li><strong>Accepting a yield over 100%</strong> without questioning it.</li>
+<li><strong>Dividing the reactant's mass by the product's mass.</strong> Convert to the theoretical yield of the product first; both numbers must be the same substance.</li>
+<li><strong>Calculating an actual yield from the equation.</strong> The actual yield is measured or given, or found from a given percent yield.</li>
 </ul>
 
 <h2>Summary</h2>
 <ul>
 <li>Theoretical yield: stoichiometric maximum from the limiting reactant. Actual yield: what you collect.</li>
-<li>Percent yield = actual &divide; theoretical &times; 100%, normally below 100%.</li>
+<li>Percent yield = actual &divide; theoretical &times; 100%, normally below 100%. Both yields are amounts of the same product.</li>
+<li>Actual yield = (percent yield &divide; 100%) &times; theoretical yield, when the percent yield is given.</li>
+<li>Product is lost in transfers, incomplete reactions, side reactions, impure reactants, and human error.</li>
 </ul>
 
 <h2>Exercises</h2>
@@ -74,6 +115,12 @@
 <div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{3}\)</p>
 <p>A student reports a 112% yield of a solid that was dried for only five minutes. What is the most likely explanation?</p>
 <details><summary>Answer</summary><p>The product still contains water (it is not dry), so its mass is too high. Drying it longer would lower the measured mass and the percent yield.</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{4}\)</p>
+<p>Iron is made by Fe<sub>2</sub>O<sub>3</sub> + 3 CO &rarr; 2 Fe + 3 CO<sub>2</sub>. If 500. g of Fe<sub>2</sub>O<sub>3</sub> has a theoretical yield of 350. g of Fe (Section 8.2, Exercise 3) and the process runs at 92.0% yield, what mass of iron is actually produced?</p>
+<details><summary>Answer</summary><p>Actual = 0.920 &times; 349.7 g = 322 g Fe. (Use the unrounded theoretical yield, 349.7 g, and round once at the end.)</p></details></div>
+<div class="box-exercise"><p class="boxtitle">Exercise \(\PageIndex{5}\)</p>
+<p>In Section 8.4, Example 3, the theoretical yield of AlBr<sub>3</sub> was 20.7 g (Br<sub>2</sub> limiting). If 18.2 g of AlBr<sub>3</sub> is collected, what is the percent yield? A classmate instead divides 18.2 g by the 3.00 g of Al used. What is wrong with that?</p>
+<details><summary>Answer</summary><p>18.2 g &divide; 20.69 g &times; 100% = 88.0%. Dividing by 3.00 g of Al compares the product with a reactant (and with the excess reactant, at that); the percent yield must compare actual and theoretical amounts of the same product, from the limiting reactant.</p></details></div>
 
 <div class="box-note"><p class="boxtitle">Attribution</p>
 <p>Written by Daniel Kwasniewski (Dr. Dan), Fresno City College, for CHEM 3A, with AI assistance; reviewed by the author. Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>. This page replaces "Limiting Reactant and Theoretical Yield" (yield part) from earlier versions of this book. Atomic masses are those printed on the CHEM 3A yellow sheet. Video by ItsDrDan (all rights reserved; embedded, not part of the licensed text).</p></div>
