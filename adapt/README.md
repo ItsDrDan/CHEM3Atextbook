@@ -97,3 +97,9 @@ POST `/api/questions` (Bearer token from the `token` cookie) with the editor-sha
 - All three: template 145, 3 attempts, hints no penalty, marked late, 2 points, random 50 = 100 points, hidden, placeholder dates. Read back: every question matches the bank (stem, choices, key, every wrong-choice feedback, hint feedback, CC BY 4.0, public).
 - **Duplicates:** ADAPT sometimes creates a question twice for one POST (consecutive ids) or answers "identical to the native question" for one it just created. After every upload, read back, and remove the extra copy with DELETE `/api/assignments/{aid}/questions/{qid}` (it stays in My Questions). Removed: 357290, 357312, 357332, 357367 (Ch 12) and 357435 (Ch 13).
 - Running two uploads at once (different assignments) roughly halves the wait.
+
+## Update of 2026-11-17: yellow-sheet lb/kg values in Chapter 1
+
+- c1-079 (ADAPT 356121), c1-091 (356129), c1-099 (356137), c1-h34 (356171) and c1-h35 (356172) in assignment 224842 now use 1 kg = 2.2046 lb and 1 lb = 453.59 g, matching `bank/ch01.json` and `bank/ch01_adapt.json` (commit fd9352a). Intermediate values moved in the last digit; every key is unchanged.
+- Saved with PATCH /api/questions/{id}: the get-question-to-edit object with **all its fields kept** except qti_answer_json (removing id, page_id and the other server fields gives a 500), plus the editor fields listed above; "automatically update", reason "Use the yellow-sheet value 1 kg = 2.2046 lb / 1 lb = 453.59 g (2026-11-17)."
+- Read back: qti_json identical to what was sent for all five; no question in the assignment mentions 2.205 or 453.6; no pending revisions; correct choice still first-listed in each.
