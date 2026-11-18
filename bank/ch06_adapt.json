@@ -137,9 +137,9 @@
   ],
   "y": [
    "Correct: 4 (C) + 3 &times; 6 (O) = 22, plus 2 for the 2&minus; charge = 24.",
-   "This forgets the 2&minus; charge.",
+   "This forgets the 2&minus; charge. A negative ion has extra electrons, so add 2 to the valence electrons of the atoms.",
    "This subtracts 2 for the charge. A negative ion has extra electrons.",
-   "This counts one O atom: 4 + 6 + 2."
+   "This counts one O atom: 4 + 6 + 2. Multiply by the subscript: three O atoms give 3 &times; 6."
   ],
   "h": "Group numbers, times subscripts, plus one electron per negative charge.",
   "w": "4 + 3(6) + 2 = <b>24</b> valence electrons for CO<sub>3</sub><sup>2&minus;</sup>.",
@@ -327,7 +327,7 @@
   "y": [
    "Correct: 4 groups: tetrahedral electron geometry. With one lone pair, the central atom and its 3 neighbors form a pyramid.",
    "Tetrahedral is the electron geometry; it is the shape only with 0 lone pairs.",
-   "Bent (4 groups) has 2 lone pairs.",
+   "Bent (4 groups) has 2 lone pairs. With 4 groups and only 1 lone pair, three atoms sit around the center, like NH<sub>3</sub>.",
    "Trigonal planar has 3 groups and no lone pairs."
   ],
   "h": "Electron geometry from the groups; then name only the atoms.",
@@ -370,7 +370,7 @@
    "Correct: 4 groups point toward the corners of a tetrahedron, so the angle is about 109.5&deg; (the lone pair squeezes it a little).",
    "120&deg; is the angle for 3 groups. The lone pair is a fourth group.",
    "90&deg; is what a flat drawing suggests, but the groups spread in three dimensions.",
-   "180&deg; is for 2 groups."
+   "180&deg; is for 2 groups. P has 4 electron groups (3 bonds + 1 lone pair), so start from the tetrahedral angle, about 109.5&deg;."
   ],
   "h": "Count all groups on P, including the lone pair.",
   "w": "4 groups (trigonal pyramidal): <b>about 109.5&deg;</b>.",
@@ -600,7 +600,7 @@
   "y": [
    "Correct: 2(35.45) &divide; 110.98 &times; 100% = 63.89%.",
    "This counts one Cl; the formula has two.",
-   "This is the percent of calcium.",
+   "This is the percent of calcium. Use the mass of chlorine, 2 &times; 35.45, over the molar mass of CaCl<sub>2</sub>.",
    "This divides by the mass of Ca. Divide by the whole compound."
   ],
   "h": "Two Cl atoms, divided by the molar mass of CaCl<sub>2</sub>.",
@@ -662,8 +662,8 @@
   ],
   "y": [
    "Correct: 2(30.97) &divide; 234.04 &times; 100% = 26.47%. The 2 outside the parentheses gives two P atoms.",
-   "This counts one P atom.",
-   "This is the percent of calcium.",
+   "This counts one P atom. Ca(H<sub>2</sub>PO<sub>4</sub>)<sub>2</sub> has 2 P atoms, so use 2 &times; 30.97 on top.",
+   "This is the percent of calcium. Put the mass of phosphorus, 2 &times; 30.97, over the molar mass.",
    "This ignores the 2 outside the parentheses in both the P count and the molar mass."
   ],
   "h": "How many P atoms are in Ca(H<sub>2</sub>PO<sub>4</sub>)<sub>2</sub>?",
@@ -684,8 +684,8 @@
   "y": [
    "Correct: 14.007 &divide; 123.111 &times; 100% = 11.38%.",
    "This is the fraction of atoms that are N (1 of 14). Mass percent uses masses.",
-   "This is the percent of carbon.",
-   "This divides the wrong way."
+   "This is the percent of carbon. Put the mass of nitrogen, 1 &times; 14.007, over the molar mass.",
+   "This divides the wrong way. Mass percent = (mass of N &divide; molar mass of compound) &times; 100%; the part goes on top."
   ],
   "h": "Mass of N in one mole &divide; molar mass &times; 100%.",
   "w": "%N = 14.007 &divide; 123.111 &times; 100% = <b>11.38%</b>.",

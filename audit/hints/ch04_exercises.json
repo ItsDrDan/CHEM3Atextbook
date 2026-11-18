@@ -1,0 +1,794 @@
+[
+ {
+  "file": "drafts/ch04/4.1_formulas_and_types.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "How many oxygen atoms are in Fe 2 (CO 3 ) 3 ?",
+  "answer": "3 &times; 3 = 9 oxygen atoms.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch04/4.1_formulas_and_types.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Classify each as ionic, molecular, or an acid: CCl 4 , MgO, HNO 3 (aq), (NH 4 ) 2 SO 4 .",
+  "answer": "CCl 4 : molecular (two nonmetals). MgO: ionic (metal). HNO 3 (aq): acid. (NH 4 ) 2 SO 4 : ionic (ammonium cation).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.1_formulas_and_types.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Which of these elements are diatomic when uncombined: neon, nitrogen, sodium, bromine?",
+  "answer": "Nitrogen (N 2 ) and bromine (Br 2 ). Neon is a single-atom noble gas, and sodium is a metal.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.1_formulas_and_types.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Mg 3 (PO 4 ) 2 is magnesium phosphate. (a) How many magnesium ions and how many phosphate ions are in one formula unit? (b) How many atoms of each element? (c) A classmate writes the formula as Mg 3 P 2 O 8 . What is wrong with that?",
+  "answer": "(a) 3 Mg 2+ ions and 2 PO 4 3&minus; ions. (b) Mg 3, P 2, O 4 &times; 2 = 8 (13 atoms). (c) The atom count is right, but the formula no longer shows the phosphate ions as units. Parentheses are kept in the formula; you multiply through them only to count atoms.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.2_ionic_formulas.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Write the formulas for the compounds of (a) potassium and sulfur; (b) aluminum and chlorine; (c) barium and nitrogen.",
+  "answer": "(a) K 2 S. (b) AlCl 3 . (c) Ba 3 N 2 .",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch04/4.2_ionic_formulas.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Write the formulas for (a) magnesium nitrate; (b) sodium phosphate; (c) ammonium carbonate.",
+  "answer": "(a) Mg(NO 3 ) 2 . (b) Na 3 PO 4 . (c) (NH 4 ) 2 CO 3 .",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch04/4.2_ionic_formulas.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Give the formula and charge of (a) the sulfite ion; (b) the perbromate ion; (c) the hydrogen sulfate ion.",
+  "answer": "(a) SO 3 2&minus; (one less O than sulfate). (b) BrO 4 &minus; (one more O than bromate). (c) HSO 4 &minus; (adding H + to SO 4 2&minus; lowers the charge to 1&minus;).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.2_ionic_formulas.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "The chlorine family runs hypochlorite, chlorite, chlorate, perchlorate. Iodine sits two places below chlorine in group 17. Predict the formulas and charges of hypoiodite, iodite, iodate, and periodate.",
+  "answer": "IO &minus; , IO 2 &minus; , IO 3 &minus; , IO 4 &minus; , all 1&minus;. Iodine is in the \"3\" of T43, so iodate has 3 O; adding or removing O never changes the charge.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.2_ionic_formulas.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Write the formulas of (a) calcium silicate; (b) potassium tellurate; (c) aluminum borate; (d) Pb 4+ with carbonate.",
+  "answer": "(a) CaSiO 3 (silicate is SiO 3 2&minus; , like carbonate). (b) K 2 TeO 4 . (c) AlBO 3 (3+ and 3&minus; combine 1 : 1, no parentheses). (d) Pb 2 (CO 3 ) 4 reduces to Pb(CO 3 ) 2 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.2_ionic_formulas.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "question": "A student finds the charge on manganese in MnO 2 by un-swapping and gets Mn 2+ . Find the correct charge, and explain what went wrong.",
+  "answer": "Mn 4+ . Two O 2&minus; ions carry 4&minus;, so the one manganese ion must be 4+. The formula was reduced (Mn 2 O 4 &rarr; MnO 2 ), so un-swapping gives the wrong charges, including an impossible O &minus; .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.3_naming_ionic.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Name (a) ZnBr 2 ; (b) Cu 2 S; (c) Fe(NO 3 ) 2 ; (d) (NH 4 ) 3 PO 4 .",
+  "answer": "(a) zinc bromide (no numeral: Zn is fixed at 2+). (b) copper(I) sulfide: one S 2&minus; shared by two Cu, so each is 1+. (c) iron(II) nitrate: 2 NO 3 &minus; = 2&minus;. (d) ammonium phosphate.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.3_naming_ionic.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Write formulas for (a) lead(II) nitrate; (b) tin(IV) chloride; (c) cobalt(II) hydroxide; (d) ferric oxide.",
+  "answer": "(a) Pb(NO 3 ) 2 . (b) SnCl 4 . (c) Co(OH) 2 . (d) Fe 2 O 3 (ferric = iron(III)).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.3_naming_ionic.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Name BaCl 2 &middot;2H 2 O, and write the formula for sodium carbonate decahydrate.",
+  "answer": "Barium chloride dihydrate. Na 2 CO 3 &middot;10H 2 O.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch04/4.3_naming_ionic.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Give the symbol and charge of each ion: (a) cobaltous; (b) stannic; (c) cuprous; (d) ferric; (e) lead(IV); (f) mercuric.",
+  "answer": "(a) Co 2+ . (b) Sn 4+ . (c) Cu + . (d) Fe 3+ . (e) Pb 4+ . (f) Hg 2+ . In each pair, -ous is the lower charge and -ic the higher.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.3_naming_ionic.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Write formulas for (a) iron(III) sulfide; (b) lead(IV) oxide; (c) copper(I) nitrate; (d) manganese(II) phosphate.",
+  "answer": "(a) Fe 3+ and S 2&minus; : Fe 2 S 3 . (b) Pb 4+ and O 2&minus; : Pb 2 O 4 reduces to PbO 2 . (c) Cu + and NO 3 &minus; : CuNO 3 . (d) Mn 2+ and PO 4 3&minus; : Mn 3 (PO 4 ) 2 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.4_naming_molecular.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Name (a) SiO 2 ; (b) N 2 O 4 ; (c) SF 6 ; (d) Cl 2 O 7 .",
+  "answer": "(a) silicon dioxide. (b) dinitrogen tetroxide (or tetraoxide). (c) sulfur hexafluoride. (d) dichlorine heptoxide.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.4_naming_molecular.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Write formulas for (a) carbon disulfide; (b) nitrogen triiodide; (c) tetraphosphorus hexoxide.",
+  "answer": "(a) CS 2 . (b) NI 3 . (c) P 4 O 6 .",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch04/4.4_naming_molecular.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A student names MgCl 2 \"magnesium dichloride\" and PF 3 \"phosphorus fluoride.\" Correct both names.",
+  "answer": "MgCl 2 is ionic (Mg is a metal): magnesium chloride, no prefix. PF 3 is molecular: phosphorus trifluoride, prefix required.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.5_naming_acids.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Name (a) HF(aq); (b) H 2 CO 3 ; (c) HClO 2 ; (d) HNO 3 .",
+  "answer": "(a) hydrofluoric acid. (b) carbonic acid. (c) chlorous acid (chlorite &rarr; -ous). (d) nitric acid.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.5_naming_acids.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Write formulas for (a) perchloric acid; (b) phosphorous acid (from phosphite, PO 3 3&minus; ); (c) acetic acid.",
+  "answer": "(a) HClO 4 . (b) H 3 PO 3 . (c) HC 2 H 3 O 2 (also written CH 3 COOH).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.5_naming_acids.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "What is the difference between hydrosulfuric acid and sulfuric acid?",
+  "answer": "Hydrosulfuric acid is H 2 S(aq), a binary acid from sulfide (no oxygen). Sulfuric acid is H 2 SO 4 , an oxyacid from sulfate.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.5_naming_acids.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Classify each as an acid or a base, and name it: (a) LiOH; (b) HBrO 2 ; (c) Sr(OH) 2 ; (d) HIO 4 .",
+  "answer": "(a) Base, lithium hydroxide. (b) Acid, bromous acid (bromite, BrO 2 &minus; &rarr; -ous). (c) Base, strontium hydroxide. (d) Acid, periodic acid (periodate, IO 4 &minus; &rarr; per-...-ic).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.6_naming_any_compound.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Name (a) SO 2 ; (b) K 2 SO 3 ; (c) H 2 SO 3 ; (d) Fe 2 (SO 4 ) 3 .",
+  "answer": "(a) sulfur dioxide (molecular). (b) potassium sulfite (ionic). (c) sulfurous acid (sulfite &rarr; -ous). (d) iron(III) sulfate: 3 sulfates = 6&minus; over 2 iron ions.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.6_naming_any_compound.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Write formulas for (a) nitrogen trifluoride; (b) magnesium nitride; (c) nitric acid; (d) ammonium nitrite.",
+  "answer": "(a) NF 3 . (b) Mg 3 N 2 . (c) HNO 3 . (d) NH 4 NO 2 .",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch04/4.6_naming_any_compound.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Explain why CaCl 2 is not named \"calcium dichloride\" but CCl 4 is named \"carbon tetrachloride.\"",
+  "answer": "CaCl 2 is ionic (calcium is a metal); the fixed charges already fix the ratio, so no prefixes are used. CCl 4 is molecular (two nonmetals); there are no charges to fix the ratio, so prefixes give the atom counts.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 4.1",
+  "question": "How many oxygen atoms are in one formula unit of calcium phosphate, Ca 3 (PO 4 ) 2 , the main mineral in bone? A. 4 B. 8 C. 12 D. 13",
+  "answer": "B. The subscript 2 after the parentheses multiplies everything inside them: 2 phosphate groups &times; 4 O each = 8 O atoms. A counts only one phosphate group; it forgets to multiply by the 2 outside the parentheses. C multiplies the 4 by the 3 that belongs to calcium. A subscript only counts the atom (or parentheses) just before it. D is the total number of atoms of all three elements: 3 Ca + 2 P + 8 O = 13. The question asks only for oxygen.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 4.2",
+  "question": "Count the atoms of each element, and the total number of atoms, in (a) Mg(OH) 2 , the active ingredient in milk of magnesia; (b) (NH 4 ) 2 SO 4 , a nitrogen fertilizer; (c) Ca(C 2 H 3 O 2 ) 2 , calcium acetate; (d) 4 H 2 O 2 , four molecules of hydrogen peroxide.",
+  "answer": "(a) Mg: 1. O: 1 &times; 2 = 2. H: 1 &times; 2 = 2. Total 5 atoms. (b) N: 1 &times; 2 = 2. H: 4 &times; 2 = 8. S: 1. O: 4. Total 15 atoms. The S and O are outside the parentheses, so they are not multiplied. (c) Ca: 1. C: 2 &times; 2 = 4. H: 3 &times; 2 = 6. O: 2 &times; 2 = 4. Total 15 atoms. (d) The coefficient 4 multiplies the whole formula: H: 2 &times; 4 = 8. O: 2 &times; 4 = 8. Total 16 atoms in four molecules.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 4.3",
+  "question": "Which compound is molecular? A. NH 4 Cl B. N 2 O C. KNO 3 D. Fe(OH) 3",
+  "answer": "B. N 2 O (nitrous oxide, the \"laughing gas\" used in dental offices) contains only nonmetals, nitrogen and oxygen, so its atoms share electrons in a molecule. A starts with the ammonium ion, NH 4 + , so it is ionic even though every element in it is a nonmetal. C starts with potassium, a metal: it is ionic (K + and NO 3 &minus; ). D starts with iron, a metal: it is ionic (Fe 3+ and three OH &minus; ions). Ending in OH does not make it an acid.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 4.4",
+  "question": "The table below lists compounds you might meet at home, at work, or on a farm. Classify each one as ionic, molecular, or an acid, and give the clue in the formula that tells you. @media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } } Compounds to classify (blanks marked ?) Formula Where you might see it Type ZnO Mineral sunscreen ? CO Car exhaust and smoke ? HCl(aq) Stomach acid ? NH 4 NO 3 Fertilizer ? NaOH Drain cleaner ? CH 4 Biogas from dairy manure ? H 3 PO 4 (aq) Cola soft drinks ? KCl Salt substitute ?",
+  "answer": "ZnO: ionic (zinc is a metal). CO: molecular (carbon and oxygen are both nonmetals). HCl(aq): acid (starts with H and is dissolved in water). NH 4 NO 3 : ionic (starts with the ammonium ion). NaOH: ionic (sodium is a metal; OH &minus; is the hydroxide ion). CH 4 : molecular (two nonmetals; it is methane). H 3 PO 4 (aq): acid (starts with H, in water). KCl: ionic (potassium is a metal).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 4.5",
+  "question": "Which list contains only elements that exist as diatomic molecules when they are uncombined? A. hydrogen, nitrogen, oxygen, chlorine B. hydrogen, helium, nitrogen, oxygen C. sodium, chlorine, bromine, iodine D. oxygen, sulfur, fluorine, chlorine",
+  "answer": "A. H 2 , N 2 , O 2 , and Cl 2 are four of the seven diatomic elements (H 2 , N 2 , O 2 , F 2 , Cl 2 , Br 2 , I 2 ). B includes helium, a noble gas that exists as single atoms. C includes sodium, a metal. Chlorine, bromine, and iodine are diatomic, but sodium is not. D includes sulfur, which is not one of the seven. (It sits below oxygen, but the \"7\" shape on the periodic table goes N, O, F and then down the halogens.)",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 4.6",
+  "question": "A student counts the atoms in aluminum carbonate, Al 2 (CO 3 ) 3 , and writes \"Al: 2, C: 1, O: 3, total 6.\" (a) What mistake did the student make? (b) Give the correct counts.",
+  "answer": "(a) The student ignored the subscript 3 after the parentheses. That 3 means there are three whole carbonate groups. (b) Al: 2. C: 1 &times; 3 = 3. O: 3 &times; 3 = 9. Total 14 atoms.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 4.7",
+  "question": "When fluoride from toothpaste or fluoridated water reaches tooth enamel, some of the enamel mineral changes to fluorapatite , Ca 5 (PO 4 ) 3 F, which resists acid better. (a) Count the atoms of each element and the total. (b) Is fluorapatite ionic or molecular? Name its three ions. (c) Show that the total charge is zero.",
+  "answer": "(a) Ca: 5. P: 1 &times; 3 = 3. O: 4 &times; 3 = 12. F: 1. Total 21 atoms. (b) Ionic : it starts with calcium, a metal. The ions are calcium (Ca 2+ ), phosphate (PO 4 3&minus; ), and fluoride (F &minus; ). (c) 5(2+) + 3(3&minus;) + 1(1&minus;) = 10+ + 9&minus; + 1&minus; = 0 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 4.8",
+  "question": "Ammonium nitrate, NH 4 NO 3 , is a nitrogen fertilizer used on Central Valley farms. Which statement about it is true? A. It is molecular, because every element in it is a nonmetal. B. It is ionic, made of NH 4 + and NO 3 &minus; ions. C. It is an acid, because its formula contains hydrogen. D. One formula unit contains 3 nitrogen atoms.",
+  "answer": "B. The formula starts with the ammonium ion, NH 4 + , so the compound is ionic. Its anion is nitrate, NO 3 &minus; . A falls into the ammonium trap: ammonium is the one cation in this course with no metal, but it is still an ion. C is wrong: acids start with H. Here the H atoms are inside the ammonium ion. D is wrong: there is one N in NH 4 + and one in NO 3 &minus; , so 2 N atoms (with 4 H and 3 O, 9 atoms in all).",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 4.9",
+  "question": "Write the formula of the ionic compound formed by each pair of elements: (a) lithium and oxygen; (b) aluminum and sulfur; (c) calcium and nitrogen; (d) potassium and iodine; (e) barium and fluorine.",
+  "answer": "(a) Li + and O 2&minus; : Li 2 O . Check: 2(1+) + (2&minus;) = 0. (b) Al 3+ and S 2&minus; : Al 2 S 3 . Check: 2(3+) + 3(2&minus;) = 6+ + 6&minus; = 0. (c) Ca 2+ and N 3&minus; : Ca 3 N 2 . Check: 3(2+) + 2(3&minus;) = 0. (d) K + and I &minus; : KI (equal and opposite charges, 1 : 1). (e) Ba 2+ and F &minus; : BaF 2 . Check: (2+) + 2(1&minus;) = 0.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 4.10",
+  "question": "What is the formula of magnesium phosphate? A. MgPO 4 B. Mg 3 (PO 4 ) 2 C. Mg 2 (PO 4 ) 3 D. Mg 3 P 2",
+  "answer": "B. Mg 2+ and PO 4 3&minus; : swap-drop gives Mg 3 (PO 4 ) 2 . Check: 3(2+) + 2(3&minus;) = 6+ + 6&minus; = 0. A is not neutral: (2+) + (3&minus;) = 1&minus;. C puts each ion's own charge on itself instead of swapping: 2(2+) + 3(3&minus;) = 4+ + 9&minus; = 5&minus;. D is magnesium phosphide , made with the P 3&minus; ion, not phosphate. It has no oxygen.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 4.11",
+  "question": "Give the formula and charge of each ion: (a) nitrite; (b) perchlorate; (c) hypochlorite; (d) hydrogen phosphate; (e) dihydrogen phosphate; (f) bisulfite; (g) dichromate; (h) acetate.",
+  "answer": "(a) NO 2 &minus; : one less O than nitrate, NO 3 &minus; , same charge. (b) ClO 4 &minus; : one more O than chlorate, ClO 3 &minus; . (c) ClO &minus; : two fewer O than chlorate (one less than chlorite, ClO 2 &minus; ). (d) HPO 4 2&minus; : adding one H + to PO 4 3&minus; raises the charge from 3&minus; to 2&minus;. (e) H 2 PO 4 &minus; : two H + added, so 3&minus; becomes 1&minus;. (f) HSO 3 &minus; : \"bi-\" means one added H + , on sulfite, SO 3 2&minus; . (g) Cr 2 O 7 2&minus; . (h) C 2 H 3 O 2 &minus; (also written CH 3 COO &minus; ).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 4.12",
+  "question": "Complete the table below. For the first five rows, write the formula from the ions. For the last two, work backward from the formula to the ions. Ions and ionic formulas (blanks marked ?) Cation Anion Formula K + CO 3 2&minus; ? Ca 2+ HCO 3 &minus; ? NH 4 + PO 4 3&minus; ? Al 3+ SO 4 2&minus; ? Zn 2+ OH &minus; ? ? ? Na 2 C 2 O 4 ? ? Mg(C 2 H 3 O 2 ) 2",
+  "answer": "K + and CO 3 2&minus; : K 2 CO 3 . Ca 2+ and HCO 3 &minus; : Ca(HCO 3 ) 2 . Parentheses are needed for two bicarbonate ions. NH 4 + and PO 4 3&minus; : (NH 4 ) 3 PO 4 . Al 3+ and SO 4 2&minus; : Al 2 (SO 4 ) 3 . Check: 2(3+) + 3(2&minus;) = 0. Zn 2+ and OH &minus; : Zn(OH) 2 . Na 2 C 2 O 4 : Na + and C 2 O 4 2&minus; (oxalate). Two Na + balance one 2&minus; ion. The 2 in C 2 belongs to the oxalate ion itself, not to the ratio. Mg(C 2 H 3 O 2 ) 2 : Mg 2+ and C 2 H 3 O 2 &minus; (acetate). Two acetate ions balance one Mg 2+ .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 4.13",
+  "question": "Use the anions to find the charge on the metal ion in each compound: (a) Cr 2 (SO 4 ) 3 ; (b) SnO 2 ; (c) Cu 2 O; (d) Co 3 (PO 4 ) 2 ; (e) FeO.",
+  "answer": "(a) 3 SO 4 2&minus; = 6&minus;, shared by 2 Cr: Cr 3+ . (b) 2 O 2&minus; = 4&minus;, on 1 Sn: Sn 4+ . (The formula was reduced from Sn 2 O 4 ; the subscript 2 is not tin's charge.) (c) 1 O 2&minus; = 2&minus;, shared by 2 Cu: Cu + . (d) 2 PO 4 3&minus; = 6&minus;, shared by 3 Co: Co 2+ . (e) 1 O 2&minus; = 2&minus;, on 1 Fe: Fe 2+ .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 4.14",
+  "question": "Calcium nitrate is sold as a fertilizer that supplies both calcium and nitrogen. What is its formula? A. CaNO 3 B. Ca(NO 3 ) 2 C. Ca 2 NO 3 D. CaNO 32",
+  "answer": "B. Ca 2+ needs two NO 3 &minus; ions, and two of a polyatomic ion go in parentheses: Ca(NO 3 ) 2 . Check: (2+) + 2(1&minus;) = 0. A is not neutral: (2+) + (1&minus;) = 1+. C has the ratio backward: 2(2+) + (1&minus;) = 3+. D has the right idea but no parentheses, so it reads as 32 oxygen atoms in one ion. Never change or add to the subscripts inside a polyatomic ion.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 4.15",
+  "question": "A student writes these formulas. Which are correct? Fix the ones that are wrong. (a) magnesium oxide, MgO 2 ; (b) aluminum hydroxide, Al(OH) 3 ; (c) calcium chloride, CaCl; (d) barium nitrate, Ba(NO 3 ) 2 ; (e) sodium sulfate, NaSO 4 .",
+  "answer": "(a) Wrong. Mg 2+ and O 2&minus; combine 1 : 1: MgO . MgO 2 would have 4&minus; of charge against 2+. (b) Correct. (3+) + 3(1&minus;) = 0. (c) Wrong. Ca 2+ needs two Cl &minus; : CaCl 2 . (d) Correct. (2+) + 2(1&minus;) = 0. (e) Wrong. Sulfate is 2&minus;, so it needs two Na + : Na 2 SO 4 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 4.16",
+  "question": "A Valley farm supply store sells three fertilizers and soil amendments: potassium nitrate, ammonium sulfate, and calcium sulfate. (a) Write the formula of each. (b) How many nitrogen atoms are in one formula unit of each?",
+  "answer": "(a) Potassium nitrate: K + and NO 3 &minus; , KNO 3 . Ammonium sulfate: two NH 4 + for one SO 4 2&minus; , (NH 4 ) 2 SO 4 . Calcium sulfate: Ca 2+ and SO 4 2&minus; , CaSO 4 . (b) KNO 3 : 1 N. (NH 4 ) 2 SO 4 : 2 N (one in each ammonium ion). CaSO 4 : 0 N; it supplies calcium and sulfur instead.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 4.17",
+  "question": "A metal M forms an oxide with the formula M 2 O 3 . Assuming the metal keeps the same charge, what is the formula of its chloride? A. MCl B. MCl 2 C. MCl 3 D. M 3 Cl",
+  "answer": "C. In M 2 O 3 , three O 2&minus; ions give 6&minus;, shared by two M ions, so M is 3+. M 3+ needs three Cl &minus; : MCl 3 . A would need M + . B would need M 2+ ; it reads the subscript 2 in M 2 O 3 as the charge. D has a total charge of 3(3+) + (1&minus;) = 8+, so it is not neutral.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 4.18",
+  "question": "Each of these compounds is found in a hospital, a pharmacy, or a medicine cabinet. Write its formula: (a) potassium chloride; (b) magnesium sulfate; (c) sodium bicarbonate; (d) calcium carbonate (an antacid); (e) zinc oxide (a sunscreen and skin protectant); (f) silver nitrate (on applicator sticks used to stop small areas of bleeding); (g) sodium fluoride.",
+  "answer": "All seven metals are on the fixed-charge list, so the charges come straight from the metal (and none of the names needs a Roman numeral). (a) K + , Cl &minus; : KCl . (b) Mg 2+ , SO 4 2&minus; : MgSO 4 . (c) Na + , HCO 3 &minus; : NaHCO 3 . (d) Ca 2+ , CO 3 2&minus; : CaCO 3 . (e) Zn 2+ , O 2&minus; : ZnO . (f) Ag + , NO 3 &minus; : AgNO 3 . (g) Na + , F &minus; : NaF .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 4.19",
+  "question": "Give the Stock name (with a Roman numeral) and the older -ous/-ic name of each compound: (a) Fe(OH) 3 ; (b) CuCl; (c) Cr 2 O 3 ; (d) Pb(NO 3 ) 2 ; (e) Co(NO 3 ) 3 ; (f) SnCl 4 .",
+  "answer": "(a) 3 OH &minus; = 3&minus;, so Fe 3+ : iron(III) hydroxide , ferric hydroxide. (b) 1 Cl &minus; , so Cu + : copper(I) chloride , cuprous chloride. (c) 3 O 2&minus; = 6&minus; over 2 Cr, so Cr 3+ : chromium(III) oxide , chromic oxide. (d) 2 NO 3 &minus; = 2&minus;, so Pb 2+ : lead(II) nitrate , plumbous nitrate. (e) 3 NO 3 &minus; = 3&minus;, so Co 3+ : cobalt(III) nitrate , cobaltic nitrate. (f) 4 Cl &minus; = 4&minus;, so Sn 4+ : tin(IV) chloride , stannic chloride. The -ous name always goes with the lower of the metal's two charges and -ic with the higher.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 4.20",
+  "question": "What is the name of Fe 2 (SO 4 ) 3 ? A. iron(II) sulfate B. iron(III) sulfate C. diiron trisulfate D. iron(III) sulfite",
+  "answer": "B. Three sulfate ions give 3(2&minus;) = 6&minus;, shared by two iron ions, so each is Fe 3+ : iron(III) sulfate (ferric sulfate). A uses the subscript 2 as the charge. The Roman numeral is the charge of one iron ion. C uses Greek prefixes, which are for molecular compounds; this is ionic. D changes the anion. SO 4 2&minus; is sulfate; sulfite is SO 3 2&minus; .",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 4.21",
+  "question": "Which compound needs a Roman numeral (or an -ous/-ic ending) in its name? A. ZnCl 2 B. AgBr C. SnF 2 D. Al 2 O 3",
+  "answer": "C. Tin forms both Sn 2+ and Sn 4+ , so the name must say which: tin(II) fluoride, or stannous fluoride. A: zinc is always Zn 2+ , so ZnCl 2 is simply zinc chloride. B: silver is always Ag + in this course, so AgBr is silver bromide. D: aluminum is always Al 3+ , so Al 2 O 3 is aluminum oxide.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 4.22",
+  "question": "Complete the table below. Give both the Stock name and the older name wherever the metal has a variable charge. Cations, anions, formulas, and names (blanks marked ?) Cation Anion Formula Name Cu 2+ ? ? copper(II) nitrate ? ? Hg 2 Cl 2 ? ? ? ? plumbous acetate Sn 4+ O 2&minus; ? ? ? ? CoCl 2 ? ? ? ? chromium(III) hydroxide NH 4 + Cr 2 O 7 2&minus; ? ?",
+  "answer": "Cu 2+ , NO 3 &minus; : Cu(NO 3 ) 2 , copper(II) nitrate (cupric nitrate). Hg 2 2+ , Cl &minus; : Hg 2 Cl 2 , mercury(I) chloride (mercurous chloride). The mercury(I) ion is a pair of atoms, so the formula is not reduced to HgCl. Plumbous means lead(II): Pb 2+ , C 2 H 3 O 2 &minus; , Pb(C 2 H 3 O 2 ) 2 , lead(II) acetate. Sn 4+ , O 2&minus; : Sn 2 O 4 reduces to SnO 2 , tin(IV) oxide (stannic oxide). 2 Cl &minus; = 2&minus;, so Co 2+ , Cl &minus; : cobalt(II) chloride (cobaltous chloride). Cr 3+ , OH &minus; : Cr(OH) 3 , chromium(III) hydroxide (chromic hydroxide). NH 4 + , Cr 2 O 7 2&minus; : (NH 4 ) 2 Cr 2 O 7 , ammonium dichromate . Ammonium never needs a Roman numeral. Chromium appears here only inside the anion, so it needs no Roman numeral either.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 4.23",
+  "question": "Each name below has an error. Explain the error and give the correct name. (a) NaCl, \"sodium(I) chloride\"; (b) FeCl 2 , \"iron chloride\"; (c) Cu 2 S, \"copper(II) sulfide\"; (d) Mg(OH) 2 , \"magnesium dihydroxide\"; (e) CaSO 4 , \"calcium sulfide.\"",
+  "answer": "(a) Sodium is a fixed-charge metal, so no Roman numeral: sodium chloride . (b) Iron has two common charges, so the name must give one. 2 Cl &minus; = 2&minus;, so Fe 2+ : iron(II) chloride (ferrous chloride). (c) One S 2&minus; is shared by two copper ions, so each is Cu + : copper(I) sulfide (cuprous sulfide). The student used the subscript as the charge. (d) Ionic names never use prefixes: magnesium hydroxide . (e) SO 4 2&minus; is the polyatomic ion sulfate, which keeps its own name; sulfide is S 2&minus; : calcium sulfate .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 4.24",
+  "question": "Two common fluoride sources in toothpaste are stannous fluoride and sodium fluoride . (a) Write the formula of each. (b) Give the Stock name of stannous fluoride. (c) Why does one name need a charge (in the -ous ending or a Roman numeral) but the other does not? (d) What would the formula of stannic fluoride be?",
+  "answer": "(a) Stannous means tin(II), Sn 2+ , so stannous fluoride is SnF 2 . Sodium fluoride is NaF . (b) Tin(II) fluoride. (c) Tin can form Sn 2+ or Sn 4+ , so the name must say which. Sodium is in group 1 and is always Na + , so \"sodium fluoride\" can mean only one compound. (d) Stannic is the higher charge, Sn 4+ : SnF 4 , tin(IV) fluoride.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 4.25",
+  "question": "Iron supplements are often sold as ferrous sulfate . What is its formula? A. FeSO 4 B. Fe 2 (SO 4 ) 3 C. FeSO 3 D. Fe 2 SO 4",
+  "answer": "A. Ferrous is the lower charge of iron, Fe 2+ (iron(II)). Fe 2+ and SO 4 2&minus; combine 1 : 1: FeSO 4 , iron(II) sulfate. B is ferric sulfate, iron(III) sulfate. The -ic ending is the higher charge, Fe 3+ . C is iron(II) sulfite. SO 3 2&minus; is sulfite, not sulfate. D is not neutral with Fe 2+ : 2(2+) + (2&minus;) = 2+. It would need Fe + , which is not an iron ion in this course.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 4.26",
+  "question": "Hydrates show up on farms and in the lab. (a) Name CaSO 4 &middot;2H 2 O, gypsum, which Valley growers spread to improve soil. (b) Name CoCl 2 &middot;6H 2 O, the pink form of the cobalt compound used in some humidity indicator cards. (c) Zinc sulfate heptahydrate is sprayed on some orchards to correct zinc deficiency. Write its formula. (d) How many hydrogen atoms and how many oxygen atoms are in one formula unit of gypsum?",
+  "answer": "(a) Calcium sulfate dihydrate (di- = 2 waters). (b) 2 Cl &minus; = 2&minus;, so Co 2+ : cobalt(II) chloride hexahydrate (hexa- = 6 waters). (c) Zn 2+ and SO 4 2&minus; , plus hepta- = 7 waters: ZnSO 4 &middot;7H 2 O . Zinc is a fixed-charge metal, so there is no Roman numeral in the name. (d) H: 2 &times; 2 = 4 , all in the water. O: 4 in sulfate + 2 &times; 1 in the water = 6 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 4.27",
+  "question": "Name each molecular compound: (a) CO; (b) N 2 O; (c) PCl 3 ; (d) N 2 O 3 ; (e) SiCl 4 ; (f) BrF 5 ; (g) S 2 Cl 2 .",
+  "answer": "(a) carbon monoxide (mono- is used on the second element, and \"monooxide\" drops an o). (b) dinitrogen monoxide , commonly called nitrous oxide. (c) phosphorus trichloride . (d) dinitrogen trioxide . (e) silicon tetrachloride . (f) bromine pentafluoride . (g) disulfur dichloride . No name starts with mono-, and every second element ends in -ide.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 4.28",
+  "question": "Write the formula of each compound: (a) carbon tetrabromide; (b) nitrogen dioxide; (c) xenon tetrafluoride; (d) diboron trioxide; (e) iodine monochloride; (f) tetrasulfur tetranitride.",
+  "answer": "(a) CBr 4 . (b) NO 2 . (c) XeF 4 . (d) B 2 O 3 . (e) ICl . (f) S 4 N 4 . The prefixes give the subscripts directly; there are no charges to balance, and S 4 N 4 is not reduced to SN.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 4.29",
+  "question": "What is the name of P 4 O 6 ? A. phosphorus oxide B. tetraphosphorus hexoxide C. diphosphorus trioxide D. phosphorus(III) oxide",
+  "answer": "B. Phosphorus and oxygen are both nonmetals, so the name uses prefixes: tetra- for 4 P and hexa- for 6 O, with the a dropped before \"oxide.\" A leaves out the prefixes, so it does not say which phosphorus oxide this is (P 4 O 10 is also a phosphorus oxide). C is the name of P 2 O 3 . Molecular formulas are never reduced, so the name must match P 4 O 6 . D uses a Roman numeral, which is only for variable-charge metals in ionic compounds.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 4.30",
+  "question": "Which formula and name are correctly matched? A. CO, monocarbon monoxide B. SO 3 , sulfur trioxide C. PCl 5 , phosphorus chloride D. NF 3 , nitrogen(III) fluoride",
+  "answer": "B. One S (no prefix on the first element) and three O (tri-), with the -ide ending. A uses mono- on the first element. CO is carbon monoxide. C is missing the prefix on chlorine: phosphorus pentachloride. (PCl 3 is also a phosphorus chloride.) D uses a Roman numeral on a nonmetal. NF 3 is nitrogen trifluoride.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 4.31",
+  "question": "Air monitoring stations across the San Joaquin Valley measure several of the U.S. EPA's \"criteria\" air pollutants, including ozone (O 3 ), NO 2 , CO, and SO 2 . (a) Name NO 2 , CO, and SO 2 . (b) Which of the four is not a compound? Explain. (c) Nitric oxide, NO, forms in car engines and turns into NO 2 in air. Give the systematic name of NO.",
+  "answer": "(a) NO 2 : nitrogen dioxide . CO: carbon monoxide . SO 2 : sulfur dioxide . (b) Ozone, O 3 , contains only one element (oxygen), so it is a form of the element, not a compound. A compound must contain at least two different elements. (c) Nitrogen monoxide.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 4.32",
+  "question": "Which compound is molecular and correctly named? A. AlCl 3 , aluminum trichloride B. PCl 3 , phosphorus trichloride C. MgCl 2 , magnesium dichloride D. NaCl, sodium monochloride",
+  "answer": "B. Phosphorus and chlorine are both nonmetals, so prefixes are used. A is ionic (aluminum is a metal); its name is aluminum chloride, with no prefix. C is ionic; its name is magnesium chloride. D is ionic; its name is sodium chloride.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 4.33",
+  "question": "Some molecular compounds go by common names. Valley dairies capture methane from manure as biogas; ammonia is applied as a fertilizer; and 3% hydrogen peroxide is a common disinfectant. (a) Write the formula of each, and of water. (b) How many atoms are in one molecule of each? (c) A student \"simplifies\" H 2 O 2 to HO. Why is that wrong?",
+  "answer": "(a) Methane, CH 4 . Ammonia, NH 3 . Hydrogen peroxide, H 2 O 2 . Water, H 2 O . (b) CH 4 : 5 atoms. NH 3 : 4 atoms. H 2 O 2 : 4 atoms. H 2 O: 3 atoms. (c) A molecular formula gives the actual atoms in one molecule. A hydrogen peroxide molecule really contains 2 H and 2 O atoms, so its formula is never reduced.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 4.34",
+  "question": "A student names N 2 O 4 \"nitrogen dioxide,\" reasoning that 2 : 4 reduces to 1 : 2, and names SiO 2 \"monosilicon dioxide.\" Correct both names and explain each mistake.",
+  "answer": "N 2 O 4 is dinitrogen tetroxide (or tetraoxide). Molecular formulas are not reduced: N 2 O 4 and NO 2 are different molecules, and \"nitrogen dioxide\" is the name of NO 2 . SiO 2 is silicon dioxide . Mono- is never used on the first element.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 4.35",
+  "question": "Name each acid: (a) HI(aq); (b) H 2 SO 4 ; (c) H 2 SO 3 ; (d) HClO 4 ; (e) H 2 S(aq); (f) HC 2 H 3 O 2 ; (g) HIO 4 .",
+  "answer": "(a) Anion I &minus; , iodide: hydroiodic acid . (b) Anion SO 4 2&minus; , sulfate: sulfuric acid (the root is lengthened to sulfur-). (c) Anion SO 3 2&minus; , sulfite: sulfurous acid . (d) Anion ClO 4 &minus; , perchlorate: perchloric acid . (e) Anion S 2&minus; , sulfide: hydrosulfuric acid . (f) Anion C 2 H 3 O 2 &minus; , acetate: acetic acid , the acid in vinegar. (g) Anion IO 4 &minus; , periodate (one more O than iodate, IO 3 &minus; ): periodic acid , pronounced \"per-iodic.\" Only (a) and (e) have no oxygen, so only they get hydro-.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 4.36",
+  "question": "Write the formula of each acid: (a) hydrochloric acid; (b) phosphoric acid; (c) carbonic acid; (d) hypobromous acid; (e) oxalic acid; (f) iodic acid.",
+  "answer": "(a) hydro-...-ic from chloride, Cl &minus; : HCl(aq) . (b) -ic from phosphate, PO 4 3&minus; ; three H + cancel 3&minus;: H 3 PO 4 . (c) -ic from carbonate, CO 3 2&minus; : H 2 CO 3 . (d) hypo-...-ous from hypobromite, BrO &minus; : HBrO . (e) from oxalate, C 2 O 4 2&minus; : H 2 C 2 O 4 . (f) -ic from iodate, IO 3 &minus; : HIO 3 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 4.37",
+  "question": "What is the name of H 2 SO 3 ? A. sulfuric acid B. sulfurous acid C. hydrosulfurous acid D. hydrosulfuric acid",
+  "answer": "B. The anion is SO 3 2&minus; , sulfite. An -ite ion becomes an -ous acid: sulfurous acid. A is H 2 SO 4 , from sulfate (-ate &rarr; -ic). C adds hydro- to an oxyacid. Hydro- is only for acids with no oxygen. D is H 2 S(aq), the binary acid from sulfide.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 4.38",
+  "question": "When bleach dissolves in water, the main germ-killing species is an acid with the formula HClO. Some wound-care solutions also contain it. What is its name? A. chloric acid B. chlorous acid C. hypochlorous acid D. hydrochloric acid",
+  "answer": "C. The anion ClO &minus; is hypochlorite. The -ite ending becomes -ous, and the prefix hypo- stays: hypochlorous acid. A is HClO 3 , from chlorate. B is HClO 2 , from chlorite. D is HCl(aq), from chloride; it has no oxygen.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 4.39",
+  "question": "Bromine forms the same family of oxyanions as chlorine. For each anion, give the formula and name of its acid: (a) bromide; (b) bromate; (c) bromite; (d) hypobromite; (e) perbromate.",
+  "answer": "(a) Br &minus; : HBr(aq), hydrobromic acid . (b) BrO 3 &minus; : HBrO 3 , bromic acid . (c) BrO 2 &minus; : HBrO 2 , bromous acid . (d) BrO &minus; : HBrO, hypobromous acid . (e) BrO 4 &minus; : HBrO 4 , perbromic acid . All five anions are 1&minus;, so every acid has one H.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 4.40",
+  "question": "(a) Vinegar contains acetic acid. Write the formulas of acetic acid and of the acetate ion. Acetic acid has 4 H atoms in all; why is only one of them written in front? (b) Spinach contains oxalic acid, and calcium oxalate is the most common compound in kidney stones. Write the formulas of oxalic acid and calcium oxalate, and count the atoms in one formula unit of calcium oxalate.",
+  "answer": "(a) Acetic acid is HC 2 H 3 O 2 (also written CH 3 COOH), and acetate is C 2 H 3 O 2 &minus; . Only the H written in front is released as H + ; the other 3 H atoms are part of the acetate ion. Acetate has a 1&minus; charge, so the acid has one H + . (b) Oxalate is C 2 O 4 2&minus; , so oxalic acid is H 2 C 2 O 4 and calcium oxalate (Ca 2+ with C 2 O 4 2&minus; ) is CaC 2 O 4 : Ca 1, C 2, O 4, 7 atoms .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 4.41",
+  "question": "Find and fix the error in each acid name: (a) H 3 PO 4 , \"hydrophosphoric acid\"; (b) pure HCl gas, \"hydrochloric acid\"; (c) HNO 2 , \"nitric acid\"; (d) H 2 CO 3 , \"carbonous acid.\"",
+  "answer": "(a) It is an oxyacid, so there is no hydro-: phosphoric acid (from phosphate). (b) Without water it is not an acid solution: hydrogen chloride . Only HCl(aq) is hydrochloric acid. (c) NO 2 &minus; is nitrite, and -ite becomes -ous: nitrous acid . Nitric acid is HNO 3 . (d) CO 3 2&minus; is carbonate, and -ate becomes -ic: carbonic acid .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 4.42",
+  "question": "An oxyacid has the formula H 3 XO 4 and a name that ends in \"-ic acid.\" What are the charge and the name ending of its anion, XO 4 ? A. 3&minus;; the anion name ends in -ate B. 3&minus;; the anion name ends in -ite C. 3+; the anion name ends in -ate D. 4&minus;; the anion name ends in -ide",
+  "answer": "A. Three H + cancel the anion's charge, so it is 3&minus;. An -ic acid comes from an -ate ion. (Phosphoric acid, H 3 PO 4 , from phosphate, PO 4 3&minus; , fits this pattern.) B has the right charge but the wrong ending: an -ite ion gives an -ous acid. C has the wrong sign. The H + ions are positive, so the anion must be negative. D confuses the 4 oxygen atoms with the charge, and an -ide ion contains no oxygen and gives a hydro-...-ic acid.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 4.43",
+  "question": "Classify each compound (ionic, molecular, or acid) and name it: (a) NaClO, household bleach; (b) H 2 O 2 ; (c) N 2 O; (d) KMnO 4 , used in some well-water treatment systems; (e) Cu(OH) 2 ; (f) HNO 3 ; (g) PF 5 ; (h) NH 4 Cl.",
+  "answer": "(a) Ionic, fixed-charge metal: sodium hypochlorite . (b) Molecular, common name: hydrogen peroxide . (c) Molecular: dinitrogen monoxide (nitrous oxide). (d) Ionic, fixed-charge metal: potassium permanganate . (e) Ionic, variable-charge metal: 2 OH &minus; = 2&minus;, so Cu 2+ : copper(II) hydroxide (cupric hydroxide). (f) Acid, from nitrate: nitric acid . (g) Molecular: phosphorus pentafluoride . (h) Ionic, ammonium cation: ammonium chloride .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 4.44",
+  "question": "Write the formula of each compound: (a) sodium hypochlorite; (b) sulfur tetrafluoride; (c) mercuric chloride; (d) hydrobromic acid; (e) potassium dichromate; (f) aluminum hydroxide, an antacid ingredient; (g) chlorous acid; (h) sodium peroxide.",
+  "answer": "(a) Na + , ClO &minus; : NaClO . (b) Prefixes, molecular: SF 4 . (c) Mercuric = mercury(II), Hg 2+ , with 2 Cl &minus; : HgCl 2 . (Mercurous chloride, mercury(I), would be Hg 2 Cl 2 .) (d) From bromide: HBr(aq) . (e) 2 K + , Cr 2 O 7 2&minus; : K 2 Cr 2 O 7 . (f) Al 3+ , 3 OH &minus; : Al(OH) 3 . (g) -ous from chlorite, ClO 2 &minus; : HClO 2 . (h) 2 Na + , O 2 2&minus; : Na 2 O 2 . Do not reduce it to NaO: O 2 2&minus; is a polyatomic ion, and its subscript never changes.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 4.45",
+  "question": "Which compound is named with Greek prefixes? A. K 2 O B. Cl 2 O C. Cu 2 O D. Na 2 O 2",
+  "answer": "B. Chlorine and oxygen are both nonmetals, so Cl 2 O is molecular: dichlorine monoxide. A is ionic (potassium is a metal): potassium oxide. C is ionic: one O 2&minus; over two Cu gives Cu + , copper(I) oxide (cuprous oxide). It uses a Roman numeral, not a prefix. D is ionic: sodium peroxide.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 4.46",
+  "question": "Each of these contains sulfur and oxygen. Name each one and say whether it is a molecule, a polyatomic ion, an ionic compound, or an acid: (a) SO 3 ; (b) SO 3 2&minus; ; (c) Na 2 SO 3 ; (d) H 2 SO 3 ; (e) NaHSO 3 , a food preservative.",
+  "answer": "(a) Neutral, nonmetals only: a molecule, sulfur trioxide . (b) Has a charge: a polyatomic ion, sulfite . (c) Metal first: an ionic compound, sodium sulfite . (d) Starts with H: an acid, sulfurous acid (sulfite &rarr; -ous). (e) Metal first: an ionic compound of Na + and HSO 3 &minus; , sodium hydrogen sulfite , or sodium bisulfite .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 4.47",
+  "question": "Which formula and name are correctly matched? A. FeO, iron oxide B. NO, nitrogen monoxide C. Na 2 S, disodium sulfide D. HClO 4 , hydroperchloric acid",
+  "answer": "B. NO is molecular (two nonmetals): one N, no prefix, and one O, mono-. Its common name is nitric oxide. A needs the iron charge: one O 2&minus; means Fe 2+ , so iron(II) oxide (ferrous oxide). C is ionic, so no prefixes: sodium sulfide. D is an oxyacid, so no hydro-: perchloric acid.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 4.48",
+  "question": "For each name, state the clue that tells you the type of compound, and write the formula: (a) tin(II) chloride; (b) sulfur dioxide; (c) hydrofluoric acid; (d) ammonium nitrate; (e) chromous chloride.",
+  "answer": "(a) Roman numeral: ionic, variable-charge metal. Sn 2+ and 2 Cl &minus; : SnCl 2 . (b) Greek prefix: molecular. SO 2 . (c) The word \"acid\" with hydro-: a binary acid from fluoride. HF(aq) . (d) \"Ammonium\" first: ionic. NH 4 NO 3 . (e) An -ous ending on a metal: ionic, the lower charge of chromium, Cr 2+ . CrCl 2 , chromium(II) chloride.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 4.49",
+  "question": "Nitrate from fertilizer and manure is a drinking-water concern in parts of the Valley, partly because the body can convert nitrate to nitrite. (a) Write the formulas of the nitrate and nitrite ions. (b) Name KNO 3 , a fertilizer, and NaNO 2 , used to cure meats. (c) Name the acids HNO 3 and HNO 2 . (d) Write the formula of calcium nitrite.",
+  "answer": "(a) Nitrate, NO 3 &minus; ; nitrite, NO 2 &minus; (one less O, same charge). (b) KNO 3 : potassium nitrate . NaNO 2 : sodium nitrite . (c) HNO 3 : nitric acid (-ate &rarr; -ic). HNO 2 : nitrous acid (-ite &rarr; -ous). (d) Ca 2+ needs two NO 2 &minus; : Ca(NO 2 ) 2 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 4.50",
+  "question": "A student names Co 2 (CO 3 ) 3 \"cobalt(II) carbonate.\" What is the correct name? A. cobalt(III) carbonate B. dicobalt tricarbonate C. cobaltous carbonate D. cobalt(III) carbide",
+  "answer": "A. Three carbonate ions give 3(2&minus;) = 6&minus;, shared by two cobalt ions, so each is Co 3+ : cobalt(III) carbonate (cobaltic carbonate). The student used the subscript 2 as the charge. B uses prefixes, which are not used for ionic compounds. C means cobalt(II), the same mistake as the student's. D changes the anion. CO 3 2&minus; is carbonate, a polyatomic ion that keeps its name.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 4.51",
+  "question": "An element in period 4 has the valence configuration 4s 2 . (a) Identify it, and give the charge of its ion. (b) Write the formulas and names of the compounds it forms with bromide and with hydrogen phosphate. (Calcium hydrogen phosphate is a polishing agent in some toothpastes.)",
+  "answer": "(a) Period 4, two valence electrons in 4s: group 2, calcium . It loses both valence electrons to form Ca 2+ . (b) With Br &minus; : CaBr 2 , calcium bromide. With HPO 4 2&minus; : the charges are equal and opposite, so CaHPO 4 , calcium hydrogen phosphate.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 4.52",
+  "question": "Iron (Z = 26) forms the ions in ferrous sulfate, an iron supplement, and in ferric chloride. (a) How many protons and electrons are in Fe 2+ and in Fe 3+ ? (b) Write the formulas of iron(II) oxide and iron(III) oxide. (c) Which iron ion is in ferrous sulfate?",
+  "answer": "(a) Both have 26 protons , because the proton count identifies iron. Fe 2+ has 26 &minus; 2 = 24 electrons ; Fe 3+ has 26 &minus; 3 = 23 electrons . (b) Fe 2+ and O 2&minus; : FeO . Fe 3+ and O 2&minus; : Fe 2 O 3 . (c) Fe 2+ : ferrous is the lower charge (FeSO 4 , iron(II) sulfate).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 4.53",
+  "question": "An ion has 16 protons and 18 electrons. Which choice identifies the ion and correctly gives the formula of its compound with aluminum? A. S 2&minus; ; Al 2 S 3 B. S 2&minus; ; Al 3 S 2 C. Cl &minus; ; AlCl 3 D. Ar; no compound forms",
+  "answer": "A. 16 protons means sulfur, and 2 more electrons than protons gives a 2&minus; charge: S 2&minus; , sulfide. With Al 3+ , swap-drop gives Al 2 S 3 (aluminum sulfide). Check: 2(3+) + 3(2&minus;) = 0. B identifies the ion correctly but does not swap the charges: 3(3+) + 2(2&minus;) = 5+. C is wrong because chlorine has 17 protons, not 16. D is wrong because argon has 18 protons. A particle with 16 protons is sulfur, whatever its electron count; it only has as many electrons as argon.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 4.54",
+  "question": "Zinc oxide (Z = 30 for zinc) is the white mineral in many sunscreens and diaper creams. (a) How many protons and electrons are in Zn 2+ and in O 2&minus; ? (b) Write the formula of zinc oxide and show that it is neutral. (c) Why does the name \"zinc oxide\" not need a Roman numeral, while \"copper(II) oxide\" does?",
+  "answer": "(a) Zn 2+ : 30 protons, 28 electrons . O 2&minus; (Z = 8): 8 protons, 10 electrons . (b) ZnO . (2+) + (2&minus;) = 0. (c) Zinc forms only Zn 2+ (it is on the fixed-charge list), so \"zinc oxide\" can mean only ZnO. Copper forms both Cu + and Cu 2+ , so the name must say which: CuO is copper(II) oxide and Cu 2 O is copper(I) oxide.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 4.55",
+  "question": "Element Y is in period 2 and has 6 valence electrons. Element M is in period 3, group 13. (a) Identify Y and M and predict the charge of each one's ion. (b) Write the formula and name of the ionic compound they form, and count its atoms. (c) Y also forms a molecular compound with carbon that has two Y atoms per carbon. Name it.",
+  "answer": "(a) Y is oxygen : with 6 valence electrons it gains 2 to reach an octet, forming O 2&minus; . M is aluminum : with 3 valence electrons it loses them all, forming Al 3+ . (b) Swap-drop gives Al 2 O 3 , aluminum oxide : 2 Al + 3 O = 5 atoms. Check: 2(3+) + 3(2&minus;) = 0. (c) CO 2 , carbon dioxide . Carbon and oxygen are both nonmetals, so the name uses prefixes, not charges.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 4.56",
+  "question": "In which compound do both ions have the same electron configuration as neon? A. NaF B. KCl C. MgS D. CaO",
+  "answer": "A. Na + (11 &minus; 1 = 10 electrons) and F &minus; (9 + 1 = 10 electrons) are both isoelectronic with neon, 1s 2 2s 2 2p 6 . The compound is sodium fluoride. B: K + and Cl &minus; both have 18 electrons, like argon (potassium chloride). C: Mg 2+ has 10 electrons (neon), but S 2&minus; has 18 (argon) (magnesium sulfide). D: O 2&minus; has 10 electrons (neon), but Ca 2+ has 18 (argon) (calcium oxide).",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 4.57",
+  "question": "Without the green sheet, use the T43 pattern to give the formula and charge of (a) the arsenate ion and (b) the tellurate ion. Then write the formulas of (c) potassium arsenate and (d) aluminum tellurate.",
+  "answer": "(a) As is in the \"4\" (group 15): 4 O atoms and the group 15 charge, AsO 4 3&minus; (it looks like phosphate, right above it). (b) Te is in the \"4\" (group 16): TeO 4 2&minus; (like sulfate). (c) K + and AsO 4 3&minus; : K 3 AsO 4 . One arsenate, so no parentheses. (d) Al 3+ and TeO 4 2&minus; : Al 2 (TeO 4 ) 3 . Check: 2(3+) + 3(2&minus;) = 0.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 4.58",
+  "question": "What is the formula of cobalt(III) oxide? A. CoO 3 B. Co 3 O C. Co 2 O 3 D. CoO",
+  "answer": "C. The Roman numeral is the charge: Co 3+ . Oxide is O 2&minus; . Swap-drop gives Co 2 O 3 . Check: 2(3+) + 3(2&minus;) = 0. A treats the numeral III as a subscript on oxygen; CoO 3 would need Co 6+ . B puts the numeral on cobalt as a subscript; three Co 3+ and one O 2&minus; give 7+, not 0. D is cobalt(II) oxide, Co 2+ with O 2&minus; .",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 4.59",
+  "question": "Which formula is written correctly? A. K 2 (CO 3 ), potassium carbonate B. Mg(NO 3 ) 2 , magnesium nitrate C. Ba(Cl) 2 , barium chloride D. Sn 2 (SO 4 ) 4 , tin(IV) sulfate",
+  "answer": "B. Mg 2+ needs two NO 3 &minus; ions, so the nitrate is in parentheses with a 2 outside. A has the right atoms, but parentheses are used only when the polyatomic ion's subscript is 2 or more. Write K 2 CO 3 . C puts parentheses around a single atom. Parentheses are only for polyatomic ions: BaCl 2 . D was not reduced. The outside subscripts 2 and 4 share a factor of 2: Sn(SO 4 ) 2 .",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 4.60",
+  "question": "A student names Sn(SO 4 ) 2 by moving each subscript back up as a charge (\"reverse swap-drop\"). What is the correct charge on tin, and the correct name? A. Sn 2+ ; tin(II) sulfate B. Sn 4+ ; tin(IV) sulfate C. Sn 2+ ; tin disulfate D. Sn 4+ ; tin(II) sulfate",
+  "answer": "B. Start from the ion you know: sulfate is always SO 4 2&minus; . Two sulfates carry 2(2&minus;) = 4&minus;, so the single tin ion is Sn 4+ , tin(IV) sulfate. The formula was reduced from Sn 2 (SO 4 ) 4 . A is what un-swapping gives. It would also make sulfate 1&minus;, which it never is. C uses a prefix; ionic compounds never use di-, and the charge is wrong. D has the right charge but the wrong numeral; the numeral must match the charge, IV.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 4.61",
+  "question": "Classify each as an acid or a base, then name it: (a) RbOH; (b) Mg(OH) 2 ; (c) HBrO; (d) HBrO 3 . (e) Write the formula of cesium hydroxide.",
+  "answer": "(a) OH in back: base, rubidium hydroxide . (b) Base, magnesium hydroxide (milk of magnesia); no prefix, even though there are two hydroxides. (c) H in front: acid. The anion BrO &minus; is hypobromite (two fewer O than bromate), so the acid is hypobromous acid . (d) Acid from bromate, BrO 3 &minus; : bromic acid . (e) Cs + and OH &minus; : CsOH .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 61,
+  "title": "Problem 4.62",
+  "question": "Some humidity indicator cards contain cobalt(II) chloride, which is pink as the hexahydrate and blue when it is anhydrous. (a) Write the formula of cobalt(II) chloride hexahydrate. (b) What does \"anhydrous\" mean, and what is the formula of the anhydrous compound? (c) A classmate finds the molar mass of the hexahydrate by multiplying the mass of CoCl 2 by the mass of 6H 2 O. What is wrong?",
+  "answer": "(a) Co 2+ and two Cl &minus; , plus six waters: CoCl 2 &middot;6H 2 O . (b) \"Without water\": the waters have been driven off, leaving CoCl 2 . (c) The dot is not a multiplication sign. The molar mass is the mass of CoCl 2 plus the mass of six water molecules (Section 5.2).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 62,
+  "title": "Problem 4.63",
+  "question": "A bottle in the stockroom is labeled MnSO 4 . What is its correct name? A. magnesium sulfate B. manganese sulfate C. manganese(II) sulfate D. magnesium(II) sulfate",
+  "answer": "C. Mn is manganese, a transition metal that forms more than one ion, so it needs a Roman numeral. Sulfate is 2&minus;, so the manganese is 2+: manganese(II) sulfate. A and D name the wrong metal. Magnesium is Mg (MgSO 4 , the electrolyte Mateo received by IV (intravenously)), and as a group 2 metal it never takes a numeral, so D is wrong twice. B is the right metal, but leaving off the numeral does not say which manganese ion is present.",
+  "mc": true,
+  "terse_answer": false
+ }
+]

@@ -1,0 +1,667 @@
+[
+ {
+  "file": "drafts/ch02/2.1_atomic_theory.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Look at Dalton's point about what happens to atoms in a chemical reaction. If no atoms appear or vanish, what must be true of the total mass?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.1_atomic_theory.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Think about Rutherford's conclusion: where is nearly all of the atom's mass, and how much of the atom's volume does that region take up?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.1_atomic_theory.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Change the percent carbon to a decimal (divide by 100), then multiply by the sample mass. By the law of definite proportions, every sample has the same percent carbon.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.1_atomic_theory.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Dalton's second point says atoms of different elements differ. Compare how the two metals behave, not how they look: what happens when each meets water?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.1_atomic_theory.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Divide the atom's width by the nucleus's width; both are in pm, so the units cancel. Round to the significant figures of the given values.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.2_subatomic_particles.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Find magnesium's atomic number on the periodic table. In a neutral atom, how do the electrons compare with the protons?",
+  "why": "The atomic number gives the protons, and a neutral atom has as many electrons as protons, so both equal Z."
+ },
+ {
+  "file": "drafts/ch02/2.2_subatomic_particles.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Use the table of subatomic particles in this section: check the charge column and the mass (amu) column for each particle.",
+  "why": "The neutron has charge 0, the electron is only about 0.00055 amu, and the proton carries the 1+ charge."
+ },
+ {
+  "file": "drafts/ch02/2.2_subatomic_particles.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "The proton count is the atomic number, which names the element. For a neutral atom, electrons equal protons.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.2_subatomic_particles.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "(a) Which number on the tile is the atomic number? (b) Is the decimal number a count of particles or an average mass? Particles come in whole numbers.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.3_periodic_table.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Count to the second column and down to the third row. Which named family is group 2?",
+  "why": "Group 2 is the alkaline earth metals, and magnesium sits in period 3 of that column."
+ },
+ {
+  "file": "drafts/ch02/2.3_periodic_table.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Halogens are the group 17 family. Find each element's column on the periodic table.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.3_periodic_table.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Break the word apart: hypo- means low and -emia means blood. The middle root is a Latin element name; check the Latin-name table in 2.3.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.3_periodic_table.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Mendeleev stacked elements by repeating properties. How do fluorine and chlorine behave alike, and where must a new row start to put them in one column?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.3_periodic_table.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "The first letter of a symbol is a capital and any second letter is lowercase. One element here has a symbol from its Latin name.",
+  "why": "These are among the first 20 elements; potassium's K comes from its Latin name, kalium, and the others come from their English names."
+ },
+ {
+  "file": "drafts/ch02/2.4_ions.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Protons come from the atomic number. Electrons = protons &minus; charge, so a 2+ ion has fewer electrons than protons and a 1&minus; ion has more.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.4_ions.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "The proton count names the element. Then charge = protons &minus; electrons.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.4_ions.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "A metal cation keeps the element's name plus \"ion.\" A nonmetal anion takes the root of the element's name plus -ide.",
+  "why": "Anions take the root plus -ide (fluor- &rarr; fluoride, sulf- &rarr; sulfide), while a metal cation keeps the element's name, as in potassium ion."
+ },
+ {
+  "file": "drafts/ch02/2.4_ions.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Use \"the steps\" from this section for these three fixed-charge metals: start at aluminum and walk down. Then electrons = Z &minus; charge.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.4_ions.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Does a plus sign mean electrons were gained or lost? Use charge = protons &minus; electrons with copper's atomic number.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.5_isotopes.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Z gives the protons (and the electrons in a neutral atom). The number after the hyphen is the mass number A, so neutrons = A &minus; Z.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.5_isotopes.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "The proton count names the element. The mass number is protons + neutrons; write it as a superscript and Z as a subscript on the left.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.5_isotopes.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Read Z (the subscript) for protons. A 2+ charge means electrons were lost, so electrons = protons &minus; charge.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.5_isotopes.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "First find oxygen's usual ion charge from its group. The mass number changes only the neutrons (A &minus; Z); the charge changes only the electrons.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.5_isotopes.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Start with the fingerprint: the proton count names the element. Then A = protons + neutrons and charge = protons &minus; electrons.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.6_atomic_mass.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Change each percent to a decimal, multiply by that isotope's mass, and add. Predict first: the two isotopes are nearly equally abundant, so where should the answer fall?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.6_atomic_mass.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Compare the average with the two mass numbers. A weighted average is pulled toward the more abundant isotope.",
+  "why": "A weighted average sits closest to the most abundant isotope, and 6.94 is much closer to 7 than to 6."
+ },
+ {
+  "file": "drafts/ch02/2.6_atomic_mass.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Use (fraction &times; mass) + (fraction &times; mass), dividing each percent by 100. The answer must land between the two masses, closer to the more abundant isotope.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.6_atomic_mass.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "(a) The two percents must add to 100%. (b) Change both percents to decimals, multiply each by its isotope mass, and add.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 2.1",
+  "hint": "Section 2.5 shows that atoms of one element can have different numbers of neutrons. Which statement does that discovery contradict?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 2.2",
+  "hint": "(a) Percent Mg = mass of Mg &divide; (mass of Mg + mass of O) &times; 100%. (b) Compare the two percents. (c) Use the same oxygen-to-magnesium mass ratio.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 2.3",
+  "hint": "(a) For each gas, divide grams of oxygen by grams of carbon. (b) For the same 3.00 g of carbon, compare the two oxygen masses: what simple ratio do you get?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 2.4",
+  "hint": "Opposite charges attract (Section 1.7). What charge must the beam carry to be pulled toward a positive plate?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 2.5",
+  "hint": "(a) Divide the first row by the 80,000 total and multiply by 100%. (b) Add the last two rows and divide by the total. (c) If positive charge were spread thinly, could it ever turn an alpha particle sharply? (d) What must the atom be like for most particles to pass straight through, and a few to bounce straight back?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 2.6",
+  "hint": "Match each piece of evidence to its experiment (mass ratios, high-voltage tube, gold foil, a neutral particle), then ask what new idea that evidence gave.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 2.7",
+  "hint": "Recall the nuclear model in three sentences: where is the mass, and how much of the volume does the nucleus fill? One choice is the plum pudding model.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 2.8",
+  "hint": "Use the subatomic-particle table in 2.2: check each particle's mass, charge, and location. Some descriptions fit two particles.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 2.9",
+  "hint": "In a neutral atom, protons = electrons = Z. Take only the symbol and Z from the periodic table; one number fills in the rest of each row.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 2.10",
+  "hint": "Which count never changes when an atom becomes an ion or a different isotope? See \"Key Idea: Never Change the Protons\" in 2.2.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 2.11",
+  "hint": "Multiply each particle's mass by how many there are (counts are exact), add the three totals, then find electron mass &divide; total &times; 100%.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 2.12",
+  "hint": "(a) (b) Divide the proton mass by the electron mass, in each unit. (c) Count the significant figures in each electron mass you divided by.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 2.13",
+  "hint": "Read each atomic number from the periodic table; in a neutral atom, electrons = protons = Z. Then compare the six Z values.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 2.14",
+  "hint": "Which reference atom is the amu scale built on? Two choices are close in value but are not the definition (see 2.2).",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 2.15",
+  "hint": "Check each symbol against the Latin-name table in 2.3. Which pair matches neither the English name nor the Latin name?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 2.16",
+  "hint": "(a) Watch the Latin-based symbols and the Mg/Mn mix-up. (b) Two capital letters mean two elements, a compound. (c) Recall the capital-then-lowercase rule.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 2.17",
+  "hint": "Find each element's column (group 1&ndash;18) and row (period). Metalloids sit on the staircase; transition elements are in groups 3&ndash;12.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 2.18",
+  "hint": "All four choices are in period 4, so only the group decides. Which group number belongs to the halogens?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 2.19",
+  "hint": "(a) Locate N, P, and K by column and row; metals are left of the staircase. (b) Same column means similar properties. (c) (d) Latin-name table, then electrons = Z &minus; charge.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 2.20",
+  "hint": "Split each term into prefix, element root, and -emia. Match each root to an element, using the Latin-name table in 2.3 for roots unlike the English name.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 2.21",
+  "hint": "(a) Find helium's column, row, and family name. (b) Compare a noble gas with the diatomic seven of 1.5. (c) Are the gases chemically joined, and is the blend uniform?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 2.22",
+  "hint": "Metalloids sit along the staircase line between the metals and nonmetals. Check every element in each set on the periodic table; one element off the staircase rules a set out.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 2.23",
+  "hint": "Locate each by group and period. Parts (b) and (d) are the two liquids named in 2.3; for (e), look on the staircase in group 16.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 2.24",
+  "hint": "(a) Find arsenic on the table and check the staircase. (b) Use 1 mg = 1000 &micro;g as a conversion factor. (c) Compare the two values in the same unit.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 2.25",
+  "hint": "A cation is a positive ion. Which particles can an atom gain or lose when it forms an ion, and which change leaves the charge positive?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 2.26",
+  "hint": "Use protons = Z, electrons = protons &minus; charge, and charge = protons &minus; electrons. Name metal cations \"___ ion\" and nonmetal anions with -ide.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 2.27",
+  "hint": "(a) Group 1 metals lose one electron; group 17 gains one. (b) Electrons = Z &minus; charge. (c) Use the Chapter 1 sig-fig rules, including captive zeros. (d) Compare each with its range.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 2.28",
+  "hint": "Use the group pattern from 2.4: group 1 is 1+, group 2 is 2+, group 16 is 2&minus;, group 17 is 1&minus;. Check each choice's group.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 2.29",
+  "hint": "Electrons = Z &minus; charge for each ion. (c) Compare the three electron counts. (d) Check the group-charge table in 2.4: does group 14 have one predictable charge?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 2.30",
+  "hint": "Electrons = Z &minus; charge; a 1&minus; charge adds an electron. Compare the counts, then find the noble gas with that many electrons. Same charge does not mean same Z.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 2.31",
+  "hint": "Count the electrons for every species with electrons = Z &minus; charge, then look for the pair whose counts match.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 2.32",
+  "hint": "Rearrange charge = protons &minus; electrons to protons = electrons + charge. The proton count names the element.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 2.33",
+  "hint": "(a) Positive or negative? (b) Opposite charges attract (1.7). (c) Electrons = Z &minus; charge. (d) Like charges repel: would negative clay hold a negative ion?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 2.34",
+  "hint": "Find potassium's Z for the proton count, then electrons = protons &minus; charge. Protons never change when an ion forms, and cats have paws.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 2.35",
+  "hint": "For each, ask: does a plus mean electrons lost or gained? Do protons ever change? Is the anion's name the element's name or the -ide name?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 2.36",
+  "hint": "(a) Electrons = Z &minus; charge. (b) Is it positive? (c) Groups 3&ndash;12 are transition elements. (d) Check the Latin-name table in 2.3.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 2.37",
+  "hint": "Use the three rules: protons = Z; neutrons = A &minus; Z; electrons = protons &minus; charge. Find each row's fingerprint (protons or symbol) first.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 2.38",
+  "hint": "(a) Iodine's Z gives protons and electrons; neutrons = A &minus; Z. (b) (c) Which particles decide chemical behavior: electrons or neutrons?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 2.39",
+  "hint": "(a) Find technetium's Z; neutrons = A &minus; Z. (b) Does the \"m\" change the mass number? (c) Locate Tc by column and row; groups 3&ndash;12 are transition elements.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 2.40",
+  "hint": "(a) Find xenon's Z, then neutrons = A &minus; Z. (b) What is group 18 called, and how reactive is it? (c) Chemistry depends on electrons; do isotopes differ in electrons?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 2.41",
+  "hint": "Isotopes share Z (same protons) but differ in neutrons. Check each pair: same element? Different mass number? Single atoms, not molecules or ions?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 2.42",
+  "hint": "Protons = Z (the subscript), neutrons = A &minus; Z, and a 2&minus; charge means electrons were gained. The charge never changes the neutrons.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 2.43",
+  "hint": "Z gives protons; neutrons = A &minus; Z. For (c), what decides chemical behavior? For (d), which molecule (DNA or protein) carried the label that got inside?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 2.44",
+  "hint": "(a) Neutrons = A &minus; Z for each. (b) Isotopes have the same protons and electrons. (c) Density = mass &divide; volume: which one changes?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 2.45",
+  "hint": "Start from the fingerprint: protons (or electrons, in a neutral atom) name the element. Then A = protons + neutrons.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 2.46",
+  "hint": "(a) Compare protons and neutrons. (b) Isotopes differ in mass; what instrument sorts particles by mass (2.6)? (c) Which source tends to have more nitrogen-15, and can ranges overlap?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 2.47",
+  "hint": "(a) Which isotope makes up most of natural boron? (b) Change percents to decimals, multiply each by its mass, and add. (c) Neutrons = A &minus; Z.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 2.48",
+  "hint": "(a) More atoms means a taller peak. (b) Fraction &times; mass for each, then add. (c) Find the element whose atomic mass matches. (d) Neutrons = A &minus; Z.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 2.49",
+  "hint": "(a) Add three fraction &times; mass terms; 0.0117% becomes 0.000117. (b) Compare that one product with the total. (c) Neutrons = A &minus; Z.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 2.50",
+  "hint": "(a) Change percents to decimals, multiply, and add. (b) Thallium's Z gives protons; neutrons = A &minus; Z. (c) Is thallium-201 part of natural thallium?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 2.51",
+  "hint": "Find the midpoint of the two mass numbers. Is the average above or below it? The average is pulled toward the more abundant isotope.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 2.52",
+  "hint": "Find the midpoint of each pair of mass numbers. The average falls on the side of the more common isotope; the farther from the midpoint, the larger the majority.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 2.53",
+  "hint": "(a) Substitute into average = (1 &minus; x)(mass of Eu-151) + x(mass of Eu-153), then collect the x terms. (b) Multiply by 100%. (c) Compare the average with each actual isotope mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 2.54",
+  "hint": "Each rubidium atom is either rubidium-85 or rubidium-87. Can one atom have a mass between them? Is a mass number ever a decimal?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 2.55",
+  "hint": "(a) Multiply amu by the grams-per-amu factor. (b) Use the mass of one atom as a conversion factor (1 atom per that many grams). (c) Z, then A &minus; Z.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 2.56",
+  "hint": "For each, ask: one kind of atom or more? Chemically joined in a fixed ratio? Made of ions, molecules, or neutral atoms? If a mixture, is it uniform?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 2.57",
+  "hint": "(a) Multiply the marble's width by 100,000, then convert cm to m and m to km. (b) Compare the nucleus's size with the space around it.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 2.58",
+  "hint": "(a) Chloride is 1&minus; with Z = 17; neutrons = A &minus; Z. (b) Take 24.23% of 102 mmol/L. (c) Does chemistry depend on neutrons or on electrons?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 2.59",
+  "hint": "Use protons = Z, neutrons = A &minus; Z, and electrons = protons &minus; charge for each. Remember that isotopes must have the same number of protons.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 2.60",
+  "hint": "Use charge = protons &minus; electrons for sulfur (Z = 16) after it gains two electrons. Does gaining electrons change the mass number?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 2.61",
+  "hint": "Use \"the steps\" from 2.4: start at aluminum on the top step and walk down the diagonal, one charge lower each step.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 61,
+  "title": "Problem 2.62",
+  "hint": "Mendeleev started a new row whenever properties repeated. How does potassium behave compared with sodium?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 62,
+  "title": "Problem 2.63",
+  "hint": "Find each row's fingerprint (protons or symbol) first, then use A = protons + neutrons and charge = protons &minus; electrons. Use the given A, not the table's decimal mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 63,
+  "title": "Problem 2.64",
+  "hint": "(a) Which count never changes when an ion forms? What is the decimal on the tile? (b) Protons = Z, neutrons = A &minus; Z, electrons = protons &minus; charge.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 64,
+  "title": "Problem 2.65",
+  "hint": "(a) The three percents must add to 100%: subtract both given values. (b) Change each percent to a decimal, multiply by its mass, and add all three.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 65,
+  "title": "Problem 2.66",
+  "hint": "(a) Add the masses and divide by 2. (b) Multiply each fraction by its mass and add. (c) Which average counts how common each isotope is?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 66,
+  "title": "Problem 2.67",
+  "hint": "(a) Find americium's Z; neutrons = A &minus; Z. (b) Electrons = protons &minus; charge works for any element. (c) Cats have paws.",
+  "why": ""
+ }
+]

@@ -640,7 +640,7 @@
   "y": [
    "The diagonal method gives 1s 2s 2p 3s 3p <b>4s</b> 3d 4p: 4s is lower in energy than 3d, so it fills first.",
    "3d comes after 4s; this is the most common filling-order mistake.",
-   "4p comes after both 4s and 3d.",
+   "4p comes after both 4s and 3d. Follow the filling order 3s 3p 4s 3d 4p; the subshell right after 3p is the next one on that list.",
    "There is no 3f subshell: shell 3 has only 3s, 3p and 3d."
   ],
   "h": "Use the diagonal method; the order is not simply shell by shell.",

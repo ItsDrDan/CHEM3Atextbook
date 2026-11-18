@@ -326,8 +326,8 @@
   ],
   "y": [
    "Correct: 26.98 + 3(15.999) + 3(1.008) = 78.001 &rarr; 78.00 g/mol (2 decimal places, from Al).",
-   "This applies the 3 only to H.",
-   "This applies the 3 only to O.",
+   "This applies the 3 only to H. The subscript outside the parentheses multiplies everything inside, so count 3 O and 3 H.",
+   "This applies the 3 only to O. The subscript outside the parentheses multiplies everything inside, so count 3 O and 3 H.",
    "The sum is right but must be rounded to 2 decimal places; the trailing zero in 78.00 is significant."
   ],
   "h": "The 3 after the parentheses multiplies both O and H.",
@@ -516,7 +516,7 @@
   "y": [
    "Correct: 1.00 &times; 10<sup>20</sup> &divide; N<sub>A</sub> = 1.661 &times; 10<sup>&minus;4</sup> mol; &times; 194.194 g/mol = 0.03225 g = 32.2 mg.",
    "This is the mass in grams labeled mg. Multiply by 1000 to get mg.",
-   "This stops at moles.",
+   "This stops at moles, and the answer asks for milligrams. Multiply the moles by 194.194 g/mol, then convert grams to mg.",
    "This divides by the molar mass in the second step."
   ],
   "h": "Molecules &rarr; moles &rarr; grams &rarr; milligrams.",
@@ -558,7 +558,7 @@
   "y": [
    "Correct: 2.50 g &divide; 31.998 g/mol = 0.07813 mol O<sub>2</sub>; &times; 6.0221 &times; 10<sup>23</sup>.",
    "This uses 15.999 g/mol (O atoms) for O<sub>2</sub> molecules, which doubles the count.",
-   "This stops at moles.",
+   "This stops at moles. Multiply the moles of O<sub>2</sub> by Avogadro's number, 6.0221 &times; 10<sup>23</sup>, to count molecules.",
    "This skips the molar mass; grams must become moles first."
   ],
   "h": "The gas is O<sub>2</sub> molecules: use 31.998 g/mol.",
@@ -621,7 +621,7 @@
   "y": [
    "Correct: 1.00 mg = 1.00 &times; 10<sup>&minus;3</sup> g; &divide; 227.085 g/mol = 4.404 &times; 10<sup>&minus;6</sup> mol; &times; N<sub>A</sub>.",
    "This skips mg &rarr; g, so it is 1000 times too large.",
-   "This stops at moles.",
+   "This stops at moles. Multiply the moles by Avogadro's number, 6.0221 &times; 10<sup>23</sup>, to count molecules.",
    "This multiplies by the molar mass instead of dividing."
   ],
   "h": "mg &rarr; g &rarr; mol &rarr; molecules.",
@@ -663,7 +663,7 @@
   "y": [
    "Correct: NH<sub>4</sub>NO<sub>3</sub> has 2 N (one in NH<sub>4</sub><sup>+</sup>, one in NO<sub>3</sub><sup>&minus;</sup>): 0.150 mol N &times; N<sub>A</sub>.",
    "This counts only one N per formula unit. Look in both ions.",
-   "This stops at moles of N.",
+   "This stops at moles of N. Multiply the moles of N by Avogadro's number, 6.0221 &times; 10<sup>23</sup>, to count atoms.",
    "This divides by 2, the ratio upside down."
   ],
   "h": "Find N in both the cation and the anion.",
@@ -725,7 +725,7 @@
   ],
   "y": [
    "Correct: 3 Na<sup>+</sup> + 1 PO<sub>4</sub><sup>3&minus;</sup> = 4 ions per formula unit.",
-   "This counts only the sodium ions.",
+   "This counts only the sodium ions. Each Na<sub>3</sub>PO<sub>4</sub> gives 3 Na<sup>+</sup> and 1 PO<sub>4</sub><sup>3&minus;</sup>, so multiply by 4 ions per formula unit.",
    "This counts formula units, not ions.",
    "This splits phosphate into 1 P and 4 O. A polyatomic ion stays together as one particle."
   ],
@@ -746,9 +746,9 @@
   ],
   "y": [
    "Correct: 1.49 g &divide; 74.55 g/mol = 0.01999 mol KCl = 0.01999 mol K<sup>+</sup>; &times; N<sub>A</sub>.",
-   "This counts both K<sup>+</sup> and Cl<sup>&minus;</sup>.",
+   "This counts both K<sup>+</sup> and Cl<sup>&minus;</sup>. Each KCl gives one K<sup>+</sup>, so use a 1 : 1 ratio and do not double the count.",
    "This divides by the molar mass of K (39.10) instead of KCl.",
-   "This stops at moles."
+   "This stops at moles. Multiply the moles of K<sup>+</sup> by Avogadro's number, 6.0221 &times; 10<sup>23</sup>, to count ions."
   ],
   "h": "g KCl &rarr; mol KCl &rarr; mol K<sup>+</sup> &rarr; ions.",
   "w": "1.49 g &times; (1 mol / 74.55 g) &times; 6.0221 &times; 10<sup>23</sup> = <b>1.20 &times; 10<sup>22</sup> K<sup>+</sup> ions</b>.",
@@ -768,7 +768,7 @@
   "y": [
    "Correct: 0.100 g I &divide; 126.90 g/mol = 7.880 &times; 10<sup>&minus;4</sup> mol I = mol KI; &times; 166.00 g/mol.",
    "This uses the ratio upside down; the compound must weigh more than the iodine in it.",
-   "This stops at moles of iodine.",
+   "This stops at moles of iodine. Use the 1 mol KI : 1 mol I ratio, then multiply by 166.00 g/mol to get grams of KI.",
    "This treats KI as if it were all iodine."
   ],
   "h": "g I &rarr; mol I &rarr; mol KI &rarr; g KI.",
@@ -788,7 +788,7 @@
   ],
   "y": [
    "Correct: 0.600 mol H<sub>2</sub>O &times; 1 mol O / 1 mol &times; 15.999 g/mol.",
-   "This uses 31.998 (O<sub>2</sub>) for O atoms.",
+   "This uses 31.998 (O<sub>2</sub>) for O atoms. Each H<sub>2</sub>O has one O atom, so use 15.999 g/mol for O.",
    "This is the mass of the whole water sample.",
    "This divides by the molar mass of O instead of multiplying."
   ],
@@ -810,7 +810,7 @@
   "y": [
    "Correct: 5.00 g &divide; 46.069 = 0.1085 mol; &times; 6 mol H/mol = 0.6512 mol H; &times; N<sub>A</sub>.",
    "This counts molecules, not H atoms.",
-   "This stops at moles of H.",
+   "This stops at moles of H. Multiply the moles of H by Avogadro's number, 6.0221 &times; 10<sup>23</sup>, to count atoms.",
    "This misses the H in the OH group; ethanol has 5 + 1 = 6 H."
   ],
   "h": "Count every H in C<sub>2</sub>H<sub>5</sub>OH.",
@@ -831,7 +831,7 @@
   "y": [
    "Correct: Each formula unit is two K<sup>+</sup> and one SO<sub>4</sub><sup>2&minus;</sup>: three ions.",
    "This splits sulfate into 1 S and 4 O. A polyatomic ion stays together as one particle.",
-   "This ignores the subscript 2 on K.",
+   "This ignores the subscript 2 on K. Each K<sub>2</sub>SO<sub>4</sub> gives 2 K<sup>+</sup> and 1 SO<sub>4</sub><sup>2&minus;</sup>; add them for the total ions.",
    "This forgets to count the sulfate ion."
   ],
   "h": "Use the subscript on K, and treat sulfate as one particle.",

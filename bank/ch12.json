@@ -53,9 +53,9 @@
   ],
   "y": [
    "Pink is the color for pH 3&ndash;4; dissolved carbon dioxide makes seltzer acidic.",
-   "pH 1&ndash;2 gives red, not pink.",
-   "pH 8 gives blue.",
-   "pH 9&ndash;11 gives green."
+   "pH 1&ndash;2 gives red, not pink. Find &ldquo;pink&rdquo; in the color column and read the pH across.",
+   "pH 8 gives blue. Find &ldquo;pink&rdquo; in the color column and read the pH across.",
+   "pH 9&ndash;11 gives green. Find &ldquo;pink&rdquo; in the color column and read the pH across."
   ],
   "h": "Find &ldquo;pink&rdquo; in the color column and read across.",
   "w": "Pink = <b>pH 3&ndash;4, acidic</b>.",
@@ -1126,7 +1126,7 @@
   "y": [
    "[OH<sup>&minus;</sup>] = 2 &times; 3.3 &times; 10<sup>&minus;4</sup> = 6.6 &times; 10<sup>&minus;4</sup> M; pOH = 3.18; pH = 14.00 &minus; 3.18.",
    "This forgets the factor of 2 for Ca(OH)<sub>2</sub>.",
-   "This is the pOH, not the pH.",
+   "This is the pOH, not the pH. After finding pOH from [OH<sup>&minus;</sup>] = 2 &times; 3.3 &times; 10<sup>&minus;4</sup> M, finish with pH = 14.00 &minus; pOH.",
    "A pH this negative is a sign of a dropped minus sign; basic solutions have pH above 7."
   ],
   "h": "Ca(OH)<sub>2</sub> gives two OH<sup>&minus;</sup>; finish with pH = 14.00 &minus; pOH.",
@@ -1190,7 +1190,7 @@
    "pH = &minus;log(7.94 &times; 10<sup>&minus;6</sup>); 3 significant figures give 3 decimal places.",
    "This has 2 decimal places; 7.94 has 3 significant figures.",
    "This leaves out the minus sign in pH = &minus;log[H<sub>3</sub>O<sup>+</sup>].",
-   "This is the pOH, 14 &minus; pH."
+   "This is the pOH, 14 &minus; pH. The question gives [H<sub>3</sub>O<sup>+</sup>], so pH = &minus;log[H<sub>3</sub>O<sup>+</sup>] directly."
   ],
   "h": "Three significant figures in the concentration &rarr; three decimal places in the pH.",
   "w": "&minus;log(7.94 &times; 10<sup>&minus;6</sup>) = <b>5.100</b>.",
@@ -1333,7 +1333,7 @@
   ],
   "y": [
    "Normal arterial pH is 7.35&ndash;7.45; 7.52 is above it, so the blood is too basic: alkalosis.",
-   "Acidosis is a pH <i>below</i> 7.35.",
+   "Acidosis is a pH <i>below</i> 7.35. Compare 7.52 with the normal range 7.35&ndash;7.45; above it is alkalosis.",
    "7.52 is outside the normal range, which ends at 7.45.",
    "Blood is judged against its own normal range, 7.35&ndash;7.45, not against 7.00."
   ],

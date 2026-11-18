@@ -1283,7 +1283,7 @@
    "Volume used = final &minus; initial = 17.40 &minus; 0.85.",
    "This is the final reading, not the volume used. The buret did not start at 0.00 mL.",
    "This adds the readings; subtract the initial reading from the final one.",
-   "This is just the starting reading."
+   "This is just the starting reading. Volume used = final reading &minus; initial reading."
   ],
   "h": "Volume used = final reading &minus; initial reading.",
   "w": "17.40 &minus; 0.85 = <b>16.55 mL</b>.",

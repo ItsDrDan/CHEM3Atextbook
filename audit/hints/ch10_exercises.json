@@ -1,0 +1,821 @@
+[
+ {
+  "file": "drafts/ch10/10.1_kmt.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Why can a large amount of oxygen fit into a small steel cylinder, while the same mass of liquid water cannot be squeezed into a much smaller volume?",
+  "answer": "A gas is mostly empty space, so its particles can be pushed much closer together. In a liquid the molecules already touch, so it hardly compresses.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.1_kmt.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "A rigid, sealed container of gas is cooled. What happens to the speed of the particles and to the pressure?",
+  "answer": "The particles slow down, so they hit the walls less hard and less often; the pressure decreases.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.1_kmt.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "At the same temperature, rank N 2 , H 2 , and Cl 2 from slowest to fastest average speed.",
+  "answer": "Cl 2 (heaviest) &lt; N 2 &lt; H 2 (lightest). All three have the same average kinetic energy.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.1_kmt.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "A rigid box holds 10 gas particles. Using kinetic molecular theory, describe what happens to the pressure if (a) 10 more particles are added at the same temperature; (b) the original 10 particles are heated.",
+  "answer": "(a) The pressure increases (about doubles): twice as many particles hit the walls. (b) The pressure increases: the particles move faster, so they hit the walls harder and more often.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.2_pressure.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Convert 1.25 atm to mmHg.",
+  "answer": "1.25 &times; 760 = 950. mmHg (written with a decimal point to show 3 significant figures).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.2_pressure.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "A weather report gives the air pressure as 98.5 kPa. What is this in atm and in mmHg?",
+  "answer": "98.5 &divide; 101.325 = 0.972 atm; 0.9721 &times; 760 = 739 mmHg.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.2_pressure.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A blood pressure reading is 118/76 mmHg. Express the systolic value, 118 mmHg, in atm.",
+  "answer": "118 &divide; 760 = 0.155 atm.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch10/10.3_gas_laws.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "The gas in a sealed syringe occupies 10.0 mL at 1.00 atm. The plunger is pulled back until the volume is 25.0 mL at the same temperature. What is the new pressure?",
+  "answer": "P 2 = (1.00)(10.0) &divide; 25.0 = 0.400 atm.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch10/10.3_gas_laws.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "A rigid tank of nitrogen is at 2.15 atm at 20.0 &deg;C. What is its pressure at 45.0 &deg;C?",
+  "answer": "P 2 = 2.15 &times; 318.15 &divide; 293.15 = 2.33 atm.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch10/10.3_gas_laws.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A 3.25 L balloon at 27.0 &deg;C is dipped in liquid nitrogen at &minus;196 &deg;C. Assuming constant pressure, what is its new volume?",
+  "answer": "T 1 = 300.15 K; T 2 = &minus;196 + 273.15 = 77 K (no decimal places). V 2 = 3.25 &times; 77 &divide; 300.15 = 0.83 L.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.3_gas_laws.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "A rigid, sealed cylinder holds 1.85 mol of gas at 2.00 atm. Gas is let out at constant temperature until the pressure is 0.500 atm. Which variables are constant? Build the equation by crossing out the constants, and find the moles left.",
+  "answer": "V and T are constant, so P 1 /n 1 = P 2 /n 2 (direct). Flip both sides: n 1 /P 1 = n 2 /P 2 , so n 2 = (1.85)(0.500)/2.00 = 0.463 mol.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.3_gas_laws.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Use easy numbers to predict: at constant pressure and moles, what happens to the volume of a gas if its Kelvin temperature is cut in half?",
+  "answer": "Try V 1 = 1 L, T 1 = 200 K, T 2 = 100 K in V 1 /T 1 = V 2 /T 2 : V 2 = (1)(100)/200 = &frac12; L. The volume is cut in half (direct relationship).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.4_ideal_gas_law.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "What volume do 2.25 mol of N 2 occupy at 1.50 atm and 30.0 &deg;C?",
+  "answer": "V = (2.25)(0.082058)(303.15) &divide; 1.50 = 37.3 L.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch10/10.4_ideal_gas_law.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "How many moles of O 2 are in Mateo's 4.70 L portable cylinder at 136 atm and 21.0 &deg;C?",
+  "answer": "n = (136)(4.70) &divide; [(0.082058)(294.15)] = 26.5 mol.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch10/10.4_ideal_gas_law.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "What volume does 4.40 g of CO 2 occupy at STP?",
+  "answer": "4.40 &divide; 44.009 = 0.1000 mol; &times; 22.4 L/mol = 2.24 L.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.4_ideal_gas_law.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "A 1.14 g sample of a diatomic element occupies 0.800 L at STP. Identify the gas.",
+  "answer": "n = 0.800 &divide; 22.4 = 0.03571 mol; M = 1.14 &divide; 0.03571 = 31.9 g/mol. Half is 16.0, oxygen: the gas is O 2 (31.998 g/mol).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.4_ideal_gas_law.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Combined or ideal? (a) A tire holds 12.0 L of air at 2.40 atm and 18.0 &deg;C; how many moles of air does it hold? (b) The same tire warms to 42.0 &deg;C on the road at constant volume; what is its new pressure?",
+  "answer": "(a) One set of conditions: n = (2.40)(12.0) &divide; [(0.082058)(291.15)] = 1.21 mol. (b) A change (two temperatures): P 2 = 2.40 &times; 315.15 &divide; 291.15 = 2.60 atm.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.5_gas_stoichiometry.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Mg(s) + 2 HCl(aq) &rarr; MgCl 2 (aq) + H 2 (g). What volume of H 2 forms from 0.500 g of Mg (24.31 g/mol) at 0.985 atm and 22.0 &deg;C?",
+  "answer": "0.500 &divide; 24.31 = 0.02057 mol Mg &rarr; 0.02057 mol H 2 . V = (0.02057)(0.082058)(295.15) &divide; 0.985 = 0.506 L (506 mL).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.5_gas_stoichiometry.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Heating limestone, CaCO 3 (s) &rarr; CaO(s) + CO 2 (g). What volume of CO 2 at STP comes from 30.0 g of CaCO 3 (100.09 g/mol)?",
+  "answer": "30.0 &divide; 100.09 = 0.2997 mol CO 2 ; &times; 22.4 L/mol = 6.71 L.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.5_gas_stoichiometry.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "For 2 CO(g) + O 2 (g) &rarr; 2 CO 2 (g), what volume of O 2 is needed to burn 6.00 L of CO, both at the same temperature and pressure?",
+  "answer": "6.00 L CO &times; (1 L O 2 / 2 L CO) = 3.00 L O 2 .",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch10/10.5_gas_stoichiometry.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Zn(s) + 2 HCl(aq) &rarr; ZnCl 2 (aq) + H 2 (g). A student collects 250. mL of H 2 over water at 20.0 &deg;C and a total pressure of 765 mmHg (water vapor pressure 17.5 mmHg). What mass of zinc (65.39 g/mol) reacted?",
+  "answer": "P H2 = 765 &minus; 17.5 = 748 mmHg = 0.9842 atm. n = (0.9842)(0.250) &divide; [(0.082058)(293.15)] = 0.01023 mol H 2 = 0.01023 mol Zn (1 : 1). Mass = 0.01023 &times; 65.39 = 0.669 g Zn.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.5_gas_stoichiometry.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "2 KClO 3 (s) &rarr; 2 KCl(s) + 3 O 2 (g). A student says, \"I have 0.0400 mol of KClO 3 , so I'll put n = 0.0400 into V = nRT/P.\" What is wrong, and what n should be used?",
+  "answer": "The gas is O 2 , not KClO 3 . Use the mole ratio first: 0.0400 mol KClO 3 &times; (3 mol O 2 / 2 mol KClO 3 ) = 0.0600 mol O 2 . That is the n for V = nRT/P.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.6_dalton.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "A tank holds N 2 at 2.15 atm, O 2 at 0.580 atm, and Ar at 0.0270 atm. What is the total pressure?",
+  "answer": "2.15 + 0.580 + 0.0270 = 2.76 atm (rounded to hundredths, set by 2.15).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.6_dalton.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "A mixture contains 1.50 mol N 2 and 0.500 mol CO 2 at a total pressure of 3.00 atm. What is the partial pressure of CO 2 ?",
+  "answer": "X CO 2 = 0.500 &divide; 2.00 = 0.250; P = 0.250 &times; 3.00 = 0.750 atm.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.6_dalton.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Oxygen is collected over water at 20.0 &deg;C when the room pressure is 748 mmHg. What is the partial pressure of the oxygen? (Water vapor pressure at 20 &deg;C = 17.5 mmHg)",
+  "answer": "748 &minus; 17.5 = 730.5, reported to the ones place (set by 748) as 731 mmHg.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.6_dalton.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "A drawing of a gas sample shows 9 particles of gas A and 3 particles of gas B at a total pressure of 800. mmHg. What is the partial pressure of B?",
+  "answer": "X B = 3/12 = 0.250; P B = 0.250 &times; 800. = 200. mmHg.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch10/10.6_dalton.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "A rigid container holds 0.200 mol of N 2 at 0.600 atm. If 0.100 mol of CO 2 is added at the same temperature, what is the new total pressure?",
+  "answer": "Pressure is proportional to total moles: 0.600 atm &times; (0.300 mol / 0.200 mol) = 0.900 atm. The identity of the added gas does not matter.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 10.1",
+  "question": "Which statement is not part of kinetic molecular theory for an ideal gas? A. The particles are in constant, random, straight-line motion. B. The particles attract one another, which holds the gas together. C. Collisions between particles and with the walls are elastic. D. The average kinetic energy of the particles is proportional to the Kelvin temperature.",
+  "answer": "B. Kinetic molecular theory assumes the particles neither attract nor repel each other. Nothing holds a gas together, which is why it spreads out to fill any container. (Attractions do matter for real gases near condensation, which is why the ideal model fails there.) A is part of the theory: constant random motion explains diffusion and why a gas fills its container. C is part of the theory: in elastic collisions no kinetic energy is lost overall, so a gas left alone at constant temperature never \"runs down\" and its pressure stays steady. D is part of the theory, and it is the reason every gas law needs temperatures in kelvins.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 10.2",
+  "question": "What causes the pressure of the oxygen inside a sealed cylinder? A. The O 2 molecules are attracted to the steel walls and pull on them. B. The O 2 molecules swell when they are warm and press against the walls. C. The O 2 molecules constantly collide with the walls, and each collision pushes on them. D. The weight of the gas presses down on the bottom of the cylinder.",
+  "answer": "C. Pressure is force per area. Each molecule that hits a wall gives it a tiny push, and billions upon billions of hits every second add up to a steady pressure on every wall, not just the bottom. A is wrong: kinetic molecular theory assumes no attractions, and a pull would not explain why the gas pushes outward on the walls. B is a common misconception. Heating makes molecules move faster , not grow larger; faster molecules hit the walls harder and more often. D is wrong: a gas pushes equally on the top, sides, and bottom of its container. The weight of a gas this small is negligible compared with its collisions.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 10.3",
+  "question": "A basketball is pumped up in a warm gym and then left in a car overnight on a cold January night in Fresno. The next morning it feels soft. (a) Explain why, using kinetic molecular theory. (b) After the ball sits in the warm gym for an hour, it feels firm again, even though no air was added. Explain.",
+  "answer": "(a) As the air inside cools, its molecules slow down (their average kinetic energy is proportional to the Kelvin temperature). Slower molecules hit the inside of the ball less often and less hard, so the pressure inside drops, and the ball feels soft. (b) Warming speeds the molecules back up. They hit the walls harder and more often again, so the pressure rises back to where it was. The number of molecules never changed; only their speed did.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 10.4",
+  "question": "A sample of helium is at 310. K (about body temperature). To what temperature must it be heated to double the average kinetic energy of its atoms? A. 155 K B. 347 K C. 310. K D. 620. K",
+  "answer": "D. Average kinetic energy is directly proportional to the Kelvin temperature, so doubling the kinetic energy means doubling the Kelvin temperature: 2 &times; 310. K = 620. K (the factor 2 is exact, so the answer keeps three significant figures). A halves the temperature, which would halve the kinetic energy. B doubles the Celsius temperature: 310. K is 36.85 &deg;C, twice that is 73.7 &deg;C, or 347 K. Kinetic energy is proportional to the Kelvin temperature, not the Celsius temperature. C assumes that heating changes only the speed, not the kinetic energy. Faster atoms have more kinetic energy; that is what temperature measures.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 10.5",
+  "question": "Several gases are used in anesthesia and respiratory care: helium (He, 4.003 g/mol), oxygen (O 2 , 31.998 g/mol), nitrous oxide (N 2 O, 44.013 g/mol), and xenon (Xe, 131.29 g/mol), an anesthetic gas. (a) At the same temperature, which has the greatest average kinetic energy? (b) Rank them from slowest to fastest average speed. (c) Which would leak fastest through a tiny gap in a tubing connection?",
+  "answer": "(a) None : at the same temperature, all gases have the same average kinetic energy. (b) With equal kinetic energy, lighter particles must move faster. Slowest to fastest: Xe &lt; N 2 O &lt; O 2 &lt; He . (c) Helium , the lightest and fastest. Its small, fast atoms escape through tiny openings more quickly than any of the others, which is why helium is also used to test equipment for leaks.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 10.6",
+  "question": "Under which conditions does a real gas behave most like an ideal gas? A. High pressure and low temperature B. High pressure and high temperature C. Low pressure and high temperature D. Low pressure and low temperature",
+  "answer": "C. At low pressure the particles are far apart, so their own volume is a tiny fraction of the container. At high temperature they move so fast that attractions between them hardly matter. Both match the assumptions of kinetic molecular theory. A is the worst case: at high pressure the particles are crowded, and at low temperature attractions become important; this is how gases are liquefied, as with the liquid oxygen stored at hospitals. B fixes the temperature but not the crowding: at high pressure the particles' own volume still matters. D fixes the crowding but not the attractions: slow particles near the boiling point stick together.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 10.7",
+  "question": "A barometer at a ranger station in Yosemite Valley, about 4,000 ft above sea level, reads 656 mmHg. What is this pressure in atmospheres? A. 1.16 atm B. 0.863 atm C. 4.99 &times; 10 5 atm D. 6.47 atm",
+  "answer": "B. \\( 656\\ \\text{mmHg} \\times \\dfrac{1\\ \\text{atm}}{760\\ \\text{mmHg}} = 0.863\\ \\text{atm} \\) The answer makes sense: at 4,000 ft there is less air above you, so the pressure is below 1 atm. A flips the conversion factor (760/656). A pressure above 1 atm at a high elevation should be a warning sign. C multiplies by 760 instead of dividing. The mmHg units do not cancel, and no air pressure on Earth is near 500,000 atm. D divides by 101.325, the number of kilopascals in 1 atm. That factor converts kPa, not mmHg.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 10.8",
+  "question": "Going further (beyond CHEM 3A; not on exams). A tire gauge on a car tire reads 35.0 psi. Like most gauges, it reads the pressure above the outside air pressure, which is 1.00 atm. (a) Convert the gauge reading to atm. (b) What is the actual (absolute) pressure of the air inside the tire, in atm? (c) Express the absolute pressure in kPa.",
+  "answer": "(a) \\( 35.0\\ \\text{psi} \\times \\dfrac{1\\ \\text{atm}}{14.7\\ \\text{psi}} = 2.38\\ \\text{atm} \\) (b) Absolute pressure = gauge pressure + outside air pressure = 2.381 + 1.00 = 3.38 atm (rounded to the hundredths place, set by 1.00). (c) \\( 3.381\\ \\text{atm} \\times \\dfrac{101.325\\ \\text{kPa}}{1\\ \\text{atm}} = 343\\ \\text{kPa} \\) (a) 2.38 atm ; (b) 3.38 atm ; (c) 343 kPa . A \"flat\" tire still holds air at 1 atm; the gauge reads 0 because the pressure inside equals the pressure outside.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 10.9",
+  "question": "Which is the highest pressure? A. 795 mmHg B. 106 kPa C. 15.3 psi D. 1.06 atm",
+  "answer": "D. Convert each to atm and compare. A: 795 &divide; 760 = 1.046 atm. It has the biggest number, but a millimeter of mercury is a small unit. B: 106 &divide; 101.325 = 1.046 atm, the same as A. C: 15.3 &divide; 14.7 = 1.041 atm, the lowest of the four. So 1.06 atm is the highest. Never compare pressures in different units by their numbers alone.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 10.10",
+  "question": "An arterial blood gas (ABG) measures the partial pressures of oxygen and carbon dioxide in arterial blood. A patient's report shows PaO 2 = 92 mmHg and PaCO 2 = 41 mmHg. (a) Express each value in torr. (b) Some labs, especially outside the United States, report blood gases in kPa. Convert each value to kPa.",
+  "answer": "(a) 1 torr = 1 mmHg, so the numbers do not change: PaO 2 = 92 torr and PaCO 2 = 41 torr . (b) \\( 92\\ \\text{mmHg} \\times \\dfrac{101.325\\ \\text{kPa}}{760\\ \\text{mmHg}} = 12\\ \\text{kPa} \\qquad 41\\ \\text{mmHg} \\times \\dfrac{101.325\\ \\text{kPa}}{760\\ \\text{mmHg}} = 5.5\\ \\text{kPa} \\) (b) PaO 2 = 12 kPa and PaCO 2 = 5.5 kPa , two significant figures each, like the readings. A handy check: 1 kPa is about 7.5 mmHg. (Context only; interpretation of blood gases belongs to the care team.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 10.11",
+  "question": "In seawater, the pressure increases by about 1 atm for every 10.1 m (33 ft) of depth, on top of the 1.00 atm of air pressing on the surface. What is the total pressure on a scuba diver at a depth of 18.0 m? A. 1.78 atm B. 1.56 atm C. 2.78 atm D. 183 atm",
+  "answer": "C. The water adds 18.0 m &times; (1 atm / 10.1 m) = 1.782 atm, and the air above the water adds 1.00 atm: \\( P_\\text{total} = 1.00\\ \\text{atm} + 18.0\\ \\text{m} \\times \\dfrac{1\\ \\text{atm}}{10.1\\ \\text{m}} = 1.00 + 1.782 = 2.78\\ \\text{atm} \\) A counts only the water and forgets the atmosphere above it. B flips the conversion factor (10.1/18.0 + 1). Going deeper than 10.1 m must add more than 1 atm. D multiplies the depth by 10.1 m instead of dividing. The meters do not cancel, and 183 atm would crush a diver.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 10.12",
+  "question": "On the summit of Mount Whitney (14,505 ft), the highest point in California, the air pressure is about 438 mmHg (an estimate from the U.S. Standard Atmosphere, NOAA/NASA/U.S. Air Force, 1976). (a) Express this pressure in atm and in kPa. (b) What percent of sea-level pressure (760 mmHg) is it? (c) At the same temperature, about how many oxygen molecules does each breath hold on the summit, compared with a breath at sea level?",
+  "answer": "(a) \\( 438\\ \\text{mmHg} \\times \\dfrac{1\\ \\text{atm}}{760\\ \\text{mmHg}} = 0.576\\ \\text{atm} \\qquad 0.5763\\ \\text{atm} \\times \\dfrac{101.325\\ \\text{kPa}}{1\\ \\text{atm}} = 58.4\\ \\text{kPa} \\) (b) \\( \\dfrac{438\\ \\text{mmHg}}{760\\ \\text{mmHg}} \\times 100\\% = 57.6\\% \\) (a) 0.576 atm and 58.4 kPa ; (b) 57.6% . (c) The air is still about 21% oxygen, but at the same temperature and lung volume the number of molecules is proportional to the pressure. Each breath holds only about 58% as many O 2 molecules as at sea level, which is why hikers acclimatize slowly and breathe harder near the top.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 10.13",
+  "question": "A student traps air in a sealed syringe attached to a pressure sensor, pushes the plunger in to several positions at constant temperature, and records the data in the table below. @media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } } Pressure and volume of trapped air at constant temperature Trial Pressure (atm) Volume (mL) 1 1.00 24.0 2 1.50 16.0 3 2.00 12.0 4 3.00 8.00 (a) Is the relationship between P and V direct or inverse? Which gas law is this? (b) Show that one combination of P and V stays constant. (c) Predict the volume at 4.00 atm.",
+  "answer": "(a) As the pressure goes up, the volume goes down: doubling P from 1.00 to 2.00 atm halves V from 24.0 to 12.0 mL. This is an inverse relationship, Boyle's law . (b) The product PV is constant: (1.00)(24.0) = (1.50)(16.0) = (2.00)(12.0) = (3.00)(8.00) = 24.0 atm&middot;mL in every trial. (The ratio V/P is not constant: 24.0, 10.7, 6.00, 2.67.) (c) \\( V_2 = \\dfrac{P_1 V_1}{P_2} = \\dfrac{(1.00\\ \\text{atm})(24.0\\ \\text{mL})}{4.00\\ \\text{atm}} = 6.00\\ \\text{mL} \\) (c) 6.00 mL , which continues the pattern: four times the pressure of trial 1, one-fourth the volume.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 10.14",
+  "question": "A scuba diver at a depth where the pressure is 2.80 atm fills her lungs to 4.20 L from her regulator. If she held her breath while rising to the surface (1.00 atm), what volume would that air try to occupy, at constant temperature? A. 11.8 L B. 1.50 L C. 7.56 L D. 4.20 L",
+  "answer": "A. Boyle's law: \\( V_2 = \\dfrac{P_1 V_1}{P_2} = \\dfrac{(2.80\\ \\text{atm})(4.20\\ \\text{L})}{1.00\\ \\text{atm}} = 11.8\\ \\text{L} \\) Lungs cannot stretch to nearly three times their volume; the expanding air could rupture them. This is why divers are trained to breathe out continuously as they ascend. B sets up Boyle's law as a ratio (or flips the pressures): 4.20 &times; 1.00/2.80. The pressure goes down , so the volume must go up . C multiplies the volume by the difference in pressures, 4.20 &times; (2.80 &minus; 1.00). Boyle's law uses the ratio of the pressures, not their difference. D assumes the lungs are rigid. Air in a flexible container changes volume whenever the pressure on it changes.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 10.15",
+  "question": "A 2.75 L party balloon is filled inside a warm house at 24.0 &deg;C and carried outside on a frosty Valley morning at &minus;2.0 &deg;C. Assuming the pressure stays constant, what is its new volume? Show why using &deg;C gives an impossible answer.",
+  "answer": "T 1 = 24.0 + 273.15 = 297.2 K; T 2 = &minus;2.0 + 273.15 = 271.2 K. \\( V_2 = V_1 \\times \\dfrac{T_2}{T_1} = 2.75\\ \\text{L} \\times \\dfrac{271.15\\ \\text{K}}{297.15\\ \\text{K}} = 2.51\\ \\text{L} \\) The balloon shrinks to 2.51 L , a modest change, because 26 &deg;C is less than a tenth of the Kelvin temperature. Using &deg;C, 2.75 &times; (&minus;2.0/24.0) = &minus;0.229 L, a negative volume, which is impossible. The Kelvin scale starts at absolute zero, so it is the only scale that makes V proportional to T.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 10.16",
+  "question": "A rigid steel cylinder of helium for filling balloons is at 155 atm at 21.0 &deg;C. It is left in the bed of a pickup truck, where it warms to 48.0 &deg;C. What is the new pressure? A. 155 atm B. 354 atm C. 142 atm D. 169 atm",
+  "answer": "D. The volume and moles are constant, so use Gay-Lussac's law with Kelvin temperatures (294.15 K and 321.15 K): \\( P_2 = P_1 \\times \\dfrac{T_2}{T_1} = 155\\ \\text{atm} \\times \\dfrac{321.15\\ \\text{K}}{294.15\\ \\text{K}} = 169\\ \\text{atm} \\) Hotter gas in a rigid container means higher pressure, which is why gas cylinders are stored out of direct sun. A assumes nothing changes because the cylinder is rigid. Its volume is fixed, but the faster-moving atoms hit the walls harder, so the pressure rises. B uses Celsius temperatures (155 &times; 48.0/21.0). The pressure does not really more than double for a 27 &deg;C rise. C flips the temperature ratio, so the pressure drops on heating, the wrong direction for a direct relationship.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 10.17",
+  "question": "During testing, a partly inflated airbag holds 0.850 mol of N 2 in 21.0 L. How many moles of N 2 must it hold to reach its full volume of 60.0 L at the same temperature and pressure?",
+  "answer": "At constant T and P, Avogadro's law applies: V 1 /n 1 = V 2 /n 2 . \\( n_2 = n_1 \\times \\dfrac{V_2}{V_1} = 0.850\\ \\text{mol} \\times \\dfrac{60.0\\ \\text{L}}{21.0\\ \\text{L}} = 2.43\\ \\text{mol} \\) The bag needs 2.43 mol of N 2 . Check: the volume grows by a factor of about 2.9, so the moles must too (0.850 &times; 2.86 = 2.43).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 10.18",
+  "question": "Name the gas law that best explains each observation, and say whether the relationship is direct or inverse. (a) The bubbles a diver breathes out get bigger as they rise toward the surface. (b) The gauge on a rigid oxygen cylinder reads lower after the cylinder is moved from a warm hallway into a cold storage room. (c) A plastic bottle capped in a hot car crumples a little after an hour in an air-conditioned clinic. (d) A ventilator pushes in more air, and the patient's lungs expand.",
+  "answer": "(a) Boyle's law (P and V, inverse): the water pressure on each bubble drops as it rises, so its volume increases. (b) Gay-Lussac's law (P and T, direct): the volume is fixed, so lowering the temperature lowers the pressure. (c) Charles's law (V and T, direct): the air inside cools at roughly constant pressure, so its volume shrinks and the soft bottle dents. (d) Avogadro's law (n and V, direct): more moles of gas at about the same temperature and pressure take up more volume.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 10.19",
+  "question": "A 455 mL sample of gas is at 1.12 atm and 18.0 &deg;C. What is its volume at 685 mmHg and 40.0 &deg;C? A. 526 mL B. 608 mL C. 0.800 mL D. 1.26 &times; 10 3 mL",
+  "answer": "B. Put both pressures in the same unit first: 1.12 atm &times; 760 mmHg/atm = 851.2 mmHg. T 1 = 291.15 K; T 2 = 313.15 K. \\( V_2 = V_1 \\times \\dfrac{P_1}{P_2} \\times \\dfrac{T_2}{T_1} = 455\\ \\text{mL} \\times \\dfrac{851.2\\ \\text{mmHg}}{685\\ \\text{mmHg}} \\times \\dfrac{313.15\\ \\text{K}}{291.15\\ \\text{K}} = 608\\ \\text{mL} \\) Predict first: the pressure drops (volume up) and the temperature rises (volume up), so the answer must be larger than 455 mL. A flips the temperature ratio. Warming a gas at lower pressure cannot shrink it below the pressure-only answer (565 mL). C divides 1.12 atm by 685 mmHg without converting. The two pressures must be in the same unit. D uses Celsius temperatures (40.0/18.0), which more than doubles the temperature effect.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 10.20",
+  "question": "The Kelvin temperature of a gas sample is doubled while its pressure is tripled, with the amount of gas constant. What happens to its volume? A. It is multiplied by 6. B. It is multiplied by 2/3. C. It is multiplied by 3/2. D. It is multiplied by 1/6.",
+  "answer": "B. From the combined gas law, V 2 = V 1 &times; (P 1 /P 2 ) &times; (T 2 /T 1 ) = V 1 &times; (1/3) &times; (2/1) = (2/3)V 1 . Doubling T doubles V (direct), and tripling P cuts V to a third (inverse). A treats both changes as direct. Pressure and volume are inversely related. C has both relationships upside down: it treats temperature as inverse and pressure as direct. D treats both changes as inverse. Temperature and volume are directly related.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 10.21",
+  "question": "An \"empty\" aerosol can still holds propellant gas at 1.20 atm at 22.0 &deg;C. If the can is thrown into a fire and heated to 650. &deg;C, what is the pressure inside (assuming the can does not burst first)? Why do the labels say \"Do not incinerate\"?",
+  "answer": "T 1 = 22.0 + 273.15 = 295.2 K; T 2 = 650. + 273.15 = 923 K (ones place, like 650.). \\( P_2 = P_1 \\times \\dfrac{T_2}{T_1} = 1.20\\ \\text{atm} \\times \\dfrac{923.15\\ \\text{K}}{295.15\\ \\text{K}} = 3.75\\ \\text{atm} \\) The pressure triples to 3.75 atm . A thin aluminum or steel can that is not built for that pressure can burst violently, so even an \"empty\" can is dangerous in a fire. (Using &deg;C, 1.20 &times; 650./22.0 = 35.5 atm, overstates the rise almost tenfold.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 10.22",
+  "question": "A hiker squeezes the air out of a collapsible water bottle except for 0.250 L, then caps it in Fresno at 1.00 atm and 30.0 &deg;C. She drives up to Mammoth Lakes (about 7,900 ft), where the pressure is 0.740 atm and the temperature is 10.0 &deg;C. What volume does the trapped air expand to?",
+  "answer": "T 1 = 303.2 K; T 2 = 283.2 K. All three variables change, so use the combined gas law: \\( V_2 = V_1 \\times \\dfrac{P_1}{P_2} \\times \\dfrac{T_2}{T_1} = 0.250\\ \\text{L} \\times \\dfrac{1.00\\ \\text{atm}}{0.740\\ \\text{atm}} \\times \\dfrac{283.15\\ \\text{K}}{303.15\\ \\text{K}} = 0.316\\ \\text{L} \\) The air expands to 0.316 L . The lower pressure alone would give 0.338 L; the cooler mountain air shrinks it a little.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 10.23",
+  "question": "How many moles of O 2 are in a 2.50 L flask at 1.85 atm and 24.0 &deg;C? A. 0.112 mol B. 2.35 mol C. 0.190 mol D. 5.27 mol",
+  "answer": "C. T = 24.0 + 273.15 = 297.2 K. \\( n = \\dfrac{PV}{RT} = \\dfrac{(1.85\\ \\text{atm})(2.50\\ \\text{L})}{(0.082058\\ \\tfrac{\\text{L}\\cdot\\text{atm}}{\\text{mol}\\cdot\\text{K}})(297.15\\ \\text{K})} = 0.190\\ \\text{mol} \\) A divides the volume by 22.4 L/mol. That molar volume applies only at STP, and this gas is at 1.85 atm and 24.0 &deg;C. B uses 24.0 &deg;C for T. R is in kelvins, so T must be too. D flips the equation (RT/PV). Check the units: the answer must come out in mol, not mol &minus;1 .",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 10.24",
+  "question": "A small cartridge for inflating a bike tire holds 16.0 g of CO 2 (44.009 g/mol). What volume would this gas occupy at 1.00 atm and 20.0 &deg;C?",
+  "answer": "Grams to moles first: n = 16.0 g &divide; 44.009 g/mol = 0.3636 mol. T = 293.15 K. \\( V = \\dfrac{nRT}{P} = \\dfrac{(0.3636\\ \\text{mol})(0.082058)(293.15\\ \\text{K})}{1.00\\ \\text{atm}} = 8.75\\ \\text{L} \\) The gas would fill 8.75 L at 1.00 atm. A road-bike tire holds only about 0.7 L, but at several atmospheres, so one cartridge fills one tire.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 10.25",
+  "question": "A 1.75 L balloon holds 0.0850 mol of helium at 27.0 &deg;C. What is the pressure inside, in mmHg? A. 909 mmHg B. 1.20 mmHg C. 81.8 mmHg D. 1.57 &times; 10 &minus;3 mmHg",
+  "answer": "A. With R = 0.082058, the pressure comes out in atm; convert to mmHg at the end. T = 300.15 K. \\( P = \\dfrac{nRT}{V} = \\dfrac{(0.0850)(0.082058)(300.15)}{1.75} = 1.196\\ \\text{atm} \\times \\dfrac{760\\ \\text{mmHg}}{1\\ \\text{atm}} = 909\\ \\text{mmHg} \\) (With R = 62.36 L&middot;torr/(mol&middot;K) you get the same 909 torr in one step.) B is the pressure in atm with the wrong unit attached. R = 0.082058 gives atm, not mmHg. C uses 27.0 &deg;C for T instead of 300.15 K. D divides by 760 instead of multiplying. There are more mmHg than atm in any pressure.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 10.26",
+  "question": "At what temperature, in kelvins and in &deg;C, does 2.44 g of N 2 (28.014 g/mol) in a sealed 2.00 L flask exert a pressure of 1.10 atm?",
+  "answer": "n = 2.44 g &divide; 28.014 g/mol = 0.08710 mol. \\( T = \\dfrac{PV}{nR} = \\dfrac{(1.10\\ \\text{atm})(2.00\\ \\text{L})}{(0.08710\\ \\text{mol})(0.082058\\ \\tfrac{\\text{L}\\cdot\\text{atm}}{\\text{mol}\\cdot\\text{K}})} = 308\\ \\text{K} \\) T = 308 K . In Celsius, 307.8 &minus; 273.15 = 34.7, which rounds to the ones place (the place of 308 K) as 35 &deg;C . The units check: atm and L cancel with R, and mol cancels, leaving K.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 10.27",
+  "question": "Nitrous oxide (N 2 O, 44.013 g/mol) is used in dental offices. What volume does 0.375 mol of N 2 O occupy at STP? A. 59.7 L B. 0.0167 L C. 8.40 L D. 370. L",
+  "answer": "C. At STP, 1 mol of any ideal gas occupies 22.4 L: \\( 0.375\\ \\text{mol} \\times \\dfrac{22.4\\ \\text{L}}{1\\ \\text{mol}} = 8.40\\ \\text{L} \\) A divides 22.4 by the moles. The units would be L/mol, not L. B divides the moles by 22.4, as if converting liters to moles. D converts to grams first (0.375 mol &times; 44.013 g/mol = 16.5 g) and then multiplies grams by 22.4 L/mol. The molar volume multiplies moles, not grams; the molar mass is not needed here.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 10.28",
+  "question": "A student says, \"One mole of any gas occupies 22.4 L, so 1.00 mol of air in a room at 25.0 &deg;C and 1.00 atm fills 22.4 L.\" (a) Find the correct volume. (b) By what percent is the student's value off? (c) At 1.00 atm, at what Kelvin temperature does 1.00 mol of gas fill 22.4 L?",
+  "answer": "(a) \\( V = \\dfrac{nRT}{P} = \\dfrac{(1.00\\ \\text{mol})(0.082058)(298.15\\ \\text{K})}{1.00\\ \\text{atm}} = 24.5\\ \\text{L} \\) (b) \\( \\dfrac{22.4 - 24.47}{24.47} \\times 100\\% = -8.4\\% \\) (a) 24.5 L . (b) The student's value is about 8.4% too low . (c) T = PV/(nR) = (1.00)(22.4)/[(1.00)(0.082058)] = 273 K , which is 0 &deg;C: 22.4 L/mol is the molar volume only at STP. At room temperature the molecules move faster and the gas expands.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 10.29",
+  "question": "A 0.792 g sample of a gas used in welding occupies 0.500 L at 0.965 atm and 25.0 &deg;C. (a) Find its molar mass. (b) Is it helium (4.003 g/mol), neon (20.180 g/mol), argon (39.95 g/mol), or krypton (83.80 g/mol)? (c) What is its density at these conditions?",
+  "answer": "(a) \\( n = \\dfrac{PV}{RT} = \\dfrac{(0.965\\ \\text{atm})(0.500\\ \\text{L})}{(0.082058)(298.15\\ \\text{K})} = 0.01972\\ \\text{mol} \\qquad M = \\dfrac{m}{n} = \\dfrac{0.792\\ \\text{g}}{0.01972\\ \\text{mol}} = 40.2\\ \\text{g/mol} \\) (a) 40.2 g/mol . (b) Argon (39.95 g/mol), which is used as a shielding gas in welding because it does not react. (c) d = m/V = 0.792 g &divide; 0.500 L = 1.58 g/L at 0.965 atm and 25.0 &deg;C.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 10.30",
+  "question": "At the same temperature and pressure, the density of a gas is proportional to its molar mass. Air has an average molar mass of about 29 g/mol. If each of these gases leaked into a closed room, which would tend to collect near the floor? A. Helium, He (4.003 g/mol) B. Methane (natural gas), CH 4 (16.043 g/mol) C. Propane, C 3 H 8 (44.097 g/mol) D. Ammonia, NH 3 (17.031 g/mol)",
+  "answer": "C. Propane's molar mass (44.097 g/mol) is about one and a half times that of air, so it is denser than air and settles in low places: basements, trailer floors, and pits. That is why leaking propane from a camp stove or heater is a special fire hazard. A: helium is far less dense than air; it rises, which is why helium balloons float. B: methane (16.043 g/mol) is less dense than air and rises toward the ceiling. D: ammonia (17.031 g/mol) is also lighter than air and rises.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 10.31",
+  "question": "A gas has a density of 1.25 g/L at STP. What is its molar mass? A. 17.9 g/mol B. 0.0558 g/mol C. 30.6 g/mol D. 28.0 g/mol",
+  "answer": "D. At STP, 1 mol occupies 22.4 L, so the mass of one mole is the mass of 22.4 L: \\( M = 1.25\\ \\dfrac{\\text{g}}{\\text{L}} \\times \\dfrac{22.4\\ \\text{L}}{1\\ \\text{mol}} = 28.0\\ \\text{g/mol} \\) This matches N 2 (28.014 g/mol). A divides 22.4 by the density; the units come out L&sup2;/(g&middot;mol), not g/mol. B divides the density by 22.4; the units come out g&middot;mol/L&sup2;. No gas has a molar mass below that of hydrogen. C uses the molar volume at 25 &deg;C (24.5 L/mol) instead of at STP. The problem says STP, so 22.4 L/mol is the right factor.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 10.32",
+  "question": "A common aluminum scuba tank has an internal volume of 11.1 L and is filled with air to 3.00 &times; 10 3 psi at 20.0 &deg;C. (a) Convert the pressure to atm. (b) How many moles of gas are in the tank? (c) What volume would this air occupy at 1.00 atm and 20.0 &deg;C? (Treat the fill pressure as the pressure of the gas.)",
+  "answer": "(a) \\( 3.00 \\times 10^{3}\\ \\text{psi} \\times \\dfrac{1\\ \\text{atm}}{14.7\\ \\text{psi}} = 204\\ \\text{atm} \\) (b) \\( n = \\dfrac{PV}{RT} = \\dfrac{(204.08\\ \\text{atm})(11.1\\ \\text{L})}{(0.082058)(293.15\\ \\text{K})} = 94.2\\ \\text{mol} \\) (c) \\( V_2 = \\dfrac{P_1 V_1}{P_2} = \\dfrac{(204.08\\ \\text{atm})(11.1\\ \\text{L})}{1.00\\ \\text{atm}} = 2.27 \\times 10^{3}\\ \\text{L} \\) (a) 204 atm ; (b) 94.2 mol (carry the unrounded 204.08 atm; rounding it to 204 first gives 94.1); (c) 2.27 &times; 10 3 L , about 80 cubic feet, which is why divers call this an \"aluminum 80.\" Part (c) is a before-and-after problem at the same temperature, so Boyle's law does it without R. At such a high pressure real air departs slightly from ideal behavior, so these answers are estimates.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 10.33",
+  "question": "Butane burns in a lighter by the reaction below. 2 C 4 H 10 (g) + 13 O 2 (g) &rarr; 8 CO 2 (g) + 10 H 2 O(g) What volume of O 2 , measured at STP, is needed to burn 0.250 mol of butane? A. 0.862 L B. 36.4 L C. 5.60 L D. 0.0725 L",
+  "answer": "B. \\( 0.250\\ \\text{mol C}_4\\text{H}_{10} \\times \\dfrac{13\\ \\text{mol O}_2}{2\\ \\text{mol C}_4\\text{H}_{10}} \\times \\dfrac{22.4\\ \\text{L}}{1\\ \\text{mol O}_2} = 36.4\\ \\text{L O}_2 \\) A flips the mole ratio (2/13). Burning a fuel takes several times more moles of O 2 than moles of fuel. C skips the mole ratio and finds the volume of the butane, not of the oxygen. D divides by 22.4 instead of multiplying. Going from moles to liters at STP multiplies by 22.4 L/mol.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 10.34",
+  "question": "At a Valley winery, yeast ferment the glucose in grape juice: C 6 H 12 O 6 (aq) &rarr; 2 C 2 H 5 OH(aq) + 2 CO 2 (g) What volume of CO 2 at 30.0 &deg;C and 0.975 atm is released when 45.0 g of glucose (180.156 g/mol) is fermented?",
+  "answer": "\\( 45.0\\ \\text{g} \\times \\dfrac{1\\ \\text{mol C}_6\\text{H}_{12}\\text{O}_6}{180.156\\ \\text{g}} \\times \\dfrac{2\\ \\text{mol CO}_2}{1\\ \\text{mol C}_6\\text{H}_{12}\\text{O}_6} = 0.4996\\ \\text{mol CO}_2 \\) \\( V = \\dfrac{nRT}{P} = \\dfrac{(0.4996\\ \\text{mol})(0.082058)(303.15\\ \\text{K})}{0.975\\ \\text{atm}} = 12.7\\ \\text{L} \\) About 12.7 L of CO 2 . The conditions are not STP, so 22.4 L/mol does not apply. Skipping the 2 : 1 mole ratio would give half this volume. Fermentation rooms need good ventilation, because CO 2 is denser than air and can collect in tanks and pits.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 10.35",
+  "question": "Propane burns in a backyard grill: C 3 H 8 (g) + 5 O 2 (g) &rarr; 3 CO 2 (g) + 4 H 2 O(g) What volume of O 2 is needed to burn 4.20 L of propane, with both gases measured at the same temperature and pressure? A. 12.6 L B. 0.840 L C. 21.0 L D. 4.20 L",
+  "answer": "C. Both gases are at the same T and P, so the coefficients are volume ratios (Avogadro's law): \\( 4.20\\ \\text{L C}_3\\text{H}_8 \\times \\dfrac{5\\ \\text{L O}_2}{1\\ \\text{L C}_3\\text{H}_8} = 21.0\\ \\text{L O}_2 \\) A uses the coefficient of CO 2 (3) instead of O 2 (5). Read the ratio for the two substances in the question. B flips the ratio (1/5), so less oxygen than fuel. D skips the ratio, as if 1 L of propane used 1 L of O 2 .",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 10.36",
+  "question": "In an anesthesia machine, the patient's exhaled CO 2 is removed by a canister of soda lime, mostly calcium hydroxide. A simplified net reaction is Ca(OH) 2 (s) + CO 2 (g) &rarr; CaCO 3 (s) + H 2 O(l) During one stretch of a procedure, the canister absorbs 2.15 L of CO 2 measured at 37.0 &deg;C and 1.00 atm. (a) How many grams of CaCO 3 (100.09 g/mol) form? (b) How many grams of Ca(OH) 2 (74.09 g/mol) are used up?",
+  "answer": "Moles of CO 2 first (not at STP, so use PV = nRT): \\( n = \\dfrac{PV}{RT} = \\dfrac{(1.00\\ \\text{atm})(2.15\\ \\text{L})}{(0.082058)(310.15\\ \\text{K})} = 0.08448\\ \\text{mol CO}_2 \\) (a) \\( 0.08448\\ \\text{mol CO}_2 \\times \\dfrac{1\\ \\text{mol CaCO}_3}{1\\ \\text{mol CO}_2} \\times \\dfrac{100.09\\ \\text{g}}{1\\ \\text{mol}} = 8.46\\ \\text{g CaCO}_3 \\) (b) \\( 0.08448\\ \\text{mol CO}_2 \\times \\dfrac{1\\ \\text{mol Ca(OH)}_2}{1\\ \\text{mol CO}_2} \\times \\dfrac{74.09\\ \\text{g}}{1\\ \\text{mol}} = 6.26\\ \\text{g Ca(OH)}_2 \\) (a) 8.46 g CaCO 3 ; (b) 6.26 g Ca(OH) 2 . Real soda lime contains a color indicator that changes as the hydroxide is used up, signaling when the canister must be changed. (Context only; follow the machine's checkout procedures.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 10.37",
+  "question": "A classic way to make oxygen in the lab is to heat potassium chlorate: 2 KClO 3 (s) &rarr; 2 KCl(s) + 3 O 2 (g) What mass of KClO 3 (122.55 g/mol) is needed to make 1.50 L of O 2 measured at STP? A. 5.47 g B. 8.21 g C. 12.3 g D. 2.75 &times; 10 3 g",
+  "answer": "A. \\( 1.50\\ \\text{L O}_2 \\times \\dfrac{1\\ \\text{mol O}_2}{22.4\\ \\text{L}} \\times \\dfrac{2\\ \\text{mol KClO}_3}{3\\ \\text{mol O}_2} \\times \\dfrac{122.55\\ \\text{g}}{1\\ \\text{mol KClO}_3} = 5.47\\ \\text{g} \\) B skips the mole ratio, as if 1 mol KClO 3 made 1 mol O 2 . C flips the mole ratio (3/2). Each 2 KClO 3 make 3 O 2 , so fewer moles of KClO 3 are needed than moles of O 2 made. D multiplies the liters by 22.4 instead of dividing, which turns 1.50 L into \"33.6 mol.\" To go from liters at STP to moles, divide by 22.4 L/mol.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 10.38",
+  "question": "Hydrogen peroxide foams on a cut because the enzyme catalase in blood speeds up its decomposition: 2 H 2 O 2 (aq) &rarr; 2 H 2 O(l) + O 2 (g) What volume of O 2 at 37.0 &deg;C and 1.00 atm forms when 2.75 g of H 2 O 2 (34.014 g/mol) decomposes completely?",
+  "answer": "\\( 2.75\\ \\text{g H}_2\\text{O}_2 \\times \\dfrac{1\\ \\text{mol}}{34.014\\ \\text{g}} \\times \\dfrac{1\\ \\text{mol O}_2}{2\\ \\text{mol H}_2\\text{O}_2} = 0.04042\\ \\text{mol O}_2 \\) \\( V = \\dfrac{nRT}{P} = \\dfrac{(0.04042\\ \\text{mol})(0.082058)(310.15\\ \\text{K})}{1.00\\ \\text{atm}} = 1.03\\ \\text{L} \\) About 1.03 L of O 2 . Forgetting the 1 : 2 mole ratio would double the answer to 2.06 L. The bubbles are the O 2 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 10.39",
+  "question": "An antacid tablet contains sodium bicarbonate, which fizzes in stomach acid: NaHCO 3 (s) + HCl(aq) &rarr; NaCl(aq) + H 2 O(l) + CO 2 (g) What volume of CO 2 , in mL, forms from 0.650 g of NaHCO 3 (84.01 g/mol) at 25.0 &deg;C and 0.988 atm? A. 173 mL B. 16.1 mL C. 0.192 mL D. 192 mL",
+  "answer": "D. n = 0.650 g &divide; 84.01 g/mol = 0.007737 mol NaHCO 3 = 0.007737 mol CO 2 (1 : 1). \\( V = \\dfrac{nRT}{P} = \\dfrac{(0.007737)(0.082058)(298.15\\ \\text{K})}{0.988\\ \\text{atm}} = 0.192\\ \\text{L} = 192\\ \\text{mL} \\) A uses 22.4 L/mol, but the gas is at 25.0 &deg;C and 0.988 atm, not STP. B uses 25.0 &deg;C instead of 298.15 K. C is the answer in liters with \"mL\" attached. R gives liters; multiply by 1000 mL/L.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 10.40",
+  "question": "A natural-gas furnace burns methane: CH 4 (g) + 2 O 2 (g) &rarr; CO 2 (g) + 2 H 2 O(g) (a) What volume of CO 2 at 1.00 atm and 20.0 &deg;C forms when 125 g of CH 4 (16.043 g/mol) burns? (b) What volume of O 2 , at the same conditions, does it use?",
+  "answer": "n CH 4 = 125 g &divide; 16.043 g/mol = 7.792 mol, and the 1 : 1 ratio gives 7.792 mol CO 2 . (a) \\( V = \\dfrac{nRT}{P} = \\dfrac{(7.792\\ \\text{mol})(0.082058)(293.15\\ \\text{K})}{1.00\\ \\text{atm}} = 187\\ \\text{L CO}_2 \\) (b) The O 2 is at the same T and P as the CO 2 , so use the volume ratio: 187.4 L CO 2 &times; (2 L O 2 / 1 L CO 2 ) = 375 L O 2 . (a) 187 L of CO 2 ; (b) 375 L of O 2 . A furnace needs a steady supply of fresh air; if it runs short of oxygen, it makes toxic carbon monoxide instead, which is why homes need CO detectors.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 10.41",
+  "question": "In an anaerobic jar, a palladium catalyst makes hydrogen react with the oxygen left in the jar: 2 H 2 (g) + O 2 (g) &rarr; 2 H 2 O(l) A jar contains 0.415 L of O 2 . What volume of H 2 , measured at the same temperature and pressure, is needed to remove it all? A. 0.830 L B. 0.208 L C. 0.415 L D. 18.6 L",
+  "answer": "A. Both gases are at the same T and P, so the coefficients give the volume ratio: \\( 0.415\\ \\text{L O}_2 \\times \\dfrac{2\\ \\text{L H}_2}{1\\ \\text{L O}_2} = 0.830\\ \\text{L H}_2 \\) B flips the ratio (1/2). Each O 2 needs two H 2 . C skips the ratio. D multiplies the correct volume by 22.4 L/mol, treating liters as if they were moles. A volume ratio goes straight from liters to liters.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 10.42",
+  "question": "In the Valley's summer smog, nitric oxide from vehicle exhaust reacts with oxygen to make brown nitrogen dioxide, which helps form ozone: 2 NO(g) + O 2 (g) &rarr; 2 NO 2 (g) In a lab model, 0.600 L of NO is mixed with 0.400 L of O 2 , all at the same temperature and pressure. (a) Which gas is limiting? (b) What volume of NO 2 forms? (c) What volume of the excess gas is left over? (d) What is the total volume of gas after the reaction, at the same T and P?",
+  "answer": "(a) To react completely, 0.600 L NO needs 0.600 &times; (1/2) = 0.300 L O 2 . There is 0.400 L, more than enough, so NO is limiting and O 2 is in excess. (b) 0.600 L NO &times; (2 L NO 2 / 2 L NO) = 0.600 L NO 2 . (c) 0.400 &minus; 0.300 = 0.100 L O 2 left over. (d) 0.600 L NO 2 + 0.100 L O 2 = 0.700 L , less than the 1.000 L at the start, because 3 molecules of reactant gas become 2 molecules of product gas. All of these shortcuts work only because every gas is at the same T and P.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 10.43",
+  "question": "During a dental procedure, a patient breathes a mixture that is 35.0% N 2 O and 65.0% O 2 by moles, at a total pressure of 765 mmHg. What is the partial pressure of N 2 O? A. 497 mmHg B. 268 mmHg C. 765 mmHg D. 2.68 &times; 10 4 mmHg",
+  "answer": "B. The mole fraction is the percent divided by 100: X N 2 O = 0.350. \\( P_{\\text{N}_2\\text{O}} = X_{\\text{N}_2\\text{O}} \\times P_\\text{total} = (0.350)(765\\ \\text{mmHg}) = 268\\ \\text{mmHg} \\) A is the partial pressure of O 2 (0.650 &times; 765), not of N 2 O. C is the total pressure. Each gas has only its share of the total. D multiplies by 35.0 instead of 0.350. A partial pressure can never be larger than the total.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 10.44",
+  "question": "Typical partial pressures of the gases in the air sacs (alveoli) of healthy lungs at sea level are N 2 569 mmHg, O 2 104 mmHg, CO 2 40. mmHg, and H 2 O 47.1 mmHg (the vapor pressure of water at 37 &deg;C). (a) What is the total pressure in the alveoli? (b) What are the mole fractions of O 2 and CO 2 ? (c) Why is the O 2 partial pressure here lower than in the air you breathe in?",
+  "answer": "(a) Dalton's law: P total = 569 + 104 + 40. + 47.1 = 760.1, which rounds to the ones place as 760. mmHg , the same as the atmosphere around you (the lungs are open to the air). (b) X O 2 = 104/760. = 0.137 ; X CO 2 = 40./760. = 0.053 (two significant figures, like 40.). (c) Inhaled air picks up water vapor (47.1 mmHg at 37 &deg;C) and mixes with CO 2 -rich air already in the lungs, while O 2 constantly diffuses out into the blood. Each of these takes away part of oxygen's share of the 760 mmHg.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 10.45",
+  "question": "A lung function test called the diffusing capacity test has the patient inhale a special test gas. The table below gives a typical composition by moles. Composition of a typical diffusing-capacity test gas Gas Mole percent Partial pressure at 760. mmHg (mmHg) Carbon monoxide, CO 0.300 ? Helium, He 10.0 ? Oxygen, O 2 21.0 ? Nitrogen, N 2 ? ? (a) Find the mole percent of N 2 . (b) Find the partial pressure of each gas when the mixture is at 760. mmHg. (c) A test breath contains 0.0450 mol of gas. How many moles of CO does it contain?",
+  "answer": "(a) Mole percents add up to 100: 100 &minus; 0.300 &minus; 10.0 &minus; 21.0 = 68.7% N 2 (tenths place, set by 10.0 and 21.0). (b) Divide each percent by 100 to get the mole fraction, then P i = X i &times; 760. mmHg: CO: 0.00300 &times; 760. = 2.28 mmHg He: 0.100 &times; 760. = 76.0 mmHg O 2 : 0.210 &times; 760. = 159.6, or 160. mmHg (three significant figures) N 2 : 0.687 &times; 760. = 522 mmHg Check: 2.28 + 76.0 + 159.6 + 522.1 = 760. mmHg. (c) n CO = X CO &times; n total = 0.00300 &times; 0.0450 mol = 1.35 &times; 10 &minus;4 mol . The tiny, safe amount of CO is there because CO binds hemoglobin so strongly that how fast it leaves the lungs shows how well gas crosses into the blood; the helium shows how much the test gas was diluted in the lungs. (Context only.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 10.46",
+  "question": "Hydrogen is collected over water at 30.0 &deg;C when the barometric pressure is 758 mmHg. The water levels inside and outside the collection tube are equal. What is the partial pressure of the H 2 ? (Water vapor pressure: 23.8 mmHg at 25 &deg;C; 31.8 mmHg at 30 &deg;C.) A. 758 mmHg B. 734 mmHg C. 726 mmHg D. 790. mmHg",
+  "answer": "C. \\( P_{\\text{H}_2} = P_\\text{atm} - P_{\\text{H}_2\\text{O}} = 758 - 31.8 = 726\\ \\text{mmHg} \\) (726.2 rounds to the ones place, set by 758.) A forgets the water vapor. The gas in the tube is \"wet\": the room pressure is shared by the H 2 and the water vapor. B uses the vapor pressure at 25 &deg;C. Look up the vapor pressure at the temperature of the water. D adds the water vapor pressure instead of subtracting it. The partial pressure of one gas in a mixture is always less than the total.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 10.47",
+  "question": "In a lab modeled on Experiment 8a (Determination of the Gas Constant R), a student reacts magnesium ribbon with excess hydrochloric acid and collects the hydrogen over water: Mg(s) + 2 HCl(aq) &rarr; MgCl 2 (aq) + H 2 (g) The data for two trials are in the table below (Mg = 24.31 g/mol). Experiment 8a-style data for two trials Trial Mass of Mg (g) Volume of H 2 collected (mL) Water temperature (&deg;C) Barometric pressure (mmHg) Water vapor pressure (mmHg) 1 0.0362 36.4 20.0 762 17.5 2 0.0418 43.5 25.0 762 23.8 (a) For each trial, find the pressure of the dry H 2 in atm, the moles of H 2 , and the experimental value of R. (b) Find each trial's percent error compared with 0.082058 L&middot;atm/(mol&middot;K), and the average R. (c) If the student forgot to subtract the water vapor pressure, would R come out too high or too low? Show with trial 1.",
+  "answer": "(a) Trial 1: P H 2 = 762 &minus; 17.5 = 744.5 mmHg &divide; 760 = 0.9796 atm. n H 2 = n Mg = 0.0362 g &divide; 24.31 g/mol = 0.001489 mol (1 : 1 ratio). V = 0.0364 L; T = 293.15 K. \\( R_1 = \\dfrac{PV}{nT} = \\dfrac{(0.9796\\ \\text{atm})(0.0364\\ \\text{L})}{(0.001489\\ \\text{mol})(293.15\\ \\text{K})} = 0.0817\\ \\dfrac{\\text{L}\\cdot\\text{atm}}{\\text{mol}\\cdot\\text{K}} \\) Trial 2: P H 2 = 762 &minus; 23.8 = 738.2 mmHg = 0.9713 atm; n = 0.0418 &divide; 24.31 = 0.001719 mol; V = 0.0435 L; T = 298.15 K. \\( R_2 = \\dfrac{(0.9713\\ \\text{atm})(0.0435\\ \\text{L})}{(0.001719\\ \\text{mol})(298.15\\ \\text{K})} = 0.0824\\ \\dfrac{\\text{L}\\cdot\\text{atm}}{\\text{mol}\\cdot\\text{K}} \\) (b) Trial 1: (0.0817 &minus; 0.082058)/0.082058 &times; 100% = &minus;0.4% . Trial 2: (0.0824 &minus; 0.082058)/0.082058 &times; 100% = +0.4% . Average R = (0.08168 + 0.08242)/2 = 0.0821 L&middot;atm/(mol&middot;K) , very close to the accepted value. (c) Too high. Using the full 762 mmHg (1.003 atm) for the hydrogen in trial 1 gives R = (1.003)(0.0364)/[(0.001489)(293.15)] = 0.0836, about 2% high. The barometric pressure includes the water vapor, so it is larger than the hydrogen's own pressure.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 10.48",
+  "question": "A 10.0 L tank at 25.0 &deg;C holds a mixture of oxygen and helium at a total pressure of 5.00 atm. The partial pressure of O 2 is 1.20 atm. How many moles of O 2 are in the tank? A. 2.04 mol B. 1.55 mol C. 5.85 mol D. 0.490 mol",
+  "answer": "D. To find the moles of one gas, use that gas's partial pressure in PV = nRT: \\( n_{\\text{O}_2} = \\dfrac{P_{\\text{O}_2} V}{RT} = \\dfrac{(1.20\\ \\text{atm})(10.0\\ \\text{L})}{(0.082058)(298.15\\ \\text{K})} = 0.490\\ \\text{mol} \\) A uses the total pressure, which gives the total moles of gas (O 2 plus He), not the moles of O 2 . B uses the partial pressure of helium (5.00 &minus; 1.20 = 3.80 atm), so it is the moles of He. C uses 25.0 &deg;C instead of 298.15 K.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 10.49",
+  "question": "Mateo Herrera, 34, is an irrigation technician on a Fresno County almond orchard. He has asthma and was admitted overnight on oxygen at 2.0 L/min by nasal cannula. The barometric pressure at the hospital is 757 mmHg. (a) Room air is 21.0% O 2 . What is the partial pressure of O 2 in dry room air? (b) His nose and airways warm the air to 37 &deg;C and saturate it with water vapor (47.1 mmHg at 37 &deg;C). What is the partial pressure of O 2 in this humidified air, still with 21.0% of the dry gas as O 2 ? (c) With the cannula, the oxygen fraction of the dry gas he inhales rises to about 0.280. Repeat (b). (d) The flowmeter measures the oxygen at room temperature, 21.0 &deg;C. At constant pressure, what volume per minute does it fill once it warms to 37.0 &deg;C in his airways?",
+  "answer": "(a) P O 2 = 0.210 &times; 757 mmHg = 159 mmHg . (b) The water vapor takes 47.1 mmHg of the total, leaving 757 &minus; 47.1 = 709.9 mmHg for the dry gases, of which O 2 is 21.0%: \\( P_{\\text{O}_2} = 0.210 \\times (757 - 47.1)\\ \\text{mmHg} = 0.210 \\times 709.9\\ \\text{mmHg} = 149\\ \\text{mmHg} \\) (c) 0.280 &times; 709.9 mmHg = 199 mmHg . (d) \\( V_2 = V_1 \\times \\dfrac{T_2}{T_1} = 2.0\\ \\tfrac{\\text{L}}{\\text{min}} \\times \\dfrac{310.15\\ \\text{K}}{294.15\\ \\text{K}} = 2.1\\ \\tfrac{\\text{L}}{\\text{min}} \\) (a) 159 mmHg ; (b) 149 mmHg ; (c) 199 mmHg ; (d) 2.1 L/min , two significant figures like 2.0 L/min. Raising the inspired PO 2 by about 50 mmHg pushes more oxygen across the alveolar walls by diffusion. (The case is for practicing chemistry only; oxygen is a medication and is given as ordered, and this is not treatment advice.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 10.50",
+  "question": "Recreational divers sometimes breathe \"nitrox,\" air enriched with oxygen. One common blend is 32.0% O 2 and 68.0% N 2 by moles. (a) What is the partial pressure of O 2 at a depth where the total pressure is 4.00 atm? (b) To limit the risk of oxygen toxicity, divers keep P O 2 at or below 1.40 atm. What is the highest total pressure at which this blend may be breathed? (c) Using 1.00 atm at the surface plus 1 atm for every 10.1 m of seawater, about how deep is that?",
+  "answer": "(a) P O 2 = X O 2 &times; P total = 0.320 &times; 4.00 atm = 1.28 atm . (b) \\( P_\\text{total} = \\dfrac{P_{\\text{O}_2}}{X_{\\text{O}_2}} = \\dfrac{1.40\\ \\text{atm}}{0.320} = 4.38\\ \\text{atm} \\) (c) \\( \\text{depth} = (4.375 - 1.00)\\ \\text{atm} \\times \\dfrac{10.1\\ \\text{m}}{1\\ \\text{atm}} = 34.1\\ \\text{m} \\) (a) 1.28 atm ; (b) 4.38 atm ; (c) about 34.1 m (about 112 ft). Remember to subtract the 1.00 atm of air above the water before converting to depth. (Context only; dive limits come from training agencies and dive computers.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 10.51",
+  "question": "Helium is pumped into a rigid tank that already holds oxygen at 0.800 atm, while the temperature stays constant. What happens to the partial pressure of the O 2 ? A. It increases, because the total pressure increases. B. It decreases, because the helium pushes the oxygen molecules aside. C. It becomes equal to the partial pressure of the helium. D. It stays at 0.800 atm.",
+  "answer": "D. In a mixture, each gas behaves as if it were alone in the container. The moles of O 2 , the volume, and the temperature have not changed, so the O 2 molecules hit the walls just as often as before. Only the total pressure rises, by the helium's partial pressure. (The mole fraction of O 2 does drop, but X O 2 &times; P total is still 0.800 atm.) A confuses the total pressure with the oxygen's share of it. B treats the gas particles as crowding each other. In an ideal gas, the particles take up almost none of the space and do not interact. C has no basis: partial pressures depend on the moles of each gas, and nothing forces them to be equal.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 10.52",
+  "question": "Mateo Herrera, the irrigation technician with asthma whose inspired oxygen you worked out in Section 10.6 above, walks the hospital hallway with a small portable oxygen cylinder. Its internal volume is 1.05 L, and it is filled to 1.85 &times; 10 3 psi at 21.0 &deg;C. (a) Convert the fill pressure to atm. (b) What volume would this oxygen occupy at 1.00 atm and the same temperature? (c) At 2.0 L/min, about how many minutes could it last? (d) How many moles and how many grams of O 2 (31.998 g/mol) does the cylinder hold? (Treat the fill pressure as the pressure of the gas.)",
+  "answer": "(a) \\( 1.85 \\times 10^{3}\\ \\text{psi} \\times \\dfrac{1\\ \\text{atm}}{14.7\\ \\text{psi}} = 126\\ \\text{atm} \\) (b) \\( V_2 = \\dfrac{P_1 V_1}{P_2} = \\dfrac{(125.85\\ \\text{atm})(1.05\\ \\text{L})}{1.00\\ \\text{atm}} = 132\\ \\text{L} \\) (c) 132.1 L &divide; 2.0 L/min = 66 min (two significant figures, set by 2.0 L/min). (d) \\( n = \\dfrac{PV}{RT} = \\dfrac{(125.85\\ \\text{atm})(1.05\\ \\text{L})}{(0.082058)(294.15\\ \\text{K})} = 5.47\\ \\text{mol} \\qquad 5.475\\ \\text{mol} \\times 31.998\\ \\tfrac{\\text{g}}{\\text{mol}} = 175\\ \\text{g} \\) (a) 126 atm ; (b) 132 L ; (c) about 66 min ; (d) 5.47 mol , or 175 g . In practice the cylinder is changed well before it is empty, so the usable time is shorter. (Context only; not a clinical calculation.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 10.53",
+  "question": "Vaccines and lab samples are shipped packed in dry ice, solid CO 2 (44.009 g/mol), which sublimes into gas. Shipping rules require the boxes to vent, and here is why. (a) If 45.0 g of dry ice sublimed completely inside a sealed 2.00 L plastic bottle at 22.0 &deg;C, what would the pressure be, in atm and in psi? (b) What volume would the same CO 2 occupy at 1.00 atm and 22.0 &deg;C?",
+  "answer": "n = 45.0 g &divide; 44.009 g/mol = 1.023 mol CO 2 ; T = 295.15 K. (a) \\( P = \\dfrac{nRT}{V} = \\dfrac{(1.023\\ \\text{mol})(0.082058)(295.15\\ \\text{K})}{2.00\\ \\text{L}} = 12.4\\ \\text{atm} \\qquad 12.38\\ \\text{atm} \\times \\dfrac{14.7\\ \\text{psi}}{1\\ \\text{atm}} = 182\\ \\text{psi} \\) (b) \\( V = \\dfrac{nRT}{P} = \\dfrac{(1.023\\ \\text{mol})(0.082058)(295.15\\ \\text{K})}{1.00\\ \\text{atm}} = 24.8\\ \\text{L} \\) (a) 12.4 atm , or 182 psi , far above what a soda bottle can hold; it would burst violently. (b) 24.8 L , more than twelve times the bottle's volume. Sublimation is a physical change, so the moles of CO 2 stay the same; only the state changes.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 10.54",
+  "question": "A 2.50 L anaerobic jar is sealed with air inside at 1.00 atm and 25.0 &deg;C. The air is 21.0% O 2 by moles. The hydrogen released into the jar removes the oxygen by the reaction 2 H 2 (g) + O 2 (g) &rarr; 2 H 2 O(l) (a) What is the partial pressure of O 2 in the jar before the reaction? (b) How many moles of O 2 does the jar hold? (c) How many moles of H 2 are needed to remove it all? (d) What volume would that H 2 occupy at 1.00 atm and 25.0 &deg;C? Check your answer with a volume ratio.",
+  "answer": "(a) P O 2 = 0.210 &times; 1.00 atm = 0.210 atm . (b) \\( n_{\\text{O}_2} = \\dfrac{P_{\\text{O}_2} V}{RT} = \\dfrac{(0.210\\ \\text{atm})(2.50\\ \\text{L})}{(0.082058)(298.15\\ \\text{K})} = 0.0215\\ \\text{mol} \\) (c) 0.02146 mol O 2 &times; (2 mol H 2 / 1 mol O 2 ) = 0.0429 mol H 2 . (d) \\( V = \\dfrac{nRT}{P} = \\dfrac{(0.04292\\ \\text{mol})(0.082058)(298.15\\ \\text{K})}{1.00\\ \\text{atm}} = 1.05\\ \\text{L} \\) (a) 0.210 atm ; (b) 0.0215 mol ; (c) 0.0429 mol ; (d) 1.05 L . Check: at 1.00 atm the O 2 alone would fill 21.0% of 2.50 L, or 0.525 L, and the 2 : 1 ratio gives 2 &times; 0.525 = 1.05 L of H 2 at the same T and P. Using the total pressure in (b) would overstate the oxygen nearly fivefold.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 10.55",
+  "question": "A student reacts a piece of zinc with excess hydrochloric acid and collects the hydrogen over water: Zn(s) + 2 HCl(aq) &rarr; ZnCl 2 (aq) + H 2 (g) She collects 28.4 mL of gas at 20.0 &deg;C when the barometric pressure is 749 mmHg (water vapor pressure at 20 &deg;C = 17.5 mmHg). (a) What is the pressure of the dry H 2 , in atm? (b) How many moles of H 2 were collected? (c) What mass of zinc (65.39 g/mol) reacted? (d) What mass would she calculate if she forgot to subtract the water vapor, and by what percent would it be off?",
+  "answer": "(a) P H 2 = 749 &minus; 17.5 = 731.5 mmHg &times; (1 atm / 760 mmHg) = 0.9625 atm (to the ones place in mmHg, 732 mmHg; carry the unrounded value). (b) \\( n = \\dfrac{PV}{RT} = \\dfrac{(0.9625\\ \\text{atm})(0.0284\\ \\text{L})}{(0.082058)(293.15\\ \\text{K})} = 1.14 \\times 10^{-3}\\ \\text{mol H}_2 \\) (c) \\( 1.136 \\times 10^{-3}\\ \\text{mol H}_2 \\times \\dfrac{1\\ \\text{mol Zn}}{1\\ \\text{mol H}_2} \\times \\dfrac{65.39\\ \\text{g}}{1\\ \\text{mol Zn}} = 0.0743\\ \\text{g Zn} \\) (d) Using 749 mmHg (0.9855 atm) gives n = 1.163 &times; 10 &minus;3 mol and 0.0761 g of zinc, about 2.4% too high . The answers: (a) 0.9625 atm ; (b) 1.14 &times; 10 &minus;3 mol ; (c) 0.0743 g . Remember to convert 28.4 mL to 0.0284 L for R.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 10.56",
+  "question": "Valley packing houses ripen fruit such as tomatoes and bananas with a gas. A 0.268 g sample of the gas occupies 0.250 L at 0.950 atm and 30.0 &deg;C. (a) Find its molar mass. (b) Is it methane (CH 4 , 16.043 g/mol), ethylene (C 2 H 4 , 28.054 g/mol), ethane (C 2 H 6 , 30.070 g/mol), or propane (C 3 H 8 , 44.097 g/mol)? (c) The gas burns by the reaction below. What volumes of O 2 are used and of CO 2 made when the 0.250 L sample burns, with all gases at the same temperature and pressure? C 2 H 4 (g) + 3 O 2 (g) &rarr; 2 CO 2 (g) + 2 H 2 O(g)",
+  "answer": "(a) \\( n = \\dfrac{PV}{RT} = \\dfrac{(0.950\\ \\text{atm})(0.250\\ \\text{L})}{(0.082058)(303.15\\ \\text{K})} = 0.009547\\ \\text{mol} \\qquad M = \\dfrac{0.268\\ \\text{g}}{0.009547\\ \\text{mol}} = 28.1\\ \\text{g/mol} \\) (a) 28.1 g/mol . (b) Ethylene , C 2 H 4 (28.054 g/mol); ethane (30.070 g/mol) is about 7% too heavy. Fruits make ethylene themselves as a ripening hormone, so a little extra speeds up and evens out ripening. (c) Same T and P, so the coefficients are volume ratios: 0.250 L C 2 H 4 &times; 3 = 0.750 L O 2 used, and 0.250 L &times; 2 = 0.500 L CO 2 made.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 10.57",
+  "question": "An open jar holds 0.120 mol of air at 15.0 &deg;C. The jar is warmed to 60.0 &deg;C; its volume does not change, and because it is open, the pressure stays equal to the room's. How many moles of air remain in the jar? A. 0.104 mol B. 0.139 mol C. 0.0300 mol D. 0.120 mol",
+  "answer": "A. P and V are constant, so cross them out of P 1 V 1 /(n 1 T 1 ) = P 2 V 2 /(n 2 T 2 ), leaving n 1 T 1 = n 2 T 2 . With T 1 = 288.15 K and T 2 = 333.15 K: \\( n_2 = \\dfrac{n_1 T_1}{T_2} = \\dfrac{(0.120\\ \\text{mol})(288.15\\ \\text{K})}{333.15\\ \\text{K}} = 0.104\\ \\text{mol} \\) Warming pushes some air out of the open jar, so fewer moles remain. B treats n and T as directly related (0.120 &times; 333.15/288.15). More moles in a warmer, open jar of fixed size is backward. C uses Celsius temperatures (0.120 &times; 15.0/60.0). Gas laws need kelvins. D assumes nothing changes; that would be true only for a sealed jar, whose pressure would rise instead.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 10.58",
+  "question": "A balloon holds 2.25 L of air at 21.0 &deg;C. At constant pressure, to what temperature must it be heated for its volume to reach 2.60 L? Give the answer in kelvins and in &deg;C.",
+  "answer": "Charles's law, V 1 /T 1 = V 2 /T 2 , has the unknown in a denominator, so flip both sides: T 1 /V 1 = T 2 /V 2 . T 1 = 294.15 K. \\( T_2 = \\dfrac{T_1 V_2}{V_1} = \\dfrac{(294.15\\ \\text{K})(2.60\\ \\text{L})}{2.25\\ \\text{L}} = 340.\\ \\text{K} \\qquad 340. - 273.15 = 67\\ {}^\\circ\\text{C} \\) The answer is 340. K (three significant figures, shown by the decimal point), which is 67 &deg;C (the kelvin value is known to the ones place, so the Celsius value is too). The volume grew, so the temperature had to rise: a direct relationship.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 10.59",
+  "question": "\"A 2.50 L flask holds 0.110 mol of argon at 28.0 &deg;C. What is the pressure in the flask?\" Which equation should you use? A. PV = nRT B. P 1 V 1 /T 1 = P 2 V 2 /T 2 C. P 1 V 1 = P 2 V 2 D. P total = P 1 + P 2",
+  "answer": "A. There is one volume, one amount, and one temperature, and nothing changes: no subscripts, so this is the current state of the gas. P = nRT/V = (0.110)(0.082058)(301.15) &divide; 2.50 = 1.09 atm. B and C compare a gas before and after a change; they need two values (subscripts 1 and 2) of at least one variable. D is Dalton's law for mixtures; the flask holds only argon.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 10.60",
+  "question": "A 0.562 g sample of a diatomic element occupies 0.520 L at 0.950 atm and 27.0 &deg;C. Identify the element.",
+  "answer": "\\( n = \\dfrac{PV}{RT} = \\dfrac{(0.950)(0.520)}{(0.082058)(300.15)} = 0.02006\\ \\text{mol} \\qquad M = \\dfrac{0.562\\ \\text{g}}{0.02006\\ \\text{mol}} = 28.0\\ \\text{g/mol} \\) Half of 28.0 is 14.0, the atomic mass of nitrogen. The gas is N 2 (28.014 g/mol). On the calculator, put (0.082058 &times; 300.15) in parentheses.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 10.61",
+  "question": "A gas used in welding torches is 92.26% carbon and 7.74% hydrogen by mass. A 0.325 g sample occupies 0.280 L at STP. Find its empirical formula, molar mass, and molecular formula. (C 12.011, H 1.008 g/mol)",
+  "answer": "Molar mass: 0.280 L &divide; 22.4 L/mol = 0.0125 mol; 0.325 g &divide; 0.0125 mol = 26.0 g/mol . Empirical formula (100 g basis): 92.26 &divide; 12.011 = 7.681 mol C; 7.74 &divide; 1.008 = 7.679 mol H. The ratio is 1 : 1, so the empirical formula is CH (13.019 g/mol). Multiplier: 26.0 &divide; 13.019 = 2.00. The molecular formula is C 2 H 2 (acetylene, 26.038 g/mol). The percent data alone could never tell CH from C 2 H 2 or C 6 H 6 ; the gas data supply the molar mass that decides.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 61,
+  "title": "Problem 10.62",
+  "question": "Mg(s) + 2 HCl(aq) &rarr; MgCl 2 (aq) + H 2 (g). A student collects 82.5 mL of H 2 over water at 30.0 &deg;C and a total pressure of 755 mmHg. What mass of magnesium (24.31 g/mol) reacted?",
+  "answer": "P H2 = 755 &minus; 31.8 = 723 mmHg = 0.9513 atm. V = 0.0825 L; T = 303.15 K. \\( n_{\\text{H}_2} = \\dfrac{(0.9513)(0.0825)}{(0.082058)(303.15)} = 3.155 \\times 10^{-3}\\ \\text{mol} \\qquad 3.155 \\times 10^{-3}\\ \\text{mol H}_2 \\times \\dfrac{1\\ \\text{mol Mg}}{1\\ \\text{mol H}_2} \\times 24.31\\ \\dfrac{\\text{g}}{\\text{mol}} = 0.0767\\ \\text{g Mg} \\) The answer is 0.0767 g Mg (76.7 mg). The water vapor was subtracted first, so the pressure belongs to the hydrogen alone, and the moles from PV = nRT are moles of H 2 , converted to Mg by the mole ratio.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 62,
+  "title": "Problem 10.63",
+  "question": "A sealed flask at a total pressure of 2.00 atm contains 5 &#9650; (He), 3 &#9679; (Ne), and 2 &#9632; (Ar). What is the partial pressure of neon? A. 0.600 atm B. 0.667 atm C. 0.300 atm D. 1.00 atm",
+  "answer": "A. There are 10 particles, 3 of them neon: X Ne = 3/10 = 0.300, and P Ne = 0.300 &times; 2.00 atm = 0.600 atm. B splits the pressure equally among the three gases (2.00 &divide; 3). Each gas's share depends on how many particles it has, not on how many kinds of gas there are. C is the mole fraction, 0.300, which has no units; multiply it by the total pressure. D is the partial pressure of helium (5/10 &times; 2.00 atm), the gas with the most particles.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 63,
+  "title": "Problem 10.64",
+  "question": "A rigid cylinder holds 4.00 g of helium (4.003 g/mol) at 0.800 atm. Nitrogen (28.014 g/mol) is added at the same temperature until the pressure is 2.00 atm. What mass of N 2 was added?",
+  "answer": "n He = 4.00 &divide; 4.003 = 0.9993 mol. At fixed V and T, pressure is proportional to total moles, whatever the gases are: \\( n_\\text{total} = 0.9993 \\times \\dfrac{2.00\\ \\text{atm}}{0.800\\ \\text{atm}} = 2.498\\ \\text{mol} \\qquad n_{\\text{N}_2} = 2.498 - 0.9993 = 1.499\\ \\text{mol} \\qquad 1.499 \\times 28.014 = 42.0\\ \\text{g} \\) The answer is 42.0 g N 2 . Although each N 2 molecule is 7 times as heavy as a He atom, it pushes no harder; the 1.20 atm rise comes from 1.50 times as many moles as the helium's 0.800 atm.",
+  "mc": false,
+  "terse_answer": false
+ }
+]

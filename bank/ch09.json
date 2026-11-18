@@ -1149,7 +1149,7 @@
   "y": [
    "Four identical polar bonds in a symmetric tetrahedron cancel, so CCl<sub>4</sub> is nonpolar and has dispersion forces only.",
    "The bonds are polar, but the molecule is not: symmetric shapes with identical outer atoms cancel the bond dipoles (SNAP).",
-   "CCl<sub>4</sub> has no hydrogen at all.",
+   "CCl<sub>4</sub> has no hydrogen at all, so it cannot hydrogen bond. Its bond dipoles cancel in the symmetric shape, so it is nonpolar.",
    "CCl<sub>4</sub> is a molecule, not an ionic compound, and there are no ions."
   ],
   "h": "SNAP: symmetric, nonpolar.",

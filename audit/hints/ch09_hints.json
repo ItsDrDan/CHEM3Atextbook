@@ -1,0 +1,716 @@
+[
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 9.1",
+  "hint": "Which choices describe something moving? Potential energy is stored energy, such as the energy in the arrangement of a molecule's atoms.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 9.2",
+  "hint": "For each, ask: is it moving (kinetic), or is the energy stored by position or chemical arrangement (potential)? For (e), follow the energy as the almond falls and stops; energy is never destroyed.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 9.3",
+  "hint": "Apply the law of conservation of energy to each choice. Can energy be destroyed? Is temperature a form of energy or a measurement?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 9.4",
+  "hint": "Temperature tracks the average kinetic energy; the distance between molecules tracks potential energy. Does the temperature change in (a)? In (b)?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 9.5",
+  "hint": "(a) Temperature measures the average kinetic energy per particle. (b) Heat released depends on mass too (q = mc&Delta;T): compare how much water each holds.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 9.6",
+  "hint": "(a) &deg;C = (&deg;F &minus; 32)/1.8, then add 273.15; watch significant figures after subtracting 32. (b) Heat flows from hot to cold. (c) Evaporation absorbs heat. (d) Humid air already holds water vapor.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 9.7",
+  "hint": "Use &deg;F = 1.8(&deg;C) + 32. A fever in &deg;F should be a little above 98.6 &deg;F.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 9.8",
+  "hint": "&deg;F = 1.8(&deg;C) + 32 and K = &deg;C + 273.15; in the Kelvin sum, keep the decimal places of the measurement. Then compare with 35.0 &deg;C.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 9.9",
+  "hint": "K = &deg;C + 273.15; keep the negative sign of the Celsius value. Can a Kelvin temperature ever be negative?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 9.10",
+  "hint": "This is a change in temperature, not a reading: do not subtract 32 or add 273.15. A Celsius degree is 1.8 Fahrenheit degrees; a kelvin is the same size as a Celsius degree.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 9.11",
+  "hint": "Convert all three to the same scale (&deg;C is easiest), then compare.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 9.12",
+  "hint": "A food Calorie is 1000 cal, and 1 Cal = 4.184 kJ. Should the number of kilojoules be bigger or smaller than the number of Calories?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 9.13",
+  "hint": "(a) kJ &rarr; J, then &divide; 4.184 J/cal; 1 Cal = 1000 cal. (b) The sign of q is written from the system's point of view: heat released is negative.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 9.14",
+  "hint": "Convert every choice to joules (1 cal = 4.184 J; 1 Cal = 4184 J), then compare. The biggest number is not always the most energy.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 9.15",
+  "hint": "Name the process in each choice. Does it pull particles apart or bring them together, and which of those releases heat to the surroundings?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 9.16",
+  "hint": "The system is the thing that changes. If it warms or turns to gas, it absorbed heat (q &gt; 0); if it cools, q &lt; 0. For (d), which way does heat really flow?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 9.17",
+  "hint": "&Delta;T = final &minus; initial; then q = mc&Delta;T with c = 4.184 J/(g&middot;&deg;C). Divide by 1000 for kilojoules.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 9.18",
+  "hint": "Use q = mc&Delta;T with c for copper, 0.385 J/(g&middot;&deg;C), and &Delta;T = final &minus; initial. A cooling object releases heat, so what sign should q have?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 9.19",
+  "hint": "Change kJ to J first, because c is in joules. Solve q = mc&Delta;T for &Delta;T, then add &Delta;T to the starting temperature.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 9.20",
+  "hint": "Convert kJ to J, solve &Delta;T = q/(mc), then add &Delta;T to the starting temperature. The question asks for the final temperature, not the change.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 9.21",
+  "hint": "Solve q = mc&Delta;T for c = q/(m&Delta;T), with q in joules. Then compare your value with the specific heat table.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 9.22",
+  "hint": "Solve q = mc&Delta;T for m = q/(c&Delta;T), with &Delta;T = final &minus; initial.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 9.23",
+  "hint": "For each solid, &Delta;T = final &minus; initial and q<sub>water</sub> = mc&Delta;T with the water's mass; q<sub>dissolving</sub> = &minus;q<sub>water</sub>. If the water warmed, the dissolving released heat.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 9.24",
+  "hint": "(a) q<sub>water</sub> = mc&Delta;T for the water. (b) Heat lost by the metal = heat gained by the water, so the signs are opposite. (c) c = q/(m&Delta;T) for the metal, with its own &Delta;T.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 9.25",
+  "hint": "On a plateau the temperature, and so the average kinetic energy, stays the same. Does melting break bonds inside H<sub>2</sub>O molecules, or separate the molecules from each other?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 9.26",
+  "hint": "Grams &rarr; moles of water, then q = n&Delta;H<sub>fus</sub> with 6.02 kJ/mol. To check, multiply the grams by 334 J/g.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 9.27",
+  "hint": "Grams &rarr; moles, then q = n&Delta;H<sub>vap</sub>. Condensing is the reverse of vaporizing: same size, opposite sign.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 9.28",
+  "hint": "(a) Grams of sweat &rarr; moles, then &times; 40.7 kJ/mol. (b) 1 Cal = 4.184 kJ. (c) If the true heat per mole is larger, is the real heat removed larger or smaller?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 9.29",
+  "hint": "(a) Grams &rarr; moles, then &times; 6.02 kJ/mol; freezing releases heat, so q is negative. (b) Heat leaves the system for the surroundings. (c) What does temperature do during a phase change?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 9.30",
+  "hint": "Flat segments on a heating curve are phase changes at constant temperature: the lower one is melting, the higher one boiling. Sloped segments warm one state and use q = mc&Delta;T.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 9.31",
+  "hint": "Two steps: warm the liquid to 100.0 &deg;C (q = mc&Delta;T), then boil it (q = n&Delta;H<sub>vap</sub>). Put both heats in the same unit before adding.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 9.32",
+  "hint": "Does the ice ever reach 0 &deg;C? If not, it is one sloped segment: q = mc&Delta;T with c for ice, 2.09 J/(g&middot;&deg;C), and &Delta;T = final &minus; initial.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 9.33",
+  "hint": "Hydrogen bonding needs an H bonded directly to N, O, or F (the donor) and a lone pair on N, O, or F (the acceptor). Check where each H is attached.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 9.34",
+  "hint": "First decide polar or nonpolar (bond &Delta;EN and shape). Every substance has dispersion; polar adds dipole&ndash;dipole; H on N, O, or F adds hydrogen bonding; ions in water give ion&ndash;dipole.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 9.35",
+  "hint": "Is CH<sub>2</sub>Cl<sub>2</sub> polar? A tetrahedron is symmetric only when all four atoms around carbon are the same. Is any H bonded to N, O, or F?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 9.36",
+  "hint": "Is boiling a physical or a chemical change? Decide whether a hydrogen bond is an attraction inside one molecule or between neighboring molecules.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 9.37",
+  "hint": "(a) Count the hydrogen bonds per base pair: fewer attractions take less energy to overcome. (b) Bonds versus intermolecular forces. (c) Which atoms make an H positive enough to hydrogen bond?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 9.38",
+  "hint": "Dispersion forces grow with the number of electrons. Count the electrons in each molecule: 1 for H plus the halogen's atomic number.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 9.39",
+  "hint": "(a) The sizes are similar, so compare the strongest force: is either molecule polar, and does either have H on N, O, or F? (b) Compare O with N, and the hydrogen bonds per molecule.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 9.40",
+  "hint": "Classify each solid first: molecular, ionic, covalent network, or metallic. What must break when quartz melts, compared with dry ice subliming?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 9.41",
+  "hint": "Metal + nonmetal: ionic. Metal alone: metallic. Separate molecules: molecular. Atoms covalently bonded throughout (diamond, graphite, quartz, SiC): covalent network.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 9.42",
+  "hint": "Use the clues: which type of solid conducts as a solid? Which conducts only when melted or dissolved? Which melts low? Which is extremely hard? Then match each type to a named substance.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 9.43",
+  "hint": "Surface tension rises with the strength of the intermolecular forces. Find the strongest force in each liquid, then compare how many hydrogen bonds each molecule can make.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 9.44",
+  "hint": "(a) Compare water's attraction to glass (adhesion) with its attraction to itself (cohesion). (b) Count the O&ndash;H groups per molecule. (c) Cold molecules move more slowly; what does that do to flow?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 9.45",
+  "hint": "What condition must be met for a liquid to boil? Then think about how water's vapor pressure changes as its temperature rises.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 9.46",
+  "hint": "The molar masses are nearly equal, so dispersion is similar and the strongest force decides. Check each for polarity and for an O&ndash;H. Stronger forces mean a higher boiling point and a lower vapor pressure.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 9.47",
+  "hint": "The electron counts are equal, so dispersion is similar. Find each molecule's strongest force (nonpolar? polar? H on O?) and rank by it.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 9.48",
+  "hint": "The highest vapor pressure goes with the weakest intermolecular forces. Which liquid cannot hydrogen bond with itself? Among the rest, count O&ndash;H groups.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 9.49",
+  "hint": "(a) Solid straight to gas. (b) Does separating molecules completely take in or give off heat? (c) Compare the ice's vapor pressure with the surrounding pressure. (d) What would warming do to the sample?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 9.50",
+  "hint": "Classify each solid first (molecular, ionic, covalent network). Molecular solids melt lowest and covalent networks highest; compare the two molecular solids by their strongest force.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 9.51",
+  "hint": "Sketch five segments: ice slope, melt, water slope, boil, steam slope. Slopes use mc&Delta;T with the right c; plateaus use n&Delta;H. Put every q in kJ before adding.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 9.52",
+  "hint": "(a) &deg;C = (&deg;F &minus; 32)/1.8. (b) q = mc&Delta;T with &Delta;T = final &minus; initial. (c) Divide kJ by 4.184 kJ/Cal. (d) For a change, just divide the &deg;F change by 1.8.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 9.53",
+  "hint": "(a) Subtract masses. (b), (c) q = mc&Delta;T for the warm water and for the meltwater from 0.0 &deg;C. (d) Heat lost = heat gained, so subtract. (e) Divide by grams, then by moles.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 9.54",
+  "hint": "Find each liquid's strongest force: two O&ndash;H, one O&ndash;H, or a C=O with no O&ndash;H. Stronger forces mean a higher boiling point, a lower vapor pressure, and slower evaporation. Evaporation absorbs heat.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 9.55",
+  "hint": "(a) Two steps: condense (q = n&Delta;H<sub>vap</sub>, released), then cool the water (mc&Delta;T). (b) The cooling step only. (c) Divide (a) by (b). (d) Which plateau does steam pass through?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 9.56",
+  "hint": "Mass = each volume &times; its density, added. &Delta;T = final &minus; initial; q<sub>solution</sub> = mc&Delta;T and q<sub>reaction</sub> = &minus;q<sub>solution</sub>. Watch the significant figures in &Delta;T.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 9.57",
+  "hint": "Five segments: ice slope, melt, water slope, boil, steam slope. Find moles once for the plateaus, use the right c for each slope, convert all to kJ, and add.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 9.58",
+  "hint": "Three steps, all releasing heat: condense at 100 &deg;C, cool the water to 0 &deg;C, then freeze. Do not skip the cooling slope between the two plateaus.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 9.59",
+  "hint": "Convert volume to mass first (L &rarr; mL &rarr; g with the density). Then q = mc&Delta;T with &Delta;T = final &minus; initial.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 9.60",
+  "hint": "Two steps: warm the solid lead to its melting point (mc&Delta;T with lead's c), then melt it (grams &rarr; moles, &times; &Delta;H<sub>fus</sub>). Add them in kJ.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 9.61",
+  "hint": "A molecule hydrogen bonds with itself only if it has an H on N, O, or F (a donor) and a lone pair on N, O, or F (an acceptor). Check where each H sits.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 61,
+  "title": "Problem 9.62",
+  "hint": "To conduct, charges must be free to move inside the solid. Which type of solid has mobile electrons?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 62,
+  "title": "Problem 9.63",
+  "hint": "(a) Picture the hump of kinetic energies and the minimum energy needed to escape. (b) Which liquid forms fewer hydrogen bonds per molecule? (c) Where must a molecule be to escape?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.1_energy.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Moving now: kinetic. Stored by position, stretch, or chemical arrangement: potential.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.1_energy.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Temperature is a measure of the average kinetic energy of the particles.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.1_energy.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Recall the law of conservation of energy. Into what forms does the wood's chemical potential energy change?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.1_energy.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Use the summary grid: molecules that move closer together lose potential energy. Where does that energy go?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.2_temperature.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Use the yellow-sheet &deg;C-to-&deg;F formula on each end of the range: multiply first, then add 32. Keep the negative sign when you multiply.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.2_temperature.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Two steps: &deg;C = (&deg;F &minus; 32)/1.8, then K = &deg;C + 273.15. Type the parentheses on the calculator.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.2_temperature.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "This is a change, not a reading: do not add 273.15 or 32. A kelvin equals a Celsius degree, and a Celsius degree is 1.8 Fahrenheit degrees.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.3_heat_units.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Use the exact relation 1 Cal = 4.184 kJ; the number of kilojoules should be about 4 times the number of Calories.",
+  "why": "A food Calorie is 4.184 kJ, so 155 Cal &times; 4.184 kJ/Cal gives kilojoules, with three significant figures like 155 (the conversion is exact)."
+ },
+ {
+  "file": "drafts/ch09/9.3_heat_units.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Divide joules by 4.184 J/cal. The system absorbs heat, so what sign does q take?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.3_heat_units.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Ask whether the particles come together (heat released) or move apart (heat absorbed). Burning gives off heat and light.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.3_heat_units.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Use 4.184 kJ per Cal. A Calorie is bigger than a kilojoule, so should the number of Calories be smaller or larger than the number of kilojoules?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.3_heat_units.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Heat goes in (a reactant) for endothermic changes and comes out (a product) for exothermic ones. Which change pulls the molecules apart?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.4_specific_heat.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "&Delta;T = final &minus; initial; then q = mc&Delta;T with c = 4.184 J/(g&middot;&deg;C).",
+  "why": "The water warms by 55.0 &deg;C, so q = (50.0 g)(4.184 J/(g&middot;&deg;C))(55.0 &deg;C); q is positive because the water absorbs heat."
+ },
+ {
+  "file": "drafts/ch09/9.4_specific_heat.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Solve q = mc&Delta;T for &Delta;T = q/(mc).",
+  "why": "Dividing the heat by mass &times; specific heat leaves only &deg;C: 125 J &divide; (15.0 g &times; 0.128 J/(g&middot;&deg;C)); gold's low specific heat gives a large rise."
+ },
+ {
+  "file": "drafts/ch09/9.4_specific_heat.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Compare the specific heats. A lower c means each gram needs less heat for each degree.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.4_specific_heat.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "m is everything in the cup (solid + water). &Delta;T = final &minus; initial; q<sub>solution</sub> = mc&Delta;T, and q<sub>dissolving</sub> = &minus;q<sub>solution</sub>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.4_specific_heat.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Convert the volume to mass with the density first, then use q = mc&Delta;T.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.5_phase_changes.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Grams &rarr; moles of water, then q = n&Delta;H<sub>vap</sub> (40.7 kJ/mol). The water is already at 100 &deg;C, so there is no slope step.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.5_phase_changes.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Grams &rarr; moles, then &times; &Delta;H<sub>fus</sub> (6.02 kJ/mol). Freezing releases heat, so q is negative.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.5_phase_changes.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Compare &Delta;H<sub>vap</sub> with &Delta;H<sub>fus</sub> for water. On a flat segment, what does the temperature do?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.5_phase_changes.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Read the curve from right to left. Plateaus are phase changes; sloped parts are one state cooling. Removing heat while particles come together is which change?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.5_phase_changes.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "The aluminum is already at its melting point, so there is only a plateau: grams &rarr; moles, then &times; &Delta;H<sub>fus</sub>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.5_phase_changes.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "hint": "These values are per gram, so q = m &times; &Delta;H for each step. Watch the significant figures in 80. and 540.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.5_phase_changes.html",
+  "idx": 6,
+  "title": "Exercise \\(\\PageIndex{7}\\) (Going Further)",
+  "hint": "Locate each point on the phase diagram: 1 atm and 50 &deg;C; where the 1 atm line meets the liquid&ndash;gas curve; and below the triple point, which two regions touch?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.6_imf.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Look for an H bonded directly to N, O, or F. An H on carbon does not count.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.6_imf.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Decide polar or nonpolar from bond polarity and shape, then check for H on N, O, or F.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.6_imf.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Both have dispersion forces only, so compare the number of electrons in each molecule.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.6_imf.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "The donor supplies the H bonded to N, O, or F; the acceptor supplies the lone pair.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.6_imf.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Use the coin-flip table: is an exactly even split of electrons more or less likely with more electrons? What does a lopsided cloud do to dispersion forces?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.7_liquids_solids.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Metal + nonmetal: ionic. Metal alone: metallic. Separate molecules: molecular. Atoms covalently bonded throughout: covalent network.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.7_liquids_solids.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Use the property clues: a high melting point, and conduction only when melted or dissolved. Which type of solid has charged particles locked in place?",
+  "why": "Ionic solids have strong ionic bonds (a high melting point) and ions locked in a lattice, so they conduct only when melting or dissolving frees the ions to move."
+ },
+ {
+  "file": "drafts/ch09/9.7_liquids_solids.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Viscosity depends on how easily molecules overcome their attractions. What happens to molecular speed when honey cools?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.7_liquids_solids.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Use the property table: weak forces give low values, except for the one row that runs the other way.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.7_liquids_solids.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Classify first: noble-gas atoms, metal + nonmetal, metal alone, or a network of covalent bonds. Conducting needs charges that are free to move.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.8_vapor_pressure_ranking.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "For each pair, find the strongest force first; if it is the same, compare the number of electrons.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.8_vapor_pressure_ranking.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "A liquid boils when its vapor pressure equals the outside pressure. How does air pressure change with altitude?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.8_vapor_pressure_ranking.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Weaker forces mean a higher vapor pressure. Which can hydrogen bond with itself, and how many O&ndash;H groups does each have?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.8_vapor_pressure_ranking.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Smelling a substance from across the room means its molecules escape easily. How are vapor pressure and intermolecular forces related?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch09/9.8_vapor_pressure_ranking.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Picture the hump of kinetic energies and the minimum energy needed to escape. What does a higher temperature do to the hump?",
+  "why": ""
+ }
+]

@@ -1,0 +1,618 @@
+[
+ {
+  "file": "drafts/ch04/4.1_formulas_and_types.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Find the oxygen inside the parentheses first, then multiply by the subscript just outside them; that subscript counts whole carbonate groups.",
+  "why": "Each carbonate ion, CO<sub>3</sub><sup>2&minus;</sup>, has 3 O, and the subscript 3 after the parentheses means three carbonate groups, so 3 &times; 3."
+ },
+ {
+  "file": "drafts/ch04/4.1_formulas_and_types.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Look at the first part of each formula: a metal or NH<sub>4</sub> means ionic, H first and dissolved in water means acid, and nonmetals only means molecular.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.1_formulas_and_types.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Recall the seven diatomic elements: hydrogen plus the \"7\" shape that starts at nitrogen (N, O, F, then down the halogens). Which of these four are on that list?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.1_formulas_and_types.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "(a) The subscripts count ions: one belongs to Mg, the one outside the parentheses to phosphate. (b) Multiply everything inside the parentheses. (c) What do parentheses show about the ions?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.2_ionic_formulas.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Get each ion's charge from its group (group 1 is 1+, group 16 is 2&minus;, and so on), then swap-drop, reduce, and check that the total charge is zero.",
+  "why": "Each formula has zero total charge: two K<sup>+</sup> balance one S<sup>2&minus;</sup>, three Cl<sup>&minus;</sup> balance one Al<sup>3+</sup>, and three Ba<sup>2+</sup> (6+) balance two N<sup>3&minus;</sup> (6&minus;)."
+ },
+ {
+  "file": "drafts/ch04/4.2_ionic_formulas.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Look up each polyatomic ion on the green sheet, keep it as one unit, and use parentheses only when you need more than one of it.",
+  "why": "Mg<sup>2+</sup> needs two NO<sub>3</sub><sup>&minus;</sup>, three Na<sup>+</sup> balance one PO<sub>4</sub><sup>3&minus;</sup>, and two NH<sub>4</sub><sup>+</sup> balance one CO<sub>3</sub><sup>2&minus;</sup>."
+ },
+ {
+  "file": "drafts/ch04/4.2_ionic_formulas.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Start from each -ate ion (sulfate, bromate). -ite has one less O and per-...-ate one more, with the same charge; each added H<sup>+</sup> makes the charge one less negative.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.2_ionic_formulas.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Use the chlorine family as a template and change only the element: iodine is in the same column, so its ions have the same number of O atoms and the same charge.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.2_ionic_formulas.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Use T43: Si and B sit in the T (3 O), Te in the 4 (4 O); compare with carbonate, borate, and sulfate. For (d), swap-drop, then reduce the subscripts.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.2_ionic_formulas.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "hint": "Start from the ion whose charge you know: oxide is always 2&minus;. How much negative charge do two oxides carry? One Mn must balance it. Was the formula reduced?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.3_naming_ionic.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "First ask: is the metal on the fixed-charge list (group 1, group 2, Al, Zn, Ag)? If not, find its charge from the total anion charge and write it as a Roman numeral.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.3_naming_ionic.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Read each Roman numeral as the cation's charge, not a subscript; ferric is the higher iron charge. Then look up the anion, swap-drop, and reduce if you can.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.3_naming_ionic.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Name the salt first, then add a Greek prefix plus \"hydrate\" for the waters. Going the other way, the number of waters goes in front of H<sub>2</sub>O after a raised dot.",
+  "why": "Barium is a group 2 fixed-charge metal (no numeral) and di- means 2 waters; deca- means 10 waters, written after Na<sub>2</sub>CO<sub>3</sub>, where two Na<sup>+</sup> balance one CO<sub>3</sub><sup>2&minus;</sup>."
+ },
+ {
+  "file": "drafts/ch04/4.3_naming_ionic.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Use the charge pairs: copper and mercury are I/II; chromium, iron, and cobalt are II/III; tin and lead are II/IV. The -ous name is the lower charge, -ic the higher.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.3_naming_ionic.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Turn each Roman numeral into the cation's charge, get the anion's charge (periodic table or green sheet), then swap-drop and reduce.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.4_naming_molecular.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Both elements are nonmetals, so use Greek prefixes for each atom count. Skip mono- on the first element, and end the second element in -ide.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.4_naming_molecular.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "The prefixes give the subscripts directly (di- = 2, tri- = 3, tetra- = 4, hexa- = 6), and no prefix on the first element means one atom. No charges, no swapping.",
+  "why": "In a molecular compound each prefix is the atom count: carbon has no prefix (1 C) and disulfide means 2 S, triiodide means 3 I, and tetraphosphorus hexoxide means 4 P and 6 O."
+ },
+ {
+  "file": "drafts/ch04/4.4_naming_molecular.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Classify each first: does the formula start with a metal (ionic, no prefixes) or contain only nonmetals (molecular, prefixes required)?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.5_naming_acids.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Go through the anion: name the ion hiding after the H. An -ide ion gives hydro-...-ic acid, -ate gives -ic acid, and -ite gives -ous acid.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.5_naming_acids.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Work backward from the acid name to the anion (-ic from -ate, -ous from -ite), then add one H<sup>+</sup> for each negative charge on the anion.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.5_naming_acids.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Find the anion behind each name. Hydro- signals a binary acid from an -ide ion; no hydro- means an oxyacid from an oxygen-containing ion.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.5_naming_acids.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Front or back? H written first means an acid; OH written last means a base (a metal hydroxide). For the acids, name the anion first, then change its ending.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.6_naming_any_compound.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Follow the blue naming sheet: Is there a metal? Is the first element H? Then count the elements. For iron, find its charge from the sulfates.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.6_naming_any_compound.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Read the clue in each name: prefixes mean molecular, a metal name means ionic (swap-drop), \"acid\" means start from the anion, and ammonium is a cation.",
+  "why": "Tri- gives F<sub>3</sub>; three Mg<sup>2+</sup> balance two N<sup>3&minus;</sup>; nitric acid comes from nitrate, NO<sub>3</sub><sup>&minus;</sup>, with one H<sup>+</sup>; and NH<sub>4</sub><sup>+</sup> pairs 1 : 1 with nitrite, NO<sub>2</sub><sup>&minus;</sup>."
+ },
+ {
+  "file": "drafts/ch04/4.6_naming_any_compound.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Classify each compound first. In which one do the ion charges already fix the ratio, and in which one are there no charges to tell you the atom counts?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 4.1",
+  "hint": "The subscript after the parentheses multiplies everything inside. How many O are in one phosphate, and how many phosphates are there?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 4.2",
+  "hint": "List each element with its count. A subscript outside parentheses multiplies only what is inside; a coefficient in front multiplies the whole formula.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 4.3",
+  "hint": "Check the first part of each formula: a metal or NH<sub>4</sub><sup>+</sup> means ionic. Which compound is made only of nonmetals, with no ammonium ion?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 4.4",
+  "hint": "For each formula ask: is the first symbol a metal or NH<sub>4</sub>? Does it start with H and say (aq)? Otherwise, nonmetals only means molecular.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 4.5",
+  "hint": "Recall the seven diatomic elements and where they sit on the periodic table (the &ldquo;7&rdquo; shape). Check every element in each list; one element off that list rules the list out.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 4.6",
+  "hint": "What does the subscript after the parentheses do? Count the atoms in one carbonate group first, then multiply by the number of groups.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 4.7",
+  "hint": "(a) Multiply only what is inside the parentheses. (b) Look at the first element. (c) Multiply each ion's charge by how many of that ion there are, then add.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 4.8",
+  "hint": "Is the first part of the formula a metal, a nonmetal atom, or a polyatomic ion from the green sheet? Count the N atoms in the whole formula before you trust any atom count.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 4.9",
+  "hint": "Get each ion's charge from its group on the periodic table, swap the charge numbers down as subscripts, reduce, and check that the total charge is zero.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 4.10",
+  "hint": "Write the ions first: Mg<sup>2+</sup> and phosphate from the green sheet. Swap-drop, then check which choice gives zero total charge and still contains phosphate.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 4.11",
+  "hint": "Start from the -ate ion on the green sheet. Change the O count for -ite, per-, or hypo- (charge stays the same); each added H<sup>+</sup> makes the charge one less negative.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 4.12",
+  "hint": "For the formulas, balance the charges and use parentheses only for two or more polyatomic ions. Going backward, spot the polyatomic ion first; its own subscripts are not the ratio.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 4.13",
+  "hint": "Start from the anion you know. Find the total negative charge, then divide by the number of metal ions to get each metal ion's charge.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 4.14",
+  "hint": "Write Ca<sup>2+</sup> and NO<sub>3</sub><sup>&minus;</sup>. How many nitrates balance one calcium, and how do you show more than one polyatomic ion?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 4.15",
+  "hint": "Write the ions with their charges for each and check whether the total charge is zero. Fix a wrong one by changing how many ions, never the ion itself.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 4.16",
+  "hint": "(a) Find each ion (green sheet for polyatomic ions) and balance the charges. (b) Count the N in each formula; each ammonium ion contains one N.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 4.17",
+  "hint": "Use the oxide to find the metal's charge: three O<sup>2&minus;</sup> give how much negative charge, shared by two M? Then pair that cation with Cl<sup>&minus;</sup>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 4.18",
+  "hint": "Check whether each metal is on the fixed-charge list. Then pair the cation with the anion (green sheet for polyatomic ions) and balance the charges.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 4.19",
+  "hint": "Find each metal's charge from the anions and write it as a Roman numeral. For the older name, use the Latin root with -ous for the lower charge, -ic for the higher.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 4.20",
+  "hint": "Start from sulfate's charge on the green sheet. Three sulfates carry how much negative charge, and how many iron ions share it?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 4.21",
+  "hint": "Which metal is not on the fixed-charge list (group 1, group 2, Al, Zn, Ag)? That metal's name must state its charge.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 4.22",
+  "hint": "Work each row from what is given: a numeral or -ous/-ic name gives the cation's charge; a formula lets you find it from the anions. Mercury(I) is Hg<sub>2</sub><sup>2+</sup>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 4.23",
+  "hint": "For each, ask: is the metal fixed-charge or variable? Is the compound ionic (no prefixes)? Does the anion name match the anion's formula?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 4.24",
+  "hint": "Stannous is the lower charge of tin. Is sodium on the fixed-charge list? For (d), -ic is the higher charge; swap-drop it with F<sup>&minus;</sup>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 4.25",
+  "hint": "Ferrous means the lower charge of iron. Write that ion with sulfate (check -ate versus -ite on the green sheet) and balance the charges.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 4.26",
+  "hint": "Name the salt first, then add a Greek prefix plus \"hydrate\" for the waters. For (d), count H and O in both the CaSO<sub>4</sub> part and the waters.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 4.27",
+  "hint": "Both elements are nonmetals, so use prefixes. No mono- on the first element, -ide on the second, and drop the a or o before \"oxide.\"",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 4.28",
+  "hint": "Each prefix is a subscript: mono- = 1, di- = 2, tri- = 3, tetra- = 4. There are no charges to balance, and a molecular formula is never reduced.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 4.29",
+  "hint": "Classify first: two nonmetals means Greek prefixes with the exact atom counts. Molecular formulas are never reduced, and Roman numerals are only for metals.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 4.30",
+  "hint": "Check three rules for molecular names: no mono- on the first element, a prefix on the second element, and no Roman numerals.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 4.31",
+  "hint": "(a) Two nonmetals: use prefixes. (b) A compound needs at least two different elements. (c) Give each element its prefix; mono- is used on the second element.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 4.32",
+  "hint": "First find which compounds are molecular (nonmetals only). Ionic compounds never take prefixes.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 4.33",
+  "hint": "These are the common names in Section 4.4. For (b), add the subscripts. For (c), is a molecular formula ever reduced?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 4.34",
+  "hint": "Molecular formulas give the real atom counts, so is N<sub>2</sub>O<sub>4</sub> the same molecule as NO<sub>2</sub>? Then check the rule for mono- on the first element.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 4.35",
+  "hint": "Go through the anion each time: name the ion after the H. -ide gets hydro-...-ic, -ate becomes -ic, -ite becomes -ous, and per- or hypo- stays.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 4.36",
+  "hint": "Work backward to the anion: hydro-...-ic from -ide, -ic from -ate, -ous from -ite (keep hypo-). Then add one H<sup>+</sup> per negative charge.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 4.37",
+  "hint": "Which anion is SO<sub>3</sub><sup>2&minus;</sup>: sulfate or sulfite? Switch its ending, and remember that hydro- is only for acids with no oxygen.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 4.38",
+  "hint": "Name the anion ClO<sup>&minus;</sup> first (one less O than chlorite). Keep any prefix, and switch -ite to -ous or -ate to -ic.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 4.39",
+  "hint": "Write each anion from the chlorine family pattern (all 1&minus;), add one H<sup>+</sup>, then name the acid: -ide to hydro-...-ic, -ate to -ic, -ite to -ous.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 4.40",
+  "hint": "(a) Which H is written in front, and what is the acetate ion's charge? (b) Oxalate is 2&minus; on the green sheet; balance it with H<sup>+</sup> or with Ca<sup>2+</sup>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 4.41",
+  "hint": "For each, find the anion and ask: does it contain oxygen (then no hydro-)? Is it -ate (-ic) or -ite (-ous)? Is the compound dissolved in water?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 4.42",
+  "hint": "How many H<sup>+</sup> does the acid have, and what anion charge cancels them? Which anion ending gives an -ic acid?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 4.43",
+  "hint": "Follow the blue sheet: metal or NH<sub>4</sub> first (ionic; fixed or variable charge?), H first (acid), or nonmetals only (prefixes, or a common name).",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 4.44",
+  "hint": "Read the clue in each name: numeral or -ous/-ic (variable metal), prefixes (molecular), \"acid\" (go through the anion). Peroxide is a polyatomic ion on the green sheet.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 4.45",
+  "hint": "Greek prefixes are only for molecular compounds. Which choice has no metal in it?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 4.46",
+  "hint": "Look for a charge (ion), a metal first (ionic compound), H first (acid), or a neutral formula of nonmetals only (molecule). Then name it by that type's rules.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 4.47",
+  "hint": "Check each against its type's rules: iron needs its charge in the name, ionic names never use prefixes, and oxyacids never get hydro-.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 4.48",
+  "hint": "The clue is in each name: Roman numeral or -ous ending, Greek prefix, \"acid\" with hydro-, or ammonium. Then build the formula by that type's rules.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 4.49",
+  "hint": "(a) Nitrate is on the green sheet; -ite has one less O, same charge. (b) Both metals have fixed charges. (c) -ate becomes -ic, -ite becomes -ous. (d) Balance Ca<sup>2+</sup>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 4.50",
+  "hint": "Find cobalt's charge from carbonate: three CO<sub>3</sub><sup>2&minus;</sup> carry how much charge, shared by how many cobalt ions? Also check that the anion name matches CO<sub>3</sub><sup>2&minus;</sup>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 4.51",
+  "hint": "(a) Period 4 with two valence electrons in 4s: which group and element? It loses its valence electrons. (b) Balance that ion with Br<sup>&minus;</sup> and with HPO<sub>4</sub><sup>2&minus;</sup>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 4.52",
+  "hint": "(a) Protons = Z; a 2+ or 3+ ion has lost 2 or 3 electrons. (b) Swap-drop each iron ion with O<sup>2&minus;</sup>. (c) -ous is the lower charge.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 4.53",
+  "hint": "Protons identify the element; extra electrons give the negative charge. Then pair that ion with Al<sup>3+</sup> using swap-drop.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 4.54",
+  "hint": "(a) Protons = Z; subtract electrons lost or add electrons gained. (b) Check that the charges cancel. (c) Is zinc on the fixed-charge list? Is copper?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 4.55",
+  "hint": "(a) Period 2 with 6 valence electrons, and period 3 group 13: which elements? Each gains or loses electrons to reach an octet. (b) Swap-drop. (c) Two nonmetals: use prefixes.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 4.56",
+  "hint": "Count each ion's electrons: subtract for a cation, add for an anion. Neon has 10. Which choice has both ions at that count?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 4.57",
+  "hint": "Find As and Te in the 4 of T43: four O each, with the charge of the ion right above (phosphate, sulfate). Then balance with K<sup>+</sup> and with Al<sup>3+</sup>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 4.58",
+  "hint": "The Roman numeral is cobalt's charge, not a subscript. Write the cobalt ion and O<sup>2&minus;</sup> with their charges, then swap-drop.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 4.59",
+  "hint": "Parentheses go only around a polyatomic ion that appears two or more times, and subscripts must be reduced. Test each choice against both rules.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 4.60",
+  "hint": "Start from the ion you know: sulfate is always 2&minus;. Two sulfates carry how much charge, all on one tin ion? The numeral must equal that charge.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 4.61",
+  "hint": "Front or back? H first means an acid (name it from its anion); OH at the end means a base (metal name + hydroxide). For (e), find cesium's group.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 61,
+  "title": "Problem 4.62",
+  "hint": "(a) Write the salt, a raised dot, then the waters. (b) \"An-\" means without and \"hydrous\" means water. (c) In a hydrate, does the dot mean add or multiply?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch04/4.8_practice_problems.html",
+  "idx": 62,
+  "title": "Problem 4.63",
+  "hint": "Mn or Mg? Check the symbol on the periodic table. Then ask whether that metal has a fixed charge or needs a Roman numeral.",
+  "why": ""
+ }
+]

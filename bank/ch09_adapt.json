@@ -244,7 +244,7 @@
    "Correct: 1.00 kcal (one food Calorie) = 4184 J, the largest of the four.",
    "1.00 kJ = 1000 J, about a quarter of the largest one.",
    "1.00 cal = 4.184 J, the smallest of the four.",
-   "500. J is half of a kilojoule."
+   "500. J is half of a kilojoule. Convert every choice to joules (1 cal = 4.184 J) and compare."
   ],
   "h": "Convert each one to joules.",
   "w": "In joules: 4184 (kcal), 1000 (kJ), 4.184 (cal), 500. The largest is <b>1.00 kcal</b>.",
@@ -601,7 +601,7 @@
    "Correct: Acetone is polar (the C=O bond dipole is not canceled), and every molecule has dispersion forces.",
    "Acetone is polar, so it has dipole&ndash;dipole forces too.",
    "Acetone has an O, but all of its H atoms are on carbon, so it cannot hydrogen bond with itself.",
-   "There are no ions in acetone."
+   "There are no ions in acetone. For a polar molecule with no O&ndash;H, N&ndash;H or F&ndash;H bond, list dispersion plus dipole&ndash;dipole."
   ],
   "h": "Polar, but is any H bonded to N, O, or F?",
   "w": "Acetone: <b>dispersion and dipole&ndash;dipole</b>.",
@@ -664,7 +664,7 @@
    "Correct: Temporary dipoles are weakest, permanent dipoles stronger, hydrogen bonds (a special strong dipole&ndash;dipole force) stronger still, and full ionic charges strongest.",
    "Hydrogen bonds are the strongest force between neutral molecules, not the weakest.",
    "A hydrogen bond is an especially strong dipole&ndash;dipole force, so it ranks above ordinary dipole&ndash;dipole.",
-   "This list is reversed."
+   "This list is reversed. Weakest to strongest starts with dispersion and ends with ion&ndash;dipole."
   ],
   "h": "Temporary dipole, permanent dipole, very strong dipole, full charge.",
   "w": "<b>Dispersion &lt; dipole&ndash;dipole &lt; hydrogen bond &lt; ion&ndash;dipole</b> (for similar sizes).",

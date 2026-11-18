@@ -1,0 +1,821 @@
+[
+ {
+  "file": "drafts/ch11/11.1_solutions_form.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Identify the solute and the solvent: (a) 0.9% NaCl in water; (b) a 70% isopropyl alcohol rubbing solution (70% alcohol, 30% water).",
+  "answer": "(a) Solute NaCl, solvent water. (b) Solvent isopropyl alcohol (the larger amount), solute water.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.1_solutions_form.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Which is more soluble in water, ethanol (CH 3 CH 2 OH) or propane (CH 3 CH 2 CH 3 )? Explain.",
+  "answer": "Ethanol. Its O&ndash;H group hydrogen bonds with water; propane is nonpolar and has only dispersion forces.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.1_solutions_form.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A clear solution of sodium acetate suddenly fills with crystals when a single crystal is dropped in. What kind of solution was it?",
+  "answer": "Supersaturated. The seed crystal let the excess solute crystallize.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.1_solutions_form.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Write the dissolving equation for (a) K 2 CO 3 and (b) sucrose, C 12 H 22 O 11 . How many dissolved particles does one formula unit or molecule give?",
+  "answer": "(a) K 2 CO 3 (s) &rarr; 2 K + (aq) + CO 3 2&minus; (aq): 3 particles. (b) C 12 H 22 O 11 (s) &rarr; C 12 H 22 O 11 (aq): 1 particle, because sucrose is molecular and stays whole.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.2_solubility_t_p.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Using Figure 1, about how much NaCl dissolves in 100. g of water at 80 &deg;C? If 50.0 g of NaCl is stirred into 100. g of water at 80 &deg;C, what happens?",
+  "answer": "About 38 g dissolves. The extra 12 g or so stays undissolved on the bottom, and the solution above it is saturated.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.2_solubility_t_p.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Why does a cold soda stay fizzy longer after opening than a warm one?",
+  "answer": "CO 2 , like all gases, is more soluble in cold water, so less of it leaves solution as bubbles.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.2_solubility_t_p.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "The solubility of N 2 in blood at a partial pressure of 0.78 atm is S. What is its solubility when a diver is at a depth where the N 2 partial pressure is 2.34 atm?",
+  "answer": "S 2 = S &times; 2.34/0.78 = 3.0 S: three times as much N 2 dissolves.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.2_solubility_t_p.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "The solubility of KNO 3 is 31.6 g per 100 g of water at 20 &deg;C. A clear solution at 20 &deg;C holds 50.0 g of KNO 3 in 100. g of water. (a) Label it. (b) How was it most likely made? (c) What happens if a crystal of KNO 3 is dropped in?",
+  "answer": "(a) Supersaturated: 50.0 g is above the 31.6 g limit. (b) By dissolving the KNO 3 in hot water and cooling it carefully without disturbing it. (c) The extra 18.4 g crystallizes, leaving a saturated solution.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.3_concentration.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "What is the mass percent of sugar in a drink made from 26.0 g of sugar and 224.0 g of water?",
+  "answer": "26.0 &divide; 250.0 &times; 100% = 10.4%.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch11/11.3_concentration.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Nitrate in a Valley well is measured at 52 mg/L. The drinking water limit is 45 mg/L (as nitrate). Express the measurement in ppm and decide whether it meets the limit.",
+  "answer": "52 mg/L &asymp; 52 ppm, above the 45 ppm limit.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch11/11.3_concentration.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "What is the molarity of a solution made by dissolving 2.50 g of KCl (74.55 g/mol) in enough water to make 125.0 mL of solution?",
+  "answer": "2.50 &divide; 74.55 = 0.03353 mol; &divide; 0.1250 L = 0.268 M.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.3_concentration.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "A sugar syrup is 15.0% sugar by mass. How many grams of syrup contain 30.0 g of sugar?",
+  "answer": "30.0 g sugar &times; (100 g syrup / 15.0 g sugar) = 200. g syrup.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.3_concentration.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Express 0.00450 M glucose in millimolar.",
+  "answer": "0.00450 M &times; 1000 mM/M = 4.50 mM.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch11/11.4_molarity_dilution.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "How many grams of NaCl (58.44 g/mol) are in 250.0 mL of 0.154 M NaCl, the molarity of normal saline?",
+  "answer": "0.2500 L &times; 0.154 mol/L = 0.03850 mol; &times; 58.44 g/mol = 2.25 g.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.4_molarity_dilution.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "What is the molarity after 15.0 mL of 6.00 M HCl is diluted to 250.0 mL?",
+  "answer": "(6.00)(15.0) &divide; 250.0 = 0.360 M.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch11/11.4_molarity_dilution.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "What volume of 2.00 M KCl stock is needed to prepare 100.0 mL of 0.0500 M KCl?",
+  "answer": "V 1 = (0.0500)(100.0) &divide; 2.00 = 2.50 mL.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch11/11.4_molarity_dilution.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "What is the chloride ion concentration in 0.250 M AlCl 3 ?",
+  "answer": "AlCl 3 (s) &rarr; Al 3+ (aq) + 3 Cl &minus; (aq), so [Cl &minus; ] = 3 &times; 0.250 M = 0.750 M.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.4_molarity_dilution.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "5.00 mL of 1.20 M KCl is diluted to a concentration of 30.0 mM. What is the final volume?",
+  "answer": "Match units: 30.0 mM = 0.0300 M. V 2 = (1.20 M)(5.00 mL) &divide; 0.0300 M = 200. mL. (Or convert the stock: 1.20 M = 1200 mM, and (1200 mM)(5.00 mL) &divide; 30.0 mM = 200. mL.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.5_titration.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "What volume of 0.200 M NaOH neutralizes 15.0 mL of 0.120 M H 2 SO 4 ? H 2 SO 4 + 2 NaOH &rarr; Na 2 SO 4 + 2 H 2 O",
+  "answer": "0.0150 &times; 0.120 = 1.80 &times; 10 &minus;3 mol H 2 SO 4 &times; 2 = 3.60 &times; 10 &minus;3 mol NaOH; &divide; 0.200 M = 0.0180 L = 18.0 mL.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.5_titration.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "A 20.00 mL sample of vinegar (acetic acid, which reacts 1 : 1 with NaOH) needs 27.80 mL of 0.5000 M NaOH. What is the molarity of the acetic acid?",
+  "answer": "0.02780 &times; 0.5000 = 0.01390 mol; &divide; 0.02000 L = 0.6950 M.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.5_titration.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "What mass of AgCl (143.32 g/mol) precipitates when 30.0 mL of 0.250 M NaCl reacts with excess AgNO 3 ? NaCl + AgNO 3 &rarr; AgCl + NaNO 3",
+  "answer": "0.0300 &times; 0.250 = 7.50 &times; 10 &minus;3 mol AgCl; &times; 143.32 = 1.07 g.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.5_titration.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "25.0 mL of 0.100 M AgNO 3 is mixed with 15.0 mL of 0.200 M NaCl. Which reactant is limiting, and what mass of AgCl (143.32 g/mol) forms? AgNO 3 + NaCl &rarr; AgCl + NaNO 3",
+  "answer": "AgNO 3 could make 0.0250 &times; 0.100 = 2.50 &times; 10 &minus;3 mol AgCl; NaCl could make 0.0150 &times; 0.200 = 3.00 &times; 10 &minus;3 mol. AgNO 3 is limiting: 2.50 &times; 10 &minus;3 mol &times; 143.32 g/mol = 0.358 g AgCl.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.5_titration.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "What volume of 0.250 M HNO 3 neutralizes 0.500 g of Ca(OH) 2 (74.09 g/mol)? Balance the equation first.",
+  "answer": "Ca(OH) 2 + 2 HNO 3 &rarr; Ca(NO 3 ) 2 + 2 H 2 O. 0.500 g &divide; 74.09 g/mol = 6.749 &times; 10 &minus;3 mol; &times; 2 = 0.01350 mol HNO 3 ; &divide; 0.250 M = 0.0540 L = 54.0 mL.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.6_colligative.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "5.85 g of NaCl (58.44 g/mol) is dissolved in 500.0 g of water. Find the molality and the osmolality in mOsm/kg.",
+  "answer": "5.85 &divide; 58.44 = 0.1001 mol; &divide; 0.5000 kg = 0.200 m. Osmolality = 2 &times; 0.2002 = 0.400 Osm/kg = 400. mOsm/kg (hypertonic compared with blood).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.6_colligative.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Which has the lower freezing point, 0.10 m NaCl or 0.15 m glucose? Explain.",
+  "answer": "0.10 m NaCl: its particle concentration is 2 &times; 0.10 = 0.20 m, more than glucose's 0.15 m.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.6_colligative.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Red blood cells are placed in 3% NaCl. What happens to them, and what is this solution called relative to the cells?",
+  "answer": "The solution is hypertonic; water flows out of the cells and they shrink (crenation).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.6_colligative.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Give the van 't Hoff factor i for (a) K 3 PO 4 ; (b) Mg(NO 3 ) 2 ; (c) urea, CO(NH 2 ) 2 .",
+  "answer": "(a) 4: 3 K + + PO 4 3&minus; . (b) 3: Mg 2+ + 2 NO 3 &minus; . (c) 1: urea is molecular and stays whole.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.6_colligative.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Which has the higher boiling point, 0.10 m FeCl 3 or 0.15 m CaCl 2 ?",
+  "answer": "0.15 m CaCl 2 . FeCl 3 has more particles per formula unit, but the molalities differ, so multiply: FeCl 3 4 &times; 0.10 = 0.40 m of particles; CaCl 2 3 &times; 0.15 = 0.45 m.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 11.1",
+  "question": "Which substance is most soluble in water? A. Hexane, C 6 H 14 B. Carbon tetrachloride, CCl 4 C. Glycerol, C 3 H 8 O 3 (HOCH 2 CH(OH)CH 2 OH), used in cough syrups and skin lotions D. Iodine, I 2",
+  "answer": "C. Glycerol has three O&ndash;H groups, and each one hydrogen bonds with water. Like dissolves like: a polar, hydrogen-bonding solute mixes with a polar, hydrogen-bonding solvent. Glycerol and water are miscible in all proportions, which is why glycerol is easy to blend into water-based syrups and lotions. A is a hydrocarbon. It has only C and H, so it is nonpolar with only dispersion forces, and water squeezes it out into a separate layer. B is a common trap. Each C&ndash;Cl bond is polar (&Delta;EN = 0.5), but the four bonds point to the corners of a tetrahedron and cancel (Chapter 6), so the molecule is nonpolar and barely dissolves in water. D is nonpolar (two identical atoms), so it dissolves only slightly in water; it dissolves much better in nonpolar solvents.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 11.2",
+  "question": "Identify the solvent and the solute(s) in each solution, and give the state of the solution: (a) dry air, about 78% N 2 , 21% O 2 , and small amounts of argon and CO 2 ; (b) sterling silver, 92.5% silver and 7.5% copper by mass; (c) club soda, carbon dioxide dissolved in water; (d) a 0.12% chlorhexidine gluconate oral rinse (ignore the flavorings).",
+  "answer": "(a) Solvent N 2 (the largest component); solutes O 2 , Ar, and CO 2 . A gaseous solution. (b) Solvent silver ; solute copper. A solid solution (an alloy), like the dental amalgam in Section 11.1. (c) Solvent water ; solute CO 2 , a gas dissolved in a liquid. A liquid (aqueous) solution. (d) Solvent water ; solute chlorhexidine gluconate, only 0.12% of the rinse. A liquid (aqueous) solution. A solution can be a gas, liquid, or solid; the solvent is whichever component is present in the largest amount.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 11.3",
+  "question": "Each substance below dissolves in water. Which solution conducts electricity well? A. Glucose, C 6 H 12 O 6 B. Ethanol, CH 3 CH 2 OH C. Potassium bromide, KBr D. Urea, CH 4 N 2 O",
+  "answer": "C. KBr is ionic. When it dissolves it separates into K + and Br &minus; ions, and moving ions carry current, so KBr is a strong electrolyte . A dissolves because its O&ndash;H groups hydrogen bond with water, but the molecules stay whole. With no ions, glucose is a nonelectrolyte. B is also a molecular compound that dissolves by hydrogen bonding without forming ions. The O&ndash;H in ethanol does not break off as an ion in water. D is a molecular compound (a waste product in urine). It dissolves well by hydrogen bonding, but as whole molecules, so it does not conduct.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 11.4",
+  "question": "(a) Describe how water molecules arrange themselves around a K + ion and around a Br &minus; ion in a KBr solution, and name the attraction involved. (b) Explain why KBr does not dissolve in hexane, C 6 H 14 .",
+  "answer": "(a) Around K + , water molecules turn their partially negative (&delta;&minus;) oxygen ends toward the ion. Around Br &minus; , they turn their partially positive (&delta;+) hydrogen ends toward the ion. These are ion&ndash;dipole attractions; each ion ends up surrounded by water molecules (hydrated). (b) Hexane is nonpolar and has only dispersion forces. It has no partial charges to attract the ions, so it cannot make up for the strong attractions between K + and Br &minus; in the crystal. The ions stay together as a solid. Ionic solutes need a polar solvent.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 11.5",
+  "question": "The solubility of KCl is 34.2 g per 100 g of water at 20 &deg;C. At 20 &deg;C, a student stirs 17.1 g of KCl into 50.0 g of water, and all of it dissolves with nothing left over. How should the solution be classified? A. Unsaturated, because 17.1 g is less than 34.2 g B. Saturated C. Supersaturated D. It cannot be classified without the volume of the solution",
+  "answer": "B. The solubility is given per 100 g of water, but the student used only 50.0 g, half as much. Scale the amount dissolved to 100 g of water: \\( \\dfrac{17.1\\ \\text{g KCl}}{50.0\\ \\text{g water}} \\times 100\\ \\text{g water} = 34.2\\ \\text{g KCl per 100 g water} \\) That equals the solubility, so the solution holds the maximum: it is saturated. A compares 17.1 g with 34.2 g without matching the amounts of water. Half as much water holds only half as much KCl, 17.1 g. C would need more than 34.2 g per 100 g of water, held in solution by careful cooling. D is wrong because solubility tables are written per mass of water; the mass of water and the temperature are all you need.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 11.6",
+  "question": "A painter cleans brushes used with oil-based paint in mineral spirits, a mixture of nonpolar hydrocarbons, but rinses brushes used with water-based latex paint under the tap. Use \"like dissolves like\" to explain both choices. Why is water useless for the oil-based brushes?",
+  "answer": "Oil-based paint is made of nonpolar oils and resins held together by dispersion forces. Mineral spirits are also nonpolar, so the paint and solvent attract each other about as strongly as they attract themselves, and the paint dissolves: like dissolves like. In water-based latex paint, the liquid carrying the paint is water, so water rinses it out before it dries. Water molecules hydrogen bond strongly to one another. Nonpolar paint cannot form attractions with water that strong, so water simply squeezes the oil out and beads off the brush, the same reason salad oil floats on vinegar.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 11.7",
+  "question": "The table below gives the solubility of three salts in grams per 100 g of water at several temperatures. @media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } } Solubility of three salts (g per 100 g of water) Temperature (&deg;C) KNO 3 KCl NaCl 0 13.3 28.0 35.7 20 31.6 34.2 35.9 40 63.9 40.0 36.4 60 110. 45.8 37.1 80 169 51.3 38.0 (a) Which salt's solubility changes the most with temperature, and which changes the least? (b) A solution holds 50.0 g of KCl in 100. g of water at 80 &deg;C. Is it unsaturated, saturated, or supersaturated? (c) The solution in (b) is cooled to 20 &deg;C. What mass of KCl crystallizes? (d) Between which two temperatures in the table do KNO 3 and NaCl have the same solubility?",
+  "answer": "(a) KNO 3 changes the most, from 13.3 g to 169 g, more than twelve times as much. NaCl changes the least, from 35.7 g to 38.0 g. (b) At 80 &deg;C, 100. g of water can hold 51.3 g of KCl. 50.0 g is less than that, so the solution is unsaturated . (c) At 20 &deg;C only 34.2 g stays dissolved in 100. g of water, so 50.0 g &minus; 34.2 g = 15.8 g of KCl crystallizes, and the solution left behind is saturated. (d) At 20 &deg;C, KNO 3 (31.6 g) is less soluble than NaCl (35.9 g); at 40 &deg;C, KNO 3 (63.9 g) is more soluble than NaCl (36.4 g). The curves cross between 20 &deg;C and 40 &deg;C , a little above 20 &deg;C.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 11.8",
+  "question": "Using the solubility table above (three salts, 0 to 80 &deg;C), what is the greatest mass of KNO 3 that dissolves in 150. g of water at 40 &deg;C? A. 63.9 g B. 95.9 g C. 42.6 g D. 47.4 g",
+  "answer": "B. Use the solubility as a conversion factor: \\( 150.\\ \\text{g water} \\times \\dfrac{63.9\\ \\text{g KNO}_3}{100\\ \\text{g water}} = 95.9\\ \\text{g KNO}_3 \\) A is the solubility for 100 g of water. With 1.5 times as much water, 1.5 times as much KNO 3 dissolves. C divides by 1.50 instead of multiplying, as if more water held less solute. D reads the 20 &deg;C row (31.6 g &times; 1.50) instead of the 40 &deg;C row.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 11.9",
+  "question": "Chemists purify solids by recrystallization. A student dissolves 60.0 g of KNO 3 in 50.0 g of water at 80 &deg;C, then cools the solution to 20 &deg;C and filters off the crystals. Use the solubility table above. (a) Does all of the KNO 3 dissolve at 80 &deg;C? (b) What mass of KNO 3 crystallizes at 20 &deg;C? (c) What percent of the KNO 3 is recovered as crystals? (d) Why can the recovery never reach 100%?",
+  "answer": "(a) In 50.0 g of water at 80 &deg;C, the most that dissolves is 50.0 g &times; (169 g / 100 g) = 84.5 g. Since 60.0 g is less than 84.5 g, yes , all of it dissolves (the solution is unsaturated). (b) At 20 &deg;C, 50.0 g of water holds only 50.0 g &times; (31.6 g / 100 g) = 15.8 g. The rest crystallizes: 60.0 g &minus; 15.8 g = 44.2 g . (c) \\( \\dfrac{44.2\\ \\text{g}}{60.0\\ \\text{g}} \\times 100\\% = 73.7\\% \\) (d) The cold solution is still saturated: 15.8 g of KNO 3 stays dissolved in the 50.0 g of water and passes through the filter. Recovery is 73.7% at best. (Impurities present in small amounts stay dissolved too, which is the point of recrystallization.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 11.10",
+  "question": "On hot, still afternoons in late summer, fish sometimes die in shallow farm ponds in the Valley. Which statement best explains why, chemically? A. Warm water holds less dissolved oxygen, because the solubility of a gas decreases as temperature rises. B. Warm water holds more dissolved oxygen, and too much oxygen poisons the fish. C. Oxygen is nonpolar, so no oxygen at all can dissolve in water once it warms up. D. Heat raises the air pressure above the pond, which forces oxygen out of the water.",
+  "answer": "A. Gases are always less soluble in warmer water: faster-moving gas molecules escape from the liquid more easily. A warm, shallow pond with no wind to mix in fresh air can drop below the dissolved oxygen fish need, especially at night and when algae die and decompose. B applies the rule for most solids (more soluble when hot) to a gas. Gases behave the opposite way. C goes too far. Oxygen is nonpolar, so it is only slightly soluble, but a few milligrams per liter do dissolve, and fish depend on that small amount at every temperature. D has the pressure effect backward and the cause wrong: warming does not raise the air pressure over a pond, and a higher O 2 pressure would dissolve more oxygen (Henry's law).",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 11.11",
+  "question": "At 25 &deg;C, water in contact with pure oxygen at 1.00 atm dissolves 40.3 mg of O 2 per liter. At sea level, the partial pressure of O 2 in air is 0.210 atm. What is the solubility of O 2 in water in contact with air at 25 &deg;C? A. 8.46 mg/L B. 192 mg/L C. 40.3 mg/L D. 31.8 mg/L",
+  "answer": "A. Henry's law at constant temperature: \\( S_2 = S_1 \\times \\dfrac{P_2}{P_1} = 40.3\\ \\tfrac{\\text{mg}}{\\text{L}} \\times \\dfrac{0.210\\ \\text{atm}}{1.00\\ \\text{atm}} = 8.46\\ \\tfrac{\\text{mg}}{\\text{L}} \\) A lower O 2 pressure means less dissolved O 2 . This value is close to the dissolved oxygen measured in clean, well-mixed water at 25 &deg;C. B divides by the pressure ratio instead of multiplying. Lowering the pressure cannot raise the solubility. C assumes pressure does not matter. For gases it matters a great deal. D uses 0.790 atm, the fraction of air that is not oxygen (mostly N 2 ). Only the O 2 partial pressure controls how much O 2 dissolves.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 11.12",
+  "question": "At the surface, where the partial pressure of N 2 is 0.781 atm, a diver's blood holds about 12.5 mg of dissolved N 2 per liter (a round value for practice). (a) She descends to a depth where the air she breathes from her tank is at a total pressure of 3.20 atm and is 78.1% N 2 . What is the partial pressure of N 2 ? (b) Once her blood comes to equilibrium at that depth, how much N 2 is dissolved per liter? (c) Use Henry's law to explain why rising to the surface too quickly can cause decompression sickness.",
+  "answer": "(a) P N 2 = 0.781 &times; 3.20 atm = 2.50 atm (2.4992 atm unrounded). (b) \\( S_2 = S_1 \\times \\dfrac{P_2}{P_1} = 12.5\\ \\tfrac{\\text{mg}}{\\text{L}} \\times \\dfrac{2.4992\\ \\text{atm}}{0.781\\ \\text{atm}} = 40.0\\ \\tfrac{\\text{mg}}{\\text{L}} \\) (b) 40.0 mg/L , 3.20 times the surface value, because the N 2 pressure is 3.20 times higher. (c) As she rises, the N 2 pressure drops, so the blood can hold less N 2 . Rising slowly lets the extra gas leave through the lungs a little at a time. Rising fast is like opening a shaken soda: the gas comes out of solution as bubbles in the blood and tissues. (Context only; dive limits come from training agencies and dive computers.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 11.13",
+  "question": "At 0 &deg;C, CO 2 dissolves in water to 3.35 g/L when the CO 2 pressure above the water is 1.00 atm. (a) A soda is bottled ice cold under a CO 2 pressure of 2.40 atm. How much CO 2 does each liter hold? (b) After the bottle is opened, the soda is in contact with air, where the CO 2 partial pressure is only about 4.0 &times; 10 &minus;4 atm. How much CO 2 could a liter hold once it reaches equilibrium with the air at 0 &deg;C? (c) An open soda takes hours to go completely flat, and a warm one goes flat faster. Explain both.",
+  "answer": "(a) \\( S_2 = 3.35\\ \\tfrac{\\text{g}}{\\text{L}} \\times \\dfrac{2.40\\ \\text{atm}}{1.00\\ \\text{atm}} = 8.04\\ \\tfrac{\\text{g}}{\\text{L}} \\) (b) \\( S_2 = 3.35\\ \\tfrac{\\text{g}}{\\text{L}} \\times \\dfrac{4.0 \\times 10^{-4}\\ \\text{atm}}{1.00\\ \\text{atm}} = 1.3 \\times 10^{-3}\\ \\tfrac{\\text{g}}{\\text{L}} \\) (a) 8.04 g/L ; (b) 1.3 &times; 10 &minus;3 g/L (two significant figures, set by 4.0 &times; 10 &minus;4 atm), almost none. (c) Henry's law tells how much CO 2 the soda holds at equilibrium, not how fast it gets there. The extra CO 2 escapes only at the surface and as bubbles, which takes time. In a warm soda, CO 2 is less soluble to begin with and its faster molecules escape more quickly, so it goes flat sooner.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 11.14",
+  "question": "A sports-drink mix is made by dissolving 12.4 g of sugar in 187.6 g of water. What is the mass percent of sugar? A. 6.20% B. 6.61% C. 12.4% D. 0.0620%",
+  "answer": "A. The mass of solution is 12.4 g + 187.6 g = 200.0 g. \\( \\%\\,(\\text{m/m}) = \\dfrac{12.4\\ \\text{g sugar}}{200.0\\ \\text{g solution}} \\times 100\\% = 6.20\\% \\) B divides by the mass of water (the solvent), 187.6 g, instead of the mass of the whole solution. C treats the grams of sugar as the percent, which is true only when the solution has a mass of exactly 100 g. D stops at the fraction, 0.0620, and then writes a percent sign without multiplying by 100%.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 11.15",
+  "question": "How many grams of NaCl are in a 1.00 L bag of 0.45% (m/v) NaCl, often called half-normal saline? A. 0.0045 g B. 4.5 g C. 450 g D. 0.45 g",
+  "answer": "B. 0.45% (m/v) means 0.45 g of NaCl per 100 mL of solution. Convert the volume to mL first: 1.00 L = 1000. mL. \\( 1000.\\ \\text{mL} \\times \\dfrac{0.45\\ \\text{g NaCl}}{100\\ \\text{mL}} = 4.5\\ \\text{g NaCl} \\) Two significant figures, set by 0.45%. A check: normal saline (0.9%) has 9 g per liter, and half-normal has half as much. A plugs in 1.00 (liters) where the percent needs milliliters. C forgets to divide by 100 mL; that would be a bag that is nearly half salt. D reads 0.45% as \"0.45 g per bag\" (or per liter). The percent is per 100 mL.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 11.16",
+  "question": "An IV order calls for D5W, 5% dextrose (glucose) in water; take it as 5.00% (m/v). (a) What volume of D5W contains 30.0 g of glucose? (b) How many moles of glucose (C 6 H 12 O 6 , 180.156 g/mol) is that? (c) What is the molarity of D5W?",
+  "answer": "(a) \\( 30.0\\ \\text{g glucose} \\times \\dfrac{100\\ \\text{mL}}{5.00\\ \\text{g glucose}} = 600.\\ \\text{mL} \\) (b) \\( 30.0\\ \\text{g} \\times \\dfrac{1\\ \\text{mol}}{180.156\\ \\text{g}} = 0.167\\ \\text{mol} \\) (c) \\( M = \\dfrac{0.16652\\ \\text{mol}}{0.600\\ \\text{L}} = 0.278\\ M \\) (a) 600. mL (the decimal point shows three significant figures); (b) 0.167 mol ; (c) 0.278 M . A check for (c): 5.00 g per 100 mL is 50.0 g per liter, and 50.0 g &divide; 180.156 g/mol = 0.278 mol in each liter. (Context only; IV fluids are given exactly as ordered.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 11.17",
+  "question": "Read each label as a conversion factor. (a) A chlorhexidine gluconate oral rinse is 0.12% (m/v). How many milligrams of chlorhexidine gluconate are in a 15.0 mL dose? (b) A CT contrast agent contains 350. mg of iodine per mL (mg I/mL). How many grams of iodine are in 82.0 mL of it? (c) A 473 mL bottle of rubbing alcohol is 70.0% (v/v) isopropyl alcohol. What volume of isopropyl alcohol does it contain?",
+  "answer": "(a) \\( 15.0\\ \\text{mL} \\times \\dfrac{0.12\\ \\text{g}}{100\\ \\text{mL}} \\times \\dfrac{1000\\ \\text{mg}}{1\\ \\text{g}} = 18\\ \\text{mg} \\) (b) \\( 82.0\\ \\text{mL} \\times \\dfrac{350.\\ \\text{mg I}}{1\\ \\text{mL}} \\times \\dfrac{1\\ \\text{g}}{1000\\ \\text{mg}} = 28.7\\ \\text{g I} \\) (c) \\( 473\\ \\text{mL} \\times \\dfrac{70.0\\ \\text{mL isopropyl alcohol}}{100\\ \\text{mL solution}} = 331\\ \\text{mL} \\) (a) 18 mg (two significant figures, set by 0.12%); (b) 28.7 g ; (c) 331 mL , and the rest is mostly water. Each label is \"amount of solute per amount of solution,\" so the units cancel the same way every time. (Context only; follow the orders and product directions.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 11.18",
+  "question": "Many community water systems add fluoride to a level of 0.70 mg/L to help prevent tooth decay. (a) Express this in ppm. (b) How many milligrams of fluoride does a person drinking 2.0 L of this water take in? (c) An adult toothpaste contains 1.45 &times; 10 3 ppm fluoride by mass (mg of fluoride per kg of paste). How many milligrams of fluoride are in a 1.00 g ribbon of paste? (d) A fluoride varnish contains 2.26 &times; 10 4 ppm fluoride. How many times more concentrated is it than the toothpaste?",
+  "answer": "(a) In dilute water solutions 1 mg/L &asymp; 1 ppm, so 0.70 mg/L = 0.70 ppm . (b) 2.0 L &times; 0.70 mg/L = 1.4 mg of fluoride. (c) \\( 1.00\\ \\text{g paste} \\times \\dfrac{1\\ \\text{kg}}{1000\\ \\text{g}} \\times \\dfrac{1.45 \\times 10^{3}\\ \\text{mg F}}{1\\ \\text{kg paste}} = 1.45\\ \\text{mg F} \\) (d) 2.26 &times; 10 4 ppm &divide; 1.45 &times; 10 3 ppm = 15.6 times as concentrated. (a) 0.70 ppm ; (b) 1.4 mg ; (c) 1.45 mg , about the same as a day's drinking water, which is why children are taught to spit, not swallow; (d) 15.6 , which is why varnish is applied by a hygienist in a thin, measured layer. (Context only; follow the dentist's orders and product directions.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 11.19",
+  "question": "A private well in the Valley tests at 18 ppb arsenic. What is this concentration in mg/L? A. 0.018 mg/L B. 18 mg/L C. 1.8 &times; 10 &minus;5 mg/L D. 1.8 &times; 10 4 mg/L",
+  "answer": "A. In water, 18 ppb &asymp; 18 &mu;g/L, and 1 mg = 1000 &mu;g: \\( 18\\ \\dfrac{\\mu\\text{g}}{\\text{L}} \\times \\dfrac{1\\ \\text{mg}}{1000\\ \\mu\\text{g}} = 0.018\\ \\dfrac{\\text{mg}}{\\text{L}} \\) The well is above the 10 ppb drinking water limit for arsenic. B treats ppb as mg/L. In water, mg/L is ppm; ppb is a thousand times smaller. C divides by 10 6 , as if there were a million micrograms in a milligram. D multiplies by 1000 instead of dividing. Going from a small unit (&mu;g) to a larger one (mg) must give a smaller number.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 11.20",
+  "question": "A lab report for a small Valley water system lists nitrate at 38.5 mg/L (as nitrate) and 1,2,3-trichloropropane (1,2,3-TCP) at 0.000012 mg/L. The limits are 45 mg/L for nitrate (as nitrate) and 5 ppt for 1,2,3-TCP. (a) Express the nitrate result in ppm. Does it meet the limit? (b) What is the molarity of nitrate ion (NO 3 &minus; , 62.004 g/mol)? (c) Express the 1,2,3-TCP result in ppt. How many times the limit is it? (d) How many nanograms of 1,2,3-TCP are in 2.0 L of this water?",
+  "answer": "(a) 38.5 mg/L &asymp; 38.5 ppm . It is below 45 mg/L, so it meets the nitrate limit. (b) \\( 38.5\\ \\dfrac{\\text{mg}}{\\text{L}} \\times \\dfrac{1\\ \\text{g}}{1000\\ \\text{mg}} \\times \\dfrac{1\\ \\text{mol}}{62.004\\ \\text{g}} = 6.21 \\times 10^{-4}\\ M \\) (c) \\( 0.000012\\ \\dfrac{\\text{mg}}{\\text{L}} \\times \\dfrac{10^{6}\\ \\text{ng}}{1\\ \\text{mg}} = 12\\ \\dfrac{\\text{ng}}{\\text{L}} = 12\\ \\text{ppt} \\) (c) 12 ppt , which is 12 &divide; 5 = 2.4 times the limit, so this water needs treatment for 1,2,3-TCP. (d) 2.0 L &times; 12 ng/L = 24 ng , a tiny mass, but the limit is set that low because of the long-term health risk.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 11.21",
+  "question": "A student dissolves 12.6 g of sodium bicarbonate, NaHCO 3 (84.01 g/mol), in water and fills a 250.0 mL volumetric flask to the line. What is the molarity? A. 0.600 M B. 50.4 M C. 6.00 &times; 10 &minus;4 M D. 0.150 M",
+  "answer": "A. \\( \\text{mol NaHCO}_3 = \\dfrac{12.6\\ \\text{g}}{84.01\\ \\text{g/mol}} = 0.1500\\ \\text{mol} \\qquad M = \\dfrac{0.1500\\ \\text{mol}}{0.2500\\ \\text{L}} = 0.600\\ M \\) B divides grams by liters. That is a concentration in g/L, not molarity, which needs moles. C divides by 250.0 mL without converting to liters. D stops at the moles (0.150 mol) and never divides by the volume.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 11.22",
+  "question": "The hydrogen peroxide sold as a first-aid antiseptic is 3.00% (m/m) H 2 O 2 (34.014 g/mol), and the solution has a density of 1.01 g/mL. What is its molarity?",
+  "answer": "Assume 100. g of solution. It contains 3.00 g of H 2 O 2 : \\( 3.00\\ \\text{g} \\times \\dfrac{1\\ \\text{mol}}{34.014\\ \\text{g}} = 0.08820\\ \\text{mol H}_2\\text{O}_2 \\) Use the density to find the volume of 100. g of solution: \\( 100.\\ \\text{g} \\times \\dfrac{1\\ \\text{mL}}{1.01\\ \\text{g}} = 99.01\\ \\text{mL} = 0.09901\\ \\text{L} \\qquad M = \\dfrac{0.08820\\ \\text{mol}}{0.09901\\ \\text{L}} = 0.891\\ M \\) 0.891 M , three significant figures, set by 3.00% and 1.01 g/mL. The density changes mass of solution into volume of solution; using 100. mL instead of 99.01 mL would give 0.882 M, a little low.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 11.23",
+  "question": "In a lab modeled on Experiment 9a (Solutions and Dilutions), a student weighs NaCl (58.44 g/mol) into a dry 50-mL volumetric flask, dissolves it, fills the flask to the 50.00 mL line with water to make Solution A, and records the masses below. Experiment 9a-style data for Solution A Measurement Mass (g) Empty, dry 50-mL volumetric flask 38.214 Flask + NaCl 42.832 Flask + Solution A, filled to the 50.00 mL line 91.226 Find (a) the mass of NaCl and the mass of Solution A; (b) the mass percent of NaCl; (c) the mass/volume percent of NaCl; (d) the molarity of Solution A; and (e) the density of Solution A. (f) A lab partner divides the mass of NaCl by the mass of water instead. What value does he get, and why is it wrong?",
+  "answer": "(a) NaCl: 42.832 &minus; 38.214 = 4.618 g . Solution A: 91.226 &minus; 38.214 = 53.012 g . (b) \\( \\%\\,(\\text{m/m}) = \\dfrac{4.618\\ \\text{g}}{53.012\\ \\text{g}} \\times 100\\% = 8.711\\% \\) (c) \\( \\%\\,(\\text{m/v}) = \\dfrac{4.618\\ \\text{g}}{50.00\\ \\text{mL}} \\times 100\\% = 9.236\\% \\) (d) \\( \\dfrac{4.618\\ \\text{g}}{58.44\\ \\text{g/mol}} = 0.07902\\ \\text{mol} \\qquad M = \\dfrac{0.07902\\ \\text{mol}}{0.05000\\ \\text{L}} = 1.580\\ M \\) (e) \\( d = \\dfrac{53.012\\ \\text{g}}{50.00\\ \\text{mL}} = 1.060\\ \\text{g/mL} \\) (f) The water has a mass of 53.012 &minus; 4.618 = 48.394 g, and 4.618 &divide; 48.394 &times; 100% = 9.543% . A percent concentration compares the solute with the whole solution (solute + solvent), so the denominator must be 53.012 g. The answers: (b) 8.711% ; (c) 9.236% ; (d) 1.580 M ; (e) 1.060 g/mL . The volumetric flask's 50.00 mL counts as four significant figures.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 11.24",
+  "question": "What mass of KCl (74.55 g/mol) is in 40.0 mL of 0.275 M KCl? A. 0.820 g B. 820. g C. 0.0110 g D. 10.8 g",
+  "answer": "A. \\( 0.0400\\ \\text{L} \\times \\dfrac{0.275\\ \\text{mol KCl}}{1\\ \\text{L}} \\times \\dfrac{74.55\\ \\text{g}}{1\\ \\text{mol}} = 0.820\\ \\text{g KCl} \\) B multiplies by 40.0 mL without converting to liters, so the answer is 1000 times too large. C stops at moles (0.0110 mol) and labels them grams. D divides the volume by the molarity (0.0400 &divide; 0.275) instead of multiplying. Molarity times liters gives moles.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 11.25",
+  "question": "(a) What mass of MgCl 2 (95.21 g/mol) is needed to prepare 250.0 mL of 0.0800 M MgCl 2 ? Describe how to make the solution. (b) How many moles of chloride ion does the solution contain, and what is its chloride ion concentration?",
+  "answer": "(a) \\( 0.2500\\ \\text{L} \\times \\dfrac{0.0800\\ \\text{mol}}{1\\ \\text{L}} \\times \\dfrac{95.21\\ \\text{g}}{1\\ \\text{mol}} = 1.90\\ \\text{g MgCl}_2 \\) Weigh 1.90 g of MgCl 2 , transfer it to a 250-mL volumetric flask, dissolve it in some water, then add water up to the line and mix. (Adding the solid to 250.0 mL of water would not give exactly 250.0 mL of solution.) (b) The flask holds 0.2500 L &times; 0.0800 M = 0.0200 mol MgCl 2 . Each MgCl 2 gives 2 Cl &minus; ions (MgCl 2 &rarr; Mg 2+ + 2 Cl &minus; ), so there are 0.0400 mol Cl &minus; , and [Cl &minus; ] = 2 &times; 0.0800 M = 0.160 M .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 11.26",
+  "question": "Mateo Herrera, 34, is an irrigation technician on a Fresno County almond orchard. He has asthma and was admitted overnight with an IV of 0.9% NaCl (normal saline); take it as 0.900% (m/v). His IV pump runs at 75.0 mL/h for 6.00 h. (a) What volume of saline does he receive? (b) How many grams of NaCl (58.44 g/mol) is that? (c) How many millimoles of NaCl, and so of Na + ions? (d) What is the molarity of 0.900% NaCl? Use it to check (c).",
+  "answer": "(a) 75.0 mL/h &times; 6.00 h = 450. mL (the decimal point shows three significant figures). (b) \\( 450.\\ \\text{mL} \\times \\dfrac{0.900\\ \\text{g NaCl}}{100\\ \\text{mL}} = 4.05\\ \\text{g NaCl} \\) (c) \\( 4.05\\ \\text{g} \\times \\dfrac{1\\ \\text{mol}}{58.44\\ \\text{g}} \\times \\dfrac{1000\\ \\text{mmol}}{1\\ \\text{mol}} = 69.3\\ \\text{mmol NaCl} \\) Each NaCl gives one Na + , so that is also 69.3 mmol Na + . (d) 0.900 g per 100 mL is 9.00 g per liter: 9.00 g &divide; 58.44 g/mol = 0.154 M . Check: 0.450 L &times; 0.1540 mol/L = 0.0693 mol = 69.3 mmol. The answers: (a) 450. mL ; (b) 4.05 g ; (c) 69.3 mmol ; (d) 0.154 M . (The case is for practicing chemistry only; IV fluids are given exactly as ordered, and this is not treatment advice.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 11.27",
+  "question": "A student adds 25.0 mL of 0.800 M NaOH to 175.0 mL of water and mixes. What is the molarity of the diluted NaOH? A. 0.114 M B. 0.100 M C. 6.40 M D. 0.0200 M",
+  "answer": "B. The total volume is 25.0 mL + 175.0 mL = 200.0 mL, and that is V 2 : \\( M_2 = \\dfrac{M_1 V_1}{V_2} = \\dfrac{(0.800\\ M)(25.0\\ \\text{mL})}{200.0\\ \\text{mL}} = 0.100\\ M \\) A uses the volume of water added (175.0 mL) as V 2 . V 2 is the total final volume. C swaps the volumes. A diluted solution can never be more concentrated than the stock. D stops at the moles of NaOH (0.0250 L &times; 0.800 M = 0.0200 mol) and calls them a molarity.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 11.28",
+  "question": "How many milliliters of 2.50 M glucose stock are needed to prepare 200.0 mL of 30.0 mM glucose? A. 2.40 mL B. 2.40 &times; 10 3 mL C. 197.6 mL D. 1.67 &times; 10 4 mL",
+  "answer": "A. Make the units match first: 30.0 mM = 0.0300 M. \\( V_1 = \\dfrac{M_2 V_2}{M_1} = \\dfrac{(0.0300\\ M)(200.0\\ \\text{mL})}{2.50\\ M} = 2.40\\ \\text{mL} \\) Pipet 2.40 mL of stock into a 200-mL volumetric flask and fill to the line. Check: the stock is about 83 times more concentrated, so you need about one eighty-third of the final volume. B uses 30.0 (mM) with 2.50 (M) without converting. The units do not match, so the answer is 1000 times too large, more than the final volume. C is the water needed (200.0 &minus; 2.40 mL), not the volume of stock asked for. (Fill to the line rather than measuring water.) D swaps M 1 and M 2 (2.50 M &times; 200.0 mL &divide; 0.0300 M). Label the concentrated solution \"1\" before you plug in.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 11.29",
+  "question": "A 5.00 mL portion of 1.20 M CaCl 2 is diluted to a total volume of 0.250 L. What is the new molarity? A. 24.0 M B. 0.0240 M C. 60.0 M D. 2.40 &times; 10 &minus;5 M",
+  "answer": "B. Write both volumes in the same unit: 0.250 L = 250. mL. \\( M_2 = \\dfrac{M_1 V_1}{V_2} = \\dfrac{(1.20\\ M)(5.00\\ \\text{mL})}{250.\\ \\text{mL}} = 0.0240\\ M \\) The volume grew 50 times, so the concentration is one-fiftieth as large. A divides 5.00 mL by 0.250 L, mixing units. A \"diluted\" solution 20 times stronger than the stock is the warning sign. C swaps V 1 and V 2 , which also makes the diluted solution stronger than the stock. D converts only V 1 to liters (0.00500 L) and leaves V 2 in mL. Convert both or neither.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 11.30",
+  "question": "A clinic prepares 2.00 L of a 0.600% sodium hypochlorite disinfectant from household bleach, taken here as 6.00% sodium hypochlorite (treat both as m/v). (a) What volume of bleach is needed? (b) About how much water is added? (c) Why is it better to fill a 2-L container to its mark than to measure the water separately?",
+  "answer": "(a) \\( V_1 = \\dfrac{C_2 V_2}{C_1} = \\dfrac{(0.600\\%)(2000.\\ \\text{mL})}{6.00\\%} = 200.\\ \\text{mL} \\) (a) 200. mL of bleach (a 1-to-10 dilution). (b) About 2000. mL &minus; 200. mL = 1.80 L of water. (c) V 2 = 2.00 L is the total volume of the final solution. Filling to the mark guarantees that total; measuring 2.00 L of water and then adding the bleach would make 2.20 L, a weaker solution. (Context only; follow the facility's disinfection protocol and the product label.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 11.31",
+  "question": "A microbiology student makes a serial dilution of a bacterial culture. She adds 1.00 mL of the culture to 9.00 mL of sterile saline (tube 1), mixes, adds 1.00 mL of tube 1 to 9.00 mL of saline (tube 2), and repeats once more (tube 3). (a) By what factor is the culture diluted in each step, and in tube 3 overall? (b) She spreads 0.100 mL from tube 3 on an agar plate, and 87 colonies grow. Assuming each colony grew from one cell (one colony-forming unit, CFU), how many CFU per mL are in tube 3? (c) How many CFU per mL were in the original culture?",
+  "answer": "(a) Each step puts 1.00 mL into a total of 10.00 mL, a 1-to-10 dilution (C 2 = C 1 &times; 1.00/10.00). Three steps dilute the culture 10 &times; 10 &times; 10 = 1000 times (10 3 ). (b) 87 CFU &divide; 0.100 mL = 8.7 &times; 10 2 CFU/mL in tube 3. (c) Multiply back by the dilution factor: 8.7 &times; 10 2 CFU/mL &times; 10 3 = 8.7 &times; 10 5 CFU/mL . Two significant figures, set by the colony count. Each step is M 1 V 1 = M 2 V 2 with CFU/mL as the concentration, and V 2 is the total 10.00 mL, not the 9.00 mL of saline.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 11.32",
+  "question": "A recipe for a bacterial growth medium needs 0.0100 M MgSO 4 (120.37 g/mol). (a) What mass of MgSO 4 is needed to make 100.0 mL of a 1.00 M stock solution? (b) What volume of the 1.00 M stock is needed to make 1.000 L of medium? (c) A technician mistakenly adds that volume of stock to 1.000 L of already-made medium, for a total of 1.010 L. What is the MgSO 4 concentration, in mM?",
+  "answer": "(a) \\( 0.1000\\ \\text{L} \\times \\dfrac{1.00\\ \\text{mol}}{1\\ \\text{L}} \\times \\dfrac{120.37\\ \\text{g}}{1\\ \\text{mol}} = 12.0\\ \\text{g MgSO}_4 \\) (b) \\( V_1 = \\dfrac{M_2 V_2}{M_1} = \\dfrac{(0.0100\\ M)(1000.\\ \\text{mL})}{1.00\\ M} = 10.0\\ \\text{mL} \\) (c) \\( M_2 = \\dfrac{(1.00\\ M)(10.0\\ \\text{mL})}{1010.\\ \\text{mL}} = 0.00990\\ M = 9.90\\ \\text{mM} \\) (a) 12.0 g ; (b) 10.0 mL ; (c) 9.90 mM instead of 10.0 mM, about 1% low. The mistake is small here because the stock is so concentrated, but the rule still holds: V 2 is the total volume.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 11.33",
+  "question": "Barium sulfate is the insoluble white solid in the \"barium\" contrast that patients drink before some X-ray studies of the digestive tract. A lab makes it by precipitation: BaCl 2 (aq) + Na 2 SO 4 (aq) &rarr; BaSO 4 (s) + 2 NaCl(aq) What mass of BaSO 4 (233.39 g/mol) forms when 35.0 mL of 0.200 M BaCl 2 reacts with excess Na 2 SO 4 ? A. 7.00 &times; 10 &minus;3 g B. 1.63 g C. 3.27 g D. 1.63 &times; 10 3 g",
+  "answer": "B. \\( 0.0350\\ \\text{L} \\times \\dfrac{0.200\\ \\text{mol BaCl}_2}{1\\ \\text{L}} \\times \\dfrac{1\\ \\text{mol BaSO}_4}{1\\ \\text{mol BaCl}_2} \\times \\dfrac{233.39\\ \\text{g}}{1\\ \\text{mol BaSO}_4} = 1.63\\ \\text{g BaSO}_4 \\) A stops at moles (7.00 &times; 10 &minus;3 mol) and labels them grams. C uses the 2 from 2 NaCl as the mole ratio. The ratio of BaSO 4 to BaCl 2 is 1 : 1. D uses 35.0 mL as if it were liters, so the answer is 1000 times too large.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 11.34",
+  "question": "Calcium phosphate, the main mineral in bones and tooth enamel, precipitates when solutions of calcium chloride and sodium phosphate are mixed: 3 CaCl 2 (aq) + 2 Na 3 PO 4 (aq) &rarr; Ca 3 (PO 4 ) 2 (s) + 6 NaCl(aq) (a) What volume of 0.100 M Na 3 PO 4 reacts completely with 30.0 mL of 0.150 M CaCl 2 ? (b) What mass of Ca 3 (PO 4 ) 2 (310.17 g/mol) forms?",
+  "answer": "Moles of CaCl 2 : 0.0300 L &times; 0.150 M = 4.50 &times; 10 &minus;3 mol. (a) \\( 4.50 \\times 10^{-3}\\ \\text{mol CaCl}_2 \\times \\dfrac{2\\ \\text{mol Na}_3\\text{PO}_4}{3\\ \\text{mol CaCl}_2} \\times \\dfrac{1\\ \\text{L}}{0.100\\ \\text{mol Na}_3\\text{PO}_4} = 0.0300\\ \\text{L} = 30.0\\ \\text{mL} \\) (b) \\( 4.50 \\times 10^{-3}\\ \\text{mol CaCl}_2 \\times \\dfrac{1\\ \\text{mol Ca}_3(\\text{PO}_4)_2}{3\\ \\text{mol CaCl}_2} \\times \\dfrac{310.17\\ \\text{g}}{1\\ \\text{mol}} = 0.465\\ \\text{g} \\) (a) 30.0 mL ; (b) 0.465 g . The volumes happen to be equal: the Na 3 PO 4 solution is two-thirds as concentrated, and two-thirds as many moles are needed.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 11.35",
+  "question": "An antacid contains magnesium hydroxide, which neutralizes stomach acid: Mg(OH) 2 (s) + 2 HCl(aq) &rarr; MgCl 2 (aq) + 2 H 2 O(l) Taking stomach acid as 0.100 M HCl, what volume of it can 0.400 g of Mg(OH) 2 (58.32 g/mol) neutralize? A. 68.6 mL B. 137 mL C. 34.3 mL D. 4.00 &times; 10 3 mL",
+  "answer": "B. \\( 0.400\\ \\text{g} \\times \\dfrac{1\\ \\text{mol Mg(OH)}_2}{58.32\\ \\text{g}} \\times \\dfrac{2\\ \\text{mol HCl}}{1\\ \\text{mol Mg(OH)}_2} \\times \\dfrac{1\\ \\text{L}}{0.100\\ \\text{mol HCl}} = 0.137\\ \\text{L} = 137\\ \\text{mL} \\) A skips the mole ratio (assumes 1 : 1). Each Mg(OH) 2 has two OH &minus; and neutralizes two HCl. C flips the mole ratio (1/2 instead of 2/1). D divides grams by molarity, skipping the conversion of grams to moles.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 11.36",
+  "question": "A student titrates an acid with NaOH, using phenolphthalein as the indicator. When should she stop adding base and record the final buret reading? A. When the solution first turns a faint pink that lasts after swirling B. When the solution turns a deep, dark pink C. When a pink color first flashes where the drop lands, even though it fades when swirled D. When the volume of base added equals the volume of acid in the flask",
+  "answer": "A. Phenolphthalein is colorless in acid and pink in base. The endpoint is the first faint pink that lasts: at that point the base added has just used up the acid. B means she overshot the endpoint and added extra base, so her volume, and her answer, will be too high. C is too early. A pink flash that fades means the drop was basic only locally; once mixed, there is still acid left. Swirl and keep adding drop by drop. D confuses equal volumes with equal moles. The endpoint depends on moles and the mole ratio, not on matching volumes.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 11.37",
+  "question": "A 20.00 mL sample of HCl is titrated with 0.1100 M NaOH. The buret reads 1.35 mL at the start and 24.80 mL at the endpoint. HCl(aq) + NaOH(aq) &rarr; NaCl(aq) + H 2 O(l) What is the molarity of the HCl? A. 0.1364 M B. 0.1290 M C. 0.09382 M D. 0.06449 M",
+  "answer": "B. Volume of NaOH used = 24.80 &minus; 1.35 = 23.45 mL. \\( 0.02345\\ \\text{L} \\times \\dfrac{0.1100\\ \\text{mol NaOH}}{1\\ \\text{L}} \\times \\dfrac{1\\ \\text{mol HCl}}{1\\ \\text{mol NaOH}} = 2.580 \\times 10^{-3}\\ \\text{mol HCl} \\qquad M = \\dfrac{2.580 \\times 10^{-3}\\ \\text{mol}}{0.02000\\ \\text{L}} = 0.1290\\ M \\) A uses the final buret reading (24.80 mL) as the volume. The volume used is final minus initial. C swaps the two volumes (0.1100 M &times; 20.00 mL &divide; 23.45 mL): the moles come from the NaOH volume, and you divide by the HCl volume. D uses a 2 : 1 mole ratio, as if HCl had two acidic hydrogens. HCl has one, so the ratio is 1 : 1.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 11.38",
+  "question": "In a lab modeled on Experiment 12b, a student first standardizes NaOH with weighed samples of oxalic acid, H 2 C 2 O 4 (90.034 g/mol), a solid known (Part I). She then uses the NaOH to titrate 50.00 mL of degassed lemon-lime soda and find its citric acid, H 3 C 6 H 5 O 7 (192.123 g/mol), a liquid unknown (Part II). H 2 C 2 O 4 (aq) + 2 NaOH(aq) &rarr; Na 2 C 2 O 4 (aq) + 2 H 2 O(l) H 3 C 6 H 5 O 7 (aq) + 3 NaOH(aq) &rarr; Na 3 C 6 H 5 O 7 (aq) + 3 H 2 O(l) Her data are in the table below. Experiment 12b-style titration data Titration Sample Initial buret reading (mL) Final buret reading (mL) Part I, trial 1 0.1502 g oxalic acid 0.42 32.14 Part I, trial 2 0.1475 g oxalic acid 0.85 32.05 Part II 50.00 mL soda 0.30 15.62 (a) Find the volume of NaOH used in each titration. (b) Find the molarity of the NaOH from each Part I trial, and the average. (c) Using the average, find the molarity of citric acid in the soda. (d) Express the citric acid concentration in g/L. (e) What molarity would she report if she assumed a 1 : 1 ratio in Part II?",
+  "answer": "(a) Trial 1: 32.14 &minus; 0.42 = 31.72 mL . Trial 2: 32.05 &minus; 0.85 = 31.20 mL . Part II: 15.62 &minus; 0.30 = 15.32 mL . (b) Trial 1: \\( 0.1502\\ \\text{g} \\times \\dfrac{1\\ \\text{mol H}_2\\text{C}_2\\text{O}_4}{90.034\\ \\text{g}} \\times \\dfrac{2\\ \\text{mol NaOH}}{1\\ \\text{mol H}_2\\text{C}_2\\text{O}_4} = 3.3365 \\times 10^{-3}\\ \\text{mol NaOH} \\qquad M = \\dfrac{3.3365 \\times 10^{-3}\\ \\text{mol}}{0.03172\\ \\text{L}} = 0.1052\\ M \\) Trial 2: 0.1475 g &divide; 90.034 g/mol &times; 2 = 3.2765 &times; 10 &minus;3 mol NaOH; &divide; 0.03120 L = 0.1050 M . Average: (0.1052 + 0.1050)/2 = 0.1051 M . (c) \\( 0.01532\\ \\text{L} \\times \\dfrac{0.1051\\ \\text{mol NaOH}}{1\\ \\text{L}} \\times \\dfrac{1\\ \\text{mol citric acid}}{3\\ \\text{mol NaOH}} = 5.367 \\times 10^{-4}\\ \\text{mol} \\qquad M = \\dfrac{5.367 \\times 10^{-4}\\ \\text{mol}}{0.05000\\ \\text{L}} = 0.01073\\ M \\) (d) 0.01073 mol/L &times; 192.123 g/mol = 2.06 g/L . (e) Skipping the 1 : 3 ratio gives 0.01532 L &times; 0.1051 M &divide; 0.05000 L = 0.03220 M , three times too high. The answers: (b) 0.1051 M NaOH; (c) 0.01073 M citric acid; (d) 2.06 g/L . The water used to dissolve the oxalic acid never enters the calculation; only its moles matter.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 11.39",
+  "question": "A powdered rust-stain remover contains oxalic acid, H 2 C 2 O 4 (90.034 g/mol). A 1.250 g sample of the powder is dissolved in water and titrated with 0.1520 M NaOH; the endpoint takes 24.48 mL. H 2 C 2 O 4 (aq) + 2 NaOH(aq) &rarr; Na 2 C 2 O 4 (aq) + 2 H 2 O(l) What is the mass percent of oxalic acid in the powder? (Assume nothing else in the powder reacts with NaOH.)",
+  "answer": "\\( 0.02448\\ \\text{L} \\times \\dfrac{0.1520\\ \\text{mol NaOH}}{1\\ \\text{L}} \\times \\dfrac{1\\ \\text{mol H}_2\\text{C}_2\\text{O}_4}{2\\ \\text{mol NaOH}} \\times \\dfrac{90.034\\ \\text{g}}{1\\ \\text{mol}} = 0.1675\\ \\text{g H}_2\\text{C}_2\\text{O}_4 \\) \\( \\dfrac{0.1675\\ \\text{g}}{1.250\\ \\text{g}} \\times 100\\% = 13.40\\% \\) 13.40% oxalic acid. Each oxalic acid has two acidic hydrogens, so the moles of acid are half the moles of NaOH (3.721 &times; 10 &minus;3 mol NaOH, 1.860 &times; 10 &minus;3 mol acid). Skipping the 1 : 2 ratio would give 26.80%, twice the true value.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 11.40",
+  "question": "A 10.00 mL sample of sulfuric acid is titrated with 0.1500 M NaOH. The buret reads 1.12 mL at the start and 19.76 mL at the endpoint. H 2 SO 4 (aq) + 2 NaOH(aq) &rarr; Na 2 SO 4 (aq) + 2 H 2 O(l) What is the molarity of the H 2 SO 4 ? A. 0.2796 M B. 0.1398 M C. 0.1482 M D. 0.04024 M",
+  "answer": "B. Volume of NaOH = 19.76 &minus; 1.12 = 18.64 mL. \\( 0.01864\\ \\text{L} \\times \\dfrac{0.1500\\ \\text{mol NaOH}}{1\\ \\text{L}} \\times \\dfrac{1\\ \\text{mol H}_2\\text{SO}_4}{2\\ \\text{mol NaOH}} = 1.398 \\times 10^{-3}\\ \\text{mol} \\qquad M = \\dfrac{1.398 \\times 10^{-3}\\ \\text{mol}}{0.01000\\ \\text{L}} = 0.1398\\ M \\) A skips the mole ratio (assumes 1 : 1). H 2 SO 4 has two acidic hydrogens, so it uses two NaOH. C uses the final buret reading (19.76 mL) instead of the volume used. D swaps the two volumes (0.1500 M &times; 10.00 mL &divide; 18.64 mL, then &divide; 2): the moles come from the NaOH volume, and you divide by the acid&rsquo;s volume.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 11.41",
+  "question": "Two students each weigh exactly 0.2000 g of oxalic acid to standardize the same NaOH solution. One dissolves the solid in 25.0 mL of water; the other uses 50.0 mL. How do their endpoint volumes of NaOH compare? A. They are the same. B. The student who used 50.0 mL needs about twice as much NaOH. C. The student who used 50.0 mL needs about half as much NaOH. D. The student who used 50.0 mL needs a little less NaOH, because a more dilute acid is weaker.",
+  "answer": "A. The NaOH reacts with the moles of oxalic acid, and both flasks hold the same moles (0.2000 g &divide; 90.034 g/mol). The extra water spreads the acid out but does not add or remove any of it, so the same volume of NaOH reaches the endpoint. This is why the water used to dissolve a solid known never enters the calculation. B treats the water as if it reacted with the NaOH, or as if it were the volume of the unknown. Water is not part of the balanced equation. C makes the same mistake in the other direction. D confuses concentration with amount. A more dilute acid has a lower molarity, but the total moles to neutralize are unchanged.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 11.42",
+  "question": "What is the molality of a solution made by dissolving 5.40 g of urea, CH 4 N 2 O (60.056 g/mol), in 175.0 g of water? A. 0.514 m B. 5.14 &times; 10 &minus;4 m C. 0.498 m D. 30.9 m",
+  "answer": "A. \\( m = \\dfrac{5.40\\ \\text{g} \\div 60.056\\ \\text{g/mol}}{0.1750\\ \\text{kg water}} = \\dfrac{0.08992\\ \\text{mol}}{0.1750\\ \\text{kg}} = 0.514\\ m \\) B divides by 175.0 g without converting to kilograms. C divides by the mass of the whole solution (5.40 + 175.0 = 180.4 g). Molality uses kilograms of solvent only. D uses grams of urea instead of moles.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 11.43",
+  "question": "A car's coolant is made from 2.40 kg of ethylene glycol, C 2 H 6 O 2 (62.068 g/mol, a nonelectrolyte), and 5.00 kg of water. (a) What is the molality? (b) By how much does it lower the freezing point (&Delta;T f )? (c) By how much does it raise the boiling point at 1 atm (&Delta;T b )? (d) Why is the same coolant used in both winter and summer? (Optional last step: give the new freezing and boiling points.)",
+  "answer": "(a) \\( 2400.\\ \\text{g} \\times \\dfrac{1\\ \\text{mol}}{62.068\\ \\text{g}} = 38.67\\ \\text{mol} \\qquad m = \\dfrac{38.67\\ \\text{mol}}{5.00\\ \\text{kg}} = 7.73\\ m \\) (b) \\( \\Delta T_f = i K_f m = (1)(1.86\\ {}^\\circ\\text{C}/m)(7.733\\ m) = 14.4\\ {}^\\circ\\text{C} \\) (c) \\( \\Delta T_b = i K_b m = (1)(0.512\\ {}^\\circ\\text{C}/m)(7.733\\ m) = 3.96\\ {}^\\circ\\text{C} \\) (a) 7.73 m ; (b) the freezing point drops by about 14.4 &deg;C ; (c) the boiling point rises by about 3.96 &deg;C . If asked for the new freezing and boiling points: \\( T_f = 0.00 - 14.4 = -14.4\\ {}^\\circ\\text{C} \\) and \\( T_b = 100.00 + 3.96 = 103.96\\ {}^\\circ\\text{C} \\). (d) The same dissolved particles both lower the freezing point (protecting the engine from freezing in winter) and raise the boiling point (protecting it from boiling over in summer). These are ideal estimates; at concentrations this high, real mixtures differ somewhat.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 11.44",
+  "question": "Which aqueous solution has the lowest freezing point? A. 0.42 m glucose B. 0.20 m KBr C. 0.15 m Na 2 SO 4 D. 0.12 m MgCl 2",
+  "answer": "C. Count particles: multiply each molality by i. \\( \\text{Na}_2\\text{SO}_4 \\rightarrow 2\\ \\text{Na}^+ + \\text{SO}_4^{2-}: \\quad i\\,m = 3 \\times 0.15 = 0.45\\ m \\text{ of particles} \\) The largest i &times; m gives the largest &Delta;T f , so the lowest freezing point. A has the largest molality, but glucose is a nonelectrolyte (i = 1), so it has only 0.42 m of particles. Choosing it forgets i. B: KBr gives 2 ions, 2 &times; 0.20 = 0.40 m of particles. D: MgCl 2 gives 3 ions, but 3 &times; 0.12 = 0.36 m, the fewest particles of all four.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 11.45",
+  "question": "Estimate the osmolality of each IV fluid in mOsm/kg and classify it as isotonic, hypotonic, or hypertonic compared with serum (275 to 295 mOsm/kg). For an estimate, treat each fluid as the stated mass of solute dissolved in 1.000 kg of water. (a) 0.45% NaCl: 4.50 g NaCl (58.44 g/mol). (b) 3% NaCl: 30.0 g NaCl. (c) D5W: 50.0 g glucose (180.156 g/mol). (d) What happens to red blood cells placed in each?",
+  "answer": "(a) \\( \\dfrac{4.50\\ \\text{g}}{58.44\\ \\text{g/mol}} = 0.07700\\ \\text{mol/kg} \\qquad \\text{osmolality} = 2 \\times 0.07700 = 0.154\\ \\text{Osm/kg} = 154\\ \\text{mOsm/kg} \\) (b) \\( \\dfrac{30.0\\ \\text{g}}{58.44\\ \\text{g/mol}} = 0.5133\\ \\text{mol/kg} \\qquad 2 \\times 0.5133 = 1.03\\ \\text{Osm/kg} = 1.03 \\times 10^{3}\\ \\text{mOsm/kg} \\) (c) \\( \\dfrac{50.0\\ \\text{g}}{180.156\\ \\text{g/mol}} = 0.2775\\ \\text{mol/kg} \\qquad 1 \\times 0.2775 = 0.278\\ \\text{Osm/kg} = 278\\ \\text{mOsm/kg} \\) (a) 154 mOsm/kg, hypotonic ; (b) 1.03 &times; 10 3 mOsm/kg, hypertonic ; (c) 278 mOsm/kg, isotonic (in the bag). (d) In 0.45% NaCl, water flows into the cells, toward their higher particle concentration, and they swell. In 3% NaCl, water flows out , and the cells shrink (crenation). In D5W the cells keep their shape at first, but once the body uses the glucose, what is left acts like water. (Context only; IV fluids are chosen and given only as ordered.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 11.46",
+  "question": "By how many degrees does a 0.300 m MgCl 2 solution lower the freezing point of water (&Delta;T f )? A. 0.558 &deg;C B. 1.12 &deg;C C. 0.461 &deg;C D. 1.67 &deg;C",
+  "answer": "D. MgCl 2 &rarr; Mg 2+ + 2 Cl &minus; , so i = 3. \\( \\Delta T_f = (3)(1.86\\ {}^\\circ\\text{C}/m)(0.300\\ m) = 1.67\\ {}^\\circ\\text{C} \\) If asked for the new freezing point: \\( T_f = 0.00 - 1.67 = -1.67\\ {}^\\circ\\text{C} \\). Subtract: dissolved particles always lower the freezing point, so +1.67 &deg;C would be wrong. A forgets i, treating MgCl 2 as if it did not separate into ions. B uses i = 2, as if MgCl 2 gave one Mg and one \"Cl 2 .\" The two chloride ions are separate particles. C uses K b (0.512 &deg;C/m), the boiling point constant, instead of K f (1.86 &deg;C/m).",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 11.47",
+  "question": "A cook adds 15.0 g of table salt (NaCl, 58.44 g/mol) to 2.00 kg of water in a pasta pot. (a) What is the molality of NaCl? (b) By how much does the salt raise the boiling point at 1 atm (&Delta;T b )? (Optional last step: what is the new boiling point?) (c) Does salting the water make the pasta cook noticeably faster?",
+  "answer": "(a) \\( m = \\dfrac{15.0\\ \\text{g} \\div 58.44\\ \\text{g/mol}}{2.00\\ \\text{kg}} = \\dfrac{0.2567\\ \\text{mol}}{2.00\\ \\text{kg}} = 0.128\\ m \\) (b) \\( \\Delta T_b = i K_b m = (2)(0.512\\ {}^\\circ\\text{C}/m)(0.1283\\ m) = 0.131\\ {}^\\circ\\text{C} \\) (a) 0.128 m ; (b) the boiling point rises by only 0.131 &deg;C . If asked for the new boiling point: \\( T_b = 100.00 + 0.131 = 100.13\\ {}^\\circ\\text{C} \\). (c) No. A rise of about a tenth of a degree makes no practical difference; the salt is for flavor. Boiling point elevation becomes large only at high molality, as in the antifreeze problem above.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 11.48",
+  "question": "Fresh cucumbers soaked in a strong salt brine for pickling become limp and shriveled. Which explanation is correct? A. Water moves out of the cucumber cells into the brine by osmosis, toward the higher solute concentration. B. Water moves from the brine into the cucumber cells by osmosis, toward the lower solute concentration. C. The salt dissolves the cell walls, so the cucumber collapses. D. No water moves, because cell membranes block water; the cucumber shrinks because the salt is heavy.",
+  "answer": "A. The brine is hypertonic to the cucumber's cells. Water crosses the cell membranes from the side with fewer dissolved particles (inside the cells) to the side with more (the brine): \"water follows solute.\" The cells lose water and the cucumber goes limp, the plant-cell version (plasmolysis) of the crenation that happens to red blood cells in a hypertonic solution. Salting meat or fish preserves it the same way, by drawing water out of bacteria too. B reverses osmosis. Water moves toward the higher solute concentration; if it moved in, the cucumber would swell. C is not what happens: salt does not dissolve the cellulose cell walls, and the shriveling is caused by water loss. D is wrong on both counts: cell membranes are semipermeable and let water through, and the weight of the salt does not shrink anything.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 11.49",
+  "question": "A laboratory technician accidentally suspends a sample of red blood cells in sterile distilled water instead of normal saline. What happens to the cells? A. They shrink and develop spiky surfaces (crenation). B. Nothing; pure water is gentle and has no solutes to disturb the cells. C. Water flows into them, and they swell and can burst (hemolysis), because pure water is hypotonic. D. They swell, because pure water is hypertonic to the cells.",
+  "answer": "C. Pure water has no dissolved particles, so it is hypotonic compared with the inside of the cells (about 290 mOsm/kg). Water flows into the cells, toward the higher solute concentration, until they swell and burst. A reverses the direction: crenation happens in a hypertonic solution, such as 3% NaCl, which pulls water out. B misses the point: it is the lack of solutes outside that drives water in. Only an isotonic solution leaves the cells unchanged. D gets the swelling right but names the wrong tonicity. A solution with fewer solutes than the cell is hypotonic.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 11.50",
+  "question": "Road crews choose between sodium chloride (NaCl, 58.44 g/mol) and calcium chloride (CaCl 2 , 110.98 g/mol) for icy roads. (a) Estimate the freezing point lowering when 90.0 g of each salt is dissolved in 1.000 kg of water. (b) Per gram, which salt lowers the freezing point more, and why? (c) CaCl 2 gives 3 ions per formula unit. Why might a crew still choose it on very cold days?",
+  "answer": "(a) \\( \\text{NaCl: } \\dfrac{90.0\\ \\text{g}}{58.44\\ \\text{g/mol}} = 1.540\\ \\text{mol}; \\quad \\Delta T_f = (2)(1.86\\ {}^\\circ\\text{C}/m)(1.540\\ m) = 5.73\\ {}^\\circ\\text{C} \\) \\( \\text{CaCl}_2\\text{: } \\dfrac{90.0\\ \\text{g}}{110.98\\ \\text{g/mol}} = 0.8110\\ \\text{mol}; \\quad \\Delta T_f = (3)(1.86\\ {}^\\circ\\text{C}/m)(0.8110\\ m) = 4.53\\ {}^\\circ\\text{C} \\) (a) NaCl: about 5.73 &deg;C of lowering; CaCl 2 : about 4.53 &deg;C . (b) NaCl , per gram. CaCl 2 gives 3 particles per formula unit, but its molar mass is almost twice as large, so 90.0 g of it gives fewer moles of particles (2.433 mol vs. 3.080 mol). (c) Per mole , CaCl 2 gives more particles, and it is very soluble, so it keeps melting ice at temperatures where NaCl stops working; it also releases heat as it dissolves. (These are ideal estimates; concentrated brines differ somewhat.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 11.51",
+  "question": "Laboratory pH and reference electrodes are often stored in saturated KCl. The solubility of KCl is 34.2 g per 100. g of water at 20 &deg;C, and the saturated solution has a density of 1.18 g/mL. (KCl = 74.55 g/mol.) For the saturated solution at 20 &deg;C, find (a) the mass percent of KCl, (b) the molarity, and (c) the molality. (d) Why are the molarity and molality different here, when they are nearly equal for dilute solutions?",
+  "answer": "Start with 100. g of water and 34.2 g of KCl, a total of 134.2 g of solution. Moles of KCl: 34.2 g &divide; 74.55 g/mol = 0.45875 mol. (a) \\( \\%\\,(\\text{m/m}) = \\dfrac{34.2\\ \\text{g}}{134.2\\ \\text{g}} \\times 100\\% = 25.5\\% \\) (b) \\( V = 134.2\\ \\text{g} \\times \\dfrac{1\\ \\text{mL}}{1.18\\ \\text{g}} = 113.73\\ \\text{mL} \\qquad M = \\dfrac{0.45875\\ \\text{mol}}{0.11373\\ \\text{L}} = 4.03\\ M \\) (c) \\( m = \\dfrac{0.45875\\ \\text{mol}}{0.100\\ \\text{kg water}} = 4.59\\ m \\) (a) 25.5% (not 34.2%: the percent divides by the whole solution); (b) 4.03 M ; (c) 4.59 m . (d) Molarity divides by liters of solution (113.73 mL here); molality divides by kilograms of solvent (100. g). In a dilute solution, 1 L of solution contains about 1 kg of water, so the two match. In a concentrated solution, the solute adds a lot of mass and volume, so the solution's volume and the water's mass are no longer about the same number.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 11.52",
+  "question": "A hospital pharmacy stocks D50 (50.0% (m/v) dextrose) and needs 500. mL of D10W (10.0% (m/v) dextrose). Treat dextrose as glucose, C 6 H 12 O 6 (180.156 g/mol). (a) What volume of D50 is needed, and what is done with it? (b) What is the molarity of glucose in D10W? (c) For an estimate, treat the molarity as the molality. Estimate the osmolality of D10W and classify it compared with serum (275 to 295 mOsm/kg).",
+  "answer": "(a) \\( V_1 = \\dfrac{C_2 V_2}{C_1} = \\dfrac{(10.0\\%)(500.\\ \\text{mL})}{50.0\\%} = 100.\\ \\text{mL} \\) (a) 100. mL of D50, diluted with sterile water to a total volume of 500. mL (about 400 mL of water). (b) \\( 10.0\\% = \\dfrac{10.0\\ \\text{g}}{100\\ \\text{mL}} = \\dfrac{100.\\ \\text{g}}{1\\ \\text{L}} \\qquad M = \\dfrac{100.\\ \\text{g} \\div 180.156\\ \\text{g/mol}}{1\\ \\text{L}} = 0.555\\ M \\) (c) Glucose is a nonelectrolyte (i = 1), so the osmolality is about 1 &times; 0.555 = 0.555 Osm/kg = 555 mOsm/kg , roughly twice serum's value: hypertonic . (This is an ideal estimate. Pharmacies prepare and check these fluids by protocol; context only.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 11.53",
+  "question": "One IV fluid is 2.5% dextrose in 0.45% NaCl. For an estimate, treat it as 25.0 g of glucose (180.156 g/mol) and 4.50 g of NaCl (58.44 g/mol) dissolved in 1.000 kg of water. (a) How many mOsm/kg come from the NaCl? (b) From the glucose? (c) What is the total osmolality, and is the fluid isotonic, hypotonic, or hypertonic in the bag? (d) Once the body uses the glucose, which tonicity does the remaining fluid have, and which way does water then move across red blood cell membranes?",
+  "answer": "(a) \\( \\dfrac{4.50\\ \\text{g}}{58.44\\ \\text{g/mol}} = 0.07700\\ \\text{mol/kg}; \\quad 2 \\times 0.07700 = 0.154\\ \\text{Osm/kg} = 154\\ \\text{mOsm/kg} \\) (b) \\( \\dfrac{25.0\\ \\text{g}}{180.156\\ \\text{g/mol}} = 0.1388\\ \\text{mol/kg}; \\quad 1 \\times 0.1388 = 0.139\\ \\text{Osm/kg} = 139\\ \\text{mOsm/kg} \\) (c) Total = 154.0 + 138.8 = 293 mOsm/kg , inside 275 to 295 mOsm/kg: isotonic in the bag. (d) Without the glucose, only the NaCl's 154 mOsm/kg remains, so the fluid behaves as hypotonic . Water moves into cells, toward their higher particle concentration. Every particle counts: the glucose makes the bag isotonic, but only until it is used. (Context only; IV fluids are given exactly as ordered.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 11.54",
+  "question": "Mateo Herrera, the irrigation technician with asthma whose IV you worked out in Section 11.4 above, needs a nebulizer treatment. A respiratory therapist prepares it as ordered: 0.50 mL of a medication solution and 2.00 mL of sterile 0.9% NaCl (take it as 0.900% (m/v)), for a total of 2.50 mL in the nebulizer cup. (a) What is the concentration of NaCl in the cup, as %(m/v)? (b) For an estimate, treat that NaCl concentration as the same number of grams per kilogram of water (for example, 0.900% as 9.00 g/kg). Estimate the osmolality from the NaCl alone, in mOsm/kg. (c) Compared with body fluids (275 to 295 mOsm/kg), is the NaCl alone isotonic, hypotonic, or hypertonic? (d) Why is saline, rather than sterile water, used to dilute the medication?",
+  "answer": "(a) \\( C_2 = \\dfrac{C_1 V_1}{V_2} = \\dfrac{(0.900\\%)(2.00\\ \\text{mL})}{2.50\\ \\text{mL}} = 0.720\\% \\) (b) \\( \\dfrac{7.20\\ \\text{g}}{58.44\\ \\text{g/mol}} = 0.1232\\ \\text{mol/kg}; \\quad 2 \\times 0.1232 = 0.246\\ \\text{Osm/kg} = 246\\ \\text{mOsm/kg} \\) (a) 0.720% : the saline is the solution being diluted (V 1 = 2.00 mL), and V 2 is the total 2.50 mL. (b) About 246 mOsm/kg . (c) From the NaCl alone, slightly hypotonic ; the dissolved medication adds some particles of its own. (d) Sterile water has no solute particles, so a mist of it is strongly hypotonic. Fluids far from the body's own particle concentration can irritate the lining of the airways, which matters for a person with asthma; saline keeps the mist much closer to isotonic. (The case is for practicing chemistry only; medications are prepared exactly as ordered and checked against the label, and this is not treatment advice.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 11.55",
+  "question": "A student checks a vinegar label that says \"5% acidity\" (acetic acid, HC 2 H 3 O 2 , 60.052 g/mol). HC 2 H 3 O 2 (aq) + NaOH(aq) &rarr; NaC 2 H 3 O 2 (aq) + H 2 O(l) (a) She makes her titrant by diluting 10.00 mL of 1.000 M NaOH stock to 100.0 mL in a volumetric flask. What is its molarity? (b) She dilutes 25.00 mL of vinegar to 250.0 mL, then titrates 25.00 mL of the diluted vinegar with her NaOH. The buret reads 0.45 mL at the start and 21.43 mL at the faint-pink endpoint. What is the molarity of acetic acid in the diluted vinegar? (c) In the original vinegar? (d) What is the mass/volume percent of acetic acid in the original vinegar, and does it agree with the label? (e) What percent would she report if she forgot the dilution in (b)?",
+  "answer": "(a) \\( M_2 = \\dfrac{(1.000\\ M)(10.00\\ \\text{mL})}{100.0\\ \\text{mL}} = 0.1000\\ M \\) (b) Volume of NaOH = 21.43 &minus; 0.45 = 20.98 mL. \\( 0.02098\\ \\text{L} \\times \\dfrac{0.1000\\ \\text{mol NaOH}}{1\\ \\text{L}} \\times \\dfrac{1\\ \\text{mol acid}}{1\\ \\text{mol NaOH}} = 2.098 \\times 10^{-3}\\ \\text{mol} \\qquad M = \\dfrac{2.098 \\times 10^{-3}\\ \\text{mol}}{0.02500\\ \\text{L}} = 0.08392\\ M \\) (c) \\( M_1 = \\dfrac{M_2 V_2}{V_1} = \\dfrac{(0.08392\\ M)(250.0\\ \\text{mL})}{25.00\\ \\text{mL}} = 0.8392\\ M \\) (d) \\( 0.8392\\ \\dfrac{\\text{mol}}{\\text{L}} \\times \\dfrac{60.052\\ \\text{g}}{1\\ \\text{mol}} = 50.40\\ \\dfrac{\\text{g}}{\\text{L}} = \\dfrac{5.040\\ \\text{g}}{100\\ \\text{mL}} \\rightarrow 5.04\\% \\) (a) 0.1000 M ; (b) 0.08392 M ; (c) 0.8392 M ; (d) 5.04% (m/v), which agrees with the \"5%\" label. (e) Using 0.08392 M as if it were the original vinegar gives 0.504% , ten times too low; the 25.00 mL to 250.0 mL dilution must be undone with M 1 V 1 = M 2 V 2 . (Real NaOH is standardized against a solid known, as in the Experiment 12b problem above, before it is trusted to four significant figures.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 11.56",
+  "question": "A 0.500% (m/v) KCl solution is on hand. What volume of it contains 0.200 g of KCl? A. 1.00 &times; 10 &minus;3 mL B. 40.0 mL C. 2.50 mL D. 400. mL",
+  "answer": "B. 0.500% (m/v) means 0.500 g KCl = 100 mL of solution. Start with the term by itself and flip the percent so grams of KCl cancel: \\( 0.200\\ \\text{g KCl} \\times \\dfrac{100\\ \\text{mL}}{0.500\\ \\text{g KCl}} = 40.0\\ \\text{mL} \\) A multiplies by the percent instead of dividing (0.200 &times; 0.500 &divide; 100). The units do not cancel, and a volume smaller than a drop cannot hold 0.200 g of a 0.5% solute. C divides the percent by the mass (0.500 &divide; 0.200), which leaves out the 100 mL that the percent is based on. D treats 0.500% as 0.500 g per liter instead of per 100 mL, so the answer is ten times too large.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 11.57",
+  "question": "You need 300. mL of 0.250 M NaOH. The shelf has two bottles: 0.100 M NaOH and 2.00 M NaOH. (a) Which bottle can you use, and why? (b) What volume of it do you need? (c) How do you make the solution?",
+  "answer": "(a) The 2.00 M bottle. Dilution only lowers a concentration, and 0.100 M is already weaker than 0.250 M, so it can never become 0.250 M by adding water. (b) \\( V_1 = \\dfrac{M_2 V_2}{M_1} = \\dfrac{(0.250\\ M)(300.\\ \\text{mL})}{2.00\\ M} = 37.5\\ \\text{mL} \\) (c) Measure 37.5 mL of the 2.00 M stock into a container marked at 300. mL (a volumetric flask if one is available) and add deionized water up to the 300. mL mark, then mix. Do not measure 262.5 mL of water separately; filling to the mark gives the right total volume.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 11.58",
+  "question": "3.42 g of aluminum sulfate, Al 2 (SO 4 ) 3 (342.13 g/mol), is dissolved in water to make 500.0 mL of solution. (a) Write the dissolving equation. (b) What is [Al 2 (SO 4 ) 3 ]? (c) What are [Al 3+ ] and [SO 4 2&minus; ]? (d) What is the total concentration of dissolved ions?",
+  "answer": "(a) Al 2 (SO 4 ) 3 (s) &rarr; 2 Al 3+ (aq) + 3 SO 4 2&minus; (aq) (b) \\( \\dfrac{3.42\\ \\text{g}}{342.13\\ \\text{g/mol}} = 9.996 \\times 10^{-3}\\ \\text{mol} \\qquad \\dfrac{9.996 \\times 10^{-3}\\ \\text{mol}}{0.5000\\ \\text{L}} = 0.0200\\ M \\) (c) [Al 3+ ] = 2 &times; 0.01999 M = 0.0400 M ; [SO 4 2&minus; ] = 3 &times; 0.01999 M = 0.0600 M . The subscripts 2 and 3 became coefficients in the dissolving equation, and those coefficients are the mole ratios. The sulfate ion stays together as one particle. (d) 0.0400 + 0.0600 = 0.100 M of ions: five ions per formula unit, the same counting that gives i in Section 11.6.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 11.59",
+  "question": "40.0 mL of 0.150 M BaCl 2 is mixed with 25.0 mL of 0.200 M Na 2 SO 4 . What mass of BaSO 4 (233.39 g/mol) precipitates? BaCl 2 (aq) + Na 2 SO 4 (aq) &rarr; BaSO 4 (s) + 2 NaCl(aq) A. 1.40 g B. 1.17 g C. 2.57 g D. 0.583 g",
+  "answer": "B. Both solutions come with a volume and a molarity, so this is a limiting-reactant problem. Find the BaSO 4 each reactant could make: \\( 0.0400\\ \\text{L} \\times 0.150\\ \\tfrac{\\text{mol BaCl}_2}{\\text{L}} \\times \\dfrac{1\\ \\text{mol BaSO}_4}{1\\ \\text{mol BaCl}_2} = 6.00 \\times 10^{-3}\\ \\text{mol} \\qquad 0.0250\\ \\text{L} \\times 0.200\\ \\tfrac{\\text{mol Na}_2\\text{SO}_4}{\\text{L}} \\times \\dfrac{1\\ \\text{mol BaSO}_4}{1\\ \\text{mol Na}_2\\text{SO}_4} = 5.00 \\times 10^{-3}\\ \\text{mol} \\) Na 2 SO 4 makes less, so it is limiting: 5.00 &times; 10 &minus;3 mol &times; 233.39 g/mol = 1.17 g . (1.00 &times; 10 &minus;3 mol of BaCl 2 is left over.) A uses the BaCl 2 , which is in excess. The smaller amount of product is the answer. C adds the two amounts together. Each formula unit of BaSO 4 needs one of each reactant, so the reactants are not added. D uses a 1 : 2 ratio between Na 2 SO 4 and BaSO 4 . The 2 in the equation belongs to NaCl, not BaSO 4 .",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 11.60",
+  "question": "What volume of 0.200 M HCl can 0.150 g of calcium hydroxide, Ca(OH) 2 (74.09 g/mol), neutralize? Ca(OH) 2 (s) + 2 HCl(aq) &rarr; CaCl 2 (aq) + 2 H 2 O(l) A. 10.1 mL B. 20.2 mL C. 5.06 mL D. 750. mL",
+  "answer": "B. Start with the term by itself, the 0.150 g, on the side whose amount you know: \\( 0.150\\ \\text{g Ca(OH)}_2 \\times \\dfrac{1\\ \\text{mol}}{74.09\\ \\text{g}} \\times \\dfrac{2\\ \\text{mol HCl}}{1\\ \\text{mol Ca(OH)}_2} \\times \\dfrac{1\\ \\text{L}}{0.200\\ \\text{mol HCl}} = 0.0202\\ \\text{L} = 20.2\\ \\text{mL} \\) A skips the mole ratio (1 : 1). Each Ca(OH) 2 has two OH &minus; and neutralizes two HCl. C flips the mole ratio (1/2 instead of 2/1). D divides grams by molarity, skipping the conversion of grams to moles; it is also far too large a volume for a fraction of a gram of base.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 11.61",
+  "question": "Which aqueous solution has the lowest freezing point? A. 0.20 m glucose B. 0.10 m Ca(C 2 H 3 O 2 ) 2 C. 0.12 m NaCl D. 0.080 m FeCl 3",
+  "answer": "D. Count particles, then multiply by molality: FeCl 3 &rarr; Fe 3+ + 3 Cl &minus; , i = 4, and 4 &times; 0.080 = 0.32 m of particles, the most of the four. A: glucose stays whole (i = 1), so 0.20 m of particles. Its molality is the largest, but its particle count is the smallest. B: Ca(C 2 H 3 O 2 ) 2 gives Ca 2+ + 2 C 2 H 3 O 2 &minus; , i = 3: 0.30 m, close but less than 0.32 m. C: NaCl gives 2 ions: 0.24 m.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 61,
+  "title": "Problem 11.62",
+  "question": "The solubility of KNO 3 is 110 g per 100 g of water at 60 &deg;C and 31.6 g per 100 g of water at 20 &deg;C. A student dissolves 55.0 g of KNO 3 in 50.0 g of water at 60 &deg;C. (a) Is the solution unsaturated, saturated, or supersaturated at 60 &deg;C? (b) It cools to 20 &deg;C without being disturbed, and no crystals form. Label it now. (c) A seed crystal is added at 20 &deg;C. What mass of KNO 3 crystallizes?",
+  "answer": "The solubilities are per 100 g of water, and this solution has only 50.0 g of water, so halve them: 55.0 g at 60 &deg;C and 15.8 g at 20 &deg;C. (a) 55.0 g dissolved, and 55.0 g is the limit: saturated (on the curve). (b) 55.0 g is still dissolved, but the limit is now 15.8 g: supersaturated (above the curve). (c) 55.0 &minus; 15.8 = 39.2 g crystallizes, leaving a saturated solution.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 62,
+  "title": "Problem 11.63",
+  "question": "A student titrates HCl with NaOH using phenolphthalein. Which statement is correct? A. At the endpoint, the flask contains no ions. B. The endpoint comes just after the equivalence point, when a slight excess of OH &minus; turns the indicator pink. C. The equivalence point is reached when equal volumes of acid and base have been mixed. D. A starting buret reading of 0.50 mL means the buret holds only 0.50 mL of NaOH.",
+  "answer": "B. The reaction in the flask is H + (aq) + OH &minus; (aq) &rarr; H 2 O(l). At the equivalence point the moles of OH &minus; added match the moles of H + ; the next fraction of a drop leaves OH &minus; in excess, and the indicator changes color. That color change is the endpoint. A: Na + and Cl &minus; are still dissolved; only H + and OH &minus; combine to make water. C: the moles match by the balanced equation; the volumes are equal only if the two molarities happen to be equal (for a 1 : 1 reaction). D: a buret tells how much has been dispensed. 0.50 mL is how far the level sits below the zero mark.",
+  "mc": true,
+  "terse_answer": false
+ }
+]

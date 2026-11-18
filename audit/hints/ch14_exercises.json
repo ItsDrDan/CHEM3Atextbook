@@ -1,0 +1,857 @@
+[
+ {
+  "file": "drafts/ch14/14.1_radioactivity.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Fluorine-18 is used in PET scans. Write its symbol and give the number of protons and neutrons.",
+  "answer": "Fluorine is element 9: \\( {}^{18}_{9}\\text{F} \\), with 9 protons and 18 &minus; 9 = 9 neutrons.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.1_radioactivity.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Which unit would appear on (a) a radiologic technologist's monthly dosimeter report, and (b) the label of a vial of technetium-99m tracer: millicuries or millisieverts?",
+  "answer": "(a) Millisieverts, because the badge records the dose the person received. (b) Millicuries, because the label describes how radioactive the source is.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.1_radioactivity.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A sample has an activity of 2.50 &times; 10 6 Bq. What is its activity in microcuries (&mu;Ci)? (1 Ci = 3.7 &times; 10 10 Bq, exact.)",
+  "answer": "2.50 &times; 10 6 Bq &divide; 3.7 &times; 10 10 Bq/Ci = 6.757 &times; 10 &minus;5 Ci = 67.6 &mu;Ci (three significant figures from 2.50).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.1_radioactivity.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Phosphorus-31 (15 protons, 16 neutrons) is stable. (a) Phosphorus-32 has one extra neutron. Which kind of decay would you expect, and what element forms? (b) Phosphorus-30 has one neutron too few. Which kind of decay would you expect?",
+  "answer": "(a) Too many neutrons: beta decay, in which a neutron becomes a proton. Z goes from 15 to 16, so sulfur-32 forms (Section 14.2, Example 6). (b) Too few neutrons: positron emission (or electron capture), in which a proton becomes a neutron, giving silicon-30.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.2_decay.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Americium-241, used in household smoke detectors, decays by alpha emission. Write the balanced nuclear equation.",
+  "answer": "Americium is element 95. 241 &minus; 4 = 237; 95 &minus; 2 = 93, neptunium: \\( {}^{241}_{95}\\text{Am} \\rightarrow {}^{237}_{93}\\text{Np} + {}^{4}_{2}\\text{He} \\).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.2_decay.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Cobalt-60, used in radiation therapy and to sterilize medical supplies, is a beta emitter. Write the balanced nuclear equation.",
+  "answer": "Cobalt is element 27. A stays 60; Z becomes 27 + 1 = 28, nickel: \\( {}^{60}_{27}\\text{Co} \\rightarrow {}^{60}_{28}\\text{Ni} + {}^{0}_{-1}\\text{e} \\).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.2_decay.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Oxygen-15 is a positron emitter used in some PET studies of blood flow. Write the balanced nuclear equation.",
+  "answer": "Oxygen is element 8. A stays 15; Z becomes 8 &minus; 1 = 7, nitrogen: \\( {}^{15}_{8}\\text{O} \\rightarrow {}^{15}_{7}\\text{N} + {}^{0}_{+1}\\text{e} \\).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.2_decay.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Complete the equation: \\( {}^{14}_{7}\\text{N} + {}^{1}_{0}\\text{n} \\rightarrow {}^{14}_{6}\\text{C} + \\ ? \\)",
+  "answer": "Left: A = 15, Z = 7. Right so far: A = 14, Z = 6. The missing particle has A = 1 and Z = 1, a proton, \\( {}^{1}_{1}\\text{H} \\). This reaction makes carbon-14 in the atmosphere (Section 14.4).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.2_decay.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Which shielding would you choose for each source, and why? (a) a pure alpha emitter in a sealed vial; (b) a beta emitter; (c) a gamma emitter.",
+  "answer": "(a) The vial wall, paper, or gloves are enough, since alpha is stopped by paper; the danger is breathing in or swallowing it. (b) Aluminum, plastic, or wood, plus a lab coat and gloves. (c) Lead or thick concrete, because gamma rays pass through lighter materials.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.2_decay.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "question": "Nickel-58 is bombarded with a proton, producing an alpha particle and a radioactive isotope. Write the balanced equation.",
+  "answer": "Left: 58 + 1 = 59 and 28 + 1 = 29. Right: ? + 4 = 59, so A = 55; ? + 2 = 29, so Z = 27, cobalt: \\( {}^{58}_{28}\\text{Ni} + {}^{1}_{1}\\text{H} \\rightarrow {}^{55}_{27}\\text{Co} + {}^{4}_{2}\\text{He} \\).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.2_decay.html",
+  "idx": 6,
+  "title": "Exercise \\(\\PageIndex{7}\\)",
+  "question": "Technetium-98 captures two neutrons and then releases an alpha particle. What isotope forms?",
+  "answer": "Left: 98 + 2(1) = 100 and 43 + 2(0) = 43. Right: ? + 4 = 100, so A = 96; ? + 2 = 43, so Z = 41, niobium: niobium-96, \\( {}^{96}_{41}\\text{Nb} \\).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.2_decay.html",
+  "idx": 7,
+  "title": "Exercise \\(\\PageIndex{8}\\)",
+  "question": "Carbon-11, a PET tracer, decays to boron-11. Count the protons and neutrons in each nucleus and decide which kind of decay took place.",
+  "answer": "Carbon-11: 6 protons, 5 neutrons. Boron-11: 5 protons, 6 neutrons. A proton became a neutron and A did not change, so this is positron emission (electron capture would give the same daughter): \\( {}^{11}_{6}\\text{C} \\rightarrow {}^{11}_{5}\\text{B} + {}^{0}_{+1}\\text{e} \\).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.3_half_life.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "A patient receives 12.0 mCi of technetium-99m (half-life 6.0 h). What activity remains after 18 hours?",
+  "answer": "n = 18 &divide; 6.0 = 3. 12.0 &rarr; 6.00 &rarr; 3.00 &rarr; 1.50 mCi.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.3_half_life.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "How many days does it take for 64.0 mg of iodine-131 (half-life 8.0 days) to decay to 4.00 mg?",
+  "answer": "64.0 &rarr; 32.0 &rarr; 16.0 &rarr; 8.00 &rarr; 4.00 mg is 4 half-lives; 4 &times; 8.0 days = 32 days.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.3_half_life.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A sample of cobalt-60 (half-life 5.27 years) has a mass of 2.40 g. What mass of cobalt-60 remains after 15.81 years?",
+  "answer": "n = 15.81 &divide; 5.27 = 3. 2.40 g &times; (1/2) 3 = 0.300 g.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.3_half_life.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "What percent of a fluorine-18 sample is left after 550 minutes? (Half-life 110 min.)",
+  "answer": "n = 550 &divide; 110 = 5. (1/2) 5 = 1/32 = 3.125% (about 3.1%).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.3_half_life.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Iodine-123 (half-life 13 hours) is used to image the thyroid. A dose has an activity of 8.00 mCi when it is prepared. Use the half-life as a conversion factor to find the number of half-lives in 39 hours, and then find the activity left.",
+  "answer": "39 h &times; (1 half-life / 13 h) = 3 half-lives. 8.00 &rarr; 4.00 &rarr; 2.00 &rarr; 1.00 mCi.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.3_half_life.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "question": "A sample of phosphorus-32 (half-life 14.3 days) used to label DNA has decayed to 12.5% of its original activity. How many days have passed?",
+  "answer": "100% &rarr; 50% &rarr; 25% &rarr; 12.5% is 3 half-lives. 3 &times; 14.3 days = 42.9 days.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.4_radiocarbon.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "A piece of charcoal from an ancient fire pit has 50.0% of the carbon-14 of living wood. How old is it?",
+  "answer": "50.0% is one half-life: 5730 years.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch14/14.4_radiocarbon.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "A shell has 6.25% of the carbon-14 of a living shell. Estimate its age.",
+  "answer": "100 &rarr; 50 &rarr; 25 &rarr; 12.5 &rarr; 6.25% is 4 half-lives; 4 &times; 5730 = 22,920 years = 2.29 &times; 10 4 years.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.4_radiocarbon.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Could carbon-14 be used to find the age of (a) a bronze spearpoint, (b) a woven basket, (c) a dinosaur bone about 70 million years old? Explain.",
+  "answer": "(a) No: bronze was never alive. (b) Yes: the plant fibers were once alive, and the basket is likely within the 50,000-year range. (c) No: after millions of years essentially no carbon-14 remains; rock layers around it are dated with longer-lived isotopes such as potassium-40.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.5_fission_fusion.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\) (Challenge)",
+  "question": "Complete the fission equation: \\( {}^{1}_{0}\\text{n} + {}^{235}_{92}\\text{U} \\rightarrow {}^{139}_{56}\\text{Ba} + {}^{?}_{?}\\text{X} + 3\\,{}^{1}_{0}\\text{n} \\)",
+  "answer": "A: 236 &minus; 139 &minus; 3 = 94. Z: 92 &minus; 56 = 36, krypton: \\( {}^{94}_{36}\\text{Kr} \\).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.5_fission_fusion.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "A reactor operator needs to slow the chain reaction. Should the control rods be raised or lowered? Explain.",
+  "answer": "Lowered further into the core: the rods absorb neutrons, so fewer neutrons are left to cause new fissions.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.5_fission_fusion.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Why does fusion need temperatures of millions of degrees, while fission can start at room temperature?",
+  "answer": "Fusion must push two positive nuclei together against their strong repulsion, which takes extremely fast (hot) nuclei. Fission is started by a neutron, which has no charge and is not repelled by the nucleus.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.6_radiation_health.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "A technologist receives a dose rate of 20. &mu;Sv/h standing 1.0 m from a patient who just received a tracer. What is the dose rate at 2.0 m? At 3.0 m?",
+  "answer": "At 2.0 m: 20. &times; 1/4 = 5.0 &mu;Sv/h. At 3.0 m: 20. &times; 1/9 = 2.2 &mu;Sv/h.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.6_radiation_health.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Why does radon in a home pose a much greater health risk than the same amount of an alpha emitter sealed in a container on a shelf?",
+  "answer": "Alpha particles cannot get through a container or the outer layer of skin. Radon is a gas that is breathed in, so it and its decay products sit in the lungs and deliver their highly ionizing alpha particles directly to living lung cells.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.6_radiation_health.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Why are bone marrow and a developing fetus more sensitive to radiation than adult nerve or muscle cells?",
+  "answer": "Bone marrow and fetal cells divide rapidly, so damaged DNA is copied before the cell can repair it. Adult nerve and muscle cells rarely divide, which gives their repair enzymes time to fix the damage.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.7_medicine.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Why is technetium-99m a better choice than iodine-131 for imaging the lungs?",
+  "answer": "Technetium-99m gives off only gamma rays, which leave the body to reach the camera, and its 6.0-hour half-life means the activity is gone within a couple of days. Iodine-131 also gives off beta particles, which stay in the body and add dose without helping the image, and its 8.0-day half-life keeps it active much longer.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.7_medicine.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Explain why the thyroid gland, and almost no other organ, takes up iodine-131.",
+  "answer": "The thyroid uses iodine to make the hormones T 4 and T 3 , so its cells actively collect iodide from the blood. The body cannot tell radioactive iodine from stable iodine, so iodine-131 is concentrated in the thyroid too.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.7_medicine.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A CT scanner and a technetium-99m bone scan both make images with high-energy electromagnetic radiation. For each, state where the radiation comes from and whether it can be switched off.",
+  "answer": "A CT scanner uses X-rays made in an X-ray tube outside the patient, when fast electrons hit a metal target; switching the tube off stops the X-rays. A bone scan uses gamma rays from technetium-99m nuclei inside the patient; they cannot be switched off and fade only as the tracer decays (half-life 6.0 h) and leaves the body.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.7_medicine.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Nitrogen-13, a PET tracer for blood flow to the heart, decays by positron emission with a half-life of 10 minutes. (a) Write the balanced equation. (b) What fraction of a dose is left 40 minutes after it is made? (c) Why must nitrogen-13 be made in a cyclotron at or very near the hospital?",
+  "answer": "(a) \\( {}^{13}_{7}\\text{N} \\rightarrow {}^{13}_{6}\\text{C} + {}^{0}_{+1}\\text{e} \\). (b) 40 &divide; 10 = 4 half-lives; (1/2) 4 = 1/16, or 6.25%. (c) With a 10-minute half-life, most of it would decay during shipping from a distant supplier.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.7_medicine.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Barium nitrate, Ba(NO 3 ) 2 , also contains barium, which blocks X-rays. Use the green sheet to explain why it could never be used for a barium swallow.",
+  "answer": "All nitrates are soluble, so Ba(NO 3 ) 2 would dissolve and release toxic Ba 2+ ions into the body. BaSO 4 is used because it is insoluble and passes through the digestive tract without dissolving.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 14.1",
+  "question": "What did Henri Becquerel observe in 1896 that led to the discovery of radioactivity? A. A glowing vacuum tube gave off invisible rays that passed through flesh but not bone. B. A photographic plate wrapped in black paper was fogged by a uranium salt placed on top of it, with no light and no electricity. C. Uranium ore contained two new elements, polonium and radium, that gave off stronger rays than uranium. D. Aluminum bombarded with alpha particles became radioactive.",
+  "answer": "B. The uranium itself was giving off rays that went through the paper and exposed the plate. Nothing had to switch it on, which is the hallmark of radioactivity: it comes from the atoms (their nuclei) themselves. A is R&ouml;ntgen's discovery of X-rays (1895). X-rays come from a tube that needs electricity, not from radioactive atoms. C is the later work of Marie and Pierre Curie (1898), who named the effect radioactivity. D is Ir&egrave;ne Joliot-Curie and Fr&eacute;d&eacute;ric Joliot's discovery of artificial radioactivity (1934).",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 14.2",
+  "question": "Write the nuclear symbol (with A and Z) for each radioisotope and give the number of protons and neutrons in its nucleus: (a) technetium-99m, used in most nuclear medicine scans; (b) cobalt-60, used to sterilize medical supplies; (c) radon-222, the radioactive gas found in some homes; (d) americium-241, used in household smoke detectors.",
+  "answer": "Look up Z (the number of protons) on the periodic table; the name gives A. Neutrons = A &minus; Z. (a) \\( {}^{99\\text{m}}_{43}\\text{Tc} \\qquad \\text{(b)}\\ {}^{60}_{27}\\text{Co} \\qquad \\text{(c)}\\ {}^{222}_{86}\\text{Rn} \\qquad \\text{(d)}\\ {}^{241}_{95}\\text{Am} \\) (a) 43 protons , 99 &minus; 43 = 56 neutrons . The \"m\" (metastable) means the nucleus has extra energy to release as a gamma ray; it does not change the count of protons or neutrons. (b) 27 protons , 60 &minus; 27 = 33 neutrons . (c) 86 protons , 222 &minus; 86 = 136 neutrons . (d) 95 protons , 241 &minus; 95 = 146 neutrons . Every isotope beyond bismuth (Z = 83), including radon and americium, is radioactive.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 14.3",
+  "question": "Which unit measures the absorbed dose , the energy of radiation absorbed per kilogram of tissue (1 unit = 1 J/kg)? A. Becquerel (Bq) B. Gray (Gy) C. Curie (Ci) D. Sievert (Sv)",
+  "answer": "B. 1 Gy = 1 J/kg = 100 rad. The gray describes the energy the tissue absorbed. A measures activity, how many nuclei in the source decay each second (1 Bq = 1 decay per second). It says nothing about how much energy a person absorbed. C also measures the activity of the source (1 Ci = 3.7 &times; 10 10 decays per second). D is a dose unit, but it is the equivalent (biological) dose: the absorbed dose adjusted for how much harm that kind of radiation does. It is the unit on a dosimeter report, not the plain energy per kilogram.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 14.4",
+  "question": "(a) A technetium-99m dose for a bone scan is labeled 25.0 mCi. What is its activity in megabecquerels (MBq)? (b) A fluorine-18 dose for a PET scan is labeled 555 MBq. What is its activity in millicuries?",
+  "answer": "(a) \\( 25.0\\ \\text{mCi} \\times \\dfrac{1\\ \\text{Ci}}{1000\\ \\text{mCi}} \\times \\dfrac{3.7 \\times 10^{10}\\ \\text{Bq}}{1\\ \\text{Ci}} \\times \\dfrac{1\\ \\text{MBq}}{10^{6}\\ \\text{Bq}} = 925\\ \\text{MBq} \\) (b) \\( 555\\ \\text{MBq} \\times \\dfrac{1\\ \\text{mCi}}{37\\ \\text{MBq}} = 15.0\\ \\text{mCi} \\) (a) 925 MBq ; (b) 15.0 mCi . The curie&ndash;becquerel relationship is an exact definition, so the three significant figures come from 25.0 mCi and 555 MBq. A check: 1 mCi = 3.7 &times; 10 7 Bq = 37 MBq, so the number of MBq is always 37 times the number of mCi.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 14.5",
+  "question": "A dental hygienist's dosimeter report shows a dose of 0.85 mSv for the year. (a) Express this dose in millirem (mrem). (b) What percent of the federal occupational limit of 50 mSv per year is it? (c) About how many chest X-rays (about 0.1 mSv each) give the same dose? (d) Natural background gives about 3 mSv per year. Is her work dose larger or smaller than her background dose?",
+  "answer": "(a) \\( 0.85\\ \\text{mSv} \\times \\dfrac{100\\ \\text{mrem}}{1\\ \\text{mSv}} = 85\\ \\text{mrem} \\) &nbsp;&nbsp; (1 Sv = 100 rem, so 1 mSv = 100 mrem) (b) \\( \\dfrac{0.85\\ \\text{mSv}}{50\\ \\text{mSv}} \\times 100\\% = 1.7\\% \\) (a) 85 mrem ; (b) 1.7% of the limit. (c) 0.85 mSv &divide; 0.1 mSv &asymp; 8.5, so about 8 or 9 chest X-rays (the 0.1 mSv value is only approximate). (d) Smaller : 0.85 mSv is less than a third of the roughly 3 mSv she receives each year from natural sources. Small work doses like this are the goal of ALARA (as low as reasonably achievable). (Context only; workers follow their facility's radiation safety program.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 14.6",
+  "question": "The potassium-40 in an adult's body gives an activity of about 4.0 &times; 10 3 Bq, and the potassium-40 in one banana gives about 15 Bq. (a) Express the body's activity in microcuries (&mu;Ci). (b) Express the banana's activity in picocuries (pCi). (c) About how many bananas would have the same potassium-40 activity as an adult's body? (d) Is eating a banana a reason to worry about radiation? Explain briefly.",
+  "answer": "(a) \\( 4.0 \\times 10^{3}\\ \\text{Bq} \\times \\dfrac{1\\ \\text{Ci}}{3.7 \\times 10^{10}\\ \\text{Bq}} \\times \\dfrac{10^{6}\\ \\mu\\text{Ci}}{1\\ \\text{Ci}} = 0.11\\ \\mu\\text{Ci} \\) (b) \\( 15\\ \\text{Bq} \\times \\dfrac{1\\ \\text{pCi}}{0.037\\ \\text{Bq}} = 4.1 \\times 10^{2}\\ \\text{pCi} \\) (a) 0.11 &mu;Ci (0.108 unrounded); (b) 4.1 &times; 10 2 pCi (405 unrounded); two significant figures, set by 4.0 &times; 10 3 Bq and 15 Bq. (c) 4.0 &times; 10 3 Bq &divide; 15 Bq &asymp; 267, so about 270 bananas . (d) No. The body keeps its potassium level steady, so eating a banana does not build up potassium-40; any extra potassium is excreted. This activity is part of the natural background radiation everyone receives, and the curie and becquerel describe the source, not a harmful dose.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 14.7",
+  "question": "The gamma camera that makes the images in a nuclear medicine scan is built around which kind of detector? A. A Geiger counter, a gas-filled tube that clicks each time radiation ionizes the gas B. A scintillation detector, a large crystal (such as sodium iodide) that gives off flashes of light where gamma rays strike it C. A film badge, which darkens in proportion to the total radiation it absorbs D. A dosimeter badge clipped to the patient's collar",
+  "answer": "B. Gamma rays leaving the patient strike the crystal and make tiny flashes of light (scintillations). Light detectors behind the crystal record where each flash happened, and the computer builds those positions into an image of where the tracer went. A counts radiation but cannot show where it came from. Geiger counters are survey meters for checking hands, work surfaces, and spills. C records only a total dose over weeks, after it is developed. It cannot make a live image. D records the dose received by the person wearing it, usually a worker, not the location of a tracer inside a patient.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 14.8",
+  "question": "Polonium-210, an alpha emitter found in tobacco smoke, decays by alpha emission. What is the other product? \\( {}^{210}_{84}\\text{Po} \\rightarrow \\ ? + {}^{4}_{2}\\text{He} \\) A. \\( {}^{206}_{82}\\text{Pb} \\) B. \\( {}^{206}_{83}\\text{Bi} \\) C. \\( {}^{210}_{82}\\text{Pb} \\) D. \\( {}^{214}_{86}\\text{Rn} \\)",
+  "answer": "A. Mass number: 210 = ? + 4, so ? = 206. Atomic number: 84 = ? + 2, so ? = 82. Element 82 is lead. \\( {}^{210}_{84}\\text{Po} \\rightarrow {}^{206}_{82}\\text{Pb} + {}^{4}_{2}\\text{He} \\) Check: top, 206 + 4 = 210; bottom, 82 + 2 = 84. B lowers the atomic number by only 1. An alpha particle carries away 2 protons, so Z drops by 2. C changes Z correctly but leaves the mass number at 210, so the top numbers do not add up: 210 + 4 = 214, not 210. Mass number must be conserved. D adds the alpha particle to the parent instead of subtracting it. In alpha decay the alpha particle leaves, so the daughter is lighter.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 14.9",
+  "question": "Write a balanced nuclear equation for the beta decay of each radioisotope: (a) strontium-90, a fission product in nuclear waste; (b) hydrogen-3 (tritium), used in glowing exit signs; (c) cesium-137, another fission product (its daughter forms in the metastable state, so write it with an \"m\").",
+  "answer": "In beta decay a neutron becomes a proton and the electron leaves as \\( {}^{0}_{-1}\\text{e} \\). The mass number stays the same and the atomic number goes up by 1, one place to the right on the periodic table. (a) \\( {}^{90}_{38}\\text{Sr} \\rightarrow {}^{90}_{39}\\text{Y} + {}^{0}_{-1}\\text{e} \\) (b) \\( {}^{3}_{1}\\text{H} \\rightarrow {}^{3}_{2}\\text{He} + {}^{0}_{-1}\\text{e} \\) (c) \\( {}^{137}_{55}\\text{Cs} \\rightarrow {}^{137\\text{m}}_{56}\\text{Ba} + {}^{0}_{-1}\\text{e} \\) (a) Strontium (38) becomes yttrium-90 (39). (b) Hydrogen (1) becomes helium-3 (2). (c) Cesium (55) becomes barium-137m (56), which then gives off a gamma ray. Check each: the top numbers match (90, 3, 137), and the bottom numbers add up: 39 + (&minus;1) = 38, 2 + (&minus;1) = 1, 56 + (&minus;1) = 55.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 14.10",
+  "question": "Carbon-11 is a positron emitter used in some PET scans. What does it become? \\( {}^{11}_{6}\\text{C} \\rightarrow \\ ? + {}^{0}_{+1}\\text{e} \\) A. \\( {}^{11}_{7}\\text{N} \\) B. \\( {}^{11}_{5}\\text{B} \\) C. \\( {}^{10}_{5}\\text{B} \\) D. \\( {}^{7}_{4}\\text{Be} \\)",
+  "answer": "B. Mass number: 11 = ? + 0, so ? = 11. Atomic number: 6 = ? + 1, so ? = 5, boron. \\( {}^{11}_{6}\\text{C} \\rightarrow {}^{11}_{5}\\text{B} + {}^{0}_{+1}\\text{e} \\) A treats the positron as a beta particle and raises Z. A positron counts +1 on the bottom, so the daughter has one fewer proton. C lowers the mass number by 1, as if the positron had a mass number of 1. Positrons, like electrons, have mass number 0. D is what alpha decay would give (A &minus; 4, Z &minus; 2), not positron emission.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 14.11",
+  "question": "Thallium-201, used in some heart scans, decays by electron capture. (a) Write the balanced nuclear equation. (b) Electron capture and positron emission both change the nucleus in the same way. What is that change, and how do the two equations look different?",
+  "answer": "(a) Thallium is element 81. In electron capture the electron is a reactant , written on the left: \\( {}^{201}_{81}\\text{Tl} + {}^{0}_{-1}\\text{e} \\rightarrow {}^{201}_{80}\\text{Hg} \\) Check: top, 201 + 0 = 201; bottom, 81 + (&minus;1) = 80, mercury. (b) In both, a proton becomes a neutron: the mass number stays the same and the atomic number goes down by 1 . In electron capture the nucleus pulls in an inner electron, so \\( {}^{0}_{-1}\\text{e} \\) appears on the left . In positron emission a positron is thrown out, so \\( {}^{0}_{+1}\\text{e} \\) appears on the right .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 14.12",
+  "question": "Complete each equation and name the kind of decay. (a) \\( {}^{214}_{82}\\text{Pb} \\rightarrow {}^{214}_{83}\\text{Bi} + \\ ? \\) &nbsp;&nbsp; (b) \\( {}^{214}_{84}\\text{Po} \\rightarrow {}^{210}_{82}\\text{Pb} + \\ ? \\) (c) \\( {}^{13}_{7}\\text{N} \\rightarrow {}^{13}_{6}\\text{C} + \\ ? \\) &nbsp;&nbsp; (d) \\( {}^{137\\text{m}}_{56}\\text{Ba} \\rightarrow {}^{137}_{56}\\text{Ba} + \\ ? \\)",
+  "answer": "Subtract to find the missing mass number (top) and atomic number (bottom). (a) A = 214 &minus; 214 = 0; Z = 82 &minus; 83 = &minus;1: a beta particle, beta decay . \\( {}^{214}_{82}\\text{Pb} \\rightarrow {}^{214}_{83}\\text{Bi} + {}^{0}_{-1}\\text{e} \\) (b) A = 214 &minus; 210 = 4; Z = 84 &minus; 82 = 2: an alpha particle, alpha decay . \\( {}^{214}_{84}\\text{Po} \\rightarrow {}^{210}_{82}\\text{Pb} + {}^{4}_{2}\\text{He} \\) (c) A = 13 &minus; 13 = 0; Z = 7 &minus; 6 = +1: a positron, positron emission . \\( {}^{13}_{7}\\text{N} \\rightarrow {}^{13}_{6}\\text{C} + {}^{0}_{+1}\\text{e} \\) (d) A = 0 and Z = 0, and the element did not change: a gamma ray, gamma emission from a metastable nucleus. \\( {}^{137\\text{m}}_{56}\\text{Ba} \\rightarrow {}^{137}_{56}\\text{Ba} + {}^{0}_{0}\\gamma \\) Lead-214 and polonium-214 are two of the short-lived decay products of radon (Section 14.6); nitrogen-13 is a PET tracer.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 14.13",
+  "question": "The americium-241 in smoke detectors is made in nuclear reactors. It forms when a heavier isotope of another element undergoes beta decay. Identify that parent nucleus and write the balanced equation. \\( ? \\rightarrow {}^{241}_{95}\\text{Am} + {}^{0}_{-1}\\text{e} \\)",
+  "answer": "Add up the right side. Mass number: 241 + 0 = 241. Atomic number: 95 + (&minus;1) = 94. Element 94 is plutonium. \\( {}^{241}_{94}\\text{Pu} \\rightarrow {}^{241}_{95}\\text{Am} + {}^{0}_{-1}\\text{e} \\) The parent is plutonium-241 . Check: beta decay moves one place to the right on the periodic table (Pu, 94, to Am, 95) with no change in mass number.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 14.14",
+  "question": "Complete each bombardment reaction. (a) In boron neutron capture, a boron-10 nucleus absorbs a neutron and splits into lithium-7 and one other particle. (b) In a reactor, molybdenum-98 absorbs a neutron and gives off a gamma ray; the product is the parent of technetium-99m. (a) \\( {}^{10}_{5}\\text{B} + {}^{1}_{0}\\text{n} \\rightarrow {}^{7}_{3}\\text{Li} + \\ ? \\) &nbsp;&nbsp; (b) \\( {}^{98}_{42}\\text{Mo} + {}^{1}_{0}\\text{n} \\rightarrow \\ ? + {}^{0}_{0}\\gamma \\)",
+  "answer": "(a) Left: A = 10 + 1 = 11, Z = 5 + 0 = 5. Right so far: A = 7, Z = 3. Missing: A = 4, Z = 2, an alpha particle . \\( {}^{10}_{5}\\text{B} + {}^{1}_{0}\\text{n} \\rightarrow {}^{7}_{3}\\text{Li} + {}^{4}_{2}\\text{He} \\) (b) Left: A = 98 + 1 = 99, Z = 42 + 0 = 42. The gamma ray adds nothing. Missing: A = 99, Z = 42, molybdenum-99 . \\( {}^{98}_{42}\\text{Mo} + {}^{1}_{0}\\text{n} \\rightarrow {}^{99}_{42}\\text{Mo} + {}^{0}_{0}\\gamma \\) Adding a neutron raises the mass number by 1 without changing the element. Molybdenum-99 then beta decays to technetium-99m (Section 14.2).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 14.15",
+  "question": "Technetium-99m gives off a gamma ray: \\( {}^{99\\text{m}}_{43}\\text{Tc} \\rightarrow {}^{99}_{43}\\text{Tc} + {}^{0}_{0}\\gamma \\). Which statement about this change is correct? A. The mass number drops by 1, because the gamma ray carries away part of the nucleus. B. The technetium becomes ruthenium, because the gamma ray raises the atomic number by 1. C. The nucleus releases extra energy; the mass number, atomic number, and element all stay the same. D. The gamma ray is an electron thrown out of the nucleus.",
+  "answer": "C. A gamma ray is high-energy electromagnetic radiation with mass number 0 and charge 0. The metastable nucleus simply drops to a lower-energy state, so it is still technetium-99, with 43 protons and 56 neutrons. A gives the gamma ray a mass number. It has none, so A stays 99. B gives the gamma ray a charge. With Z = 0 it cannot change the element; raising Z by 1 is beta decay. D describes a beta particle. A gamma ray is light, not a particle with mass or charge.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 14.16",
+  "question": "Which radiation has the highest ionizing power and the lowest penetrating power? A. Alpha particles B. Beta particles C. Gamma rays D. They are all the same; ionizing and penetrating power do not depend on the kind of radiation.",
+  "answer": "A. An alpha particle is heavy, slow, and doubly charged, so it ionizes nearly every molecule it meets and loses its energy within a few centimeters of air or the dead outer layer of skin. Ionizing power and penetrating power run in opposite directions: alpha &gt; beta &gt; gamma for ionizing, gamma &gt; beta &gt; alpha for penetrating. B is in the middle on both scales. C is the reverse: gamma rays are the most penetrating and the least ionizing, because they have no mass and no charge and pass most atoms without interacting. D is wrong; the differences in mass and charge are exactly why they differ, and why each needs a different shield.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 14.17",
+  "question": "A student tests three sealed sources, X, Y, and Z, each of which gives off only one kind of radiation. She holds a Geiger counter in front of each source with nothing in between, then with a sheet of paper, 3 mm of aluminum, or 2 cm of lead in between. The background reading with no source present is 30 counts per minute (cpm). The table below shows her readings (made-up values for practice). @media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } } Geiger counter readings (cpm) behind different shields Source No shield Paper 3 mm aluminum 2 cm lead X 5200 31 30 30 Y 4100 4050 35 30 Z 3600 3580 3500 1200 (a) Identify the radiation from each source. (b) Which source still needs the most shielding after 2 cm of lead? (c) A technician must carry source Y across the lab. What shielding is enough? (d) Which source would be the most damaging if it were swallowed or breathed in, and why?",
+  "answer": "(a) X is alpha : a sheet of paper drops it to background (31 cpm is the same as 30 cpm within counting error). Y is beta : paper barely matters, but 3 mm of aluminum stops it. Z is gamma : paper and aluminum hardly change the reading, and even 2 cm of lead only reduces it, to about a third. (b) Z . Gamma rays are reduced, not fully stopped, by lead; more thickness of lead or thick concrete is needed. (c) Plastic, aluminum, or wood (a few millimeters), plus a lab coat and gloves. Lead is not needed for a pure beta source. (d) X , the alpha emitter. Outside the body its particles cannot get through skin, but inside the body all of its very high ionizing power is delivered to the nearby living cells.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 14.18",
+  "question": "A home smoke detector holds a tiny amount of americium-241, an alpha emitter, inside a small metal chamber in a plastic case. Why is the detector safe to mount on a ceiling? A. Alpha particles are the most penetrating radiation, so they pass straight through people without leaving any energy behind. B. Alpha particles cannot get through the chamber, the plastic case, or more than a few centimeters of air, so none reach people below; the hazard would come only from breaking open the source and swallowing or inhaling it. C. Americium-241 stops being radioactive once it is sealed in a chamber. D. Smoke detectors use X-rays made by the americium nucleus, and X-rays are harmless.",
+  "answer": "B. Alpha particles have the lowest penetrating power. Inside the chamber they ionize the air so a small current flows; smoke particles interrupt the current and set off the alarm. The particles never leave the detector. A has penetrating power backward. Alpha is the least penetrating radiation, and when it does hit tissue it is the most ionizing. C is wrong because radioactivity is a property of the nucleus. Sealing a source in a container changes nothing about its decay; it only blocks the alpha particles. D is wrong twice: X-rays come from fast electrons hitting a metal target in an X-ray tube, not from nuclei, and they are ionizing, not harmless. Americium-241 gives off alpha particles (and some weak gamma rays).",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 14.19",
+  "question": "A sealed glass bulb holds 48.0 ng of radon-222 (half-life 3.8 days). How much radon-222 remains after 11.4 days? A. 6.00 ng B. 8.00 ng C. 24.0 ng D. None; it has all decayed.",
+  "answer": "A. \\( n = \\dfrac{11.4\\ \\text{days}}{3.8\\ \\text{days}} = 3 \\qquad 48.0\\ \\text{ng} \\times \\left(\\tfrac{1}{2}\\right)^{3} = 48.0\\ \\text{ng} \\times \\tfrac{1}{8} = 6.00\\ \\text{ng} \\) 48.0 ng &rarr; 24.0 ng &rarr; 12.0 ng &rarr; 6.00 ng B divides by 2 &times; 3 = 6 instead of by 2 3 = 8. Each half-life halves what is left, so the factors multiply: (1/2)(1/2)(1/2). C stops after one half-life. Three half-lives have passed. D subtracts half of the original (24.0 ng) each period: 48.0 &rarr; 24.0 &rarr; 0. Each half-life removes half of what is left , so some always remains.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 14.20",
+  "question": "A biology research lab receives a vial of phosphorus-32 (half-life 14.3 days) with an activity of 12.0 mCi, used to label DNA. What is its activity 57.2 days later?",
+  "answer": "\\( n = \\dfrac{57.2\\ \\text{days}}{14.3\\ \\text{days}} = 4 \\qquad 12.0\\ \\text{mCi} \\times \\left(\\tfrac{1}{2}\\right)^{4} = 12.0\\ \\text{mCi} \\times \\tfrac{1}{16} = 0.750\\ \\text{mCi} \\) 12.0 &rarr; 6.00 &rarr; 3.00 &rarr; 1.50 &rarr; 0.750 mCi 0.750 mCi , three significant figures from 12.0 mCi (n is an exact count). Check: four arrows, four halvings, and 0.750 is one-sixteenth of 12.0.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 14.21",
+  "question": "A gamma irradiator that sterilizes surgical gloves and spices uses cobalt-60 (half-life 5.27 years). Its source has an activity of 4.0 &times; 10 5 Ci when it is installed, and new cobalt-60 is added when the activity has fallen to one-fourth of that. (a) How many years after installation is cobalt-60 added? (b) What is the activity then?",
+  "answer": "(a) One-fourth is (1/2) 2 , so 2 half-lives: \\( \\text{time} = n \\times t_{1/2} = 2 \\times 5.27\\ \\text{years} = 10.5\\ \\text{years} \\) (b) \\( 4.0 \\times 10^{5}\\ \\text{Ci} \\times \\left(\\tfrac{1}{2}\\right)^{2} = 1.0 \\times 10^{5}\\ \\text{Ci} \\) (a) 10.5 years (10.54 unrounded; three significant figures from 5.27 years); (b) 1.0 &times; 10 5 Ci (two significant figures from 4.0 &times; 10 5 Ci). A long half-life is why one source can run a sterilizing plant for years.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 14.22",
+  "question": "Mateo Herrera, the irrigation technician with asthma, has his V/Q lung scan with technetium-99m (half-life 6.0 h). Suppose the technetium-99m given for the scan had an activity of 6.40 mCi at 7:00 a.m. (a) Copy and complete the table below of the technetium-99m activity left, ignoring any tracer his body removes. (b) What activity is left at 1:00 p.m. the next day, and what fraction of the starting activity is that? Technetium-99m activity after the scan (half-life 6.0 h) Time Hours after 7:00 a.m. Half-lives Activity (mCi) 7:00 a.m. 0 0 6.40 1:00 p.m. 6 1 ? 7:00 p.m. 12 2 ? 1:00 a.m. 18 3 ? 7:00 a.m. (next day) 24 4 ?",
+  "answer": "(a) Halve once per 6-hour half-life: 1:00 p.m., 3.20 mCi ; 7:00 p.m., 1.60 mCi ; 1:00 a.m., 0.800 mCi ; 7:00 a.m. the next day, 0.400 mCi . (b) 1:00 p.m. the next day is 30 hours after 7:00 a.m.: \\( n = \\dfrac{30\\ \\text{h}}{6.0\\ \\text{h}} = 5 \\qquad 6.40\\ \\text{mCi} \\times \\left(\\tfrac{1}{2}\\right)^{5} = 6.40\\ \\text{mCi} \\times \\tfrac{1}{32} = 0.200\\ \\text{mCi} \\) 0.200 mCi , which is 1/32 of the starting activity. A day and a quarter after the scan, about 97% of the tracer's technetium-99m has decayed, and his body also eliminates some of the tracer, so the real amount is even smaller. This is why a short half-life is chosen. (The case is for practicing chemistry only; it is not medical advice.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 14.23",
+  "question": "A lab measures the activity of a radioisotope sample every 15.0 hours. The table below shows the results. Activity of a radioisotope sample over time Time (h) Activity (mCi) 0 96.0 15.0 48.0 30.0 24.0 45.0 12.0 60.0 6.00 (a) What is the half-life? (b) What will the activity be at 90.0 h? (c) At what time will the activity be 3.00 mCi?",
+  "answer": "(a) The activity halves in every 15.0-hour step (96.0 &rarr; 48.0 &rarr; 24.0 &hellip;), so the half-life is 15.0 h . (This matches sodium-24, half-life 15.0 h.) (b) \\( n = \\dfrac{90.0\\ \\text{h}}{15.0\\ \\text{h}} = 6 \\qquad 96.0\\ \\text{mCi} \\times \\left(\\tfrac{1}{2}\\right)^{6} = 96.0\\ \\text{mCi} \\times \\tfrac{1}{64} = 1.50\\ \\text{mCi} \\) (c) From 6.00 mCi at 60.0 h, one more half-life gives 3.00 mCi: 60.0 h + 15.0 h = 75.0 h . (Or: 96.0 &rarr; 3.00 mCi is 5 halvings, and 5 &times; 15.0 h = 75.0 h.) (a) 15.0 h ; (b) 1.50 mCi ; (c) 75.0 h .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 14.24",
+  "question": "A 64.0 &mu;g sample of a radioisotope decays to 2.00 &mu;g in 25.0 days. What is its half-life? A. 5.00 days B. 12.5 days C. 0.781 days D. 4.17 days",
+  "answer": "A. Count the halvings: 64.0 &rarr; 32.0 &rarr; 16.0 &rarr; 8.00 &rarr; 4.00 &rarr; 2.00 &mu;g is 5 half-lives. \\( t_{1/2} = \\dfrac{\\text{time elapsed}}{n} = \\dfrac{25.0\\ \\text{days}}{5} = 5.00\\ \\text{days} \\) (This matches bismuth-210, half-life 5.0 days.) B divides by 2, as if one halving had happened. The amount fell to 1/32, not 1/2. C divides the time by 32, the fraction's denominator, instead of by the number of half-lives. 1/32 means 5 halvings, since 2 5 = 32. D counts the numbers in the chain (six of them) instead of the arrows (five). The starting amount is not a half-life.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 14.25",
+  "question": "A thyroid scan uses iodine-123 (half-life 13 h). When the patient arrives, 39 h after the iodine-123 was made, the dose has an activity of 0.450 mCi. What was its activity when it was made?",
+  "answer": "n = 39 h &divide; 13 h = 3. Going backward in time, double once per half-life: \\( 0.450\\ \\text{mCi} \\times 2^{3} = 0.450\\ \\text{mCi} \\times 8 = 3.60\\ \\text{mCi} \\) 3.60 mCi . Check forward: 3.60 &rarr; 1.80 &rarr; 0.900 &rarr; 0.450 mCi in three half-lives. Going back in time the amount must get bigger.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 14.26",
+  "question": "A nuclear pharmacy has two vials of iodine-131 (half-life 8.0 days): one with 10.0 mCi and one with 2.0 mCi. Which statement is correct? A. Each vial loses half of its activity in 8.0 days: the larger one falls to 5.00 mCi and the smaller one to 1.0 mCi. B. The larger vial takes longer to lose half of its activity, because it has more nuclei to decay. C. The smaller vial is completely gone after 8.0 days, because it has so little to start with. D. Keeping the vials in a refrigerator would lengthen the half-life and slow the decay.",
+  "answer": "A. The half-life is a property of the isotope. It does not depend on how much of the isotope is present, on temperature, or on what compound it is in, so both vials halve in 8.0 days. B makes the half-life depend on the amount. A bigger sample has more decays per second, but the fraction that decays in each half-life is the same. C confuses the half-life with the time to decay completely. After one half-life, half (1.0 mCi) remains. D applies the rule for chemical reaction rates to nuclear decay. Cooling does not change what happens inside a nucleus.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 14.27",
+  "question": "What is the fewest whole number of half-lives after which less than 1% of a radioisotope remains? A. 6 B. 7 C. 10 D. It never drops below 1%, because half of the sample always remains.",
+  "answer": "B. Keep halving the percent: 50%, 25%, 12.5%, 6.25%, 3.125%, 1.5625%, 0.78125%. After 6 half-lives 1.56% is left (still above 1%); after 7, (1/2) 7 = 1/128 = 0.781%, below 1%. A leaves 1.56%, which is still more than 1%. C is the rule of thumb for less than about 0.1% (1/1024). Ten half-lives is more than needed for 1%. D confuses \"half of what is left\" with \"half of the original.\" Each half-life leaves half of what was left before, so the percent keeps getting smaller: 50%, then 25%, and so on.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 14.28",
+  "question": "Waste from a clinic's iodine-123 doses (half-life 13 h) is held in shielded storage for 10 half-lives before it is handled as ordinary waste. (a) How long is that, in hours and in days? (b) If the waste had an activity of 2.00 mCi when it was stored, what is its activity at the end of storage, in microcuries?",
+  "answer": "(a) \\( \\text{time} = 10 \\times 13\\ \\text{h} = 130\\ \\text{h} \\times \\dfrac{1\\ \\text{day}}{24\\ \\text{h}} = 5.4\\ \\text{days} \\) (b) \\( 2.00\\ \\text{mCi} \\times \\left(\\tfrac{1}{2}\\right)^{10} = \\dfrac{2.00\\ \\text{mCi}}{1024} = 1.95 \\times 10^{-3}\\ \\text{mCi} = 1.95\\ \\mu\\text{Ci} \\) (a) 130 h (two significant figures, like 13 h), about 5.4 days ; (b) 1.95 &mu;Ci , about 0.1% of the starting activity. (Context only; disposal follows the facility's radiation safety rules.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 14.29",
+  "question": "Which sample could be dated by carbon-14? A. A layer of volcanic rock B. Charred acorns from a hearth used about 9000 years ago C. A fossil tooth about 2 million years old D. A copper bead",
+  "answer": "B. Acorns were once alive, so they took in carbon with the same carbon-14 ratio as the air, and 9000 years is well within the method's range of about 50,000 years. A was never alive, so it never took in carbon-14 from the atmosphere. Volcanic rock is dated with potassium-40. C was once alive, but after 2 million years (about 350 half-lives) no measurable carbon-14 is left. D was never alive. Metal contains no carbon from a living thing.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 14.30",
+  "question": "The Iceman found in an Alpine glacier in 1991 died about 5300 years ago. Compared with the carbon-14 per gram of carbon in living tissue, how much carbon-14 is in his tissue? A. More than 50% B. Exactly 50% C. 25% D. All of it, 100%, because carbon-14 does not decay while it is frozen in ice",
+  "answer": "A. 5300 years is a little less than one half-life (5730 years), so less than half of his carbon-14 has decayed. More than 50% remains. B would be true only if exactly one half-life, 5730 years, had passed. C is two half-lives, about 11,000 years, roughly twice his age. D treats nuclear decay like spoilage. Freezing preserved his body, but decay happens inside the nucleus and is not slowed by cold.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 14.31",
+  "question": "(a) Explain why a living tree keeps a nearly constant ratio of carbon-14 to carbon-12. (b) Explain why the ratio in a wooden beam cut from the tree falls over time. (c) Write the nuclear equation for what happens to the carbon-14 in the beam.",
+  "answer": "(a) Carbon-14 is made continuously in the upper atmosphere when cosmic-ray neutrons hit nitrogen-14, and it becomes part of CO 2 . The tree takes in CO 2 by photosynthesis the whole time it is alive, so the carbon-14 that decays in its wood is replaced, and its ratio stays the same as the air's. (b) Once the tree is cut, the wood takes in no new carbon. The carbon-14 already there keeps decaying with a half-life of 5730 years, and nothing replaces it, so the ratio falls. (c) Carbon-14 is a beta emitter: \\( {}^{14}_{6}\\text{C} \\rightarrow {}^{14}_{7}\\text{N} + {}^{0}_{-1}\\text{e} \\) Carbon-14 decays all the time, in the living tree too; death only stops the replacement.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 14.32",
+  "question": "Carbon from living plants gives 14.0 counts per minute per gram of carbon on a detector. Carbon from a woven grass mat found in a dry cave gives 1.75 counts per minute per gram on the same detector. Estimate the age of the mat.",
+  "answer": "14.0 &rarr; 7.00 &rarr; 3.50 &rarr; 1.75 counts per minute is 3 half-lives (1.75 is 1/8 of 14.0). \\( \\text{age} = 3 \\times 5730\\ \\text{years} = 17{,}190\\ \\text{years} = 1.72 \\times 10^{4}\\ \\text{years} \\) 1.72 &times; 10 4 years , three significant figures because 5730 years has three. Check: (1/2) 3 = 1/8, and 14.0 &divide; 8 = 1.75.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 14.33",
+  "question": "A piece of mammoth tusk has 1/64 of the carbon-14 per gram of carbon found in living ivory. Which age is correct and correctly reported? A. 3.44 &times; 10 4 years B. 3.67 &times; 10 5 years C. 34,380 years D. 4.01 &times; 10 4 years",
+  "answer": "A. 1/64 = (1/2) 6 , so 6 half-lives have passed: \\( \\text{age} = 6 \\times 5730\\ \\text{years} = 34{,}380\\ \\text{years} = 3.44 \\times 10^{4}\\ \\text{years} \\) B multiplies 5730 years by 64, using the fraction's denominator as the number of half-lives. 64 is 2 6 , so n = 6. C has the right value but four significant figures. 5730 years has three (its trailing zero has no decimal point), so the age is written 3.44 &times; 10 4 years. D counts 7 half-lives, the number of entries in 1, 1/2, 1/4, 1/8, 1/16, 1/32, 1/64, instead of the 6 halvings between them.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 14.34",
+  "question": "A bone sample is estimated to be 4.01 &times; 10 4 years old. (a) How many carbon-14 half-lives is that? (b) What percent of the original carbon-14 remains? (c) Why do labs find samples of this age hard to date?",
+  "answer": "(a) \\( n = \\dfrac{4.01 \\times 10^{4}\\ \\text{years}}{5730\\ \\text{years}} = 6.998 \\approx 7 \\) (b) \\( 100\\% \\times \\left(\\tfrac{1}{2}\\right)^{7} = \\dfrac{100\\%}{128} = 0.781\\% \\) (a) 7 half-lives (the age is rounded; 7 &times; 5730 = 40,110 years); (b) 0.781% . (c) Less than 1% of the carbon-14 is left, so the sample gives very few counts, and a tiny amount of contamination with modern carbon would make it look much younger. Near 50,000 years (about 9 half-lives) the remaining carbon-14 is too small to measure reliably.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 14.35",
+  "question": "Hydrogen-3 (tritium, half-life 12.3 years) is used to estimate how long ago groundwater fell as rain. Water from a deep well has 12.5% of the tritium found in rain from the same region. About how many years ago did the water fall as rain? (Assume the tritium in rain has stayed the same.)",
+  "answer": "100% &rarr; 50% &rarr; 25% &rarr; 12.5% is 3 half-lives. \\( \\text{time} = 3 \\times 12.3\\ \\text{years} = 36.9\\ \\text{years} \\) 36.9 years . The same half-life reasoning works for any isotope; the choice of isotope depends on the age being measured. Tritium's short half-life suits water a few decades old, where carbon-14 would show almost no change.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 14.36",
+  "question": "Volcanic rock layers are dated with potassium-40 (half-life 1.25 &times; 10 9 years), part of which decays to argon-40 by electron capture. (a) Write the balanced equation for the electron capture. (b) A volcanic rock has 25.0% of the potassium-40 it had when it formed. How old is the rock?",
+  "answer": "(a) Potassium is element 19. The captured electron is written on the left: \\( {}^{40}_{19}\\text{K} + {}^{0}_{-1}\\text{e} \\rightarrow {}^{40}_{18}\\text{Ar} \\) Check: top, 40 + 0 = 40; bottom, 19 + (&minus;1) = 18, argon. (b) 100% &rarr; 50.0% &rarr; 25.0% is 2 half-lives: \\( \\text{age} = 2 \\times 1.25 \\times 10^{9}\\ \\text{years} = 2.50 \\times 10^{9}\\ \\text{years} \\) 2.50 &times; 10 9 years , 2.5 billion years. Argon is a gas that escapes from molten lava, so a newly formed volcanic rock starts with almost no argon-40; the argon-40 made after the rock hardens is trapped inside it and records how long the clock has run.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 14.37",
+  "question": "Which statement correctly describes how the Sun produces its energy? A. Fission: heavy uranium nuclei in the Sun's core split into smaller nuclei. B. Fusion: hydrogen nuclei join to form helium, and a little mass becomes energy. C. Burning: hydrogen combines with oxygen in a chemical reaction. D. Fusion: helium nuclei split into hydrogen nuclei, releasing neutrons.",
+  "answer": "B. In the Sun's core, at about 15 million &deg;C, hydrogen nuclei fuse in steps whose overall result is \\( 4\\,{}^{1}_{1}\\text{H} \\rightarrow {}^{4}_{2}\\text{He} + 2\\,{}^{0}_{+1}\\text{e} \\). The products have slightly less mass than the reactants, and that missing mass is released as energy (E = mc 2 ). A swaps fission and fusion. Fission (splitting heavy nuclei) powers nuclear reactors, not stars. C is a chemical reaction. Burning involves only electrons, and the Sun has far too little oxygen and would have burned out long ago; nuclear reactions release millions of times more energy. D runs fusion backward. Fusion joins light nuclei into heavier ones; splitting helium would absorb energy, not release it.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 14.38 (Challenge)",
+  "question": "How many neutrons are released in this fission of uranium-235? \\( {}^{1}_{0}\\text{n} + {}^{235}_{92}\\text{U} \\rightarrow {}^{137}_{52}\\text{Te} + {}^{97}_{40}\\text{Zr} + x\\,{}^{1}_{0}\\text{n} \\)",
+  "answer": "Atomic numbers: 0 + 92 = 92 on the left, and 52 + 40 = 92 on the right, so they already balance (neutrons have Z = 0). Mass numbers: left, 1 + 235 = 236; right, 137 + 97 + x = 234 + x. So x = 236 &minus; 234 = 2 . \\( {}^{1}_{0}\\text{n} + {}^{235}_{92}\\text{U} \\rightarrow {}^{137}_{52}\\text{Te} + {}^{97}_{40}\\text{Zr} + 2\\,{}^{1}_{0}\\text{n} \\) Check: 137 + 97 + 2 = 236. Two or three neutrons per fission is typical, and they are what can keep a chain reaction going.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 14.39 (Challenge)",
+  "question": "Iodine-131 is one of the fission products of uranium-235. What is the missing fragment in this fission? \\( {}^{1}_{0}\\text{n} + {}^{235}_{92}\\text{U} \\rightarrow {}^{131}_{53}\\text{I} + \\ ? + 3\\,{}^{1}_{0}\\text{n} \\) A. \\( {}^{102}_{39}\\text{Y} \\) B. \\( {}^{104}_{39}\\text{Y} \\) C. \\( {}^{101}_{39}\\text{Y} \\) D. \\( {}^{105}_{39}\\text{Y} \\)",
+  "answer": "A. Left: A = 1 + 235 = 236, Z = 92. Right so far: A = 131 + 3 &times; 1 = 134, Z = 53. Missing: A = 236 &minus; 134 = 102, Z = 92 &minus; 53 = 39, yttrium. \\( {}^{1}_{0}\\text{n} + {}^{235}_{92}\\text{U} \\rightarrow {}^{131}_{53}\\text{I} + {}^{102}_{39}\\text{Y} + 3\\,{}^{1}_{0}\\text{n} \\) B counts the three neutrons as only one mass unit. The coefficient 3 means 3 neutrons, 3 &times; 1 = 3 toward the mass numbers. C forgets the neutron on the left. Fission starts when uranium-235 absorbs a neutron, so the left side totals 236, not 235. D leaves out the three product neutrons entirely: 236 &minus; 131 = 105.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 14.40 (Challenge)",
+  "question": "Complete each fusion reaction. Both are steps in the Sun's fusion of hydrogen. (a) \\( {}^{2}_{1}\\text{H} + {}^{1}_{1}\\text{H} \\rightarrow \\ ? + {}^{0}_{0}\\gamma \\) &nbsp;&nbsp; (b) \\( {}^{3}_{2}\\text{He} + {}^{3}_{2}\\text{He} \\rightarrow {}^{4}_{2}\\text{He} + 2\\ ? \\)",
+  "answer": "(a) Left: A = 2 + 1 = 3, Z = 1 + 1 = 2. The gamma ray adds nothing, so the product has A = 3 and Z = 2, helium-3 . \\( {}^{2}_{1}\\text{H} + {}^{1}_{1}\\text{H} \\rightarrow {}^{3}_{2}\\text{He} + {}^{0}_{0}\\gamma \\) (b) Left: A = 3 + 3 = 6, Z = 2 + 2 = 4. Right so far: A = 4, Z = 2. The two missing particles together have A = 2 and Z = 2, so each has A = 1 and Z = 1: protons , \\( {}^{1}_{1}\\text{H} \\). \\( {}^{3}_{2}\\text{He} + {}^{3}_{2}\\text{He} \\rightarrow {}^{4}_{2}\\text{He} + 2\\,{}^{1}_{1}\\text{H} \\) In both, light nuclei join into a heavier one: fusion.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 14.41",
+  "question": "An operator at a nuclear power plant needs to slow the chain reaction in the reactor core. Which part of the reactor does she adjust, and how? A. She lowers the control rods further into the core, because they absorb neutrons. B. She lowers more fuel rods into the core, because extra uranium absorbs the extra neutrons. C. She raises the control rods out of the core, because they release neutrons. D. She opens the containment building, so neutrons can escape into the air.",
+  "answer": "A. Control rods are made of neutron-absorbing elements such as boron or cadmium. The deeper they sit in the core, the more neutrons they absorb, so fewer neutrons are left to cause new fissions. B mixes up fuel rods and control rods. More uranium-235 would make more fissions and speed the reaction up. C has the rods backward: raising them out of the core lets more neutrons cause fissions, which speeds up the reaction. Control rods absorb neutrons; they do not release them. D would release radioactive material. The containment building exists to keep it inside.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 14.42",
+  "question": "Where does the energy released in nuclear fission come from? A. The uranium burns with oxygen inside the reactor. B. The products have slightly less mass than the reactants, and the missing mass is converted to energy (E = mc 2 ). C. The products have more mass than the reactants, and energy is created along with the new mass. D. All of it comes from the energy of the neutron that starts the fission.",
+  "answer": "B. Adding up the masses very precisely, the fission fragments and neutrons weigh a little less than the uranium-235 and the neutron that started the fission. Because c 2 is so large, that tiny mass becomes an enormous energy, millions of times more per gram than burning coal or natural gas. A describes a chemical reaction. A reactor burns nothing; fission is a change in the nucleus. C has the mass change backward. Mass is lost, not gained, when energy is released. D cannot be right, because the neutron that starts fission is a slow neutron with very little energy, yet each fission releases a huge amount.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 14.43",
+  "question": "In 2024, Diablo Canyon Power Plant in San Luis Obispo County produced 18,379 gigawatt-hours (GWh) of electricity, 8.50% of the electricity generated in California (California Energy Commission). (a) About how much electricity was generated in California that year, in GWh? (b) Diablo Canyon releases no carbon dioxide while it runs. Explain why, using what a nuclear plant uses as its heat source. (c) Name one drawback of nuclear power, and describe how spent fuel is stored in the United States today.",
+  "answer": "(a) \\( \\text{total} = \\dfrac{18{,}379\\ \\text{GWh}}{0.0850} = 2.16 \\times 10^{5}\\ \\text{GWh} \\) (a) About 2.16 &times; 10 5 GWh (216,224 unrounded; three significant figures from 8.50%). (b) The heat that boils the water comes from fission of uranium-235 in the fuel rods, a nuclear reaction, not from burning a carbon fuel. Nothing combines with oxygen, so no CO 2 is made. The steam spins a turbine and generator, just as in a gas-fired plant. (c) Any one of: cost; the risk of a serious accident (Chernobyl, Fukushima Daiichi); and long-lived radioactive waste . Spent fuel rods contain fission products such as strontium-90 and cesium-137 and heavy elements such as plutonium. They are cooled for years in deep pools of water and then stored in steel-and-concrete dry casks, mostly at the power plants themselves, because the United States does not yet have a permanent underground storage site.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 14.44",
+  "question": "Which tissue is most sensitive to radiation damage? A. Bone marrow, which makes blood cells B. Adult nerve cells in the brain C. Mature muscle cells D. The dead outer layer of the skin",
+  "answer": "A. Bone marrow cells divide rapidly. When radiation or the free radicals it makes damage DNA, a rapidly dividing cell copies the damaged DNA before it can be repaired. Falling blood cell counts are one of the first signs of a large dose. B and C are made of cells that rarely divide, so they have time to repair damage before the DNA is copied. They are among the least sensitive tissues. D is already dead and does not divide; it is what stops alpha particles from reaching living cells.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 14.45",
+  "question": "A patient who has received iodine-131 therapy (half-life 8.0 days) gives off gamma rays. Suppose the dose rate is 24 &mu;Sv/h at 1.0 m from the patient (a made-up value for practice). (a) What is the dose rate at 2.0 m? (b) What dose does a nurse receive standing 2.0 m away for 15 min, and how does that compare with standing 1.0 m away for the same time? (c) Ignoring the iodine the body eliminates, what is the dose rate at 1.0 m 8.0 days later?",
+  "answer": "(a) \\( 24\\ \\mu\\text{Sv/h} \\times \\tfrac{1}{4} = 6.0\\ \\mu\\text{Sv/h} \\) &nbsp;&nbsp; (twice the distance gives one-fourth the dose rate) (b) \\( 6.0\\ \\tfrac{\\mu\\text{Sv}}{\\text{h}} \\times 0.25\\ \\text{h} = 1.5\\ \\mu\\text{Sv} \\qquad \\text{at 1.0 m:}\\ 24\\ \\tfrac{\\mu\\text{Sv}}{\\text{h}} \\times 0.25\\ \\text{h} = 6.0\\ \\mu\\text{Sv} \\) (a) 6.0 &mu;Sv/h ; (b) 1.5 &mu;Sv , one-fourth of the 6.0 &mu;Sv she would get at 1.0 m (15 min = 0.25 h). Distance and time both lower the dose. (c) 8.0 days is one half-life, so the dose rate is about 24 &times; 1/2 = 12 &mu;Sv/h , and really less, because the body also eliminates iodine in urine, saliva, and sweat. (Context only; care follows the order and the facility's radiation safety protocol.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 14.46",
+  "question": "A family in a Sierra foothill community tests the air in their home and gets a radon result of 6.5 pCi/L. (a) How many radon nuclei decay each second in a liter of their indoor air? Each hour? (b) Is the result above the EPA action level of 4.0 pCi/L? (c) Radon-222 decays by alpha emission. Write the balanced equation. (d) Explain why breathing radon is harmful even though alpha particles cannot get through skin. (e) The test canister is sealed and reaches the lab 7.6 days later. What fraction of the radon-222 collected is left then (half-life 3.8 days)?",
+  "answer": "(a) \\( 6.5\\ \\tfrac{\\text{pCi}}{\\text{L}} \\times \\dfrac{0.037\\ \\text{decays/s}}{1\\ \\text{pCi}} = 0.24\\ \\tfrac{\\text{decays/s}}{\\text{L}} \\qquad 0.2405 \\times 3600\\ \\tfrac{\\text{s}}{\\text{h}} = 8.7 \\times 10^{2}\\ \\tfrac{\\text{decays/h}}{\\text{L}} \\) (a) About 0.24 decays per second per liter, or 8.7 &times; 10 2 decays per hour per liter (two significant figures, set by 6.5 pCi/L). (b) Yes , 6.5 pCi/L is above 4.0 pCi/L, so the EPA recommends fixing the home, usually with a fan and pipe that vent soil gas from under the foundation. (c) \\( {}^{222}_{86}\\text{Rn} \\rightarrow {}^{218}_{84}\\text{Po} + {}^{4}_{2}\\text{He} \\) (d) Radon is a gas, so it is breathed in, and its solid decay products (such as polonium-218) lodge in the lungs. There, inside the body, the alpha particles deliver all of their very high ionizing power to living lung cells. Radon is the leading cause of lung cancer after smoking. (e) n = 7.6 days &divide; 3.8 days = 2, so 1/4 (25%) is left. The lab corrects for this decay when it reports the result.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 14.47",
+  "question": "Right after the technetium-99m tracer for Mateo Herrera's V/Q lung scan is given, Mateo himself is a small gamma source. Suppose a nuclear medicine technologist measures 27 &mu;Sv/h at 0.50 m from him (a made-up value for practice). (a) What is the dose rate at 1.5 m? (b) What dose does the technologist receive standing 1.5 m away for 12 min? (c) Name the third way, besides time and distance, that the technologist lowers her dose while drawing up and handling doses, and give an example.",
+  "answer": "(a) \\( 27\\ \\mu\\text{Sv/h} \\times \\tfrac{1}{9} = 3.0\\ \\mu\\text{Sv/h} \\) &nbsp;&nbsp; (1.5 m is three times 0.50 m, and tripling the distance gives one-ninth the dose rate) (b) \\( 3.0\\ \\tfrac{\\mu\\text{Sv}}{\\text{h}} \\times 0.20\\ \\text{h} = 0.60\\ \\mu\\text{Sv} \\) (a) 3.0 &mu;Sv/h ; (b) 0.60 &mu;Sv (12 min = 0.20 h). (c) Shielding : drawing up doses behind a lead-glass shield, using a tungsten or lead syringe shield, and carrying vials in a lead \"pig.\" Lead is used because technetium-99m gives off gamma rays. (The case is for practicing chemistry only; it is not medical advice.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 14.48",
+  "question": "A dental hygienist takes intraoral X-ray images (about 0.005 mSv each). Which statement about the X-rays is correct? A. The X-rays come from radioactive nuclei inside the X-ray unit, so the unit is always giving them off. B. The X-rays are made when fast electrons hit a metal target in the tube; when the unit is switched off, no X-rays are produced. C. X-rays are not ionizing, so ALARA does not apply to dental images. D. The patient's teeth become radioactive for a few hours after the images are taken.",
+  "answer": "B. X-rays and gamma rays are both high-energy electromagnetic radiation, but X-rays are made outside the nucleus, in a tube, and stop the moment the tube is switched off. Gamma rays come from decaying nuclei and cannot be switched off. A describes a gamma source. An X-ray tube contains no radioactive material. C is wrong: X-rays are ionizing radiation. The dose from one intraoral image is very small, about the same as a day of natural background, but every image still must be justified under ALARA. D is wrong: X-rays pass through and deposit energy but do not change any nuclei, so nothing in the patient becomes radioactive.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 14.49",
+  "question": "Spices and surgical gloves are sterilized by gamma rays from cobalt-60 after they are sealed in their packages. Which statement is correct? A. The gamma rays make the spices radioactive, so they must be stored until they decay. B. Gamma rays are used because they are the most ionizing radiation, so they cannot get through the packaging. C. Gamma rays pass through the packaging and break the DNA of microorganisms, but they change no nuclei, so the products do not become radioactive. D. Alpha particles would work better, because they penetrate sealed boxes more easily than gamma rays.",
+  "answer": "C. Gamma rays are the most penetrating radiation, so they reach every part of a sealed, boxed product. They deposit energy, breaking DNA directly and through free radicals made from water, but they do not change any nuclei. A is the most common misconception. Nothing in the spices absorbs a particle that changes its nucleus; the product is not radioactive. B has gamma backward. Gamma rays are the least ionizing and most penetrating, which is exactly why they work through packaging. D has alpha backward. Alpha particles are stopped by a sheet of paper, so they could not reach anything inside a box.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 14.50",
+  "question": "Which pairing of radioisotope and medical use makes the most sense? A. Iodine-131 (beta and gamma, 8.0 days) to treat an overactive thyroid; technetium-99m (gamma, 6.0 h) to image the lungs B. Technetium-99m to treat an overactive thyroid; iodine-131 to image the lungs C. Carbon-14 (beta, 5730 years) to image the heart, because its long half-life gives plenty of time for the scan D. Uranium-238 (alpha, 4.5 &times; 10 9 years) to image bones, because alpha particles are easy for a camera to detect",
+  "answer": "A. The thyroid collects iodide to make its hormones, so iodine-131 goes there, and its beta particles, which travel only about 2 mm in tissue, deliver their dose to the thyroid. Imaging needs gamma rays that leave the body and a short half-life, which technetium-99m has. B swaps the roles. Technetium is not collected by the thyroid in a way that treats it, and iodine-131's beta particles would add dose to the lungs without helping the image. C has the half-life reasoning backward: a 5730-year half-life would leave the patient radioactive for life, and carbon-14's beta particles do not leave the body to reach a camera. D fails twice: alpha particles are stopped inside the body, so no camera outside can detect them, and inside the body they are the most damaging radiation.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 14.51",
+  "question": "Radium-223 (half-life 11.4 days) is used to treat cancer that has spread to bone. Like calcium, radium is taken up where bone is being rebuilt. (a) Radium-223 decays by alpha emission. Write the balanced equation. (b) A vial has an activity of 6.60 MBq on its calibration date. What is its activity 34.2 days later? (c) Alpha particles travel less than about 0.1 mm in tissue. Why is that an advantage for this treatment, and why does the vial need only light shielding?",
+  "answer": "(a) Radium is element 88. A &minus; 4 = 219; Z &minus; 2 = 86, radon: \\( {}^{223}_{88}\\text{Ra} \\rightarrow {}^{219}_{86}\\text{Rn} + {}^{4}_{2}\\text{He} \\) Check: 219 + 4 = 223 and 86 + 2 = 88. (b) \\( n = \\dfrac{34.2\\ \\text{days}}{11.4\\ \\text{days}} = 3 \\qquad 6.60\\ \\text{MBq} \\times \\left(\\tfrac{1}{2}\\right)^{3} = 0.825\\ \\text{MBq} \\) (b) 0.825 MBq (6.60 &rarr; 3.30 &rarr; 1.65 &rarr; 0.825). (c) The alpha particles deliver their very high ionizing power only to cells within a fraction of a millimeter of where the radium settled, so the dose stays at the bone surface and spares most nearby tissue. Outside the body, the same low penetrating power means the vial wall and a little plastic stop the alpha particles. (Context only; this is not treatment advice.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 14.52",
+  "question": "A nuclear medicine department stocks the radioisotopes in the table below. Some medical radioisotopes Radioisotope Half-life Main radiation given off Fluorine-18 110 min positron Technetium-99m 6.0 h gamma Iodine-123 13 h gamma (after electron capture) Iodine-131 8.0 days beta and gamma Phosphorus-32 14.3 days beta Cobalt-60 5.27 years beta and gamma (a) Which isotope is best for a same-day bone scan imaged with a gamma camera, and why? (b) Which is used for PET scans? (c) Which gives off no gamma rays, so its location inside a patient could not be imaged with a gamma camera? (d) A technetium-99m dose has an activity of 20.0 mCi at 6:00 a.m. The scan needs at least 5.00 mCi at the time of injection. What is the latest time it can be injected?",
+  "answer": "(a) Technetium-99m . It gives off only gamma rays, which leave the body and reach the camera without adding beta dose, and its 6.0 h half-life leaves time to image the same day and then decays quickly. (b) Fluorine-18 , the only positron emitter in the table. Each positron meets an electron, and the pair becomes two gamma rays that the PET scanner detects. (c) Phosphorus-32 , a pure beta emitter. Its beta particles are stopped within a few millimeters of tissue. (d) 20.0 &rarr; 10.0 &rarr; 5.00 mCi is 2 half-lives: \\( \\text{time} = 2 \\times 6.0\\ \\text{h} = 12\\ \\text{h} \\quad\\Rightarrow\\quad 6{:}00\\ \\text{a.m.} + 12\\ \\text{h} = 6{:}00\\ \\text{p.m.} \\) The latest injection time is 6:00 p.m. ; after that the dose is below 5.00 mCi.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 14.53",
+  "question": "Charcoal from an ancient campfire has a carbon-14 to carbon-12 ratio of 5.00 &times; 10 &minus;15 . Carbon in living wood today has a ratio of 1.28 &times; 10 &minus;12 . (a) What fraction of the original carbon-14 remains? (b) How many half-lives have passed, and how old is the charcoal? (c) Is the result near the limit of the method? (d) Write the equation for the reaction in the upper atmosphere that makes carbon-14.",
+  "answer": "(a) \\( \\dfrac{5.00 \\times 10^{-15}}{1.28 \\times 10^{-12}} = 3.91 \\times 10^{-3} = \\dfrac{1}{256} \\) (b) 256 = 2 8 , so 8 half-lives have passed: \\( \\text{age} = 8 \\times 5730\\ \\text{years} = 45{,}840\\ \\text{years} = 4.58 \\times 10^{4}\\ \\text{years} \\) (a) 1/256 , about 0.391%; (b) 8 half-lives , 4.58 &times; 10 4 years . (c) Yes. The method is useful to about 50,000 years (about 9 half-lives); with less than 0.4% of the carbon-14 left, the measurement is difficult and very sensitive to contamination. (d) \\( {}^{14}_{7}\\text{N} + {}^{1}_{0}\\text{n} \\rightarrow {}^{14}_{6}\\text{C} + {}^{1}_{1}\\text{H} \\)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 14.54",
+  "question": "Fluorine-18 for PET scans is made in a cyclotron by bombarding oxygen-18 with protons. (a) Complete the equation and identify the product. (b) In the patient, each fluorine-18 nucleus gives off a positron. What happens to the positron, and why can the PET scanner detect it? (c) A patient needs 7.50 mCi of fluorine-18 at the time of injection, and the dose takes 220 min to reach the clinic and be given. What activity must be shipped? (d) About how many hours after injection is less than 1% of the injected fluorine-18 left? \\( {}^{18}_{8}\\text{O} + {}^{1}_{1}\\text{H} \\rightarrow \\ ? + {}^{1}_{0}\\text{n} \\)",
+  "answer": "(a) Left: A = 18 + 1 = 19, Z = 8 + 1 = 9. Subtract the neutron: A = 18, Z = 9, fluorine-18 . \\( {}^{18}_{8}\\text{O} + {}^{1}_{1}\\text{H} \\rightarrow {}^{18}_{9}\\text{F} + {}^{1}_{0}\\text{n} \\) (b) The positron travels about a millimeter, meets an electron, and the two annihilate: their mass becomes two gamma rays that fly off in opposite directions. Gamma rays pass out of the body, and the ring of detectors catches both at the same instant. (c) n = 220 min &divide; 110 min = 2. Going back in time, double twice: \\( 7.50\\ \\text{mCi} \\times 2^{2} = 30.0\\ \\text{mCi} \\) (d) Less than 1% remains after 7 half-lives (1/128 = 0.781%; after 6 it is still 1.56%): \\( 7 \\times 110\\ \\text{min} = 770\\ \\text{min} \\times \\dfrac{1\\ \\text{h}}{60\\ \\text{min}} = 13\\ \\text{h} \\) (c) 30.0 mCi ; (d) about 13 h (770 min, two significant figures like 110 min). Most of the radioactivity is gone the same day, which is why PET centers must use fluorine-18 within hours of making it.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 14.55",
+  "question": "Radon-222 in foothill homes forms from uranium-238 in granite and soil through a series of decays: uranium-238 decays to radium-226 by several alpha and beta decays, and then radium-226 alpha decays to radon-222. (a) How many alpha decays and how many beta decays take uranium-238 to radium-226? (b) The first two steps are an alpha decay of uranium-238 and a beta decay of its daughter. Write both equations. (c) A sealed jar of soil gas holds 3.20 ng of radon-222 (half-life 3.8 days). How much remains after 15.2 days, if no new radon forms?",
+  "answer": "(a) Uranium-238 (A = 238, Z = 92) to radium-226 (A = 226, Z = 88). Only alpha decays change the mass number, each by 4: (238 &minus; 226) &divide; 4 = 3 alpha decays . Three alphas lower Z by 3 &times; 2 = 6, to 92 &minus; 6 = 86, but radium is 88. Each beta decay raises Z by 1, so there must be 88 &minus; 86 = 2 beta decays . (b) Uranium (92) loses an alpha particle to give thorium-234 (90); thorium-234 beta decays to protactinium-234 (91): \\( {}^{238}_{92}\\text{U} \\rightarrow {}^{234}_{90}\\text{Th} + {}^{4}_{2}\\text{He} \\) \\( {}^{234}_{90}\\text{Th} \\rightarrow {}^{234}_{91}\\text{Pa} + {}^{0}_{-1}\\text{e} \\) (c) \\( n = \\dfrac{15.2\\ \\text{days}}{3.8\\ \\text{days}} = 4 \\qquad 3.20\\ \\text{ng} \\times \\left(\\tfrac{1}{2}\\right)^{4} = 0.200\\ \\text{ng} \\) (a) 3 alpha, 2 beta ; (c) 0.200 ng . Radon's short half-life means a home's radon comes from radium decaying in the ground beneath it right now, which is why it can keep seeping in for as long as the house stands.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 14.56",
+  "question": "The only stable isotope of iodine is iodine-127 (53 protons, 74 neutrons). Iodine-131, used to treat thyroid disease, has 53 protons and 78 neutrons. Which kind of decay would you predict for iodine-131? A. Alpha decay, because iodine-131 is heavier than iodine-127. B. Beta decay, because iodine-131 has too many neutrons. C. Positron emission, because iodine-131 has too many neutrons. D. Electron capture, because iodine-131 has too few protons to be stable.",
+  "answer": "B. Iodine-131 has 4 more neutrons than the stable isotope, so it lies above the band of stability. Beta decay turns a neutron into a proton, lowering the neutron-to-proton ratio. That is exactly how iodine-131 decays, to xenon-131 (Section 14.2, Example 2). A: alpha decay is typical of very large nuclei, beyond about element 83. Iodine (53) is not in that range; \"heavier\" here means extra neutrons, not too big. C: positron emission turns a proton into a neutron, which would make the neutron excess worse . It is the fix for nuclei with too few neutrons. D: electron capture also turns a proton into a neutron, the wrong direction for a nucleus with extra neutrons.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 14.57",
+  "question": "Which statement correctly compares a chemical reaction with a nuclear reaction? A. In both, the elements on the left are the same as the elements on the right. B. In a chemical reaction electrons are rearranged and the elements do not change; in a nuclear reaction the nucleus changes and a new element can form. C. Both can be sped up by heating or by adding a catalyst. D. Nuclear equations are balanced by making the charges of the ions equal on both sides.",
+  "answer": "B. Chemical reactions involve only electrons, so an oxygen atom stays an oxygen atom. Nuclear reactions change the number of protons or neutrons, and a change in the number of protons makes a new element. A is true only for chemical reactions. In alpha decay, for example, radium becomes radon. C is true only for chemical reactions (Chapter 13). Radioactive decay runs at the same rate whatever the temperature, and no catalyst changes it. D confuses the two kinds of balancing. Nuclear equations balance mass numbers and atomic numbers; ion charges are not used.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 14.58",
+  "question": "Write a balanced equation for each bombardment reaction. (a) In 1969, scientists at Berkeley bombarded californium-249 with carbon-12 nuclei, producing four neutrons and a new element. Identify it. (b) Molybdenum-98 captures a neutron, producing the molybdenum isotope that is the parent of technetium-99m. (c) Bismuth-209 is struck by a particle, producing astatine-211 (used in experimental cancer treatment) and two neutrons. What was the particle?",
+  "answer": "(a) \\( {}^{249}_{98}\\text{Cf} + {}^{12}_{6}\\text{C} \\rightarrow {}^{257}_{104}\\text{Rf} + 4\\,{}^{1}_{0}\\text{n} \\) (a) Left: 249 + 12 = 261 and 98 + 6 = 104. Four neutrons carry 4 mass units and no charge, so the new nucleus has A = 261 &minus; 4 = 257 and Z = 104: rutherfordium-257 . (b) \\( {}^{98}_{42}\\text{Mo} + {}^{1}_{0}\\text{n} \\rightarrow {}^{99}_{42}\\text{Mo} \\) (b) Capturing a neutron adds 1 to A and nothing to Z, so the element stays molybdenum. (c) \\( {}^{209}_{83}\\text{Bi} + {}^{4}_{2}\\text{He} \\rightarrow {}^{211}_{85}\\text{At} + 2\\,{}^{1}_{0}\\text{n} \\) (c) Right: 211 + 2 = 213 and 85 + 0 = 85. Left: 209 + ? = 213, so A = 4; 83 + ? = 85, so Z = 2. The particle is an alpha particle . In each part, the words \"bombarded,\" \"captures,\" or \"struck by\" put the particle on the reactant side, and a coefficient in front of a particle multiplies both of its numbers.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 14.59",
+  "question": "Thallium-201, once widely used in heart scans, decays to mercury-201. Count the protons and neutrons in each nucleus. What happened? A. The nucleus lost 2 protons and 2 neutrons: alpha decay. B. A neutron became a proton: beta decay. C. A proton became a neutron: electron capture or positron emission. D. Nothing changed in the nucleus: gamma emission.",
+  "answer": "C. Thallium-201 has 81 protons and 201 &minus; 81 = 120 neutrons. Mercury-201 has 80 protons and 121 neutrons. One proton became one neutron, and A did not change. (Thallium-201 actually decays by electron capture: \\( {}^{201}_{81}\\text{Tl} + {}^{0}_{-1}\\text{e} \\rightarrow {}^{201}_{80}\\text{Hg} \\).) A would drop A by 4 (to 197) and Z by 2 (to 79, gold). B would raise Z by 1, to 82, lead. D cannot be right, because the element changed from thallium to mercury.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 14.60",
+  "question": "Cesium-137 (half-life 30.2 years) is a fission product found in the soil around damaged nuclear plants. (a) Using the half-life as a conversion factor, how many half-lives pass in 90.6 years? (b) What percent of the cesium-137 is left after 90.6 years? Use a percent map. (c) If a soil sample held 1.20 g of cesium-137, what mass is left after 90.6 years?",
+  "answer": "(a) \\( 90.6\\ \\text{years} \\times \\dfrac{1\\ \\text{half-life}}{30.2\\ \\text{years}} = 3\\ \\text{half-lives} \\) (b) 100% &rarr; 50% &rarr; 25% &rarr; 12.5% (3 arrows). (c) 1.20 g &times; (1/2) 3 = 1.20 g &times; 0.125 = 0.150 g . Even after almost a century, one-eighth remains, which is why long-lived fission products keep land contaminated for generations.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 14.61",
+  "question": "Copper-64 (half-life 12.7 hours) is used as a PET tracer. The decay path that makes it useful for PET is positron emission. (a) Write the balanced equation for that decay. (b) A dose has an activity of 4.00 mCi at 8:00 a.m. Monday. What is its activity 38.1 hours later? (c) Why is a positron emitter, rather than an alpha emitter, chosen for imaging?",
+  "answer": "(a) \\( {}^{64}_{29}\\text{Cu} \\rightarrow {}^{64}_{28}\\text{Ni} + {}^{0}_{+1}\\text{e} \\) (b) 38.1 h &divide; 12.7 h = 3 half-lives. 4.00 &rarr; 2.00 &rarr; 1.00 &rarr; 0.500 mCi . (c) Each positron meets an electron and the pair becomes two gamma rays, which leave the body and reach the PET detectors. Alpha particles would be stopped inside the body within a fraction of a millimeter, adding a damaging dose without producing any image (Section 14.7).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 61,
+  "title": "Problem 14.62",
+  "question": "In the 1920s, dial painters who shaped their brushes with their lips swallowed small amounts of radium-226, an alpha emitter. Why was this so harmful, when alpha particles cannot even pass through a sheet of paper? A. Inside the body, radium gives off gamma rays instead of alpha particles. B. Radium behaves like calcium and settles in bone, where its alpha particles deliver all of their very high ionizing power to the bone and marrow cells next to them, for years. C. Alpha particles are the most penetrating radiation, so they passed through the whole body. D. Swallowed radium makes the stomach acid radioactive, which then spreads through the blood.",
+  "answer": "B. Outside the body, the dead outer layer of skin stops alpha particles. Swallowed, radium (Group 2, like calcium) is built into bone, and every alpha particle dumps its energy into living cells within a tiny distance. Radium-226 has a half-life of about 1600 years, so the exposure continued for the rest of the workers' lives. A is wrong: the type of decay is a property of the nucleus and does not change with location. C reverses the trend. Alpha is the least penetrating and most ionizing radiation. D is wrong: radiation does not make stomach acid radioactive; the harm comes from the radium atoms themselves, wherever they settle.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 62,
+  "title": "Problem 14.63",
+  "question": "Before a barium swallow, a nervous patient asks a radiologic technology student, \"Will that drink make me radioactive?\" Which answer is correct? A. Yes, slightly; barium is a radioactive element, which is why it shows up on the image. B. No; barium sulfate is not radioactive. Its heavy barium atoms absorb X-rays, so the lining of the digestive tract shows up, and because it is insoluble, almost no barium ions dissolve into the body. C. No, because the barium is dissolved as Ba 2+ ions, which the body uses like calcium. D. Yes, but only until the X-ray machine is turned off.",
+  "answer": "B. Contrast agents work by blocking X-rays, not by giving off radiation. The barium in BaSO 4 is ordinary, stable barium. BaSO 4 is chosen because it is insoluble (green sheet), so the toxic Ba 2+ ion stays locked in the solid. (Context only.) A is wrong: natural barium is not radioactive. It shows up because heavy atoms absorb X-rays strongly. C is wrong and dangerous: dissolved Ba 2+ is toxic, which is exactly why a soluble barium compound is never used. D is wrong: X-rays deposit energy but do not change any nuclei, so nothing becomes radioactive, during or after the image.",
+  "mc": true,
+  "terse_answer": false
+ }
+]

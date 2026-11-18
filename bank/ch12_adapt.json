@@ -202,7 +202,7 @@
    "Correct: Add one H<sup>+</sup>: one more H, and the charge rises from 1&minus; to 0 (nitrous acid).",
    "This adds the H but keeps the 1&minus; charge.",
    "This lowers the charge, as if a proton had been removed, but nitrite has no H to remove.",
-   "This adds two H<sup>+</sup>."
+   "This adds two H<sup>+</sup>. A conjugate acid has exactly one more H<sup>+</sup>, so add one H and raise the charge by 1."
   ],
   "h": "Conjugate acid: one more H, charge one higher.",
   "w": "NO<sub>2</sub><sup>&minus;</sup> + H<sup>+</sup> = <b>HNO<sub>2</sub></b>.",
@@ -222,8 +222,8 @@
   "y": [
    "Correct: These differ by two H<sup>+</sup>; a conjugate pair differs by exactly one.",
    "These differ by one H<sup>+</sup> (one H, one unit of charge): a pair.",
-   "These differ by one H<sup>+</sup>: a pair.",
-   "These differ by one H<sup>+</sup>: a pair."
+   "These differ by one H<sup>+</sup>: a pair. Look for the two species that differ by two H<sup>+</sup>.",
+   "These differ by one H<sup>+</sup>: a pair. Look for the two species that differ by two H<sup>+</sup>."
   ],
   "h": "Count the H atoms and the charges in each pair.",
   "w": "H<sub>2</sub>SO<sub>4</sub> and SO<sub>4</sub><sup>2&minus;</sup> differ by two protons: <b>not a pair</b>.",
@@ -411,8 +411,8 @@
   "y": [
    "Correct: HF is a weak acid, so it makes only a few ions: a weak electrolyte.",
    "HCl is a strong acid: all ions, a strong electrolyte.",
-   "NaOH is a strong base: all ions.",
-   "KNO<sub>3</sub> is a soluble salt: all ions."
+   "NaOH is a strong base: all ions, so it conducts strongly. Look for a weak acid, which forms only a few ions.",
+   "KNO<sub>3</sub> is a soluble salt: all ions, so it conducts strongly. Look for a weak acid, which forms only a few ions."
   ],
   "h": "Weak acids and bases are weak electrolytes.",
   "w": "<b>HF</b>, a weak acid, conducts weakly.",
@@ -432,7 +432,7 @@
   "y": [
    "Correct: [OH<sup>&minus;</sup>] = 1.0 &times; 10<sup>&minus;14</sup> / 8.3 &times; 10<sup>&minus;6</sup>; two significant figures.",
    "This multiplies by K<sub>w</sub> instead of dividing.",
-   "This divides the wrong way.",
+   "This divides the wrong way. Use [OH<sup>&minus;</sup>] = K<sub>w</sub> / [H<sub>3</sub>O<sup>+</sup>] = 1.0 &times; 10<sup>&minus;14</sup> &divide; 8.3 &times; 10<sup>&minus;6</sup>.",
    "This is [OH<sup>&minus;</sup>] in pure water; acidic rain has less."
   ],
   "h": "[OH<sup>&minus;</sup>] = K<sub>w</sub> / [H<sub>3</sub>O<sup>+</sup>].",
@@ -452,9 +452,9 @@
   ],
   "y": [
    "Correct: [H<sub>3</sub>O<sup>+</sup>] = 1.0 &times; 10<sup>&minus;14</sup> / 1.9 &times; 10<sup>&minus;4</sup>.",
-   "This multiplies by K<sub>w</sub>.",
+   "This multiplies by K<sub>w</sub>. Use [H<sub>3</sub>O<sup>+</sup>] = K<sub>w</sub> / [OH<sup>&minus;</sup>], dividing 1.0 &times; 10<sup>&minus;14</sup> by 1.9 &times; 10<sup>&minus;4</sup>.",
    "This leaves K<sub>w</sub> out (1 / [OH<sup>&minus;</sup>]).",
-   "This divides [OH<sup>&minus;</sup>] by K<sub>w</sub>."
+   "This divides [OH<sup>&minus;</sup>] by K<sub>w</sub>. Put K<sub>w</sub> on top: [H<sub>3</sub>O<sup>+</sup>] = 1.0 &times; 10<sup>&minus;14</sup> &divide; [OH<sup>&minus;</sup>]."
   ],
   "h": "Divide K<sub>w</sub> by [OH<sup>&minus;</sup>].",
   "w": "1.0 &times; 10<sup>&minus;14</sup> / 1.9 &times; 10<sup>&minus;4</sup> = <b>5.3 &times; 10<sup>&minus;11</sup> M</b>.",
@@ -495,7 +495,7 @@
   "y": [
    "Correct: KOH is a strong base with one OH<sup>&minus;</sup>: [OH<sup>&minus;</sup>] = 0.0082 M; [H<sub>3</sub>O<sup>+</sup>] = 1.0 &times; 10<sup>&minus;14</sup> / 0.0082.",
    "0.0082 M is [OH<sup>&minus;</sup>], not [H<sub>3</sub>O<sup>+</sup>].",
-   "This multiplies by K<sub>w</sub>.",
+   "This multiplies by K<sub>w</sub>. KOH gives [OH<sup>&minus;</sup>] = 0.0082 M, so [H<sub>3</sub>O<sup>+</sup>] = 1.0 &times; 10<sup>&minus;14</sup> &divide; 0.0082.",
    "This doubles [OH<sup>&minus;</sup>]; KOH has only one OH<sup>&minus;</sup>."
   ],
   "h": "Strong base: [OH<sup>&minus;</sup>] = molarity &times; number of OH<sup>&minus;</sup>.",
@@ -516,7 +516,7 @@
   "y": [
    "Correct: [OH<sup>&minus;</sup>] = 2 &times; 0.0026 = 0.0052 M; [H<sub>3</sub>O<sup>+</sup>] = 1.0 &times; 10<sup>&minus;14</sup> / 0.0052.",
    "This forgets to double: Sr(OH)<sub>2</sub> releases two OH<sup>&minus;</sup>.",
-   "0.0052 M is [OH<sup>&minus;</sup>].",
+   "0.0052 M is [OH<sup>&minus;</sup>]. Finish with [H<sub>3</sub>O<sup>+</sup>] = 1.0 &times; 10<sup>&minus;14</sup> &divide; 0.0052.",
    "This multiplies by K<sub>w</sub> (and forgets to double)."
   ],
   "h": "Double first, then use K<sub>w</sub>.",
@@ -600,8 +600,8 @@
   "y": [
    "Correct: HClO<sub>4</sub> is strong; 3 significant figures in 1.35 give 3 decimal places.",
    "This has 2 decimal places; the concentration has 3 significant figures.",
-   "This drops the minus sign.",
-   "This is the pOH."
+   "This drops the minus sign. pH = &minus;log[H<sub>3</sub>O<sup>+</sup>]; the log of a number below 1 is negative, so the minus makes pH positive.",
+   "This is the pOH. HClO<sub>4</sub> is a strong acid, so [H<sub>3</sub>O<sup>+</sup>] = 1.35 &times; 10<sup>&minus;4</sup> M and pH = &minus;log of that directly."
   ],
   "h": "Decimal places in pH = significant figures in [H<sub>3</sub>O<sup>+</sup>].",
   "w": "&minus;log(1.35 &times; 10<sup>&minus;4</sup>) = <b>3.870</b>.",
@@ -620,7 +620,7 @@
   ],
   "y": [
    "Correct: pOH = &minus;log(0.0059) = 2.23; pH = 14.00 &minus; 2.23.",
-   "This is the pOH, not the pH.",
+   "This is the pOH, not the pH. After finding pOH = &minus;log[OH<sup>&minus;</sup>], finish with pH = 14.00 &minus; pOH.",
    "This doubles [OH<sup>&minus;</sup>]; KOH has one OH<sup>&minus;</sup>.",
    "This has one decimal place; the concentration has 2 significant figures."
   ],
@@ -642,7 +642,7 @@
   "y": [
    "Correct: [OH<sup>&minus;</sup>] = 2 &times; 0.0024 = 0.0048 M; pOH = 2.32; pH = 14.00 &minus; 2.32.",
    "This forgets the factor of 2 for Sr(OH)<sub>2</sub>.",
-   "This is the pOH.",
+   "This is the pOH, not the pH. Sr(OH)<sub>2</sub> gives 2 OH<sup>&minus;</sup> per unit, so after finding pOH, finish with pH = 14.00 &minus; pOH.",
    "A negative pH for a dilute base means a dropped minus sign; this solution is basic."
   ],
   "h": "Two OH<sup>&minus;</sup> per Sr(OH)<sub>2</sub>.",
@@ -663,7 +663,7 @@
   "y": [
    "Correct: [H<sub>3</sub>O<sup>+</sup>] = 10<sup>&minus;6.62</sup>; 2 decimal places give 2 significant figures.",
    "This is 10<sup>&minus;(14 &minus; pH)</sup> = [OH<sup>&minus;</sup>].",
-   "This drops the minus sign: 10<sup>6.62</sup>.",
+   "This drops the minus sign: 10<sup>6.62</sup>. Use [H<sub>3</sub>O<sup>+</sup>] = 10<sup>&minus;pH</sup> = 10<sup>&minus;6.62</sup>.",
    "This has 3 significant figures; the pH has only 2 decimal places."
   ],
   "h": "[H<sub>3</sub>O<sup>+</sup>] = 10<sup>&minus;pH</sup>.",
@@ -683,7 +683,7 @@
   ],
   "y": [
    "Correct: pOH = 14.00 &minus; 10.85 = 3.15; [OH<sup>&minus;</sup>] = 10<sup>&minus;3.15</sup>.",
-   "10<sup>&minus;10.85</sup> is [H<sub>3</sub>O<sup>+</sup>].",
+   "10<sup>&minus;10.85</sup> is [H<sub>3</sub>O<sup>+</sup>]. Find pOH = 14.00 &minus; 10.85 first, then [OH<sup>&minus;</sup>] = 10<sup>&minus;pOH</sup>.",
    "3.15 is the pOH, not a concentration.",
    "This has 3 significant figures; 2 decimal places give 2."
   ],
@@ -726,7 +726,7 @@
   "y": [
    "Correct: Normal arterial pH is 7.35&ndash;7.45; below 7.35 is acidosis.",
    "Blood is compared with its own normal range, not with 7.00; 7.33 is too acidic for blood.",
-   "Alkalosis is above 7.45.",
+   "Alkalosis is above 7.45. Compare 7.33 with the normal range 7.35&ndash;7.45; below it is acidosis.",
    "7.33 is below the lower limit, 7.35."
   ],
   "h": "Compare with 7.35&ndash;7.45.",
@@ -789,7 +789,7 @@
   "y": [
    "Correct: HF's conjugate base is F<sup>&minus;</sup> (from a salt such as KF); Cl<sup>&minus;</sup> is a spectator that cannot take up added H<sup>+</sup>.",
    "HF is weak; the problem is the salt, not the acid.",
-   "KCl is a neutral salt, not a base.",
+   "KCl is a neutral salt, not a base. A buffer needs a weak acid plus its own conjugate base, so HF needs F<sup>&minus;</sup>, not Cl<sup>&minus;</sup>.",
    "The salt must supply the weak acid's own conjugate base."
   ],
   "h": "Does KCl supply HF's own conjugate base?",
@@ -810,7 +810,7 @@
   "y": [
    "Correct: The acid partner gives up a proton: H<sub>2</sub>PO<sub>4</sub><sup>&minus;</sup>(aq) + OH<sup>&minus;</sup>(aq) &rarr; HPO<sub>4</sub><sup>2&minus;</sup>(aq) + H<sub>2</sub>O(l).",
    "HPO<sub>4</sub><sup>2&minus;</sup> is the base partner; it handles added acid.",
-   "Na<sup>+</sup> is a spectator ion.",
+   "Na<sup>+</sup> is a spectator ion. Added OH<sup>&minus;</sup> reacts with the buffer's acid, the species that can give up an H<sup>+</sup>.",
    "PO<sub>4</sub><sup>3&minus;</sup> is not one of the buffer partners here."
   ],
   "h": "Added base is neutralized by the acid partner (the one with more H).",
@@ -873,7 +873,7 @@
   "y": [
    "Correct: Saliva carries bicarbonate (and phosphate), which accept H<sup>+</sup> and raise the plaque pH again.",
    "Carbonic acid is the acid partner; it reacts with added base, not acid.",
-   "Na<sup>+</sup> is a spectator ion.",
+   "Na<sup>+</sup> is a spectator ion and does not react with acid. Look for the base in saliva, the species that accepts H<sup>+</sup>.",
    "Water alone cannot absorb acid without a big pH drop."
   ],
   "h": "Added acid is neutralized by a base partner.",

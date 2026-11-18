@@ -1,0 +1,653 @@
+[
+ {
+  "file": "drafts/ch08/8.1_mole_ratios.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Use the coefficients of Fe and O<sub>2</sub> as the mole ratio, with mol O<sub>2</sub> on top so that mol Fe cancels.",
+  "why": "The balanced equation says 3 mol O<sub>2</sub> react for every 4 mol Fe, so multiply the moles of Fe by 3/4."
+ },
+ {
+  "file": "drafts/ch08/8.1_mole_ratios.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Find the coefficients of propane and water. Set up the mole ratio with mol H<sub>2</sub>O on top and mol C<sub>3</sub>H<sub>8</sub> on the bottom.",
+  "why": "One mole of propane makes 4 mol of water (coefficients 1 and 4), so multiply by 4/1; the ratio is exact, so the answer keeps two significant figures like 0.75."
+ },
+ {
+  "file": "drafts/ch08/8.1_mole_ratios.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Three substances make three pairs. Each pair's coefficients give one ratio, and each ratio can be written either way up.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.1_mole_ratios.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Put mol Al on top and mol CuCl<sub>2</sub> on the bottom, using their coefficients from the balanced equation.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.1_mole_ratios.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "You can go from one product to another: the coefficients of NaCl and CO<sub>2</sub> make the mole ratio. Put mol CO<sub>2</sub> on top.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.1_mole_ratios.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "hint": "Sodium is Na; chlorine is diatomic, Cl<sub>2</sub>; Na<sup>+</sup> and Cl<sup>&minus;</sup> swap-drop to NaCl. Balance first, then use the Cl<sub>2</sub> : NaCl ratio.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.2_mass_to_mass.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Follow the road map: grams CH<sub>4</sub> &rarr; mol CH<sub>4</sub> &rarr; mol O<sub>2</sub> (mole ratio) &rarr; grams O<sub>2</sub>. The goal is the mole.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.2_mass_to_mass.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Grams of CO<sub>2</sub> to moles first. Compare the coefficients of CO<sub>2</sub> and H<sub>2</sub>O in the glucose equation, then use the molar mass of water.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.2_mass_to_mass.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Road map: grams Fe<sub>2</sub>O<sub>3</sub> &rarr; mol Fe<sub>2</sub>O<sub>3</sub> &rarr; mol Fe (2 Fe per Fe<sub>2</sub>O<sub>3</sub>) &rarr; grams Fe, using the molar mass of Fe from the yellow sheet.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.2_mass_to_mass.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "The desired unit is moles, so stop there: grams KCl &rarr; mol KCl &rarr; mol AgCl. Count the significant figures in the given mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.2_mass_to_mass.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Start on the particle on-ramp: divide molecules by Avogadro's number to get mol NH<sub>3</sub>. Then use the mole ratio and the molar mass of N<sub>2</sub>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.3_solutions_gases.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Convert mL to L first; then liters &times; molarity gives moles.",
+  "why": "Molarity is moles per liter, so 0.0250 L &times; 0.200 mol/L leaves mol NaOH, with three significant figures."
+ },
+ {
+  "file": "drafts/ch08/8.3_solutions_gases.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Use the 1 : 1 ratio between CaCO<sub>3</sub> and CO<sub>2</sub>, then 22.4 L/mol, the molar volume of a gas at STP.",
+  "why": "One mol CaCO<sub>3</sub> gives one mol CO<sub>2</sub>, and at STP each mole of gas fills 22.4 L, so 0.250 mol &times; 22.4 L/mol gives the volume."
+ },
+ {
+  "file": "drafts/ch08/8.3_solutions_gases.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Mol KOH &rarr; mol H<sub>2</sub>SO<sub>4</sub> with the 1 : 2 ratio; then liters = moles &divide; molarity. Convert L to mL at the end.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.3_solutions_gases.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Which substance has the green light (both a volume and a concentration)? Start there: mL &rarr; L &rarr; mol, then the mole ratio, then &divide; the molarity of AgNO<sub>3</sub>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.4_limiting_reactant.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Find the moles of NH<sub>3</sub> each reactant could make. The reactant that makes less is limiting, and that smaller amount is the product.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.4_limiting_reactant.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Use the limiting reactant's moles to find how much N<sub>2</sub> was used (1 N<sub>2</sub> : 3 H<sub>2</sub>). Excess = initial &minus; used.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.4_limiting_reactant.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Convert each mass to moles, then find the moles of MgO each reactant could make. Do not compare grams; the smaller product amount wins.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.4_limiting_reactant.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Divide each supply by what one sandwich needs. The fewest sandwiches marks the limiting ingredient; leftover = start &minus; used.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.4_limiting_reactant.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Extra step first: mL ethanol &times; density gives grams. Then find the moles of CO<sub>2</sub> each reactant could make. The two results are close, so carry extra digits.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.5_percent_yield.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Percent yield = actual &divide; theoretical &times; 100%. Which number is the actual yield?",
+  "why": "The actual yield (38.2 g) goes on top and the theoretical yield (45.0 g) on the bottom, so the result is a little below 100%, as expected."
+ },
+ {
+  "file": "drafts/ch08/8.5_percent_yield.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Find the theoretical yield of CaO first (grams CaCO<sub>3</sub> &rarr; mol &rarr; mol CaO &rarr; grams CaO). Then compare grams of CaO with grams of CaO.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.5_percent_yield.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "A yield above 100% means the weighed product holds something extra. What could still be in a solid that was dried for only five minutes?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.5_percent_yield.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Rearrange: actual yield = (percent yield &divide; 100%) &times; theoretical yield. Use the unrounded theoretical yield and round once at the end.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.5_percent_yield.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Both numbers in a percent yield must be grams of the same product, AlBr<sub>3</sub>. Is 3.00 g of Al a mass of product?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.6_enthalpy.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "A positive &Delta;H means heat is absorbed. For (b) and (c), ask whether the surroundings (your hand, your skin) get warmer or colder.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.6_enthalpy.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Grams glucose &rarr; mol glucose (molar mass from the yellow sheet), then use 2803 kJ per 1 mol glucose, its coefficient, as the conversion factor.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.6_enthalpy.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "&Delta;H goes with the equation as written, 2 mol H<sub>2</sub>. Use 571.6 kJ / 2 mol H<sub>2</sub> as the conversion factor.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.6_enthalpy.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "A negative &Delta;H means exothermic, so heat is a product: write it on the right side, with no sign. Then pair the heat with the coefficient of H<sub>2</sub>O.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.6_enthalpy.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Start with the given, 4.00 g NaOH: grams &rarr; mol, then 55.8 kJ released per 1 mol NaOH.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 8.1",
+  "hint": "Put the unit you want (mol O<sub>2</sub>) on top so that mol C<sub>2</sub>H<sub>6</sub> cancels. Do coefficients count grams or moles?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 8.2",
+  "hint": "One step: multiply by the mole ratio from the coefficients, with mol O<sub>3</sub> on top and mol O<sub>2</sub> on the bottom.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 8.3",
+  "hint": "Glucose has a coefficient of 1. Compare it with the coefficients of CO<sub>2</sub> and O<sub>2</sub> to build each mole ratio.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 8.4",
+  "hint": "Work backward from the product: how many ethanol molecules does one glucose make? Should you need more or fewer moles of glucose than of ethanol?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 8.5",
+  "hint": "Use two mole ratios, each with 4 mol Al on the bottom: one to O<sub>2</sub> and one to Al<sub>2</sub>O<sub>3</sub>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 8.6",
+  "hint": "Every ratio has 2 mol C<sub>8</sub>H<sub>18</sub> on the bottom; put 25 mol O<sub>2</sub>, 16 mol CO<sub>2</sub>, or 18 mol H<sub>2</sub>O on top.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 8.7",
+  "hint": "What do the coefficients in a balanced equation count? In a reaction, which quantities are always conserved: atoms, mass, or moles?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 8.8",
+  "hint": "Balance first: FeCl<sub>3</sub> has 3 Cl and Cl<sub>2</sub> has 2, so even the odds on Cl (6). Then use the balanced Fe : Cl<sub>2</sub> and Fe : FeCl<sub>3</sub> ratios.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 8.9",
+  "hint": "Road map: grams H<sub>2</sub>O<sub>2</sub> &rarr; mol H<sub>2</sub>O<sub>2</sub> &rarr; mol O<sub>2</sub> (2 : 1) &rarr; grams O<sub>2</sub>. The goal is the mole.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 8.10",
+  "hint": "Set up grams &rarr; mol &rarr; mol &rarr; grams with the 3 : 1 mole ratio. Watch for choices that skip the ratio, flip it, or put a coefficient into a molar mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 8.11",
+  "hint": "Grams NH<sub>3</sub> &rarr; mol NH<sub>3</sub> &rarr; mol urea (2 NH<sub>3</sub> per urea) &rarr; grams urea. Watch how you show three significant figures for a number that ends in zero.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 8.12",
+  "hint": "Grams Ca(OH)<sub>2</sub> &rarr; mol &rarr; mol CO<sub>2</sub> (1 : 1) &rarr; grams CO<sub>2</sub>. Keep three significant figures, like 1.00 &times; 10<sup>3</sup> g.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 8.13",
+  "hint": "Grams glucose &rarr; mol &rarr; mol O<sub>2</sub> (6 : 1) &rarr; grams O<sub>2</sub>. To check, find the masses of CO<sub>2</sub> and H<sub>2</sub>O too: reactant mass should equal product mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 8.14",
+  "hint": "Grams Fe<sub>2</sub>O<sub>3</sub> &rarr; mol, then 2 mol Al per 1 mol Fe<sub>2</sub>O<sub>3</sub>, then the molar mass of Al. Grams of A never go straight to grams of B.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 8.15",
+  "hint": "(a) Look at the last factor: does a molar mass change with the coefficient? (c) The MgO mass must equal the Mg mass plus the O<sub>2</sub> used.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 8.16",
+  "hint": "Find mol KClO<sub>3</sub> once, then use two mole ratios: 3 O<sub>2</sub> : 2 KClO<sub>3</sub> and 2 KCl : 2 KClO<sub>3</sub>. Check that the two masses add up to the starting mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 8.17",
+  "hint": "Grams Al(OH)<sub>3</sub> &rarr; mol &rarr; mol HCl (3 : 1); then liters = moles &divide; molarity. Convert to mL at the end.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 8.18",
+  "hint": "Grams Mg &rarr; mol Mg &rarr; mol H<sub>2</sub> (compare those two coefficients) &rarr; liters with 22.4 L/mol. Would a small strip of ribbon make liters or milliliters of gas?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 8.19",
+  "hint": "HCl has the green light (a volume and a concentration): mL &rarr; L &rarr; mol HCl, then 1 : 1 to NaHCO<sub>3</sub>, then its molar mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 8.20",
+  "hint": "22.4 L/mol applies only to a gas at STP (0 &deg;C and 1 atm). Check each choice for both: is it a gas, and is it at STP?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 8.21",
+  "hint": "Ca(OH)<sub>2</sub> has the green light: mL &rarr; L &rarr; mol, then 2 HCl per Ca(OH)<sub>2</sub>, then &divide; the molarity of HCl.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 8.22",
+  "hint": "(a) Grams glucose &rarr; mol &rarr; mol O<sub>2</sub> (6 : 1) &rarr; liters with 22.4 L/mol. (b) Compare the coefficients of O<sub>2</sub> and CO<sub>2</sub>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 8.23",
+  "hint": "CaCl<sub>2</sub> has the green light: convert 20.0 mL to liters first, find mol CaCl<sub>2</sub>, then use 2 AgCl per CaCl<sub>2</sub> and the molar mass of AgCl.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 8.24",
+  "hint": "At the same temperature and pressure, the mole ratio is also a volume ratio, so (a) and (b) need no 22.4. For (c): liters &rarr; mol with 22.4 L/mol &rarr; grams.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 8.25",
+  "hint": "Run each reactant to the same product: the moles of H<sub>2</sub>O each could make. The smaller amount marks the limiting reactant; mass alone does not decide.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 8.26",
+  "hint": "Find the moles of NO each reactant could make. Equal moles of reactants do not mean neither limits; the coefficients 4 and 5 differ.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 8.27",
+  "hint": "Count recipes: each O<sub>2</sub> uses 2 CO and makes 2 CO<sub>2</sub>. How many O<sub>2</sub> would 8 CO need? Remember to show any leftover molecules.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 8.28",
+  "hint": "Find the moles of H<sub>2</sub> each could make: Mg by its molar mass, HCl by liters &times; molarity. The smaller wins; excess = initial &minus; used.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 8.29",
+  "hint": "For each row, NH<sub>3</sub> from N<sub>2</sub> = mol N<sub>2</sub> &times; 2/1 and from H<sub>2</sub> = mol H<sub>2</sub> &times; 2/3. The smaller wins; then find how much of the other reactant it used.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 8.30",
+  "hint": "Convert both masses to moles (1 : 1 ratios), then to grams of FeS. The reactant that makes less FeS limits; a smaller mass does not mean fewer moles.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 8.31",
+  "hint": "Find the moles of Cu each reactant could make (3 Cu : 2 Al; 3 Cu : 3 CuCl<sub>2</sub>). Then use the limiting reactant to find the Al used; excess = initial &minus; used.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 8.32",
+  "hint": "Grams to moles for each, then the moles of NH<sub>3</sub> each could make. The smaller wins, even if it is the bigger mass. Excess H<sub>2</sub> = initial &minus; used, in grams.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 8.33",
+  "hint": "Find the moles of SO<sub>2</sub> each reactant could make, using the 2 : 2 and 2 : 3 ratios. Comparing 2.0 with 2.4 directly ignores the recipe.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 8.34",
+  "hint": "Percent yield = actual &divide; theoretical &times; 100%. Which number did the student collect?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 8.35",
+  "hint": "Find the theoretical yield of acetaminophen from 4-aminophenol first (grams &rarr; mol &rarr; mol &rarr; grams). Then actual on top, theoretical on the bottom.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 8.36",
+  "hint": "(a) Theoretical yield = g Al &divide; 26.98 g/mol &times; 474.37 g/mol (1 mol Al gives 1 mol alum); then actual &divide; theoretical &times; 100%. (b) Look for a yield that cannot happen.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 8.37",
+  "hint": "Find the theoretical yield of MgO from the Mg first (grams &rarr; mol &rarr; mol &rarr; grams). The mass weighed afterward is the actual yield; it goes on top.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 8.38",
+  "hint": "A yield above 100% needs extra mass in the weighed product. Which choice adds mass instead of losing product?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 8.39",
+  "hint": "Work backward: theoretical yield = actual &divide; percent &times; 100%. Then go from grams of aspirin back to grams of salicylic acid (1 : 1).",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 8.40",
+  "hint": "All the ratios are 1 : 1, so compare the moles of the two reactants; the smaller limits and sets the theoretical yield. Then actual &divide; theoretical &times; 100%.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 8.41",
+  "hint": "Step 2 can only work on the product step 1 made. Try it with 100 g: how much is left after step 1, and then after step 2?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 8.42",
+  "hint": "The pack warms your skin, so which way does heat flow? Heat leaving the system goes with which sign of &Delta;H?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 8.43",
+  "hint": "Grams propane &rarr; mol propane, then 2.220 &times; 10<sup>3</sup> kJ per 1 mol C<sub>3</sub>H<sub>8</sub>. Use scientific notation to show three significant figures.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 8.44",
+  "hint": "&Delta;H goes with the equation as written: 571.6 kJ per 2 mol H<sub>2</sub>. Convert grams to moles first, and check the sign: released or absorbed?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 8.45",
+  "hint": "Grams CaCO<sub>3</sub> &rarr; mol, then 178 kJ per 1 mol CaCO<sub>3</sub>. A positive &Delta;H tells you which way the heat flows.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 8.46",
+  "hint": "(a) Grams glucose &rarr; mol, then 2803 kJ per 1 mol glucose. (b) Divide kilojoules by 4.184 kJ per Cal.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 8.47",
+  "hint": "Two changes: reversing an equation changes the sign of &Delta;H, and doubling it doubles &Delta;H. Apply both.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 8.48",
+  "hint": "Grams NH<sub>4</sub>NO<sub>3</sub> &rarr; mol, then 25.7 kJ per 1 mol. A positive &Delta;H means heat is absorbed.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 8.49",
+  "hint": "Gas volume at STP &rarr; mol with 22.4 L/mol, then 890.3 kJ per 1 mol CH<sub>4</sub>. Count the significant figures in 250. L.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 8.50",
+  "hint": "(a) Swap-drop Ca<sup>2+</sup>, Cl<sup>&minus;</sup>, Na<sup>+</sup>, PO<sub>4</sub><sup>3&minus;</sup>. (b) Balance Ca and PO<sub>4</sub> first. (c) Find the moles of Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> each reactant could make; the smaller sets the theoretical yield.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 8.51",
+  "hint": "(a) Complete combustion makes CO<sub>2</sub> and H<sub>2</sub>O; balance C, then H, then O. (b) Find the moles of CO<sub>2</sub> each reactant could make. (d) Pair &Delta;H with the limiting reactant.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 8.52",
+  "hint": "(a) Two NH<sub>4</sub><sup>+</sup> balance one SO<sub>4</sub><sup>2&minus;</sup>. (b) Find the moles of product each reactant could make; the bigger mass does not decide. (e) Excess = initial &minus; used.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 8.53",
+  "hint": "(a) Fe<sup>3+</sup> and O<sup>2&minus;</sup> swap-drop; balance O first. (b) Grams Fe &rarr; mol, then 1648 kJ per 4 mol Fe. (c) Mol Fe &rarr; mol O<sub>2</sub> &rarr; liters at STP.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 8.54",
+  "hint": "Find mol glucose once. (a) 2 ethanol per glucose, then grams. (b) 2 CO<sub>2</sub> per glucose, then 22.4 L/mol. (c) Actual &divide; theoretical &times; 100%. (d) Yeast are alive.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 8.55",
+  "hint": "(a) Carbonates give a salt, H<sub>2</sub>O, and CO<sub>2</sub>. (b) mg &divide; g/mol gives mmol; then use the HCl mole ratio. (c) For per gram, divide mmol HCl by grams of ingredient.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 8.56",
+  "hint": "Use only the ratio that links H<sub>2</sub>O and O<sub>2</sub>, with the unit you want, mol O<sub>2</sub>, on top.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 8.57",
+  "hint": "Map: grams ethanol &rarr; mol ethanol &rarr; mol O<sub>2</sub> &rarr; molecules O<sub>2</sub>. Avogadro's number is the off-ramp after the mole ratio.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 8.58",
+  "hint": "CaCl<sub>2</sub> has the green light: find its moles first. (a) Use 2 Na<sub>3</sub>PO<sub>4</sub> : 3 CaCl<sub>2</sub>, then &divide; molarity. (b) Use 1 Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> : 3 CaCl<sub>2</sub>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 8.59",
+  "hint": "Amounts of both reactants are given, so it is a limiting-reactant problem. Extra step first: mL acetic acid &times; density = grams. Then compare the moles of CO<sub>2</sub> each could make.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 8.60",
+  "hint": "Find the theoretical yield of ZnCl<sub>2</sub> from the zinc first. Then actual &divide; theoretical &times; 100%; never divide grams of a reactant by grams of product.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 8.61",
+  "hint": "Find the theoretical yield of NH<sub>3</sub> from 50.0 g N<sub>2</sub> first; then actual = (percent &divide; 100%) &times; theoretical.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 61,
+  "title": "Problem 8.62",
+  "hint": "(a) Mg<sup>2+</sup> and O<sup>2&minus;</sup> give MgO; oxygen is O<sub>2</sub>. Exothermic, so heat is a product. (b) Pair 1203 kJ with 2 mol Mg. (c) Start with 300. kJ; pair it with 2 mol MgO.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 62,
+  "title": "Problem 8.63",
+  "hint": "Heat written on the reactant side is absorbed. Which sign goes with absorbed heat? Does &Delta;H belong to the equation as written or to one mole of NO?",
+  "why": ""
+ }
+]

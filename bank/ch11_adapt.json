@@ -264,7 +264,7 @@
   "y": [
    "Correct: Mass of solution = 6.40 + 145.0 = 151.4 g; 6.40/151.4 &times; 100%.",
    "This divides by the mass of water; the denominator is the whole solution.",
-   "This is the percent of water.",
+   "This is the percent of water. Put the mass of KI on top and the mass of the whole solution (KI + water) on the bottom.",
    "This is the mass fraction without &times; 100%."
   ],
   "h": "Solution = solute + solvent.",
@@ -285,7 +285,7 @@
   "y": [
    "Correct: 0.050% (m/v) = 0.050 g per 100 mL: 10.0 mL &times; 0.050 g/100 mL. (Context only; follow the product directions.)",
    "This multiplies by 0.050 without dividing by 100 mL.",
-   "This divides by 100 twice.",
+   "This divides by 100 twice. 0.050% (m/v) means 0.050 g per 100 mL, so multiply 10.0 mL by 0.050 g / 100 mL once.",
    "This divides the volume by the percent; use the percent as g per 100 mL."
   ],
   "h": "%(m/v) means grams per 100 mL of solution.",
@@ -347,8 +347,8 @@
   ],
   "y": [
    "Correct: 4.75 g / 95.21 g/mol = 0.04989 mol; &divide; 0.1500 L.",
-   "This divides by mL; convert to L.",
-   "This uses grams instead of moles.",
+   "This divides by mL; convert to L. Molarity is moles per liter, so use 0.1500 L.",
+   "This uses grams instead of moles. Convert 4.75 g to moles with 95.21 g/mol, then divide by liters.",
    "This divides liters by moles; molarity is mol / L."
   ],
   "h": "Grams to moles, mL to L.",
@@ -368,9 +368,9 @@
   ],
   "y": [
    "Correct: 18.9 g / 84.01 g/mol = 0.2250 mol; &divide; 0.3000 L.",
-   "This divides by mL instead of L.",
+   "This divides by mL instead of L. Molarity is moles per liter, so use 0.3000 L.",
    "This divides grams by liters; convert grams to moles first.",
-   "This divides liters by moles."
+   "This divides liters by moles. Molarity = moles of solute &divide; liters of solution."
   ],
   "h": "M = mol / L of solution.",
   "w": "0.2250 mol / 0.3000 L = <b>0.750 M</b>.",
@@ -410,7 +410,7 @@
   ],
   "y": [
    "Correct: 1 L of dilute water has a mass of about 1 kg = 10<sup>9</sup> &mu;g, so 1 &mu;g/L is 1 part per billion.",
-   "1 mg/L is about 1 ppm.",
+   "1 mg/L is about 1 ppm. A ppb is 1000 times smaller than a ppm, so step down one metric prefix from mg.",
    "1 g/L is about 1 part per thousand, or 0.1%.",
    "1 ng/L is about 1 ppt (part per trillion)."
   ],
@@ -431,7 +431,7 @@
   ],
   "y": [
    "Correct: mol = M &times; L = 0.0875 &times; 0.0425 L.",
-   "This uses mL in place of L.",
+   "This uses mL in place of L. Convert 42.5 mL to 0.0425 L, then multiply by the molarity.",
    "This divides the volume by the molarity.",
    "This divides the molarity by the volume."
   ],
@@ -452,9 +452,9 @@
   ],
   "y": [
    "Correct: 0.1000 L &times; 0.450 M = 0.04500 mol; &times; 142.04 g/mol.",
-   "This uses mL as liters.",
+   "This uses mL as liters. Convert 100.0 mL to 0.1000 L before multiplying by the molarity.",
    "This stops at moles; multiply by the molar mass.",
-   "This divides by the molar mass."
+   "This divides by the molar mass. Moles &times; molar mass gives grams, so multiply by 142.04 g/mol."
   ],
   "h": "L &rarr; mol &rarr; g.",
   "w": "0.04500 mol &times; 142.04 g/mol = <b>6.39 g</b>.",
@@ -495,8 +495,8 @@
   "y": [
    "Correct: 12.5 mM = 0.0125 M; V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub>/M<sub>1</sub>.",
    "This mixes mM and M; convert first.",
-   "This puts M<sub>1</sub> on top.",
-   "This divides by V<sub>2</sub>."
+   "This puts M<sub>1</sub> on top. Solve M<sub>1</sub>V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub> for V<sub>1</sub>: V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub> / M<sub>1</sub>, with 12.5 mM as 0.0125 M.",
+   "This multiplies the two molarities and divides by V<sub>2</sub>. Solve M<sub>1</sub>V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub> for V<sub>1</sub>: V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub> &divide; M<sub>1</sub>, with 12.5 mM written as 0.0125 M."
   ],
   "h": "Make the concentration units match.",
   "w": "(0.0125)(200.0) / 0.425 = <b>5.88 mL</b>.",
@@ -537,8 +537,8 @@
   "y": [
    "Correct: 25.0 mM = 0.0250 M; V = mol &divide; M = 0.00600 L; &times; 1000 mL/L.",
    "This is the volume in liters with an mL label.",
-   "This multiplies moles by molarity.",
-   "This divides molarity by moles."
+   "This multiplies moles by molarity. Volume = moles &divide; molarity, with 25.0 mM written as 0.0250 M; then convert L to mL.",
+   "This divides molarity by moles. Volume = moles &divide; molarity (0.0250 M); then convert L to mL."
   ],
   "h": "Convert mM to M; V (L) = mol / M.",
   "w": "0.00600 L = <b>6.00 mL</b>.",
@@ -557,7 +557,7 @@
   ],
   "y": [
    "Correct: Each step is 1.0 mL diluted to 5.0 mL total, a factor of 5; two steps: 5 &times; 5 = 25.",
-   "This counts only one dilution.",
+   "This counts only one dilution. Each step dilutes by 5 (1.0 mL into 5.0 mL total), so divide 2.0 M by 5 twice.",
    "This adds the factors (5 + 5); dilution factors multiply.",
    "This divides by 4 each time, using the water added as V<sub>2</sub>; V<sub>2</sub> is the total, 5.0 mL."
   ],
@@ -621,8 +621,8 @@
   "y": [
    "Correct: 0.001888 mol acid &times; 2 = 0.003776 mol NaOH; &divide; 0.02585 L.",
    "This uses a 1 : 1 ratio; oxalic acid needs 2 NaOH.",
-   "This flips the mole ratio.",
-   "This uses grams as moles."
+   "This flips the mole ratio. Each mol of acid needs 2 mol NaOH, so multiply the acid moles by 2 mol NaOH / 1 mol acid.",
+   "This uses grams as moles. Convert 0.1700 g to moles with 90.034 g/mol, then use the 2 : 1 ratio."
   ],
   "h": "Solid known: g &rarr; mol acid &rarr; &times; 2 &rarr; &divide; L.",
   "w": "0.003776 mol / 0.02585 L = <b>0.1461 M</b>.",
@@ -643,7 +643,7 @@
    "Correct: mol NaOH = 0.002043 mol; &divide; 2 = 0.001021 mol H<sub>2</sub>SO<sub>4</sub>; &divide; 0.00500 L.",
    "This uses 1 : 1; H<sub>2</sub>SO<sub>4</sub> uses 2 NaOH per molecule.",
    "This multiplies by 2; divide moles of NaOH by 2 to get moles of acid.",
-   "This divides by the NaOH volume."
+   "This divides by the NaOH volume. Divide moles of H<sub>2</sub>SO<sub>4</sub> by the acid's own volume, 0.00500 L."
   ],
   "h": "mol NaOH &rarr; &divide; 2 &rarr; &divide; L acid.",
   "w": "0.001021 mol / 0.00500 L = <b>0.204 M</b>.",
@@ -663,7 +663,7 @@
   "y": [
    "Correct: mol = 0.003501 mol; &times; 204.22 g/mol = 0.7150 g KHP; &divide; 0.8125 g &times; 100%.",
    "This is the mass of KHP, not the percent.",
-   "This divides moles by grams.",
+   "This divides moles by grams. Convert moles of KHP to grams with 204.22 g/mol, then divide by the 0.8125 g sample.",
    "This divides the sample by the KHP mass."
   ],
   "h": "g KHP found &divide; sample mass &times; 100%.",
@@ -683,7 +683,7 @@
   ],
   "y": [
    "Correct: mol AlCl<sub>3</sub> = 0.003150 mol; &times; 3 = 0.009450 mol AgNO<sub>3</sub>; &divide; 0.115 M.",
-   "This skips the 1 : 3 mole ratio.",
+   "This skips the 1 : 3 mole ratio. Multiply moles of AlCl<sub>3</sub> by 3 mol AgNO<sub>3</sub> / 1 mol AlCl<sub>3</sub> before dividing by 0.115 M.",
    "This flips the mole ratio (divides by 3 instead of multiplying).",
    "This divides by the AlCl<sub>3</sub> molarity instead of the AgNO<sub>3</sub> molarity."
   ],
@@ -746,8 +746,8 @@
   ],
   "y": [
    "Correct: 0.1542 mol / 0.3150 kg water.",
-   "This divides by grams of water.",
-   "This uses grams of glycerol.",
+   "This divides by grams of water. Molality uses kilograms of solvent, so use 0.3150 kg.",
+   "This uses grams of glycerol. Convert 14.2 g to moles with 92.094 g/mol, then divide by kg of water.",
    "This divides by the whole solution; molality uses the solvent only."
   ],
   "h": "m = mol solute / kg solvent.",
@@ -768,8 +768,8 @@
   "y": [
    "Correct: AlCl<sub>3</sub> gives 4 ions (i = 4): &Delta;T<sub>f</sub> = (4)(1.86)(0.215) = 1.60 °C.",
    "This adds instead of subtracting; the freezing point goes down.",
-   "This forgets i = 4.",
-   "This uses K<sub>b</sub>."
+   "This forgets i = 4. AlCl<sub>3</sub> gives 1 Al<sup>3+</sup> + 3 Cl<sup>&minus;</sup>, so use &Delta;T<sub>f</sub> = i K<sub>f</sub> m with i = 4.",
+   "This uses K<sub>b</sub>. A freezing-point question needs K<sub>f</sub> = 1.86 &deg;C/m."
   ],
   "h": "&Delta;T<sub>f</sub> = iK<sub>f</sub>m; subtract from 0.00 °C.",
   "w": "T<sub>f</sub> = 0.00 &minus; 1.60 = <b>&minus;1.60 °C</b>.",
@@ -809,7 +809,7 @@
   ],
   "y": [
    "Correct: Na<sub>2</sub>SO<sub>4</sub> gives 3 ions (i = 3): 3 &times; 0.0850 = 0.255 Osm/kg.",
-   "This forgets i.",
+   "This forgets i. Na<sub>2</sub>SO<sub>4</sub> gives 3 ions, so multiply the molality by 3 and convert to mOsm/kg.",
    "This uses i = 2; Na<sub>2</sub>SO<sub>4</sub> gives 2 Na<sup>+</sup> + 1 SO<sub>4</sub><sup>2&minus;</sup>.",
    "This is in Osm/kg; &times; 1000 for mOsm/kg."
   ],
@@ -852,8 +852,8 @@
   "y": [
    "Correct: i = 1; m = &Delta;T<sub>f</sub> / K<sub>f</sub> = 12.0 / 1.86.",
    "This uses i = 2; propylene glycol is molecular (i = 1).",
-   "This uses K<sub>b</sub>.",
-   "This multiplies by K<sub>f</sub>; divide."
+   "This uses K<sub>b</sub>. A freezing-point question needs K<sub>f</sub>: m = &Delta;T<sub>f</sub> / K<sub>f</sub>.",
+   "This multiplies by K<sub>f</sub>; divide. Solve &Delta;T<sub>f</sub> = K<sub>f</sub>m for m: m = 12.0 / 1.86."
   ],
   "h": "Solve &Delta;T<sub>f</sub> = iK<sub>f</sub>m for m.",
   "w": "12.0 / 1.86 = <b>6.45 m</b>.",

@@ -1154,7 +1154,7 @@
    "g &rarr; mol KClO<sub>3</sub> &rarr; &times; 3/2 &rarr; V = nRT/P.",
    "This skips the mole ratio; 2 mol KClO<sub>3</sub> release 3 mol O<sub>2</sub>.",
    "This flips the mole ratio (2/3 instead of 3/2).",
-   "This uses the Celsius temperature."
+   "This uses the Celsius temperature. Gas laws need kelvins: add 273.15 to 22.5 &deg;C before using PV = nRT."
   ],
   "h": "Mole ratio first, then V = nRT/P with kelvins.",
   "w": "4.25 g &divide; 122.55 = 0.03468 mol; &times; 3/2 = 0.05202 mol O<sub>2</sub>. T = 22.5 + 273.15 = 295.7 K. V = <b>1.24 L</b>.",
@@ -1216,7 +1216,7 @@
   "y": [
    "mol CaCO<sub>3</sub> = mol CO<sub>2</sub> (1 : 1); V = nRT/P at body temperature.",
    "This uses 22.4 L/mol, but 37.0 °C is not STP.",
-   "This uses the Celsius temperature.",
+   "This uses the Celsius temperature. Gas laws need kelvins: add 273.15 to 37.0 &deg;C before using PV = nRT.",
    "This uses the 2 from HCl; CaCO<sub>3</sub> and CO<sub>2</sub> are 1 : 1."
   ],
   "h": "g &rarr; mol &rarr; 1 : 1 &rarr; V = nRT/P.",

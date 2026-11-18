@@ -1,0 +1,667 @@
+[
+ {
+  "file": "drafts/ch14/14.1_radioactivity.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "The number in the name is the mass number A. Find Z (the protons) on the periodic table, then neutrons = A &minus; Z.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.1_radioactivity.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Ask what each unit describes: a curie measures how radioactive the source is (activity); a sievert measures the dose a person receives.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.1_radioactivity.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Divide by the becquerels in one curie to get curies, then convert curies to microcuries (1 Ci = 10<sup>6</sup> &mu;Ci). Keep the sig figs of the given activity.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.1_radioactivity.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Compare each isotope with the stable P-31. Which decay turns a neutron into a proton, and which turns a proton into a neutron? Then find the new Z on the periodic table.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.2_decay.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "An alpha particle is <sup>4</sup><sub>2</sub>He. Subtract 4 from the top number and 2 from the bottom number, then look up the new element by its Z.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.2_decay.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "A beta particle is <sup>0</sup><sub>&minus;1</sub>e. The top number stays the same; what must the daughter's bottom number be so the bottom numbers add up?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.2_decay.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "A positron is <sup>0</sup><sub>+1</sub>e. Keep the top number; the daughter's Z plus 1 must equal oxygen's Z. Look up that element.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.2_decay.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Add the top numbers and the bottom numbers on the left, then subtract what is already on the right. Which particle has the leftover A and Z?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.2_decay.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Think about penetrating power: alpha is stopped by paper, beta by a few millimeters of light material, and gamma needs something dense.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.2_decay.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "hint": "The proton is <sup>1</sup><sub>1</sub>H and the alpha particle is <sup>4</sup><sub>2</sub>He. Total the left side, subtract the alpha particle, and look up the element with the leftover Z.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.2_decay.html",
+  "idx": 6,
+  "title": "Exercise \\(\\PageIndex{7}\\)",
+  "hint": "Two neutrons add 2 to the top and nothing to the bottom. Total the left side, subtract the alpha particle (4 on top, 2 on bottom), and identify the element.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.2_decay.html",
+  "idx": 7,
+  "title": "Exercise \\(\\PageIndex{8}\\)",
+  "hint": "Protons = Z and neutrons = A &minus; Z for each nucleus. If A stays the same and a proton turned into a neutron, which decay does that?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.3_half_life.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Find the number of half-lives first: time &divide; half-life. Then halve the activity once for each half-life (an arrow map works well).",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.3_half_life.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Draw an arrow map from the starting mass, halving each time until you reach 4.00 mg. Count the arrows, then multiply by the half-life.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.3_half_life.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Divide the time by the half-life to get the number of half-lives (a whole number), then multiply the mass by (1/2) that many times.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.3_half_life.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Count half-lives (time &divide; half-life), then start an arrow map at 100% and halve once per half-life.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.3_half_life.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Write the half-life as an equality, 1 half-life = 13 h, and use it as a conversion factor on 39 h. Then halve 8.00 mCi once per half-life.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.3_half_life.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "hint": "Make a percent arrow map from the whole sample, halving until you reach 12.5%. Count the arrows and multiply by the half-life.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.4_radiocarbon.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "What fraction of carbon-14 is left after exactly one half-life? Compare that with the charcoal's percent.",
+  "why": "One half-life leaves 50% of the original carbon-14, and the half-life of carbon-14 is 5730 years."
+ },
+ {
+  "file": "drafts/ch14/14.4_radiocarbon.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Build a percent arrow map from the full amount down to 6.25%. Count the arrows, multiply by 5730 years, and report three significant figures.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.4_radiocarbon.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Carbon-14 dating works only on things that were once alive, and only up to about 50,000 years. Check each object against both conditions.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.5_fission_fusion.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\) (Challenge)",
+  "hint": "Challenge item: use the top-and-bottom rule. The left side totals 1 + 235 on top; remember the 3 in front of the neutrons counts 3 on top. Then find the element from Z.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.5_fission_fusion.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "What do control rods absorb? Fewer of those particles means fewer new fissions.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.5_fission_fusion.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Fusion joins two nuclei; what charge do nuclei carry, and what happens when like charges are pushed together? What charge does the neutron that starts fission have?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.6_radiation_health.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Use the inverse-square law: dose rate is proportional to 1/d<sup>2</sup>. By what factor does d<sup>2</sup> change when the distance goes from 1.0 m to 2.0 m, and to 3.0 m?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.6_radiation_health.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Alpha particles cannot get through skin or a container. Radon is a gas: where does it end up once it is breathed in?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.6_radiation_health.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Which cells divide rapidly? Think about what happens when DNA is damaged and copied before repair enzymes can fix it.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.7_medicine.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "For imaging, the radiation must leave the body to reach the camera, and the activity should fade quickly. Compare the radiation types and half-lives of the two isotopes.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.7_medicine.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "What does the thyroid use iodine for? Can the body tell a radioactive iodine atom from a stable one?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.7_medicine.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Ask whether the radiation is made by a machine outside the patient or by decaying nuclei inside the patient. Which of these can be turned off?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.7_medicine.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "(a) A positron is <sup>0</sup><sub>+1</sub>e; Z drops by 1. (b) Count half-lives: time &divide; half-life. (c) How much would be left after a few hours of shipping?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.7_medicine.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Check the green sheet solubility rules for nitrates. What would a dissolved Ba<sup>2+</sup> ion do in the body, compared with insoluble BaSO<sub>4</sub>?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 14.1",
+  "hint": "Radioactivity comes from the atoms themselves. Which choices describe other discoveries: X-rays, the Curies' new elements, or radioactivity made by bombardment?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 14.2",
+  "hint": "The number in each name is A. Find Z on the periodic table; neutrons = A &minus; Z. The \"m\" does not change either count.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 14.3",
+  "hint": "Sort the four units: which measure the activity of a source, which measures energy absorbed per kilogram, and which adjusts for biological effect?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 14.4",
+  "hint": "(a) Go mCi &rarr; Ci &rarr; Bq &rarr; MBq with conversion factors (1 Ci = 3.7 &times; 10<sup>10</sup> Bq). (b) First find how many MBq equal 1 mCi.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 14.5",
+  "hint": "(a) 1 mSv = 100 mrem. (b) Divide by the limit and multiply by 100%. (c) Divide by the dose of one X-ray. (d) Compare with 3 mSv.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 14.6",
+  "hint": "(a) Bq &rarr; Ci &rarr; &mu;Ci with 1 Ci = 3.7 &times; 10<sup>10</sup> Bq. (b) 1 pCi = 0.037 Bq. (c) Divide the body's activity by one banana's. Keep two significant figures.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 14.7",
+  "hint": "An image needs to show where the gamma rays came from, live. Which detector records the position of each gamma ray as it strikes?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 14.8",
+  "hint": "Use the top-and-bottom rule: subtract the alpha particle's 4 from the top and 2 from the bottom. Then check each choice's top and bottom numbers.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 14.9",
+  "hint": "In beta decay the top number stays the same and Z goes up by 1. Find each parent's Z, add 1, and look up the new element.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 14.10",
+  "hint": "A positron has 0 on top and +1 on the bottom. Which choice keeps A the same and makes the bottom numbers add up?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 14.11",
+  "hint": "(a) In electron capture, write <sup>0</sup><sub>&minus;1</sub>e on the left, as a reactant. (b) Compare what happens to A and Z in each, and which side the electron or positron appears on.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 14.12",
+  "hint": "For each, subtract the right side from the left: top numbers give the missing A, bottom numbers give the missing Z. Match A and Z to a particle.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 14.13",
+  "hint": "Work backward: add the top numbers and the bottom numbers on the right side. The parent has those totals; look up the element by its Z.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 14.14",
+  "hint": "Total the top and bottom numbers on the left, then subtract what is already on the right. A gamma ray (0 on top, 0 on bottom) adds nothing.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 14.15",
+  "hint": "Compare the top and bottom numbers on both sides of the equation. What does the m in 99m mean, and what does the gamma ray carry away?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 14.16",
+  "hint": "Ionizing power and penetrating power run in opposite directions. Which radiation is heaviest and most highly charged?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 14.17",
+  "hint": "(a) Find which shield first drops each reading to the background of 30 cpm. (b) Which reading is still above background behind lead? (d) Think about radiation released inside the body.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 14.18",
+  "hint": "Rank alpha, beta, and gamma by penetrating power. What could stop an alpha particle before it reaches someone below the ceiling?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 14.19",
+  "hint": "Count half-lives (time &divide; half-life), then halve 48.0 ng that many times. Each half-life halves what is left, not the original.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 14.20",
+  "hint": "Find the number of half-lives: time &divide; half-life. Then halve 12.0 mCi once per half-life with an arrow map.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 14.21",
+  "hint": "(a) One-fourth is (1/2) multiplied by itself how many times? Multiply that number by the half-life. (b) Take that fraction of the starting activity.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 14.22",
+  "hint": "(a) Halve once for each 6-hour step. (b) Count the hours from 7:00 a.m. to 1:00 p.m. the next day, divide by 6.0 h, and halve that many times.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 14.23",
+  "hint": "(a) How long does the activity take to fall to half? (b) Count half-lives in 90.0 h and halve from 96.0. (c) Keep halving from the last row of the table.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 14.24",
+  "hint": "Make an arrow map from 64.0 &mu;g down to 2.00 &mu;g and count the halvings. Then divide the time by that count.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 14.25",
+  "hint": "Count half-lives: 39 h &divide; 13 h. Going back in time the activity must get bigger, so double once per half-life instead of halving.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 14.26",
+  "hint": "Does the half-life of an isotope depend on how much you have, or on temperature and storage? Apply the definition of half-life to each vial.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 14.27",
+  "hint": "Keep halving: 50%, 25%, 12.5%, and so on. Count how many halvings it takes to go below 1%.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 14.28",
+  "hint": "(a) Multiply the number of half-lives by 13 h, then convert hours to days. (b) Ten half-lives means dividing by 2<sup>10</sup>; then convert mCi to &mu;Ci.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 14.29",
+  "hint": "Carbon-14 dating needs something that was once alive and an age under about 50,000 years. Check each choice against both.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 14.30",
+  "hint": "Compare 5300 years with the half-life of carbon-14, 5730 years. How much carbon-14 is left after exactly one half-life, and has that much time passed yet?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 14.31",
+  "hint": "(a) What keeps adding fresh carbon-14 to a living tree? (b) What changes once it is cut? (c) Carbon-14 is a beta emitter; use the top-and-bottom rule.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 14.32",
+  "hint": "Make an arrow map from the living-plant count rate, halving until you reach the mat's rate. Count the arrows, multiply by 5730 years, and keep three significant figures.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 14.33",
+  "hint": "Write 1/64 as (1/2)<sup>n</sup> to find the number of half-lives. Then check each choice for both the value and the significant figures (5730 has three).",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 14.34",
+  "hint": "(a) Divide the age by 5730 years and round to a whole number. (b) Multiply 100% by (1/2) that many times. (c) How many counts would so little carbon-14 give?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 14.35",
+  "hint": "Make a percent arrow map from the rain value down to 12.5% and count the arrows. Multiply by tritium's half-life.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 14.36",
+  "hint": "(a) In electron capture the electron goes on the left; Z drops by 1. (b) Make a percent arrow map from the full amount to 25.0%, count the arrows, and multiply by the half-life.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 14.37",
+  "hint": "Is the Sun's energy from a chemical or a nuclear change? Which nuclear process joins light nuclei and which splits heavy ones, and what is the Sun mostly made of?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 14.38 (Challenge)",
+  "hint": "Challenge item: the bottom numbers already balance. Total the top numbers on each side; the difference is the number of neutrons.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 14.39 (Challenge)",
+  "hint": "Challenge item: total the left side (include the neutron that starts fission). Subtract the iodine and all three neutrons from the top, and the iodine's Z from the bottom.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 14.40 (Challenge)",
+  "hint": "Challenge item: total the top and bottom numbers on the left, then subtract what is on the right. In (b), the missing amount is shared by two identical particles.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 14.41",
+  "hint": "Fewer free neutrons means fewer new fissions. Which part of the reactor controls how many neutrons are free, and which way should it move?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 14.42",
+  "hint": "Fission is a nuclear change, not burning. Compare the total mass of the products with the reactants: which way does it change when energy is released?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 14.43",
+  "hint": "(a) 8.50% means Diablo Canyon's output is 0.0850 of the total; divide to find the total. (b) What heats the water in a nuclear plant? (c) See the spent-fuel discussion in 14.5.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 14.44",
+  "hint": "Radiation damages DNA most in cells that divide often. Which tissue makes new blood cells all the time?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 14.45",
+  "hint": "(a) Inverse-square law: dose rate is proportional to 1/d<sup>2</sup>; how does d<sup>2</sup> change when the distance doubles? (b) Dose = dose rate &times; time; convert minutes to hours. (c) How many half-lives is 8.0 days?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 14.46",
+  "hint": "(a) 1 pCi = 0.037 decays per second; then multiply by 3600 s/h. (c) Alpha: subtract 4 on top, 2 on bottom. (e) Count half-lives: 7.6 days &divide; 3.8 days.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 14.47",
+  "hint": "(a) How many times farther is 1.5 m than 0.50 m? Use the inverse-square law. (b) Dose = dose rate &times; time in hours. (c) Time, distance, and what else?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 14.48",
+  "hint": "X-rays and gamma rays are both electromagnetic radiation. Where is each made, and which one stops when the power is turned off?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 14.49",
+  "hint": "Gamma rays are the most penetrating and least ionizing. Can they change a nucleus in the product they pass through?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 14.50",
+  "hint": "Treatment needs radiation that stays in the target organ; imaging needs gamma rays that leave the body and a short half-life. Which pairing fits both?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 14.51",
+  "hint": "(a) Alpha: subtract 4 on top and 2 on bottom. (b) Divide 34.2 days by the half-life, then halve 6.60 MBq that many times. (c) How far do alpha particles travel?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 14.52",
+  "hint": "Imaging with a gamma camera needs gamma rays and a short half-life; PET needs a positron emitter. (d) Use an arrow map from 20.0 mCi down to 5.00 mCi.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 14.53",
+  "hint": "(a) Divide the sample ratio by the living ratio, then write it as (1/2)<sup>n</sup>. (b) Multiply n by 5730 years. (c) Compare with about 50,000 years. (d) Cosmic-ray neutrons hit nitrogen-14.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 14.54",
+  "hint": "(a) Use the top-and-bottom rule. (c) Count half-lives in 220 min; going back in time, double once per half-life. (d) Halve from 100% until below 1%, then convert to hours.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 14.55",
+  "hint": "(a) Only alpha decays change A, by 4 each; find how many, then use beta decays to fix Z. (c) Count half-lives in 15.2 days and halve 3.20 ng.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 14.56",
+  "hint": "Compare iodine-131's neutron count with the stable iodine-127. Which decay turns a neutron into a proton?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 14.57",
+  "hint": "For each choice, ask what part of the atom changes in a chemical reaction and in a nuclear reaction. Can heating or a catalyst change a nucleus?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 14.58",
+  "hint": "Bombardment: the particle that strikes goes on the left. Total the top and bottom numbers on each side, and remember a coefficient multiplies both numbers of a particle.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 14.59",
+  "hint": "Protons = Z and neutrons = A &minus; Z for both nuclei. A did not change; did a proton become a neutron or the reverse?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 14.60",
+  "hint": "(a) Write 1 half-life = 30.2 years as a conversion factor. (b) Arrow map from 100%, one arrow per half-life. (c) Multiply 1.20 g by that fraction.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 14.61",
+  "hint": "(a) A positron is <sup>0</sup><sub>+1</sub>e, so Z drops by 1. (b) Count half-lives in 38.1 h and halve 4.00 mCi. (c) Which radiation can leave the body to reach a detector?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 61,
+  "title": "Problem 14.62",
+  "hint": "Alpha particles are stopped by dead skin outside the body. Radium is in Group 2 like calcium; where does it settle once swallowed?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch14/14.9_practice_problems.html",
+  "idx": 62,
+  "title": "Problem 14.63",
+  "hint": "Contrast agents block X-rays; is the barium in BaSO<sub>4</sub> radioactive? Use the green sheet: is BaSO<sub>4</sub> soluble?",
+  "why": ""
+ }
+]

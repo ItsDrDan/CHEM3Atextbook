@@ -1,0 +1,857 @@
+[
+ {
+  "file": "drafts/ch02/2.1_atomic_theory.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Which part of Dalton's theory explains the law of conservation of mass?",
+  "answer": "Atoms are rearranged in a chemical reaction but are not created or destroyed, so the total mass stays the same.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.1_atomic_theory.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Why did most alpha particles pass straight through the gold foil?",
+  "answer": "Atoms are mostly empty space; the nucleus is so small that most alpha particles never come close to one.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.1_atomic_theory.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Carbon dioxide is always 27.3% carbon by mass. A 60.0 g sample of pure carbon dioxide contains how many grams of carbon?",
+  "answer": "27.3% of 60.0 g: 0.273 &times; 60.0 g = 16.4 g of carbon (law of definite proportions; 3 significant figures).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.1_atomic_theory.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "A student says, \"Potassium and silver are both shiny gray metals, so they must be made of the same kind of atom.\" Use Dalton's second point to explain what is wrong, and name one observation that shows the difference.",
+  "answer": "Atoms of different elements differ from each other and give each element its own properties. Looking alike is not enough: potassium (an alkali metal, like sodium) reacts violently with water, while silver does not react with water at all. Different behavior means different atoms.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.1_atomic_theory.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "A gold atom is about 290 pm across (2.9 &times; 10 2 pm), and its nucleus is about 0.014 pm across. About how many times wider is the atom than its nucleus?",
+  "answer": "2.9 &times; 10 2 pm &divide; 0.014 pm = 2.1 &times; 10 4 , so the atom is about 21,000 times wider than its nucleus (2 significant figures). Even for a big atom with a big nucleus, almost all of the atom is empty space.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.2_subatomic_particles.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "How many protons and electrons are in a neutral atom of magnesium?",
+  "answer": "Mg has Z = 12: 12 protons and 12 electrons.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch02/2.2_subatomic_particles.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Which subatomic particle has (a) no charge, (b) almost no mass, (c) a positive charge?",
+  "answer": "(a) neutron; (b) electron; (c) proton.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch02/2.2_subatomic_particles.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "An atom has 17 protons. What element is it, and how many electrons does it have if it is neutral?",
+  "answer": "Z = 17 is chlorine, Cl; a neutral chlorine atom has 17 electrons.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.2_subatomic_particles.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "The phosphorus tile shows 15, P, and 30.97. (a) How many protons and electrons are in a phosphorus atom? (b) A student writes \"30.97 neutrons.\" What went wrong?",
+  "answer": "(a) 15 protons and 15 electrons (Z = 15, neutral atom). (b) 30.97 is the average atomic mass, not a count; particles come in whole numbers. Rounded to 31, it is the mass number of the common isotope, which has 31 &minus; 15 = 16 neutrons.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.3_periodic_table.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Name the element in group 2, period 3, and classify it.",
+  "answer": "Magnesium, Mg: an alkaline earth metal (main group).",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch02/2.3_periodic_table.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Which of these are halogens: Cl, Ca, I, Ar, F?",
+  "answer": "Cl, I, and F (group 17). Ca is an alkaline earth metal; Ar is a noble gas.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.3_periodic_table.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A patient's chart says \"hypokalemia.\" Which element is low?",
+  "answer": "Potassium (kalium, K). Hypo- means low and -emia refers to the blood.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.3_periodic_table.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Fluorine (Z = 9) and chlorine (Z = 17) are not next to each other in atomic number, yet they sit in the same column. Why?",
+  "answer": "The table is stacked by repeating properties. Fluorine and chlorine are both very reactive nonmetals that form 1&minus; ions and exist as diatomic molecules, so a new row starts after neon and chlorine lands under fluorine, in group 17 (the halogens).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.3_periodic_table.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Without looking: write the symbols for magnesium, sulfur, potassium, and silicon, and name the elements Ne, B, Al, and Cl.",
+  "answer": "Mg, S, K, Si; neon, boron, aluminum, chlorine.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch02/2.4_ions.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "How many protons and electrons are in Ca 2+ and in Br &minus; ?",
+  "answer": "Ca 2+ : 20 protons, 18 electrons. Br &minus; : 35 protons, 36 electrons.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.4_ions.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "An ion has 12 protons and 10 electrons. Identify it and give its charge.",
+  "answer": "Z = 12 is magnesium; charge = 12 &minus; 10 = 2+, so it is Mg 2+ .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.4_ions.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Name the ions F &minus; , K + , and S 2&minus; .",
+  "answer": "Fluoride, potassium ion, sulfide.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch02/2.4_ions.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Predict the ion formed by each metal and give its electron count: (a) zinc, (b) silver, (c) aluminum.",
+  "answer": "Walk down the steps. (a) Zn 2+ : 30 &minus; 2 = 28 electrons. (b) Ag + : 47 &minus; 1 = 46 electrons. (c) Al 3+ : 13 &minus; 3 = 10 electrons.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.4_ions.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "A classmate says, \"Cu 2+ has a plus sign, so copper gained two electrons.\" Correct the statement and give the electron count.",
+  "answer": "The plus sign means copper lost two electrons, so protons now outnumber electrons. Cu has Z = 29, so Cu 2+ has 29 &minus; 2 = 27 electrons.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.5_isotopes.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "How many protons, neutrons, and electrons are in iodine-131?",
+  "answer": "I has Z = 53: 53 protons, 131 &minus; 53 = 78 neutrons, 53 electrons (neutral).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.5_isotopes.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Write the isotope symbol for the atom with 26 protons and 30 neutrons.",
+  "answer": "Z = 26 is iron; A = 26 + 30 = 56: \\( ^{56}_{26}\\text{Fe} \\) (iron-56).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.5_isotopes.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "How many electrons are in \\( ^{24}_{12}\\text{Mg}^{2+} \\)?",
+  "answer": "12 protons; charge 2+, so 12 &minus; 2 = 10 electrons. (It has 12 neutrons.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.5_isotopes.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Oxygen-14 is an unusual, light isotope of oxygen. Write the symbol of the oxide ion made from it, and give its protons, neutrons, and electrons.",
+  "answer": "Oxygen (group 16) forms a 2&minus; ion: \\( ^{14}_{8}\\text{O}^{2-} \\). 8 protons, 14 &minus; 8 = 6 neutrons, 8 + 2 = 10 electrons. An unusual mass number changes only the neutrons; the charge changes only the electrons.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.5_isotopes.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "An ion has 26 protons, 30 neutrons, and 23 electrons. Write its isotope symbol with the charge.",
+  "answer": "26 protons is iron; A = 26 + 30 = 56; charge = 26 &minus; 23 = 3+: \\( ^{56}_{26}\\text{Fe}^{3+} \\).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.6_atomic_mass.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Bromine is 50.69% bromine-79 (78.918 amu) and 49.31% bromine-81 (80.916 amu). Calculate its average atomic mass.",
+  "answer": "(0.5069)(78.918) + (0.4931)(80.916) = 40.004 + 39.900 = 79.90 amu. It sits almost exactly halfway between, because the two isotopes are nearly equally abundant.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.6_atomic_mass.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Lithium has two isotopes, lithium-6 and lithium-7, and an average atomic mass of 6.94 amu. Which is more abundant?",
+  "answer": "Lithium-7: 6.94 is much closer to 7 than to 6.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch02/2.6_atomic_mass.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Gallium is 60.11% gallium-69 (68.926 amu) and 39.89% gallium-71 (70.925 amu). Calculate its average atomic mass.",
+  "answer": "(0.6011)(68.926) + (0.3989)(70.925) = 41.431 + 28.292 = 69.72 amu.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.6_atomic_mass.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Rubidium has two natural isotopes. Rubidium-85 (84.912 amu) makes up 72.17% of rubidium atoms; the rest is rubidium-87 (86.909 amu). (a) What percent is rubidium-87? (b) Calculate the average atomic mass.",
+  "answer": "(a) 100.00% &minus; 72.17% = 27.83%. (b) (0.7217)(84.912) + (0.2783)(86.909) = 61.28 + 24.19 = 85.47 amu, closer to 85 because rubidium-85 is the majority.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 2.1",
+  "question": "Which idea from Dalton's atomic theory was later shown to be incorrect ? A. Atoms combine in simple, whole-number ratios to form compounds. B. All atoms of a given element have the same mass. C. In a chemical reaction, atoms are rearranged, not created or destroyed. D. Each element is made of tiny particles called atoms.",
+  "answer": "B. Atoms of the same element always have the same number of protons, but they can have different numbers of neutrons, so they can have different masses. These versions of an element are isotopes (Section 2.5). A still holds: water is always 2 H atoms to 1 O atom. This idea explains the law of definite proportions. C still holds for chemical reactions, and it explains the law of conservation of mass. (Nuclear changes, in Chapter 14, are a different kind of change.) D is the heart of the theory and has held up for two centuries.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 2.2",
+  "question": "Two students each burn a strip of magnesium ribbon completely in air and collect the white powder, magnesium oxide. Their data are in the table below. @media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } } Masses of magnesium and oxygen in two samples of magnesium oxide Sample Mass of magnesium (g) Mass of oxygen (g) 1 2.43 1.60 2 6.08 4.00 (a) Calculate the percent magnesium by mass in each sample. (b) Do the data agree with the law of definite proportions? (c) How many grams of oxygen combine with 12.15 g of magnesium to make the same compound?",
+  "answer": "(a) Percent magnesium = mass of Mg &divide; total mass &times; 100%. Sample 1: \\( \\dfrac{2.43\\ \\text{g}}{2.43\\ \\text{g} + 1.60\\ \\text{g}} \\times 100\\% = \\dfrac{2.43}{4.03} \\times 100\\% = 60.3\\% \\) Sample 2: \\( \\dfrac{6.08\\ \\text{g}}{6.08\\ \\text{g} + 4.00\\ \\text{g}} \\times 100\\% = \\dfrac{6.08}{10.08} \\times 100\\% = 60.3\\% \\) (b) Yes. Both samples are 60.3% magnesium by mass, even though Sample 2 is about two and a half times bigger. A compound always has the same composition. (c) Use the oxygen-to-magnesium ratio from Sample 1 as a conversion factor: \\( 12.15\\ \\text{g Mg} \\times \\dfrac{1.60\\ \\text{g O}}{2.43\\ \\text{g Mg}} = 8.00\\ \\text{g O} \\) The answer is 8.00 g of oxygen (three significant figures, set by 1.60 and 2.43). Sample 2's ratio, 4.00 &divide; 6.08, gives 7.99 g, the same within rounding.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 2.3",
+  "question": "Carbon and oxygen form two different colorless gases. In a 7.00 g sample of Gas A, 3.00 g is carbon and 4.00 g is oxygen. In an 11.00 g sample of Gas B, 3.00 g is carbon and 8.00 g is oxygen. (a) Could A and B be the same compound? Explain. (b) How does Dalton's idea of whole-number ratios explain the relationship between them?",
+  "answer": "(a) No. Compare the grams of oxygen per gram of carbon. Gas A: 4.00 g &divide; 3.00 g = 1.33 g O per g C. Gas B: 8.00 g &divide; 3.00 g = 2.67 g O per g C. A single compound always has the same ratio by mass, so two different ratios mean two different compounds. (b) For the same mass of carbon, Gas B has exactly twice the oxygen (8.00 g &divide; 4.00 g = 2.00). That fits atoms combining in whole-number ratios: if Gas A has one oxygen atom per carbon atom, Gas B has two. (These are carbon monoxide, CO, and carbon dioxide, CO 2 .)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 2.4",
+  "question": "In Thomson's cathode-ray tube, the glowing beam bent toward a positively charged plate. What did this show? A. The beam was made of negatively charged particles. B. The beam was made of positively charged particles. C. Atoms have a small, dense nucleus. D. The beam was made of neutral particles.",
+  "answer": "A. Opposite charges attract (Section 1.7), so a beam pulled toward a positive plate must carry negative charge. Those particles are electrons. B is backward: positive particles would be pushed away from a positive plate. C is the conclusion of Rutherford's gold foil experiment, not Thomson's cathode-ray experiment. D cannot be right: neutral particles are not pulled by either plate, so the beam would go straight.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 2.5",
+  "question": "A physics class runs a computer simulation of the gold foil experiment. The program fires exactly 80,000 alpha particles at a thin gold foil and sorts them by how far each one is turned from its original path. The results are in the table below. Simulated alpha particles sorted by deflection angle Deflection angle Number of alpha particles 0&deg; to 2&deg; (almost straight through) 79,200 2&deg; to 10&deg; 790 10&deg; to 90&deg; 8 More than 90&deg; (bounced back) 2 (a) What percent of the alpha particles went almost straight through? (b) What fraction were turned by more than 10&deg;? Write it as \"1 in ____.\" (c) Which rows would the plum pudding model predict to be zero? (d) What do the first and last rows each tell you about the atom?",
+  "answer": "(a) \\( \\dfrac{79{,}200}{80{,}000} \\times 100\\% = 99.0\\% \\) (b) 8 + 2 = 10 particles were turned by more than 10&deg;. \\( \\dfrac{10}{80{,}000} = \\dfrac{1}{8000} \\), so 1 in 8000 . (c) The last two rows (10&deg; to 90&deg;, and more than 90&deg;). With positive charge and mass spread thinly through each atom, nothing would be concentrated enough to turn an alpha particle sharply. (d) The first row shows that an atom is mostly empty space : 99.0% of the particles met nothing that could turn them. The last row shows that a few particles hit something small, dense, and positive , the nucleus, which is heavy enough and charged enough to push an alpha particle straight back.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 2.6",
+  "question": "Match each scientist with the evidence and the conclusion. Scientists: Dalton, Thomson, Rutherford, Chadwick. Evidence: (P) A few alpha particles bounced back from a gold foil. (Q) A neutral particle about as heavy as a proton was detected in 1932. (R) Elements combine in fixed mass ratios. (S) A beam in a high-voltage tube bent toward a positive plate. Conclusions: (1) Atoms contain negatively charged electrons. (2) Atoms combine in whole-number ratios. (3) The nucleus also contains neutrons. (4) Atoms have a tiny, dense, positive nucleus.",
+  "answer": "Dalton: R and 2. Fixed mass ratios in compounds led to atoms combining in whole-number ratios. Thomson: S and 1. The cathode-ray beam was negative, so atoms contain electrons (plum pudding model). Rutherford: P and 4. Bounced-back alpha particles revealed the nucleus. Chadwick: Q and 3. The neutron explained why nuclei weigh more than their protons alone. Each model was replaced because new evidence did not fit the old one. That is the scientific method at work, not a sign that the earlier scientists did bad science.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 2.7",
+  "question": "Which statement describes the nuclear model of the atom? A. Electrons sit inside the nucleus with the protons. B. The nucleus holds almost all of the atom's mass but takes up only a tiny fraction of its volume. C. Positive charge is spread evenly through the whole atom. D. The nucleus fills most of the atom, and electrons are packed tightly against it.",
+  "answer": "B. Protons and neutrons, the heavy particles, are in the nucleus, and the nucleus is roughly 1/100,000 of the atom's diameter. The rest of the atom is mostly empty space where the electrons move. A is wrong: electrons are outside the nucleus, in the electron cloud. C describes Thomson's plum pudding model, which the gold foil experiment ruled out. D is wrong on size: if the nucleus filled most of the atom, most alpha particles would have been deflected, not 1 in 8000.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 2.8",
+  "question": "Name the subatomic particle (proton, neutron, or electron) that fits each description. Some descriptions fit more than one particle. (a) has a mass of about 1 amu (b) is found outside the nucleus (c) has a charge of 1&minus; (d) is found in the nucleus and has no charge (e) its number is the atomic number",
+  "answer": "(a) Proton and neutron (1.0073 and 1.0087 amu). The electron is only about 0.00055 amu. (b) Electron. (c) Electron. (d) Neutron. (e) Proton. The atomic number Z is the number of protons.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 2.9",
+  "question": "Complete the table below for neutral atoms. Use the periodic table. Neutral atoms to complete (blanks marked ?) Element name Symbol Atomic number (Z) Protons Electrons ? ? 15 ? ? ? Zn ? ? ? oxygen ? ? ? ? ? ? ? ? 28 ? ? ? 47 ? ? Sn ? ? ?",
+  "answer": "In a neutral atom, protons = electrons = Z, so one number fills in the rest of the row. Z = 15: phosphorus, P ; 15 protons, 15 electrons. Zn: zinc ; Z = 30, 30 protons, 30 electrons. Oxygen: O ; Z = 8, 8 protons, 8 electrons. 28 electrons: a neutral atom has 28 protons, so Z = 28, nickel, Ni . 47 protons: Z = 47, silver, Ag (from the Latin argentum ); 47 electrons. Sn: tin (Latin stannum ); Z = 50, 50 protons, 50 electrons.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 2.10",
+  "question": "What determines which element an atom is? A. its mass number B. its number of neutrons C. its number of protons D. its number of electrons",
+  "answer": "C. The number of protons is the atomic number, and it defines the element. Every atom with 26 protons is iron, whatever else is true about it. A is wrong: atoms of different elements can share a mass number (argon-40 and calcium-40 both have A = 40). B is wrong: atoms of the same element can have different numbers of neutrons; those are isotopes. D is wrong: atoms gain and lose electrons to form ions, but a sodium ion is still sodium.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 2.11",
+  "question": "A neutral carbon atom has 6 protons, 6 neutrons, and 6 electrons. Using the particle masses in Section 2.2 (proton 1.0073 amu, neutron 1.0087 amu, electron 0.00055 amu), calculate (a) the total mass of the 6 electrons, (b) the total mass of all 18 particles, and (c) the percent of the total that comes from electrons.",
+  "answer": "(a) 6 &times; 0.00055 amu = 0.0033 amu (the 6 is a count, so it is exact; 0.00055 has two significant figures). (b) Protons: 6 &times; 1.0073 = 6.0438 amu. Neutrons: 6 &times; 1.0087 = 6.0522 amu. Total: 6.0438 + 6.0522 + 0.0033 = 12.0993 amu . (c) \\( \\dfrac{0.0033\\ \\text{amu}}{12.0993\\ \\text{amu}} \\times 100\\% = 0.027\\% \\) Only about 0.027% of the atom's mass comes from electrons (two significant figures, set by 0.0033). That is why almost all of an atom's mass is in its nucleus, and why electrons are left out of the mass number.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 2.12",
+  "question": "(a) Using the masses in amu (proton 1.0073 amu, electron 0.00055 amu), how many times heavier is a proton than an electron? (b) Repeat the calculation with the masses in grams (proton 1.6726 &times; 10 &minus;24 g, electron 9.109 &times; 10 &minus;28 g). (c) Why do the two answers have different numbers of significant figures?",
+  "answer": "(a) \\( \\dfrac{1.0073\\ \\text{amu}}{0.00055\\ \\text{amu}} = 1831 \\rightarrow 1800 \\) (two significant figures). Written as 1800 without a decimal point, the zeros are not significant, so it correctly shows two significant figures; 1.8 &times; 10 3 says the same thing. (b) \\( \\dfrac{1.6726 \\times 10^{-24}\\ \\text{g}}{9.109 \\times 10^{-28}\\ \\text{g}} = 1836.2 \\rightarrow 1836 \\) (four significant figures). (c) In a division, the answer keeps the smaller number of significant figures. In (a), 0.00055 has only two (the leading zeros do not count). In (b), 9.109 has four. Both answers say the same thing: a proton is about 1800 times heavier than an electron.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 2.13",
+  "question": "Four elements, oxygen, carbon, hydrogen, and nitrogen, make up about 96% of the mass of the human body. Calcium and phosphorus, the main elements of bone mineral, come next. For each of these six elements, give the symbol, the atomic number, and the number of electrons in a neutral atom. Which of the six has the most protons?",
+  "answer": "Read each atomic number from the periodic table; in a neutral atom, electrons = protons = Z. Oxygen, O : Z = 8, 8 electrons. Carbon, C : Z = 6, 6 electrons. Hydrogen, H : Z = 1, 1 electron. Nitrogen, N : Z = 7, 7 electrons. Calcium, Ca : Z = 20, 20 electrons. Phosphorus, P : Z = 15, 15 electrons. Calcium has the most protons (20). Notice that the four most abundant elements in the body by mass all have small atomic numbers.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 2.14",
+  "question": "How is the atomic mass unit (amu) defined? A. as the mass of one hydrogen atom B. as exactly one-twelfth of the mass of a carbon-12 atom C. as the mass of one proton D. as one gram divided by the number of atoms in a sample",
+  "answer": "B. 1 amu is one-twelfth of the mass of a carbon-12 atom, which works out to 1.6605 &times; 10 &minus;24 g. A is close but not the definition: a hydrogen-1 atom is about 1.008 amu. C is also close but not exact: a proton is 1.0073 amu. D is not a definition at all; it depends on the size of the sample.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 2.15",
+  "question": "Which element and symbol are paired incorrectly ? A. mercury, Hg B. sodium, So C. gold, Au D. iron, Fe",
+  "answer": "B. Sodium's symbol is Na , from its Latin name natrium . (There is no element with the symbol So.) A is correct: Hg comes from the Latin hydrargyrum , \"liquid silver.\" C is correct: Au comes from aurum . D is correct: Fe comes from ferrum ; that is why an iron supplement is called ferrous sulfate.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 2.16",
+  "question": "(a) Write the symbol for each element: copper, magnesium, manganese, lead. (b) Name the element or compound for each: Co, CO, Sb, Ag. (c) A student writes the symbol for calcium as \"CA.\" What is wrong?",
+  "answer": "(a) Copper Cu (Latin cuprum ); magnesium Mg ; manganese Mn ; lead Pb (Latin plumbum ). Magnesium and manganese are easy to mix up: Mg is the alkaline earth metal in group 2, and Mn is a transition metal in group 7. (b) Co is cobalt , an element. CO is carbon monoxide , a compound of carbon and oxygen. Sb is antimony (Latin stibium ). Ag is silver (Latin argentum ). (c) The second letter of a symbol is always lowercase: calcium is Ca . Two capitals mean two elements, so \"CA\" would read as carbon plus an element \"A,\" which does not exist.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 2.17",
+  "question": "Complete the table below. For \"Type,\" write metal, nonmetal, or metalloid. For \"Block,\" write main group or transition. Elements to locate and classify (blanks marked ?) Element Group Period Type Block K ? ? ? ? Ni ? ? ? ? Ge ? ? ? ? P ? ? ? ? Kr ? ? ? ? I ? ? ? ?",
+  "answer": "K (potassium): group 1, period 4, metal , main group (an alkali metal). Ni (nickel): group 10, period 4, metal , transition. Ge (germanium): group 14, period 4, metalloid (on the staircase), main group. P (phosphorus): group 15, period 3, nonmetal , main group. Kr (krypton): group 18, period 4, nonmetal , main group (a noble gas). I (iodine): group 17, period 5, nonmetal , main group (a halogen). Only nickel sits in groups 3&ndash;12, so it is the only transition element in the list.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 2.18",
+  "question": "Which element is a halogen in period 4? A. Br B. Kr C. Se D. K",
+  "answer": "A. Bromine is in group 17 (the halogens) and period 4. It is also the only nonmetal that is a liquid at room temperature. B, krypton, is in period 4 but in group 18: it is a noble gas. C, selenium, is in period 4 but in group 16, the chalcogens (oxygen family). D, potassium, is in period 4 but in group 1: it is an alkali metal. All four choices are in period 4; only the group decides the family.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 2.19",
+  "question": "Bags of fertilizer sold at Central Valley farm-supply stores print three numbers on the front, the \"N-P-K\" ratio, for the three nutrients crops need most: nitrogen, phosphorus, and potassium. (a) Give the group and period of each of the three elements, and classify each as a metal or nonmetal. (b) Which two are in the same group, and what does that suggest about them? (c) Why is potassium's symbol K? (d) Plants take up potassium from soil water as the ion K + . How many protons and electrons does K + have?",
+  "answer": "(a) Nitrogen, N: group 15, period 2, nonmetal . Phosphorus, P: group 15, period 3, nonmetal . Potassium, K: group 1, period 4, metal (an alkali metal). (b) N and P , both in group 15 (the pnictogens, or nitrogen family). Elements in the same group have similar chemical properties. (c) K comes from potassium's Latin name, kalium . (P is already phosphorus.) (d) Z = 19, so 19 protons . The 1+ charge means one electron was lost: 19 &minus; 1 = 18 electrons .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 2.20",
+  "question": "Medical terms often contain the name or Latin root of an element. In the prefix, hypo- means low, hyper- means high, and -emia refers to the blood. For each term, name the element and give its symbol: (a) hypernatremia, (b) hypocalcemia, (c) hyperchloremia, (d) ferrous sulfate (an iron supplement). Which two of the symbols come from Latin names?",
+  "answer": "(a) High blood sodium, Na ( natrium ). (b) Low blood calcium, Ca . (c) High blood chloride , from the element chlorine, Cl . (d) Iron, Fe ( ferrum ; \"ferrous\" means iron). Na and Fe come from Latin names. These terms describe lab results; they do not say what to do about them, which is always set by the care team.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 2.21",
+  "question": "Respiratory therapists sometimes give heliox , a blend of helium and oxygen gases, because it is less dense than air and flows more easily through narrowed airways. (a) Give the group, period, and group name of helium. (b) Helium exists as single atoms, but oxygen exists as O 2 molecules. Explain this using the named groups. (c) Classify heliox as an element, a compound, a homogeneous mixture, or a heterogeneous mixture (Section 1.5).",
+  "answer": "(a) Helium, He: group 18, period 1 , a noble gas . (b) Noble gases are very unreactive and exist as single atoms. Oxygen is in group 16 (the chalcogens) and is one of the diatomic seven from Section 1.5, so it exists as O 2 molecules. (c) Homogeneous mixture. The two gases are mixed evenly, and the proportions can be changed (different blends of helium and oxygen are made). Helium is unreactive, so it does not combine with the oxygen to make a compound.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 2.22",
+  "question": "Which set contains only metalloids? A. B, Si, As B. C, Si, Ge C. Al, Si, P D. Si, Ge, Sn",
+  "answer": "A. Boron, silicon, and arsenic all sit along the staircase line. B includes carbon, a nonmetal. C includes aluminum, a metal, and phosphorus, a nonmetal. D includes tin, a metal. Silicon and germanium are metalloids, but group 14 changes from nonmetal (C) to metalloids (Si, Ge) to metals (Sn, Pb) as you go down.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 2.23",
+  "question": "Identify each element from the clues. (a) the noble gas in period 2 (b) the halogen that is a liquid at room temperature (c) the element in group 8, period 4, found at the center of each heme group in hemoglobin (d) the only metal that is a liquid at room temperature (e) the metalloid in group 16, period 5",
+  "answer": "(a) Neon, Ne. (b) Bromine, Br. (c) Iron, Fe , a transition metal. (d) Mercury, Hg. (e) Tellurium, Te. It sits on the staircase between selenium (a nonmetal) and polonium.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 2.24",
+  "question": "Some private wells in the Central Valley draw groundwater with naturally high arsenic, which comes from minerals in the sediments. The U.S. Environmental Protection Agency limit for arsenic in drinking water is 10 micrograms per liter (&micro;g/L). A test of one well reports 14 &micro;g/L. (a) Give arsenic's symbol, group, and period, and classify it as a metal, nonmetal, or metalloid. (b) Express the well result in milligrams per liter. (c) Is the well above or below the limit?",
+  "answer": "(a) Arsenic, As : group 15, period 4, a metalloid (on the staircase). (b) \\( \\dfrac{14\\ \\mu\\text{g}}{1\\ \\text{L}} \\times \\dfrac{1\\ \\text{mg}}{1000\\ \\mu\\text{g}} = 0.014\\ \\text{mg/L} \\) The result is 0.014 mg/L (two significant figures, like 14). (c) Above. 14 &micro;g/L is greater than 10 &micro;g/L (0.010 mg/L). Comparing the values in the same unit avoids mistakes.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 2.25",
+  "question": "A cation forms when an atom A. gains one or more protons. B. loses one or more electrons. C. gains one or more electrons. D. loses one or more neutrons.",
+  "answer": "B. Losing negative electrons leaves more protons than electrons, so the ion is positive. A is wrong: the number of protons never changes when an ion forms. Changing the protons would make a different element. C describes how an anion forms. D is wrong: neutrons have no charge, so losing them could not create a charge (and ions do not form that way).",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 2.26",
+  "question": "Complete the table below for monatomic ions. Monatomic ions to complete (blanks marked ?) Ion symbol Ion name Protons Electrons Charge Li + ? ? ? ? Ba 2+ ? ? ? ? Se 2&minus; ? ? ? ? ? iodide ? ? ? ? ? 15 18 ? ? ? 38 ? 2+",
+  "answer": "Protons = Z. Electrons = protons &minus; charge. Charge = protons &minus; electrons. Li + : lithium ion ; 3 protons, 3 &minus; 1 = 2 electrons; charge 1+. Ba 2+ : barium ion ; 56 protons, 56 &minus; 2 = 54 electrons; charge 2+. Se 2&minus; : selenide ; 34 protons, 34 + 2 = 36 electrons; charge 2&minus;. Iodide: I &minus; ; 53 protons, 54 electrons; charge 1&minus;. 15 protons is phosphorus; charge = 15 &minus; 18 = 3&minus; , so the ion is P 3&minus; , phosphide . 38 protons is strontium: Sr 2+ , strontium ion ; 38 &minus; 2 = 36 electrons . Every charge matches the group pattern: Li (group 1) 1+, Ba and Sr (group 2) 2+, P (group 15) 3&minus;, Se (group 16) 2&minus;, I (group 17) 1&minus;. Cations keep the element name; anions end in -ide.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 2.27",
+  "question": "Mateo Herrera, the 34-year-old irrigation technician from the Chapter 2 opener, has a basic metabolic panel drawn in the emergency department. Three of his results are in the table below, with the typical adult reference ranges from Section 2.4. Three electrolyte results from Mateo's basic metabolic panel Electrolyte Mateo's result (mmol/L) Typical range (mmol/L) Sodium 138 135&ndash;145 Potassium 3.9 3.5&ndash;5.0 Chloride 102 98&ndash;106 (a) Write the symbol of the ion each result describes, and label each as a cation or an anion. (b) Give the number of protons and electrons in each ion. (c) How many significant figures does each result have? (d) Is each result inside the typical range?",
+  "answer": "(a) Sodium: Na + , cation. Potassium: K + , cation. Chloride: Cl &minus; , anion. Sodium and potassium are group 1 metals, which lose one electron; chlorine is a group 17 nonmetal, which gains one. The lab report says \"chloride,\" the anion's name, not \"chlorine,\" the element. (b) Na + : 11 protons, 10 electrons. K + : 19 protons, 18 electrons. Cl &minus; : 17 protons, 18 electrons. (c) 138 has 3 ; 3.9 has 2 ; 102 has 3 (the zero between 1 and 2 is a captive zero, and it counts). (d) Yes, all three are inside the typical ranges: 135 &le; 138 &le; 145, 3.5 &le; 3.9 &le; 5.0, and 98 &le; 102 &le; 106. (Each laboratory sets its own exact ranges, and interpreting results is the job of the care team.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 2.28",
+  "question": "Which of these is not the usual ion formed by the element? A. Cs + B. Sr 2+ C. Br 2&minus; D. S 2&minus;",
+  "answer": "C. Bromine is in group 17, and group 17 elements form 1&minus; ions. The usual ion is Br &minus; , bromide. A is the usual ion: cesium is in group 1, which forms 1+ ions. B is the usual ion: strontium is in group 2, which forms 2+ ions. D is the usual ion: sulfur is in group 16, which forms 2&minus; ions.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 2.29",
+  "question": "Some toothpastes list stannous fluoride as the active ingredient; others list sodium fluoride . Stannous fluoride contains the ions Sn 2+ and F &minus; ; sodium fluoride contains Na + and F &minus; . (a) How many protons and electrons are in Sn 2+ ? (b) How many protons and electrons are in F &minus; , and what is its name? (c) Which two of the three ions have the same number of electrons? (d) Tin is in group 14. Could you have used the group pattern in Section 2.4 to predict the charge of the tin ion?",
+  "answer": "(a) Tin, Sn (Latin stannum , hence \"stannous\"): Z = 50, so 50 protons ; 2+ charge, so 50 &minus; 2 = 48 electrons . (b) Fluorine: Z = 9, so 9 protons ; 1&minus; charge, so 9 + 1 = 10 electrons . Its name is fluoride (root of fluorine plus -ide). (c) Na + and F &minus; : Na + has 11 &minus; 1 = 10 electrons, the same as F &minus; (and the same as the noble gas neon). (d) No. The group table in Section 2.4 covers groups 1, 2, 13 (aluminum), 15, 16, and 17. Tin's ion charge has to be given, as it is here. Like many transition metals, tin can form more than one ion; Chapter 4 shows how those are named.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 2.30",
+  "question": "A nerve impulse travels along a neuron as sodium ions (Na + ) move into the cell and potassium ions (K + ) move out. Chloride ions (Cl &minus; ) also help set the electrical balance across the cell membrane. (a) Give the number of protons and electrons in each of the three ions. (b) Which two of the ions have the same number of electrons? (c) Which noble gas has the same number of electrons as Na + ? (d) A classmate says, \"Na + and K + have the same charge, so they must have the same number of electrons.\" Is that right?",
+  "answer": "(a) Na + : 11 protons, 10 electrons. K + : 19 protons, 18 electrons. Cl &minus; : 17 protons, 18 electrons. (b) K + and Cl &minus; , with 18 electrons each, even though one is positive and the other negative. (c) Neon (Z = 10, so a neon atom has 10 electrons). (d) No. The charge only tells you that each ion has one more proton than electrons. Potassium has 8 more protons than sodium, so K + also has 8 more electrons. The charges are the same, and the counts are different.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 2.31",
+  "question": "Which pair of species has the same number of electrons? A. Na + and Mg 2+ B. Na and Na + C. F &minus; and Cl &minus; D. Mg 2+ and Ca 2+",
+  "answer": "A. Na + has 11 &minus; 1 = 10 electrons, and Mg 2+ has 12 &minus; 2 = 10 electrons. B: the neutral Na atom has 11 electrons; Na + has 10. Losing that electron is what makes the ion. C: F &minus; has 10 electrons and Cl &minus; has 18. Same charge, different counts. D: Mg 2+ has 10 electrons and Ca 2+ has 18.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 2.32",
+  "question": "Identify each ion (symbol and name) from its electron count and charge. (a) 10 electrons, charge 2&minus; (b) 36 electrons, charge 1+ (c) 10 electrons, charge 1+ (d) 54 electrons, charge 1+",
+  "answer": "Rearrange charge = protons &minus; electrons to get protons = electrons + charge . Then the proton count names the element. (a) 10 + (&minus;2) = 8 protons: oxygen. O 2&minus; , oxide. (b) 36 + 1 = 37 protons: rubidium. Rb + , rubidium ion. (c) 10 + 1 = 11 protons: sodium. Na + , sodium ion. (d) 54 + 1 = 55 protons: cesium. Cs + , cesium ion. Check with the group pattern: O (group 16) forms 2&minus;; Rb, Na, and Cs (group 1) form 1+.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 2.33",
+  "question": "Fine clay particles in Central Valley soils carry negative charge on their surfaces. Calcium (Ca 2+ ), magnesium (Mg 2+ ), potassium (K + ), and sodium (Na + ) ions cling to the clay, where plant roots can take them up. Growers on some Valley soils spread gypsum, a mineral that supplies calcium ions, to improve the soil. (a) Are the four ions cations or anions? (b) Use Section 1.7 to explain why they stay on the clay instead of washing away. (c) How many electrons are in Ca 2+ and in Mg 2+ ? (d) Nitrate, the form of nitrogen that comes from many fertilizers, is a negatively charged ion (made of nitrogen and oxygen; Chapter 4). Predict whether the clay holds nitrate, and explain why nitrate from farm fields can reach groundwater.",
+  "answer": "(a) Cations : all four are positive ions of metals. (b) Opposite charges attract. The positive ions are attracted to the negative clay surfaces, so they are held in the soil instead of moving freely with the water. (c) Ca 2+ : 20 &minus; 2 = 18 electrons . Mg 2+ : 12 &minus; 2 = 10 electrons . (d) No. Nitrate is negative, and like charges repel, so the negative clay does not hold it. Nitrate stays dissolved in the soil water and can move down with irrigation water or rain toward the groundwater. That is one reason nitrate is a major groundwater concern in farming areas of the Valley.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 2.34",
+  "question": "A nursing student is reviewing potassium results. Which statement about the potassium ion, K + , is correct? A. It has 19 protons and 18 electrons. B. It has 20 protons and 19 electrons. C. It is a potassium atom that has gained one proton. D. It is an anion.",
+  "answer": "A. Potassium's atomic number is 19, so every potassium particle has 19 protons. The 1+ charge means 19 &minus; 1 = 18 electrons. B is wrong: 20 protons would make the particle calcium, not potassium. C is wrong: ions form by losing or gaining electrons; the proton count never changes. D is wrong: K + is positive, so it is a cation. Metals such as potassium form cations.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 2.35",
+  "question": "Each statement below contains an error. Find it and correct the statement. (a) \"Ca 2+ has 22 electrons, because the 2+ adds two.\" (b) \"The Cl &minus; ion in the blood is called chlorine.\" (c) \"To become Mg 2+ , a magnesium atom gains two protons.\" (d) \"O 2&minus; has 8 protons and 6 electrons.\"",
+  "answer": "(a) A positive charge means electrons were lost : Ca 2+ has 20 &minus; 2 = 18 electrons . (b) The anion is chloride . Chlorine is the element (a toxic yellow-green gas made of Cl 2 molecules). (c) The atom loses two electrons . Protons never change when an ion forms; gaining protons would make a different element. (d) A negative charge means electrons were gained : O 2&minus; has 8 + 2 = 10 electrons . Check: 8 &minus; 10 = &minus;2.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 2.36",
+  "question": "Some wound dressings contain silver. In the moist wound, the dressing releases silver ions, Ag + , which are toxic to many kinds of bacteria. (a) How many protons and electrons does Ag + have? (b) Is Ag + a cation or an anion? (c) Give silver's group and period, and say whether it is a main-group or transition element. (d) Why is silver's symbol Ag?",
+  "answer": "(a) Silver: Z = 47, so 47 protons ; 1+ charge, so 47 &minus; 1 = 46 electrons . (b) Cation (positive). As a metal, silver forms a positive ion. (c) Group 11, period 5, transition element (groups 3&ndash;12). (d) From its Latin name, argentum .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 2.37",
+  "question": "Complete the table below. Each row describes one atom or ion. Isotopes and isotope ions to complete (blanks marked ?) Symbol Z A Protons Neutrons Electrons Charge \\( ^{66}_{30}\\text{Zn} \\) ? ? ? ? ? ? \\( ^{34}_{16}\\text{S}^{2-} \\) ? ? ? ? ? ? ? 92 235 ? ? ? 0 ? ? ? 27 33 25 ? ? 35 ? ? 46 ? 1&minus; ? ? 39 ? ? 18 1+",
+  "answer": "Use the three rules: protons = Z; neutrons = A &minus; Z; electrons = protons &minus; charge. \\( ^{66}_{30}\\text{Zn} \\): Z = 30, A = 66, 30 protons, 66 &minus; 30 = 36 neutrons, 30 electrons, charge 0. \\( ^{34}_{16}\\text{S}^{2-} \\): Z = 16, A = 34, 16 protons, 34 &minus; 16 = 18 neutrons, 16 + 2 = 18 electrons, charge 2&minus;. Z = 92 is uranium: \\( ^{235}_{92}\\text{U} \\) (uranium-235); 92 protons, 235 &minus; 92 = 143 neutrons, 92 electrons. 27 protons is cobalt: Z = 27, A = 27 + 33 = 60, charge = 27 &minus; 25 = 2+, so \\( ^{60}_{27}\\text{Co}^{2+} \\). Z = 35 is bromine: 35 protons, A = 35 + 46 = 81, electrons = 35 + 1 = 36, so \\( ^{81}_{35}\\text{Br}^{-} \\). Protons = electrons + charge = 18 + 1 = 19, so Z = 19, potassium; neutrons = 39 &minus; 19 = 20, so \\( ^{39}_{19}\\text{K}^{+} \\). Notice that the charge never enters the neutron count.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 2.38",
+  "question": "Three isotopes of iodine are important in health care: iodine-123 (used for thyroid imaging), iodine-127 (the stable isotope found in iodized salt), and iodine-131 (used both for imaging and, at higher doses ordered by a physician, to treat some thyroid conditions). (a) Give the number of protons, neutrons, and electrons in a neutral atom of each. (b) What is the same in all three, and what is different? (c) Why does the thyroid gland take up radioactive iodine just as it takes up iodine-127?",
+  "answer": "(a) Iodine has Z = 53, so each has 53 protons and 53 electrons. Neutrons = A &minus; 53: iodine-123 has 70 , iodine-127 has 74 , iodine-131 has 78 . (b) Same: the number of protons (53) and, as neutral atoms, electrons (53), so all three are iodine. Different: the number of neutrons, and so the mass number and the mass. (c) Chemical behavior depends on electrons, and all iodine isotopes have the same electrons. The thyroid cannot tell them apart chemically, so it takes up whichever iodine is in the blood.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 2.39",
+  "question": "Technetium-99m is the isotope used most often in nuclear medicine imaging. The \"m\" stands for metastable : the nucleus holds extra energy that it later gives off as gamma rays, the radiation the camera detects. (a) How many protons, neutrons, and electrons are in a neutral technetium-99m atom? (b) Does the \"m\" change any of those counts compared with technetium-99? (c) Give technetium's group and period, and say whether it is a main-group or transition element.",
+  "answer": "(a) Technetium, Tc: Z = 43, so 43 protons and 43 electrons ; neutrons = 99 &minus; 43 = 56 . (b) No. Technetium-99m and technetium-99 have the same 43 protons and 56 neutrons. The \"m\" describes the energy of the nucleus, not its particle count. (c) Group 7, period 5, transition element.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 2.40",
+  "question": "In one kind of lung ventilation scan, the patient breathes a small amount of xenon-133 gas while a camera records where the gas goes in the lungs. Respiratory therapists and nuclear medicine technologists may both help with the study. (a) Give the number of protons, neutrons, and electrons in a xenon-133 atom. (b) Xenon is in group 18. What is the name of that group, and why does that make xenon a good choice for a gas that should mix with the air in the lungs without reacting? (c) Natural xenon-131 has the same chemistry as xenon-133. Explain why.",
+  "answer": "(a) Xenon, Xe: Z = 54, so 54 protons and 54 electrons ; neutrons = 133 &minus; 54 = 79 . (b) Group 18 is the noble gases , which are very unreactive and exist as single atoms. Xenon-133 moves in and out with each breath like the rest of the air instead of combining with tissue. (c) Both have 54 protons and 54 electrons; they differ only in neutrons (77 versus 79). Chemistry depends on electrons, so the two isotopes behave alike. Only xenon-133 is radioactive, which is why it shows up on the camera.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 2.41",
+  "question": "Which pair are isotopes of the same element? A. \\( ^{14}_{6}\\text{C} \\) and \\( ^{14}_{7}\\text{N} \\) B. \\( ^{12}_{6}\\text{C} \\) and \\( ^{13}_{6}\\text{C} \\) C. O 2 and O 3 D. Na and Na +",
+  "answer": "B. Both have Z = 6 (carbon), but carbon-12 has 6 neutrons and carbon-13 has 7. Same protons, different neutrons: isotopes. A: same mass number but different elements (6 versus 7 protons). Isotopes share Z, not A. C: these are two different molecules of the same element (oxygen gas and ozone). They differ in how many atoms are joined together, not in the number of neutrons in each atom. D: an atom and its ion differ in electrons, not neutrons.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 2.42",
+  "question": "How many protons, neutrons, and electrons are in \\( ^{80}_{34}\\text{Se}^{2-} \\)? A. 34 protons, 46 neutrons, 36 electrons B. 34 protons, 46 neutrons, 32 electrons C. 34 protons, 44 neutrons, 36 electrons D. 46 protons, 34 neutrons, 36 electrons",
+  "answer": "A. Protons = Z = 34. Neutrons = 80 &minus; 34 = 46. A 2&minus; charge means two electrons were gained: 34 + 2 = 36. B subtracts the charge the wrong way: a negative ion has more electrons than protons. C subtracts the charge from the neutron count (80 &minus; 34 &minus; 2). Charge affects electrons only. D swaps protons and neutrons. The subscript, 34, is always the proton count.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 2.43",
+  "question": "In a famous 1952 experiment, Alfred Hershey and Martha Chase asked whether a virus's DNA or its protein carries its genes into a bacterium. They grew one batch of virus with radioactive phosphorus-32 and another with radioactive sulfur-35. DNA contains phosphorus but no sulfur, and the virus's protein contains sulfur but almost no phosphorus. (a) How many protons and neutrons are in phosphorus-32 and in sulfur-35? (b) Ordinary phosphorus is phosphorus-31. How many neutrons does it have? (c) Why could the virus build these isotopes into its DNA and protein as if they were ordinary phosphorus and sulfur? (d) The phosphorus-32 label, not the sulfur-35 label, ended up inside the bacteria. What did that show?",
+  "answer": "(a) Phosphorus-32: Z = 15, so 15 protons , 32 &minus; 15 = 17 neutrons . Sulfur-35: Z = 16, so 16 protons , 35 &minus; 16 = 19 neutrons . (b) 31 &minus; 15 = 16 neutrons . (c) Isotopes of an element have the same protons and electrons, so they behave the same way chemically. The cell's chemistry cannot tell them apart; only the radiation reveals where they went. (d) DNA, not protein, entered the bacteria, so DNA carries the genetic information . Each isotope acted as a tag for one kind of molecule.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 2.44",
+  "question": "In 1958, Matthew Meselson and Franklin Stahl grew the bacterium Escherichia coli for many generations in a nutrient medium whose only nitrogen was nitrogen-15, a stable (non-radioactive) isotope. Ordinary nitrogen is almost all nitrogen-14. (a) How many protons and neutrons are in nitrogen-14 and nitrogen-15? (b) The bacteria grew and divided normally on nitrogen-15. Why? (c) DNA made with nitrogen-15 is slightly denser than ordinary DNA. Use the definition of density (Section 1.9) to explain why.",
+  "answer": "(a) Nitrogen has Z = 7. Nitrogen-14: 7 protons, 7 neutrons . Nitrogen-15: 7 protons, 8 neutrons . (b) Both isotopes have 7 protons and 7 electrons, so they behave the same way chemically. The bacteria build nitrogen-15 into their DNA and proteins just as they would nitrogen-14. (c) Density is mass divided by volume. Each nitrogen-15 atom has one more neutron, so it has more mass, but the DNA molecule takes up the same volume, because its shape depends on electrons and bonding. More mass in the same volume means a higher density. Meselson and Stahl used that small difference to separate \"heavy\" from \"light\" DNA.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 2.45",
+  "question": "Write the isotope symbol \\( ^{A}_{Z}\\text{X} \\) and the hyphen name (such as chlorine-37) for each atom. (a) an atom with 53 protons and 74 neutrons (b) an atom with 38 protons and 52 neutrons (c) the isotope of oxygen with 9 neutrons (d) a neutral atom with 82 electrons and 126 neutrons",
+  "answer": "(a) Z = 53 is iodine; A = 53 + 74 = 127: \\( ^{127}_{53}\\text{I} \\), iodine-127 . (b) Z = 38 is strontium; A = 38 + 52 = 90: \\( ^{90}_{38}\\text{Sr} \\), strontium-90 . (c) Oxygen has Z = 8; A = 8 + 9 = 17: \\( ^{17}_{8}\\text{O} \\), oxygen-17 . (d) Neutral, so protons = electrons = 82, which is lead; A = 82 + 126 = 208: \\( ^{208}_{82}\\text{Pb} \\), lead-208 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 2.46",
+  "question": "High nitrate in drinking-water wells is a concern in parts of the San Joaquin Valley. To learn where the nitrate came from, scientists measure how much nitrogen-15 it contains compared with nitrogen-14. Nitrate that comes from animal manure or septic systems tends to have a slightly higher share of nitrogen-15 than nitrate from synthetic fertilizer. (a) How do the nuclei of nitrogen-14 and nitrogen-15 differ? (b) If the two isotopes behave the same way chemically, how can scientists tell them apart? (c) A well near a large dairy has nitrate with a higher share of nitrogen-15 than nitrate from fertilized fields nearby. Which source does that point to? Why can't this result alone prove the source?",
+  "answer": "(a) Both have 7 protons. Nitrogen-14 has 7 neutrons; nitrogen-15 has one more neutron (8). (b) By mass . A nitrogen-15 atom is about 1 amu heavier, and instruments that sort particles by mass (mass spectrometers, Section 2.6) can measure how much of each isotope is present. (c) It points to manure (the dairy) as a likely source. It cannot prove it alone, because the ranges for different sources can overlap and other processes in the soil can shift the isotope share. Scientists combine isotope data with other evidence, which is the scientific method of Section 1.1 at work.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 2.47",
+  "question": "Drainage water from some fields on the west side of the San Joaquin Valley carries boron as well as selenium, and too much boron harms many crops. Natural boron has two isotopes, listed in the table below. Natural isotopes of boron Isotope Mass (amu) Abundance (%) Boron-10 10.013 19.90 Boron-11 11.009 80.10 (a) Before calculating, predict whether the average will be closer to 10 or to 11. (b) Calculate the average atomic mass of boron. (c) How many neutrons are in each isotope?",
+  "answer": "(a) Closer to 11 , because boron-11 makes up about 80% of natural boron. (b) Change each percent to a fraction (divide by 100), multiply by the isotope mass, and add: \\( (0.1990)(10.013\\ \\text{amu}) + (0.8010)(11.009\\ \\text{amu}) = 1.993\\ \\text{amu} + 8.818\\ \\text{amu} = 10.811\\ \\text{amu} \\) Each product keeps four significant figures (set by the abundance), and the sum is rounded to the thousandths place, the last place both products share. The answer, 10.811 amu , matches the periodic table (10.81) and lies between 10.013 and 11.009, closer to 11.009 as predicted. (c) Boron has Z = 5. Boron-10: 10 &minus; 5 = 5 neutrons . Boron-11: 11 &minus; 5 = 6 neutrons .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 2.48",
+  "question": "A mass spectrometer is used on a pure sample of an unknown metal. It finds two isotopes, described in the table below. Mass spectrometer results for an unknown metal Peak Isotope mass (amu) Percent of atoms 1 106.905 51.84 2 108.905 48.16 (a) Which peak would be taller on the spectrum? (b) Calculate the average atomic mass. (c) Use the periodic table to identify the metal. (d) Write the hyphen names of the two isotopes and give the number of neutrons in each.",
+  "answer": "(a) Peak 1 : it represents the larger share of atoms (51.84% versus 48.16%). (b) \\( (0.5184)(106.905\\ \\text{amu}) + (0.4816)(108.905\\ \\text{amu}) = 55.42\\ \\text{amu} + 52.45\\ \\text{amu} = 107.87\\ \\text{amu} \\) The answer is 107.87 amu . The two isotopes are nearly equally common, so the average sits just below the midpoint (107.905) of the two masses, pulled slightly toward the more abundant lighter isotope. (c) The periodic table lists 107.87 for silver, Ag (Z = 47). (d) Silver-107 : 107 &minus; 47 = 60 neutrons. Silver-109 : 109 &minus; 47 = 62 neutrons. (The mass number is the isotope mass rounded to a whole number.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 2.49",
+  "question": "Potassium is the electrolyte nurses watch most closely for heart rhythm. Natural potassium has three isotopes, listed in the table below. Potassium-40 is naturally radioactive, but it is a very small part of natural potassium. Natural isotopes of potassium Isotope Mass (amu) Abundance (%) Potassium-39 38.964 93.26 Potassium-40 39.964 0.0117 Potassium-41 40.962 6.730 (a) Calculate the average atomic mass of potassium. (b) How much does potassium-40 contribute to the average? Would leaving it out change the answer? (c) How many neutrons are in potassium-40?",
+  "answer": "(a) \\( (0.9326)(38.964) + (0.000117)(39.964) + (0.06730)(40.962) = 36.34 + 0.00468 + 2.757 = 39.10\\ \\text{amu} \\) The first product is known only to the hundredths place, so the sum is rounded there: 39.10 amu , matching the periodic table. (b) Potassium-40 adds only 0.00468 amu , less than five thousandths. Leaving it out (and carrying all calculator digits) gives 39.0946, which rounds to 39.09 amu instead of 39.10 amu: a change of only one unit in the last reported digit. A very rare isotope barely moves a weighted average, but it can nudge the last digit, which is why tables include every natural isotope. (c) Potassium has Z = 19: 40 &minus; 19 = 21 neutrons .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 2.50",
+  "question": "Thallium-201 has been used for decades in heart scans that show how well blood reaches the heart muscle. It is made in a particle accelerator; natural thallium contains only the two isotopes in the table below. Natural isotopes of thallium Isotope Mass (amu) Abundance (%) Thallium-203 202.972 29.52 Thallium-205 204.974 70.48 (a) Calculate the average atomic mass of natural thallium. (b) How many protons and neutrons are in thallium-201? (c) Does thallium-201 affect the atomic mass printed on the periodic table? Explain.",
+  "answer": "(a) \\( (0.2952)(202.972\\ \\text{amu}) + (0.7048)(204.974\\ \\text{amu}) = 59.92\\ \\text{amu} + 144.5\\ \\text{amu} = 204.4\\ \\text{amu} \\) Each product keeps four significant figures; 144.5 is known only to the tenths place, so the sum is rounded there: 204.4 amu . (Carrying all digits gives 204.383, and the periodic table lists 204.38.) (b) Thallium has Z = 81: 81 protons and 201 &minus; 81 = 120 neutrons . (c) No. The periodic-table value is the weighted average of the isotopes found in nature. Thallium-201 is made artificially and does not occur in natural thallium, so it is not part of the average.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 2.51",
+  "question": "Iridium-192 is a radioactive isotope used in some cancer treatments in which a tiny radioactive source is placed inside or next to a tumor. Natural iridium is made of iridium-191 and iridium-193, and its average atomic mass is 192.22 amu. Which statement is correct? A. Iridium-193 is more abundant than iridium-191. B. The two natural isotopes are equally abundant. C. Iridium-191 is more abundant than iridium-193. D. Most natural iridium is iridium-192, because 192.22 is closest to 192.",
+  "answer": "A. If the two isotopes were equally common, the average would be near 192, halfway between 191 and 193. The real average, 192.22, is above 192, so it is pulled toward the heavier isotope. (Natural iridium is about 63% iridium-193.) B would give an average very close to 192. C would pull the average below 192, toward 191. D confuses the average with an isotope. The problem says natural iridium contains only iridium-191 and iridium-193; iridium-192 is made artificially for medical use. An average atomic mass can be near a mass number that no natural atom has.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 2.52",
+  "question": "Each element below has two main natural isotopes. Use the average atomic mass from the periodic table to decide which isotope is more abundant, and say whether it is a large or slight majority. (a) indium, 114.82 amu: indium-113 or indium-115 (b) antimony, 121.76 amu: antimony-121 or antimony-123 (c) rhenium, 186.21 amu: rhenium-185 or rhenium-187 (d) nitrogen, 14.007 amu: nitrogen-14 or nitrogen-15",
+  "answer": "Find the midpoint of the two mass numbers. The average falls on the side of the more abundant isotope; the farther from the midpoint, the larger the majority. (a) Midpoint 114. 114.82 is far above it, close to 115: indium-115 , a large majority (about 96%). (b) Midpoint 122. 121.76 is a little below it: antimony-121 , a slight majority (about 57%). (c) Midpoint 186. 186.21 is a little above it: rhenium-187 , a modest majority (about 63%). (d) Midpoint 14.5. 14.007 is almost exactly 14: nitrogen-14 , a very large majority (more than 99%). That is why the small share of nitrogen-15 in the well-water nitrate problem above takes a sensitive instrument to measure. Caution: this shortcut uses whole mass numbers. When the average is very close to the midpoint, the small differences between mass numbers and real isotope masses can matter, and you need the actual isotope masses to decide (see the europium challenge that follows).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 2.53",
+  "question": "Challenge. Europium has two natural isotopes: europium-151 (150.920 amu) and europium-153 (152.921 amu). Its average atomic mass is 151.964 amu. (a) Let x be the fractional abundance of europium-153, so the fraction of europium-151 is 1 &minus; x . Write the weighted-average equation and solve for x . (b) Give the percent abundance of each isotope. (c) The midpoint of the mass numbers 151 and 153 is 152. Using the midpoint shortcut from the previous problem, which isotope would you have picked as more abundant? Explain why the shortcut misleads here.",
+  "answer": "(a) \\( 151.964 = (1 - x)(150.920) + x(152.921) \\) Expand and collect the x terms: \\( 151.964 = 150.920 + x(152.921 - 150.920) \\), so \\( x = \\dfrac{151.964 - 150.920}{152.921 - 150.920} = \\dfrac{1.044}{2.001} = 0.5217 \\) (b) Europium-153: 52.17% . Europium-151: 100% &minus; 52.17% = 47.83% . (Each subtraction leaves four significant figures, so the fraction has four. The accepted values, 52.19% and 47.81%, differ slightly because the masses here are rounded.) (c) 151.964 is below 152, so the shortcut points to europium-151 , which is wrong. The real midpoint of the two isotope masses is (150.920 + 152.921) &divide; 2 = 151.921 amu, and the average, 151.964, is above that, so europium-153 is the slight majority. When two isotopes are nearly equally abundant, use the real masses, not the mass numbers.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 2.54",
+  "question": "The periodic table lists 85.47 amu for rubidium, which has two natural isotopes, rubidium-85 and rubidium-87. Which statement is correct? A. Every rubidium atom has a mass of 85.47 amu. B. No single rubidium atom has a mass of 85.47 amu; the value is a weighted average of the masses of rubidium-85 and rubidium-87 atoms. C. 85.47 is the mass number of rubidium. D. Natural rubidium is half rubidium-85 and half rubidium-87.",
+  "answer": "B. Each atom is either rubidium-85 (about 84.91 amu) or rubidium-87 (about 86.91 amu). 85.47 describes the natural mixture, not any one atom. A is the most common misunderstanding: the average describes the mixture. C is wrong: a mass number counts protons plus neutrons, so it is always a whole number and belongs to one isotope. D would give an average near 86. The real average, 85.47, is much closer to 85, so rubidium-85 is the large majority (about 72%).",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 2.55",
+  "question": "Gold has only one natural isotope, gold-197, with a mass of 196.97 amu. (a) Use 1 amu = 1.6605 &times; 10 &minus;24 g to find the mass of one gold atom in grams. (b) How many gold atoms are in a 1.000 g gold bead? (c) How many protons, neutrons, and electrons are in one gold-197 atom?",
+  "answer": "(a) \\( 196.97\\ \\text{amu} \\times \\dfrac{1.6605 \\times 10^{-24}\\ \\text{g}}{1\\ \\text{amu}} = 3.2707 \\times 10^{-22}\\ \\text{g} \\) Both numbers have five significant figures, so the answer is 3.2707 &times; 10 &minus;22 g . (b) Use the mass of one atom as a conversion factor: \\( 1.000\\ \\text{g} \\times \\dfrac{1\\ \\text{atom}}{3.2707 \\times 10^{-22}\\ \\text{g}} = 3.057 \\times 10^{21}\\ \\text{atoms} \\) The answer is 3.057 &times; 10 21 atoms (four significant figures, set by 1.000 g). Calculator tip (TI-36X Pro): enter 3.2707 [&times;10 n ] [(&minus;)] 22 for the bottom number. Atoms are so small that even a small bead holds trillions of billions of them. Chapter 5 turns this kind of count into the mole. (c) Gold, Au: Z = 79, so 79 protons and 79 electrons ; 197 &minus; 79 = 118 neutrons . Because gold has only one natural isotope, its average atomic mass is simply the mass of that isotope.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 2.56",
+  "question": "Classify each substance as an element, a compound, or a mixture (homogeneous or heterogeneous), and say whether it is made of neutral atoms, molecules, or ions (or a combination). (a) sodium metal (b) chlorine gas, Cl 2 (c) pure sodium chloride (table salt) (d) normal saline (0.90% sodium chloride dissolved in water)",
+  "answer": "(a) Element , made of sodium atoms. Sodium metal reacts violently with water. (b) Element , made of Cl 2 molecules (two chlorine atoms joined). Chlorine is one of the diatomic seven, and the gas is toxic. (c) Compound , made of Na + and Cl &minus; ions in a fixed 1:1 ratio. The ions behave completely differently from the atoms in (a) and the molecules in (b): table salt is safe to eat. (d) Homogeneous mixture : water molecules with Na + and Cl &minus; ions spread evenly through them. The proportions could be changed, which makes it a mixture rather than a compound. Only (c) and (d) contain sodium ions , the form of sodium measured on a lab panel.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 2.57",
+  "question": "The nucleus of an atom is roughly 1/100,000 of the atom's diameter. Imagine a model in which the nucleus is a marble 1.0 cm across. (a) About how wide would the whole atom be, in meters and in kilometers? (b) What does this model say about the space that the electrons occupy?",
+  "answer": "(a) The atom is about 100,000 (10 5 ) times wider than the nucleus: \\( 1.0\\ \\text{cm} \\times 10^{5} = 1.0 \\times 10^{5}\\ \\text{cm} \\times \\dfrac{1\\ \\text{m}}{100\\ \\text{cm}} = 1.0 \\times 10^{3}\\ \\text{m} \\times \\dfrac{1\\ \\text{km}}{1000\\ \\text{m}} = 1.0\\ \\text{km} \\) The atom would be about 1.0 &times; 10 3 m , or 1.0 km , across, roughly ten football fields in a row. The ratio itself is approximate, so treat this as an estimate. (b) The electrons move through a space enormously larger than the nucleus, and nearly all of it is empty. That is why 99% of the alpha particles in the gold foil experiment passed through untouched (see the gold foil simulation in the Section 2.1 problems).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 2.58",
+  "question": "Mateo's chloride result is 102 mmol/L. Natural chlorine is 75.77% chlorine-35 and 24.23% chlorine-37 (Section 2.6), and the chloride ions in his blood have the same mix. (a) Give the number of protons, neutrons, and electrons in a chlorine-35 chloride ion and in a chlorine-37 chloride ion. (b) Of the 102 mmol/L, how much is chloride made from chlorine-37? (c) Does the lab need to report the two isotopes separately to describe how chloride behaves in his body? Explain.",
+  "answer": "(a) Both have Z = 17 and a 1&minus; charge: 17 protons and 18 electrons . Chlorine-35 chloride has 35 &minus; 17 = 18 neutrons ; chlorine-37 chloride has 37 &minus; 17 = 20 neutrons . (b) \\( 102\\ \\text{mmol/L} \\times \\dfrac{24.23}{100} = 24.7\\ \\text{mmol/L} \\) About 24.7 mmol/L (three significant figures, set by 102) is chloride made from chlorine-37. (c) No. Both isotopes form chloride ions with the same 18 electrons, so they behave the same way chemically in the blood. The lab reports total chloride; the isotopes differ only in mass.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 2.59",
+  "question": "Consider three particles: \\( ^{40}_{18}\\text{Ar} \\), \\( ^{40}_{19}\\text{K}^{+} \\), and \\( ^{40}_{20}\\text{Ca}^{2+} \\). (a) Give the number of protons, neutrons, and electrons in each. (b) What do all three have in common? (c) Are any two of them isotopes of each other? Explain.",
+  "answer": "(a) Ar: 18 protons, 40 &minus; 18 = 22 neutrons, 18 electrons. K + : 19 protons, 21 neutrons, 19 &minus; 1 = 18 electrons. Ca 2+ : 20 protons, 20 neutrons, 20 &minus; 2 = 18 electrons. (b) All three have the same mass number (40) and the same number of electrons (18) . (c) No. Isotopes must have the same number of protons, and these have 18, 19, and 20: three different elements. Sharing a mass number or an electron count does not make particles the same element. Only the proton count does.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 2.60",
+  "question": "When a sulfur atom gains two electrons, the particle that forms is A. a cation with a 2+ charge B. an anion with a 2&minus; charge C. an anion with a 2+ charge D. sulfur-34, a heavier isotope of sulfur",
+  "answer": "B. Gaining two negative electrons gives 16 protons and 18 electrons: charge = 16 &minus; 18 = 2&minus;. A negative ion is an anion (onions make you cry: anions are the negative ones). The ion is S 2&minus; , sulfide. A gets the sign backward. Cations (cats have paws: \"paws-itive\") form when electrons are lost . C mixes the two: an anion is always negative. D confuses electrons with neutrons. Electrons have almost no mass and do not change the mass number; adding neutrons makes an isotope.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 2.61",
+  "question": "Which set shows the correct fixed charges of aluminum, zinc, and silver? A. Al 3+ , Zn 2+ , Ag + B. Al 3+ , Zn + , Ag 2+ C. Al + , Zn 2+ , Ag 3+ D. Al 2+ , Zn 2+ , Ag +",
+  "answer": "A. Walk down the steps: aluminum (top step) 3+, zinc 2+, silver 1+. B swaps zinc and silver. C walks the steps in the wrong direction: start at aluminum with 3+. D gives aluminum 2+; aluminum always forms Al 3+ .",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 61,
+  "title": "Problem 2.62",
+  "question": "Potassium (Z = 19) comes right after argon (Z = 18), but on the periodic table it starts a new row, directly under sodium. Why? A. Potassium is heavier than argon, and heavier elements always start new rows. B. Potassium behaves like sodium (a soft metal that reacts violently with water), and the table stacks elements with similar properties in the same column. C. Mendeleev arranged the elements alphabetically by their Latin names (kalium, natrium). D. Every row of the periodic table has exactly eight elements.",
+  "answer": "B. The table is ordered by atomic number, but a new row starts whenever properties repeat, so that each column holds a family of similar elements. Potassium is an alkali metal like lithium and sodium, so it lands in group 1. A: every element is heavier than the one before it (with a few exceptions), but that alone does not decide where rows break. C: the order is by atomic number, not by name; the Latin names only explain the symbols K and Na. D: rows have 2, 8, 8, 18, 18, and 32 elements; only periods 2 and 3 have eight.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 62,
+  "title": "Problem 2.63",
+  "question": "Complete the table. Use the periodic table only for symbols and atomic numbers. @media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } } Atoms and ions to complete (blanks marked ?) Row Symbol Z A Protons Neutrons Electrons Charge (a) ? ? ? 20 24 ? 2+ (b) Br &minus; ? 79 ? ? ? 1&minus; (c) ? ? ? ? 12 10 1+ (d) Zn 2+ ? 66 ? ? ? 2+",
+  "answer": "Start each row from its fingerprint (protons or symbol), then use A = protons + neutrons and charge = protons &minus; electrons. (a) 20 protons is calcium: Z = 20, A = 20 + 24 = 44 , electrons = 20 &minus; 2 = 18 ; symbol \\( ^{44}\\text{Ca}^{2+} \\) . (b) Bromine: Z = 35 , 35 protons , 79 &minus; 35 = 44 neutrons , 35 + 1 = 36 electrons . (Use the given 79, not the 79.90 on the table.) (c) Protons = electrons + charge = 10 + 1 = 11 , which is sodium: Z = 11, A = 11 + 12 = 23 ; symbol \\( ^{23}\\text{Na}^{+} \\) . (d) Zinc: Z = 30 , 30 protons , 66 &minus; 30 = 36 neutrons , 30 &minus; 2 = 28 electrons . Check: in every row, protons + neutrons = A, and protons &minus; electrons = charge.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 63,
+  "title": "Problem 2.64",
+  "question": "A student reads the iron tile (26, Fe, 55.85) and writes: \"Fe 3+ has 23 protons, 23 electrons, and 55.85 neutrons.\" (a) Find each error. (b) Give the correct counts for an Fe 3+ ion made from iron-56.",
+  "answer": "(a) Three errors. The proton count never changes when an ion forms, so Fe 3+ still has 26 protons; the charge comes from losing electrons. The electrons should be 26 &minus; 3, not 23 protons and 23 electrons (that would be neutral). And 55.85 is an average atomic mass, not a count; particles come in whole numbers. (b) Iron-56: 26 protons , 56 &minus; 26 = 30 neutrons , 26 &minus; 3 = 23 electrons .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 64,
+  "title": "Problem 2.65",
+  "question": "Silicon, the element in computer chips and in the quartz of Sierra granite, has three natural isotopes. Silicon-28 (27.977 amu) is 92.23% of silicon atoms and silicon-29 (28.976 amu) is 4.68%. The rest is silicon-30 (29.974 amu). (a) What is the percent abundance of silicon-30? A. 3.09% B. 7.77% C. 96.91% D. 33.3% Then (b) calculate silicon's average atomic mass.",
+  "answer": "(a) A. The three percents must add to 100%: 100.00% &minus; 92.23% &minus; 4.68% = 3.09% . B subtracted only silicon-28 (100.00 &minus; 92.23) and forgot silicon-29. C added the two given percents instead of subtracting them from 100%. D assumes the three isotopes are equally common; the problem says they are not. (b) Change each percent to a decimal and keep each product in parentheses on the calculator: \\( (0.9223)(27.977) + (0.0468)(28.976) + (0.0309)(29.974) = 25.803 + 1.3561 + 0.92620 = 28.09\\ \\text{amu} \\) The answer is 28.09 amu , rounded to the hundredths place (the last place known in the 1.36 and 25.80 terms). It is very close to 28 because silicon-28 is the large majority, and it matches the yellow-sheet value.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 65,
+  "title": "Problem 2.66",
+  "question": "A made-up element has two isotopes: 120.0 amu (25.0% of atoms) and 124.0 amu (75.0% of atoms). (a) What is the plain average (mean) of the two masses? (b) What is the weighted average atomic mass? (c) Which one belongs on the periodic table, and why?",
+  "answer": "(a) (120.0 + 124.0) &divide; 2 = 122.0 amu . (b) \\( (0.250)(120.0\\ \\text{amu}) + (0.750)(124.0\\ \\text{amu}) = 30.0 + 93.0 = 123.0\\ \\text{amu} \\) (c) The weighted average, 123.0 amu . Three of every four atoms are the heavier isotope, so the average is pulled toward 124.0. The plain mean would be right only if the two isotopes were equally common.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch02/2.8_practice_problems.html",
+  "idx": 66,
+  "title": "Problem 2.67",
+  "question": "Many home smoke detectors contain a tiny amount of americium-241. (a) How many protons and neutrons are in an americium-241 nucleus? (b) In the detector, the americium is present as americium(IV) oxide, which contains Am 4+ ions. How many electrons does one Am 4+ ion have? (c) Is Am 4+ a cation or an anion?",
+  "answer": "(a) Americium has Z = 95: 95 protons and 241 &minus; 95 = 146 neutrons . (b) 95 &minus; 4 = 91 electrons . The charge was given, so you do not need to know whether americium \"usually\" forms this ion; charge = protons &minus; electrons works for any element. (c) A cation : it is positive because it lost electrons (cats have paws).",
+  "mc": false,
+  "terse_answer": false
+ }
+]

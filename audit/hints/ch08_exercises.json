@@ -1,0 +1,839 @@
+[
+ {
+  "file": "drafts/ch08/8.1_mole_ratios.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "For 4 Fe(s) + 3 O 2 (g) &rarr; 2 Fe 2 O 3 (s), how many moles of O 2 react with 2.0 mol Fe?",
+  "answer": "2.0 mol Fe &times; 3 mol O 2 / 4 mol Fe = 1.5 mol O 2 .",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch08/8.1_mole_ratios.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "For C 3 H 8 + 5 O 2 &rarr; 3 CO 2 + 4 H 2 O, how many moles of water form from 0.75 mol propane?",
+  "answer": "0.75 &times; 4/1 = 3.0 mol H 2 O.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch08/8.1_mole_ratios.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Write all six mole ratios for 2 H 2 O 2 &rarr; 2 H 2 O + O 2 .",
+  "answer": "2 mol H 2 O 2 /2 mol H 2 O and its inverse; 2 mol H 2 O 2 /1 mol O 2 and its inverse; 2 mol H 2 O/1 mol O 2 and its inverse.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.1_mole_ratios.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "For 2 Al(s) + 3 CuCl 2 (aq) &rarr; 2 AlCl 3 (aq) + 3 Cu(s), how many moles of Al are needed to react completely with 0.45 mol CuCl 2 ?",
+  "answer": "0.45 mol CuCl 2 &times; 2 mol Al / 3 mol CuCl 2 = 0.30 mol Al.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.1_mole_ratios.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Sodium carbonate reacts with hydrochloric acid: Na 2 CO 3 (aq) + 2 HCl(aq) &rarr; 2 NaCl(aq) + H 2 O(l) + CO 2 (g). How many moles of CO 2 form along with 0.84 mol NaCl? (Work from one product to another.)",
+  "answer": "0.84 mol NaCl &times; 1 mol CO 2 / 2 mol NaCl = 0.42 mol CO 2 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.1_mole_ratios.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "question": "Write the balanced equation for the combination of sodium metal with chlorine gas, then find the moles of Cl 2 used to make 5.0 mol NaCl.",
+  "answer": "2 Na(s) + Cl 2 (g) &rarr; 2 NaCl(s). 5.0 mol NaCl &times; 1 mol Cl 2 / 2 mol NaCl = 2.5 mol Cl 2 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.2_mass_to_mass.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "How many grams of O 2 are needed to burn 10.0 g of methane? CH 4 + 2 O 2 &rarr; CO 2 + 2 H 2 O (CH 4 16.043, O 2 31.998 g/mol)",
+  "answer": "10.0/16.043 = 0.6233 mol CH 4 ; &times; 2 = 1.247 mol O 2 ; &times; 31.998 = 39.9 g O 2 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.2_mass_to_mass.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "How many grams of H 2 O form when 36.6 g of CO 2 form from glucose (Example 1)?",
+  "answer": "The ratio is 6 CO 2 : 6 H 2 O, so equal moles: 36.6/44.009 = 0.8316 mol; &times; 18.015 = 15.0 g H 2 O.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.2_mass_to_mass.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Iron is made from iron ore: Fe 2 O 3 + 3 CO &rarr; 2 Fe + 3 CO 2 . How many grams of Fe come from 500. g of Fe 2 O 3 (159.70 g/mol)?",
+  "answer": "500./159.70 = 3.131 mol; &times; 2 = 6.262 mol Fe; &times; 55.85 = 350. g Fe.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.2_mass_to_mass.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "How many moles of AgCl precipitate when 3.5 g of KCl in solution reacts with excess silver nitrate? KCl(aq) + AgNO 3 (aq) &rarr; AgCl(s) + KNO 3 (aq) (KCl 74.55 g/mol)",
+  "answer": "3.5 g KCl &times; (1 mol KCl / 74.55 g) &times; (1 mol AgCl / 1 mol KCl) = 0.047 mol AgCl (2 significant figures, like 3.5 g). The problem stops at moles, so there is no last molar-mass step.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.2_mass_to_mass.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "What mass of N 2 is needed to make 1.50 &times; 10 24 molecules of NH 3 ? N 2 + 3 H 2 &rarr; 2 NH 3 (N 2 28.014 g/mol)",
+  "answer": "1.50 &times; 10 24 &divide; 6.0221 &times; 10 23 = 2.491 mol NH 3 ; &times; (1 mol N 2 / 2 mol NH 3 ) = 1.245 mol N 2 ; &times; 28.014 g/mol = 34.9 g N 2 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.3_solutions_gases.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "How many moles of NaOH are in 25.0 mL of 0.200 M NaOH?",
+  "answer": "0.0250 L &times; 0.200 mol/L = 0.00500 mol NaOH.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch08/8.3_solutions_gases.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "What volume of CO 2 at STP forms when 0.250 mol of CaCO 3 decomposes? CaCO 3 &rarr; CaO + CO 2",
+  "answer": "0.250 mol CO 2 &times; 22.4 L/mol = 5.60 L.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch08/8.3_solutions_gases.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "How many mL of 0.500 M H 2 SO 4 neutralize 0.0300 mol of KOH? H 2 SO 4 + 2 KOH &rarr; K 2 SO 4 + 2 H 2 O",
+  "answer": "0.0300 mol KOH &times; 1/2 = 0.0150 mol H 2 SO 4 ; &divide; 0.500 M = 0.0300 L = 30.0 mL.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.3_solutions_gases.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "How many milliliters of 0.0800 M AgNO 3 react completely with 15.0 mL of 0.0400 M CaCl 2 ? CaCl 2 (aq) + 2 AgNO 3 (aq) &rarr; 2 AgCl(s) + Ca(NO 3 ) 2 (aq)",
+  "answer": "CaCl 2 has the green light: 0.0150 L &times; 0.0400 M = 6.00 &times; 10 &minus;4 mol CaCl 2 ; &times; 2 = 1.20 &times; 10 &minus;3 mol AgNO 3 ; &divide; 0.0800 M = 0.0150 L = 15.0 mL.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.4_limiting_reactant.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "For N 2 + 3 H 2 &rarr; 2 NH 3 , which is limiting if 2.0 mol N 2 and 4.5 mol H 2 react? How many moles of NH 3 form?",
+  "answer": "From N 2 : 4.0 mol NH 3 ; from H 2 : 4.5 &times; 2/3 = 3.0 mol. H 2 is limiting; 3.0 mol NH 3 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.4_limiting_reactant.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "In Exercise 1, how many moles of N 2 are left over?",
+  "answer": "N 2 used: 4.5 mol H 2 &times; 1/3 = 1.5 mol. Left: 2.0 &minus; 1.5 = 0.5 mol N 2 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.4_limiting_reactant.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "5.00 g of Mg reacts with 5.00 g of O 2 : 2 Mg + O 2 &rarr; 2 MgO. Which is limiting, and what mass of MgO forms? (Mg 24.31, O 2 31.998, MgO 40.31 g/mol)",
+  "answer": "Mg: 0.2057 mol &rarr; 0.2057 mol MgO. O 2 : 0.1563 mol &rarr; 0.3125 mol MgO. Mg is limiting: 0.2057 &times; 40.31 = 8.29 g MgO.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.4_limiting_reactant.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "A sandwich shop's recipe is 2 slices of bread + 3 slices of turkey + 1 slice of cheese &rarr; 1 sandwich. The shop has 20 slices of bread, 24 slices of turkey, and 15 slices of cheese. How many sandwiches can it make, what is limiting, and what is left over?",
+  "answer": "Bread allows 20/2 = 10; turkey allows 24/3 = 8; cheese allows 15/1 = 15. Turkey makes the fewest, so turkey is limiting and 8 sandwiches can be made. Used: 16 bread, 24 turkey, 8 cheese. Left over: 20 &minus; 16 = 4 bread and 15 &minus; 8 = 7 cheese.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.4_limiting_reactant.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Ethanol burns: C 2 H 5 OH(l) + 3 O 2 (g) &rarr; 2 CO 2 (g) + 3 H 2 O(g). A burner holds 5.00 mL of ethanol (density 0.789 g/mL) and has 8.00 g of O 2 available. Which is limiting, and what mass of CO 2 can form? (C 2 H 5 OH 46.069, O 2 31.998, CO 2 44.009 g/mol)",
+  "answer": "Ethanol: 5.00 mL &times; 0.789 g/mL = 3.945 g; &divide; 46.069 = 0.08563 mol; &times; 2 = 0.1713 mol CO 2 . O 2 : 8.00 &divide; 31.998 = 0.2500 mol; &times; 2/3 = 0.1667 mol CO 2 . O 2 is limiting (just barely): 0.1667 mol &times; 44.009 g/mol = 7.34 g CO 2 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.5_percent_yield.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "A reaction has a theoretical yield of 45.0 g and an actual yield of 38.2 g. What is the percent yield?",
+  "answer": "38.2 &divide; 45.0 &times; 100% = 84.9%.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch08/8.5_percent_yield.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Heating 10.0 g of CaCO 3 (100.09 g/mol) gives 5.25 g of CaO (56.08 g/mol). What is the percent yield? CaCO 3 &rarr; CaO + CO 2",
+  "answer": "Theoretical: 10.0/100.09 &times; 56.08 = 5.603 g. Percent: 5.25/5.603 &times; 100% = 93.7%.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.5_percent_yield.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A student reports a 112% yield of a solid that was dried for only five minutes. What is the most likely explanation?",
+  "answer": "The product still contains water (it is not dry), so its mass is too high. Drying it longer would lower the measured mass and the percent yield.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.5_percent_yield.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Iron is made by Fe 2 O 3 + 3 CO &rarr; 2 Fe + 3 CO 2 . If 500. g of Fe 2 O 3 has a theoretical yield of 350. g of Fe (Section 8.2, Exercise 3) and the process runs at 92.0% yield, what mass of iron is actually produced?",
+  "answer": "Actual = 0.920 &times; 349.7 g = 322 g Fe. (Use the unrounded theoretical yield, 349.7 g, and round once at the end.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.5_percent_yield.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "In Section 8.4, Example 3, the theoretical yield of AlBr 3 was 20.7 g (Br 2 limiting). If 18.2 g of AlBr 3 is collected, what is the percent yield? A classmate instead divides 18.2 g by the 3.00 g of Al used. What is wrong with that?",
+  "answer": "18.2 g &divide; 20.69 g &times; 100% = 88.0%. Dividing by 3.00 g of Al compares the product with a reactant (and with the excess reactant, at that); the percent yield must compare actual and theoretical amounts of the same product, from the limiting reactant.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.6_enthalpy.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Is each exothermic or endothermic: (a) ΔH = +178 kJ; (b) a hand warmer heating up; (c) water evaporating from your skin?",
+  "answer": "(a) endothermic. (b) exothermic. (c) endothermic (it absorbs heat from your skin, which is why sweating cools you).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.6_enthalpy.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "For C 6 H 12 O 6 + 6 O 2 &rarr; 6 CO 2 + 6 H 2 O, ΔH = &minus;2803 kJ, how much heat is released by 9.00 g of glucose?",
+  "answer": "9.00/180.156 = 0.04996 mol; &times; 2803 kJ/mol = 140. kJ released.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.6_enthalpy.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "2 H 2 (g) + O 2 (g) &rarr; 2 H 2 O(l), ΔH = &minus;571.6 kJ. How much heat is released when 4.00 mol of H 2 reacts?",
+  "answer": "4.00 mol H 2 &times; 571.6 kJ / 2 mol H 2 = 1.14 &times; 10 3 kJ released.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.6_enthalpy.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Rewrite 2 H 2 (g) + O 2 (g) &rarr; 2 H 2 O(l), ΔH = &minus;571.6 kJ, with the heat written in the equation. Then write the conversion factor that links the heat to H 2 O.",
+  "answer": "2 H 2 (g) + O 2 (g) &rarr; 2 H 2 O(l) + 571.6 kJ (exothermic, so heat is a product). Conversion factor: 571.6 kJ released / 2 mol H 2 O (or its inverse).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.6_enthalpy.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Neutralization releases heat: NaOH(aq) + HCl(aq) &rarr; NaCl(aq) + H 2 O(l), ΔH = &minus;55.8 kJ. How much heat is released when 4.00 g of NaOH (40.00 g/mol) is neutralized by excess HCl?",
+  "answer": "Start with the given, 4.00 g NaOH: 4.00 g &times; (1 mol / 40.00 g) &times; (55.8 kJ / 1 mol NaOH) = 5.58 kJ released.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 8.1",
+  "question": "Natural gas contains a little ethane, C 2 H 6 , which burns by the reaction below. 2 C 2 H 6 (g) + 7 O 2 (g) &rarr; 4 CO 2 (g) + 6 H 2 O(g) Which conversion factor turns moles of ethane into moles of O 2 needed? A. \\( \\dfrac{7\\ \\text{mol O}_2}{2\\ \\text{mol C}_2\\text{H}_6} \\) B. \\( \\dfrac{2\\ \\text{mol C}_2\\text{H}_6}{7\\ \\text{mol O}_2} \\) C. \\( \\dfrac{1\\ \\text{mol O}_2}{1\\ \\text{mol C}_2\\text{H}_6} \\) D. \\( \\dfrac{7\\ \\text{g O}_2}{2\\ \\text{g C}_2\\text{H}_6} \\)",
+  "answer": "A. The coefficients say 2 mol C 2 H 6 react with 7 mol O 2 . To cancel mol C 2 H 6 and leave mol O 2 , put O 2 (the unit you want) on top. B is the same ratio flipped. It is a true ratio, but multiplying moles of ethane by it leaves mol C 2 H 6 2 /mol O 2 , not mol O 2 . C ignores the coefficients. A 1 : 1 ratio is only correct when both coefficients are equal. D treats the coefficients as grams. Coefficients count molecules and moles, not masses; an O 2 molecule and a C 2 H 6 molecule have different masses.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 8.2",
+  "question": "Some bottled-water plants disinfect water with ozone, made from oxygen by an electric discharge: 3 O 2 (g) &rarr; 2 O 3 (g) How many moles of ozone can be made from 0.0450 mol of O 2 ?",
+  "answer": "\\( 0.0450\\ \\text{mol O}_2 \\times \\dfrac{2\\ \\text{mol O}_3}{3\\ \\text{mol O}_2} = 0.0300\\ \\text{mol O}_3 \\) The answer is 0.0300 mol O 3 , three significant figures like 0.0450 (the mole ratio is exact). Fewer moles of O 3 form than moles of O 2 used, because each O 3 holds more oxygen atoms; the 0.135 mol of O atoms is the same on both sides.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 8.3",
+  "question": "The leaves of a Valley almond tree make glucose by photosynthesis: 6 CO 2 (g) + 6 H 2 O(l) &rarr; C 6 H 12 O 6 (aq) + 6 O 2 (g) A leaf sample makes 0.00250 mol of glucose. (a) How many moles of CO 2 did it absorb? (b) How many moles of O 2 did it release?",
+  "answer": "(a) \\( 0.00250\\ \\text{mol C}_6\\text{H}_{12}\\text{O}_6 \\times \\dfrac{6\\ \\text{mol CO}_2}{1\\ \\text{mol C}_6\\text{H}_{12}\\text{O}_6} = 0.0150\\ \\text{mol CO}_2 \\) (b) \\( 0.00250\\ \\text{mol C}_6\\text{H}_{12}\\text{O}_6 \\times \\dfrac{6\\ \\text{mol O}_2}{1\\ \\text{mol C}_6\\text{H}_{12}\\text{O}_6} = 0.0150\\ \\text{mol O}_2 \\) (a) 0.0150 mol CO 2 absorbed; (b) 0.0150 mol O 2 released. Photosynthesis is cellular respiration run backward, so the plant takes in one CO 2 for every O 2 it gives off.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 8.4",
+  "question": "Yeast ferment glucose into ethanol and carbon dioxide: C 6 H 12 O 6 (aq) &rarr; 2 C 2 H 5 OH(aq) + 2 CO 2 (g) How many moles of glucose must be fermented to make 3.40 mol of ethanol? A. 1.70 mol B. 6.80 mol C. 3.40 mol D. 0.567 mol",
+  "answer": "A. \\( 3.40\\ \\text{mol C}_2\\text{H}_5\\text{OH} \\times \\dfrac{1\\ \\text{mol C}_6\\text{H}_{12}\\text{O}_6}{2\\ \\text{mol C}_2\\text{H}_5\\text{OH}} = 1.70\\ \\text{mol C}_6\\text{H}_{12}\\text{O}_6 \\) Each glucose makes two ethanol molecules, so you need half as many moles of glucose as the ethanol you want. B uses the flipped ratio (2 mol glucose / 1 mol ethanol), which would need more glucose than ethanol made. C skips the mole ratio, as if 1 glucose made 1 ethanol. D divides by the subscript 6 in C 6 H 12 O 6 . Mole ratios between substances come from the coefficients, not from the subscripts inside a formula.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 8.5",
+  "question": "Aluminum cookware is protected by a thin layer of aluminum oxide that forms in air: 4 Al(s) + 3 O 2 (g) &rarr; 2 Al 2 O 3 (s) For 0.600 mol of Al, find (a) the moles of O 2 that react and (b) the moles of Al 2 O 3 that form.",
+  "answer": "(a) \\( 0.600\\ \\text{mol Al} \\times \\dfrac{3\\ \\text{mol O}_2}{4\\ \\text{mol Al}} = 0.450\\ \\text{mol O}_2 \\) (b) \\( 0.600\\ \\text{mol Al} \\times \\dfrac{2\\ \\text{mol Al}_2\\text{O}_3}{4\\ \\text{mol Al}} = 0.300\\ \\text{mol Al}_2\\text{O}_3 \\) (a) 0.450 mol O 2 ; (b) 0.300 mol Al 2 O 3 . Check with the atoms: 0.300 mol Al 2 O 3 holds 0.600 mol Al, all of the aluminum you started with.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 8.6",
+  "question": "Gasoline is mostly octane. In a farm truck's engine, octane burns completely by 2 C 8 H 18 (l) + 25 O 2 (g) &rarr; 16 CO 2 (g) + 18 H 2 O(g) For 0.880 mol of octane burned, how many moles of (a) O 2 are used, (b) CO 2 form, and (c) H 2 O form?",
+  "answer": "Every ratio has 2 mol C 8 H 18 on the bottom: (a) 0.880 mol &times; (25 mol O 2 / 2 mol C 8 H 18 ) = 11.0 mol O 2 (b) 0.880 mol &times; (16 mol CO 2 / 2 mol C 8 H 18 ) = 7.04 mol CO 2 (c) 0.880 mol &times; (18 mol H 2 O / 2 mol C 8 H 18 ) = 7.92 mol H 2 O Check (b) with the atoms: each octane has 8 C atoms, and 0.880 &times; 8 = 7.04 mol of C, which all ends up in CO 2 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 8.7",
+  "question": "Sulfur dioxide from burning fuels is turned into sulfur trioxide in the air: 2 SO 2 (g) + O 2 (g) &rarr; 2 SO 3 (g) Which statement is correct? A. 2 g of SO 2 react with 1 g of O 2 to make 2 g of SO 3 . B. 2 mol of SO 2 react with 1 mol of O 2 to make 2 mol of SO 3 . C. Moles are conserved, so 3 mol of reactants make 3 mol of products. D. 1 mol of SO 2 makes 2 mol of SO 3 .",
+  "answer": "B. Coefficients give mole ratios: 2 mol SO 2 : 1 mol O 2 : 2 mol SO 3 . A reads the coefficients as grams. Also, 2 g + 1 g = 3 g of reactants could not make only 2 g of product; mass is conserved. C: atoms and mass are conserved, but moles of molecules are not. Here 3 mol of reactant molecules make only 2 mol of product molecules. D misreads the ratio. SO 2 and SO 3 have the same coefficient, so 1 mol of SO 2 makes 1 mol of SO 3 .",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 8.8",
+  "question": "Iron metal reacts with chlorine gas to make iron(III) chloride. A student writes the unbalanced equation below and says 0.840 mol of Fe needs 0.840 mol of Cl 2 . Fe(s) + Cl 2 (g) &rarr; FeCl 3 (s) &nbsp;&nbsp; (unbalanced) (a) Balance the equation. (b) How many moles of Cl 2 does 0.840 mol of Fe really need? (c) How many moles of FeCl 3 form?",
+  "answer": "(a) FeCl 3 has 3 Cl atoms and Cl 2 has 2, so the smallest common count of Cl is 6: put 2 in front of FeCl 3 and 3 in front of Cl 2 , then 2 in front of Fe. 2 Fe(s) + 3 Cl 2 (g) &rarr; 2 FeCl 3 (s) (b) \\( 0.840\\ \\text{mol Fe} \\times \\dfrac{3\\ \\text{mol Cl}_2}{2\\ \\text{mol Fe}} = 1.26\\ \\text{mol Cl}_2 \\) (c) Fe and FeCl 3 have the same coefficient: 0.840 mol FeCl 3 . The student's 0.840 mol of Cl 2 came from the unbalanced equation, which has a 1 : 1 ratio that is not real. Balance first, every time; the correct amount, 1.26 mol Cl 2 , is 50% more.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 8.9",
+  "question": "A 473 mL bottle of 3% hydrogen peroxide, used to clean minor wounds, contains about 14.2 g of H 2 O 2 . The bubbles you see on a cut are oxygen, made as the enzyme catalase speeds up the decomposition below. What mass of O 2 could the whole bottle release? (H 2 O 2 34.014 g/mol; O 2 31.998 g/mol) 2 H 2 O 2 (aq) &rarr; 2 H 2 O(l) + O 2 (g)",
+  "answer": "\\( 14.2\\ \\text{g H}_2\\text{O}_2 \\times \\dfrac{1\\ \\text{mol H}_2\\text{O}_2}{34.014\\ \\text{g H}_2\\text{O}_2} \\times \\dfrac{1\\ \\text{mol O}_2}{2\\ \\text{mol H}_2\\text{O}_2} \\times \\dfrac{31.998\\ \\text{g O}_2}{1\\ \\text{mol O}_2} = 6.68\\ \\text{g O}_2 \\) The bottle could release at most 6.68 g of O 2 . Check: the rest of the mass, 14.2 &minus; 6.68 = 7.52 g, becomes water, which matches 0.4175 mol H 2 O &times; 18.015 g/mol = 7.52 g.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 8.10",
+  "question": "Alcohol-based hand sanitizer is flammable because ethanol burns: C 2 H 5 OH(l) + 3 O 2 (g) &rarr; 2 CO 2 (g) + 3 H 2 O(g) What mass of O 2 is needed to burn 5.00 g of ethanol? (C 2 H 5 OH 46.069 g/mol; O 2 31.998 g/mol) A. 10.4 g B. 3.47 g C. 1.16 g D. 31.3 g",
+  "answer": "A. \\( 5.00\\ \\text{g C}_2\\text{H}_5\\text{OH} \\times \\dfrac{1\\ \\text{mol C}_2\\text{H}_5\\text{OH}}{46.069\\ \\text{g}} \\times \\dfrac{3\\ \\text{mol O}_2}{1\\ \\text{mol C}_2\\text{H}_5\\text{OH}} \\times \\dfrac{31.998\\ \\text{g O}_2}{1\\ \\text{mol O}_2} = 10.4\\ \\text{g O}_2 \\) B leaves out the mole ratio (0.1085 mol &times; 31.998 g/mol), as if 1 mol of ethanol used 1 mol of O 2 . C uses the flipped ratio, 1 mol ethanol / 3 mol O 2 . D multiplies the molar mass of O 2 by the coefficient (3 &times; 31.998 = 95.994 g/mol) and uses the 3 : 1 mole ratio, counting the 3 twice. The molar mass of O 2 is always 31.998 g/mol.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 8.11",
+  "question": "Urea, CO(NH 2 ) 2 , is one of the most widely used nitrogen fertilizers on Valley crops. It is made from ammonia and carbon dioxide: 2 NH 3 (g) + CO 2 (g) &rarr; CO(NH 2 ) 2 (s) + H 2 O(l) What mass of urea can be made from 85.0 g of NH 3 with excess CO 2 ? (NH 3 17.031 g/mol; CO(NH 2 ) 2 60.056 g/mol)",
+  "answer": "\\( 85.0\\ \\text{g NH}_3 \\times \\dfrac{1\\ \\text{mol NH}_3}{17.031\\ \\text{g NH}_3} \\times \\dfrac{1\\ \\text{mol urea}}{2\\ \\text{mol NH}_3} \\times \\dfrac{60.056\\ \\text{g urea}}{1\\ \\text{mol urea}} = 150.\\ \\text{g urea} \\) The calculator shows 149.87, which rounds to three significant figures as 150. g . The decimal point matters: written as \"150 g,\" the zero would not be significant and the answer would look like it had only two significant figures.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 8.12",
+  "question": "An anesthesia machine recycles the patient's exhaled breath through a canister of CO 2 absorbent so that the carbon dioxide does not build up. Treat the absorbent as calcium hydroxide: Ca(OH) 2 (s) + CO 2 (g) &rarr; CaCO 3 (s) + H 2 O(l) What mass of CO 2 can 1.00 &times; 10 3 g of Ca(OH) 2 absorb? (Ca(OH) 2 74.09 g/mol; CO 2 44.009 g/mol)",
+  "answer": "\\( 1.00 \\times 10^{3}\\ \\text{g Ca(OH)}_2 \\times \\dfrac{1\\ \\text{mol Ca(OH)}_2}{74.09\\ \\text{g}} \\times \\dfrac{1\\ \\text{mol CO}_2}{1\\ \\text{mol Ca(OH)}_2} \\times \\dfrac{44.009\\ \\text{g CO}_2}{1\\ \\text{mol CO}_2} = 594\\ \\text{g CO}_2 \\) The canister can absorb about 594 g of CO 2 , roughly what a resting adult exhales in about a day. Real absorbents (soda lime) are mostly Ca(OH) 2 with a little water and NaOH, and a color indicator in the granules changes as they are used up. (Context only; follow the equipment and facility procedures.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 8.13",
+  "question": "What mass of O 2 do your cells need to completely oxidize 15.0 g of glucose? Check your answer with conservation of mass. (C 6 H 12 O 6 180.156 g/mol; O 2 31.998 g/mol; CO 2 44.009 g/mol; H 2 O 18.015 g/mol) C 6 H 12 O 6 (aq) + 6 O 2 (g) &rarr; 6 CO 2 (g) + 6 H 2 O(l)",
+  "answer": "\\( 15.0\\ \\text{g C}_6\\text{H}_{12}\\text{O}_6 \\times \\dfrac{1\\ \\text{mol C}_6\\text{H}_{12}\\text{O}_6}{180.156\\ \\text{g}} \\times \\dfrac{6\\ \\text{mol O}_2}{1\\ \\text{mol C}_6\\text{H}_{12}\\text{O}_6} \\times \\dfrac{31.998\\ \\text{g O}_2}{1\\ \\text{mol O}_2} = 16.0\\ \\text{g O}_2 \\) Your cells need 16.0 g of O 2 . Check: 0.08326 mol glucose makes 0.4996 mol each of CO 2 (22.0 g) and H 2 O (9.00 g). Reactants: 15.0 + 16.0 = 31.0 g. Products: 22.0 + 9.00 = 31.0 g. Mass is conserved.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 8.14",
+  "question": "Railroad crews weld steel rails with the thermite reaction, which makes molten iron: Fe 2 O 3 (s) + 2 Al(s) &rarr; Al 2 O 3 (s) + 2 Fe(l) What mass of aluminum reacts completely with 20.0 g of Fe 2 O 3 ? (Fe 2 O 3 159.70 g/mol; Al 26.98 g/mol) A. 6.76 g B. 1.69 g C. 3.38 g D. 40.0 g",
+  "answer": "A. \\( 20.0\\ \\text{g Fe}_2\\text{O}_3 \\times \\dfrac{1\\ \\text{mol Fe}_2\\text{O}_3}{159.70\\ \\text{g}} \\times \\dfrac{2\\ \\text{mol Al}}{1\\ \\text{mol Fe}_2\\text{O}_3} \\times \\dfrac{26.98\\ \\text{g Al}}{1\\ \\text{mol Al}} = 6.76\\ \\text{g Al} \\) B uses the flipped ratio, 1 mol Fe 2 O 3 / 2 mol Al. C leaves out the mole ratio (0.1252 mol &times; 26.98 g/mol). D skips moles entirely and treats the coefficients as grams: 20.0 g &times; 2 = 40.0 g. Grams of A never go straight to grams of B.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 8.15",
+  "question": "A student finds the mass of MgO made when 3.00 g of magnesium burns, 2 Mg(s) + O 2 (g) &rarr; 2 MgO(s), and writes \\( 3.00\\ \\text{g Mg} \\times \\dfrac{1\\ \\text{mol Mg}}{24.31\\ \\text{g}} \\times \\dfrac{2\\ \\text{mol MgO}}{2\\ \\text{mol Mg}} \\times \\dfrac{2(40.31)\\ \\text{g MgO}}{1\\ \\text{mol MgO}} = 9.95\\ \\text{g MgO} \\) (a) Find the mistake. (b) What is the correct mass? (c) How does conservation of mass show that 9.95 g is impossible? (Mg 24.31 g/mol; MgO 40.31 g/mol; O 2 31.998 g/mol)",
+  "answer": "(a) The student multiplied the molar mass by the coefficient. The coefficient 2 is already used in the mole ratio; the molar mass of MgO is 40.31 g/mol no matter what the equation says. (b) \\( 3.00\\ \\text{g Mg} \\times \\dfrac{1\\ \\text{mol Mg}}{24.31\\ \\text{g}} \\times \\dfrac{2\\ \\text{mol MgO}}{2\\ \\text{mol Mg}} \\times \\dfrac{40.31\\ \\text{g MgO}}{1\\ \\text{mol MgO}} = 4.97\\ \\text{g MgO} \\) (c) The O 2 used is 0.1234 mol Mg &times; (1/2) &times; 31.998 g/mol = 1.97 g, so the product can weigh only 3.00 + 1.97 = 4.97 g . To make 9.95 g, the magnesium would have to pick up 6.95 g of oxygen, more than three times what the equation allows.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 8.16",
+  "question": "In a classic lab demonstration, heating potassium chlorate with a manganese dioxide catalyst releases oxygen gas: 2 KClO 3 (s) &rarr; 2 KCl(s) + 3 O 2 (g) A sample of 4.90 g of KClO 3 decomposes completely. Find (a) the mass of O 2 released and (b) the mass of KCl left in the test tube. (KClO 3 122.55 g/mol; KCl 74.55 g/mol; O 2 31.998 g/mol)",
+  "answer": "Moles of KClO 3 : 4.90 g &divide; 122.55 g/mol = 0.03998 mol. (a) \\( 0.03998\\ \\text{mol KClO}_3 \\times \\dfrac{3\\ \\text{mol O}_2}{2\\ \\text{mol KClO}_3} \\times \\dfrac{31.998\\ \\text{g O}_2}{1\\ \\text{mol O}_2} = 1.92\\ \\text{g O}_2 \\) (b) \\( 0.03998\\ \\text{mol KClO}_3 \\times \\dfrac{2\\ \\text{mol KCl}}{2\\ \\text{mol KClO}_3} \\times \\dfrac{74.55\\ \\text{g KCl}}{1\\ \\text{mol KCl}} = 2.98\\ \\text{g KCl} \\) (a) 1.92 g O 2 ; (b) 2.98 g KCl . Check: 1.92 + 2.98 = 4.90 g, the mass you started with. The catalyst is not used up, so it is not part of the calculation.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 8.17",
+  "question": "An antacid tablet contains 0.312 g of aluminum hydroxide. What volume of 0.150 M HCl, in milliliters, can it neutralize? (Al(OH) 3 78.00 g/mol) Al(OH) 3 (s) + 3 HCl(aq) &rarr; AlCl 3 (aq) + 3 H 2 O(l)",
+  "answer": "\\( 0.312\\ \\text{g Al(OH)}_3 \\times \\dfrac{1\\ \\text{mol Al(OH)}_3}{78.00\\ \\text{g}} \\times \\dfrac{3\\ \\text{mol HCl}}{1\\ \\text{mol Al(OH)}_3} \\times \\dfrac{1\\ \\text{L}}{0.150\\ \\text{mol HCl}} = 0.0800\\ \\text{L} \\) 0.0800 L &times; 1000 mL/L = 80.0 mL of 0.150 M HCl. Dividing moles by molarity (mol/L) gives liters; convert to mL only at the end.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 8.18",
+  "question": "In Experiment 8a (Determination of the Gas Constant R), a 0.0365 g piece of magnesium ribbon reacts completely with excess hydrochloric acid. What volume of H 2 forms, corrected to STP? (Mg 24.31 g/mol) Mg(s) + 2 HCl(aq) &rarr; MgCl 2 (aq) + H 2 (g) A. 33.6 mL B. 67.3 mL C. 818 mL D. 33.6 L",
+  "answer": "A. \\( 0.0365\\ \\text{g Mg} \\times \\dfrac{1\\ \\text{mol Mg}}{24.31\\ \\text{g}} \\times \\dfrac{1\\ \\text{mol H}_2}{1\\ \\text{mol Mg}} \\times \\dfrac{22.4\\ \\text{L H}_2}{1\\ \\text{mol H}_2} = 0.0336\\ \\text{L} = 33.6\\ \\text{mL} \\) A few tens of milliliters is the right size for the gas-measuring tube used in the lab. B uses the 2 in front of HCl as the Mg-to-H 2 ratio. Mg and H 2 each have a coefficient of 1. C multiplies grams by 22.4 L/mol without converting to moles first (0.0365 &times; 22.4 = 0.818 L). The molar volume applies to moles of gas, not grams of metal. D is the right digits with the wrong unit: the calculation gives 0.0336 L , which is 33.6 mL, not 33.6 L.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 8.19",
+  "question": "Stomach acid is roughly 0.1 M HCl. What mass of sodium hydrogen carbonate (baking soda) reacts completely with 30.0 mL of 0.120 M HCl? (NaHCO 3 84.01 g/mol) NaHCO 3 (s) + HCl(aq) &rarr; NaCl(aq) + H 2 O(l) + CO 2 (g)",
+  "answer": "Convert mL to L first: 30.0 mL = 0.0300 L. \\( 0.0300\\ \\text{L} \\times \\dfrac{0.120\\ \\text{mol HCl}}{1\\ \\text{L}} \\times \\dfrac{1\\ \\text{mol NaHCO}_3}{1\\ \\text{mol HCl}} \\times \\dfrac{84.01\\ \\text{g NaHCO}_3}{1\\ \\text{mol NaHCO}_3} = 0.302\\ \\text{g NaHCO}_3 \\) The answer is 0.302 g of baking soda. The CO 2 it makes is why baking soda causes burping. (Context only; this is not dosing guidance.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 8.20",
+  "question": "In which case can a student correctly use 22.4 L/mol to convert between volume and moles? A. 2.00 L of N 2 gas at 0 &deg;C and 1.00 atm B. 2.00 L of CO 2 gas in a room at 25 &deg;C and 1.00 atm C. 2.00 L of 0.100 M HCl solution D. 2.00 L of liquid water at 0 &deg;C and 1.00 atm",
+  "answer": "A. 22.4 L/mol is the molar volume of an ideal gas at STP, 0 &deg;C (273 K) and 1 atm. Any gas works, but only at those conditions: 2.00 L &divide; 22.4 L/mol = 0.0893 mol N 2 . B is a gas, but not at STP. At 25 &deg;C a mole of gas takes up more room (about 24.5 L), so 22.4 L/mol would overcount the moles. Gases at other conditions need the gas laws of Chapter 10. C is a solution, not a gas. Use molarity: 2.00 L &times; 0.100 mol/L = 0.200 mol HCl. D is a liquid. Molar volume applies only to gases; 2.00 L of water is about 2.00 &times; 10 3 g, or 111 mol.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 8.21",
+  "question": "Limewater, a dilute solution of calcium hydroxide, is used to test for CO 2 in the lab. What volume of 0.100 M HCl, in milliliters, neutralizes 25.0 mL of 0.0200 M Ca(OH) 2 ? Ca(OH) 2 (aq) + 2 HCl(aq) &rarr; CaCl 2 (aq) + 2 H 2 O(l)",
+  "answer": "\\( 0.0250\\ \\text{L} \\times \\dfrac{0.0200\\ \\text{mol Ca(OH)}_2}{1\\ \\text{L}} \\times \\dfrac{2\\ \\text{mol HCl}}{1\\ \\text{mol Ca(OH)}_2} \\times \\dfrac{1\\ \\text{L}}{0.100\\ \\text{mol HCl}} = 0.0100\\ \\text{L} \\) The answer is 10.0 mL of HCl. Moles of Ca(OH) 2 : 0.000500 mol; moles of HCl needed: 0.00100 mol, twice as many, because each Ca(OH) 2 has two OH &minus; ions.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 8.22",
+  "question": "A snack provides 4.50 g of glucose. (a) What volume of O 2 , measured at STP, do your cells need to oxidize it completely? (b) What volume of CO 2 at STP do you exhale from it? (C 6 H 12 O 6 180.156 g/mol) C 6 H 12 O 6 (aq) + 6 O 2 (g) &rarr; 6 CO 2 (g) + 6 H 2 O(l)",
+  "answer": "(a) \\( 4.50\\ \\text{g C}_6\\text{H}_{12}\\text{O}_6 \\times \\dfrac{1\\ \\text{mol C}_6\\text{H}_{12}\\text{O}_6}{180.156\\ \\text{g}} \\times \\dfrac{6\\ \\text{mol O}_2}{1\\ \\text{mol C}_6\\text{H}_{12}\\text{O}_6} \\times \\dfrac{22.4\\ \\text{L}}{1\\ \\text{mol O}_2} = 3.36\\ \\text{L O}_2 \\) (b) CO 2 also has a coefficient of 6, so the same moles, 0.1499 mol, form, and at STP the same moles of any gas fill the same volume: 3.36 L of CO 2 . (a) 3.36 L O 2 . Equal volumes of O 2 used and CO 2 made give a respiratory quotient of 1.0, the value for burning pure carbohydrate (Section 8.1).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 8.23",
+  "question": "A water-quality lab tests for chloride by adding silver nitrate. What mass of silver chloride precipitates from 20.0 mL of 0.150 M CaCl 2 with excess AgNO 3 ? (AgCl 143.32 g/mol) CaCl 2 (aq) + 2 AgNO 3 (aq) &rarr; 2 AgCl(s) + Ca(NO 3 ) 2 (aq) A. 0.860 g B. 0.430 g C. 860. g D. 0.215 g",
+  "answer": "A. \\( 0.0200\\ \\text{L} \\times \\dfrac{0.150\\ \\text{mol CaCl}_2}{1\\ \\text{L}} \\times \\dfrac{2\\ \\text{mol AgCl}}{1\\ \\text{mol CaCl}_2} \\times \\dfrac{143.32\\ \\text{g AgCl}}{1\\ \\text{mol AgCl}} = 0.860\\ \\text{g AgCl} \\) B leaves out the 2 : 1 mole ratio. Each CaCl 2 carries two Cl &minus; ions, so it makes two AgCl. C multiplies the molarity by 20.0 mL instead of 0.0200 L, a thousand times too much. Molarity is moles per liter . D uses the flipped ratio, 1 mol AgCl / 2 mol CaCl 2 .",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 8.24",
+  "question": "A fertilizer plant makes ammonia from nitrogen and hydrogen, all measured at STP: N 2 (g) + 3 H 2 (g) &rarr; 2 NH 3 (g) To make 5.00 L of NH 3 , (a) what volume of H 2 and (b) what volume of N 2 are needed? (c) What mass of NH 3 is 5.00 L at STP? (NH 3 17.031 g/mol)",
+  "answer": "At the same temperature and pressure, every gas has the same molar volume, so the mole ratio is also a volume ratio. The 22.4 L/mol cancels out. (a) 5.00 L NH 3 &times; (3 L H 2 / 2 L NH 3 ) = 7.50 L H 2 (b) 5.00 L NH 3 &times; (1 L N 2 / 2 L NH 3 ) = 2.50 L N 2 (c) \\( 5.00\\ \\text{L NH}_3 \\times \\dfrac{1\\ \\text{mol NH}_3}{22.4\\ \\text{L}} \\times \\dfrac{17.031\\ \\text{g NH}_3}{1\\ \\text{mol NH}_3} = 3.80\\ \\text{g NH}_3 \\) (c) 3.80 g NH 3 . Notice 10.0 L of gas goes in and only 5.00 L comes out: volume, like moles of molecules, is not conserved, even though mass is.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 8.25",
+  "question": "A mixture of 10.0 g of H 2 and 10.0 g of O 2 is ignited: 2 H 2 (g) + O 2 (g) &rarr; 2 H 2 O(l). Which is the limiting reactant? (H 2 2.016 g/mol; O 2 31.998 g/mol) A. H 2 , because each H 2 molecule is much lighter than an O 2 molecule. B. O 2 , because it can make only 0.625 mol of H 2 O, while the H 2 could make 4.96 mol. C. Neither, because equal masses of the two reactants are present. D. H 2 , because the equation needs twice as much H 2 as O 2 .",
+  "answer": "B. Run each reactant to the same product: From H 2 : 10.0 g &divide; 2.016 g/mol = 4.960 mol H 2 &times; (2 mol H 2 O / 2 mol H 2 ) = 4.96 mol H 2 O. From O 2 : 10.0 g &divide; 31.998 g/mol = 0.3125 mol O 2 &times; (2 mol H 2 O / 1 mol O 2 ) = 0.625 mol H 2 O. O 2 makes less water, so it runs out first. Only 0.625 mol (11.3 g) of water forms, and 10.0 &minus; 1.26 = 8.74 g of H 2 is left over. A gets the logic backward: because H 2 molecules are so light, 10.0 g of H 2 is a huge number of moles, far more than the O 2 can use. C: equal masses are not equal moles, and even equal moles would not match a 2 : 1 recipe. D looks only at the coefficients. The recipe needs twice the moles of H 2 , but here there are almost 16 times as many moles of H 2 as O 2 .",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 8.26",
+  "question": "The first step in making nitric acid for fertilizers is 4 NH 3 (g) + 5 O 2 (g) &rarr; 4 NO(g) + 6 H 2 O(g) A reactor is loaded with 3.00 mol of NH 3 and 3.00 mol of O 2 . (a) Which reactant is limiting? (b) How many moles of NO form? (c) How many moles of the excess reactant are left?",
+  "answer": "(a) Moles of NO each reactant could make: From NH 3 : 3.00 mol &times; (4 mol NO / 4 mol NH 3 ) = 3.00 mol NO From O 2 : 3.00 mol &times; (4 mol NO / 5 mol O 2 ) = 2.40 mol NO O 2 is limiting , even though the moles of the two reactants are equal, because the recipe needs more O 2 (5) than NH 3 (4). (b) 2.40 mol NO . (c) NH 3 used: 3.00 mol O 2 &times; (4 mol NH 3 / 5 mol O 2 ) = 2.40 mol. Left: 3.00 &minus; 2.40 = 0.60 mol NH 3 (two decimal places, like 3.00 and 2.40).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 8.27",
+  "question": "A car's catalytic converter turns carbon monoxide into carbon dioxide: 2 CO(g) + O 2 (g) &rarr; 2 CO 2 (g). A particle diagram shows 8 CO molecules and 3 O 2 molecules before the reaction. Which describes the box after the reaction is over? A. 6 CO 2 molecules and 2 CO molecules B. 8 CO 2 molecules and no leftover molecules C. 3 CO 2 molecules and 5 CO molecules D. 6 CO 2 molecules and no leftover molecules",
+  "answer": "A. The 8 CO molecules would need 4 O 2 , but there are only 3, so O 2 is limiting. The 3 O 2 react with 6 CO and make 6 CO 2 ; 8 &minus; 6 = 2 CO molecules are left over. Count the atoms to check: before, 8 C and 8 + 6 = 14 O; after, 6 + 2 = 8 C and 12 + 2 = 14 O. B assumes all of the CO reacts. That would take 4 O 2 molecules, and only 3 are present. C uses a 1 : 1 ratio (each O 2 makes one CO 2 ). Each O 2 actually makes two CO 2 . D finds the right amount of product but forgets the excess reactant. Two CO molecules have nothing left to react with, and they are still in the box (atoms are not destroyed).",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 8.28",
+  "question": "A student adds a 0.100 g strip of magnesium to 10.0 mL of 1.00 M HCl. (a) Which reactant is limiting? (b) What volume of H 2 , at STP, forms? (c) How many moles of the excess reactant are left? (Mg 24.31 g/mol) Mg(s) + 2 HCl(aq) &rarr; MgCl 2 (aq) + H 2 (g)",
+  "answer": "(a) Moles of H 2 each reactant could make: From Mg: 0.100 g &divide; 24.31 g/mol = 0.004114 mol Mg &times; (1 mol H 2 / 1 mol Mg) = 0.004114 mol H 2 From HCl: 0.0100 L &times; 1.00 mol/L = 0.0100 mol HCl &times; (1 mol H 2 / 2 mol HCl) = 0.00500 mol H 2 Mg is limiting. (b) \\( 0.004114\\ \\text{mol H}_2 \\times \\dfrac{22.4\\ \\text{L}}{1\\ \\text{mol H}_2} = 0.0921\\ \\text{L} = 92.1\\ \\text{mL H}_2 \\) (c) HCl used: 0.004114 mol Mg &times; 2 = 0.008227 mol. Left: 0.0100 &minus; 0.00823 = 0.0018 mol HCl (1.8 mmol; the subtraction keeps four decimal places, like 0.0100). The solution stays acidic after the bubbling stops, a sign that the acid was in excess.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 8.29",
+  "question": "The table below lists four mixtures of nitrogen and hydrogen for the ammonia reaction, N 2 (g) + 3 H 2 (g) &rarr; 2 NH 3 (g). @media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } } Four nitrogen and hydrogen mixtures (blanks marked ?) Mixture N 2 (mol) H 2 (mol) Limiting reactant NH 3 formed (mol) Excess left (mol) 1 1.00 3.00 ? ? ? 2 2.00 3.00 ? ? ? 3 0.500 3.00 ? ? ? 4 1.50 6.00 ? ? ? Fill in each blank.",
+  "answer": "For each mixture, NH 3 from N 2 = mol N 2 &times; 2/1, and NH 3 from H 2 = mol H 2 &times; 2/3. The smaller answer wins. Mixture 1: 2.00 mol NH 3 from either reactant. The amounts match the recipe exactly, so neither is in excess: 2.00 mol NH 3 , nothing left. Mixture 2: 4.00 from N 2 , 2.00 from H 2 . H 2 limits : 2.00 mol NH 3 . N 2 used = 3.00 &times; 1/3 = 1.00 mol, so 1.00 mol N 2 is left. Mixture 3: 1.00 from N 2 , 2.00 from H 2 . N 2 limits : 1.00 mol NH 3 . H 2 used = 0.500 &times; 3 = 1.50 mol, so 1.50 mol H 2 is left. Mixture 4: 3.00 from N 2 , 4.00 from H 2 . N 2 limits : 3.00 mol NH 3 . H 2 used = 1.50 &times; 3 = 4.50 mol, so 1.50 mol H 2 is left. Mixtures 1 and 2 have the same H 2 and make the same ammonia: once H 2 limits, adding more N 2 only adds leftovers.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 8.30",
+  "question": "Iron filings are heated with powdered sulfur: Fe(s) + S(s) &rarr; FeS(s). A student uses 5.00 g of Fe and 3.50 g of S. Which reactant is limiting, and what mass of FeS can form? (Fe 55.85 g/mol; S 32.06 g/mol; FeS 87.91 g/mol) A. Fe is limiting; 7.87 g of FeS B. S is limiting; 9.60 g of FeS C. Fe is limiting; 9.60 g of FeS D. Neither is limiting; 8.50 g of FeS",
+  "answer": "A. FeS from each reactant (1 : 1 ratios): From Fe: 5.00 g &divide; 55.85 g/mol = 0.08953 mol Fe &rarr; 0.08953 mol FeS &times; 87.91 g/mol = 7.87 g From S: 3.50 g &divide; 32.06 g/mol = 0.1092 mol S &rarr; 0.1092 mol FeS &times; 87.91 g/mol = 9.60 g Fe makes less, so Fe is limiting and 7.87 g of FeS forms. Sulfur left: 3.50 &minus; (0.08953 mol &times; 32.06 g/mol) = 3.50 &minus; 2.87 = 0.63 g. B picks sulfur because it has the smaller mass. Mass is not moles: sulfur atoms are lighter, so 3.50 g of S is actually more moles than 5.00 g of Fe. C names the right limiting reactant but then calculates the product from the excess reactant. The product amount must come from the limiting reactant. D simply adds the two masses, assuming everything reacts. That is only true when the amounts match the recipe; here 0.63 g of sulfur is left over.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 8.31",
+  "question": "A 0.350 g piece of aluminum foil is dropped into a blue solution that contains 2.00 g of copper(II) chloride. Reddish copper metal forms as the blue color fades. 2 Al(s) + 3 CuCl 2 (aq) &rarr; 2 AlCl 3 (aq) + 3 Cu(s) (a) Which reactant is limiting? (b) What mass of Cu forms? (c) What mass of the excess reactant is left? (Al 26.98 g/mol; CuCl 2 134.45 g/mol; Cu 63.55 g/mol)",
+  "answer": "(a) Moles of Cu each reactant could make: From Al: 0.350 g &divide; 26.98 g/mol = 0.01297 mol Al &times; (3 mol Cu / 2 mol Al) = 0.01946 mol Cu From CuCl 2 : 2.00 g &divide; 134.45 g/mol = 0.01488 mol CuCl 2 &times; (3 mol Cu / 3 mol CuCl 2 ) = 0.01488 mol Cu CuCl 2 is limiting , so the blue color (from Cu 2+ ) disappears completely. (b) \\( 0.01488\\ \\text{mol Cu} \\times \\dfrac{63.55\\ \\text{g Cu}}{1\\ \\text{mol Cu}} = 0.945\\ \\text{g Cu} \\) (c) Al used: \\( 0.01488\\ \\text{mol CuCl}_2 \\times \\dfrac{2\\ \\text{mol Al}}{3\\ \\text{mol CuCl}_2} \\times \\dfrac{26.98\\ \\text{g Al}}{1\\ \\text{mol Al}} = 0.268\\ \\text{g Al} \\) (b) 0.945 g Cu ; (c) Al left: 0.350 &minus; 0.268 = 0.082 g Al (subtraction keeps three decimal places), a small piece of foil that stays shiny.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 8.32",
+  "question": "A small ammonia reactor is loaded with 50.0 g of N 2 and 15.0 g of H 2 : N 2 (g) + 3 H 2 (g) &rarr; 2 NH 3 (g). (a) Which reactant is limiting? (b) What mass of NH 3 can form? (c) What mass of the excess reactant is left? (N 2 28.014 g/mol; H 2 2.016 g/mol; NH 3 17.031 g/mol)",
+  "answer": "(a) Moles of NH 3 each reactant could make: From N 2 : 50.0 g &divide; 28.014 g/mol = 1.785 mol N 2 &times; (2/1) = 3.570 mol NH 3 From H 2 : 15.0 g &divide; 2.016 g/mol = 7.440 mol H 2 &times; (2/3) = 4.960 mol NH 3 N 2 is limiting , even though it is the larger mass. (b) \\( 3.570\\ \\text{mol NH}_3 \\times \\dfrac{17.031\\ \\text{g NH}_3}{1\\ \\text{mol NH}_3} = 60.8\\ \\text{g NH}_3 \\) (c) H 2 used: 1.785 mol N 2 &times; 3 = 5.354 mol &times; 2.016 g/mol = 10.79 g. Left: 15.0 &minus; 10.79 = 4.2 g H 2 (one decimal place, like 15.0). (b) 60.8 g NH 3 . Check: 50.0 g N 2 + 10.79 g H 2 used = 60.8 g of ammonia.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 8.33",
+  "question": "Biogas from a dairy digester contains some hydrogen sulfide, which burns to sulfur dioxide: 2 H 2 S(g) + 3 O 2 (g) &rarr; 2 SO 2 (g) + 2 H 2 O(g) If 2.0 mol of H 2 S and 2.4 mol of O 2 react, which reactant is limiting, and how many moles of SO 2 form? A. O 2 ; 1.6 mol SO 2 B. H 2 S; 2.0 mol SO 2 C. O 2 ; 3.6 mol SO 2 D. H 2 S; 1.6 mol SO 2",
+  "answer": "A. From H 2 S: 2.0 mol &times; (2 mol SO 2 / 2 mol H 2 S) = 2.0 mol SO 2 . From O 2 : 2.4 mol &times; (2 mol SO 2 / 3 mol O 2 ) = 1.6 mol SO 2 . O 2 makes less, so it is limiting; 1.6 mol SO 2 forms, and 2.0 &minus; 1.6 = 0.4 mol H 2 S is left. B compares the moles of reactants directly: 2.0 &lt; 2.4, so \"H 2 S runs out first.\" That shortcut ignores the 2 : 3 recipe, which needs 3.0 mol O 2 for 2.0 mol H 2 S. C finds the right limiting reactant but uses the flipped ratio, 2.4 &times; 3/2. D has the right amount of product but names the wrong limiting reactant. The reactant that gives the smaller amount of product is the limiting one, and here that is O 2 .",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 8.34",
+  "question": "A student recovers copper metal from a copper(II) sulfate solution. The theoretical yield is 12.4 g, and the student collects 10.9 g of dry copper. What is the percent yield?",
+  "answer": "\\( \\text{percent yield} = \\dfrac{10.9\\ \\text{g}}{12.4\\ \\text{g}} \\times 100\\% = 87.9\\% \\) The percent yield is 87.9% . The actual yield is a little less than the theoretical, so the answer is a little less than 100%, as expected.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 8.35",
+  "question": "Acetaminophen, the pain reliever in Tylenol, can be made in a teaching lab from 4-aminophenol and excess acetic anhydride: C 6 H 7 NO(s) + C 4 H 6 O 3 (l) &rarr; C 8 H 9 NO 2 (s) + C 2 H 4 O 2 (l) Starting with 2.75 g of 4-aminophenol, a student collects 3.02 g of dry acetaminophen. What is the percent yield? (C 6 H 7 NO 109.128 g/mol; C 8 H 9 NO 2 151.165 g/mol) A. 79.3% B. 126% C. 110.% D. 3.81%",
+  "answer": "A. Theoretical yield, from the limiting reactant (4-aminophenol): \\( 2.75\\ \\text{g C}_6\\text{H}_7\\text{NO} \\times \\dfrac{1\\ \\text{mol C}_6\\text{H}_7\\text{NO}}{109.128\\ \\text{g}} \\times \\dfrac{1\\ \\text{mol C}_8\\text{H}_9\\text{NO}_2}{1\\ \\text{mol C}_6\\text{H}_7\\text{NO}} \\times \\dfrac{151.165\\ \\text{g}}{1\\ \\text{mol C}_8\\text{H}_9\\text{NO}_2} = 3.81\\ \\text{g} \\) Percent yield: 3.02 g &divide; 3.81 g &times; 100% = 79.3% . B divides theoretical by actual (3.81 &divide; 3.02). The ratio is always actual &divide; theoretical, and a result above 100% should make you check. C compares the product mass with the starting mass (3.02 &divide; 2.75). The product molecule is heavier than the starting molecule, so grams of product and grams of reactant cannot be compared without going through moles. D reports the theoretical yield, 3.81 g, as if it were the percent. The theoretical yield is only the first step.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 8.36",
+  "question": "In Experiment 11a (Synthesis of Alum), each Al atom ends up in one formula unit of alum, KAl(SO 4 ) 2 &middot;12H 2 O (474.37 g/mol), so 1 mol Al gives at most 1 mol alum. The table below gives four students' results. (Al 26.98 g/mol) Alum synthesis results for four students (blanks marked ?) Student Mass of Al used (g) Mass of alum collected (g) Theoretical yield (g) Percent yield A 0.455 6.84 ? ? B 0.512 6.66 ? ? C 0.546 9.98 ? ? D 0.626 8.97 ? ? (a) Fill in each blank. (b) Which result needs a second look, and what is the most likely reason?",
+  "answer": "(a) Theoretical yield = g Al &divide; 26.98 g/mol &times; (1 mol alum / 1 mol Al) &times; 474.37 g/mol; percent yield = collected &divide; theoretical &times; 100%. Student A: 0.455 g Al &rarr; 0.01686 mol &rarr; 8.00 g ; 6.84 &divide; 8.00 &times; 100% = 85.5% Student B: 0.512 g Al &rarr; 0.01898 mol &rarr; 9.00 g ; 6.66 &divide; 9.00 &times; 100% = 74.0% Student C: 0.546 g Al &rarr; 0.02024 mol &rarr; 9.60 g ; 9.98 &divide; 9.60 &times; 100% = 104% Student D: 0.626 g Al &rarr; 0.02320 mol &rarr; 11.0 g ; 8.97 &divide; 11.0 &times; 100% = 81.5% (b) Student C. A yield above 100% is impossible for a pure, dry product. The most likely cause is crystals that are still wet (extra water adds mass); impurities trapped in the crystals can also raise the mass. Drying the crystals longer and weighing again should bring the yield below 100%. Student B's lower yield is reasonable: crystals lost in the filtrate or left on the glassware lower the yield.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 8.37",
+  "question": "In a crucible lab, 0.486 g of magnesium ribbon is heated in air until it has all burned: 2 Mg(s) + O 2 (g) &rarr; 2 MgO(s). The crucible contents weigh 0.752 g afterward. What is the percent yield of MgO? (Mg 24.31 g/mol; MgO 40.31 g/mol)",
+  "answer": "\\( 0.486\\ \\text{g Mg} \\times \\dfrac{1\\ \\text{mol Mg}}{24.31\\ \\text{g}} \\times \\dfrac{2\\ \\text{mol MgO}}{2\\ \\text{mol Mg}} \\times \\dfrac{40.31\\ \\text{g MgO}}{1\\ \\text{mol MgO}} = 0.806\\ \\text{g MgO} \\) \\( \\text{percent yield} = \\dfrac{0.752\\ \\text{g}}{0.806\\ \\text{g}} \\times 100\\% = 93.3\\% \\) The percent yield is 93.3% . A common reason for a low yield in this lab is that some magnesium reacts with nitrogen in the air (making Mg 3 N 2 ), or some white smoke of MgO escapes when the lid is lifted.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 8.38",
+  "question": "A student reports a 108% yield of a solid product. Which explanation fits a yield above 100%? A. The product was weighed before it was completely dry. B. Some crystals were left on the filter paper. C. A side reaction made a different product from some of the reactant. D. The theoretical yield was calculated from the limiting reactant.",
+  "answer": "A. Water still in the product adds mass that is not product, so the \"actual yield\" is too high and can push the percent above 100%. B loses product, which lowers the yield. C turns some reactant into something else, which also lowers the yield of the product you want. D is the correct way to find the theoretical yield, so it cannot explain an error. (Using the excess reactant would make the theoretical yield too big and the percent yield too small.)",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 8.39",
+  "question": "A student needs 5.00 g of aspirin for a later experiment, and the aspirin synthesis usually gives a 75.0% yield. What mass of salicylic acid should the student start with? (C 7 H 6 O 3 138.122 g/mol; C 9 H 8 O 4 180.159 g/mol) C 7 H 6 O 3 (s) + C 4 H 6 O 3 (l) &rarr; C 9 H 8 O 4 (s) + C 2 H 4 O 2 (l)",
+  "answer": "Work backward. First find the theoretical yield that gives 5.00 g actual at 75.0%: \\( \\text{theoretical yield} = \\dfrac{\\text{actual yield}}{\\text{percent yield}} \\times 100\\% = \\dfrac{5.00\\ \\text{g}}{75.0\\%} \\times 100\\% = 6.667\\ \\text{g aspirin} \\) \\( 6.667\\ \\text{g C}_9\\text{H}_8\\text{O}_4 \\times \\dfrac{1\\ \\text{mol C}_9\\text{H}_8\\text{O}_4}{180.159\\ \\text{g}} \\times \\dfrac{1\\ \\text{mol C}_7\\text{H}_6\\text{O}_3}{1\\ \\text{mol C}_9\\text{H}_8\\text{O}_4} \\times \\dfrac{138.122\\ \\text{g}}{1\\ \\text{mol C}_7\\text{H}_6\\text{O}_3} = 5.11\\ \\text{g C}_7\\text{H}_6\\text{O}_3 \\) Start with 5.11 g of salicylic acid . Check: a 75.0% yield means you must aim for more product than you need, so the theoretical yield (6.67 g) is larger than 5.00 g.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 8.40",
+  "question": "A student mixes a solution containing 1.25 g of sodium carbonate with a solution containing 1.50 g of calcium chloride, then filters, dries, and weighs 1.05 g of calcium carbonate. Na 2 CO 3 (aq) + CaCl 2 (aq) &rarr; CaCO 3 (s) + 2 NaCl(aq) (a) Which reactant is limiting? (b) What is the theoretical yield of CaCO 3 ? (c) What is the percent yield? (Na 2 CO 3 105.99 g/mol; CaCl 2 110.98 g/mol; CaCO 3 100.09 g/mol)",
+  "answer": "(a) All the ratios are 1 : 1. Na 2 CO 3 : 1.25 g &divide; 105.99 g/mol = 0.01179 mol; CaCl 2 : 1.50 g &divide; 110.98 g/mol = 0.01352 mol. Each makes the same moles of CaCO 3 , so Na 2 CO 3 is limiting (0.01179 &lt; 0.01352). (b) \\( 0.01179\\ \\text{mol Na}_2\\text{CO}_3 \\times \\dfrac{1\\ \\text{mol CaCO}_3}{1\\ \\text{mol Na}_2\\text{CO}_3} \\times \\dfrac{100.09\\ \\text{g CaCO}_3}{1\\ \\text{mol CaCO}_3} = 1.18\\ \\text{g CaCO}_3 \\) (c) \\( \\dfrac{1.05\\ \\text{g}}{1.18\\ \\text{g}} \\times 100\\% = 89.0\\% \\) (b) 1.18 g ; (c) 89.0% . If you had used the excess CaCl 2 , you would get a theoretical yield of 1.35 g and a percent yield that is too low (77.6%).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 8.41",
+  "question": "A drug is made in two steps. Step 1 has an 80.0% yield, and step 2 has a 90.0% yield. What is the overall percent yield from the starting material to the drug? A. 72.0% B. 85.0% C. 90.0% D. 170.%",
+  "answer": "A. Step 2 can only work on the 80.0% that step 1 made, so multiply the fractions: 0.800 &times; 0.900 = 0.720, or 72.0% . B averages the two yields. Losses build on each other, so the overall yield is lower than either step. C uses only the last step and ignores the product lost in step 1. D adds the yields. No yield can be above 100%.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 8.42",
+  "question": "A sports-medicine hot pack contains calcium chloride and a pouch of water. When the pouch breaks, the CaCl 2 dissolves and the pack warms up. Which statement is correct? A. The process is exothermic: ΔH is negative, and heat flows from the pack into the skin. B. The process is endothermic: ΔH is positive, and heat flows from the pack into the skin. C. The process is exothermic: ΔH is positive, because heat is produced. D. The process is endothermic: ΔH is negative, and heat flows from the skin into the pack.",
+  "answer": "A. The pack gets warm, so the process releases heat to its surroundings (the pack's contents, then your skin). Heat released means exothermic and a negative ΔH. B pairs \"endothermic\" with warming. An endothermic process absorbs heat and feels cold, like an instant cold pack. C gets the sign backward. ΔH is the change in the system's enthalpy; when the system gives heat away, its enthalpy goes down, so ΔH is negative. D describes a cold pack (heat flowing from the skin into the pack), which would be endothermic with a positive ΔH, so both halves are wrong for a hot pack.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 8.43",
+  "question": "A propane patio heater burns fuel from a 1-pound (454 g) cylinder. How much heat does the whole cylinder release? (C 3 H 8 44.097 g/mol) C 3 H 8 (g) + 5 O 2 (g) &rarr; 3 CO 2 (g) + 4 H 2 O(l) &nbsp;&nbsp; ΔH = &minus;2.220 &times; 10 3 kJ",
+  "answer": "\\( 454\\ \\text{g C}_3\\text{H}_8 \\times \\dfrac{1\\ \\text{mol C}_3\\text{H}_8}{44.097\\ \\text{g}} \\times \\dfrac{2.220 \\times 10^{3}\\ \\text{kJ released}}{1\\ \\text{mol C}_3\\text{H}_8} = 2.29 \\times 10^{4}\\ \\text{kJ released} \\) The cylinder releases 2.29 &times; 10 4 kJ (22,900 kJ). Scientific notation shows the three significant figures. Check: 454 g is about 10 mol of propane, and 10 &times; 2.220 &times; 10 3 kJ is about 2.2 &times; 10 4 kJ. Unvented heaters also use up O 2 and can make carbon monoxide if combustion is incomplete, which is why they need fresh air.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 8.44",
+  "question": "Hydrogen fuel-cell buses burn hydrogen without a flame, but the overall reaction and its heat are the same as for burning: 2 H 2 (g) + O 2 (g) &rarr; 2 H 2 O(l) &nbsp;&nbsp; ΔH = &minus;571.6 kJ How much energy is released by 5.00 g of H 2 ? (H 2 2.016 g/mol) A. 709 kJ released B. 1.42 &times; 10 3 kJ released C. 709 kJ absorbed D. 2.86 &times; 10 3 kJ released",
+  "answer": "A. The ΔH goes with 2 mol of H 2 , the coefficient in the equation as written: \\( 5.00\\ \\text{g H}_2 \\times \\dfrac{1\\ \\text{mol H}_2}{2.016\\ \\text{g}} \\times \\dfrac{571.6\\ \\text{kJ released}}{2\\ \\text{mol H}_2} = 709\\ \\text{kJ released} \\) B ignores the coefficient and uses 571.6 kJ per 1 mol of H 2 , doubling the answer. C has the right size but the wrong direction. A negative ΔH means heat is released, not absorbed. D skips moles and multiplies grams by ΔH (5.00 &times; 571.6). ΔH is per mole, so convert grams to moles first.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 8.45",
+  "question": "Agricultural lime (CaO) is made by heating limestone in a kiln: CaCO 3 (s) &rarr; CaO(s) + CO 2 (g) &nbsp;&nbsp; ΔH = +178 kJ How much heat must be supplied to decompose 2.50 &times; 10 3 g of CaCO 3 ? Is the heat released or absorbed? (CaCO 3 100.09 g/mol)",
+  "answer": "\\( 2.50 \\times 10^{3}\\ \\text{g CaCO}_3 \\times \\dfrac{1\\ \\text{mol CaCO}_3}{100.09\\ \\text{g}} \\times \\dfrac{178\\ \\text{kJ absorbed}}{1\\ \\text{mol CaCO}_3} = 4.45 \\times 10^{3}\\ \\text{kJ absorbed} \\) The reaction must absorb 4.45 &times; 10 3 kJ . A positive ΔH means endothermic: the kiln has to keep supplying heat, usually by burning fuel, or the decomposition stops.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 8.46",
+  "question": "A bottle of sports drink contains 36.0 g of sugar. Treat it all as glucose. (a) How many kilojoules does your body get from oxidizing it completely? (b) Convert to food Calories (1 Cal = 4.184 kJ). (C 6 H 12 O 6 180.156 g/mol) C 6 H 12 O 6 (s) + 6 O 2 (g) &rarr; 6 CO 2 (g) + 6 H 2 O(l) &nbsp;&nbsp; ΔH = &minus;2803 kJ",
+  "answer": "(a) \\( 36.0\\ \\text{g} \\times \\dfrac{1\\ \\text{mol C}_6\\text{H}_{12}\\text{O}_6}{180.156\\ \\text{g}} \\times \\dfrac{2803\\ \\text{kJ released}}{1\\ \\text{mol C}_6\\text{H}_{12}\\text{O}_6} = 560.\\ \\text{kJ released} \\) (b) \\( 560.1\\ \\text{kJ} \\times \\dfrac{1\\ \\text{Cal}}{4.184\\ \\text{kJ}} = 134\\ \\text{Cal} \\) (a) 560. kJ (the decimal point shows three significant figures); (b) 134 Cal . Check with the label rule of about 4 Cal per gram of carbohydrate: 36.0 g &times; 4 Cal/g &asymp; 140 Cal, close to the 134 Cal found here (glucose gives a little less than 4 Cal per gram).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 8.47",
+  "question": "The thermochemical equation for making ammonia is N 2 (g) + 3 H 2 (g) &rarr; 2 NH 3 (g) &nbsp;&nbsp; ΔH = &minus;92.2 kJ What is ΔH for 4 NH 3 (g) &rarr; 2 N 2 (g) + 6 H 2 (g)? A. +184.4 kJ B. &minus;184.4 kJ C. +92.2 kJ D. &minus;46.1 kJ",
+  "answer": "A. The new equation is the original reversed (change the sign: +92.2 kJ) and doubled (double the size: 2 &times; 92.2 = 184.4 kJ). ΔH = +184.4 kJ ; breaking ammonia apart is endothermic. B doubles the equation but forgets that reversing it changes the sign. C reverses the equation but forgets to double ΔH for twice the moles. D is ΔH per mole of NH 3 formed (&minus;92.2 &divide; 2), which answers a different question.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 8.48",
+  "question": "An instant cold pack for a sprained ankle contains 40.0 g of ammonium nitrate, which absorbs heat as it dissolves in the pack's water. How much heat does the pack absorb from its surroundings? (NH 4 NO 3 80.043 g/mol) NH 4 NO 3 (s) &rarr; NH 4 + (aq) + NO 3 &minus; (aq) &nbsp;&nbsp; ΔH = +25.7 kJ",
+  "answer": "\\( 40.0\\ \\text{g NH}_4\\text{NO}_3 \\times \\dfrac{1\\ \\text{mol NH}_4\\text{NO}_3}{80.043\\ \\text{g}} \\times \\dfrac{25.7\\ \\text{kJ absorbed}}{1\\ \\text{mol NH}_4\\text{NO}_3} = 12.8\\ \\text{kJ absorbed} \\) The pack absorbs 12.8 kJ . Because the dissolving is endothermic, the heat comes from the water in the pack and from the skin it touches, which is why the pack feels cold. (Context only; follow the product directions and your care team's advice.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 8.49",
+  "question": "A Valley dairy digester produces methane that is burned to run a generator. How much heat is released by burning 250. L of CH 4 measured at STP? CH 4 (g) + 2 O 2 (g) &rarr; CO 2 (g) + 2 H 2 O(l) &nbsp;&nbsp; ΔH = &minus;890.3 kJ",
+  "answer": "\\( 250.\\ \\text{L CH}_4 \\times \\dfrac{1\\ \\text{mol CH}_4}{22.4\\ \\text{L}} \\times \\dfrac{890.3\\ \\text{kJ released}}{1\\ \\text{mol CH}_4} = 9.94 \\times 10^{3}\\ \\text{kJ released} \\) Burning the methane releases 9.94 &times; 10 3 kJ . The decimal point in \"250. L\" makes all three digits significant; the gas volume goes to moles with 22.4 L/mol (STP only), then to kilojoules with ΔH.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 8.50",
+  "question": "Calcium phosphate, the main mineral in bone and tooth enamel, precipitates when aqueous calcium chloride is mixed with aqueous sodium phosphate. A student mixes solutions containing 1.11 g of calcium chloride and 1.64 g of sodium phosphate and collects 0.952 g of dry calcium phosphate. (a) Write the formulas of the three named compounds (Chapter 4). (b) Write the balanced equation; the other product is aqueous sodium chloride. (c) Which reactant is limiting? (d) Find the theoretical yield and (e) the percent yield. (CaCl 2 110.98 g/mol; Na 3 PO 4 163.94 g/mol; Ca 3 (PO 4 ) 2 310.17 g/mol)",
+  "answer": "(a) Ca 2+ with Cl &minus; : CaCl 2 . Na + with PO 4 3&minus; : Na 3 PO 4 . Ca 2+ with PO 4 3&minus; : 3 Ca 2+ (6+) balance 2 PO 4 3&minus; (6&minus;), Ca 3 (PO 4 ) 2 . (b) Balance Ca (3) and PO 4 (2) first, then Na and Cl (6 each): 3 CaCl 2 (aq) + 2 Na 3 PO 4 (aq) &rarr; Ca 3 (PO 4 ) 2 (s) + 6 NaCl(aq) (c) Moles of Ca 3 (PO 4 ) 2 each reactant could make: From CaCl 2 : 1.11 g &divide; 110.98 g/mol = 0.01000 mol &times; (1/3) = 0.003334 mol From Na 3 PO 4 : 1.64 g &divide; 163.94 g/mol = 0.01000 mol &times; (1/2) = 0.005002 mol The reactants are present in equal moles, but the recipe needs 3 CaCl 2 for every 2 Na 3 PO 4 , so CaCl 2 is limiting . (d) \\( 0.003334\\ \\text{mol} \\times \\dfrac{310.17\\ \\text{g Ca}_3(\\text{PO}_4)_2}{1\\ \\text{mol}} = 1.034\\ \\text{g} \\rightarrow 1.03\\ \\text{g} \\) (e) \\( \\dfrac{0.952\\ \\text{g}}{1.034\\ \\text{g}} \\times 100\\% = 92.1\\% \\) (d) 1.03 g ; (e) 92.1% . Carry the extra digit (1.034 g) into the percent-yield step and round once at the end; dividing by the rounded 1.03 g gives 92.4%.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 8.51",
+  "question": "A camping stove is tested with 22.0 g of propane, C 3 H 8 , and only 64.0 g of O 2 . (a) Write the balanced equation for the complete combustion of propane. (b) Which reactant is limiting? (c) What mass of CO 2 forms? (d) How much heat is released? (e) What mass of the excess reactant is left? (C 3 H 8 44.097 g/mol; O 2 31.998 g/mol; CO 2 44.009 g/mol; ΔH = &minus;2.220 &times; 10 3 kJ for the equation as written in part (a))",
+  "answer": "(a) Complete combustion makes CO 2 and H 2 O. Balance C (3), then H (8, so 4 H 2 O), then O (6 + 4 = 10, so 5 O 2 ): C 3 H 8 (g) + 5 O 2 (g) &rarr; 3 CO 2 (g) + 4 H 2 O(l) (b) Moles of CO 2 each reactant could make: From C 3 H 8 : 22.0 g &divide; 44.097 g/mol = 0.4989 mol &times; (3/1) = 1.497 mol CO 2 From O 2 : 64.0 g &divide; 31.998 g/mol = 2.000 mol &times; (3/5) = 1.200 mol CO 2 O 2 is limiting , even though its mass is almost three times the propane's mass. (c) 1.200 mol CO 2 &times; 44.009 g/mol = 52.8 g CO 2 . (d) \\( 2.000\\ \\text{mol O}_2 \\times \\dfrac{2.220 \\times 10^{3}\\ \\text{kJ released}}{5\\ \\text{mol O}_2} = 888\\ \\text{kJ released} \\) The heat must come from the limiting reactant too: the 0.4989 mol of propane could release 1.11 &times; 10 3 kJ, but only 888 kJ is released because the oxygen runs out. (e) Propane used: 2.000 mol O 2 &times; (1/5) = 0.4000 mol &times; 44.097 g/mol = 17.64 g. Left: 22.0 &minus; 17.64 = 4.4 g C 3 H 8 . In a real stove, too little oxygen also leads to incomplete combustion and carbon monoxide.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 8.52",
+  "question": "Ammonium sulfate, a fertilizer used on Valley orchards, is made from ammonia and sulfuric acid. A plant test run uses 34.0 g of NH 3 and 49.0 g of H 2 SO 4 and collects 61.5 g of product. (a) Write the formula of ammonium sulfate and the balanced equation (it is the only product). (b) Which reactant is limiting? (c) Find the theoretical yield and (d) the percent yield. (e) What mass of the excess reactant is left? (NH 3 17.031 g/mol; H 2 SO 4 98.07 g/mol; (NH 4 ) 2 SO 4 132.13 g/mol)",
+  "answer": "(a) Two NH 4 + ions balance one SO 4 2&minus; ion: (NH 4 ) 2 SO 4 . Each NH 3 picks up one H + from the acid: 2 NH 3 (g) + H 2 SO 4 (aq) &rarr; (NH 4 ) 2 SO 4 (aq) (b) Moles of (NH 4 ) 2 SO 4 each reactant could make: From NH 3 : 34.0 g &divide; 17.031 g/mol = 1.996 mol &times; (1/2) = 0.9982 mol From H 2 SO 4 : 49.0 g &divide; 98.07 g/mol = 0.4996 mol &times; (1/1) = 0.4996 mol H 2 SO 4 is limiting , even though it has the larger mass. (c) \\( 0.4996\\ \\text{mol} \\times \\dfrac{132.13\\ \\text{g (NH}_4)_2\\text{SO}_4}{1\\ \\text{mol}} = 66.0\\ \\text{g} \\) (d) \\( \\dfrac{61.5\\ \\text{g}}{66.0\\ \\text{g}} \\times 100\\% = 93.2\\% \\) (e) NH 3 used: 0.4996 mol H 2 SO 4 &times; 2 = 0.9993 mol &times; 17.031 g/mol = 17.02 g. Left: 34.0 &minus; 17.02 = 17.0 g NH 3 , half of what was loaded. (c) 66.0 g ; (d) 93.2% .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 8.53",
+  "question": "A disposable hand warmer heats up as iron powder rusts to iron(III) oxide in air. The pack contains 20.0 g of iron. (a) Write the formula of iron(III) oxide and the balanced equation for iron reacting with O 2 . (b) How much heat can the pack release? (c) What volume of O 2 , at STP, must it take in from the air? (Fe 55.85 g/mol; ΔH = &minus;1648 kJ for the equation as balanced with whole-number coefficients)",
+  "answer": "(a) Fe 3+ and O 2&minus; combine 2 : 3: Fe 2 O 3 . Balance O first (3 O 2 &rarr; 2 Fe 2 O 3 , 6 O each side), then Fe (4): 4 Fe(s) + 3 O 2 (g) &rarr; 2 Fe 2 O 3 (s) &nbsp;&nbsp; ΔH = &minus;1648 kJ (b) \\( 20.0\\ \\text{g Fe} \\times \\dfrac{1\\ \\text{mol Fe}}{55.85\\ \\text{g}} \\times \\dfrac{1648\\ \\text{kJ released}}{4\\ \\text{mol Fe}} = 148\\ \\text{kJ released} \\) (c) \\( 0.3581\\ \\text{mol Fe} \\times \\dfrac{3\\ \\text{mol O}_2}{4\\ \\text{mol Fe}} \\times \\dfrac{22.4\\ \\text{L}}{1\\ \\text{mol O}_2} = 6.02\\ \\text{L O}_2 \\) (b) 148 kJ released , spread over several hours by the slow rusting; (c) 6.02 L of O 2 , which is why the pack works only after you open its airtight wrapper. The ΔH belongs to 4 mol of Fe, so the ratio is 1648 kJ / 4 mol Fe.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 8.54",
+  "question": "A Valley winery ferments grape juice containing 225 g of glucose: C 6 H 12 O 6 (aq) &rarr; 2 C 2 H 5 OH(aq) + 2 CO 2 (g). (a) What is the theoretical yield of ethanol? (b) What volume of CO 2 , at STP, is released? (c) If 98.0 g of ethanol is actually produced, what is the percent yield? (d) Give one biological reason the yield is below 100%. (C 6 H 12 O 6 180.156 g/mol; C 2 H 5 OH 46.069 g/mol)",
+  "answer": "Moles of glucose: 225 g &divide; 180.156 g/mol = 1.249 mol. (a) \\( 1.249\\ \\text{mol C}_6\\text{H}_{12}\\text{O}_6 \\times \\dfrac{2\\ \\text{mol C}_2\\text{H}_5\\text{OH}}{1\\ \\text{mol C}_6\\text{H}_{12}\\text{O}_6} \\times \\dfrac{46.069\\ \\text{g}}{1\\ \\text{mol C}_2\\text{H}_5\\text{OH}} = 115\\ \\text{g C}_2\\text{H}_5\\text{OH} \\) (b) \\( 1.249\\ \\text{mol C}_6\\text{H}_{12}\\text{O}_6 \\times \\dfrac{2\\ \\text{mol CO}_2}{1\\ \\text{mol C}_6\\text{H}_{12}\\text{O}_6} \\times \\dfrac{22.4\\ \\text{L}}{1\\ \\text{mol CO}_2} = 56.0\\ \\text{L CO}_2 \\) (c) \\( \\dfrac{98.0\\ \\text{g}}{115\\ \\text{g}} \\times 100\\% = 85.2\\% \\) (a) 115 g of ethanol; (b) 56.0 L of CO 2 ; (c) 85.2% . (d) The yeast are alive: they use some of the glucose to grow and build new cells, and they turn some into other products (such as glycerol), so not every glucose molecule becomes ethanol. Some ethanol also evaporates with the escaping CO 2 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 8.55",
+  "question": "The table below lists the active ingredient in one tablet of three antacids. Each reacts with stomach acid, HCl. Active ingredients in three antacid tablets (blanks marked ?) Active ingredient Formula Mass per tablet (mg) Molar mass (g/mol) mmol HCl neutralized Calcium carbonate ? 750. 100.09 ? Magnesium hydroxide ? 400. 58.32 ? Sodium hydrogen carbonate ? 600. 84.01 ? (a) Write each formula and a balanced equation for its reaction with HCl. (The carbonates make a chloride salt, water, and CO 2 ; the hydroxide makes a chloride salt and water.) (b) Fill in the mmol of HCl each tablet neutralizes. (c) Which tablet neutralizes the most acid, and which ingredient neutralizes the most acid per gram?",
+  "answer": "(a) The formulas are CaCO 3 , Mg(OH) 2 , and NaHCO 3 : CaCO 3 (s) + 2 HCl(aq) &rarr; CaCl 2 (aq) + H 2 O(l) + CO 2 (g) Mg(OH) 2 (s) + 2 HCl(aq) &rarr; MgCl 2 (aq) + 2 H 2 O(l) NaHCO 3 (s) + HCl(aq) &rarr; NaCl(aq) + H 2 O(l) + CO 2 (g) (b) Milligrams divided by g/mol (the same number as mg/mmol) give millimoles; then use the mole ratio: CaCO 3 : 750. mg &divide; 100.09 mg/mmol = 7.493 mmol &times; 2 = 15.0 mmol HCl Mg(OH) 2 : 400. mg &divide; 58.32 mg/mmol = 6.859 mmol &times; 2 = 13.7 mmol HCl NaHCO 3 : 600. mg &divide; 84.01 mg/mmol = 7.142 mmol &times; 1 = 7.14 mmol HCl (c) The calcium carbonate tablet neutralizes the most acid, mostly because it contains the most active ingredient. Per gram, magnesium hydroxide wins: 13.7 mmol &divide; 0.400 g = 34.3 mmol/g, versus 20.0 mmol/g for CaCO 3 and 11.9 mmol/g for NaHCO 3 . Its small molar mass and its 2 : 1 ratio with HCl both help. (Context only; this is not dosing guidance.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 8.56",
+  "question": "Ethane burns: 2 C 2 H 6 (g) + 7 O 2 (g) &rarr; 4 CO 2 (g) + 6 H 2 O(g). A burner produced 3.0 mol of H 2 O. How many moles of O 2 were used? A. 2.6 mol B. 3.5 mol C. 21 mol D. 1.0 mol",
+  "answer": "B. Work backward from the product, using only the ratio that links H 2 O and O 2 : \\( 3.0\\ \\text{mol H}_2\\text{O} \\times \\dfrac{7\\ \\text{mol O}_2}{6\\ \\text{mol H}_2\\text{O}} = 3.5\\ \\text{mol O}_2 \\) A uses the ratio upside down (3.0 &times; 6/7 = 2.6). Put the substance you want, O 2 , on top. C multiplies by 7 but forgets to divide by 6, as if 1 mol H 2 O went with 7 mol O 2 . D uses the ethane ratio (2 C 2 H 6 : 6 H 2 O), which gives moles of C 2 H 6 , not O 2 .",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 8.57",
+  "question": "How many molecules of O 2 are needed to burn 2.50 g of ethanol? C 2 H 5 OH(l) + 3 O 2 (g) &rarr; 2 CO 2 (g) + 3 H 2 O(g) (C 2 H 5 OH 46.069 g/mol)",
+  "answer": "Map: grams ethanol &rarr; mol ethanol &rarr; mol O 2 &rarr; molecules O 2 . \\( 2.50\\ \\text{g C}_2\\text{H}_5\\text{OH} \\times \\dfrac{1\\ \\text{mol C}_2\\text{H}_5\\text{OH}}{46.069\\ \\text{g}} \\times \\dfrac{3\\ \\text{mol O}_2}{1\\ \\text{mol C}_2\\text{H}_5\\text{OH}} \\times \\dfrac{6.0221 \\times 10^{23}\\ \\text{molecules}}{1\\ \\text{mol O}_2} = 9.80 \\times 10^{22}\\ \\text{molecules O}_2 \\) Three significant figures, set by the measured 2.50 g. Avogadro's number is the off-ramp on the O 2 side of the mole ratio.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 8.58",
+  "question": "3 CaCl 2 (aq) + 2 Na 3 PO 4 (aq) &rarr; Ca 3 (PO 4 ) 2 (s) + 6 NaCl(aq). (a) How many milliliters of 0.250 M Na 3 PO 4 react completely with 30.0 mL of 0.150 M CaCl 2 ? (b) What mass of calcium phosphate precipitates? (Ca 3 (PO 4 ) 2 310.17 g/mol)",
+  "answer": "CaCl 2 has both a volume and a concentration, so start there: 0.0300 L &times; 0.150 mol/L = 0.00450 mol CaCl 2 . (a) 0.00450 mol CaCl 2 &times; (2 mol Na 3 PO 4 / 3 mol CaCl 2 ) = 0.00300 mol Na 3 PO 4 ; &divide; 0.250 mol/L = 0.0120 L = 12.0 mL . (b) 0.00450 mol CaCl 2 &times; (1 mol Ca 3 (PO 4 ) 2 / 3 mol CaCl 2 ) &times; 310.17 g/mol = 0.465 g .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 8.59",
+  "question": "A student mixes 5.00 g of baking soda, NaHCO 3 (84.01 g/mol), with 3.00 mL of glacial (pure) acetic acid, HC 2 H 3 O 2 (density 1.049 g/mL; 60.052 g/mol): NaHCO 3 (s) + HC 2 H 3 O 2 (l) &rarr; NaC 2 H 3 O 2 (aq) + H 2 O(l) + CO 2 (g) (a) Which reactant is limiting? (b) What mass of CO 2 (44.009 g/mol) can form? (c) What mass of the excess reactant is left?",
+  "answer": "Amounts of two reactants are given, so this is a limiting-reactant problem. Extra step first: 3.00 mL &times; 1.049 g/mL = 3.147 g acetic acid. (a) Moles: NaHCO 3 , 5.00 &divide; 84.01 = 0.05952 mol; acetic acid, 3.147 &divide; 60.052 = 0.05240 mol. Every coefficient is 1, so each makes that many moles of CO 2 . Acetic acid makes less: acetic acid is limiting . (b) 0.05240 mol CO 2 &times; 44.009 g/mol = 2.31 g CO 2 . (c) NaHCO 3 used = 0.05240 mol &times; 84.01 g/mol = 4.40 g; left = 5.00 g &minus; 4.40 g = 0.60 g NaHCO 3 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 8.60",
+  "question": "10.0 g of zinc reacts with excess hydrochloric acid: Zn(s) + 2 HCl(aq) &rarr; ZnCl 2 (aq) + H 2 (g). After evaporating the water, a student collects 18.0 g of ZnCl 2 . What is the percent yield? (Zn 65.39 g/mol; ZnCl 2 136.29 g/mol) A. 55.6% B. 86.4% C. 116% D. 180%",
+  "answer": "B. Find the theoretical yield of ZnCl 2 first: 10.0 g &divide; 65.39 g/mol &times; (1 mol ZnCl 2 / 1 mol Zn) &times; 136.29 g/mol = 20.84 g. Then 18.0 g &divide; 20.84 g &times; 100% = 86.4%. A divides the zinc's mass by the product's mass (10.0 &divide; 18.0). Those are different substances; this is the most common percent-yield mistake. C divides theoretical by actual (20.84 &divide; 18.0). The actual yield goes on top, and a result above 100% should make you stop and check. D divides the product's mass by the zinc's mass (18.0 &divide; 10.0), again comparing two different substances.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 8.61",
+  "question": "In one pass through an ammonia reactor, N 2 (g) + 3 H 2 (g) &rarr; 2 NH 3 (g) runs at only 28.0% yield. What mass of NH 3 is actually produced from 50.0 g of N 2 with excess H 2 ? (N 2 28.014 g/mol; NH 3 17.031 g/mol)",
+  "answer": "Theoretical yield: 50.0 g &divide; 28.014 g/mol &times; (2 mol NH 3 / 1 mol N 2 ) &times; 17.031 g/mol = 60.79 g NH 3 . Actual yield = (28.0% &divide; 100%) &times; 60.79 g = 17.0 g NH 3 . The actual yield could be calculated here only because the percent yield was given; otherwise it must be measured.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 61,
+  "title": "Problem 8.62",
+  "question": "Magnesium burns with a brilliant white flame to form solid magnesium oxide. For the balanced reaction, ΔH = &minus;1203 kJ. (a) Write the balanced thermochemical equation, with the heat written into the equation. (b) How much heat is released when 5.00 g of Mg burns? (c) What mass of MgO forms when 300. kJ is released? (Mg 24.31 g/mol; MgO 40.31 g/mol)",
+  "answer": "(a) Mg 2+ and O 2&minus; give MgO; oxygen is O 2 . Balance: 2 Mg(s) + O 2 (g) &rarr; 2 MgO(s) + 1203 kJ (exothermic, so heat is a product). (b) Start with the given that is not a fraction, 5.00 g Mg: \\( 5.00\\ \\text{g Mg} \\times \\dfrac{1\\ \\text{mol Mg}}{24.31\\ \\text{g Mg}} \\times \\dfrac{1203\\ \\text{kJ}}{2\\ \\text{mol Mg}} = 124\\ \\text{kJ released} \\) (c) Start with 300. kJ; the heat pairs with 2 mol MgO: \\( 300.\\ \\text{kJ} \\times \\dfrac{2\\ \\text{mol MgO}}{1203\\ \\text{kJ}} \\times \\dfrac{40.31\\ \\text{g MgO}}{1\\ \\text{mol MgO}} = 20.1\\ \\text{g MgO} \\)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch08/8.8_practice_problems.html",
+  "idx": 62,
+  "title": "Problem 8.63",
+  "question": "Lightning makes nitrogen monoxide in air: N 2 (g) + O 2 (g) + 181 kJ &rarr; 2 NO(g). What is ΔH for this reaction as written? A. &minus;181 kJ B. +181 kJ C. +90.5 kJ D. &minus;90.5 kJ",
+  "answer": "B. Heat is written on the reactant side, so it is absorbed: the reaction is endothermic and ΔH is positive. ΔH belongs to the equation as written (1 mol N 2 , 1 mol O 2 , 2 mol NO), so it is the full 181 kJ. A has the wrong sign: a negative ΔH would mean heat is released, which would put the 181 kJ on the product side. C is the heat per mole of NO (181 &divide; 2). That is a correct conversion factor, but it is not ΔH for the equation as written. D is wrong in both ways: the sign and the per-mole scaling.",
+  "mc": true,
+  "terse_answer": false
+ }
+]

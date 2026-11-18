@@ -1,0 +1,938 @@
+[
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 7.1",
+  "question": "Which observation is the best evidence that a chemical reaction has happened? A. Rubbing alcohol evaporates from a patient's arm, and the skin feels cool. B. The inner pouch of an instant cold pack breaks, the ammonium nitrate inside dissolves in the water, and the pack gets cold. C. An effervescent antacid tablet containing sodium bicarbonate and citric acid is dropped into water and fizzes as a new gas forms. D. Water in a kettle bubbles as it boils.",
+  "answer": "C. When the tablet dissolves, the bicarbonate and the citric acid react with each other and form carbon dioxide, a substance that was not in the tablet. A gas that forms from a new substance (not boiling, not a dissolved gas escaping) is evidence of a chemical change. A is evaporation, a change of state. The alcohol molecules are the same in the air as on the skin; the cooling is the energy needed to vaporize them. B shows an energy change, but dissolving is a physical change: the NH 4 + and NO 3 &minus; ions just spread out in the water and no new substance forms. An energy change is a clue, not proof. D: the bubbles in boiling water are water vapor, the same substance as the liquid, so this is a physical change.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 7.2",
+  "question": "The table below lists six observations from a clinic, a lab, and a Valley farm. @media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } } Chemical or physical change? (blanks marked ?) Observation Chemical change? Evidence or reason A silver necklace slowly turns black in air. ? ? Dry ice (solid CO 2 ) used to ship vaccines turns directly into a gas. ? ? A pile of almond prunings burns, giving off heat, light, and smoke and leaving ash. ? ? Clear solutions of calcium chloride and sodium phosphate are mixed, and a white solid forms. ? ? Steam from an autoclave condenses into droplets on a cool counter. ? ? 3% hydrogen peroxide poured on a scraped knee foams. ? ? Fill in the last two columns.",
+  "answer": "Silver turning black: chemical . A color change from a new substance: silver reacts with sulfur compounds in air to form black silver sulfide, Ag 2 S (tarnish). Dry ice: physical . A gas forms, but it is the same substance, CO 2 , in a different state (sublimation). This is a case where a \"sign\" misleads. Burning prunings: chemical . Heat and light are released, and new substances (CO 2 , water vapor, smoke, ash) form. This is combustion. White solid from two clear solutions: chemical . A precipitate forms: calcium phosphate, Ca 3 (PO 4 ) 2 (Section 7.5). Condensing steam: physical . Water vapor becomes liquid water, a change of state only. Foaming peroxide: chemical . A new gas, O 2 , forms as the enzyme catalase in blood and tissue decomposes the H 2 O 2 into water and oxygen.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 7.3",
+  "question": "Ammonia for the nitrogen fertilizers used on Valley crops is made by the reaction below, run at high temperature and pressure with an iron catalyst (Fe written over the arrow). N 2 (g) + 3 H 2 (g) &rarr; 2 NH 3 (g) &nbsp;&nbsp; (Fe catalyst) Which statement about this equation is correct? A. \"3 H 2 \" means three hydrogen molecules, which contain 6 hydrogen atoms in all. B. The 2 in \"2 NH 3 \" means each ammonia molecule contains two nitrogen atoms. C. The iron written over the arrow is a reactant that is used up in the reaction. D. The (g) labels mean that each substance is dissolved in water.",
+  "answer": "A. A coefficient counts molecules, and the subscript counts atoms in each molecule: 3 molecules &times; 2 H atoms = 6 H atoms. The right side also has 6 H atoms (2 &times; 3), as conservation of mass requires. B confuses a coefficient with a subscript. \"2 NH 3 \" is two molecules, each with one N and three H atoms. C: a substance written over the arrow is a catalyst. It speeds up the reaction but is not used up, so it is not counted as a reactant or a product. D: (g) means gas. Dissolved in water is (aq), aqueous.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 7.4",
+  "question": "Write a balanced equation, with phase labels, for each description. (a) Farmers spread quicklime to raise soil pH. Solid calcium oxide reacts with liquid water to form solid calcium hydroxide. (b) In a lab demonstration, a small piece of solid sodium metal is dropped into liquid water; it forms aqueous sodium hydroxide and hydrogen gas.",
+  "answer": "(a) Names become formulas (Chapter 4): calcium oxide is Ca 2+ with O 2&minus; , CaO; calcium hydroxide is Ca 2+ with two OH &minus; , Ca(OH) 2 . CaO(s) + H 2 O(l) &rarr; Ca(OH) 2 (s) Already balanced: Ca 1 = 1; O 2 = 2; H 2 = 2. (b) Hydrogen gas is diatomic, H 2 (g). Skeleton: Na + H 2 O &rarr; NaOH + H 2 . H: 2 on the left and 3 on the right, so put 2 in front of H 2 O and of NaOH (4 H on each side), then 2 in front of Na: 2 Na(s) + 2 H 2 O(l) &rarr; 2 NaOH(aq) + H 2 (g) Check: Na 2 = 2; H 4 = 2 + 2; O 2 = 2.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 7.5",
+  "question": "A student heats 3.50 g of iron filings with excess powdered sulfur. All of the iron reacts, and 5.51 g of iron(II) sulfide forms. (a) Write the balanced equation, with phase labels. (b) What mass of sulfur reacted?",
+  "answer": "(a) Iron(II) is Fe 2+ and sulfide is S 2&minus; , so the product is FeS. This is a combination reaction: Fe(s) + S(s) &rarr; FeS(s) (b) By conservation of mass, mass of Fe + mass of S that reacted = mass of FeS: 3.50 g + mass of S = 5.51 g, so the sulfur that reacted is 5.51 g &minus; 3.50 g = 2.01 g . (Only the sulfur that reacted counts; the excess sulfur is left over and is not part of the product.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 7.6",
+  "question": "A 2.0 g effervescent antacid tablet is dropped into a cup holding 150.0 g of water. The cup is open to the air. After the fizzing stops, the cup and its contents (not counting the cup itself) have a mass of 151.4 g. Which statement best explains the result? A. About 0.6 g of mass was destroyed in the reaction. B. About 0.6 g of carbon dioxide gas escaped into the air; the total mass of all the products still equals the total mass of the reactants. C. The water evaporated, so the 0.6 g that was lost is water vapor. D. The atoms in the tablet changed into lighter elements.",
+  "answer": "B. Before: 2.0 g + 150.0 g = 152.0 g. After: 151.4 g. The difference, 152.0 g &minus; 151.4 g = 0.6 g, is the mass of the CO 2 that bubbled out of the open cup. In a sealed container, the mass would not change. A breaks the law of conservation of mass. Matter is not destroyed in a chemical reaction; it left the cup as a gas. C: a little water does evaporate from any open cup, but the fizzing is the gas formed by the reaction, CO 2 . Evaporation during a few minutes is far too slow to explain the loss. D: chemical reactions rearrange atoms; they never change one element into another (that happens only in nuclear reactions, Chapter 14).",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 7.7",
+  "question": "In a blast furnace, iron ore is reduced to iron metal with carbon. When the equation below is balanced with the smallest whole numbers, what is the coefficient of C? __ Fe 2 O 3 (s) + __ C(s) &rarr; __ Fe(s) + __ CO 2 (g) A. 1 B. 2 C. 3 D. 6",
+  "answer": "C. O: Fe 2 O 3 has 3 O and CO 2 has 2, so the smallest equal number is 6: 2 Fe 2 O 3 and 3 CO 2 . Then C: 3 CO 2 needs 3 C. Fe: 2 &times; 2 = 4 Fe. 2 Fe 2 O 3 (s) + 3 C(s) &rarr; 4 Fe(s) + 3 CO 2 (g) Check: Fe 4 = 4; O 6 = 6; C 3 = 3. A: with 1 C, there would be 1 CO 2 (2 O), but O comes from Fe 2 O 3 in groups of 3; 2 and 3 cannot match unless both are adjusted. B: 2 C gives 2 CO 2 with 4 O, which no whole number of Fe 2 O 3 (3, 6, 9 &hellip; O) can supply. D: 6 C works only with 4 Fe 2 O 3 , 8 Fe, and 6 CO 2 , which is the right answer doubled. The coefficients must be the smallest whole numbers.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 7.8",
+  "question": "Balance each equation. (a) Phosphorus burns in a match head: P 4 (s) + O 2 (g) &rarr; P 4 O 10 (s). (b) Aluminum reacts with sulfuric acid: Al(s) + H 2 SO 4 (aq) &rarr; Al 2 (SO 4 ) 3 (aq) + H 2 (g). (c) Phosphate fertilizer is made by treating phosphate rock with sulfuric acid: Ca 3 (PO 4 ) 2 (s) + H 2 SO 4 (aq) &rarr; CaSO 4 (s) + H 3 PO 4 (aq).",
+  "answer": "(a) P is already 4 = 4. O: 10 on the right, so 5 O 2 : P 4 (s) + 5 O 2 (g) &rarr; P 4 O 10 (s) (b) Treat sulfate as a unit. Al 2 (SO 4 ) 3 has 2 Al and 3 SO 4 , so use 2 Al and 3 H 2 SO 4 . Then 3 H 2 SO 4 has 6 H, which makes 3 H 2 : 2 Al(s) + 3 H 2 SO 4 (aq) &rarr; Al 2 (SO 4 ) 3 (aq) + 3 H 2 (g) Check: Al 2 = 2; SO 4 3 = 3; H 6 = 6. (c) Treat phosphate and sulfate as units. Ca: 3 on the left, so 3 CaSO 4 ; that needs 3 SO 4 , so 3 H 2 SO 4 . PO 4 : 2 on the left, so 2 H 3 PO 4 . H: 6 = 2 &times; 3. Ca 3 (PO 4 ) 2 (s) + 3 H 2 SO 4 (aq) &rarr; 3 CaSO 4 (s) + 2 H 3 PO 4 (aq) Check: Ca 3 = 3; PO 4 2 = 2; SO 4 3 = 3; H 6 = 6.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 7.9",
+  "question": "Which equation is balanced and uses correct formulas? A. 2 KI(aq) + Cl 2 (g) &rarr; 2 KCl(aq) + I 2 (aq) B. H 2 O 2 (aq) &rarr; H 2 O(l) + O 2 (g) C. N 2 (g) + H 2 (g) &rarr; 2 NH 3 (g) D. Na(s) + Cl 2 (g) &rarr; NaCl 2 (s)",
+  "answer": "A. K 2 = 2; I 2 = 2; Cl 2 = 2, and every formula is correct (K + with I &minus; or Cl &minus; ; iodine is the diatomic element I 2 ). B is not balanced: 2 O on the left and 1 + 2 = 3 O on the right. The balanced form is 2 H 2 O 2 &rarr; 2 H 2 O + O 2 . C balances N (2 = 2) but not H: 2 on the left and 6 on the right. It needs 3 H 2 . D has the same atoms on both sides, but NaCl 2 is not a real compound. Na + and Cl &minus; combine 1:1 as NaCl; the subscript was changed to force a balance. Correct: 2 Na + Cl 2 &rarr; 2 NaCl.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 7.10",
+  "question": "Butane, C 4 H 10 , is the fuel in disposable lighters and in the small torches used in some labs. (a) Balance the equation for its complete combustion. (b) What is the sum of the coefficients in the balanced equation? C 4 H 10 (g) + O 2 (g) &rarr; CO 2 (g) + H 2 O(g)",
+  "answer": "(a) Balance C, then H, then O. C: 4 CO 2 . H: 10 H makes 5 H 2 O. O on the right: 4(2) + 5 = 13, which would need 13/2 O 2 . Double everything to clear the fraction: 2 C 4 H 10 (g) + 13 O 2 (g) &rarr; 8 CO 2 (g) + 10 H 2 O(g) Check: C 8 = 8; H 20 = 20; O 26 = 16 + 10. (b) 2 + 13 + 8 + 10 = 33 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 7.11",
+  "question": "When the equation below is balanced with the smallest whole numbers, what is the coefficient of NaNO 3 ? __ Ba(NO 3 ) 2 (aq) + __ Na 3 PO 4 (aq) &rarr; __ Ba 3 (PO 4 ) 2 (s) + __ NaNO 3 (aq) A. 2 B. 3 C. 5 D. 6",
+  "answer": "D. Treat the ions as units. Ba 3 (PO 4 ) 2 needs 3 Ba(NO 3 ) 2 and 2 Na 3 PO 4 . That brings in 3 &times; 2 = 6 NO 3 and 2 &times; 3 = 6 Na, so 6 NaNO 3 . 3 Ba(NO 3 ) 2 (aq) + 2 Na 3 PO 4 (aq) &rarr; Ba 3 (PO 4 ) 2 (s) + 6 NaNO 3 (aq) A (2) balances neither Na (6 from 2 Na 3 PO 4 ) nor NO 3 (6 from 3 Ba(NO 3 ) 2 ). B (3) matches the number of Na in one Na 3 PO 4 , but two are needed to supply the 2 PO 4 in the product. C (5) is the sum 3 + 2 of the reactant coefficients, which has no meaning for counting atoms.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 7.12",
+  "question": "A car's airbag inflates when solid sodium azide, NaN 3 , decomposes into sodium metal and nitrogen gas. Three students balanced the equation: Student 1: 2 NaN 3 (s) &rarr; 2 Na(s) + 3 N 2 (g) Student 2: NaN 3 (s) &rarr; Na(s) + N 3 (g) Student 3: 4 NaN 3 (s) &rarr; 4 Na(s) + 6 N 2 (g) Which student is correct, and what is wrong with each of the other two answers?",
+  "answer": "Student 1 is correct: Na 2 = 2; N 2 &times; 3 = 6 on the left and 3 &times; 2 = 6 on the right, with the smallest whole numbers. Student 2 has the same atoms on both sides, but \"N 3 \" is not nitrogen gas. Nitrogen gas is the diatomic molecule N 2 , and the formula of a product can never be changed to make the counts work. Student 3 is balanced, but every coefficient shares a factor of 2. Divide by 2 to get Student 1's answer.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 7.13",
+  "question": "In the catalase test, a microbiology student mixes a bit of a bacterial colony with a drop of 3% hydrogen peroxide. The mixture bubbles right away. Which gas makes the bubbles, and what type of reaction is it? 2 H 2 O 2 (aq) &rarr; 2 H 2 O(l) + O 2 (g) &nbsp;&nbsp; (catalase) A. CO 2 ; combustion B. O 2 ; decomposition C. H 2 ; single displacement D. O 2 ; combination",
+  "answer": "B. One reactant breaks down into two simpler products, so it is a decomposition, and the gas is oxygen, O 2 . The enzyme catalase is a catalyst, written over the arrow; bubbles mean the bacteria are catalase-positive. A: there is no carbon in the equation, so CO 2 cannot form, and combustion needs a fuel reacting with O 2 . Here O 2 is a product. C: no hydrogen gas forms, and a single displacement needs an element reacting with a compound. The only reactant is one compound. D has the right gas but the wrong pattern. A combination joins two or more reactants into one product; this is the reverse, one reactant into two products.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 7.14",
+  "question": "Classify each reaction as combination, decomposition, single displacement, double displacement, or combustion. (a) 2 HgO(s) &rarr; 2 Hg(l) + O 2 (g) (b) SO 3 (g) + H 2 O(l) &rarr; H 2 SO 4 (aq) (c) Cl 2 (g) + 2 NaBr(aq) &rarr; 2 NaCl(aq) + Br 2 (aq) (d) Na 2 S(aq) + Cu(NO 3 ) 2 (aq) &rarr; CuS(s) + 2 NaNO 3 (aq) (e) 2 C 3 H 8 O(l) + 9 O 2 (g) &rarr; 6 CO 2 (g) + 8 H 2 O(g)",
+  "answer": "(a) Decomposition : one compound, mercury(II) oxide, breaks into two elements when heated. (b) Combination : two reactants form one product. (This is a step in forming acid rain from sulfur pollution.) (c) Single displacement : an element (Cl 2 ) replaces another element (bromine) in a compound. A more reactive halogen can push out a less reactive one. (d) Double displacement : two ionic compounds swap partners, and the product CuS is an insoluble sulfide (a precipitate). (e) Combustion : a C, H, O fuel (isopropyl alcohol, rubbing alcohol) reacts with O 2 to form CO 2 and H 2 O.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 7.15",
+  "question": "Predict the products, write the balanced equation with phase labels, and name the pattern. (a) Aluminum metal reacts with liquid bromine. (b) Solid zinc carbonate is heated strongly. (c) Magnesium metal is added to sulfuric acid. (d) Calcium metal is heated in nitrogen gas.",
+  "answer": "(a) Combination. Al 3+ and Br &minus; make AlBr 3 . Br: 2 and 3 meet at 6, so 3 Br 2 and 2 AlBr 3 , then 2 Al: 2 Al(s) + 3 Br 2 (l) &rarr; 2 AlBr 3 (s) (b) Decomposition of a metal carbonate into a metal oxide and CO 2 (Zn 2+ with O 2&minus; is ZnO): ZnCO 3 (s) &rarr; ZnO(s) + CO 2 (g) (c) Single displacement. Magnesium replaces hydrogen; Mg 2+ pairs with SO 4 2&minus; (MgSO 4 , soluble), and hydrogen leaves as H 2 gas: Mg(s) + H 2 SO 4 (aq) &rarr; MgSO 4 (aq) + H 2 (g) (d) Combination. Ca 2+ and the nitride ion, N 3&minus; , cancel at Ca 3 N 2 (3(+2) + 2(&minus;3) = 0). N 2 supplies the 2 N, so 3 Ca: 3 Ca(s) + N 2 (g) &rarr; Ca 3 N 2 (s)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 7.16",
+  "question": "A family uses a charcoal grill inside a closed garage during a power outage, and two of them come to the emergency department with headaches and confusion. Which balanced equation shows the incomplete combustion of charcoal (carbon) that produces carbon monoxide? A. C(s) + O 2 (g) &rarr; CO 2 (g) B. 2 C(s) + O 2 (g) &rarr; 2 CO(g) C. 2 CO(g) + O 2 (g) &rarr; 2 CO 2 (g) D. C(s) + O 2 (g) &rarr; CO(g)",
+  "answer": "B. With too little O 2 , each carbon atom picks up only one oxygen atom and forms CO. The equation is balanced: C 2 = 2; O 2 = 2. In a closed space, the O 2 runs low and CO builds up. CO binds to hemoglobin much more tightly than O 2 does, which is why carbon monoxide poisoning causes these symptoms; respiratory therapists use a CO-oximeter, not a standard pulse oximeter, to measure it. (Context only; this is not treatment advice.) A is complete combustion (plenty of O 2 ), which makes CO 2 , not CO. C is carbon monoxide burning further to CO 2 . It removes CO rather than producing it. D shows the right product but is not balanced: 2 O on the left and 1 O on the right.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 7.17",
+  "question": "Almond shells and old orchard wood are mostly cellulose, whose repeating unit is C 6 H 10 O 5 . (a) Write the balanced equation for the complete combustion of one C 6 H 10 O 5 unit. (b) When a pile of prunings smolders with too little air, what other products form besides CO 2 and H 2 O?",
+  "answer": "(a) C: 6 CO 2 . H: 10 H makes 5 H 2 O. O on the right: 6(2) + 5 = 17. The fuel already supplies 5 O, so O 2 must supply 17 &minus; 5 = 12 O atoms, or 6 O 2 : C 6 H 10 O 5 (s) + 6 O 2 (g) &rarr; 6 CO 2 (g) + 5 H 2 O(g) Check: C 6 = 6; H 10 = 10; O 5 + 12 = 17 = 12 + 5. (b) Incomplete combustion also forms carbon monoxide (CO) and soot (carbon) , along with the fine particles (PM 2.5 ) that make smoke harmful to breathe. That is one reason open agricultural burning is restricted in the San Joaquin Valley.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 7.18",
+  "question": "Which reaction is a double displacement? A. Zn(s) + 2 AgNO 3 (aq) &rarr; Zn(NO 3 ) 2 (aq) + 2 Ag(s) B. 2 KNO 3 (s) &rarr; 2 KNO 2 (s) + O 2 (g) C. K 2 CrO 4 (aq) + BaCl 2 (aq) &rarr; BaCrO 4 (s) + 2 KCl(aq) D. 2 SO 2 (g) + O 2 (g) &rarr; 2 SO 3 (g)",
+  "answer": "C. Two ionic compounds exchange partners: K + ends up with Cl &minus; , and Ba 2+ with CrO 4 2&minus; . Barium chromate is insoluble (chromate row of the green sheet), so it precipitates as a yellow solid. A is a single displacement: an element (Zn) replaces the silver ion in a compound. B is a decomposition: one compound breaks into two simpler substances when heated. D is a combination: two reactants form one product.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 7.19",
+  "question": "Household ammonia cleaner is a solution of NH 3 in water. Which of the following is a weak electrolyte? A. HNO 3 B. NH 3 C. KCl D. C 12 H 22 O 11 (sucrose)",
+  "answer": "B. Ammonia is a weak base: only a small fraction of the NH 3 molecules react with water to form NH 4 + and OH &minus; ions, so its solution conducts weakly. A: nitric acid is on the green sheet's list of strong acids, so it ionizes completely. It is a strong electrolyte. C: potassium chloride is a soluble ionic compound (Group 1), which separates completely into K + and Cl &minus; . Strong electrolyte. D: sucrose dissolves as whole molecules and forms no ions, so it is a nonelectrolyte.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 7.20",
+  "question": "Write the equation for each compound dissolving in water, showing the ions with the correct counts and (aq) labels. If no ions form, say so. (a) K 3 PO 4 ; (b) (NH 4 ) 2 SO 4 , a common fertilizer; (c) Fe(NO 3 ) 3 ; (d) C 6 H 12 O 6 , glucose.",
+  "answer": "(a) K 3 PO 4 (s) &rarr; 3 K + (aq) + PO 4 3&minus; (aq) (b) (NH 4 ) 2 SO 4 (s) &rarr; 2 NH 4 + (aq) + SO 4 2&minus; (aq) (c) Fe(NO 3 ) 3 (s) &rarr; Fe 3+ (aq) + 3 NO 3 &minus; (aq) In each, the polyatomic ions stay together, and the charges add to zero: (a) 3(+1) + (&minus;3) = 0; (b) 2(+1) + (&minus;2) = 0; (c) +3 + 3(&minus;1) = 0. (d) No ions form. Glucose is a molecular compound and a nonelectrolyte: C 6 H 12 O 6 (s) &rarr; C 6 H 12 O 6 (aq).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 7.21",
+  "question": "Use the green-sheet solubility rules to complete the grid below. In each cell, write the formula of the compound formed by that cation and anion, and label it soluble (s) or insoluble (i). Solubility grid (blanks marked ?) Cation chloride fluoride sulfate carbonate phosphate NH 4 + ? ? ? ? ? Mg 2+ ? ? ? ? ? Ca 2+ ? ? ? ? ? Ag + ? ? ? ? ? Pb 2+ ? ? ? ? ?",
+  "answer": "NH 4 + : NH 4 Cl (s), NH 4 F (s), (NH 4 ) 2 SO 4 (s), (NH 4 ) 2 CO 3 (s), (NH 4 ) 3 PO 4 (s). Ammonium compounds are always soluble. Mg 2+ : MgCl 2 (s), MgF 2 (i; Mg 2+ is a fluoride exception), MgSO 4 (s; Mg 2+ is not a sulfate exception), MgCO 3 (i), Mg 3 (PO 4 ) 2 (i). Ca 2+ : CaCl 2 (s), CaF 2 (i), CaSO 4 (i; sulfate exception), CaCO 3 (i), Ca 3 (PO 4 ) 2 (i). Ag + : AgCl (i; chloride exception), AgF (s; Ag + is not a fluoride exception), Ag 2 SO 4 (i; sulfate exception), Ag 2 CO 3 (i), Ag 3 PO 4 (i). Pb 2+ : PbCl 2 (i), PbF 2 (i), PbSO 4 (i), PbCO 3 (i), Pb 3 (PO 4 ) 2 (i). Lead(II) is an exception in every \"soluble\" row it appears in. Carbonates and phosphates are insoluble except with Group 1 and NH 4 + , so only the ammonium row is soluble in the last two columns. Build each formula from the charges: 3 Ca 2+ (+6) balance 2 PO 4 3&minus; (&minus;6), giving Ca 3 (PO 4 ) 2 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 7.22",
+  "question": "All four compounds below matter in health care. According to the green-sheet solubility rules, which one is soluble in water? A. Ca 3 (PO 4 ) 2 , the mineral in bone B. CaC 2 O 4 , the main compound in most kidney stones C. BaSO 4 , the contrast agent swallowed before GI X-rays D. KCl, added to IV fluids to replace potassium",
+  "answer": "D. K + is a Group 1 ion, and every Group 1 compound is soluble. KCl dissolves completely into K + and Cl &minus; , which is why it can be given in solution. A: phosphates are insoluble except with Group 1 and NH 4 + . Its insolubility is what lets calcium phosphate form hard, lasting bone. B: oxalate (C 2 O 4 2&minus; ) is in the insoluble row, and Ca 2+ is not an exception, so calcium oxalate precipitates as stones. C: sulfate is usually soluble, but Ba 2+ is one of the exceptions. Because BaSO 4 barely dissolves, almost no toxic Ba 2+ is absorbed.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 7.23",
+  "question": "Classify each substance as a strong electrolyte, weak electrolyte, or nonelectrolyte, and explain. For each strong electrolyte, also give the number of ions formed per formula unit. (a) Ca(C 2 H 3 O 2 ) 2 , calcium acetate, a phosphate binder for kidney patients; (b) HF, used to etch glass; (c) CH 3 OH, methanol; (d) HI; (e) CO(NH 2 ) 2 , urea.",
+  "answer": "(a) Strong electrolyte. It is ionic and soluble (all acetates are), so it separates completely: 1 Ca 2+ + 2 C 2 H 3 O 2 &minus; = 3 ions . (b) Weak electrolyte. HF is an acid, but it is not on the green sheet's list of strong acids (HCl, HBr, HI, HNO 3 , HClO 4 , H 2 SO 4 ), so it is a weak acid that forms only a few ions. Do not assume that every halogen acid is strong. (c) Nonelectrolyte. Methanol is a molecular compound that dissolves as whole molecules. (Its &ndash;OH group is not a hydroxide ion.) (d) Strong electrolyte. HI is a strong acid: H + + I &minus; = 2 ions . (e) Nonelectrolyte. Urea is a molecular compound of nonmetals and forms no ions.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 7.24",
+  "question": "The number of dissolved particles matters for osmosis in the body (Chapter 11). Which compound gives the most ions per formula unit when it dissolves? A. NaNO 3 B. MgCl 2 C. (NH 4 ) 3 PO 4 D. C 6 H 12 O 6",
+  "answer": "C. (NH 4 ) 3 PO 4 (s) &rarr; 3 NH 4 + (aq) + PO 4 3&minus; (aq): 4 ions . Each polyatomic ion counts as one ion. A gives 2 ions: Na + and NO 3 &minus; . Nitrate stays together; it does not split into N and O. B gives 3 ions: Mg 2+ and 2 Cl &minus; . D gives 0 ions. Glucose is a nonelectrolyte; it dissolves as 1 molecule per formula.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 7.25",
+  "question": "Milk of magnesia, Mg(OH) 2 , is made by precipitating it from magnesium salt solutions with a base. Which is the net ionic equation for mixing MgCl 2 (aq) and KOH(aq)? A. Mg 2+ (aq) + OH &minus; (aq) &rarr; MgOH(s) B. Mg 2+ (aq) + 2 OH &minus; (aq) &rarr; Mg(OH) 2 (s) C. 2 K + (aq) + 2 Cl &minus; (aq) &rarr; 2 KCl(s) D. MgCl 2 (aq) + 2 OH &minus; (aq) &rarr; Mg(OH) 2 (s) + 2 Cl &minus; (aq)",
+  "answer": "B. Molecular equation: MgCl 2 (aq) + 2 KOH(aq) &rarr; Mg(OH) 2 (s) + 2 KCl(aq) Mg(OH) 2 is insoluble (hydroxide, and Mg 2+ is not an exception); KCl is soluble (Group 1). K + and Cl &minus; are spectators, leaving Mg 2+ + 2 OH &minus; &rarr; Mg(OH) 2 (s). Check charge: +2 + 2(&minus;1) = 0 on the left, 0 on the right. A uses a wrong formula. Mg 2+ needs two OH &minus; ions to be neutral, so the solid is Mg(OH) 2 , not MgOH. C: KCl is soluble, so K + and Cl &minus; stay dissolved; they are the spectators, not the precipitate. D leaves MgCl 2 (aq) unsplit. An aqueous strong electrolyte must be written as ions, and then the Cl &minus; cancels as a spectator.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 7.26",
+  "question": "Bordeaux mixture, a copper fungicide sprayed in Valley vineyards and orchards, forms a blue precipitate of copper(II) hydroxide when copper(II) sulfate is mixed with lime. A similar reaction in the lab uses sodium hydroxide. For mixing CuSO 4 (aq) and NaOH(aq), write (a) the balanced molecular equation, (b) the complete ionic equation, and (c) the net ionic equation. (d) Name the spectator ions.",
+  "answer": "(a) Swap partners: Cu 2+ with OH &minus; gives Cu(OH) 2 (insoluble hydroxide); Na + with SO 4 2&minus; gives Na 2 SO 4 (soluble, Group 1). CuSO 4 (aq) + 2 NaOH(aq) &rarr; Cu(OH) 2 (s) + Na 2 SO 4 (aq) (b) Split every aqueous strong electrolyte; keep the solid together: Cu 2+ (aq) + SO 4 2&minus; (aq) + 2 Na + (aq) + 2 OH &minus; (aq) &rarr; Cu(OH) 2 (s) + 2 Na + (aq) + SO 4 2&minus; (aq) (c) Cancel the ions that are identical on both sides: Cu 2+ (aq) + 2 OH &minus; (aq) &rarr; Cu(OH) 2 (s) Check: atoms balance, and charge is +2 + 2(&minus;1) = 0 on the left and 0 on the right. (d) Na + and SO 4 2&minus; .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 7.27",
+  "question": "For each pair of solutions, predict whether a precipitate forms. If it does, write the balanced molecular equation and the net ionic equation. If not, write NR (no reaction). (a) KI(aq) + Hg 2 (NO 3 ) 2 (aq); (b) NH 4 Br(aq) + NaClO 4 (aq); (c) Na 2 S(aq) + ZnCl 2 (aq); (d) AgNO 3 (aq) + K 2 CrO 4 (aq).",
+  "answer": "(a) Precipitate. Hg 2 2+ is an iodide exception. Mercury(I) is the polyatomic Hg 2 2+ ion, so one Hg 2 2+ pairs with two I &minus; ; KNO 3 is soluble. 2 KI(aq) + Hg 2 (NO 3 ) 2 (aq) &rarr; Hg 2 I 2 (s) + 2 KNO 3 (aq) Hg 2 2+ (aq) + 2 I &minus; (aq) &rarr; Hg 2 I 2 (s) (b) NR. The swapped products, NH 4 ClO 4 and NaBr, are both soluble (ammonium; Group 1), and no water or gas forms. (c) Precipitate. ZnS is insoluble (sulfide; Zn 2+ is not an exception); NaCl is soluble. Na 2 S(aq) + ZnCl 2 (aq) &rarr; ZnS(s) + 2 NaCl(aq) Zn 2+ (aq) + S 2&minus; (aq) &rarr; ZnS(s) (d) Precipitate. Ag 2 CrO 4 is insoluble (chromate; only Group 1 and NH 4 + chromates dissolve), a brick-red solid; KNO 3 is soluble. 2 AgNO 3 (aq) + K 2 CrO 4 (aq) &rarr; Ag 2 CrO 4 (s) + 2 KNO 3 (aq) 2 Ag + (aq) + CrO 4 2&minus; (aq) &rarr; Ag 2 CrO 4 (s) Check each net ionic equation for charge: (a) +2 &minus; 2 = 0; (c) +2 &minus; 2 = 0; (d) 2(+1) &minus; 2 = 0, all matching the neutral solid.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 7.28",
+  "question": "Strontium salts give road flares their red color. When Sr(NO 3 ) 2 (aq) and Li 2 SO 4 (aq) are mixed, a white precipitate forms. Which ions are the spectator ions? A. Sr 2+ and SO 4 2&minus; B. Li + and NO 3 &minus; C. Li + only D. There are no spectator ions, because a precipitate forms.",
+  "answer": "B. Sr(NO 3 ) 2 (aq) + Li 2 SO 4 (aq) &rarr; SrSO 4 (s) + 2 LiNO 3 (aq). Strontium sulfate is insoluble (Sr 2+ is a sulfate exception); lithium nitrate is soluble. Li + and NO 3 &minus; are dissolved on both sides, unchanged, so they are spectators. Net ionic: Sr 2+ (aq) + SO 4 2&minus; (aq) &rarr; SrSO 4 (s). A names the ions that actually react to form the solid, the opposite of spectators. C forgets the nitrate. NO 3 &minus; is also dissolved before and after mixing. D: a precipitation reaction almost always has spectators; only the ions that form the solid leave the solution.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 7.29",
+  "question": "A lab technician has a clear solution that contains either barium nitrate or magnesium nitrate. Adding a few drops of sodium sulfate solution produces a white precipitate. (a) Which cation is present? Explain with the solubility rules. (b) Write the net ionic equation for the precipitate. (c) Would sodium fluoride solution have told the two cations apart? Explain.",
+  "answer": "(a) Ba 2+ . Sulfates are soluble except with Ca 2+ , Sr 2+ , Ba 2+ , Ag + , and Pb 2+ . BaSO 4 is insoluble and would precipitate; MgSO 4 is soluble (Mg 2+ is not on the sulfate exception list), so magnesium nitrate would have given no precipitate. (b) Ba 2+ (aq) + SO 4 2&minus; (aq) &rarr; BaSO 4 (s) (c) No. Fluorides are insoluble with Mg 2+ , Ca 2+ , Sr 2+ , Ba 2+ , and Pb 2+ , so MgF 2 and BaF 2 would both precipitate. A useful test reagent must precipitate one ion and not the other.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 7.30",
+  "question": "Calcium phosphate, the mineral of bones and teeth, can be made in the lab by mixing calcium chloride and sodium phosphate solutions. (a) Write the balanced molecular equation with phase labels. (b) Write the complete ionic equation. (c) Write the net ionic equation and check its charge.",
+  "answer": "(a) Ca 2+ and PO 4 3&minus; make Ca 3 (PO 4 ) 2 (insoluble phosphate); Na + and Cl &minus; make NaCl (soluble). Treat phosphate as a unit: 3 Ca needs 3 CaCl 2 , 2 PO 4 needs 2 Na 3 PO 4 , and then 6 Na and 6 Cl make 6 NaCl. 3 CaCl 2 (aq) + 2 Na 3 PO 4 (aq) &rarr; Ca 3 (PO 4 ) 2 (s) + 6 NaCl(aq) (b) Multiply each ion count by the coefficient (3 CaCl 2 gives 3 Ca 2+ and 6 Cl &minus; ): 3 Ca 2+ (aq) + 6 Cl &minus; (aq) + 6 Na + (aq) + 2 PO 4 3&minus; (aq) &rarr; Ca 3 (PO 4 ) 2 (s) + 6 Na + (aq) + 6 Cl &minus; (aq) (c) Cancel 6 Na + and 6 Cl &minus; : 3 Ca 2+ (aq) + 2 PO 4 3&minus; (aq) &rarr; Ca 3 (PO 4 ) 2 (s) Charge: 3(+2) + 2(&minus;3) = +6 &minus; 6 = 0 on the left, and 0 for the neutral solid. The coefficients 3 and 2 share no factor, so they cannot be reduced.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 7.31",
+  "question": "Some antacids contain aluminum hydroxide, Al(OH) 3 , a solid that neutralizes stomach acid (HCl). (a) Write the balanced molecular equation. (b) Write the net ionic equation. (Context only; this is not dosing or treatment guidance.)",
+  "answer": "(a) Acid + base &rarr; water + salt. Each Al(OH) 3 has 3 OH &minus; , so it needs 3 HCl and makes 3 H 2 O; Al 3+ pairs with 3 Cl &minus; (AlCl 3 , soluble). Al(OH) 3 (s) + 3 HCl(aq) &rarr; AlCl 3 (aq) + 3 H 2 O(l) (b) HCl is a strong acid and AlCl 3 is soluble, so both are split into ions; Al(OH) 3 is a solid and stays together. Cl &minus; is the only spectator: Al(OH) 3 (s) + 3 H + (aq) &rarr; Al 3+ (aq) + 3 H 2 O(l) Check: Al 1 = 1; O 3 = 3; H 6 = 6; charge +3 = +3. This is not H + + OH &minus; &rarr; H 2 O, because the base is a solid, not dissolved OH &minus; ions.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 7.32",
+  "question": "Which is the net ionic equation for the reaction of perchloric acid, HClO 4 (aq), with lithium hydroxide, LiOH(aq)? A. H + (aq) + OH &minus; (aq) &rarr; H 2 O(l) B. HClO 4 (aq) + OH &minus; (aq) &rarr; ClO 4 &minus; (aq) + H 2 O(l) C. Li + (aq) + ClO 4 &minus; (aq) &rarr; LiClO 4 (s) D. There is no net ionic equation, because both the acid and the base are soluble.",
+  "answer": "A. Molecular: HClO 4 (aq) + LiOH(aq) &rarr; H 2 O(l) + LiClO 4 (aq). HClO 4 is on the green sheet's strong-acid list, LiOH is a strong base (Group 1 hydroxide), and LiClO 4 is soluble, so Li + and ClO 4 &minus; are spectators. Only H + and OH &minus; react. B treats HClO 4 as a weak acid. A strong acid is completely ionized, so it is written as H + and ClO 4 &minus; , and the ClO 4 &minus; then cancels. C: perchlorates and Group 1 compounds are always soluble, so LiClO 4 does not precipitate. D: a reaction happens because water forms. Something \"leaving\" the dissolved ions can be water, not only a solid or a gas.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 7.33",
+  "question": "Predict the products and write each balanced equation with phase labels. (a) Sodium sulfide solution is mixed with hydrochloric acid, and a rotten-egg smell appears. (b) A grower mixes ammonium sulfate fertilizer with a slurry of lime, solid Ca(OH) 2 , and notices a sharp smell. Why do agronomists advise against applying ammonium fertilizers together with lime?",
+  "answer": "(a) Swap partners: Na + with Cl &minus; (NaCl, soluble) and 2 H + with S 2&minus; (H 2 S, already a gas): Na 2 S(aq) + 2 HCl(aq) &rarr; 2 NaCl(aq) + H 2 S(g) (b) Swap partners: Ca 2+ with SO 4 2&minus; (CaSO 4 , insoluble sulfate exception) and NH 4 + with OH &minus; (NH 4 OH, which is unstable). Replace each NH 4 OH with NH 3 (g) + H 2 O(l): (NH 4 ) 2 SO 4 (aq) + Ca(OH) 2 (s) &rarr; CaSO 4 (s) + 2 NH 3 (g) + 2 H 2 O(l) Check: N 2 = 2; H 8 + 2 = 10 = 6 + 4; S 1 = 1; O 4 + 2 = 6 = 4 + 2; Ca 1 = 1. The sharp smell is ammonia gas. The nitrogen the crop needs escapes into the air as NH 3 , so mixing the two wastes fertilizer.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 7.34",
+  "question": "Hard water leaves calcium carbonate scale inside coffee makers, and vinegar (acetic acid, HC 2 H 3 O 2 ) is a common descaler. What gas bubbles off as the scale dissolves? CaCO 3 (s) + 2 HC 2 H 3 O 2 (aq) &rarr; Ca(C 2 H 3 O 2 ) 2 (aq) + H 2 O(l) + ? (g) A. H 2 B. CO 2 C. O 2 D. No gas forms, because acetic acid is a weak acid.",
+  "answer": "B. Swapping partners gives calcium acetate (soluble) and H 2 CO 3 , carbonic acid, which is unstable and becomes CO 2 (g) + H 2 O(l). Check: Ca 1 = 1; C 1 + 4 = 5 = 4 + 1; H 8 = 6 + 2; O 3 + 4 = 7 = 4 + 1 + 2. A: H 2 forms when an active metal reacts with an acid (single displacement). Calcium carbonate is a compound, and its carbonate ion is what reacts. C: O 2 is not formed in a double displacement; nothing in this reaction is decomposing into oxygen. D: weak acids still react with carbonates. Being weak means acetic acid is only partly ionized, not that it cannot react; as H + is used up, more acid ionizes.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 7.35",
+  "question": "Predict the products and write the balanced equation, or write NR. (a) NaHSO 3 (aq) + HCl(aq) (sulfites are food and wine preservatives); (b) KNO 3 (aq) + HCl(aq); (c) NH 4 NO 3 (aq) + KOH(aq); (d) Li 2 CO 3 (s) + HBr(aq).",
+  "answer": "(a) The swap gives NaCl and H 2 SO 3 , which becomes SO 2 (g) + H 2 O(l): NaHSO 3 (aq) + HCl(aq) &rarr; NaCl(aq) + H 2 O(l) + SO 2 (g) (b) NR. The swap would give KCl (soluble) and HNO 3 (a strong acid, fully ionized). No precipitate, water, or gas forms, so all the ions stay dissolved. (c) The swap gives KNO 3 and NH 4 OH, which becomes NH 3 (g) + H 2 O(l): NH 4 NO 3 (aq) + KOH(aq) &rarr; KNO 3 (aq) + H 2 O(l) + NH 3 (g) (d) The carbonate has two Li + , so it needs 2 HBr. H 2 CO 3 becomes CO 2 (g) + H 2 O(l): Li 2 CO 3 (s) + 2 HBr(aq) &rarr; 2 LiBr(aq) + H 2 O(l) + CO 2 (g)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 7.36",
+  "question": "Which pair of solutions produces a gas when mixed? A. KCl(aq) + NaNO 3 (aq) B. HNO 3 (aq) + Ca(OH) 2 (aq) C. K 2 SO 3 (aq) + HI(aq) D. Mg(NO 3 ) 2 (aq) + Na 2 SO 4 (aq)",
+  "answer": "C. A sulfite plus a strong acid gives H 2 SO 3 , which breaks down into sulfur dioxide gas and water: K 2 SO 3 (aq) + 2 HI(aq) &rarr; 2 KI(aq) + H 2 O(l) + SO 2 (g) A: the swapped products, KNO 3 and NaCl, are both soluble. No reaction. B is a neutralization: 2 HNO 3 + Ca(OH) 2 &rarr; 2 H 2 O + Ca(NO 3 ) 2 . Water forms, but no gas. D: the swapped products, MgSO 4 (Mg 2+ is not a sulfate exception) and NaNO 3 , are both soluble. No reaction.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 7.37",
+  "question": "Use the oxidation-number rules from Section 7.7, in order, to complete the table. Oxidation numbers to find (blanks marked ?) Species Where you meet it Element Oxidation number NO 2 brown gas in Valley smog N ? NH 4 + ammonium fertilizers N ? ClO &minus; hypochlorite in bleach disinfectant Cl ? S 2 O 3 2&minus; thiosulfate, used in photographic fixer S ? MnO 2 alkaline batteries Mn ? Fe 2 O 3 rust Fe ? H 2 O 2 antiseptic; tooth whitening O ? C 2 O 4 2&minus; oxalate in kidney stones C ?",
+  "answer": "NO 2 : N + 2(&minus;2) = 0, so N = +4 . NH 4 + : N + 4(+1) = +1, so N = &minus;3 . ClO &minus; : O is &minus;2 (rule 6 comes before rule 7, so O wins over Cl). Cl + (&minus;2) = &minus;1, so Cl = +1 . Chlorine is not &minus;1 here. S 2 O 3 2&minus; : 2 S + 3(&minus;2) = &minus;2, so 2 S = +4 and S = +2 . MnO 2 : Mn + 2(&minus;2) = 0, so Mn = +4 . Fe 2 O 3 : 2 Fe + 3(&minus;2) = 0, so 2 Fe = +6 and Fe = +3 (iron(III) oxide). H 2 O 2 : H is +1 (rule 5 comes before rule 6). 2(+1) + 2 O = 0, so O = &minus;1 , the unusual value in peroxides. C 2 O 4 2&minus; : 2 C + 4(&minus;2) = &minus;2, so 2 C = +6 and C = +3 . In each, check that the oxidation numbers add up to the overall charge.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 7.38",
+  "question": "Oxygen difluoride, OF 2 , is a toxic, very reactive gas. What is the oxidation number of oxygen in OF 2 ? A. &minus;2 B. +2 C. &minus;1 D. 0",
+  "answer": "B. The rules are applied in order, and fluorine (rule 4) comes before oxygen (rule 6). Each F is &minus;1, so O + 2(&minus;1) = 0 and O = +2 . A uses the oxygen rule, but that rule loses when it conflicts with the earlier fluorine rule. With O = &minus;2 and F = &minus;1, the sum would be &minus;4, not 0. C is the value for oxygen in peroxides such as H 2 O 2 , not in OF 2 ; it would give a sum of &minus;3. D is the oxidation number of oxygen only as a free element (O 2 ). In a compound with fluorine, oxygen is not 0.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 7.39",
+  "question": "The thermite reaction is so hot that it is used to weld railroad rails in the field: 2 Al(s) + Fe 2 O 3 (s) &rarr; Al 2 O 3 (s) + 2 Fe(l) (a) Assign oxidation numbers to every element. (b) Which element is oxidized and which is reduced? (c) Name the oxidizing agent and the reducing agent. (d) How many electrons are transferred in the equation as written?",
+  "answer": "(a) Left: Al 0 (element); in Fe 2 O 3 , O &minus;2 and Fe +3. Right: in Al 2 O 3 , O &minus;2 and Al +3; Fe 0 (element). (b) Al goes from 0 to +3: oxidized . Fe goes from +3 to 0: reduced . O stays &minus;2. (c) Oxidizing agent: Fe 2 O 3 (it contains the Fe that is reduced). Reducing agent: Al (it is oxidized). (d) Each Al loses 3 electrons, and there are 2 Al: 6 electrons . Check: each Fe gains 3, and 2 Fe gain 6. Electrons lost = electrons gained.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 7.40",
+  "question": "Silverware and silver jewelry tarnish in air that contains traces of hydrogen sulfide: 4 Ag(s) + 2 H 2 S(g) + O 2 (g) &rarr; 2 Ag 2 S(s) + 2 H 2 O(l) Which substance is the oxidizing agent? A. Ag B. H 2 S C. O 2 D. Ag 2 S",
+  "answer": "C. Oxidation numbers: Ag 0 &rarr; +1 (in Ag 2 S, with S 2&minus; ), so silver is oxidized. O 0 &rarr; &minus;2 (in H 2 O), so oxygen is reduced. H stays +1 and S stays &minus;2. The oxidizing agent is the reactant that contains the element reduced: O 2 . Check: 4 Ag each lose 1 electron (4 lost); 2 O atoms each gain 2 (4 gained). A: silver is oxidized, so Ag is the reducing agent. B: neither H (+1) nor S (&minus;2) changes oxidation number, so H 2 S is neither oxidized nor reduced. D is a product. The oxidizing and reducing agents are reactants.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 7.41",
+  "question": "Before digital imaging, X-ray departments recovered silver from used film-fixer solution by passing it through canisters of steel wool (iron). In simplified form, the reaction is iron metal reacting with silver ions to form iron(II) ions and silver metal. (a) Write the oxidation and reduction half-reactions. (b) Combine them into the balanced net equation. (c) How many electrons are transferred?",
+  "answer": "(a) Oxidation (electrons on the right): Fe(s) &rarr; Fe 2+ (aq) + 2 e &minus; Reduction (electrons on the left): Ag + (aq) + e &minus; &rarr; Ag(s) (b) Iron loses 2 electrons but each Ag + gains only 1, so multiply the reduction by 2, add, and cancel the 2 e &minus; : Fe(s) + 2 Ag + (aq) &rarr; Fe 2+ (aq) + 2 Ag(s) Check: charge 2(+1) = +2 on the left and +2 on the right. (c) 2 electrons .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 7.42",
+  "question": "Which reaction is not an oxidation&ndash;reduction reaction? A. 4 Li(s) + O 2 (g) &rarr; 2 Li 2 O(s) B. CaO(s) + CO 2 (g) &rarr; CaCO 3 (s) C. N 2 (g) + 3 H 2 (g) &rarr; 2 NH 3 (g) D. 2 CO(g) + O 2 (g) &rarr; 2 CO 2 (g)",
+  "answer": "B. Ca is +2 in CaO and in CaCO 3 ; C is +4 in CO 2 and in CaCO 3 ; O is &minus;2 throughout. No oxidation number changes, so no electrons are transferred. It is a combination of two compounds, not of elements, which is why it is not redox. A: Li goes from 0 to +1 (oxidized) and O from 0 to &minus;2 (reduced). A metal combining with an element is redox. C: N goes from 0 to &minus;3 (reduced) and H from 0 to +1 (oxidized). D: C goes from +2 in CO to +4 in CO 2 (oxidized), and O in O 2 goes from 0 to &minus;2 (reduced).",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 7.43",
+  "question": "Hydrogen peroxide whitens teeth and foams on a wound because it breaks down: 2 H 2 O 2 (aq) &rarr; 2 H 2 O(l) + O 2 (g) (a) Give the oxidation number of oxygen in H 2 O 2 , H 2 O, and O 2 . (b) Which oxygen atoms are oxidized and which are reduced? (c) What is unusual about the oxidizing and reducing agents here? (d) How many electrons are transferred in the equation as written?",
+  "answer": "(a) H 2 O 2 : H is +1, so 2(+1) + 2 O = 0 and O = &minus;1 . H 2 O: O = &minus;2 . O 2 : 0 (element). (b) The O atoms that end up in H 2 O go from &minus;1 to &minus;2: reduced . The O atoms that end up in O 2 go from &minus;1 to 0: oxidized . (c) H 2 O 2 is both the oxidizing agent and the reducing agent. Some peroxide molecules give electrons to others. (d) The 2 O atoms in O 2 each lose 1 electron: 2 electrons . Check: the 2 O atoms in 2 H 2 O each gain 1 electron, 2 in all.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 7.44",
+  "question": "Use the activity series from Section 7.8, listed from most active to least active: Li, K, Ca, Na, Mg, Al, Zn, Fe, Ni, Sn, Pb, H 2 , Cu, Ag, Au Gold crowns and many dental alloys do not corrode in the mouth, even with acidic foods. Which of these metals will react with hydrochloric acid to release hydrogen gas? A. Cu B. Ag C. Ni D. Au",
+  "answer": "C. Nickel is above H 2 in the series, so it displaces hydrogen from the acid: Ni(s) + 2 HCl(aq) &rarr; NiCl 2 (aq) + H 2 (g). A: copper is below H 2 , so it does not react with HCl. B: silver is below H 2 ; no reaction. D: gold is at the very bottom, the least active metal on the list. That resistance is why it is used for crowns.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 7.45",
+  "question": "Use the activity series, listed from most active to least active: Li, K, Ca, Na, Mg, Al, Zn, Fe, Ni, Sn, Pb, H 2 , Cu, Ag, Au Predict whether each reaction occurs. If it does, write the balanced equation; if not, write NR. (In these reactions, Fe, Sn, Ni, and Pb form 2+ ions.) (a) Fe(s) + Pb(NO 3 ) 2 (aq); (b) Ag(s) + Cu(NO 3 ) 2 (aq); (c) Al(s) + NiSO 4 (aq); (d) Sn(s) + HCl(aq); (e) Pb(s) + ZnCl 2 (aq).",
+  "answer": "(a) Fe is above Pb, so it reacts: Fe(s) + Pb(NO 3 ) 2 (aq) &rarr; Fe(NO 3 ) 2 (aq) + Pb(s) (b) Ag is below Cu: NR . (c) Al is above Ni, so it reacts. Al 3+ pairs with SO 4 2&minus; as Al 2 (SO 4 ) 3 ; balance sulfate as a unit: 2 Al(s) + 3 NiSO 4 (aq) &rarr; Al 2 (SO 4 ) 3 (aq) + 3 Ni(s) (d) Sn is above H 2 , so it reacts (slowly) with the acid: Sn(s) + 2 HCl(aq) &rarr; SnCl 2 (aq) + H 2 (g) (e) Pb is below Zn: NR .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 7.46",
+  "question": "Use the activity series, listed from most active to least active: Li, K, Ca, Na, Mg, Al, Zn, Fe, Ni, Sn, Pb, H 2 , Cu, Ag, Au Steel water heaters and the steel tanks used to store irrigation water are protected from rust by a \"sacrificial anode,\" a rod of a more active metal that corrodes in place of the iron. Which metal could serve as a sacrificial anode for iron? A. Cu B. Sn C. Mg D. Pb",
+  "answer": "C. Magnesium is above iron, so it gives up electrons more easily. As long as the Mg rod lasts, Mg is oxidized instead of Fe, and the electrons it releases flow into the steel, so the iron is not oxidized. (The activity series shows why: Mg(s) + Fe 2+ (aq) &rarr; Mg 2+ (aq) + Fe(s) goes, so Mg gives up electrons more easily than Fe.) A: copper is below iron, so the iron would corrode first; joining copper to steel can even speed up rusting. B: tin is below iron. Tin can coat steel as a barrier (as in \"tin cans\"), but it does not protect iron sacrificially. D: lead is below iron, so it would not be oxidized in place of the iron.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 7.47",
+  "question": "Use the activity series, listed from most active to least active: Li, K, Ca, Na, Mg, Al, Zn, Fe, Ni, Sn, Pb, H 2 , Cu, Ag, Au A student tests an unknown metal, M, that forms 2+ ions. It bubbles slowly in HCl(aq). It shows no change in Zn(NO 3 ) 2 (aq). In Pb(NO 3 ) 2 (aq), a gray coating of lead forms on it. (a) Which metals in the series could M be? (b) Suggest one more test, using a solution of a metal in the series, that would narrow the list.",
+  "answer": "(a) Reacts with HCl: M is above H 2 . No reaction with Zn 2+ : M is below Zn. Displaces Pb 2+ : M is above Pb. The metals between Zn and Pb are Fe, Ni, or Sn . (b) Place M in Ni(NO 3 ) 2 (aq) (or another nickel salt). If a nickel coating forms, M is above Ni, so M is Fe . If nothing happens, M is Ni or Sn; a further test in a tin(II) solution separates them (Ni displaces Sn 2+ ; Sn cannot displace its own ion). (A test in an Fe 2+ solution would not help: Fe is the highest of the three, so none of them would react.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 7.48",
+  "question": "Use the activity series, listed from most active to least active: Li, K, Ca, Na, Mg, Al, Zn, Fe, Ni, Sn, Pb, H 2 , Cu, Ag, Au Which reaction occurs? A. Cu(s) + ZnSO 4 (aq) &rarr; B. Pb(s) + MgCl 2 (aq) &rarr; C. Ni(s) + 2 AgNO 3 (aq) &rarr; D. Au(s) + HCl(aq) &rarr;",
+  "answer": "C. Nickel is above silver, so it displaces Ag + : Ni(s) + 2 AgNO 3 (aq) &rarr; Ni(NO 3 ) 2 (aq) + 2 Ag(s) A: copper is below zinc, so Cu cannot displace Zn 2+ . No reaction. B: lead is far below magnesium. No reaction. D: gold is below H 2 and does not react with acids such as HCl.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 7.49",
+  "question": "Use the activity series, listed from most active to least active: Li, K, Ca, Na, Mg, Al, Zn, Fe, Ni, Sn, Pb, H 2 , Cu, Ag, Au Potassium metal is stored under oil in the stockroom, but copper pipes carry drinking water for decades. (a) Write the balanced equation, with phase labels, for potassium reacting with liquid water to form aqueous potassium hydroxide and hydrogen gas. (b) Use the series to explain why copper does not react with water.",
+  "answer": "(a) Potassium replaces one H in each water molecule, and the H atoms pair up as H 2 : 2 K(s) + 2 H 2 O(l) &rarr; 2 KOH(aq) + H 2 (g) Check: K 2 = 2; H 4 = 2 + 2; O 2 = 2. Potassium is near the top of the series, among the metals active enough to react with water, so it must be kept away from air and moisture. (b) Copper is below H 2 . It cannot even displace hydrogen from acids, so it certainly cannot displace hydrogen from water. Only the most active metals at the top of the list react with water.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 7.50",
+  "question": "Aqueous strontium chloride is mixed with aqueous potassium carbonate. (a) Write the formulas of the two reactants from their names (Chapter 4). (b) Predict the products and write the balanced molecular equation with phase labels. (c) Write the net ionic equation. (d) Name the precipitate.",
+  "answer": "(a) Strontium (group 2) forms Sr 2+ ; chloride is Cl &minus; : SrCl 2 . Potassium forms K + ; carbonate is CO 3 2&minus; : K 2 CO 3 . (b) Swap partners: SrCO 3 (insoluble carbonate; Sr 2+ is not Group 1 or NH 4 + ) and KCl (soluble). SrCl 2 (aq) + K 2 CO 3 (aq) &rarr; SrCO 3 (s) + 2 KCl(aq) (c) Sr 2+ (aq) + CO 3 2&minus; (aq) &rarr; SrCO 3 (s) Spectators: K + and Cl &minus; . Charge: +2 &minus; 2 = 0. (d) Strontium carbonate .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 7.51",
+  "question": "Acetone, C 3 H 6 O, is the solvent in nail-polish remover, and it is also one of the ketones that can give a fruity smell to the breath of a person in diabetic ketoacidosis. (a) Write the balanced equation for its complete combustion. (b) Find its molar mass. (c) In a sealed container, 1.16 g of acetone burns completely with exactly 2.56 g of oxygen, forming 2.64 g of carbon dioxide. What mass of water forms? (H 1.008, C 12.011, O 15.999)",
+  "answer": "(a) C: 3 CO 2 . H: 6 H makes 3 H 2 O. O on the right: 3(2) + 3 = 9; the fuel supplies 1, so O 2 supplies 8 O atoms, or 4 O 2 : C 3 H 6 O(l) + 4 O 2 (g) &rarr; 3 CO 2 (g) + 3 H 2 O(g) Check: C 3 = 3; H 6 = 6; O 1 + 8 = 9 = 6 + 3. (b) 3(12.011) + 6(1.008) + 15.999 = 36.033 + 6.048 + 15.999 = 58.080 g/mol (3 decimal places, set by the masses as printed). (c) Conservation of mass: total reactant mass = 1.16 g + 2.56 g = 3.72 g, so the water is 3.72 g &minus; 2.64 g = 1.08 g . (Chapter 8 shows how to predict all of these masses from the balanced equation.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 7.52",
+  "question": "Use the activity series, listed from most active to least active: Li, K, Ca, Na, Mg, Al, Zn, Fe, Ni, Sn, Pb, H 2 , Cu, Ag, Au A strip of tin metal is placed in aqueous copper(II) chloride. (a) Write the formula of copper(II) chloride (Chapter 4). (b) Will a reaction occur? (c) If so, write the balanced equation, with tin forming tin(II) chloride, and name the reaction pattern. (d) Write the two half-reactions and identify the oxidizing and reducing agents.",
+  "answer": "(a) Copper(II) is Cu 2+ , so it needs two Cl &minus; : CuCl 2 . (b) Yes. Tin is above copper in the series. (c) Single displacement (and a redox reaction): Sn(s) + CuCl 2 (aq) &rarr; SnCl 2 (aq) + Cu(s) (d) Oxidation: Sn(s) &rarr; Sn 2+ (aq) + 2 e &minus; . Reduction: Cu 2+ (aq) + 2 e &minus; &rarr; Cu(s). The electron counts already match (2 each). Reducing agent: Sn (oxidized, 0 &rarr; +2). Oxidizing agent: CuCl 2 , specifically the Cu 2+ ion (reduced, +2 &rarr; 0). Cl &minus; is a spectator.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 7.53",
+  "question": "Potassium hydrogen carbonate (potassium bicarbonate) is the active ingredient in some antacids. Which is the correct balanced equation for its reaction with hydrochloric acid? A. KHCO 3 (aq) + HCl(aq) &rarr; KCl(aq) + H 2 CO 3 (aq) B. KHCO 3 (aq) + HCl(aq) &rarr; KCl(aq) + H 2 O(l) + CO 2 (g) C. KHCO 3 (aq) + HCl(aq) &rarr; KCl(aq) + H 2 (g) + CO 3 (g) D. KHCO 3 (aq) + 2 HCl(aq) &rarr; KCl 2 (aq) + H 2 O(l) + CO 2 (g)",
+  "answer": "B. From the names: potassium is K + and hydrogen carbonate is HCO 3 &minus; , so KHCO 3 ; hydrochloric acid is HCl. Swapping partners gives KCl and H 2 CO 3 , and carbonic acid becomes H 2 O(l) + CO 2 (g). Check: K 1 = 1; H 2 = 2; C 1 = 1; O 3 = 1 + 2; Cl 1 = 1. A is balanced but stops too early. H 2 CO 3 is unstable and should never be a final product. C invents products. The carbonic acid breaks down into water and CO 2 , not H 2 gas, and \"CO 3 (g)\" is not a real substance. D uses a wrong formula: K + and Cl &minus; combine 1:1, so the salt is KCl, not KCl 2 . (D is not balanced in H either.)",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 7.54",
+  "question": "Baking soda, sodium hydrogen carbonate, helps baked goods rise because heat breaks it down: 2 NaHCO 3 (s) &rarr; Na 2 CO 3 (s) + H 2 O(g) + CO 2 (g) (a) What type of reaction is this? (b) Find the molar mass of NaHCO 3 . (c) A student heats 4.20 g of NaHCO 3 in an open crucible until the reaction is complete, and 2.65 g of solid sodium carbonate remains. What total mass of gases escaped? (H 1.008, C 12.011, O 15.999, Na 22.99)",
+  "answer": "(a) Decomposition : one reactant breaks into three simpler products when heated. (No oxidation numbers change, so it is not redox.) (b) 22.99 + 1.008 + 12.011 + 3(15.999) = 22.99 + 1.008 + 12.011 + 47.997 = 84.006, which rounds to 84.01 g/mol (2 decimal places, set by Na). (c) Conservation of mass: gases = 4.20 g &minus; 2.65 g = 1.55 g of water vapor and carbon dioxide together. The solid weighs less because the gases left the crucible, not because mass was destroyed.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 7.55",
+  "question": "(Going Further, not on CHEM 3A exams unless assigned) A hospital lab checks the strength of a hydrogen peroxide disinfectant by reacting it with purple permanganate ion in acidic solution. Permanganate is reduced to colorless Mn 2+ , and the peroxide is oxidized to O 2 . Balance the reaction in acidic solution with the half-reaction method. MnO 4 &minus; (aq) + H 2 O 2 (aq) &rarr; Mn 2+ (aq) + O 2 (g)",
+  "answer": "Oxidation: H 2 O 2 &rarr; O 2 . O is balanced (2 = 2); add 2 H + on the right for H; the charge is 0 on the left and +2 on the right, so add 2 e &minus; on the right: H 2 O 2 &rarr; O 2 + 2 H + + 2 e &minus; Reduction: MnO 4 &minus; &rarr; Mn 2+ . Add 4 H 2 O on the right for O; add 8 H + on the left for H; the charge is &minus;1 + 8 = +7 on the left and +2 on the right, so add 5 e &minus; on the left: MnO 4 &minus; + 8 H + + 5 e &minus; &rarr; Mn 2+ + 4 H 2 O The electrons meet at 10: multiply the oxidation by 5 and the reduction by 2, add, and cancel 10 e &minus; and 10 of the 16 H + : 2 MnO 4 &minus; (aq) + 5 H 2 O 2 (aq) + 6 H + (aq) &rarr; 2 Mn 2+ (aq) + 5 O 2 (g) + 8 H 2 O(l) Check: Mn 2 = 2; O 8 + 10 = 18 = 10 + 8; H 10 + 6 = 16 = 16; charge &minus;2 + 6 = +4 on the left and 2(+2) = +4 on the right.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 7.56",
+  "question": "(Going Further, not on CHEM 3A exams unless assigned) Many pacemakers run for years on a lithium&ndash;iodine battery, whose overall reaction is 2 Li(s) + I 2 (s) &rarr; 2 LiI(s) Which electrode is the anode, and what happens there? A. The lithium electrode; lithium is oxidized: Li &rarr; Li + + e &minus; . B. The iodine electrode; iodine is oxidized: I 2 &rarr; 2 I &minus; + 2 e &minus; . C. The lithium electrode; lithium is reduced: Li + e &minus; &rarr; Li &minus; . D. The iodine electrode; iodine is reduced: I 2 + 2 e &minus; &rarr; 2 I &minus; .",
+  "answer": "A. The anode is where oxidation happens. Lithium goes from 0 to +1 in LiI, so it loses electrons, which flow out through the wire to the pacemaker circuit. B: iodine gains electrons (0 &rarr; &minus;1). The half-reaction as written is not even balanced in charge: 0 on the left, &minus;4 on the right. C: lithium, a Group 1 metal, loses electrons to form Li + ; it does not gain them. Reduction happens at the cathode, not the anode. D correctly describes the cathode , where iodine is reduced. The question asks for the anode.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 7.57",
+  "question": "Balance with the smallest whole numbers. What is the coefficient of H 2 O? __ Sr(OH) 2 (aq) + __ H 3 PO 4 (aq) &rarr; __ Sr 3 (PO 4 ) 2 (s) + __ H 2 O(l) A. 2 B. 3 C. 6 D. 12",
+  "answer": "C. Write water as HOH and zig-zag. Phosphate: 2 on the right, so 2 H 3 PO 4 . Zig to H: 6 H, so 6 HOH. Zag to OH: 6 OH, so 3 Sr(OH) 2 . Zig to Sr: 3 = 3. 3 Sr(OH) 2 (aq) + 2 H 3 PO 4 (aq) &rarr; Sr 3 (PO 4 ) 2 (s) + 6 H 2 O(l) Check: Sr 3 = 3; P 2 = 2; H 6 + 6 = 12 = 12; O 6 + 8 = 14 = 8 + 6. A is the coefficient of H 3 PO 4 , not of water. B is the coefficient of Sr(OH) 2 . With only 3 H 2 O, the 12 H atoms on the left would not all be accounted for. D is the total number of H atoms on each side (12), not the number of water molecules; each H 2 O holds 2 H.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 7.58",
+  "question": "Use the three steps (letters, formulas, balance) to predict and balance each reaction. (a) Chlorine gas is bubbled into magnesium bromide solution. (b) Calcium metal is dropped into hydrobromic acid, HBr(aq). (c) Pentane, C 5 H 12 , burns in air.",
+  "answer": "(a) A + BC: single displacement. Chlorine forms Cl &minus; , an anion, so it replaces bromide. Mg 2+ and Cl &minus; make MgCl 2 ; bromine leaves as Br 2 : Cl 2 (g) + MgBr 2 (aq) &rarr; MgCl 2 (aq) + Br 2 (aq) Already balanced: Mg 1, Cl 2, Br 2 on each side. (b) A + BC: single displacement. Calcium forms Ca 2+ , a cation, so it replaces H + . Ca 2+ and Br &minus; make CaBr 2 ; hydrogen leaves as H 2 . Balance Br with 2 HBr, which also fixes H: Ca(s) + 2 HBr(aq) &rarr; CaBr 2 (aq) + H 2 (g) (c) \"Burns in air\" means combustion: supply O 2 , CO 2 , and H 2 O. C: 5 CO 2 . H: 12 H, so 6 H 2 O. O on the right: 10 + 6 = 16, even, so 8 O 2 : C 5 H 12 (l) + 8 O 2 (g) &rarr; 5 CO 2 (g) + 6 H 2 O(g) Check: C 5 = 5; H 12 = 12; O 16 = 16.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 7.59",
+  "question": "Which substance is a weak electrolyte? A. KNO 3 B. H 3 PO 4 C. HClO 4 D. C 6 H 12 O 6",
+  "answer": "B. H in front marks an acid. Phosphoric acid is not on the green sheet's list of strong acids, so it is a weak acid and a weak electrolyte: only a small fraction of its molecules form ions. A is ionic (K + and NO 3 &minus; ) and soluble (AANA), so it is a strong electrolyte. C, perchloric acid, is on the strong-acid list, so it is a strong electrolyte. D, glucose, is a carbon-based molecule with no H in front and no hydroxide ion: a nonelectrolyte. It dissolves, but as whole molecules.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 7.60",
+  "question": "Solutions of chromium(III) nitrate and potassium hydroxide are mixed. Follow the full routine to write the molecular, complete ionic, and net ionic equations.",
+  "answer": "Formulas: Cr 3+ and NO 3 &minus; give Cr(NO 3 ) 3 ; K + and OH &minus; give KOH. Double displacement: outside ions Cr 3+ and OH &minus; give Cr(OH) 3 ; inside ions give KNO 3 . Balance by zig-zag: 3 NO 3 on the left, so 3 KNO 3 ; zig to K, so 3 KOH; OH is then 3 = 3. Phases: Cr(OH) 3 is insoluble (hydroxide, and Cr 3+ is not an exception); KNO 3 is soluble. Molecular: Cr(NO 3 ) 3 (aq) + 3 KOH(aq) &rarr; Cr(OH) 3 (s) + 3 KNO 3 (aq) Complete ionic: Cr 3+ (aq) + 3 NO 3 &minus; (aq) + 3 K + (aq) + 3 OH &minus; (aq) &rarr; Cr(OH) 3 (s) + 3 K + (aq) + 3 NO 3 &minus; (aq) Net ionic (cancel 3 K + and 3 NO 3 &minus; ): Cr 3+ (aq) + 3 OH &minus; (aq) &rarr; Cr(OH) 3 (s) Check: charge +3 + 3(&minus;1) = 0 on the left, 0 on the right.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 7.61",
+  "question": "Perchloric acid, HClO 4 (aq), is added to sodium bisulfite solution, NaHSO 3 (aq). Bubbles form. Write the molecular and net ionic equations, and name the gas.",
+  "answer": "Swap partners: NaClO 4 (sodium perchlorate) and H 2 SO 3 . Balance first (it already is), then replace H 2 SO 3 ; by subtraction, H 2 SO 3 &minus; H 2 O = SO 2 : HClO 4 (aq) + NaHSO 3 (aq) &rarr; NaClO 4 (aq) + H 2 O(l) + SO 2 (g) Complete ionic: H + (aq) + ClO 4 &minus; (aq) + Na + (aq) + HSO 3 &minus; (aq) &rarr; Na + (aq) + ClO 4 &minus; (aq) + H 2 O(l) + SO 2 (g). Cancel Na + and ClO 4 &minus; : H + (aq) + HSO 3 &minus; (aq) &rarr; H 2 O(l) + SO 2 (g) The gas is sulfur dioxide . Bisulfite stays whole in the net ionic equation because it is a polyatomic ion.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 61,
+  "title": "Problem 7.62",
+  "question": "Aluminum's protective oxide layer forms by 4 Al(s) + 3 O 2 (g) &rarr; 2 Al 2 O 3 (s). (a) Is this reaction redox? (b) Write the oxidation and reduction half-reactions. (c) How many electrons are transferred in the balanced equation? (d) What is the oxidation number of H in lithium hydride, LiH?",
+  "answer": "(a) Yes. It is a combination in which free elements (oxidation number 0) end up in a compound, so oxidation numbers change: Al 0 &rarr; +3 (by reverse swap-drop: 3 O 2&minus; give 6&minus;, shared by 2 Al) and O 0 &rarr; &minus;2. (b) Oxidation: Al &rarr; Al 3+ + 3 e &minus; . Reduction: O 2 + 4 e &minus; &rarr; 2 O 2&minus; . (c) The least common multiple of 3 and 4 is 12: 4 Al lose 12 electrons and 3 O 2 gain 12. 12 electrons are transferred. (d) The Group 1 rule comes before the hydrogen rule, so Li is +1 and H is &minus;1 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.10_practice_problems.html",
+  "idx": 62,
+  "title": "Problem 7.63",
+  "question": "Which equation is correctly balanced? A. Zn(s) + Ag + (aq) &rarr; Zn 2+ (aq) + Ag(s) B. Zn(s) + 2 Ag + (aq) &rarr; Zn 2+ (aq) + 2 Ag(s) C. 2 Zn(s) + Ag + (aq) &rarr; 2 Zn 2+ (aq) + Ag(s) D. Zn(s) + Ag 2+ (aq) &rarr; Zn 2+ (aq) + Ag(s)",
+  "answer": "B. Zinc loses 2 electrons (Zn &rarr; Zn 2+ + 2 e &minus; ) and each silver ion gains 1 (Ag + + e &minus; &rarr; Ag), so two silver ions are needed. Atoms balance (Zn 1, Ag 2), and charge balances: +2 on each side. A balances the atoms but not the charge: +1 on the left, +2 on the right. Electrons cannot just appear or vanish. C puts the coefficient on the wrong species. The atoms balance, but the charge gets worse: +1 on the left, +4 on the right. D changes the silver ion into Ag 2+ to force the charges to match. Like changing a subscript, changing an ion's charge changes the substance; silver ions are Ag + .",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.12_going_further.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Balance in acidic solution: Cu(s) + NO 3 &minus; (aq) &rarr; Cu 2+ (aq) + NO(g).",
+  "answer": "Oxidation: Cu &rarr; Cu 2+ + 2 e &minus; (&times;3). Reduction: NO 3 &minus; + 4 H + + 3 e &minus; &rarr; NO + 2 H 2 O (&times;2). Net: 3 Cu + 2 NO 3 &minus; + 8 H + &rarr; 3 Cu 2+ + 2 NO + 4 H 2 O.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.12_going_further.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "In a zinc&ndash;copper cell, which electrode is the anode?",
+  "answer": "The zinc electrode: zinc is oxidized there (Zn &rarr; Zn 2+ + 2 e &minus; ).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.1_chemical_equations.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Which are evidence of a chemical change: (a) ice melting; (b) a cut apple turning brown; (c) a copper roof turning green; (d) sugar dissolving in tea?",
+  "answer": "(b) and (c): new substances form (color changes). (a) and (d) are physical changes.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.1_chemical_equations.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Write an equation, with phase labels, for: \"Solid magnesium burns in oxygen gas to form solid magnesium oxide.\" (You may leave it unbalanced.)",
+  "answer": "Mg(s) + O 2 (g) &rarr; MgO(s). Balanced: 2 Mg(s) + O 2 (g) &rarr; 2 MgO(s).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.1_chemical_equations.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "In a sealed flask, 4.0 g of hydrogen reacts completely with 32.0 g of oxygen. What is the mass of water formed?",
+  "answer": "4.0 g + 32.0 g = 36.0 g of water (conservation of mass).",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch07/7.2_balancing.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Balance: Al(s) + O 2 (g) &rarr; Al 2 O 3 (s).",
+  "answer": "4 Al(s) + 3 O 2 (g) &rarr; 2 Al 2 O 3 (s). Al 4 = 4; O 6 = 6.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.2_balancing.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Balance: Zn(s) + HCl(aq) &rarr; ZnCl 2 (aq) + H 2 (g).",
+  "answer": "Zn(s) + 2 HCl(aq) &rarr; ZnCl 2 (aq) + H 2 (g).",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch07/7.2_balancing.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Balance the combustion of propane: C 3 H 8 (g) + O 2 (g) &rarr; CO 2 (g) + H 2 O(g).",
+  "answer": "C 3 H 8 (g) + 5 O 2 (g) &rarr; 3 CO 2 (g) + 4 H 2 O(g). O: 10 = 6 + 4.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.2_balancing.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Use the zig-zag method: KOH(aq) + H 2 SO 4 (aq) &rarr; K 2 SO 4 (aq) + H 2 O(l).",
+  "answer": "2 KOH(aq) + H 2 SO 4 (aq) &rarr; K 2 SO 4 (aq) + 2 H 2 O(l). Write water as HOH. Sulfate is 1 = 1. Zig to its partner H: 2 H on the left, so 2 HOH. Zag to OH: 2 OH on the right, so 2 KOH. Zig to K: 2 = 2.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.2_balancing.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Balance the combustion of butane: C 4 H 10 (g) + O 2 (g) &rarr; CO 2 (g) + H 2 O(g). Is the oxygen total odd or even after you balance C and H?",
+  "answer": "With 1 C 4 H 10 : 4 CO 2 and 5 H 2 O give 8 + 5 = 13 O, which is odd. Double the hydrocarbon: 2 C 4 H 10 , 8 CO 2 , 10 H 2 O, 16 + 10 = 26 O, so 13 O 2 . 2 C 4 H 10 (g) + 13 O 2 (g) &rarr; 8 CO 2 (g) + 10 H 2 O(g) . Check: C 8 = 8; H 20 = 20; O 26 = 26.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.3_reaction_patterns.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Classify: (a) 2 KClO 3 (s) &rarr; 2 KCl(s) + 3 O 2 (g); (b) Fe(s) + 2 HCl(aq) &rarr; FeCl 2 (aq) + H 2 (g); (c) 4 Fe(s) + 3 O 2 (g) &rarr; 2 Fe 2 O 3 (s).",
+  "answer": "(a) decomposition. (b) single displacement. (c) combination (rusting).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.3_reaction_patterns.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Write the balanced equation for the complete combustion of ethanol, C 2 H 5 OH(l).",
+  "answer": "C 2 H 5 OH(l) + 3 O 2 (g) &rarr; 2 CO 2 (g) + 3 H 2 O(g). O: 1 + 6 = 7 = 4 + 3.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.3_reaction_patterns.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Predict the products and balance: CaCl 2 (aq) + Na 2 CO 3 (aq) &rarr; ?",
+  "answer": "Double displacement: CaCl 2 (aq) + Na 2 CO 3 (aq) &rarr; CaCO 3 (s) + 2 NaCl(aq).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.3_reaction_patterns.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Predict the products and balance: Br 2 (aq) + KI(aq) &rarr; ?",
+  "answer": "Single displacement. Bromine forms Br &minus; , so it replaces the anion, I &minus; : Br 2 (aq) + 2 KI(aq) &rarr; 2 KBr(aq) + I 2 (aq) . Br 2 = 2; K 2 = 2; I 2 = 2.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.3_reaction_patterns.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Use the three steps for a three-H + acid: Mg(s) + H 3 PO 4 (aq) &rarr; ?",
+  "answer": "Letters: A + BC, single displacement; Mg 2+ replaces H + . Swap-drop Mg 2+ with PO 4 3&minus; : Mg 3 (PO 4 ) 2 ; hydrogen leaves as H 2 . Balance phosphate as a unit (2 H 3 PO 4 ), zig to H (6 H, so 3 H 2 ), and finish with the lonely Mg (3 Mg): 3 Mg(s) + 2 H 3 PO 4 (aq) &rarr; Mg 3 (PO 4 ) 2 (s) + 3 H 2 (g) . (Magnesium phosphate is insoluble.) Check: Mg 3 = 3; PO 4 2 = 2; H 6 = 6.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.3_reaction_patterns.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "question": "\"Propane burns in air.\" Write the balanced equation.",
+  "answer": "Supply O 2 and the combustion products yourself: C 3 H 8 (g) + 5 O 2 (g) &rarr; 3 CO 2 (g) + 4 H 2 O(g) . After C and H, oxygen on the right is 6 + 4 = 10 (even), so 5 O 2 finishes it.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.4_solubility.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Classify as strong, weak, or nonelectrolyte: (a) KBr; (b) C 12 H 22 O 11 (sucrose); (c) HC 2 H 3 O 2 ; (d) HNO 3 .",
+  "answer": "(a) strong (soluble ionic). (b) nonelectrolyte. (c) weak (weak acid). (d) strong (strong acid).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.4_solubility.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Write the ions formed when Al(NO 3 ) 3 dissolves.",
+  "answer": "Al(NO 3 ) 3 (s) &rarr; Al 3+ (aq) + 3 NO 3 &minus; (aq).",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch07/7.4_solubility.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Which are insoluble: PbCl 2 , Na 2 CO 3 , CaCO 3 , NH 4 Br, Mg(OH) 2 ?",
+  "answer": "PbCl 2 , CaCO 3 , and Mg(OH) 2 . Na 2 CO 3 (Group 1) and NH 4 Br (ammonium) are soluble.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.4_solubility.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Four drawings claim to show the particles in a solution of magnesium nitrate, Mg(NO 3 ) 2 (aq). Drawing A shows separate Mg 2+ ions, N atoms and O atoms. Drawing B shows 3 Mg 2+ ions and 6 NO 3 &minus; ions. Drawing C shows 3 Mg 2+ ions and 3 NO 3 &minus; ions. Drawing D shows 3 intact Mg(NO 3 ) 2 units. Which is correct?",
+  "answer": "B. Mg(NO 3 ) 2 is soluble (nitrate) and a strong electrolyte, so it separates into ions: Mg 2+ (aq) + 2 NO 3 &minus; (aq), a 1 : 2 ratio, and 3 : 6 is 1 : 2. A breaks the polyatomic ion apart; C has the wrong ratio (1 : 1, which is not neutral); D shows no ions at all, as if it were a nonelectrolyte.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.4_solubility.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Classify as strong, weak, or nonelectrolyte: (a) LiOH; (b) HF; (c) (NH 4 ) 3 PO 4 ; (d) C 3 H 8 O 3 (glycerol).",
+  "answer": "(a) strong: OH in back, and Group 1 hydroxides are strong bases. (b) weak: H in front, but HF is not on the strong-acid list. (c) strong: ionic (ammonium phosphate) and soluble (ammonium). (d) nonelectrolyte: a carbon-based molecule of nonmetals.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.5_precipitation.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Write the net ionic equation for mixing BaCl 2 (aq) and Na 2 SO 4 (aq).",
+  "answer": "Ba 2+ (aq) + SO 4 2&minus; (aq) &rarr; BaSO 4 (s). Spectators: Na + , Cl &minus; .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.5_precipitation.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Will a precipitate form when Sr(NO 3 ) 2 (aq) and KF(aq) are mixed? If so, write the net ionic equation.",
+  "answer": "Yes: SrF 2 is insoluble (fluoride with Sr 2+ ). Sr 2+ (aq) + 2 F &minus; (aq) &rarr; SrF 2 (s).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.5_precipitation.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Write the molecular equation for mixing FeCl 3 (aq) and NaOH(aq).",
+  "answer": "FeCl 3 (aq) + 3 NaOH(aq) &rarr; Fe(OH) 3 (s) + 3 NaCl(aq) (a rusty-brown precipitate).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.5_precipitation.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Solutions of aluminum chloride and silver nitrate are mixed. Write the molecular, complete ionic, and net ionic equations, and name the spectator ions.",
+  "answer": "Molecular: AlCl 3 (aq) + 3 AgNO 3 (aq) &rarr; 3 AgCl(s) + Al(NO 3 ) 3 (aq). Complete ionic: Al 3+ (aq) + 3 Cl &minus; (aq) + 3 Ag + (aq) + 3 NO 3 &minus; (aq) &rarr; 3 AgCl(s) + Al 3+ (aq) + 3 NO 3 &minus; (aq). Net ionic: 3 Ag + (aq) + 3 Cl &minus; (aq) &rarr; 3 AgCl(s), which reduces to Ag + (aq) + Cl &minus; (aq) &rarr; AgCl(s) . Spectators: Al 3+ and NO 3 &minus; .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.5_precipitation.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Without using the solubility table, write the net ionic equation for Pb(NO 3 ) 2 (aq) + 2 KI(aq) &rarr; PbI 2 (s) + 2 KNO 3 (aq).",
+  "answer": "The (s) marks PbI 2 as the product that is not aqueous, so build it from its ions: Pb 2+ (aq) + 2 I &minus; (aq) &rarr; PbI 2 (s) . K + and NO 3 &minus; are spectators.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.6_acid_base_gas.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Write the balanced equation for HNO 3 (aq) + Ca(OH) 2 (aq).",
+  "answer": "2 HNO 3 (aq) + Ca(OH) 2 (aq) &rarr; 2 H 2 O(l) + Ca(NO 3 ) 2 (aq).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.6_acid_base_gas.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Write the balanced equation for Na 2 SO 3 (aq) + 2 HCl(aq), and name the gas.",
+  "answer": "Na 2 SO 3 (aq) + 2 HCl(aq) &rarr; 2 NaCl(aq) + H 2 O(l) + SO 2 (g); sulfur dioxide.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.6_acid_base_gas.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Does a reaction occur when NaCl(aq) and KNO 3 (aq) are mixed?",
+  "answer": "No. The swapped products, NaNO 3 and KCl, are both soluble, and no water or gas forms.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.6_acid_base_gas.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Write the molecular and net ionic equations for HBr(aq) + K 2 CO 3 (aq).",
+  "answer": "Balance first with H 2 CO 3 written in: 2 HBr + K 2 CO 3 &rarr; 2 KBr + H 2 CO 3 . Then replace it: 2 HBr(aq) + K 2 CO 3 (aq) &rarr; 2 KBr(aq) + H 2 O(l) + CO 2 (g) . Spectators K + and Br &minus; cancel: 2 H + (aq) + CO 3 2&minus; (aq) &rarr; H 2 O(l) + CO 2 (g) .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.6_acid_base_gas.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Write the net ionic equation for (NH 4 ) 2 SO 4 (aq) + 2 KOH(aq) &rarr; K 2 SO 4 (aq) + 2 H 2 O(l) + 2 NH 3 (g).",
+  "answer": "Complete ionic: 2 NH 4 + + SO 4 2&minus; + 2 K + + 2 OH &minus; &rarr; 2 K + + SO 4 2&minus; + 2 H 2 O(l) + 2 NH 3 (g). Cancel K + and SO 4 2&minus; and reduce by 2: NH 4 + (aq) + OH &minus; (aq) &rarr; H 2 O(l) + NH 3 (g) .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.7_redox.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Give the oxidation number of Mn in KMnO 4 and of S in H 2 S.",
+  "answer": "KMnO 4 : +1 + Mn + 4(&minus;2) = 0, Mn = +7. H 2 S: 2(+1) + S = 0, S = &minus;2.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.7_redox.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "In 2 Na(s) + Cl 2 (g) &rarr; 2 NaCl(s), what is oxidized, what is reduced, and how many electrons are transferred in the balanced equation?",
+  "answer": "Na (0 &rarr; +1) is oxidized; Cl (0 &rarr; &minus;1) is reduced. 2 Na each lose 1 electron: 2 electrons transferred.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.7_redox.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Write the half-reactions and net equation for Mg(s) + Ag + (aq) &rarr; Mg 2+ (aq) + Ag(s).",
+  "answer": "Mg &rarr; Mg 2+ + 2 e &minus; ; Ag + + e &minus; &rarr; Ag (&times;2). Net: Mg(s) + 2 Ag + (aq) &rarr; Mg 2+ (aq) + 2 Ag(s).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.7_redox.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Is each half-reaction an oxidation or a reduction? (a) Pb &rarr; Pb 2+ + 2 e &minus; ; (b) Fe 3+ + e &minus; &rarr; Fe 2+ ; (c) Br 2 + 2 e &minus; &rarr; 2 Br &minus; .",
+  "answer": "(a) oxidation: electrons are lost (products), and the charge goes up, 0 to +2. (b) reduction: an electron is gained, and the charge goes down, +3 to +2. (c) reduction: electrons are gained, and each Br goes from 0 to &minus;1.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.7_redox.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "For 2 Ca(s) + O 2 (g) &rarr; 2 CaO(s), write both half-reactions and give the number of electrons transferred. Then give the oxidation number of H in CaH 2 .",
+  "answer": "Oxidation: Ca &rarr; Ca 2+ + 2 e &minus; (&times;2). Reduction: O 2 + 4 e &minus; &rarr; 2 O 2&minus; . 4 electrons transferred. In CaH 2 , the Group 2 rule makes Ca +2, so each H is &minus;1 (+2 + 2(&minus;1) = 0).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.7_redox.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "question": "Classify each as redox or not redox: (a) AgNO 3 (aq) + KBr(aq) &rarr; AgBr(s) + KNO 3 (aq); (b) 2 Ag 2 O(s) &rarr; 4 Ag(s) + O 2 (g); (c) MgO(s) + CO 2 (g) &rarr; MgCO 3 (s).",
+  "answer": "(a) Not redox: a precipitation (double displacement), and every ion keeps its charge. (b) Redox: a decomposition into elements; Ag goes +1 &rarr; 0 (reduced) and O goes &minus;2 &rarr; 0 (oxidized), 4 electrons transferred. (c) Not redox: a combination of two compounds; Mg stays +2, C stays +4, O stays &minus;2.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.8_activity_series.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Will Zn(s) react with HCl(aq)? If so, write the balanced equation.",
+  "answer": "Yes (Zn is above H): Zn(s) + 2 HCl(aq) &rarr; ZnCl 2 (aq) + H 2 (g).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.8_activity_series.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Which metal could be used to recover silver from a solution of AgNO 3 : Au or Cu? Write the equation.",
+  "answer": "Cu (above Ag): Cu(s) + 2 AgNO 3 (aq) &rarr; Cu(NO 3 ) 2 (aq) + 2 Ag(s). Gold is below silver and would not react.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch07/7.8_activity_series.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Does Sn(s) react with Al(NO 3 ) 3 (aq)?",
+  "answer": "No: tin is below aluminum in the series.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch07/7.8_activity_series.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Predict the products and balance, or write no reaction: (a) Al(s) + FeCl 2 (aq); (b) Ag(s) + H 2 SO 4 (aq); (c) Mg(s) + Zn(NO 3 ) 2 (aq).",
+  "answer": "(a) Al is above Fe: 2 Al(s) + 3 FeCl 2 (aq) &rarr; 2 AlCl 3 (aq) + 3 Fe(s) (Cl: 6 = 6). (b) Ag is below H: no reaction . (c) Mg is above Zn: Mg(s) + Zn(NO 3 ) 2 (aq) &rarr; Mg(NO 3 ) 2 (aq) + Zn(s) .",
+  "mc": false,
+  "terse_answer": false
+ }
+]

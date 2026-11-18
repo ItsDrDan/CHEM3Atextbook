@@ -33,7 +33,7 @@
   "y": [
    "Correct: 5.30 mol NH<sub>3</sub> &times; (3 mol H<sub>2</sub> / 2 mol NH<sub>3</sub>).",
    "This uses 2/3, the ratio upside down.",
-   "This skips the mole ratio.",
+   "This skips the mole ratio. Multiply by the coefficients from the balanced equation, 3 mol H<sub>2</sub> / 2 mol NH<sub>3</sub>.",
    "This uses 3/1, leaving out the coefficient 2 on NH<sub>3</sub>."
   ],
   "h": "Want H<sub>2</sub> on top, have NH<sub>3</sub> on the bottom.",
@@ -54,7 +54,7 @@
   "y": [
    "Correct: The coefficients of CO<sub>2</sub> (2) and O<sub>2</sub> (3) make the ratio: 0.715 &times; 2/3.",
    "This uses 3/2, the ratio upside down.",
-   "This skips the mole ratio.",
+   "This skips the mole ratio. Multiply by the coefficients from the balanced equation, 2 mol CO<sub>2</sub> / 3 mol O<sub>2</sub>.",
    "This uses 2/1, leaving out the coefficient 3 on O<sub>2</sub>."
   ],
   "h": "Link O<sub>2</sub> to CO<sub>2</sub> with their own coefficients.",
@@ -117,7 +117,7 @@
   "y": [
    "Correct: 3.52 mol SO<sub>2</sub> &times; (11 mol O<sub>2</sub> / 8 mol SO<sub>2</sub>).",
    "This uses 8/11, the ratio upside down.",
-   "This skips the mole ratio.",
+   "This skips the mole ratio. Multiply by the coefficients from the balanced equation, 11 mol O<sub>2</sub> / 8 mol SO<sub>2</sub>.",
    "This uses 4, the coefficient of FeS<sub>2</sub>, instead of 8 for SO<sub>2</sub>."
   ],
   "h": "Use the coefficients of O<sub>2</sub> and SO<sub>2</sub> only.",
@@ -138,7 +138,7 @@
   "y": [
    "Correct: Balanced: 2 H<sub>2</sub> + O<sub>2</sub> &rarr; 2 H<sub>2</sub>O. One O<sub>2</sub> makes two waters.",
    "That ratio comes from the unbalanced equation; it has 2 O on the left and only 1 on the right.",
-   "This is upside down.",
+   "This is upside down. After balancing (2 H<sub>2</sub> + O<sub>2</sub> &rarr; 2 H<sub>2</sub>O), put the coefficient of what you want on top: 2 mol H<sub>2</sub>O / 1 mol O<sub>2</sub>.",
    "Coefficients are not added (2 + 1); H<sub>2</sub>O's coefficient is 2."
   ],
   "h": "Balance the O atoms first.",
@@ -160,7 +160,7 @@
    "Correct: 6.35 g &divide; 2.016 g/mol = 3.150 mol H<sub>2</sub>; 2 : 2 ratio; &times; 18.015 g/mol.",
    "This multiplies the molar mass of water by its coefficient. The 2 belongs in the mole ratio, where it cancels.",
    "This uses the molar masses upside down.",
-   "This stops at moles."
+   "This stops at moles. Use the 2 : 2 mole ratio, then multiply by 18.015 g/mol to get grams of H<sub>2</sub>O."
   ],
   "h": "g H<sub>2</sub> &rarr; mol H<sub>2</sub> &rarr; mol H<sub>2</sub>O &rarr; g H<sub>2</sub>O.",
   "w": "6.35 g &times; (1 mol / 2.016 g) &times; (2 mol H<sub>2</sub>O / 2 mol H<sub>2</sub>) &times; (18.015 g / 1 mol) = <b>56.7 g H<sub>2</sub>O</b>.",
@@ -179,7 +179,7 @@
   ],
   "y": [
    "Correct: 9.20 g &divide; 46.069 g/mol = 0.1997 mol; &times; 2 = 0.3994 mol CO<sub>2</sub>; &times; 44.009 g/mol.",
-   "This skips the mole ratio.",
+   "This skips the mole ratio. Multiply moles of ethanol by 2 mol CO<sub>2</sub> / 1 mol C<sub>2</sub>H<sub>5</sub>OH before converting to grams.",
    "This uses 1/2, the ratio upside down.",
    "This uses the 2 twice: in the ratio and on the molar mass."
   ],
@@ -221,9 +221,9 @@
   ],
   "y": [
    "Correct: 5.75 g &divide; 16.043 g/mol = 0.3584 mol CH<sub>4</sub>; &times; 2 = 0.7168 mol H<sub>2</sub>O; &times; 18.015 g/mol.",
-   "This skips the mole ratio.",
+   "This skips the mole ratio. Multiply moles of CH<sub>4</sub> by 2 mol H<sub>2</sub>O / 1 mol CH<sub>4</sub> before converting to grams.",
    "This uses 1/2, the ratio upside down.",
-   "This uses the coefficient twice."
+   "This uses the coefficient twice. Apply the 2 mol H<sub>2</sub>O / 1 mol CH<sub>4</sub> ratio only once in the chain."
   ],
   "h": "One CH<sub>4</sub> makes two H<sub>2</sub>O.",
   "w": "5.75 g &times; (1 mol / 16.043 g) &times; (2 mol H<sub>2</sub>O / 1 mol CH<sub>4</sub>) &times; (18.015 g / 1 mol) = <b>12.9 g H<sub>2</sub>O</b>.",
@@ -244,7 +244,7 @@
    "Correct: 2.15 g &divide; 58.44 g/mol = 0.03679 mol NaCl = 0.03679 mol AgCl; &times; 143.32 g/mol.",
    "A 1 : 1 mole ratio is not a 1 : 1 mass ratio; AgCl is much heavier than NaCl.",
    "This uses the molar masses upside down.",
-   "This stops at moles."
+   "This stops at moles. Use the 1 : 1 ratio, then multiply by 143.32 g/mol to get grams of AgCl."
   ],
   "h": "1 : 1 in moles; molar masses differ.",
   "w": "2.15 g &times; (1 mol / 58.44 g) &times; (1 mol AgCl / 1 mol NaCl) &times; (143.32 g / 1 mol) = <b>5.27 g AgCl</b>.",
@@ -284,9 +284,9 @@
   ],
   "y": [
    "Correct: 0.350 g &divide; 58.32 g/mol = 0.006001 mol; &times; 2 = 0.01200 mol HCl; &times; 36.46 g/mol.",
-   "This skips the mole ratio.",
+   "This skips the mole ratio. Multiply moles of Mg(OH)<sub>2</sub> by 2 mol HCl / 1 mol Mg(OH)<sub>2</sub> before converting to grams.",
    "This uses 1/2, the ratio upside down.",
-   "This uses the coefficient twice."
+   "This uses the coefficient twice. Apply the 2 mol HCl / 1 mol Mg(OH)<sub>2</sub> ratio only once in the chain."
   ],
   "h": "One Mg(OH)<sub>2</sub> neutralizes two HCl.",
   "w": "0.350 g &times; (1 mol / 58.32 g) &times; (2 mol HCl / 1 mol) &times; (36.46 g / 1 mol) = <b>0.438 g HCl</b>. (Context only; follow the label.)",
@@ -306,7 +306,7 @@
   "y": [
    "Correct: 125 mL = 0.125 L; 0.125 L &times; 0.0400 mol/L.",
    "This uses mL with molarity; convert to L first.",
-   "This divides volume by molarity.",
+   "This divides volume by molarity. Convert mL to L, then multiply: moles = M &times; V (L).",
    "This divides molarity by the mL volume."
   ],
   "h": "moles = liters &times; molarity.",
@@ -326,9 +326,9 @@
   ],
   "y": [
    "Correct: 0.875 mol NH<sub>3</sub> &times; 1/2 = 0.4375 mol N<sub>2</sub>; &times; 22.4 L/mol.",
-   "This skips the mole ratio.",
+   "This skips the mole ratio. Multiply by 1 mol N<sub>2</sub> / 2 mol NH<sub>3</sub> before converting to liters.",
    "This uses 2/1, the ratio upside down.",
-   "This stops at moles."
+   "This stops at moles. Multiply the moles of N<sub>2</sub> by 22.4 L/mol to get liters at STP."
   ],
   "h": "Mole ratio, then 22.4 L/mol.",
   "w": "0.875 mol NH<sub>3</sub> &times; (1 mol N<sub>2</sub> / 2 mol NH<sub>3</sub>) &times; (22.4 L / 1 mol) = <b>9.80 L N<sub>2</sub></b>.",
@@ -348,7 +348,7 @@
   "y": [
    "Correct: 0.0200 L &times; 0.115 M = 0.00230 mol AgNO<sub>3</sub> = 0.00230 mol AgCl; &times; 143.32 g/mol.",
    "This uses 20.0 mL as liters; the answer is 1000 times too large.",
-   "This stops at moles.",
+   "This stops at moles. Multiply the moles of AgCl by 143.32 g/mol to get grams.",
    "This uses the molar mass of AgNO<sub>3</sub>; the product is AgCl."
   ],
   "h": "L &times; M = mol; then the molar mass of the product.",
@@ -368,9 +368,9 @@
   ],
   "y": [
    "Correct: 3.85 g &divide; 44.097 g/mol = 0.08731 mol; &times; 3 = 0.2619 mol CO<sub>2</sub>; &times; 22.4 L/mol.",
-   "This skips the mole ratio.",
+   "This skips the mole ratio. Multiply moles of propane by 3 mol CO<sub>2</sub> / 1 mol C<sub>3</sub>H<sub>8</sub> before converting to liters.",
    "This uses 1/3, the ratio upside down.",
-   "This stops at moles."
+   "This stops at moles. Multiply the moles of CO<sub>2</sub> by 22.4 L/mol to get liters at STP."
   ],
   "h": "g &rarr; mol propane &rarr; mol CO<sub>2</sub> &rarr; L.",
   "w": "3.85 g &times; (1 mol / 44.097 g) &times; (3 mol CO<sub>2</sub> / 1 mol) &times; (22.4 L / 1 mol) = <b>5.87 L CO<sub>2</sub></b>.",
@@ -390,7 +390,7 @@
   "y": [
    "Correct: Gases expand when warmed, so the molar volume at 37 &deg;C is larger than 22.4 L.",
    "At STP, 22.4 L/mol holds for any ideal gas, not just O<sub>2</sub>.",
-   "CO<sub>2</sub> is a gas at body temperature.",
+   "CO<sub>2</sub> is a gas at body temperature, so that is not the problem. The issue is temperature: 22.4 L/mol holds only at STP (0 &deg;C, 1 atm).",
    "The molar volume depends on temperature and pressure."
   ],
   "h": "What does STP stand for?",
@@ -410,8 +410,8 @@
   ],
   "y": [
    "Correct: 0.0450 L &times; 0.0800 M = 0.00360 mol HCl; &times; 1/2 = 0.00180 mol; &times; 58.32 g/mol.",
-   "This skips the mole ratio.",
-   "This uses mL as liters.",
+   "This skips the mole ratio. Multiply moles of HCl by 1 mol Mg(OH)<sub>2</sub> / 2 mol HCl before converting to grams.",
+   "This uses mL as liters. Convert 45.0 mL to 0.0450 L before multiplying by the molarity.",
    "This uses 2/1, the ratio upside down."
   ],
   "h": "mL &rarr; L &rarr; mol HCl &rarr; mol Mg(OH)<sub>2</sub> &rarr; g.",
@@ -431,9 +431,9 @@
   ],
   "y": [
    "Correct: 8.00 g &divide; 16.043 g/mol = 0.4987 mol CH<sub>4</sub>; &times; 2 = 0.9973 mol O<sub>2</sub>; &times; 22.4 L/mol.",
-   "This skips the mole ratio.",
+   "This skips the mole ratio. Multiply moles of CH<sub>4</sub> by 2 mol O<sub>2</sub> / 1 mol CH<sub>4</sub> before converting to liters.",
    "This uses 1/2, the ratio upside down.",
-   "This stops at moles."
+   "This stops at moles. Multiply the moles of O<sub>2</sub> by 22.4 L/mol to get liters at STP."
   ],
   "h": "Each CH<sub>4</sub> needs two O<sub>2</sub>.",
   "w": "8.00 g &times; (1 mol / 16.043 g) &times; (2 mol O<sub>2</sub> / 1 mol CH<sub>4</sub>) &times; (22.4 L / 1 mol) = <b>22.3 L O<sub>2</sub></b>.",
@@ -496,7 +496,7 @@
    "Correct: Al: 0.2001 mol &rarr; 0.2001 mol Fe; Fe<sub>2</sub>O<sub>3</sub>: 0.1127 mol &rarr; 0.2254 mol Fe. Al is limiting: 0.2001 &times; 55.85 g/mol.",
    "This uses Fe<sub>2</sub>O<sub>3</sub>, the excess reactant.",
    "This skips the 2 : 1 ratio for Fe<sub>2</sub>O<sub>3</sub> and Fe.",
-   "This adds the reactant masses."
+   "This adds the reactant masses. Find the moles of Fe each reactant could make; the smaller amount (the limiting reactant) sets the mass of iron."
   ],
   "h": "Each reactant &rarr; mol Fe; the smaller wins.",
   "w": "Al &rarr; 0.2001 mol Fe (less than 0.2254), so Al limits: 0.2001 &times; 55.85 = <b>11.2 g Fe</b>.",
@@ -579,7 +579,7 @@
   "y": [
    "Correct: Zn &rarr; 0.180 mol H<sub>2</sub>; HCl &rarr; 0.300 &times; 1/2 = 0.150 mol H<sub>2</sub>. HCl is limiting.",
    "This is what Zn, the excess reactant, could make.",
-   "This skips the 2 HCl : 1 H<sub>2</sub> ratio.",
+   "This skips the 2 HCl : 1 H<sub>2</sub> ratio. Find the H<sub>2</sub> each reactant could make, using its own ratio, and keep the smaller amount.",
    "This uses 2/1 for Zn; one Zn makes one H<sub>2</sub>."
   ],
   "h": "Each reactant &rarr; mol H<sub>2</sub>.",
@@ -600,8 +600,8 @@
   "y": [
    "Correct: 5.62 &divide; 6.48 &times; 100%.",
    "This divides theoretical by actual.",
-   "This is the percent lost.",
-   "This forgets to multiply by 100%."
+   "This is the percent lost. Percent yield is actual &divide; theoretical &times; 100%, so divide 5.62 g by 6.48 g.",
+   "This forgets to multiply by 100%. Actual &divide; theoretical gives a fraction; multiply it by 100% to get a percent."
   ],
   "h": "actual &divide; theoretical &times; 100%.",
   "w": "5.62 g &divide; 6.48 g &times; 100% = <b>86.7%</b>.",
@@ -663,7 +663,7 @@
   "y": [
    "Correct: Theoretical: 25.0 &divide; 100.09 &times; 56.08 = 14.01 g; &times; 0.915.",
    "This is the theoretical yield, before applying 91.5%.",
-   "This divides by 0.915.",
+   "This divides by 0.915. Actual yield is less than theoretical, so multiply the theoretical mass of CaO by 0.915.",
    "This applies 91.5% to the mass of CaCO<sub>3</sub>, skipping the stoichiometry."
   ],
   "h": "Theoretical yield, then take 91.5% of it.",
@@ -809,7 +809,7 @@
   ],
   "y": [
    "Correct: 1.50 &times; 10<sup>4</sup> kJ &divide; 2220 kJ/mol = 6.757 mol; &times; 44.097 g/mol.",
-   "This stops at moles.",
+   "This stops at moles. Multiply the moles of propane by 44.097 g/mol to get grams.",
    "This multiplies by 5, the coefficient of O<sub>2</sub>.",
    "This divides by the molar mass instead of multiplying."
   ],
@@ -831,7 +831,7 @@
   "y": [
    "Correct: 18.5 g &divide; 2.016 g/mol = 9.177 mol H<sub>2</sub>; &times; 571.6 kJ / 2 mol H<sub>2</sub>.",
    "This ignores the coefficient 2 on H<sub>2</sub>.",
-   "This uses grams instead of moles.",
+   "This uses grams instead of moles. Convert 18.5 g to moles with 2.016 g/mol, then use 571.6 kJ per 2 mol H<sub>2</sub>.",
    "Negative &Delta;H means heat is released."
   ],
   "h": "571.6 kJ goes with 2 mol H<sub>2</sub>.",
@@ -852,7 +852,7 @@
   "y": [
    "Correct: 25.0 Cal &times; 4.184 = 104.6 kJ; &divide; 2803 kJ/mol = 0.03732 mol; &times; 180.156 g/mol.",
    "This uses Calories as if they were kJ; convert with 4.184 kJ/Cal first.",
-   "This stops at moles of glucose.",
+   "This stops at moles of glucose. Multiply the moles by 180.156 g/mol to finish the conversion to grams.",
    "This multiplies by 6, the coefficient of O<sub>2</sub>."
   ],
   "h": "Cal &rarr; kJ &rarr; mol &rarr; g.",

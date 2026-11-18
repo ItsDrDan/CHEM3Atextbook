@@ -454,7 +454,7 @@
    "Correct: 26 protons is iron, and 26 &minus; 23 = +3.",
    "Fewer electrons than protons means a positive charge, not a negative one.",
    "Vanadium has 23 protons; 23 is the electron count, and the element is set by the protons.",
-   "Fe<sup>2+</sup> would have 24 electrons."
+   "Fe<sup>2+</sup> would have 24 electrons. Subtract electrons from protons: 26 &minus; 23 = 3 more protons, so the charge is 3+."
   ],
   "h": "Protons name the element; charge = protons &minus; electrons.",
   "w": "Z = 26 is iron; 26 &minus; 23 = 3+, so the ion is <b>Fe<sup>3+</sup></b>.",
@@ -600,7 +600,7 @@
   "y": [
    "Correct: Neutrons = A &minus; Z = 60 &minus; 27 = 33.",
    "60 is the mass number (protons plus neutrons).",
-   "27 is the number of protons.",
+   "27 is the number of protons. Neutrons = mass number &minus; atomic number, so subtract Z from 60.",
    "This adds A and Z instead of subtracting."
   ],
   "h": "Neutrons = mass number &minus; atomic number.",
@@ -683,8 +683,8 @@
   ],
   "y": [
    "Correct: Neutrons = 40 &minus; 19 = 21.",
-   "40 is the mass number.",
-   "19 is the number of protons.",
+   "40 is the mass number, which counts protons plus neutrons. Subtract the atomic number: neutrons = A &minus; Z.",
+   "19 is the number of protons. Neutrons = mass number &minus; atomic number, so subtract 19 from 40.",
    "20 is the neutron count of potassium-39, the common isotope, not potassium-40."
   ],
   "h": "Neutrons = A &minus; Z.",
@@ -747,7 +747,7 @@
   "y": [
    "Correct: (0.7217)(84.912) + (0.2783)(86.909) = 61.28 + 24.19 = 85.47 amu.",
    "This is the simple average, which treats both isotopes as equally common.",
-   "This swaps the abundances.",
+   "This swaps the abundances. Multiply each isotope's mass by its own fractional abundance (0.7217 with 84.912), then add.",
    "This uses percents instead of fractions."
   ],
   "h": "The answer should be closer to the more abundant isotope.",

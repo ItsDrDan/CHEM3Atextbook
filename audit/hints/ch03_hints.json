@@ -1,0 +1,681 @@
+[
+ {
+  "file": "drafts/ch03/3.1_light.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Change nm to meters first (1 nm = 10<sup>&minus;9</sup> m), then solve c = &lambda;&nu; for frequency: &nu; = c/&lambda;.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.1_light.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Convert the wavelength to meters, then use E = hc/&lambda; with h = 6.626 &times; 10<sup>&minus;34</sup> J s and c = 3.00 &times; 10<sup>8</sup> m s<sup>&minus;1</sup>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.1_light.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Shorter wavelength means higher photon energy. Order the regions by wavelength across the electromagnetic spectrum, then reverse the order.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.1_light.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Which wave property shows up as brightness? Photon energy depends only on wavelength, so compare the two wavelengths.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.2_bohr_model.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "In the Bohr model, electrons can sit only in certain energy levels. What does that mean for the possible energy drops, and so for the wavelengths?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.2_bohr_model.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Which drop is the smaller energy gap? Less energy means a longer wavelength (E = hc/&lambda;).",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.2_bohr_model.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Think about which energy levels the electrons occupy. What must happen for an electron to reach a higher level?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.2_bohr_model.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "The photon's energy equals the gap between the levels. Convert 589 nm to meters and use &Delta;E = hc/&lambda;.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.2_bohr_model.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Count the electrons first (a charge changes them: Z &minus; charge), then fill the rings 2, then 8, then 8, then the rest.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.2_bohr_model.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "hint": "Absorption and emission use the same energy gaps. Going back down across the same gap gives what wavelength?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.3_orbitals.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Shell 3 has three kinds of subshells. How many orbitals does each have, and how many electrons fit in one orbital?",
+  "why": "Each orbital holds 2 electrons, and 3s, 3p, and 3d have 1, 3, and 5 orbitals, so 2 + 6 + 10 = 18."
+ },
+ {
+  "file": "drafts/ch03/3.3_orbitals.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Fluorine has 9 electrons. Fill 1s, then 2s, then 2p; in 2p, put one electron in each box before pairing (Hund's rule), then count single arrows.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.3_orbitals.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Phosphorus has three 3p electrons and three 3p orbitals. Which rule says to put one electron in each orbital, same spin, before pairing?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.3_orbitals.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Check each subshell against its capacity (s 2, p 6, d 10). An excited state is possible; an overfilled subshell is not.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.3_orbitals.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Count electrons: O has 8, and O<sup>2&minus;</sup> has gained 2. Fill 2p one per box before pairing, then count boxes with a single arrow.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.4_electron_configurations.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Al has 13 electrons. Fill subshells in diagonal-method order until the superscripts add to 13; for the shorthand, use the noble gas from the row above.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.4_electron_configurations.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Add krypton's electrons to the 2 shown to get Z for the neutral atom. Which element ends in s<sup>2</sup> in row 5?",
+  "why": "Krypton has 36 electrons, so 36 + 2 = 38 = Z, which is strontium, the group 2 element in row 5."
+ },
+ {
+  "file": "drafts/ch03/3.4_electron_configurations.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Write oxygen's configuration, then add 2 electrons to the last subshell. Which noble gas has that many electrons?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.4_electron_configurations.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Be<sup>2+</sup> lost 2 electrons from its highest shell. For Ge (Z = 32), start with [Ar] and read across row 4. The superscripts must add to the electron count.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.4_electron_configurations.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Copper is one of the exceptions. Which is more stable: a 3d subshell with 9 electrons or a completely filled one? Then draw 4s and 3d and count single arrows.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.5_valence_electrons.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Find phosphorus's group: for groups 13&ndash;18, subtract 10 to get valence electrons. Then count to the nearest noble gas to predict the ion.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.5_valence_electrons.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Find both on the periodic table and write their valence configurations. What do members of one group share?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.5_valence_electrons.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Count the electrons in each ion (Z &minus; charge) and compare with neon's 10.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.5_valence_electrons.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "(a) Group 16: subtract 10 for the dots; one per side before pairing. (b) An anion gains dots up to an octet, in brackets. (c) A cation has lost its valence dots.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.5_valence_electrons.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Check the placement rule for Lewis symbols: how many dots go on each side before any pairing starts?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.6_periodic_trends.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Atoms get bigger going down and to the left. For (c), a cation is smaller than its atom: which electrons did Ca lose?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.6_periodic_trends.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Ionization energy is highest at the upper right and lowest at the lower left. Place each element on a tiny sketch of the table.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.6_periodic_trends.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Across a period, protons are added but the electrons stay in the same shell. How does the nucleus's pull change?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.6_periodic_trends.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "All four have 18 electrons, so compare the protons pulling on them. More protons pull the same electrons in tighter.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.6_periodic_trends.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Count each element's steps to the nearest noble gas: which one reaches an octet by losing electrons, and which by gaining?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 3.1",
+  "hint": "Use c = &lambda;&nu; (c is fixed) and E = h&nu;. Which way does the wavelength change from radio waves to gamma rays?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 3.2",
+  "hint": "(a) Convert nm to meters, then &nu; = c/&lambda;. (b) E = h&nu;. (c) Compare wavelengths: a longer wavelength means a lower frequency and energy.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 3.3",
+  "hint": "(a) Multiply by 10<sup>&minus;9</sup> m per nm. (b) &nu; = c/&lambda;. (c) E = h&nu;. (d) Divide the X-ray photon's energy by the phototherapy photon's energy.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 3.4",
+  "hint": "(a) Visible light is about 400&ndash;700 nm. (b) Shorter wavelength, more energy. (c) Convert to meters; &nu; = c/&lambda;. (d) Energy is inversely proportional to wavelength: use a wavelength ratio.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 3.5",
+  "hint": "(a) Change MHz to Hz, then &lambda; = c/&nu;. (b) E = h&nu;. (c) Compare that energy with the visible and ultraviolet photons in 3.1.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 3.6",
+  "hint": "Use &nu; = c/&lambda; and E = h&nu; to decide how frequency and energy change as wavelength changes. Then compare 254 nm with 940 nm.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 3.7",
+  "hint": "Which property of light sets the energy of one photon (E = h&nu;)? Did that property change when the lamp got brighter but kept its color?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 3.8",
+  "hint": "(a) Convert 865 nm to meters; &nu; = c/&lambda;, then E = h&nu;. (b) The energy ratio is the inverse of the wavelength ratio. (c) Which band does chlorophyll use for photosynthesis?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 3.9",
+  "hint": "Check the units: c is in m s<sup>&minus;1</sup>, so the wavelength must be in meters. Visible light has frequencies around 10<sup>14</sup> Hz.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 3.10",
+  "hint": "Line spectra come from separate atoms whose electrons drop between fixed energy levels. For each source, is the glowing material a hot solid or a gas of one element?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 3.11",
+  "hint": "Moving up a level absorbs energy; moving down emits a photon. The biggest drop gives the most energy. Hydrogen's visible lines end at n = 2.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 3.12",
+  "hint": "Both jumps connect the same two levels. What sets the energy of a photon that is absorbed or given off?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 3.13",
+  "hint": "(a) Convert to meters and use E = hc/&lambda;. (b) What does the Bohr model say about sodium's allowed energy levels?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 3.14",
+  "hint": "(a) E = hc/&lambda; for each line, in meters. (b) More energy means a bigger drop. (c) Subtract the two energies. (d) &lambda; = hc/E for that gap; then check the spectrum region.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 3.15",
+  "hint": "Order the colors by wavelength (ROY G BV runs long to short); shorter wavelength means more energy. Each element has its own set of energy levels.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 3.16",
+  "hint": "Bohr's model fit hydrogen but failed for atoms with more than one electron. Which of its ideas survived, and which choice describes the later orbital model instead?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 3.17",
+  "hint": "(a) E = hc/&lambda; for each; the shorter wavelength has more energy. (b) Energy is not destroyed: where else could the difference go? (c) Can the emitted photon carry more energy than the absorbed one?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 3.18",
+  "hint": "One orbital holds 2 electrons; s, p, and d subshells have 1, 3, and 5 orbitals. A shell includes all of its subshells.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 3.19",
+  "hint": "Maximum electrons = 2 &times; number of orbitals (s 1, p 3, d 5, f 7). Shell n has only n kinds of subshells, so check whether each one exists.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 3.20",
+  "hint": "Get the electron count from Z, fill in Aufbau order, and spread the last p electrons one per box (Hund's rule) before pairing. Count single arrows.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 3.21",
+  "hint": "Nitrogen has three 2p electrons. Apply Hund's rule (one per orbital, same spin) and the Pauli principle (at most 2 per box, opposite spins).",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 3.22",
+  "hint": "For each diagram ask: does the lower subshell fill first (Aufbau)? Do paired arrows point opposite ways (Pauli)? One per box before pairing (Hund)?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 3.23",
+  "hint": "Only the last, partly filled subshell can hold unpaired electrons. Write each atom's last subshell and draw just those boxes.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 3.24",
+  "hint": "Use the diagonal method, and watch where 4s falls relative to 3d. For (b) and (c), add up subshell capacities until you reach that electron.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 3.25",
+  "hint": "(a) Shell 1 has only one subshell. (b) &lambda; = hc/E, then convert meters to nm. (c) Compare tungsten's proton count with hydrogen's one proton.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 3.26",
+  "hint": "Get the electron count from Z, fill in diagonal-method order, and check that the superscripts add to Z. Watch which subshell comes after 3p.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 3.27",
+  "hint": "Read across row 4: s block, then d block, then p block. The d block in row 4 is the row number minus 1. Check that the superscripts add to 34.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 3.28",
+  "hint": "Use the noble gas at the end of the row above, then read across the element's own row. Check: noble-gas electrons + superscripts = Z.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 3.29",
+  "hint": "Add the superscripts (plus the noble gas's electrons) to get Z for a neutral atom, then find that element on the table.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 3.30",
+  "hint": "A configuration ending in 4p<sup>2</sup> is in row 4, second column of the p block. Which choice is in that row and that group?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 3.31",
+  "hint": "Electrons = Z &minus; positive charge, or Z + negative charge. Fill subshells for that many electrons, then match the count to a noble gas.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 3.32",
+  "hint": "Find each ion's electron count (Z &minus; charge for cations, Z + charge for anions). Argon has 18; which one does not match?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 3.33",
+  "hint": "(a) Which subshell fills before 3d? (b) The bracket must be the noble gas from the row above. (c) A 2+ ion has lost 2 electrons. (d) Count chlorine's electrons.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 3.34",
+  "hint": "Write zinc's full configuration (Z = 30), then add the electrons in the requested subshells or shells (n is the number in front of the letter).",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 3.35",
+  "hint": "Groups 1 and 2: use the group number. Groups 13&ndash;18: subtract 10 (helium: 2). Only the highest shell's electrons count.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 3.36",
+  "hint": "Valence electrons decide how an element reacts. What do group 1 elements share at the end of their configurations?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 3.37",
+  "hint": "Count to the nearest noble gas: lose valence electrons if there are few, gain up to an octet if there are many. Metal ions are \"___ ion\"; nonmetal ions end in -ide.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 3.38",
+  "hint": "A 2&minus; ion gained 2 electrons. How many valence electrons must the atom start with to reach an octet by gaining 2?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 3.39",
+  "hint": "Use valence electrons and the octet rule each time. (c) Count carbon's steps to the nearest noble gas. (d) What defines an element: electrons or protons?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 3.40",
+  "hint": "(a) Multiply each mmol/L value by the size of the ion's charge; the charge is an exact count. (b) Count each atom's valence electrons and its steps to an octet.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 3.41",
+  "hint": "Valence electrons are only those in the highest shell (largest n). Which shell is highest for each, and does 3d belong to it for bromine?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 3.42",
+  "hint": "Krypton has 36 electrons. Find each ion's electron count (Z &minus; charge); both ions in the pair must match.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 3.43",
+  "hint": "Three are in period 3 and one is below sodium. Radius decreases left to right across a period and increases down a group.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 3.44",
+  "hint": "Ionization energy increases up a group and to the right. Look for the extreme: which choice is highest up and farthest right?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 3.45",
+  "hint": "(a) Read the trend down the column. (b) Each step down adds a shell: what does that do to distance and shielding? (d) Compare a full octet with a lone electron in a new shell.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 3.46",
+  "hint": "When an atom loses electrons or gains electrons, how do the number of shells and the repulsion between electrons change? Use that to decide which way the size goes for each choice.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 3.47",
+  "hint": "Metallic character increases toward the lower left, where ionization energy is lowest. Look for the extreme.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 3.48",
+  "hint": "Sketch a tiny periodic table and place each pair. Atoms get bigger down and to the left; ionization energy runs the opposite way.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 3.49",
+  "hint": "(a) Compare the outermost shell in each ion's configuration. (b) What did K lose to become K<sup>+</sup>, and which shell held it?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 3.50",
+  "hint": "(a) Compare the valence configurations of group 2 elements. (b) (c) Use the down-a-group trends. (d) Count to the nearest noble gas. (e) Neutrons = A &minus; Z.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 3.51",
+  "hint": "(a) Protons = Z, neutrons = A &minus; Z, electrons = Z &minus; charge. (b) Fill subshells for that many electrons. (c) How many electrons sit past the noble gas? (d) Cations are smaller.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 3.52",
+  "hint": "(a) Same Z, so the same protons and electrons; neutrons = A &minus; Z. (b) A configuration depends only on electrons. (c) Does chemistry depend on neutrons or electrons?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 3.53",
+  "hint": "(a) Protons name the element; A = protons + neutrons; charge = protons &minus; electrons. (b) Configure the electron count. (c) Anions are larger. (d) Count to the nearest noble gas.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 3.54",
+  "hint": "(a) Number of photons = total energy &divide; energy of one photon. (b) Each infrared photon carries less energy. (c) See the pulse oximeter discussion in 3.1.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 3.55",
+  "hint": "(a) Place all five on a tiny table: bigger down and left. (b) Lowest ionization energy is toward the lower left. (c) Ion electrons = Z &minus; charge. (d) Which is a nonmetal?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 3.56",
+  "hint": "Use protons = Z, neutrons = A &minus; Z, and electrons = Z &minus; charge for each choice. Which one gives all three counts?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 3.57",
+  "hint": "Which wave property do we see as brightness? A change in wavelength or frequency would change the color.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 3.58",
+  "hint": "(a) The photon's energy equals the gap: convert 589 nm to meters and use &Delta;E = hc/&lambda;. (b) Absorption and emission use the same gaps.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 3.59",
+  "hint": "(a) List every pair of levels from 4 down to 1. (b) Each gap gives one line (the toll-road picture). (c) The biggest drop gives the most energy.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 3.60",
+  "hint": "Check every subshell against its capacity: s holds 2, p holds 6. An excited state is possible; an overfilled subshell is not.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 3.61",
+  "hint": "An excited state keeps magnesium's 12 electrons but moves one up. Check each choice's electron count and each subshell's capacity.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 61,
+  "title": "Problem 3.62",
+  "hint": "Count electrons for each (a charge changes them), then fill the rings 2, 8, 8, then the rest. Compare each set of rings with neon's.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 62,
+  "title": "Problem 3.63",
+  "hint": "How many valence electrons does phosphorus have, and how many does the 3&minus; ion gain? Ions are drawn in brackets with the charge outside.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 63,
+  "title": "Problem 3.64",
+  "hint": "All four ions have the same 10 electrons. What is different about them, and how does that difference change how tightly the electrons are held?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 64,
+  "title": "Problem 3.65",
+  "hint": "Ionization energy is lowest toward the lower left. Look for the extreme: which choice is farthest down and to the left?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 65,
+  "title": "Problem 3.66",
+  "hint": "Never end a configuration in s<sup>2</sup>d<sup>4</sup>. Which arrangement of the d subshell is extra stable for chromium?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 66,
+  "title": "Problem 3.67",
+  "hint": "(a) Fill to Z = 29, remembering copper's exception. (b) One arrow per box before pairing. (c) What arrangement of 3d is extra stable? (d) Count single arrows.",
+  "why": ""
+ }
+]

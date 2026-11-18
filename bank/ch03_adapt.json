@@ -284,9 +284,9 @@
   ],
   "y": [
    "Correct: A d subshell has 5 orbitals; at 2 electrons each, it holds 10 electrons.",
-   "3 is the number of p orbitals.",
+   "3 is the number of p orbitals. Count orbitals by subshell: s 1, p 3, d 5, f 7, so pick the d value.",
    "10 is the number of electrons a d subshell holds, not the number of orbitals.",
-   "7 is the number of f orbitals."
+   "7 is the number of f orbitals. Count orbitals by subshell: s 1, p 3, d 5, f 7, so pick the d value."
   ],
   "h": "s, p, d and f subshells have 1, 3, ?, 7 orbitals.",
   "w": "s has 1 orbital, p has 3, <b>d has 5</b>, and f has 7. That is why the d block is 10 columns wide.",
@@ -370,7 +370,7 @@
    "Correct: Diagonal order: ... 3p 4s <b>3d</b> 4p 5s ... In row 4, the d block (3d) comes right after 4s.",
    "4p comes after 3d; in row 4 you cross the ten d-block columns first.",
    "4d belongs to row 5 and comes after 5s.",
-   "5s comes after 4p."
+   "5s comes after 4p. Follow the filling order 4s 3d 4p 5s; the subshell right after 4s is the next one on that list."
   ],
   "h": "Picture row 4 of the periodic table from left to right.",
   "w": "After 4s comes <b>3d</b>, then 4p. That is why row 4 has ten transition metals between calcium and gallium.",
@@ -410,8 +410,8 @@
   ],
   "y": [
    "Correct: Pauli limits each orbital (each box) to two electrons, drawn as one up and one down arrow.",
-   "This is the Aufbau principle.",
-   "This is Hund's rule.",
+   "This is the Aufbau principle, which sets the filling order. The Pauli principle is about one orbital: at most two electrons, with opposite spins.",
+   "This is Hund's rule, which says how equal-energy orbitals fill. The Pauli principle limits one orbital to two electrons with opposite spins.",
    "Only shell 2 is limited to 8; shell 3 holds 18 and shell 4 holds 32."
   ],
   "h": "Pauli is the rule about a single box.",
@@ -431,7 +431,7 @@
   ],
   "y": [
    "Correct: 2 + 2 + 6 + 2 + 2 = 14; after 3s fills, the last 2 electrons go into 3p.",
-   "This adds to 16 (sulfur).",
+   "This adds to 16 (sulfur). Add the superscripts until they total Z = 14; silicon is the second element of the p block, so it ends in 3p<sup>2</sup>.",
    "An s subshell holds only 2 electrons, so 3s<sup>4</sup> is impossible.",
    "3p fills before 3d (in fact 4s also comes before 3d)."
   ],
@@ -453,7 +453,7 @@
   "y": [
    "Correct: After [Ar] (18), row 4 crosses 4s (2), 3d (10) and 4 columns of 4p: 18 + 16 = 34.",
    "This skips the 3d block, so it totals only 24.",
-   "The row-4 d block is 3d, not 4d.",
+   "The row-4 d block is 3d, not 4d. The d subshell number is one less than the row, so row 4 fills 3d<sup>10</sup> between 4s and 4p.",
    "Krypton is at the end of selenium's own row; use the noble gas from the row above."
   ],
   "h": "Which noble gas ends the row above selenium? Then read across row 4.",
@@ -495,7 +495,7 @@
   "y": [
    "Correct: Cl has 17 electrons; Cl<sup>&minus;</sup> has 18, which fills 3p: the same as argon.",
    "This removes an electron (16 in all); a negative ion has gained one.",
-   "This is the neutral chlorine atom.",
+   "This is the neutral chlorine atom. Cl<sup>&minus;</sup> has gained one electron, so add one to the last subshell: 3p<sup>5</sup> becomes 3p<sup>6</sup>.",
    "The added electron goes into the open spot in 3p, not into 4s."
   ],
   "h": "Add one electron to the next open spot in the filling order.",
@@ -536,8 +536,8 @@
   ],
   "y": [
    "Correct: Groups 1 and 2 (plus helium) form the s block, 2 columns wide; calcium's last electron enters 4s.",
-   "The p block is groups 13 to 18.",
-   "The d block is groups 3 to 12.",
+   "The p block is groups 13 to 18. Calcium is in group 2, and groups 1 and 2 make up the s block.",
+   "The d block is groups 3 to 12. Calcium is in group 2, and groups 1 and 2 make up the s block.",
    "The f block is the two rows below the main table."
   ],
   "h": "Which block is 2 columns wide?",
@@ -662,9 +662,9 @@
   ],
   "y": [
    "Correct: K has 19 electrons; K<sup>+</sup> has 18, the same as argon.",
-   "Na<sup>+</sup> has 11 &minus; 1 = 10.",
-   "Mg<sup>2+</sup> has 12 &minus; 2 = 10.",
-   "F<sup>&minus;</sup> has 9 + 1 = 10."
+   "Na<sup>+</sup> has 11 &minus; 1 = 10. For each ion, subtract the positive charge from Z (or add the negative charge) and look for 18.",
+   "Mg<sup>2+</sup> has 12 &minus; 2 = 10. For each ion, subtract the positive charge from Z (or add the negative charge) and look for 18.",
+   "F<sup>&minus;</sup> has 9 + 1 = 10. For each ion, subtract the positive charge from Z (or add the negative charge) and look for 18."
   ],
   "h": "Electrons = atomic number &minus; charge.",
   "w": "<b>K<sup>+</sup></b>: 19 &minus; 1 = 18 electrons, isoelectronic with argon. The other three each have 10, like neon.",
@@ -725,7 +725,7 @@
   ],
   "y": [
    "Correct: Mg and Cl are in row 3, with Cl farther right (smaller). K is in row 4 and group 1, farther down and left than either, so it is largest.",
-   "This is decreasing radius.",
+   "This is decreasing radius. Radius grows toward the lower left of the table, so list from the upper-right element (smallest) to the lower-left one (largest).",
    "Cl is to the right of Mg in the same row, so Cl is smaller.",
    "K is farther down (one more shell) and farther left than Mg, so K is larger than Mg."
   ],

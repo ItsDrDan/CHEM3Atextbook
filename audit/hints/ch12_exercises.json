@@ -1,0 +1,803 @@
+[
+ {
+  "file": "drafts/ch12/12.1_properties.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "A cleaning solution turns red cabbage indicator green. Is it acidic or basic? What color would it turn red litmus paper and phenolphthalein?",
+  "answer": "Basic (green is a base color for cabbage). It turns red litmus blue and phenolphthalein pink .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.1_properties.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Write a balanced equation for the reaction of magnesium carbonate with hydrochloric acid. What would you see?",
+  "answer": "MgCO 3 (s) + 2 HCl(aq) &rarr; MgCl 2 (aq) + H 2 O(l) + CO 2 (g). The solid dissolves with fizzing as CO 2 gas bubbles out.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.1_properties.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Write the balanced equation for the neutralization of nitric acid by calcium hydroxide, and name the salt.",
+  "answer": "2 HNO 3 (aq) + Ca(OH) 2 (aq) &rarr; Ca(NO 3 ) 2 (aq) + 2 H 2 O(l). The salt is calcium nitrate, made of the base's cation (Ca 2+ ) and the acid's anion (NO 3 &minus; ).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.2_bronsted_lowry.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Identify the acid, base, conjugate acid, and conjugate base: HC 2 H 3 O 2 (aq) + H 2 O(l) &#8644; H 3 O + (aq) + C 2 H 3 O 2 &minus; (aq).",
+  "answer": "Acid: HC 2 H 3 O 2 (acetic acid); conjugate base: C 2 H 3 O 2 &minus; (acetate). Base: H 2 O; conjugate acid: H 3 O + .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.2_bronsted_lowry.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Write the conjugate acid of each: (a) NH 3 ; (b) OH &minus; ; (c) SO 4 2&minus; .",
+  "answer": "Add one H + and raise the charge by 1: (a) NH 4 + ; (b) H 2 O; (c) HSO 4 &minus; .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.2_bronsted_lowry.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "In the reaction HSO 4 &minus; + H 2 O &#8644; SO 4 2&minus; + H 3 O + , is water acting as an acid or a base? Explain.",
+  "answer": "As a base : it accepts a proton from HSO 4 &minus; and becomes H 3 O + .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.2_bronsted_lowry.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Write (a) the conjugate acid of Cl &minus; ; (b) the conjugate acid and the conjugate base of H 2 PO 4 &minus; .",
+  "answer": "(a) HCl: Cl &minus; has no H to give, so add one (Cl &minus; + H 2 O &#8644; HCl + OH &minus; on paper; it barely happens). (b) One rung up the ladder, H 3 PO 4 ; one rung down, HPO 4 2&minus; .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.3_strong_weak.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Classify each as a strong acid, weak acid, strong base, weak base, salt, or none of these: (a) HI; (b) HNO 2 ; (c) NH 3 ; (d) Ba(OH) 2 ; (e) NaNO 3 ; (f) C 6 H 12 O 6 .",
+  "answer": "(a) strong acid (on the list); (b) weak acid (not on the list; note HNO 2 is not HNO 3 ); (c) weak base; (d) strong base; (e) salt; (f) none (glucose, a molecular compound).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.3_strong_weak.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Write the ionization equation for lactic acid, HC 3 H 5 O 3 , in water. Which arrow do you use, and why?",
+  "answer": "HC 3 H 5 O 3 (aq) + H 2 O(l) &#8644; H 3 O + (aq) + C 3 H 5 O 3 &minus; (aq). A double arrow, because lactic acid is not on the strong-acid list, so it is weak and only slightly ionized.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.3_strong_weak.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Write a balanced neutralization equation for HClO 4 with Ca(OH) 2 , and name the salt.",
+  "answer": "2 HClO 4 (aq) + Ca(OH) 2 (aq) &rarr; Ca(ClO 4 ) 2 (aq) + 2 H 2 O(l). The salt is calcium perchlorate.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.3_strong_weak.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Ibuprofen's structure has a &ndash;COOH group; ethyl acetate (a nail-polish remover solvent) is an ester, CH 3 &ndash;COO&ndash;CH 2 CH 3 ; amphetamine has an &ndash;NH 2 group. Classify each as an acid, a base, or neither.",
+  "answer": "Ibuprofen: acid (&ndash;COOH). Ethyl acetate: neither (an ester has no acidic H and no amine). Amphetamine: base (amine nitrogen accepts a proton).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.3_strong_weak.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Which is the stronger base, Br &minus; or F &minus; ? Explain using the strengths of their conjugate acids.",
+  "answer": "F &minus; . Its conjugate acid, HF, is weak, so F &minus; is a weak base. Br &minus; comes from HBr, a strong acid, so Br &minus; is a negligible base.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.4_water_kw.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "A sample of urine has [OH &minus; ] = 6.7 &times; 10 &minus;9 M. Find [H 3 O + ] and classify it.",
+  "answer": "[H 3 O + ] = 1.0 &times; 10 &minus;14 &divide; 6.7 &times; 10 &minus;9 = 1.5 &times; 10 &minus;6 M. This is greater than 10 &minus;7 M, so the sample is acidic (mildly).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.4_water_kw.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Find [H 3 O + ] and [OH &minus; ] in 0.0050 M NaOH.",
+  "answer": "NaOH is a strong base with one OH &minus; : [OH &minus; ] = 5.0 &times; 10 &minus;3 M. [H 3 O + ] = 1.0 &times; 10 &minus;14 &divide; 5.0 &times; 10 &minus;3 = 2.0 &times; 10 &minus;12 M.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.4_water_kw.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Which solution is more acidic: A, with [H 3 O + ] = 4.0 &times; 10 &minus;4 M, or B, with [OH &minus; ] = 4.0 &times; 10 &minus;4 M? Find [OH &minus; ] in A.",
+  "answer": "A is acidic ([H 3 O + ] above 10 &minus;7 M); B is basic. A is more acidic. In A, [OH &minus; ] = 1.0 &times; 10 &minus;14 &divide; 4.0 &times; 10 &minus;4 = 2.5 &times; 10 &minus;11 M.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.4_water_kw.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Write 1 &times; 10 &minus;5 and 1 &times; 10 &minus;9 as decimals. A solution has [H 3 O + ] = 1.0 &times; 10 &minus;9 M. Is it acidic, basic, or neutral?",
+  "answer": "1 &times; 10 &minus;5 = 0.00001 and 1 &times; 10 &minus;9 = 0.000000001. Since 0.000000001 is smaller than neutral's 0.0000001 (10 &minus;7 ), [H 3 O + ] is below neutral, so the solution is basic ; its [OH &minus; ] is 1.0 &times; 10 &minus;5 M.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.5_ph.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Find the pH of 0.0063 M HCl.",
+  "answer": "HCl is strong, so [H 3 O + ] = 6.3 &times; 10 &minus;3 M; pH = &minus;log(6.3 &times; 10 &minus;3 ) = 2.2007&hellip; = 2.20 (two decimal places for two significant figures).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.5_ph.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Find the pOH and pH of 6.0 &times; 10 &minus;4 M KOH.",
+  "answer": "[OH &minus; ] = 6.0 &times; 10 &minus;4 M; pOH = 3.2218&hellip; = 3.22 ; pH = 14.00 &minus; 3.22 = 10.78 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.5_ph.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A rinse solution has pH 4.62. Find [H 3 O + ] and classify it.",
+  "answer": "[H 3 O + ] = 10 &minus;4.62 = 2.4 &times; 10 &minus;5 M (two significant figures from two decimal places). pH below 7: acidic.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.5_ph.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "A patient's arterial pH is 7.48. Is this acidosis, alkalosis, or normal? What is [H 3 O + ]?",
+  "answer": "Above 7.45: alkalosis . [H 3 O + ] = 10 &minus;7.48 = 3.3 &times; 10 &minus;8 M, less than the 4.0 &times; 10 &minus;8 M at pH 7.40.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.5_ph.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "An arterial blood sample has [H 3 O + ] = 3.16 &times; 10 &minus;8 M. What is the pH, and is this acidosis, alkalosis, or normal (7.35&ndash;7.45)?",
+  "answer": "pH = &minus;log(3.16 &times; 10 &minus;8 ) = 7.5003&hellip; = 7.500 (three decimal places for three significant figures). Above 7.45: alkalosis . (Context only; interpretation follows the provider's orders.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.5_ph.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "question": "0.20 g of NaOH (39.997 g/mol) is dissolved in enough water to make 500. mL of solution. What is the pH?",
+  "answer": "0.20 g &divide; 39.997 g/mol = 5.000 &times; 10 &minus;3 mol NaOH = mol OH &minus; (1 : 1). [OH &minus; ] = 5.000 &times; 10 &minus;3 mol &divide; 0.500 L = 0.010 M. pOH = &minus;log(0.010) = 2.00; pH = 14.00 &minus; 2.00 = 12.00 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.6_buffers.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Which mixture is a buffer: (a) HBr and KBr; (b) HNO 2 and NaNO 2 ; (c) NaOH and NaCl? Explain.",
+  "answer": "Only (b) : HNO 2 is a weak acid, and NaNO 2 supplies its conjugate base, NO 2 &minus; . (a) HBr is a strong acid. (c) NaOH is a strong base, and Cl &minus; is not its conjugate acid.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.6_buffers.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "An ammonia buffer contains NH 3 and NH 4 + . Write the reaction that neutralizes added H 3 O + and the reaction that neutralizes added OH &minus; .",
+  "answer": "Added acid: NH 3 + H 3 O + &rarr; NH 4 + + H 2 O (the weak base reacts). Added base: NH 4 + + OH &minus; &rarr; NH 3 + H 2 O (the conjugate acid reacts).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.6_buffers.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A patient who is very anxious breathes rapidly for several minutes. Predict what happens to blood CO 2 , [H 3 O + ], and pH, and name the condition.",
+  "answer": "Rapid breathing removes CO 2 , so less H 2 CO 3 forms and less H + is released: [H 3 O + ] falls and the pH rises above 7.45. This is respiratory alkalosis .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.6_buffers.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Which pair would make the best buffer: (a) HBr and NaBr; (b) H 3 PO 4 and NaH 2 PO 4 ; (c) NaCl and KCl; (d) HC 2 H 3 O 2 and HCl? Give the reason each other pair fails.",
+  "answer": "(b) : H 3 PO 4 is a weak acid, and NaH 2 PO 4 supplies H 2 PO 4 &minus; , one H + less. (a) HBr is a strong acid. (c) Two salts and no weak acid. (d) HCl is a strong acid, and it is not acetic acid's conjugate base; there is no acetate.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 12.1",
+  "question": "Which observation shows that a solution is basic ? A. It turns blue litmus paper red. B. It stays colorless when phenolphthalein is added. C. It turns red cabbage indicator green. D. It fizzes when a piece of chalk (calcium carbonate) is dropped in.",
+  "answer": "C. Red cabbage indicator turns blue, green, or yellow in basic solutions; green means roughly pH 9 to 11. A is the acid test (\"BRA\": blue turns red in acid). A base turns red litmus blue ; this choice swaps the colors. B describes an acidic or neutral solution. Phenolphthalein turns pink only in base. D is a property of acids: acid + carbonate makes CO 2 gas. A base does not fizz with a carbonate.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 12.2",
+  "question": "In a lab modeled on Experiment 12a (pH of Household Items), a student adds red cabbage indicator to seven samples and records the colors below. @media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } } Experiment 12a-style red cabbage results Sample Color with red cabbage indicator Lemon juice red White vinegar pink Black coffee purple Milk purple Baking soda dissolved in water blue Milk of magnesia shaken with water green Dilute drain cleaner (prepared by the instructor) yellow (a) Estimate the pH range of each sample and classify it as acidic, near neutral, or basic. (b) Rank the samples from most acidic to most basic. Which two cannot be ranked against each other with this indicator alone? (c) Which samples would turn red litmus paper blue? (d) Name an acidic sample and a basic sample that would fizz if mixed, and identify the gas that forms.",
+  "answer": "(a) Lemon juice, red: pH 1 to 2, acidic . Vinegar, pink: pH 3 to 4, acidic . Coffee and milk, purple: pH 5 to 7, weakly acidic to near neutral . Baking soda, blue: about pH 8, basic (weakly). Milk of magnesia, green: pH 9 to 11, basic . Drain cleaner, yellow: pH 12 to 14, strongly basic . (b) Lemon juice &lt; vinegar &lt; coffee and milk &lt; baking soda &lt; milk of magnesia &lt; drain cleaner (most acidic, lowest pH, first). Coffee and milk are both purple, so the indicator cannot tell which is more acidic. (Typical values are about 5 for coffee and 6.5 for milk, but the color alone cannot show that.) (c) The basic samples: baking soda, milk of magnesia, and drain cleaner . (d) Lemon juice or vinegar (an acid) with baking soda (a bicarbonate) fizzes: acid + bicarbonate &rarr; salt + water + carbon dioxide . The acid that fizzes with baking soda in a kitchen is usually vinegar, the \"volcano\" reaction from Section 12.1, but lemon juice works the same way.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 12.3",
+  "question": "A strip of aluminum foil is dropped into hydrochloric acid. (a) Write the balanced equation. (b) Describe what you would see. (c) Which property of acids does this reaction show?",
+  "answer": "(a) 2 Al(s) + 6 HCl(aq) &rarr; 2 AlCl 3 (aq) + 3 H 2 (g) Check: 2 Al, 6 H, and 6 Cl on each side. Aluminum forms Al 3+ , so each Al needs three Cl &minus; , and the six H atoms leave as three H 2 molecules. (b) Bubbles of a colorless gas (hydrogen) form on the metal, and the foil slowly dissolves. The solution may get warm. (c) Acids react with active metals to make hydrogen gas , a single-displacement reaction (Section 7.8), which is why acids corrode metals.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 12.4",
+  "question": "Some effervescent antacid tablets contain potassium bicarbonate, KHCO 3 . Which set of products forms when KHCO 3 reacts with hydrochloric acid? A. KCl(aq) + H 2 CO 3 (aq), and nothing else B. KCl(aq) + H 2 O(l) + CO 2 (g) C. KCl(aq) + H 2 (g) + CO 2 (g) D. KCl(aq) + H 2 O(l), with no gas",
+  "answer": "B. Acid + bicarbonate &rarr; salt + water + carbon dioxide: KHCO 3 (s) + HCl(aq) &rarr; KCl(aq) + H 2 O(l) + CO 2 (g) Check: 1 K, 2 H, 1 C, 3 O, and 1 Cl on each side. The CO 2 is the fizz you see in the glass. A stops halfway. H 2 CO 3 forms first but breaks down into H 2 O and CO 2 , so it is not written as a product. C mixes in the acid + metal reaction. H 2 forms when an acid reacts with an active metal, not with a bicarbonate. D leaves out the CO 2 . Any carbonate or bicarbonate releases CO 2 gas with an acid; that is why the tablet fizzes.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 12.5",
+  "question": "Write a balanced molecular equation for each neutralization, and name the salt: (a) hydroiodic acid with lithium hydroxide; (b) hydrochloric acid with barium hydroxide. (c) Write the net ionic equation that the two reactions share.",
+  "answer": "(a) HI(aq) + LiOH(aq) &rarr; LiI(aq) + H 2 O(l) &nbsp;&nbsp; salt: lithium iodide (b) 2 HCl(aq) + Ba(OH) 2 (aq) &rarr; BaCl 2 (aq) + 2 H 2 O(l) &nbsp;&nbsp; salt: barium chloride In (b), Ba(OH) 2 supplies two OH &minus; , so it needs two HCl and makes two waters. Each salt is the base's cation with the acid's anion. (c) H + (aq) + OH &minus; (aq) &rarr; H 2 O(l) All four reactants are strong electrolytes, so Li + , I &minus; , Ba 2+ , and Cl &minus; are spectator ions. In (b) the equation H + + OH &minus; &rarr; H 2 O happens twice for every Ba(OH) 2 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 12.6",
+  "question": "The surface of healthy skin is usually around pH 5, while many ordinary bar soaps are around pH 9 to 10. Which statement is correct? A. Skin's surface is basic, so it would turn red litmus blue. B. The soap is acidic, because it removes oils from the skin. C. A drop of phenolphthalein on wet soap lather would stay colorless. D. The soap is basic, so it would turn red litmus paper blue.",
+  "answer": "D. A pH above 7 is basic, and bases turn red litmus blue. (The slippery feel of soap is another base property.) This is the reason soaps for sensitive skin are often formulated closer to skin's own pH. A reverses the classification. A pH near 5 is mildly acidic (the \"acid mantle\"), so skin would turn blue litmus red , not red litmus blue. B confuses what soap does with its pH. Removing oils is not an acid property; a pH of 9 to 10 is basic. C has the indicator backward. Phenolphthalein turns pink above about pH 8, so it would turn pink in the lather.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 12.7",
+  "question": "A soil scientist checks a west-side Valley field for natural lime (calcium carbonate) by putting a few drops of dilute hydrochloric acid on a soil sample. (a) If the soil contains lime, what will she see, and what gas forms? Write the balanced equation. (b) A sample of gypsum (calcium sulfate, CaSO 4 ) gives no fizz. Why not? (c) Growers who cannot handle sulfuric acid safely can spread elemental sulfur instead; soil bacteria turn it into sulfuric acid. Balance this overall equation: __ S(s) + __ O 2 (g) + __ H 2 O(l) &rarr; __ H 2 SO 4 (aq).",
+  "answer": "(a) The soil fizzes , because acid + carbonate makes carbon dioxide gas: CaCO 3 (s) + 2 HCl(aq) &rarr; CaCl 2 (aq) + H 2 O(l) + CO 2 (g) (b) Calcium sulfate is a salt with no carbonate or bicarbonate ion, so there is nothing to make CO 2 . It is not a base, and it does not neutralize the acid. (c) 2 S(s) + 3 O 2 (g) + 2 H 2 O(l) &rarr; 2 H 2 SO 4 (aq) Check: 2 S, 4 H, and 8 O on each side (6 + 2 on the left, 2 &times; 4 on the right). The sulfuric acid made this way then reacts with the soil's lime to make gypsum, the Valley Connection in Section 12.1.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 12.8",
+  "question": "Which statement is the Br&oslash;nsted&ndash;Lowry definition of a base? A. A substance that donates a proton (H + ) B. A substance that produces OH &minus; ions when it dissolves in water C. A substance that accepts a proton (H + ) D. Any substance whose formula contains hydrogen",
+  "answer": "C. Br&oslash;nsted&ndash;Lowry bases are proton acceptors (\"BAD\": bases accept, acids donate). A is the Br&oslash;nsted&ndash;Lowry definition of an acid . B is the Arrhenius definition of a base. It is narrower: it misses bases such as NH 3 that contain no hydroxide. D is a common trap. NH 3 and CH 4 both contain H, and neither donates it in water; having H atoms does not decide anything.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 12.9",
+  "question": "Identify the Br&oslash;nsted&ndash;Lowry acid, base, conjugate acid, and conjugate base in each reaction. (a) HCN(aq) + H 2 O(l) &#8644; H 3 O + (aq) + CN &minus; (aq) (b) HCO 3 &minus; (aq) + OH &minus; (aq) &rarr; CO 3 2&minus; (aq) + H 2 O(l) (c) C 5 H 5 N(aq) + H 2 O(l) &#8644; C 5 H 5 NH + (aq) + OH &minus; (aq)",
+  "answer": "(a) HCN loses H + : acid ; CN &minus; is its conjugate base . H 2 O gains H + : base ; H 3 O + is its conjugate acid . (b) HCO 3 &minus; loses H + : acid ; CO 3 2&minus; is its conjugate base . OH &minus; gains H + : base ; H 2 O is its conjugate acid . (c) C 5 H 5 N (pyridine, an amine-like base) gains H + : base ; C 5 H 5 NH + is its conjugate acid . H 2 O loses H + : acid ; OH &minus; is its conjugate base . Check: every pair differs by exactly one H and one unit of charge. Notice that water is the base in (a) and the acid in (c), and that bicarbonate, which is often a base, acts as an acid toward the stronger base OH &minus; in (b).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 12.10",
+  "question": "What is the conjugate base of the ammonium ion, NH 4 + ? A. NH 5 2+ B. NH 4 C. NH 2 &minus; D. NH 3",
+  "answer": "D. To make a conjugate base, remove one H + : one fewer H, and the charge goes down by 1, from +1 to 0. NH 4 + &minus; H + = NH 3 . A adds an H + . That is the direction for a conjugate acid, and NH 4 + does not actually accept another proton. B removes the charge without removing the H. A proton carries the +1 charge with it. C removes two protons. Conjugates differ by exactly one H + ; NH 2 &minus; is the conjugate base of NH 3 , not of NH 4 + .",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 12.11",
+  "question": "Write the conjugate base of (a) HClO 2 ; (b) H 2 S; (c) HC 2 O 4 &minus; (hydrogen oxalate). Write the conjugate acid of (d) PO 4 3&minus; ; (e) H 2 O; (f) C 2 H 3 O 2 &minus; (acetate).",
+  "answer": "Conjugate base: remove one H and lower the charge by 1. Conjugate acid: add one H and raise the charge by 1. (a) ClO 2 &minus; &nbsp;&nbsp; (b) HS &minus; &nbsp;&nbsp; (c) C 2 O 4 2&minus; &nbsp;&nbsp; (d) HPO 4 2&minus; &nbsp;&nbsp; (e) H 3 O + &nbsp;&nbsp; (f) HC 2 H 3 O 2 In (c), the charge goes from &minus;1 to &minus;2, not to 0: removing a positive proton makes the ion more negative. In (f), the H that acetate gains is the acidic H of acetic acid, written first in HC 2 H 3 O 2 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 12.12",
+  "question": "In the reaction below, which two species form a conjugate acid&ndash;base pair? NH 4 + (aq) + H 2 O(l) &#8644; NH 3 (aq) + H 3 O + (aq) A. NH 4 + and H 2 O B. NH 4 + and NH 3 C. H 2 O and NH 3 D. NH 4 + and H 3 O +",
+  "answer": "B. NH 4 + donates a proton and becomes NH 3 ; the two differ by exactly one H + . (The other pair is H 2 O and H 3 O + .) A pairs the two reactants. They are the acid and the base of the forward reaction, not partners; a conjugate pair always has one member on each side. C pairs species that differ by more than one H + (different elements, too). Water's partner here is H 3 O + . D pairs the two acids, one from each side. A pair is an acid with its own conjugate base.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 12.13",
+  "question": "The dihydrogen phosphate ion, H 2 PO 4 &minus; , is amphoteric. (a) Write a balanced equation for H 2 PO 4 &minus; acting as an acid toward OH &minus; . (b) Write a balanced equation for H 2 PO 4 &minus; acting as a base toward H 3 O + . (c) What does \"amphoteric\" mean, and what common substance is the most important example?",
+  "answer": "(a) H 2 PO 4 &minus; (aq) + OH &minus; (aq) &rarr; HPO 4 2&minus; (aq) + H 2 O(l) (b) H 2 PO 4 &minus; (aq) + H 3 O + (aq) &rarr; H 3 PO 4 (aq) + H 2 O(l) Check the charges: (a) &minus;1 + (&minus;1) = &minus;2 on the left and &minus;2 + 0 on the right; (b) &minus;1 + 1 = 0 on both sides. Atoms balance too. (c) An amphoteric substance can act as either an acid or a base, depending on what it reacts with. Water is the most important example. (Because H 2 PO 4 &minus; can neutralize both added base and added acid, phosphate is a buffer inside cells, Section 12.6.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 12.14",
+  "question": "The stomach bacterium Helicobacter pylori makes the enzyme urease, which breaks down urea: CO(NH 2 ) 2 (aq) + H 2 O(l) &rarr; CO 2 (aq) + 2 NH 3 (aq) (a) Show that the equation is balanced. (b) The ammonia then reacts with stomach acid: NH 3 + H 3 O + &rarr; NH 4 + + H 2 O. Identify the Br&oslash;nsted&ndash;Lowry acid and base. (c) How many moles of H 3 O + can the ammonia from 1 mol of urea neutralize? (d) Why does this help the bacterium survive?",
+  "answer": "(a) Left: 1 C, 2 O (one in urea, one in water), 2 N, and 6 H (4 + 2). Right: 1 C and 2 O in CO 2 , and 2 N and 6 H in 2 NH 3 . Balanced. (b) H 3 O + donates a proton: acid . NH 3 accepts it: base . (Their conjugates are H 2 O and NH 4 + .) (c) 1 mol urea gives 2 mol NH 3 , and each NH 3 accepts one proton, so 2 mol H 3 O + . (d) Removing H 3 O + makes the fluid right around the bacterium less acidic, so it can survive long enough to burrow into the protective mucus layer of the stomach lining.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 12.15",
+  "question": "Classify each substance as a strong acid, weak acid, strong base, weak base, salt, or none of these. (Some fit two labels.) (a) HBr; (b) HF; (c) LiOH; (d) CH 3 CH 2 CH 2 NH 2 (propylamine); (e) MgCl 2 ; (f) glycerol, HOCH 2 CH(OH)CH 2 OH; (g) H 2 CO 3 ; (h) NaHCO 3 .",
+  "answer": "(a) Strong acid : on the strong-acid list. (b) Weak acid : not on the list. HF is the classic trap among the halogen acids. (c) Strong base : a Group 1 hydroxide. (d) Weak base : an amine; the lone pair on N accepts a proton. (e) Salt : Mg 2+ (from a base) with Cl &minus; (from an acid). (f) None of these : a molecular alcohol. Its &ndash;OH groups are covalently bonded, not hydroxide ions. (g) Weak acid : carbonic acid is not on the strong list. (h) Salt and weak base : bicarbonate accepts protons, as in baking soda and antacids.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 12.16",
+  "question": "Which of these is a strong acid? A. HF, hydrofluoric acid B. H 3 PO 4 , phosphoric acid C. HC 2 H 3 O 2 , acetic acid D. HClO 4 , perchloric acid",
+  "answer": "D. HClO 4 is one of the six strong acids on the green sheet (HCl, HBr, HI, HNO 3 , HClO 4 , H 2 SO 4 ), so it ionizes completely in water. A is weak. HCl, HBr, and HI are strong, but HF is not, even though fluorine is in the same group. B is weak. Having three H atoms does not make an acid strong; strength is about how completely it ionizes, and H 3 PO 4 is not on the list. C is weak: the acid in vinegar is mostly intact molecules in water.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 12.17",
+  "question": "Which statement best describes a 0.10 M solution of lactic acid, HC 3 H 5 O 3 ? A. [H 3 O + ] = 0.10 M, because each lactic acid molecule gives one H + . B. Most of the lactic acid stays as intact HC 3 H 5 O 3 molecules, so [H 3 O + ] is much less than 0.10 M. C. It contains no H 3 O + at all, because lactic acid is weak. D. It has the same [H 3 O + ] as 0.10 M HCl, because the two concentrations are equal.",
+  "answer": "B. Lactic acid is not on the strong-acid list, so it is weak: only a small fraction of its molecules donate a proton at any moment. HC 3 H 5 O 3 (aq) + H 2 O(l) &#8644; H 3 O + (aq) + C 3 H 5 O 3 &minus; (aq) A treats a weak acid as if it ionized completely. That shortcut, [H 3 O + ] = acid molarity, works only for strong acids. C goes too far the other way. A weak acid ionizes slightly , not zero; the solution is still acidic. D confuses concentration with strength. Equal molarities do not mean equal ionization: the HCl is all ions, the lactic acid mostly molecules.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 12.18",
+  "question": "Write the ionization or dissociation equation in water for each, with the correct arrow: (a) HI; (b) formic acid, HCHO 2 (the acid in ant stings); (c) LiOH; (d) Ca(OH) 2 ; (e) dimethylamine, (CH 3 ) 2 NH.",
+  "answer": "(a) HI(aq) + H 2 O(l) &rarr; H 3 O + (aq) + I &minus; (aq) &nbsp;&nbsp; (strong acid: single arrow) (b) HCHO 2 (aq) + H 2 O(l) &#8644; H 3 O + (aq) + CHO 2 &minus; (aq) &nbsp;&nbsp; (weak acid: double arrow) (c) LiOH(aq) &rarr; Li + (aq) + OH &minus; (aq) &nbsp;&nbsp; (strong base) (d) Ca(OH) 2 (aq) &rarr; Ca 2+ (aq) + 2 OH &minus; (aq) &nbsp;&nbsp; (strong base; two OH &minus; per formula unit) (e) (CH 3 ) 2 NH(aq) + H 2 O(l) &#8644; (CH 3 ) 2 NH 2 + (aq) + OH &minus; (aq) &nbsp;&nbsp; (weak base) Only the H written first in HCHO 2 is acidic, so formate is CHO 2 &minus; . The amine in (e) takes a proton from water onto its nitrogen, like NH 3 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 12.19",
+  "question": "A particle picture of a 0.1 M acid, HX, in water shows 10 intact HX molecules, 2 H 3 O + ions, and 2 X &minus; ions (water molecules not shown). Which acid could HX be? A. HNO 2 , nitrous acid B. HNO 3 , nitric acid C. HCl, hydrochloric acid D. HBr, hydrobromic acid",
+  "answer": "A. Most of the acid is still intact molecules, so HX ionizes only slightly: it is a weak acid. Of the choices, only HNO 2 is weak. B is strong. A picture of 0.1 M HNO 3 would show only H 3 O + and NO 3 &minus; ions and no HNO 3 molecules. (Watch the subscript: HNO 3 is strong, HNO 2 is weak.) C is strong and would show only ions. D is strong and would show only ions.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 12.20",
+  "question": "Predict the salt and write a balanced molecular equation for each neutralization: (a) nitric acid with potassium hydroxide; (b) acetic acid with calcium hydroxide; (c) sulfuric acid with barium hydroxide (the salt is insoluble). (d) In each, how many waters form per formula unit of salt?",
+  "answer": "(a) HNO 3 (aq) + KOH(aq) &rarr; KNO 3 (aq) + H 2 O(l) (b) 2 HC 2 H 3 O 2 (aq) + Ca(OH) 2 (aq) &rarr; Ca(C 2 H 3 O 2 ) 2 (aq) + 2 H 2 O(l) (c) H 2 SO 4 (aq) + Ba(OH) 2 (aq) &rarr; BaSO 4 (s) + 2 H 2 O(l) The salts are (a) potassium nitrate, (b) calcium acetate, and (c) barium sulfate. (d) 1, 2, and 2 : the number of waters equals the number of H + neutralized. In (b), acetic acid is weak, but a strong base still pulls every acidic proton off, so the neutralization goes to completion. Check (b): the left side has 1 Ca, 4 C, 10 H (8 in the acid, 2 in the hydroxide), and 6 O (4 + 2). On the right, Ca(C 2 H 3 O 2 ) 2 has 1 Ca, 4 C, 6 H, and 4 O, and 2 H 2 O adds 4 H and 2 O, for 10 H and 6 O.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 12.21",
+  "question": "Which equation is written correctly? A. HF(aq) + H 2 O(l) &rarr; H 3 O + (aq) + F &minus; (aq) B. HNO 3 (aq) + H 2 O(l) &#8644; H 3 O + (aq) + NO 3 &minus; (aq) C. Sr(OH) 2 (aq) &rarr; Sr 2+ (aq) + 2 OH &minus; (aq) D. NH 3 (aq) + H 2 O(l) &rarr; NH 4 + (aq) + OH &minus; (aq)",
+  "answer": "C. Sr(OH) 2 is a strong base, so it gets a single arrow, and each formula unit releases two OH &minus; . Mass and charge balance (+2 and 2 &times; &minus;1 = 0). A uses a single arrow for a weak acid. HF ionizes only slightly, so it needs a double arrow. B uses a double arrow for a strong acid. HNO 3 ionizes completely, so it gets a single arrow. D uses a single arrow for a weak base. Ammonia accepts protons from water only to a small extent.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 12.22",
+  "question": "Three 0.10 M solutions are tested with a light-bulb conductivity tester: hydrochloric acid (HCl), acetic acid (HC 2 H 3 O 2 ), and sucrose (table sugar, C 12 H 22 O 11 ). Predict whether the bulb glows brightly, dimly, or not at all for each, and explain using the particles present.",
+  "answer": "HCl: bright. A strong acid is completely ionized, so the solution is full of H 3 O + and Cl &minus; ions that carry current: a strong electrolyte. Acetic acid: dim. A weak acid is mostly intact molecules, with only a few H 3 O + and C 2 H 3 O 2 &minus; ions: a weak electrolyte. Sucrose: not at all (or no more than water). Sucrose dissolves as whole molecules and forms no ions: a nonelectrolyte. The two acids have the same concentration, so the difference in brightness comes from strength (how completely they ionize), not from how much acid was dissolved.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 12.23",
+  "question": "The table below lists the active ingredients of some household products. Active ingredients of household products Product Active ingredient Formula Toilet bowl cleaner hydrochloric acid HCl Glass cleaner ammonia NH 3 Drain opener sodium hydroxide NaOH Vinegar acetic acid HC 2 H 3 O 2 Coffee-maker descaler citric acid H 3 C 6 H 5 O 7 Washing soda sodium carbonate Na 2 CO 3 Rubbing alcohol isopropyl alcohol C 3 H 7 OH (a) Classify each active ingredient as a strong acid, weak acid, strong base, weak base, or neither. (b) Write the equation for the first proton of citric acid reacting with water, with the correct arrow. (c) Write the equation for ammonia reacting with water. (d) A label warns never to mix the toilet bowl cleaner with the drain opener. What reaction would happen, and why is it dangerous?",
+  "answer": "(a) HCl: strong acid . NH 3 : weak base . NaOH: strong base . Acetic acid: weak acid . Citric acid: weak acid (not on the list, even with three acidic H atoms). Na 2 CO 3 : a salt that is a weak base (carbonate accepts protons). Isopropyl alcohol: neither (molecular; its OH is not a hydroxide ion). (b) H 3 C 6 H 5 O 7 (aq) + H 2 O(l) &#8644; H 3 O + (aq) + H 2 C 6 H 5 O 7 &minus; (aq) (c) NH 3 (aq) + H 2 O(l) &#8644; NH 4 + (aq) + OH &minus; (aq) Both are weak, so both get double arrows. (d) A strong acid and a strong base neutralize each other, HCl + NaOH &rarr; NaCl + H 2 O. With concentrated products, the reaction releases a lot of heat very quickly, which can boil and splatter the caustic mixture onto skin and eyes.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 12.24",
+  "question": "Which statement about pure water at 25 &deg;C is true? A. It contains no ions at all, because it is neutral. B. [H 3 O + ] = [OH &minus; ] = 1.0 &times; 10 &minus;7 M. C. [H 3 O + ] = [OH &minus; ] = 1.0 &times; 10 &minus;14 M. D. [H 3 O + ] = 1.0 &times; 10 &minus;7 M, but [OH &minus; ] = 0, because only acids make ions.",
+  "answer": "B. Water autoionizes, H 2 O + H 2 O &#8644; H 3 O + + OH &minus; , making one of each ion. In pure water the two are equal, and their product is K w : (1.0 &times; 10 &minus;7 )(1.0 &times; 10 &minus;7 ) = 1.0 &times; 10 &minus;14 . A mixes up \"neutral\" with \"no ions.\" Neutral means the two ion concentrations are equal ; pure water has a tiny but real amount of each. C uses K w itself as each concentration. 1.0 &times; 10 &minus;14 is the product of the two. D forgets that autoionization makes the ions in pairs: every H 3 O + formed leaves an OH &minus; behind.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 12.25",
+  "question": "A grapefruit juice has [H 3 O + ] = 6.4 &times; 10 &minus;4 M. What is [OH &minus; ]? A. 6.4 &times; 10 &minus;18 M B. 6.4 &times; 10 &minus;4 M C. 1.6 &times; 10 3 M D. 1.6 &times; 10 &minus;11 M",
+  "answer": "D. \\( [\\text{OH}^-] = \\dfrac{1.0 \\times 10^{-14}}{[\\text{H}_3\\text{O}^+]} = \\dfrac{1.0 \\times 10^{-14}}{6.4 \\times 10^{-4}} = 1.6 \\times 10^{-11}\\ M \\) Check: [H 3 O + ] is above 10 &minus;7 M (acidic), so [OH &minus; ] must be below it, and it is. A multiplies K w by [H 3 O + ] instead of dividing. B assumes the two concentrations are equal. They are equal only in neutral water. C divides 1 by 6.4 &times; 10 &minus;4 , leaving out K w . No real water solution has 1600 M of anything.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 12.26",
+  "question": "A sample of egg white has [OH &minus; ] = 2.5 &times; 10 &minus;6 M. Find [H 3 O + ] and classify the egg white as acidic, basic, or neutral.",
+  "answer": "\\( [\\text{H}_3\\text{O}^+] = \\dfrac{1.0 \\times 10^{-14}}{2.5 \\times 10^{-6}} = 4.0 \\times 10^{-9}\\ M \\) 4.0 &times; 10 &minus;9 M , two significant figures. [H 3 O + ] is less than 1.0 &times; 10 &minus;7 M (and [OH &minus; ] is greater), so the egg white is basic (mildly). Check: (4.0 &times; 10 &minus;9 )(2.5 &times; 10 &minus;6 ) = 10 &times; 10 &minus;15 = 1.0 &times; 10 &minus;14 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 12.27",
+  "question": "Which solution is basic? A. [H 3 O + ] = 2.0 &times; 10 &minus;5 M B. [OH &minus; ] = 5.0 &times; 10 &minus;9 M C. [H 3 O + ] = 7.1 &times; 10 &minus;10 M D. [OH &minus; ] = 1.0 &times; 10 &minus;7 M",
+  "answer": "C. 7.1 &times; 10 &minus;10 M is smaller than 1.0 &times; 10 &minus;7 M, so [H 3 O + ] is below neutral and [OH &minus; ] is above it: [OH &minus; ] = 1.0 &times; 10 &minus;14 &divide; 7.1 &times; 10 &minus;10 = 1.4 &times; 10 &minus;5 M. A is acidic: 2.0 &times; 10 &minus;5 is larger than 10 &minus;7 (watch the negative exponents). B is a trap: it gives [OH &minus; ], but 5.0 &times; 10 &minus;9 M is less than 10 &minus;7 M, so the solution is acidic ([H 3 O + ] = 2.0 &times; 10 &minus;6 M). Seeing OH &minus; does not make a solution basic; the comparison does. D is neutral: [OH &minus; ] = [H 3 O + ] = 1.0 &times; 10 &minus;7 M.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 12.28",
+  "question": "Find [H 3 O + ] and [OH &minus; ] in 0.0040 M HBr.",
+  "answer": "HBr is a strong acid, so it ionizes completely: [H 3 O + ] = 0.0040 M = 4.0 &times; 10 &minus;3 M . \\( [\\text{OH}^-] = \\dfrac{1.0 \\times 10^{-14}}{4.0 \\times 10^{-3}} = 2.5 \\times 10^{-12}\\ M \\) 2.5 &times; 10 &minus;12 M . The OH &minus; comes only from water's autoionization, pushed far below 10 &minus;7 M by all the H 3 O + .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 12.29",
+  "question": "What is [H 3 O + ] in 0.0035 M Ca(OH) 2 ? A. 1.4 &times; 10 &minus;12 M B. 2.9 &times; 10 &minus;12 M C. 7.0 &times; 10 &minus;3 M D. 7.0 &times; 10 &minus;17 M",
+  "answer": "A. Ca(OH) 2 &rarr; Ca 2+ + 2 OH &minus; , so [OH &minus; ] = 2 &times; 0.0035 M = 0.0070 M. \\( [\\text{H}_3\\text{O}^+] = \\dfrac{1.0 \\times 10^{-14}}{7.0 \\times 10^{-3}} = 1.43 \\times 10^{-12} = 1.4 \\times 10^{-12}\\ M \\) B forgets to double: it uses [OH &minus; ] = 0.0035 M. Each Ca(OH) 2 releases two OH &minus; . C is [OH &minus; ], not [H 3 O + ]. The question asks for the other ion. D multiplies K w by [OH &minus; ] instead of dividing.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 12.30",
+  "question": "Rank these solutions from most acidic to most basic, and show the comparison you used: A, [H 3 O + ] = 3.0 &times; 10 &minus;2 M; B, [OH &minus; ] = 3.0 &times; 10 &minus;2 M; C, [H 3 O + ] = 4.5 &times; 10 &minus;9 M; D, [OH &minus; ] = 2.0 &times; 10 &minus;10 M.",
+  "answer": "Put every solution on the same scale by finding [H 3 O + ] for B and D: \\( \\text{B: } \\dfrac{1.0 \\times 10^{-14}}{3.0 \\times 10^{-2}} = 3.3 \\times 10^{-13}\\ M \\qquad \\text{D: } \\dfrac{1.0 \\times 10^{-14}}{2.0 \\times 10^{-10}} = 5.0 \\times 10^{-5}\\ M \\) From the largest [H 3 O + ] to the smallest: A (3.0 &times; 10 &minus;2 ) &gt; D (5.0 &times; 10 &minus;5 ) &gt; C (4.5 &times; 10 &minus;9 ) &gt; B (3.3 &times; 10 &minus;13 ). So the ranking is A, D, C, B . A and D are acidic; C and B are basic. D is a trap: it lists [OH &minus; ], but that value is tiny, so D is acidic.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 12.31",
+  "question": "Gastric juice in the stomach can have [H 3 O + ] = 2.0 &times; 10 &minus;2 M. In the small intestine, pancreatic juice, rich in bicarbonate, has [OH &minus; ] of about 1.0 &times; 10 &minus;6 M. (a) Find [H 3 O + ] in the pancreatic juice. Is it acidic or basic? (b) How many times larger is [H 3 O + ] in gastric juice? (c) What does the bicarbonate in pancreatic juice do to the acidic food mixture arriving from the stomach?",
+  "answer": "(a) \\( [\\text{H}_3\\text{O}^+] = \\dfrac{1.0 \\times 10^{-14}}{1.0 \\times 10^{-6}} = 1.0 \\times 10^{-8}\\ M \\) (a) 1.0 &times; 10 &minus;8 M , below 10 &minus;7 M, so pancreatic juice is basic (mildly). (b) \\( \\dfrac{2.0 \\times 10^{-2}\\ M}{1.0 \\times 10^{-8}\\ M} = 2.0 \\times 10^{6} \\) (b) About 2.0 &times; 10 6 , two million times larger. (c) Bicarbonate is a base. It neutralizes the stomach acid (HCO 3 &minus; + H 3 O + &rarr; H 2 CO 3 + H 2 O, and H 2 CO 3 breaks down to CO 2 and H 2 O), protecting the lining of the small intestine and giving its digestive enzymes the nearly neutral conditions they work in.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 12.32",
+  "question": "A few pellets of NaOH are dissolved in a liter of pure water at 25 &deg;C. What happens to the ion concentrations? A. [OH &minus; ] and [H 3 O + ] both increase. B. [OH &minus; ] increases, [H 3 O + ] decreases, and their product stays 1.0 &times; 10 &minus;14 . C. [OH &minus; ] increases, and [H 3 O + ] becomes zero. D. [OH &minus; ] increases, and [H 3 O + ] stays at 1.0 &times; 10 &minus;7 M.",
+  "answer": "B. K w = [H 3 O + ][OH &minus; ] stays 1.0 &times; 10 &minus;14 in every water solution at 25 &deg;C, so the two concentrations move like a seesaw: when the base raises [OH &minus; ], [H 3 O + ] must fall. A would make the product grow past K w . The extra OH &minus; combines with H 3 O + to make water, so [H 3 O + ] goes down. C goes too far. Every water solution contains both ions; a basic solution has a very small [H 3 O + ], not zero. D ignores K w . If [H 3 O + ] stayed at 10 &minus;7 M, the product would be larger than 1.0 &times; 10 &minus;14 .",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 12.33",
+  "question": "What is the pH of 0.0042 M HNO 3 ? A. &minus;2.38 B. 2.4 C. 2.38 D. 11.62",
+  "answer": "C. HNO 3 is a strong acid, so [H 3 O + ] = 0.0042 M = 4.2 &times; 10 &minus;3 M. \\( \\text{pH} = -\\log(4.2 \\times 10^{-3}) = 2.3767\\ldots = 2.38 \\) Two significant figures in 4.2 give two decimal places. Check: the concentration is between 10 &minus;3 and 10 &minus;2 M, so the pH is between 2 and 3. A uses pH = log[H 3 O + ] and drops the minus sign in the definition. Ordinary pH values are positive. B has the wrong number of decimal places. A two-significant-figure concentration needs two decimal places in the pH. D is 14.00 &minus; 2.38, the pOH. An acid must have a pH below 7.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 12.34",
+  "question": "Find the pOH and the pH of 4.5 &times; 10 &minus;3 M KOH.",
+  "answer": "KOH is a strong base with one OH &minus; , so [OH &minus; ] = 4.5 &times; 10 &minus;3 M. \\( \\text{pOH} = -\\log(4.5 \\times 10^{-3}) = 2.3468\\ldots = 2.35 \\qquad \\text{pH} = 14.00 - 2.35 = 11.65 \\) pOH 2.35, pH 11.65 . Two significant figures give two decimal places, and a pH above 7 fits a base. Check the other way: [H 3 O + ] = 1.0 &times; 10 &minus;14 &divide; 4.5 &times; 10 &minus;3 = 2.22 &times; 10 &minus;12 M, and &minus;log of that is also 11.65.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 12.35",
+  "question": "Pickling lime, calcium hydroxide, is used in many Valley kitchens to soak corn for masa and tortillas (nixtamalization). What is the pH of a 0.0040 M Ca(OH) 2 solution? A. 11.90 B. 11.60 C. 2.10 D. 11.9",
+  "answer": "A. Ca(OH) 2 &rarr; Ca 2+ + 2 OH &minus; , so [OH &minus; ] = 2 &times; 0.0040 M = 0.0080 M. \\( \\text{pOH} = -\\log(0.0080) = 2.0969\\ldots = 2.10 \\qquad \\text{pH} = 14.00 - 2.10 = 11.90 \\) B forgets to double [OH &minus; ]: &minus;log(0.0040) = 2.40, and 14.00 &minus; 2.40 = 11.60. C is the pOH. For a base, subtract the pOH from 14.00 at the end. D has the right value but the wrong number of decimal places. 0.0080 has two significant figures, so the pH needs two decimal places: 11.90.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 12.36",
+  "question": "A cup of black coffee has pH 5.12. What is [H 3 O + ]? A. 1.3 &times; 10 5 M B. 1.3 &times; 10 &minus;9 M C. 5.12 &times; 10 &minus;6 M D. 7.6 &times; 10 &minus;6 M",
+  "answer": "D. \\( [\\text{H}_3\\text{O}^+] = 10^{-\\text{pH}} = 10^{-5.12} = 7.585\\ldots \\times 10^{-6} = 7.6 \\times 10^{-6}\\ M \\) Two decimal places in 5.12 give two significant figures. Check: a pH between 5 and 6 means [H 3 O + ] between 10 &minus;6 and 10 &minus;5 M, and it is. A uses 10 +5.12 , dropping the minus sign. The concentration must be a small number. B uses 10 &minus;(14 &minus; pH) = 10 &minus;8.88 . That is [OH &minus; ]; 14 &minus; pH gives the pOH, not the pH. C just copies the pH digits in front of a power of ten. A pH is an exponent; you need the 10 x key to undo it.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 12.37",
+  "question": "Complete the table. For each solution, give [H 3 O + ], [OH &minus; ], pH, and pOH, and classify it as acidic, basic, or neutral. A dash marks each value you need to find. Fill-in table: four ways to describe acidity Solution [H 3 O + ] (M) [OH &minus; ] (M) pH pOH Acidic, basic, or neutral? (a) 2.7 &times; 10 &minus;3 &mdash; &mdash; &mdash; &mdash; (b) &mdash; 3.6 &times; 10 &minus;5 &mdash; &mdash; &mdash; (c) &mdash; &mdash; 6.25 &mdash; &mdash; (d) &mdash; &mdash; &mdash; 3.40 &mdash; (e) &mdash; &mdash; 7.00 &mdash; &mdash;",
+  "answer": "(a) pH = &minus;log(2.7 &times; 10 &minus;3 ) = 2.5686&hellip; = 2.57 ; pOH = 14.00 &minus; 2.57 = 11.43 ; [OH &minus; ] = 1.0 &times; 10 &minus;14 &divide; 2.7 &times; 10 &minus;3 = 3.7 &times; 10 &minus;12 M ; acidic . (b) pOH = &minus;log(3.6 &times; 10 &minus;5 ) = 4.4437&hellip; = 4.44 ; pH = 14.00 &minus; 4.44 = 9.56 ; [H 3 O + ] = 1.0 &times; 10 &minus;14 &divide; 3.6 &times; 10 &minus;5 = 2.8 &times; 10 &minus;10 M ; basic . (c) [H 3 O + ] = 10 &minus;6.25 = 5.6 &times; 10 &minus;7 M ; pOH = 14.00 &minus; 6.25 = 7.75 ; [OH &minus; ] = 10 &minus;7.75 = 1.8 &times; 10 &minus;8 M ; acidic (only slightly: pH just below 7). (d) [OH &minus; ] = 10 &minus;3.40 = 4.0 &times; 10 &minus;4 M ; pH = 14.00 &minus; 3.40 = 10.60 ; [H 3 O + ] = 10 &minus;10.60 = 2.5 &times; 10 &minus;11 M ; basic . (e) [H 3 O + ] = [OH &minus; ] = 1.0 &times; 10 &minus;7 M ; pOH = 7.00 ; neutral . Each row checks two ways: pH + pOH = 14.00, and [H 3 O + ][OH &minus; ] = 1.0 &times; 10 &minus;14 . In (d), a low pOH means a high pH: be careful not to read 3.40 as the pH.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 12.38",
+  "question": "A lemonade has pH 3.5. Tooth enamel begins to dissolve below the critical pH of 5.5. How many times greater is [H 3 O + ] in the lemonade than in a liquid at the critical pH? A. 2 times B. 100 times C. 1.6 times D. 20 times",
+  "answer": "B. Each pH unit is a factor of 10 in [H 3 O + ]. The lemonade is 5.5 &minus; 3.5 = 2 pH units lower: \\( \\dfrac{10^{-3.5}}{10^{-5.5}} = 10^{5.5 - 3.5} = 10^{2} = 100 \\) A treats pH as a simple count: it takes the difference, 2, as the factor. A difference of 2 pH units is a factor of 10 &times; 10. C divides the two pH values (5.5 &divide; 3.5 = 1.6). pH values are exponents, so their ratio means nothing. D multiplies 10 by the difference of 2. Each unit multiplies by another 10.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 12.39",
+  "question": "Mateo Herrera, the irrigation technician with asthma, had an arterial pH of 7.30 at the height of his severe attack (Section 12.5). A second arterial sample drawn later that night reads pH 7.36. (a) Find [H 3 O + ] in the second sample. (b) Using [H 3 O + ] = 5.0 &times; 10 &minus;8 M at pH 7.30, by about what factor is [H 3 O + ] lower in the second sample? (c) Is pH 7.36 below, inside, or above the normal range for arterial blood?",
+  "answer": "(a) \\( [\\text{H}_3\\text{O}^+] = 10^{-7.36} = 4.365\\ldots \\times 10^{-8} = 4.4 \\times 10^{-8}\\ M \\) (b) \\( \\dfrac{5.0 \\times 10^{-8}\\ M}{4.4 \\times 10^{-8}\\ M} = 1.1 \\) (a) 4.4 &times; 10 &minus;8 M (two decimal places in 7.36 give two significant figures). (b) About 1.1 times lower; directly, 10 0.06 = 1.15, so the first sample had about 15% more H 3 O + . A higher pH must mean less H 3 O + , and it does. (c) Inside the normal range of 7.35 to 7.45, though just barely, at the acidic end. (The case is for practicing chemistry only; blood gases are interpreted by the care team, and this is not treatment advice.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 12.40",
+  "question": "A rainwater sample has [H 3 O + ] = 4.80 &times; 10 &minus;5 M. What is its pH, reported to the correct number of decimal places? A. 4.319 B. 4.32 C. 4.3 D. &minus;4.319",
+  "answer": "A. \\( \\text{pH} = -\\log(4.80 \\times 10^{-5}) = 4.3187\\ldots = 4.319 \\) 4.80 has three significant figures (the trailing zero after the decimal point counts), so the pH gets three decimal places. The 4 before the decimal point comes from the power of ten and is not counted. B has only two decimal places, as if the concentration had two significant figures. C has only one decimal place. D uses log instead of &minus;log.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 12.41",
+  "question": "Public pools are usually kept between pH 7.2 and 7.8. A pool test reads pH 8.1. (a) Find [H 3 O + ] at pH 8.1. Is the water acidic or basic? (b) The pool operator adds muriatic acid (hydrochloric acid) until the pH is 7.5. Find [H 3 O + ] now. (c) By about what factor did [H 3 O + ] change? (d) Sodium carbonate (\"soda ash\") is the product added to raise the pH of a pool. Why does it work?",
+  "answer": "(a) [H 3 O + ] = 10 &minus;8.1 = 8 &times; 10 &minus;9 M (one decimal place in the pH, so one significant figure). Below 10 &minus;7 M, so the water is basic , slightly. (b) [H 3 O + ] = 10 &minus;7.5 = 3 &times; 10 &minus;8 M . The water is still slightly basic, now inside the target range. (c) \\( 10^{8.1 - 7.5} = 10^{0.6} = 3.98 \\approx 4 \\) (c) [H 3 O + ] went up by a factor of about 4 , from a pH change of only 0.6. (d) Carbonate is a base: it accepts protons (CO 3 2&minus; + H 3 O + &rarr; HCO 3 &minus; + H 2 O), which lowers [H 3 O + ] and raises the pH.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 12.42",
+  "question": "Labs that test how quickly a tablet dissolves in the stomach use a simulated gastric fluid made with hydrochloric acid. Find the pH and pOH of 0.080 M HCl. Is this within the typical range for gastric fluid (about pH 1.5 to 3.5)?",
+  "answer": "HCl is a strong acid, so [H 3 O + ] = 0.080 M = 8.0 &times; 10 &minus;2 M. \\( \\text{pH} = -\\log(8.0 \\times 10^{-2}) = 1.0969\\ldots = 1.10 \\qquad \\text{pOH} = 14.00 - 1.10 = 12.90 \\) pH 1.10, pOH 12.90 . Two significant figures (the leading zeros in 0.080 do not count; the trailing zero after the 8 does) give two decimal places. A pH of 1.10 is more acidic than the typical range: the test fluid models a stomach near its most acidic, such as an empty stomach.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 12.43",
+  "question": "A student says, \"0.010 M lactic acid has pH 2.00, the same as 0.010 M HCl.\" Which statement about the pH of 0.010 M lactic acid is correct? A. It is exactly 2.00, because [H 3 O + ] equals the acid's molarity. B. It is less than 2.00, because lactic acid is a larger molecule. C. It is greater than 2.00 (but below 7), because lactic acid ionizes only slightly. D. It is 12.00, because a weak acid makes a basic solution.",
+  "answer": "C. Lactic acid is weak, so [H 3 O + ] is much less than 0.010 M. A smaller [H 3 O + ] means a higher pH, so the pH is above 2.00, while the solution is still acidic. A treats the weak acid as fully ionized. [H 3 O + ] = molarity holds only for strong acids, such as the HCl. B has no basis: the size of the molecule does not raise [H 3 O + ]. A pH below 2.00 would need more H 3 O + than a fully ionized acid gives, which is impossible here. D confuses \"weak\" with \"basic.\" A weak acid is still an acid; it just raises [H 3 O + ] less. (12.00 is 14.00 &minus; 2.00, a pOH-style slip.)",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 12.44",
+  "question": "Which mixture is a buffer? A. HCl and NaCl B. NH 3 and NaOH C. HNO 2 and NaNO 3 D. HCN and KCN",
+  "answer": "D. HCN (hydrocyanic acid) is a weak acid, and KCN supplies CN &minus; , its conjugate base. The two differ by exactly one H + . A is a strong acid with its salt. Cl &minus; is too weak a base to take back protons, so nothing in the mixture can neutralize added acid. B is a weak base with a strong base, not with its conjugate acid. NH 3 's partner would be NH 4 + (from NH 4 Cl), and nothing here neutralizes added base. C is a near miss: HNO 2 is weak, but NO 3 &minus; (nitrate) is not its conjugate base. The partner of HNO 2 is NO 2 &minus; (nitrite), from NaNO 2 .",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 12.45",
+  "question": "A formate buffer contains formic acid, HCHO 2 , and sodium formate, NaCHO 2 . (a) Identify the weak acid and the conjugate base. (b) Write the net ionic equation for the reaction that occurs when a little HCl is added. (c) Write the net ionic equation for the reaction when a little NaOH is added.",
+  "answer": "(a) Weak acid: HCHO 2 . Conjugate base: CHO 2 &minus; (formate), supplied by the salt; Na + is a spectator. (b) CHO 2 &minus; (aq) + H 3 O + (aq) &rarr; HCHO 2 (aq) + H 2 O(l) (c) HCHO 2 (aq) + OH &minus; (aq) &rarr; CHO 2 &minus; (aq) + H 2 O(l) The conjugate base handles added acid, and the weak acid handles added base. In each case a strong acid or base is replaced by a member of the weak buffer pair, so the pH changes only a little.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 12.46",
+  "question": "In the blood's buffer of carbonic acid (H 2 CO 3 ) and bicarbonate (HCO 3 &minus; ), which species neutralizes a small amount of added OH &minus; ? A. H 2 CO 3 B. HCO 3 &minus; C. Na + D. CO 2 gas leaving through the lungs",
+  "answer": "A. Added base is neutralized by the acid partner: H 2 CO 3 (aq) + OH &minus; (aq) &rarr; HCO 3 &minus; (aq) + H 2 O(l) B is the base partner; it neutralizes added acid . Choosing it mixes up which partner reacts. C is a spectator ion. It neither donates nor accepts protons. D has the role of CO 2 backward for this case. Exhaling CO 2 removes acid (it is how added acid is finally cleared); it does not neutralize added base.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 12.47",
+  "question": "During his severe asthma attack, Mateo could not breathe out fully, and carbon dioxide built up in his blood (Chapter 12 Patient Case). (a) Use the equation CO 2 + H 2 O &#8644; H 2 CO 3 &#8644; H + + HCO 3 &minus; to explain why his blood pH fell. (b) Name the condition. Is it respiratory or metabolic, and why? (c) Which organ adjusts the blood's bicarbonate, and does it act in minutes or over hours to days? (d) A classmate says, \"A pH of 7.30 is above 7, so his blood is basic, not acidic.\" Explain what is right and what is misleading about that statement.",
+  "answer": "(a) Extra CO 2 makes more H 2 CO 3 , and more H 2 CO 3 releases more H + . [H 3 O + ] rises, so the pH falls: more CO 2 , more acid. (b) Respiratory acidosis : the pH is below 7.35, and the cause is breathing (CO 2 not being exhaled), not metabolism or the kidneys. (c) The kidneys , which keep or excrete bicarbonate, act slowly, over hours to days . The lungs, which control CO 2 , act within minutes. (d) Chemically, a pH of 7.30 is above 7.00, so at 25 &deg;C it would count as slightly basic, and that part is right. But medically, \"acidosis\" means the blood is more acidic than its normal range of 7.35 to 7.45: at 7.30 it holds more H 3 O + than healthy blood. The useful comparison for blood is with its normal range, not with 7.00. (The case is for practicing chemistry only and is not treatment advice.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 12.48",
+  "question": "A 1.00 L phosphate buffer contains 0.050 mol H 2 PO 4 &minus; and 0.050 mol HPO 4 2&minus; . (a) Which partner reacts when HCl is added? Write the reaction. (b) If 0.030 mol HCl is added, how many moles of each partner are left? Is the solution still a buffer? (c) If instead 0.070 mol HCl is added, what is left over, and what happens to the pH? (Ignore the small change in volume, and the H + from the weak acid.)",
+  "answer": "(a) HPO 4 2&minus; (aq) + H 3 O + (aq) &rarr; H 2 PO 4 &minus; (aq) + H 2 O(l) (a) The base partner, HPO 4 2&minus; , reacts with the added acid, 1 mol for each mole of H 3 O + . (b) HPO 4 2&minus; : 0.050 &minus; 0.030 = 0.020 mol . H 2 PO 4 &minus; : 0.050 + 0.030 = 0.080 mol . Both partners are still present, so it is still a buffer , and the pH has changed only a little. (c) All 0.050 mol of HPO 4 2&minus; is used up, and 0.070 &minus; 0.050 = 0.020 mol of strong acid is left over. The buffer capacity has been exceeded. The leftover strong acid sets [H 3 O + ] at about 0.020 mol &divide; 1.00 L = 0.020 M, so the pH drops sharply, to about &minus;log(0.020) = 1.70 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 12.49",
+  "question": "A student mixes hydrochloric acid with sodium chloride and calls the mixture a buffer. What is the best reason it is not one? A. NaCl is not a salt. B. HCl is a weak acid, so it cannot neutralize added base. C. Cl &minus; is too weak a base to take a proton back, so nothing in the mixture can neutralize added acid. D. A buffer must contain only bases.",
+  "answer": "C. A buffer needs a weak acid and its conjugate base. HCl is completely ionized, and its \"conjugate base\" Cl &minus; does not accept protons, so added acid simply adds to [H 3 O + ] and the pH falls. A is false: NaCl is the classic salt, a base's cation (Na + ) with an acid's anion (Cl &minus; ). B has HCl's strength backward. HCl is a strong acid (on the list), and a strong acid does neutralize added base; the missing piece is a partner to neutralize added acid. D is false: a buffer contains an acid partner and a base partner, one for each kind of addition.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 12.50",
+  "question": "During a hard sprint, muscle cells release lactic acid, HC 3 H 5 O 3 , into the blood. (a) Write the equation for lactic acid reacting with bicarbonate ion, HCO 3 &minus; . (b) The H 2 CO 3 formed breaks down. Write that equation. (c) Use (a) and (b) to explain why a runner breathes hard for a while after the sprint ends.",
+  "answer": "(a) HC 3 H 5 O 3 (aq) + HCO 3 &minus; (aq) &rarr; C 3 H 5 O 3 &minus; (aq) + H 2 CO 3 (aq) (b) H 2 CO 3 (aq) &rarr; H 2 O(l) + CO 2 (aq) In (a), lactic acid donates a proton (acid) and bicarbonate accepts it (base): the base partner of the blood buffer is neutralizing the added acid. Check: 4 C, 7 H, 6 O, and a &minus;1 charge on each side. (c) Buffering the lactic acid makes extra CO 2 . Breathing hard clears that CO 2 through the lungs, and with it the acid. If the CO 2 stayed, it would form H 2 CO 3 again and lower the pH.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 12.51",
+  "question": "A technician dilutes 5.00 mL of 0.600 M HCl with water to a total volume of 250.0 mL. (a) What is the molarity of the diluted acid? (b) What is its pH? (c) What color would red cabbage indicator turn in the diluted acid? (d) A classmate forgets the dilution and finds the pH of the 0.600 M stock. What pH does she get?",
+  "answer": "(a) \\( M_2 = \\dfrac{M_1 V_1}{V_2} = \\dfrac{(0.600\\ M)(5.00\\ \\text{mL})}{250.0\\ \\text{mL}} = 0.0120\\ M \\) (b) \\( \\text{pH} = -\\log(0.0120) = 1.9208\\ldots = 1.921 \\) (a) 0.0120 M (Section 11.4); (b) HCl is strong, so [H 3 O + ] = 0.0120 M, and the pH is 1.921 : three significant figures (0.0120) give three decimal places. (c) A pH of about 2 is in the 1 to 2 range: red . (d) &minus;log(0.600) = 0.222 . Diluting by a factor of 50 raises the pH by log 50 = 1.70 units, so skipping the dilution makes the acid look 50 times more concentrated than it is.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 12.52",
+  "question": "A student mixes 25.0 mL of 0.100 M HNO 3 with 25.0 mL of 0.120 M NaOH. HNO 3 (aq) + NaOH(aq) &rarr; NaNO 3 (aq) + H 2 O(l) (a) How many moles of H 3 O + and of OH &minus; are mixed? Which is in excess, and by how many moles? (b) What is the concentration of the excess ion in the 50.0 mL of mixture? (c) Find the pH, and classify the final solution as acidic, basic, or neutral. (d) Would a drop of phenolphthalein turn the mixture pink?",
+  "answer": "(a) \\( 0.0250\\ \\text{L} \\times 0.100\\ \\tfrac{\\text{mol}}{\\text{L}} = 2.50 \\times 10^{-3}\\ \\text{mol H}_3\\text{O}^+ \\qquad 0.0250\\ \\text{L} \\times 0.120\\ \\tfrac{\\text{mol}}{\\text{L}} = 3.00 \\times 10^{-3}\\ \\text{mol OH}^- \\) (a) The acid and base react 1 : 1, so OH &minus; is in excess by 3.00 &times; 10 &minus;3 &minus; 2.50 &times; 10 &minus;3 = 5.0 &times; 10 &minus;4 mol (two significant figures: subtraction keeps the decimal places, 0.00050 mol). (b) \\( [\\text{OH}^-] = \\dfrac{5.0 \\times 10^{-4}\\ \\text{mol}}{0.0500\\ \\text{L}} = 0.010\\ M \\) (c) \\( \\text{pOH} = -\\log(0.010) = 2.00 \\qquad \\text{pH} = 14.00 - 2.00 = 12.00 \\) (b) 0.010 M , using the total volume, 25.0 + 25.0 = 50.0 mL. (c) pH 12.00 , basic . (d) Yes : phenolphthalein turns pink above about pH 8. The NaNO 3 formed is a salt of a strong acid and a strong base and does not change the pH; only the leftover NaOH does.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 12.53",
+  "question": "A nurse compares two antacids: one dose of milk of magnesia contains 0.400 g of magnesium hydroxide, Mg(OH) 2 (58.32 g/mol), and one chewable tablet contains 0.500 g of calcium carbonate, CaCO 3 (100.09 g/mol). Treat stomach acid as 0.0800 M HCl. Mg(OH) 2 (s) + 2 HCl(aq) &rarr; MgCl 2 (aq) + 2 H 2 O(l) CaCO 3 (s) + 2 HCl(aq) &rarr; CaCl 2 (aq) + H 2 O(l) + CO 2 (g) (a) What volume of the stomach acid can each dose neutralize, in mL? (b) Which neutralizes more acid? (c) Which one can cause belching, and why? (d) Is Mg(OH) 2 a strong base by the green-sheet list?",
+  "answer": "(a) \\( 0.400\\ \\text{g Mg(OH)}_2 \\times \\dfrac{1\\ \\text{mol}}{58.32\\ \\text{g}} \\times \\dfrac{2\\ \\text{mol HCl}}{1\\ \\text{mol Mg(OH)}_2} = 0.013717\\ \\text{mol HCl} \\qquad V = \\dfrac{0.013717\\ \\text{mol}}{0.0800\\ \\text{mol/L}} = 0.1715\\ \\text{L} = 171\\ \\text{mL} \\) \\( 0.500\\ \\text{g CaCO}_3 \\times \\dfrac{1\\ \\text{mol}}{100.09\\ \\text{g}} \\times \\dfrac{2\\ \\text{mol HCl}}{1\\ \\text{mol CaCO}_3} = 9.991 \\times 10^{-3}\\ \\text{mol HCl} \\qquad V = \\dfrac{9.991 \\times 10^{-3}\\ \\text{mol}}{0.0800\\ \\text{mol/L}} = 0.1249\\ \\text{L} = 125\\ \\text{mL} \\) (a) Milk of magnesia: 171 mL ; calcium carbonate tablet: 125 mL . (b) The milk of magnesia dose , even though it has less mass, because Mg(OH) 2 has a smaller molar mass and each formula unit still neutralizes two HCl. (c) Calcium carbonate : acid + carbonate makes CO 2 gas. (d) No . Only Group 1 hydroxides and Ca(OH) 2 , Sr(OH) 2 , and Ba(OH) 2 are strong; Mg(OH) 2 is poorly soluble and treated as a weak base, but the solid still reacts completely with acid. (Context only; antacids are taken as directed on the label or by the provider.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 12.54",
+  "question": "A stockroom shelf holds these chemicals: HBr, KBr, benzoic acid (HC 7 H 5 O 2 , a food preservative), sodium benzoate (NaC 7 H 5 O 2 ), pyridine (C 5 H 5 N, a weak base), pyridinium chloride (C 5 H 5 NHCl), and NaCl. (a) Write the conjugate base of benzoic acid and the conjugate acid of pyridine. (b) Which pairs of chemicals from the shelf would make a buffer? (c) HBr and KBr also contain a conjugate pair, HBr and Br &minus; . Why don't they make a buffer? (d) For one of your buffers, write the reaction that neutralizes added H 3 O + and the one that neutralizes added OH &minus; .",
+  "answer": "(a) Conjugate base of HC 7 H 5 O 2 : C 7 H 5 O 2 &minus; (benzoate). Conjugate acid of C 5 H 5 N: C 5 H 5 NH + (pyridinium). (b) Benzoic acid + sodium benzoate (a weak acid and its conjugate base; Na + is a spectator) and pyridine + pyridinium chloride (a weak base and its conjugate acid; Cl &minus; is a spectator). (c) HBr is a strong acid: it is completely ionized, and Br &minus; is too weak a base to take a proton back, so the mixture cannot neutralize added acid. (d) For the benzoate buffer: C 7 H 5 O 2 &minus; (aq) + H 3 O + (aq) &rarr; HC 7 H 5 O 2 (aq) + H 2 O(l) HC 7 H 5 O 2 (aq) + OH &minus; (aq) &rarr; C 7 H 5 O 2 &minus; (aq) + H 2 O(l) For the pyridine buffer: C 5 H 5 N + H 3 O + &rarr; C 5 H 5 NH + + H 2 O, and C 5 H 5 NH + + OH &minus; &rarr; C 5 H 5 N + H 2 O.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 12.55",
+  "question": "A student dissolves 0.56 g of KOH (56.11 g/mol) in water and fills a volumetric flask to the 500.0 mL line. (a) What is the molarity of KOH? (b) Find [OH &minus; ], pOH, pH, and [H 3 O + ]. (c) What color would red cabbage indicator turn in this solution? (d) Which would raise [OH &minus; ] more: dissolving 0.010 mol of KOH or 0.010 mol of Ca(OH) 2 in the same volume? Explain.",
+  "answer": "(a) \\( 0.56\\ \\text{g} \\times \\dfrac{1\\ \\text{mol}}{56.11\\ \\text{g}} = 9.98 \\times 10^{-3}\\ \\text{mol} \\qquad M = \\dfrac{9.98 \\times 10^{-3}\\ \\text{mol}}{0.5000\\ \\text{L}} = 0.01996\\ M = 0.020\\ M \\) (b) \\( \\text{pOH} = -\\log(0.01996) = 1.6998\\ldots = 1.70 \\qquad \\text{pH} = 14.00 - 1.70 = 12.30 \\qquad [\\text{H}_3\\text{O}^+] = \\dfrac{1.0 \\times 10^{-14}}{0.01996} = 5.0 \\times 10^{-13}\\ M \\) (a) 0.020 M (two significant figures, set by 0.56 g). (b) KOH is a strong base with one OH &minus; : [OH &minus; ] = 0.020 M , pOH 1.70 , pH 12.30 , [H 3 O + ] = 5.0 &times; 10 &minus;13 M . (c) pH 12.30 is in the 12 to 14 range: yellow . (d) Ca(OH) 2 : each formula unit releases two OH &minus; , so 0.010 mol gives 0.020 mol OH &minus; , twice as much as 0.010 mol of KOH. (Both are strong bases.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 12.56",
+  "question": "What is the conjugate base of the dihydrogen phosphate ion, H 2 PO 4 &minus; ? A. HPO 4 2&minus; B. PO 4 3&minus; C. H 3 PO 4 D. HPO 4 &minus;",
+  "answer": "A. A conjugate base is one rung down the proton ladder: remove one H + (one H, and the charge goes down by 1). H 3 PO 4 &harr; H 2 PO 4 &minus; &harr; HPO 4 2&minus; &harr; PO 4 3&minus; . B removes two protons, two rungs down. A conjugate is always one H + away. C adds a proton: H 3 PO 4 is the conjugate acid of H 2 PO 4 &minus; . D removes the H but forgets to change the charge. Removing H + takes a positive charge away, so &minus;1 becomes &minus;2.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 12.57",
+  "question": "For the reaction NH 4 + (aq) + CO 3 2&minus; (aq) &#8644; NH 3 (aq) + HCO 3 &minus; (aq): (a) label the acid, base, conjugate acid, and conjugate base; (b) name the common piece in each conjugate pair; (c) check your labels by reading the reverse reaction.",
+  "answer": "(a) NH 4 + loses H + : acid ; NH 3 is its conjugate base . CO 3 2&minus; gains H + : base ; HCO 3 &minus; is its conjugate acid . (b) NH 4 + /NH 3 share the \"NH 3 \" piece; CO 3 2&minus; /HCO 3 &minus; share the \"CO 3 \" piece. Each pair differs by one H and one unit of charge. (c) In reverse, HCO 3 &minus; (the conjugate acid) gives its H + to NH 3 (the conjugate base), re-forming CO 3 2&minus; and NH 4 + . The reverse reaction agrees with the labels.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 12.58",
+  "question": "A cleaning solution has pH 11.80. What is [H 3 O + ]? A. 6.3 &times; 10 11 M B. 1.6 &times; 10 &minus;12 M C. 6.3 &times; 10 &minus;3 M D. 1.80 &times; 10 &minus;11 M",
+  "answer": "B. [H 3 O + ] = 10 &minus;11.80 = 1.58&hellip; &times; 10 &minus;12 = 1.6 &times; 10 &minus;12 M. Two decimal places in 11.80 give two significant figures. A high pH must mean a very small [H 3 O + ]. A drops the minus sign: 10 +11.80 . No solution can be hundreds of billions of moles per liter; a huge answer means a missing (&minus;). C is [OH &minus; ], found from pOH = 14.00 &minus; 11.80 = 2.20. The question asks for [H 3 O + ]. D copies the digits of the pH into scientific notation instead of taking the antilog. The pH is an exponent, not a coefficient.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 12.59",
+  "question": "0.73 g of strontium hydroxide, Sr(OH) 2 (121.63 g/mol), is dissolved in enough water to make 500. mL of solution. What is the pH? A. 12.38 B. 12.08 C. 1.62 D. 9.38",
+  "answer": "A. Map it out: g &rarr; mol Sr(OH) 2 &rarr; mol OH &minus; &rarr; [OH &minus; ] &rarr; pOH &rarr; pH. Sr(OH) 2 &rarr; Sr 2+ + 2 OH &minus; . \\( 0.73\\ \\text{g} \\times \\dfrac{1\\ \\text{mol}}{121.63\\ \\text{g}} \\times \\dfrac{2\\ \\text{mol OH}^-}{1\\ \\text{mol}} = 0.01200\\ \\text{mol OH}^- \\qquad [\\text{OH}^-] = \\dfrac{0.01200\\ \\text{mol}}{0.500\\ \\text{L}} = 0.0240\\ M \\) pOH = &minus;log(0.02401) = 1.62; pH = 14.00 &minus; 1.62 = 12.38 (two decimal places for two significant figures in 0.73 g). B forgets the 2 OH &minus; per formula unit: [OH &minus; ] = 0.0120 M gives pOH 1.92 and pH 12.08. C is the pOH. For a base, subtract from 14.00 at the end. D divides by 500 instead of 0.500 L (mL not converted to liters), so [OH &minus; ] comes out 1000 times too small.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 12.60",
+  "question": "(a) What volume of 0.250 M HCl, in milliliters, neutralizes 15.0 mL of 0.120 M Sr(OH) 2 ? Balance the equation first. (b) What is the pH of the 0.120 M Sr(OH) 2 solution before any acid is added?",
+  "answer": "(a) Inside&ndash;outside, writing water as HOH while balancing: Sr(OH) 2 has two OH, so 2 HOH and 2 HCl. 2 HCl(aq) + Sr(OH) 2 (aq) &rarr; SrCl 2 (aq) + 2 H 2 O(l) \\( 15.0\\ \\text{mL} \\times \\dfrac{0.120\\ \\text{mol Sr(OH)}_2}{1000\\ \\text{mL}} \\times \\dfrac{2\\ \\text{mol HCl}}{1\\ \\text{mol Sr(OH)}_2} \\times \\dfrac{1000\\ \\text{mL}}{0.250\\ \\text{mol HCl}} = 14.4\\ \\text{mL} \\) Start from Sr(OH) 2 , the side with both V and M. 14.4 mL . (b) [OH &minus; ] = 2 &times; 0.120 M = 0.240 M; pOH = &minus;log(0.240) = 0.620; pH = 14.00 &minus; 0.620 = 13.380 (three significant figures in 0.120 M give three decimal places).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 12.61",
+  "question": "Which pair would make a buffer if mixed in roughly equal amounts? A. HClO 4 and NaClO 4 B. H 2 CO 3 and Na 2 CO 3 C. HC 2 H 3 O 2 and KC 2 H 3 O 2 D. NH 4 Cl and NaCl",
+  "answer": "C. Acetic acid is a weak acid, and potassium acetate supplies its conjugate base, C 2 H 3 O 2 &minus; ; K + is a spectator. The two differ by exactly one H + . A: HClO 4 is a strong acid, so ClO 4 &minus; is a negligible base. Crossed out first. B: H 2 CO 3 and CO 3 2&minus; differ by two H + . The partner of H 2 CO 3 is HCO 3 &minus; (NaHCO 3 ). D: NH 4 + is a weak acid, but its partner NH 3 is missing; NaCl adds only spectator ions.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 61,
+  "title": "Problem 12.62",
+  "question": "Which compound acts as a base in water? A. Lactic acid, CH 3 CH(OH)COOH B. Methylamine, CH 3 NH 2 C. Ethyl acetate, CH 3 COOCH 2 CH 3 D. Methanol, CH 3 OH",
+  "answer": "B. Methylamine is an amine: the lone pair on its nitrogen accepts a proton, CH 3 NH 2 + H 2 O &#8644; CH 3 NH 3 + + OH &minus; . A has a &ndash;COOH group, so it is an acid (the &ndash;OH on the middle carbon is an alcohol group). C is an ester: no acidic H and no amine nitrogen, so it is neither. D is an alcohol. Its &ndash;OH is covalently bonded to carbon, not a hydroxide ion, so it is neither.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 62,
+  "title": "Problem 12.63",
+  "question": "A solution has [H 3 O + ] = 4.2 &times; 10 &minus;9 M. (a) Without a calculator, between which two whole numbers does its pH fall? (b) Calculate the pH with the correct number of decimal places. (c) Acidic, neutral, or basic?",
+  "answer": "(a) 4.2 &times; 10 &minus;9 lies between 10 &minus;9 and 10 &minus;8 , so the pH is between 8 and 9 . (b) pH = &minus;log(4.2 &times; 10 &minus;9 ) = 8.3767&hellip; = 8.38 (two significant figures, two decimal places). (c) Above 7: basic ; [H 3 O + ] is smaller than neutral's 1.0 &times; 10 &minus;7 M (write out the zeros: 0.0000000042 vs 0.0000001).",
+  "mc": false,
+  "terse_answer": false
+ }
+]

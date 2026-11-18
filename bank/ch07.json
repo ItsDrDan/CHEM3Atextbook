@@ -54,7 +54,7 @@
   "y": [
    "(s) means solid. Barium sulfate is insoluble, so it settles out of the solution.",
    "Dissolved substances are labeled (aq), as MgCl<sub>2</sub>(aq) is here.",
-   "Gases are labeled (g).",
+   "Gases are labeled (g). The label (s) means solid; a solid that forms when two solutions mix is a precipitate.",
    "Numbers of units are shown by coefficients in front of formulas, not by phase labels."
   ],
   "h": "The four phase labels are (s), (l), (g), and (aq).",
@@ -305,7 +305,7 @@
   "y": [
    "An element (Ni) replaces the metal ion in a compound (A + BC &rarr; AC + B), releasing Ag metal.",
    "Double displacement needs two compounds swapping partners. Here one reactant is an element.",
-   "There are two products, not one.",
+   "There are two products, not one, so this is not combination. An element replacing another element in a compound is single displacement.",
    "There are two reactants, and nothing breaks down into simpler substances."
   ],
   "h": "Look at the reactant side: an element plus a compound.",
@@ -602,7 +602,7 @@
   "y": [
    "Iodides are soluble except with Ag<sup>+</sup>, Hg<sub>2</sub><sup>2+</sup>, and Pb<sup>2+</sup>. Silver iodide is one of those exceptions.",
    "Sodium is in Group 1: every sodium compound is soluble.",
-   "Acetates are always soluble.",
+   "Acetates are always soluble. Check the exceptions on the green sheet: find the anion that is insoluble with this cation.",
    "Ammonium compounds are always soluble, even carbonates."
   ],
   "h": "First check for an always-soluble ion (Group 1, NH<sub>4</sub><sup>+</sup>, nitrate, acetate). Then find the anion's row.",
@@ -644,7 +644,7 @@
   "y": [
    "Sulfates are soluble except with Ca<sup>2+</sup>, Sr<sup>2+</sup>, Ba<sup>2+</sup>, Ag<sup>+</sup>, Pb<sup>2+</sup>. Barium sulfate is an exception, so it stays solid.",
    "Chlorides are soluble unless the cation is Ag<sup>+</sup>, Hg<sub>2</sub><sup>2+</sup>, or Pb<sup>2+</sup>; BaCl<sub>2</sub> dissolves (and is toxic).",
-   "Nitrates are always soluble.",
+   "Nitrates are always soluble. Check the green sheet for which anion is insoluble with Ba<sup>2+</sup>.",
    "Sulfides are insoluble except with Group 1, NH<sub>4</sub><sup>+</sup>, Ca<sup>2+</sup>, Sr<sup>2+</sup>, and Ba<sup>2+</sup>; barium is one of the exceptions, so BaS dissolves."
   ],
   "h": "Check each anion's row and whether Ba<sup>2+</sup> is listed as an exception.",
@@ -665,7 +665,7 @@
   "y": [
    "Sulfides are insoluble except with Group 1, NH<sub>4</sub><sup>+</sup>, Ca<sup>2+</sup>, Sr<sup>2+</sup>, and Ba<sup>2+</sup>. Zinc is not an exception.",
    "Calcium is one of the listed exceptions for sulfides and oxides, so CaS is soluble.",
-   "Sodium is Group 1: always soluble.",
+   "Sodium is Group 1: always soluble. Sulfides are insoluble unless the cation is an exception, so find the cation not on that list.",
    "Ammonium compounds are always soluble."
   ],
   "h": "Read the O<sup>2&minus;</sup>, S<sup>2&minus;</sup> row carefully: its exceptions include three Group 2 ions.",
@@ -1254,7 +1254,7 @@
    "Fe goes from +3 (in Fe<sub>2</sub>O<sub>3</sub>) to 0: Fe is reduced, so Fe<sub>2</sub>O<sub>3</sub>, the reactant that contains it, is the oxidizing agent.",
    "Al goes from 0 to +3: it is oxidized, so Al is the reducing agent. The agents are swapped.",
    "Al<sub>2</sub>O<sub>3</sub> is a product. The agents are reactants.",
-   "Fe is a product."
+   "Fe is a product, and the oxidizing agent is a reactant. Find the reactant whose atoms are reduced (Fe +3 &rarr; 0)."
   ],
   "h": "The oxidizing agent is the reactant that contains the element that is reduced.",
   "w": "Al: 0 &rarr; +3 (oxidized; reducing agent). Fe: +3 &rarr; 0 (reduced). Oxidizing agent: <b>Fe<sub>2</sub>O<sub>3</sub></b>.",
@@ -1421,7 +1421,7 @@
   "y": [
    "Zinc is above lead, so it displaces Pb<sup>2+</sup>: Zn(s) + Pb(NO<sub>3</sub>)<sub>2</sub>(aq) &rarr; Zn(NO<sub>3</sub>)<sub>2</sub>(aq) + Pb(s).",
    "Copper is below lead, so it cannot displace Pb<sup>2+</sup>.",
-   "Silver is below lead.",
+   "Silver is below lead, so it cannot displace it. Pick a metal that sits above Pb on the activity series.",
    "Gold is at the bottom of the list; it displaces nothing."
   ],
   "h": "The free metal must be above the metal in the ion.",

@@ -1,0 +1,1360 @@
+[
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 1.1",
+  "hint": "A quantitative observation has a number with a unit. Which choice gives a count or measurement rather than a description in words?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 1.2",
+  "hint": "For each note ask: is there a number (with a unit or percent), or only words describing what was seen, heard or felt?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 1.3",
+  "hint": "A hypothesis must be testable: could an experiment show it is wrong? Opinions and claims about what a substance \"wants\" cannot be tested.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 1.4",
+  "hint": "Start with what she noticed first (the observation), then the question it raised. A prediction comes before the experiment, and analysis comes last. The control is the condition left unchanged.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 1.5",
+  "hint": "The independent variable is what she changes on purpose; the dependent variable is what she counts. The control is the plate that gets no UV.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 1.6",
+  "hint": "(a) The control is the trial without the change. (c)–(d) Compare colony counts as washing time grows; look at how much the count drops at each step. (e) Think about one trial versus repeated trials.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 1.7",
+  "hint": "A law states what always happens (often from measurements); a theory explains why with a model; a hypothesis is a testable prediction about one situation.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 1.8",
+  "hint": "Laws and theories do different jobs: a law says what happens, a theory says why. Does a theory ever become \"proven\" and closed to new evidence?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 1.9",
+  "hint": "Count how many places the decimal point moves to give a number from 1 to 10. Numbers smaller than 1 get a negative exponent; numbers larger than 10 get a positive one.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 1.10",
+  "hint": "Multiply (or divide) the coefficients, then add the exponents when multiplying and subtract them when dividing. Make sure the final coefficient is between 1 and 10.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 1.11",
+  "hint": "(a) Check the yellow sheet's list of SI base units; note the base unit of mass carries a prefix. (b) Is volume one of the base quantities, or is it built from length?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 1.12",
+  "hint": "Use the prefix table: kilo-, milli-, micro- and centi- each stand for one power of ten. For (e), which prefix means one-millionth?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 1.13",
+  "hint": "You cannot compare masses in different units. Convert every mass to grams first, then put them in order.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 1.14",
+  "hint": "(a) Deci- means one-tenth. (b) A positive exponent moves the decimal point to the right. (c) Use 1000 µL = 1 mL as a conversion factor.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 1.15",
+  "hint": "Leading zeros never count. Trailing zeros count only when there is a decimal point. Counted numbers are exact.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 1.16",
+  "hint": "Record every digit you are certain of plus one estimated digit. With 1 mL marks, which place is certain and which place do you estimate?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 1.17",
+  "hint": "Underline the third significant digit (skip leading zeros), then look only at the digit to its right: 0–4 round down, 5–9 round up. Keep the number's size with placeholder zeros.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 1.18",
+  "hint": "For multiplication and division, count significant figures in each measured value; the fewest decides. A counted number is exact and never limits the answer.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 1.19",
+  "hint": "For addition and subtraction, count decimal places, not significant figures. The value with the fewest decimal places decides.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 1.20",
+  "hint": "Two steps, two rules: subtract the masses first (decimal-place rule), then divide by the volume (significant-figure rule). Round only at the end.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 1.21",
+  "hint": "Precision is the spread of the three readings; accuracy is how close their average is to 10.00 g. A balance that is consistently off by the same amount has a systematic error.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 1.22",
+  "hint": "Write each equality as a fraction with the unit you want to cancel on the bottom. Is each factor exact, so it does not limit significant figures?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 1.23",
+  "hint": "(a) The order is per kilogram, so convert pounds to kilograms first, then use 12.5 mg/kg. (b) Use the label as a factor with mg on the bottom.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 1.24",
+  "hint": "(a) Divide volume by time, then convert L to mL. (b) Carry the unrounded rate and use 1 h = 60 min with hours on top so hours cancel.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 1.25",
+  "hint": "Go through mL to µL (1 mL = 1000 µL), then use \"25.0 µL per delivery\" with µL on the bottom.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 1.26",
+  "hint": "(a) Area = length × width. (b) The unit is squared, so square the factor 100 cm/1 m too. (c) After one factor, what unit is left over?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 1.27",
+  "hint": "(a) V = length × width × depth. (b) 1 cm<sup>3</sup> = 1 mL, then mL to L. (c) Cube the factor 1 m/100 cm.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 1.28",
+  "hint": "Check whether kilograms cancel in the setup. Size check: a kilogram is heavier than a pound, so should the number of pounds be bigger or smaller?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 1.29",
+  "hint": "A compound has two or more different elements bonded together in a fixed ratio. A subscript alone does not make a compound, and a mixture is not a substance.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 1.30",
+  "hint": "First ask: one kind of particle (pure substance) or more than one (mixture)? For a pure substance, one element or several bonded? For a mixture, does it look the same throughout?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 1.31",
+  "hint": "Recall the diatomic seven: H<sub>2</sub>, N<sub>2</sub>, O<sub>2</sub>, F<sub>2</sub>, Cl<sub>2</sub>, Br<sub>2</sub>, I<sub>2</sub>. Is a molecule made of only one kind of atom an element or a compound?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 1.32",
+  "hint": "For each box, first ask \"is every particle the same?\" Then ask whether each kind of particle has one kind of atom (element) or more than one (compound).",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 1.33",
+  "hint": "A pure substance needs every particle to be identical. Are O<sub>2</sub> and O<sub>3</sub> the same particle? For (c), how many kinds of particles are in box H now?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 1.34",
+  "hint": "A molecule is atoms bonded together; a compound needs two or more different elements. Which choice has bonded atoms all of one element?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 1.35",
+  "hint": "Both boxes have the same atoms, so look at how they are bonded. Are H and O bonded to each other, or only to themselves? Think about separating each, and how each would act (e.g., a spark).",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 1.36",
+  "hint": "Match each mixture to a property that differs between its parts: particle size (filtration), boiling point (distillation), density (centrifuge or settling), or letting the water evaporate.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 1.37",
+  "hint": "Is \"normal saline\" one substance or two? NaCl is the formula of one part. What else is in the bag, and could the proportions change?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 1.38",
+  "hint": "N<sub>2</sub>O and O<sub>2</sub>: count the kinds of elements in each. For (c)–(d), a mixture's proportions can be changed; which detail shows the proportions are set by someone?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 1.39",
+  "hint": "A definite shape means a solid. Which description matches solid particles: packed closely, and doing what?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 1.40",
+  "hint": "Compare the volume before and after for each sample. A gas expands to fill any container; a liquid keeps its volume but takes the container's shape; a solid keeps both.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 1.41",
+  "hint": "Which state has lots of empty space between its particles? Only that one can be squeezed into a smaller volume.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 1.42",
+  "hint": "Use the particle view: solids are packed and vibrate in place, liquids touch but slide, gases are far apart. A solid with a repeating pattern is crystalline; a random one is amorphous.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 1.43",
+  "hint": "(a) Compare how far apart the O<sub>2</sub> molecules are in a liquid and in a gas. (b) Does warming liquid O<sub>2</sub> into gas make a new substance? Name the liquid-to-gas change.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 1.44",
+  "hint": "Does a gas have a definite volume? Think about what gas particles do when more space becomes available.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 1.45",
+  "hint": "Only the signs decide attract or repel: opposite signs attract, like signs repel. Which pair has the same sign?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 1.46",
+  "hint": "Change one thing at a time: compare pairs with the same distance (charge size matters), then pairs with the same charges (distance matters).",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 1.47",
+  "hint": "Pulling opposite charges apart or pushing like charges together works against the force, so energy must go in. The reverse moves are \"downhill\" and release energy.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 1.48",
+  "hint": "Net charge = protons − electrons. Zero means neutral; anything else is an ion with that charge.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 1.49",
+  "hint": "Recall from 1.7 how the size of the charges and the distance between them affect attraction. For each change, ask whether the charges stay opposite and whether either one gets larger or smaller.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 1.50",
+  "hint": "Treat the cell interior as a negative charge. Opposite signs attract, like signs repel; moving a positive ion away from a negative region works against the attraction.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 1.51",
+  "hint": "Electrons are negative. Which way are they pulled by a positive anode? For (c), a larger voltage means a larger push or pull on each electron.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 1.52",
+  "hint": "(a) What charge do all the droplets share, and what do like charges do? (b) What do opposite charges do?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 1.53",
+  "hint": "A chemical property describes how a substance can change into a new substance. Which choice involves forming something new?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 1.54",
+  "hint": "For each, ask: is a new substance formed? Smaller pieces, dissolving and changes of state are physical; burning and breaking molecules into new ones are chemical.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 1.55",
+  "hint": "First decide \"property\" (what the substance is or can do) or \"change\" (an event that happened). Then decide physical or chemical by whether a new substance forms.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 1.56",
+  "hint": "Name each change by its starting and ending states (solid, liquid, gas). Watch for changes that skip the liquid. Does any change of state make a new substance?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 1.57",
+  "hint": "Boiling is a change of state, not a chemical change. Which substance is going from liquid to gas inside the pot?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 1.58",
+  "hint": "An intensive property is the same for a drop or a drum of the substance. Which pair has neither property depending on the amount?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 1.59",
+  "hint": "Both bottles hold 50.0 mL, so which measurements would come out the same no matter what the liquid is? Look for intensive properties you can compare with a reference table.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 1.60",
+  "hint": "(a) Does curing make a new substance, and can warming undo it? (b) Compare with wax: does cooling wax change what it is made of?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 1.61",
+  "hint": "Look for signs of a new substance: a gas forming without heating, or a solid forming when two liquids meet. Dissolving is physical.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 61,
+  "title": "Problem 1.62",
+  "hint": "For each step ask whether a new substance forms. Cooling and separating are physical; bacteria or microbes making new substances and burning are chemical.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 62,
+  "title": "Problem 1.63",
+  "hint": "(a) Density = mass ÷ volume. (b) Water is the main ingredient; what else does urine carry that adds mass?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 63,
+  "title": "Problem 1.64",
+  "hint": "Divide mass by volume, then compare your value with the density table in Section 1.9.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 64,
+  "title": "Problem 1.65",
+  "hint": "(a) The volume is the rise in the water level: after minus before. (b) Divide mass by that volume. (c) Compare with the density table.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 65,
+  "title": "Problem 1.66",
+  "hint": "Least dense liquid on top. An object sinks through every liquid less dense than itself and floats on the first liquid denser than itself.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 66,
+  "title": "Problem 1.67",
+  "hint": "(a) Density = mass ÷ volume. (b) Compare with water's 1.00 g/mL. (c) Can you see two separate layers?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 67,
+  "title": "Problem 1.68",
+  "hint": "Which of these properties are extensive (depend on the amount) and which is a ratio of two of them? What happens to a ratio when its top and bottom change by the same factor?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 68,
+  "title": "Problem 1.69",
+  "hint": "Whole-body density sits between fat (0.90 g/mL) and lean tissue (1.10 g/mL). More fat pulls it toward which value? Lower density floats more easily.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 69,
+  "title": "Problem 1.70",
+  "hint": "Calculate each density (mass ÷ volume) and compare with water's 1.00 g/mL. An object floats only if it is less dense than water.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 70,
+  "title": "Problem 1.71",
+  "hint": "Start with the mass that stands alone and use the density as a conversion factor, flipped so grams are on the bottom and cancel.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 71,
+  "title": "Problem 1.72",
+  "hint": "Start with the volume that stands alone and use the density with mL on the bottom so milliliters cancel.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 72,
+  "title": "Problem 1.73",
+  "hint": "Chain the steps: volume → grams (density, cm<sup>3</sup> on the bottom) → kilograms.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 73,
+  "title": "Problem 1.74",
+  "hint": "Go kg → g first, then use the density flipped (grams on the bottom) to get mL, then mL → L.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 74,
+  "title": "Problem 1.75",
+  "hint": "Carbon dioxide gas is colorless. What visible thing forms when very cold gas chills moist air? For (e)–(h), compare densities, name the solid-to-gas change, and ask whether any new substance forms.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 75,
+  "title": "Problem 1.76",
+  "hint": "(a) Helium and oxygen each contain one kind of atom. (b) A mixture's proportions can vary. (c) Compare 0.40 g/L with 1.2 g/L. (e) Does density depend on the amount?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 76,
+  "title": "Problem 1.77",
+  "hint": "(a) Only Cu atoms? (b)–(c) Ask whether a new substance forms. (d) Density = mass ÷ volume. (e) Density is intensive.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 77,
+  "title": "Problem 1.78",
+  "hint": "(a) Divide mass by volume for each trial. (b) Compare with 0.789 g/mL. (c) Density is intensive. (d) One property can match by chance; what other characteristic property could she measure?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 78,
+  "title": "Problem 1.79",
+  "hint": "(a) With 0.1 cm marks, which place is estimated? (b) V = edge<sup>3</sup>. (c) Density = mass ÷ volume. (d) Compare with the density table in Section 1.9.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 79,
+  "title": "Problem 1.80",
+  "hint": "(a) A solution with an adjustable proportion is a mixture; check the formula of each pure substance. (b) Convert 1.00 L to mL, then use 0.90 g per 100. mL with mL on the bottom.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 80,
+  "title": "Problem 1.81",
+  "hint": "With 0.1 mL marks, the tenths are certain. Record one more estimated digit, and no more than one.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 81,
+  "title": "Problem 1.82",
+  "hint": "(a) Volume is the change in water level. (b) Divide mass by that volume. (c) Which volume did the classmate use, and is his density reasonable for a metal? (d) Count decimal places in the subtraction.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 82,
+  "title": "Problem 1.83",
+  "hint": "Start with the quantity that stands alone (the cylinder's liters), then use the flow rate with L on the bottom, then convert minutes to hours. Some details are distractors.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 83,
+  "title": "Problem 1.84",
+  "hint": "(a) Start with the stand-alone weight; convert lb to kg, then use 15.0 mg per kg. (b) Use the label with mg on the bottom. (c) Multiply one dose by the number of doses per day.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 84,
+  "title": "Problem 1.85",
+  "hint": "Write the percent as a conversion factor: 0.243 g NaF / 100 g toothpaste. Then convert grams to milligrams. Size check: the part must be much smaller than 1.40 g.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 85,
+  "title": "Problem 1.86",
+  "hint": "Calculate the density (mass ÷ volume) and compare it with the table values. Does density depend on how big the sample is?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Move the decimal point to get a coefficient from 1 to 10. Keep only significant digits: zeros after a decimal point count, trailing zeros with no decimal point do not.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "A positive exponent moves the decimal point right, a negative one left. For (c), count the significant figures before and after, using this book's trailing-zero rule.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "The coefficient must be from 1 to 10, the exponent is negative for numbers less than 1, and all significant figures must stay.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Enter each number with the calculator's ×10<sup>n</sup> key. Then count significant figures: the value with the fewest decides the answer.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Start with the 0.50 mL that stands alone and use the count per milliliter as a conversion factor, with mL on the bottom.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "hint": "Use the yellow sheet's prefix table. Positive powers are for prefixes bigger than the base unit, negative for smaller ones.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 6,
+  "title": "Exercise \\(\\PageIndex{7}\\)",
+  "hint": "Convert every choice to grams before comparing. Remember the capital M in Mg means mega-, not milli-.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 7,
+  "title": "Exercise \\(\\PageIndex{8}\\)",
+  "hint": "Think about the size of each thing: pick the prefix that gives a number that is not too large or too small (a newborn is a few of which unit?).",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 8,
+  "title": "Exercise \\(\\PageIndex{9}\\)",
+  "hint": "Leading zeros never count, zeros between nonzero digits always count, and trailing zeros count only with a decimal point. Counted numbers are exact.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 9,
+  "title": "Exercise \\(\\PageIndex{10}\\)",
+  "hint": "Precision is how close the readings are to each other; accuracy is how close they are to the true value. Compare the clinic readings with the calibrated scale.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 10,
+  "title": "Exercise \\(\\PageIndex{11}\\)",
+  "hint": "Lab notebooks show precision with trailing zeros. Medication orders follow the \"Do Not Use\" list: why might a trailing zero or a missing leading zero be misread?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 11,
+  "title": "Exercise \\(\\PageIndex{12}\\)",
+  "hint": "Count significant figures in 4.1; the last digit is the uncertain one. Would extra digits from the analyzer be reliable?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 12,
+  "title": "Exercise \\(\\PageIndex{13}\\)",
+  "hint": "Addition and subtraction: fewest decimal places. Multiplication and division: fewest significant figures. Multiply the units too.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 13,
+  "title": "Exercise \\(\\PageIndex{14}\\)",
+  "hint": "Underline the second digit and look at the digit to its right. Then keep the number's size: the answer must still be about six thousand.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 14,
+  "title": "Exercise \\(\\PageIndex{15}\\)",
+  "hint": "Parentheses first: subtract and underline the last significant digit (decimal-place rule). Keep all digits, then multiply and divide using the significant-figure rule. Round only at the end.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 15,
+  "title": "Exercise \\(\\PageIndex{16}\\)",
+  "hint": "Area = length × width; cm × cm gives cm<sup>2</sup>. Which measurement has the fewest significant figures?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 16,
+  "title": "Exercise \\(\\PageIndex{17}\\)",
+  "hint": "Estimate one digit past the smallest marking. With 1 unit marks, the ones place is certain and the tenths place is estimated.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 17,
+  "title": "Exercise \\(\\PageIndex{18}\\)",
+  "hint": "Are the trailing zeros on a digital display measured digits or placeholders? Count the significant figures each choice keeps.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 18,
+  "title": "Exercise \\(\\PageIndex{19}\\)",
+  "hint": "Use 1 kg = 2.2046 lb with pounds on the bottom. Size check: a kilogram is heavier than a pound, so the number gets smaller.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 19,
+  "title": "Exercise \\(\\PageIndex{20}\\)",
+  "hint": "Go through the base unit: mg → g → mcg. A smaller unit gives a bigger number.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 20,
+  "title": "Exercise \\(\\PageIndex{21}\\)",
+  "hint": "Use 1 g = 0.03527 oz with ounces on the bottom so they cancel. A gram is much smaller than an ounce, so the number of grams must be larger.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 21,
+  "title": "Exercise \\(\\PageIndex{22}\\)",
+  "hint": "Go through the base unit, grams: kg → g → mg. Each step uses a factor of 1000.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 22,
+  "title": "Exercise \\(\\PageIndex{23}\\)",
+  "hint": "Start with the rate and cancel minutes, then hours, one factor at a time. A count of 72 beats limits the significant figures.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 23,
+  "title": "Exercise \\(\\PageIndex{24}\\)",
+  "hint": "Two units change: mg on top becomes g, and dL on the bottom becomes L. Use one factor for each, arranged so the old unit cancels.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 24,
+  "title": "Exercise \\(\\PageIndex{25}\\)",
+  "hint": "Convert distance first (mi → km → m), then time (h → min → s). Hours are on the bottom, so put hours on top in the factor.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 25,
+  "title": "Exercise \\(\\PageIndex{26}\\)",
+  "hint": "Use 24 h = 1 day to cancel hours, then 1000 mL = 1 L to cancel milliliters. Which choice is in a sensible range for a daily IV volume?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 26,
+  "title": "Exercise \\(\\PageIndex{27}\\)",
+  "hint": "The unit is squared, so square the factor (1 m/100 cm). One square meter is 100 cm by 100 cm.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 27,
+  "title": "Exercise \\(\\PageIndex{28}\\)",
+  "hint": "Find the volume in ft<sup>3</sup> first. Then cube each length factor: (30.48 cm/1 ft)<sup>3</sup> and (1 m/100 cm)<sup>3</sup>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 28,
+  "title": "Exercise \\(\\PageIndex{29}\\)",
+  "hint": "Convert L to mL first, then use 1 mL = 1 cm<sup>3</sup> = 1 cc.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 29,
+  "title": "Exercise \\(\\PageIndex{30}\\)",
+  "hint": "Start with the stand-alone body weight: lb → kg, then mg drug per kg, then the label (mL per mg) with mg on the bottom. Label body and drug.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 30,
+  "title": "Exercise \\(\\PageIndex{31}\\)",
+  "hint": "Go through the base unit: kg → g → mg, then use \"1 tablet per 500. mg\" with mg on the bottom.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 31,
+  "title": "Exercise \\(\\PageIndex{32}\\)",
+  "hint": "Start with the term that stands alone (the distance), use the speed with miles on the bottom, then convert hours to minutes. The fog is a distractor.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 32,
+  "title": "Exercise \\(\\PageIndex{33}\\)",
+  "hint": "Convert 1.000 L to mL first, then use 0.90 g NaCl per 100 mL with mL on the bottom.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 33,
+  "title": "Exercise \\(\\PageIndex{34}\\)",
+  "hint": "Write the percent as a conversion factor: 42 L RBC per 100 L blood. Size check: a part is always smaller than the total.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 34,
+  "title": "Exercise \\(\\PageIndex{35}\\)",
+  "hint": "Start with the volume that stands alone and use the density with mL on the bottom so mL cancels.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 35,
+  "title": "Exercise \\(\\PageIndex{36}\\)",
+  "hint": "Start with the mass and flip the density so grams are on the bottom. A liquid denser than water has fewer mL than g.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 36,
+  "title": "Exercise \\(\\PageIndex{37}\\)",
+  "hint": "Chain the steps: L → mL, then the density (mL on the bottom) to get grams, then g → kg.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 37,
+  "title": "Exercise \\(\\PageIndex{38}\\)",
+  "hint": "First find the blood mass: soaked pads minus dry pads. (a) Use 1 g ≈ 1 mL. (b) Use the density flipped, grams on the bottom. (c) Is blood denser than water?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.1_scientific_method.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Is there a number with a unit (quantitative), or only a description in words (qualitative)?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.1_scientific_method.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "The independent variable is the one thing she changes on purpose; the dependent variable is what she measures. The control is left as it was.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.1_scientific_method.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "A law states what always happens; a theory explains why, using a model. Which statement uses atoms to explain?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.2.1_scientific_notation.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Move the decimal point to get a number from 1 to 10. Numbers less than 1 get negative exponents. Keep significant zeros and drop placeholder zeros.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.2.1_scientific_notation.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "A negative exponent moves the decimal point left (a small number); a positive exponent moves it right (a big number).",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.2.1_scientific_notation.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Type the student's answer into the calculator and compare it with 0.0056. Is 0.0056 a big number or a small one, and what sign should its exponent have?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.2.1_scientific_notation.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Multiply (or divide) the coefficients, then add (or subtract) the exponents. If the coefficient ends up 10 or more, move the decimal point and adjust the exponent.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.2.1_scientific_notation.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Convert one count to the other's unit before comparing: how many microliters are in one liter?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.2.2_units.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Use the yellow sheet's prefix table. Mega- is larger than the base unit; centi-, micro- and pico- are smaller.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.2.2_units.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Divide both sides of each equality by the power of ten so the prefixed unit has a whole-number count.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.2.2_units.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Convert each pair to the same unit before comparing. (a) 1 mg = 1000 mcg. (b) Deci- means one-tenth, so how many mL are in 1 dL?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.2.2_units.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Use 1 kg = 2.2046 lb. Is 20 lb more or less than 20 kg? Then compare how the dose would change.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.2.2_units.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Exact equalities are definitions (like metric prefixes and the inch). Rounded values show a limited number of significant figures.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.2_taking_measurements.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Every measurement needs a number and a unit. What units could each number be, and could a reader guess wrong?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.2_taking_measurements.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "A measurement has a number and a unit. Combined units (like \"per liter\") and counted units (like dozen) count as units too.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.3.1_sig_figs_precision.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Leading zeros never count; trailing zeros count only with a decimal point; every digit in the coefficient of scientific notation counts.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.3.1_sig_figs_precision.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Scientific notation shows exactly the digits you want. Which trailing zeros count in 45,000 without a decimal point, and what does adding one do?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.3.1_sig_figs_precision.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Definitions and counted numbers are exact. Measured or rounded values have a limited number of significant figures.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.3.1_sig_figs_precision.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Precision is how closely the readings agree; accuracy is how close they are to the 5.000 kg reference. Compare both, then pick the matching target.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.3.1_sig_figs_precision.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Safe orders use a leading zero and never a trailing zero. Which mistake could make a dose read ten times too large?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.3.2_sig_figs_calculations.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Underline the last digit you keep, then look only at the one digit to its right: 0–4 round down, 5–9 round up. Zeros that hold the place stay.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.3.2_sig_figs_calculations.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "(a) Multiplication: fewest significant figures; the units multiply too. (b) Addition and subtraction: fewest decimal places.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.3.2_sig_figs_calculations.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Parentheses first: subtract and underline the last significant digit (decimal-place rule). Keep all digits, multiply, then use the significant-figure rule.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.3.2_sig_figs_calculations.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "The 40 is a count, so it is exact. Which value limits the significant figures, and do you need to write a trailing zero to show them?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.3.2_sig_figs_calculations.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Can you add milligrams to grams directly? Convert to the same unit first, then use the decimal-place rule for addition.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.3.2_sig_figs_calculations.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "hint": "Add first (decimal-place rule), then divide by 3, which is an exact count.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.3.3_reading_tools.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Record every certain digit plus one estimated digit. With 0.1 mL marks, which place do you estimate?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.3.3_reading_tools.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "A digital balance measured every digit it shows. Are the trailing zeros in 5.200 g significant?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.3.3_reading_tools.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "With 1 mL marks, you are certain of the ones place and estimate one more digit. Which reading has exactly one estimated digit?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.3_significant_figures.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Which reading has more significant figures, and to what place is each known?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.4.1_unit_conversions.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Write each equality as a fraction both ways up. Metric prefixes and definitions are exact; rounded US–metric values are measured.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.4.1_unit_conversions.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Use 1 in = 2.54 cm with inches on the bottom so they cancel. The factor is exact, so only 68.5 in limits the significant figures.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.4.1_unit_conversions.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Use 1 qt = 0.946 L with liters on the bottom so liters cancel.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.4.1_unit_conversions.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Check whether ounces cancel in the student's setup. Size check: a gram is much smaller than an ounce, so the number must get bigger.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.4.2_multistep.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Go through the base unit, seconds: µs → s → ms.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.4.2_multistep.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Chain two factors: lb → g (453.59 g/1 lb), then g → mg. Use scientific notation to show the significant figures.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.4.2_multistep.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Only the bottom unit changes. How many deciliters are in one liter? Put dL on top in that factor so dL cancels.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.4.2_multistep.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Two units change: g on top becomes kg, and mL on the bottom becomes dL. For the bottom unit, put mL on top in the factor so it cancels.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.4.2_multistep.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Hours are on the bottom, so use 1 h = 60 min with hours on top. Size check: per minute should be a smaller number than per hour.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.4.3_units_powers.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "The unit is squared, so square the factor (100 cm/1 m) too.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.4.3_units_powers.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "The unit is cubed, so cube the factor (1 m/100 cm). How many cm<sup>3</sup> are in one m<sup>3</sup>?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.4.3_units_powers.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Use 1 mL = 1 cm<sup>3</sup> = 1 cc. For liters, use 1000 mL = 1 L with mL on the bottom.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.4.3_units_powers.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Picture a square 1 cm on each side. How many millimeters long is each side, and what is length × width?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.4.4_word_problems_dosage.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Start with the cookies that stand alone, convert to dozens, then use \"2 dozen per 18 min\" with dozens on the bottom. The city is a distractor.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.4.4_word_problems_dosage.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Start with the order that stands alone. The order is in grams and the label is in milligrams, so convert g → mg first, then use the label with mg on the bottom.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.4.4_word_problems_dosage.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Write the factor both ways up. To go from ounces to milligrams, which version has ounces on the bottom?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.4.5_percents.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "To make a percent, multiply the decimal by 100; to make a decimal, divide the percent by 100.",
+  "why": "Percent means \"per hundred,\" so a decimal becomes a percent by multiplying by 100 and a percent becomes a decimal by dividing by 100."
+ },
+ {
+  "file": "drafts/ch01/1.4.5_percents.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Write the percent as a factor with both substances labeled: 0.25 kg Cu / 100 kg ore. The part is given and the total is wanted, so flip it so Cu cancels.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.4.5_percents.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Write 92.5% as 92.5 g Ag / 100 g sterling. The rest of the mass is everything that is not silver.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.5_classifying_matter.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Is it one kind of particle or more? For a pure substance, one element or several bonded? For a mixture, can you see the parts?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.5_classifying_matter.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "A pure substance needs every particle to be identical. How many different kinds of particles are in box (f), and are they bonded to each other?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.5_classifying_matter.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Match each mixture to a property: particle size (filtration), boiling or evaporating, or density (spinning in a centrifuge).",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.5_classifying_matter.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Are all the particles in each box the same? Then ask whether one particle has one kind of atom or several bonded together.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.6_states_of_matter.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Its volume changed to fill the new container. Which state does that, and what are its particles doing?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.6_states_of_matter.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "A solid with a repeating pattern is crystalline. What is a solid with no repeating pattern called?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.6_states_of_matter.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Treat shape and volume separately. Liquid particles touch but slide past each other; can they be pushed closer together?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.7_electric_charge.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Opposite signs attract; like signs repel. Compare the sign of F<sup>−</sup> with each ion.",
+  "why": "K<sup>+</sup> has the opposite sign to F<sup>−</sup>, so they attract; Cl<sup>−</sup> has the same negative sign as F<sup>−</sup>, so they repel."
+ },
+ {
+  "file": "drafts/ch01/1.7_electric_charge.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "The closer opposite charges are, the stronger the attraction. Is moving opposite charges together \"downhill\" or \"uphill\" in energy?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.7_electric_charge.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "At the same distance, larger charges give a stronger attraction. Compare the sizes of the charges in each pair.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.8_properties_and_changes.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Ask whether a new substance forms. Changes of state are physical; souring and rusting make new substances.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.8_properties_and_changes.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "An intensive property is the same no matter how much of the sample you have. Which properties double when the sample doubles?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.8_properties_and_changes.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "The water goes straight from gas to solid. What is that change of state called, and does it make a new substance?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.9.1_density_conversion.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Start with the volume that stands alone and use the density with mL on the bottom so mL cancels.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.9.1_density_conversion.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Start with the mass and flip the density so grams are on the bottom. A liquid less dense than water has more mL than g.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.9.1_density_conversion.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Specific gravity times water's density gives the sample's density. Then use it as a factor with mL on the bottom.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.9.1_density_conversion.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Convert kg → g first, then use the density flipped (grams on the bottom). How many times can you fill a 500-mL cylinder?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.9_density.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Density = mass ÷ volume. Then find the matching value in the density table.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.9_density.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Least dense on top, most dense on the bottom. Compare the cork with every liquid.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.9_density.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Is density intensive or extensive? Does it depend on the size of the sample?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch01/1.9_density.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "The metal's volume is the rise in water level (after minus before), not the final reading. Then divide mass by that volume and check the table.",
+  "why": ""
+ }
+]

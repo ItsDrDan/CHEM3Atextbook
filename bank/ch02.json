@@ -595,7 +595,7 @@
    "Two capital letters mean two different elements: N (nitrogen) and O (oxygen) together make the compound nitric oxide.",
    "Nobelium's symbol is No, with a lowercase o; NO with two capitals is two elements.",
    "Sodium's symbol is Na, from the Latin natrium.",
-   "Neon's symbol is Ne."
+   "Neon's symbol is Ne. A symbol has only one capital letter, so a capital N followed by a capital O means two symbols: N and O."
   ],
   "h": "A second letter in an element symbol is always lowercase.",
   "w": "A symbol has one capital letter, so <b>NO</b> is two symbols, N and O: the compound nitric oxide. Compare No (nobelium) and CO (carbon monoxide) with Co (cobalt).",
@@ -615,7 +615,7 @@
   "y": [
    "Lead's symbol comes from its Latin name, plumbum (the root of the word plumbing).",
    "Pd is palladium, a different metal.",
-   "P is phosphorus, a nonmetal.",
+   "P is phosphorus, a nonmetal. Lead's symbol comes from its Latin name, <i>plumbum</i>, so look for the symbol that starts with Pb.",
    "Ld is not the symbol of any element; lead is one of the elements whose symbol comes from Latin."
   ],
   "h": "This is one of the symbols that come from a Latin name.",

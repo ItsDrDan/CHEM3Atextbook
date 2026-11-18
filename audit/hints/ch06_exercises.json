@@ -1,0 +1,848 @@
+[
+ {
+  "file": "drafts/ch06/6.11_going_further.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "How many resonance structures does SO 2 have? What is its shape?",
+  "answer": "Two (O=S&ndash;O and O&ndash;S=O, with one lone pair on S); 3 electron groups with 1 lone pair: bent, about 120&deg;.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.11_going_further.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Classify each as a radical, an incomplete octet, or an expanded octet: (a) BH 3 ; (b) SF 6 ; (c) NO.",
+  "answer": "(a) incomplete octet (6 electrons around B). (b) expanded octet (12 around S). (c) radical (11 valence electrons).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.1_ionic_bonding.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Use electron-dot symbols to show how potassium and oxygen form an ionic compound. What is its formula?",
+  "answer": "Each K atom (1 valence electron) gives its electron to O (6 valence electrons, needs 2). Two K atoms are needed: 2 K&middot; + O &rarr; 2 K + + O 2&minus; , so K 2 O.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.1_ionic_bonding.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Classify each as a salt, a base, or a metal oxide: (a) LiOH; (b) Al 2 O 3 ; (c) CaCO 3 .",
+  "answer": "(a) base (hydroxide). (b) metal oxide. (c) salt.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch06/6.1_ionic_bonding.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Why does an IV bag of saline conduct electricity, while a crystal of table salt does not?",
+  "answer": "In the solid, Na + and Cl &minus; are locked in place in the lattice. In solution, the ions are separated and free to move, so they can carry an electric current.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.1_ionic_bonding.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Describe the electron-dot picture for aluminum and fluorine forming an ionic compound. How many electrons move, how is each ion drawn, and what is the formula?",
+  "answer": "Al has 3 valence electrons; each F has 7 and needs 1. Al gives one electron to each of three F atoms, so 3 electrons move: [Al] 3+ (empty brackets, no dots) and three [F, 8 dots] &minus; (7 of its own plus 1 gained, in brackets). 3 lost = 3 &times; 1 gained, so the formula is AlF 3 . (\\( \\Delta \\text{EN} \\) = 4.0 &minus; 1.5 = 2.5, above 2.0, so the bond is ionic.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.2_covalent_bonds.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "How many bonds and lone pairs does each atom usually have: (a) Cl; (b) S; (c) P?",
+  "answer": "(a) 1 bond, 3 lone pairs. (b) 2 bonds, 2 lone pairs. (c) 3 bonds, 1 lone pair.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.2_covalent_bonds.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Which is the strongest bond: C&ndash;O, C=O, or C&equiv;O?",
+  "answer": "C&equiv;O, the triple bond (shortest and strongest), as in carbon monoxide.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.2_covalent_bonds.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Why must the two oxygen atoms in O 2 share two pairs rather than one?",
+  "answer": "O 2 has 12 valence electrons. With a single bond (2 electrons) and the other 10 as lone pairs, one O can have an octet but the other has only 6 electrons. Sharing a second pair (a double bond, 4 electrons, plus 2 lone pairs on each O) gives both atoms 8 electrons and uses exactly 12.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.3_lewis_structures.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "How many valence electrons are in (a) CH 4 ; (b) SO 2 ; (c) NH 4 + ; (d) OH &minus; ?",
+  "answer": "(a) 4 + 4 = 8. (b) 6 + 12 = 18. (c) 5 + 4 &minus; 1 = 8. (d) 6 + 1 + 1 = 8.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.3_lewis_structures.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Draw the Lewis structure of H 2 S. How many lone pairs are on S?",
+  "answer": "8 electrons: S central, two S&ndash;H bonds (4 electrons), two lone pairs on S (4 electrons). Two lone pairs, like water.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.3_lewis_structures.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Draw the Lewis structure of HCN and explain why it needs a triple bond.",
+  "answer": "10 electrons. With H&ndash;C&ndash;N single bonds (4 electrons) and the remaining 6 on N, C has only 4 electrons. Moving two lone pairs from N into the C&ndash;N bond gives H&ndash;C&equiv;N with one lone pair on N: C has 8, N has 8, H has 2.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.3_lewis_structures.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Use bond counts to draw the Lewis structure of COCl 2 (phosgene, a toxic industrial gas). Which bond is a double bond?",
+  "answer": "C 4, O 2, Cl 1, so C is central with O and two Cl around it. Electrons: 4 + 6 + 2(7) = 24. Three single bonds use 6; 18 go as lone pairs (three on each Cl, three on O). Carbon has only 6 electrons and O only 1 bond, so one lone pair on O becomes a C=O double bond. Final: C double-bonded to O (two lone pairs) and single-bonded to each Cl (three lone pairs each). 4 bonding pairs (8 electrons) + 8 lone pairs (16) = 24.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.3_lewis_structures.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "The formula CH 3 CHO (acetaldehyde) hints at its connections: a CH 3 group bonded to a C that also carries an H and an O. Draw its Lewis structure. How many electrons, and where is the double bond?",
+  "answer": "2(4) + 4(1) + 6 = 18 electrons. Skeleton: H 3 C&ndash;C(H)&ndash;O with single bonds (6 bonds, 12 electrons). The remaining 6 go on O as three lone pairs. The second carbon has only 3 bonds and O has only 1, so one O lone pair becomes a C=O double bond, leaving O with two lone pairs. Each C now has 4 bonds, O has 2, and each H has 1.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.3_lewis_structures.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "question": "Draw the Lewis structure of the amide ion, NH 2 &minus; .",
+  "answer": "5 + 2(1) + 1 = 8 electrons. N is central with two N&ndash;H bonds (4 electrons) and two lone pairs (4 electrons), drawn in brackets with a 1&minus; charge outside: [H&ndash;N&ndash;H] &minus; with two lone pairs on N.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.4_vsepr.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Give the shape and approximate bond angle of (a) CCl 4 ; (b) HCN; (c) NF 3 .",
+  "answer": "(a) tetrahedral, 109.5&deg;. (b) linear, 180&deg; (C has a single and a triple bond: 2 groups). (c) trigonal pyramidal, about 109.5&deg; (3 bonds + 1 lone pair on N).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.4_vsepr.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Both CH 4 and H 2 O have 4 electron groups on the central atom. Why do they have different shapes?",
+  "answer": "All 4 groups on C in CH 4 are bonds, so the shape is tetrahedral. In H 2 O, 2 of the 4 groups on O are lone pairs, which are not part of the shape, so only the bent arrangement of the 3 atoms is seen.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.4_vsepr.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "What is the shape around each carbon in ethylene, C 2 H 4 ?",
+  "answer": "Each C has 3 groups (two C&ndash;H bonds and one C=C double bond) and no lone pairs: trigonal planar, 120&deg;.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.4_vsepr.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Use the \"pop a balloon\" trick to predict the shape of NCl 3 , and describe how you would draw it with wedges and dashes.",
+  "answer": "N has 3 bonds + 1 lone pair = 4 groups: tetrahedral balloons. Pop one (the lone pair) and the three Cl atoms stay where they were: trigonal pyramidal, about 109.5&deg;. Draw the lone pair on top of N, one N&ndash;Cl bond as a plain line in the plane, one as a solid wedge (toward you), and one as a dashed wedge (away from you), all angled downward.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.5_polarity.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Rank these bonds from least to most polar: C&ndash;O, C&ndash;H, H&ndash;F, N&ndash;H.",
+  "answer": "C&ndash;H (0.4) &lt; N&ndash;H (0.9) &lt; C&ndash;O (1.0) &lt; H&ndash;F (1.9).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.5_polarity.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Is PCl 3 polar or nonpolar? Explain.",
+  "answer": "P has 3 bonds and 1 lone pair, so PCl 3 is trigonal pyramidal. Each P&ndash;Cl bond is polar (\\( \\Delta \\text{EN} \\) = 3.0 &minus; 2.1 = 0.9), and the pyramid is asymmetrical, so the dipoles do not cancel: polar .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.5_polarity.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "BF 3 is trigonal planar, and NF 3 is trigonal pyramidal. Which is polar?",
+  "answer": "NF 3 . In BF 3 the three identical B&ndash;F dipoles point 120&deg; apart in a plane and cancel. In NF 3 the lone pair makes the molecule a pyramid, so the N&ndash;F dipoles do not cancel. (BF 3 's Lewis structure is an octet exception; see Going Further.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.5_polarity.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Use bond arrows as driving directions to decide whether each is polar: (a) CH 2 F 2 ; (b) CF 4 ; (c) OCS (linear, C in the center).",
+  "answer": "(a) Polar: tetrahedral, but only two arrows (C&ndash;F, 1.5 each), both toward the F side; C&ndash;H (0.4) gets none. You do not return to the start. (b) Nonpolar: four equal C&ndash;F arrows to the corners of a tetrahedron cancel. (c) Polar: C=O (1.0) and C=S (0.0) are not equal, so the two arrows do not cancel (B&ndash;A&ndash;C is usually polar).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.5_polarity.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Acetone, (CH 3 ) 2 CO, has a central carbon double-bonded to O and single-bonded to two CH 3 groups. (a) Give the shape around the central carbon and around each CH 3 carbon. (b) Is acetone polar, and does it mix with water?",
+  "answer": "(a) Central C: 3 groups (two C&ndash;C and one C=O), no lone pairs: trigonal planar, 120&deg;. Each CH 3 carbon: 4 groups: tetrahedral, 109.5&deg;. (b) Polar: the C=O bond (\\( \\Delta \\text{EN} \\) = 1.0) has nothing to cancel it, while the C&ndash;H and C&ndash;C bonds are nonpolar. As a polar molecule, it mixes with water in any amount.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.6_percent_composition.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "What is the mass percent of nitrogen in ammonium nitrate, NH 4 NO 3 (80.043 g/mol)?",
+  "answer": "2(14.007) &divide; 80.043 &times; 100% = 35.00% N. (Compare Section 5.4: the fertilizer grade 34-0-0.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.6_percent_composition.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "What is the mass percent of carbon in carbon dioxide (44.009 g/mol)?",
+  "answer": "12.011 &divide; 44.009 &times; 100% = 27.29% C.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch06/6.6_percent_composition.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A 2.500 g sample of a copper oxide contains 1.997 g of copper. Find the mass percent of each element.",
+  "answer": "Cu: 1.997 &divide; 2.500 &times; 100% = 79.88%. O: (2.500 &minus; 1.997) = 0.503 g; 0.503 &divide; 2.500 &times; 100% = 20.1%. (CuO is 79.89% Cu.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.6_percent_composition.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Copper(I) sulfide, Cu 2 S (159.16 g/mol), is a copper ore. What mass of copper is in 250. g of pure Cu 2 S? (Cu 63.55)",
+  "answer": "%Cu = 2(63.55) &divide; 159.16 &times; 100% = 79.86%. 250. g Cu 2 S &times; (79.86 g Cu / 100 g Cu 2 S) = 200. g Cu (3 significant figures; the decimal point in 250. makes the zero significant).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.6_percent_composition.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "A white powder is supposed to be sodium chloride, NaCl (58.44 g/mol). A 2.000 g sample contains 1.213 g of chlorine. Is the sample consistent with NaCl? (Cl 35.45)",
+  "answer": "Measured: 1.213 &divide; 2.000 &times; 100% = 60.65% Cl. NaCl: 35.45 &divide; 58.44 &times; 100% = 60.66% Cl. They agree within rounding, so the sample is consistent with NaCl.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.7_empirical_molecular.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Give the empirical formula of (a) C 2 H 6 ; (b) N 2 O 4 ; (c) C 6 H 6 ; (d) H 2 O 2 .",
+  "answer": "(a) CH 3 . (b) NO 2 . (c) CH. (d) HO.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch06/6.7_empirical_molecular.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "A gas is 85.6% C and 14.4% H, and its molar mass is 42.08 g/mol. Find its empirical and molecular formulas.",
+  "answer": "C: 85.6 &divide; 12.011 = 7.127 mol; H: 14.4 &divide; 1.008 = 14.29 mol; ratio 1 : 2.00, so CH 2 (14.027 g/mol). n = 42.08 &divide; 14.027 = 3.00, so C 3 H 6 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.7_empirical_molecular.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Acetic acid has the empirical formula CH 2 O and a molar mass of 60.05 g/mol. What is its molecular formula?",
+  "answer": "CH 2 O = 30.026 g/mol; n = 60.05 &divide; 30.026 = 2.000; C 2 H 4 O 2 (written HC 2 H 3 O 2 in Section 4.5).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.7_empirical_molecular.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "An elemental analysis finds 0.250 mol of N and 0.500 mol of O in a sample of a gas. (a) What formula can you write from this alone? (b) The gas has a molar mass of 92.01 g/mol. What is its molecular formula?",
+  "answer": "(a) Only the empirical formula: divide by 0.250 to get N 1, O 2, so NO 2 (46.005 g/mol). (b) n = 92.01 &divide; 46.005 = 2.000, so N 2 O 4 (dinitrogen tetroxide).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 6.1",
+  "question": "A fluoride treatment at the dentist can leave a thin layer of calcium fluoride on tooth enamel. Which statement correctly describes how calcium and fluorine atoms form this compound? A. Each Ca atom gives one electron to one F atom, forming CaF. B. Each Ca atom gives one electron to each of two F atoms, forming Ca 2+ and two F &minus; ions: CaF 2 . C. Each F atom gives one electron to a Ca atom, forming Ca &minus; and F + ions. D. Ca and F share a pair of electrons in a covalent bond.",
+  "answer": "B. Calcium (group 2) has 2 valence electrons and loses both to reach the configuration of argon; each fluorine (group 17) has 7 and needs 1. One Ca atom therefore gives one electron to each of two F atoms. Electrons lost (2) = electrons gained (2 &times; 1), and the charges cancel: (2+) + 2(1&minus;) = 0, so the formula is CaF 2 . A leaves calcium with one valence electron, which is not a noble-gas configuration, and Ca + with F &minus; is not the ion pair that forms. Calcium always forms Ca 2+ . C moves electrons the wrong way. Metals lose electrons and nonmetals gain them; fluorine, the most electronegative element, never gives up an electron to a metal. D describes a covalent bond, which forms between two nonmetals. Calcium is a metal and fluorine is a nonmetal, so electrons transfer (the electronegativity difference, 4.0 &minus; 1.0 = 3.0, is far above 2.0; Section 6.5).",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 6.2",
+  "question": "The dull, protective coating that forms on aluminum irrigation pipe is aluminum oxide. Use electron-dot symbols to show how aluminum and oxygen atoms form this ionic compound. (a) How many valence electrons does each atom have? (b) How many Al and O atoms are needed so that electrons lost equal electrons gained? (c) What is the formula?",
+  "answer": "(a) Al (group 13) has 3 valence electrons (3 dots) and loses all three to form Al 3+ . O (group 16) has 6 valence electrons (6 dots) and gains 2 to form O 2&minus; with an octet. (b) The smallest number that both 3 and 2 divide into is 6. Two Al atoms lose 2 &times; 3 = 6 electrons, and three O atoms gain 3 &times; 2 = 6 electrons: 2 Al (3 dots each) + 3 O (6 dots each) &rarr; 2 Al 3+ (no dots) + 3 O 2&minus; (8 dots each) (c) Al 2 O 3 . Check: 2(3+) + 3(2&minus;) = 6+ &minus; 6 = 0, the same formula swap-drop gives (Section 4.2).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 6.3",
+  "question": "The table below lists compounds you might find in a pharmacy, a dental office, or a Valley farm supply store. @media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } } Classify each compound (blanks marked ?) Formula Name Everyday use Salt, base, metal oxide, or not ionic? CaO calcium oxide (quicklime) raising the pH of acidic soil ? Mg(OH) 2 magnesium hydroxide milk of magnesia (antacid) ? KNO 3 potassium nitrate fertilizer; toothpaste for sensitive teeth ? ZnO zinc oxide mineral sunscreen; diaper-rash cream ? (NH 4 ) 2 SO 4 ammonium sulfate nitrogen and sulfur fertilizer ? N 2 O dinitrogen monoxide (nitrous oxide) sedation gas in dental offices ? Fill in the last column.",
+  "answer": "CaO: metal oxide (Ca 2+ and the oxide ion, O 2&minus; ). With water it forms the base Ca(OH) 2 , which is why it raises soil pH. Mg(OH) 2 : base (a metal hydroxide; it contains OH &minus; ). KNO 3 : salt (K + and the polyatomic nitrate ion; neither H + , OH &minus; , nor O 2&minus; ). ZnO: metal oxide (Zn 2+ and O 2&minus; ). (NH 4 ) 2 SO 4 : salt . It has no metal, but it is made of two kinds of ions, NH 4 + and SO 4 2&minus; , so it is ionic. N 2 O: not ionic . Nitrogen and oxygen are both nonmetals, so N 2 O is a molecular (covalent) compound, named with prefixes (Section 4.4).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 6.4",
+  "question": "Electrolytes are substances whose dissolved ions conduct electricity. Which of these conducts electricity well? A. A crystal of solid sodium chloride B. Potassium chloride dissolved in water, as in an IV electrolyte solution C. Glucose dissolved in water, as in a 5% dextrose IV solution D. Pure, distilled water",
+  "answer": "B. KCl is ionic. When it dissolves, the K + and Cl &minus; ions separate and are free to move, so they carry an electric current. A contains ions, but in a solid crystal lattice they are locked in place and cannot move, so solid NaCl does not conduct. C: glucose, C 6 H 12 O 6 , is a molecular compound of nonmetals. It dissolves as whole, neutral molecules, not ions, so the solution does not conduct (glucose is a nonelectrolyte). D: pure water is made of neutral molecules and contains almost no ions, so it conducts very poorly. Tap water conducts a little only because of dissolved salts.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 6.5",
+  "question": "Tooth enamel is mostly hydroxyapatite, Ca 10 (PO 4 ) 6 (OH) 2 . (a) Show that the charges of the ions in one formula unit add to zero. (b) Fluoride from toothpaste can replace the hydroxide ions, forming fluorapatite, Ca 10 (PO 4 ) 6 F 2 . Why can each F &minus; replace one OH &minus; without changing the rest of the formula? (c) How many ions are in one formula unit of hydroxyapatite?",
+  "answer": "(a) 10 Ca 2+ give 10(2+) = 20+. 6 PO 4 3&minus; give 6(3&minus;) = 18&minus;. 2 OH &minus; give 2(1&minus;) = 2&minus;. Total: 20 &minus; 18 &minus; 2 = 0 , so the compound is neutral. (b) F &minus; and OH &minus; have the same charge (1&minus;) and similar sizes, so a one-for-one swap keeps the total charge at zero. (c) 10 + 6 + 2 = 18 ions . Each polyatomic ion (PO 4 3&minus; or OH &minus; ) counts as one ion; the atoms inside it are held together by covalent bonds.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 6.6",
+  "question": "In Experiment 5a, magnesium burns in air to form magnesium oxide, MgO. Which statement about the ions in MgO is true? A. Mg 2+ and O 2&minus; both have the electron configuration of neon. B. Mg 2+ has the configuration of argon, and O 2&minus; has the configuration of neon. C. Mg 2+ has the configuration of neon, and O 2&minus; has the configuration of helium. D. Neither ion has a noble-gas configuration, because the electrons are shared.",
+  "answer": "A. Mg (12 electrons) loses 2 to become Mg 2+ with 10 electrons. O (8 electrons) gains 2 to become O 2&minus; with 10 electrons. Both have 10 electrons, 1s 2 2s 2 2p 6 , the configuration of neon. (Ions with the same configuration are called isoelectronic.) B: losing electrons cannot move magnesium up to argon (18 electrons). Mg 2+ drops back to the noble gas before it, neon. C: helium has 2 electrons. Oxygen gains electrons, so O 2&minus; has more electrons (10) than an O atom, not fewer. D: in an ionic compound electrons are transferred, not shared, and the whole point of the transfer is that each ion reaches a noble-gas configuration.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 6.7",
+  "question": "Nitrogen gas, N 2 , makes up most of the air you breathe. Which description of its Lewis structure is correct? A. N&ndash;N single bond with three lone pairs on each N B. N=N double bond with two lone pairs on each N C. N&equiv;N triple bond with one lone pair on each N D. N&equiv;N triple bond with no lone pairs",
+  "answer": "C. N 2 has 2 &times; 5 = 10 valence electrons. A triple bond (6 electrons) plus one lone pair on each N (4 electrons) uses exactly 10, and each N has 6 + 2 = 8 electrons. Each N forms 3 bonds, as HONC predicts. A uses 2 + 12 = 14 electrons, 4 more than N 2 has. Never add electrons to complete octets. B uses 4 + 8 = 12 electrons, still 2 too many, and each N would have only 2 bonds instead of 3. D uses only 6 electrons, and each N would have just 6 electrons around it, not an octet.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 6.8",
+  "question": "Hydrogen peroxide, H 2 O 2 , the 3% antiseptic in many first-aid kits, has the skeleton H&ndash;O&ndash;O&ndash;H. (a) How many valence electrons does it have? (b) How many bonding pairs and how many lone pairs are in its Lewis structure? (c) Show that each atom has a full valence shell.",
+  "answer": "(a) 2(1) + 2(6) = 14 valence electrons . (b) The three single bonds (H&ndash;O, O&ndash;O, O&ndash;H) are 3 bonding pairs (6 electrons). The remaining 8 electrons are 4 lone pairs , two on each O. (c) Each O: 2 bonds (4 electrons) + 2 lone pairs (4 electrons) = 8. Each H: 1 bond = 2 electrons (a duet). Check: 6 + 8 = 14 electrons used, and each O forms 2 bonds, each H 1 bond, as HONC predicts.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 6.9",
+  "question": "Which carbon&ndash;carbon bond is the longest? A. C&equiv;C (triple) B. C=C (double) C. C&ndash;C (single) D. All three are the same length, because they join the same two kinds of atoms.",
+  "answer": "C. The more pairs two atoms share, the more tightly they are pulled together. A single bond (one shared pair) is the longest and weakest of the three; a triple bond is the shortest and strongest. A is backward: the triple bond is the shortest , because three shared pairs hold the atoms closest together. B is in the middle: shorter than a single bond, longer than a triple bond. D ignores bond order. Bond length depends on the number of shared pairs as well as on which atoms are bonded.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 6.10",
+  "question": "Chlorine gas, Cl 2 , is used to disinfect drinking water, and hydrogen chloride, HCl, dissolved in water is the hydrochloric acid in your stomach. For each molecule, give (a) the number of valence electrons, (b) the number of bonding pairs, and (c) the number of lone pairs.",
+  "answer": "Cl 2 (Cl&ndash;Cl): (a) 2(7) = 14 electrons; (b) 1 bonding pair; (c) 6 lone pairs, three on each Cl. Check: 2 + 12 = 14, and each Cl has 2 + 6 = 8. HCl (H&ndash;Cl): (a) 1 + 7 = 8 electrons; (b) 1 bonding pair; (c) 3 lone pairs, all on Cl. Hydrogen has no lone pairs: its single bond already gives it a duet. Check: 2 + 6 = 8.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 6.11",
+  "question": "Ethylene gas is the plant hormone that ripens fruit; packers use it in ripening rooms for bananas and tomatoes. Which molecule contains a double bond? A. Methanol, CH 3 OH B. Ethylene, C 2 H 4 C. Ethane, C 2 H 6 D. Ammonia, NH 3",
+  "answer": "B. In C 2 H 4 , each carbon is bonded to two H atoms. That is only 3 bonds per carbon if the C&ndash;C bond is single, but carbon forms 4 bonds (HONC), so the two carbons share two pairs: H 2 C=CH 2 . A: in methanol, C already has 4 single bonds (three H and the O), and O has 2 (C and H). Every atom is satisfied with single bonds. C: in ethane, each carbon is bonded to three H atoms and the other carbon, 4 single bonds each, so no double bond is needed. D: N forms 3 single bonds to H and keeps one lone pair; no double bond.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 6.12",
+  "question": "Use the usual number of bonds for each element (Section 6.2) to predict the formula of the simplest neutral compound of hydrogen with each element below, and give the number of lone pairs on that element: (a) silicon; (b) phosphorus; (c) sulfur; (d) bromine.",
+  "answer": "An atom usually forms as many bonds as the electrons it needs to reach an octet, and each bond here goes to one H atom. (a) Si (group 14, 4 valence electrons) forms 4 bonds: SiH 4 , 0 lone pairs. (b) P (group 15, 5) forms 3 bonds: PH 3 , 1 lone pair. (c) S (group 16, 6) forms 2 bonds: H 2 S , 2 lone pairs. (d) Br (group 17, 7) forms 1 bond: HBr , 3 lone pairs. Check: in each case bonds &times; 2 + lone pairs &times; 2 = 8 around the central element. These follow the same pattern as CH 4 , NH 3 , H 2 O, and HF one row up.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 6.13",
+  "question": "Find the total number of valence electrons in each: (a) methanol, CH 3 OH; (b) the phosphate ion, PO 4 3&minus; , found in bone and in ATP; (c) the hydronium ion, H 3 O + ; (d) the sulfate ion, SO 4 2&minus; ; (e) hydrogen cyanide, HCN.",
+  "answer": "Add the group-number valence electrons of every atom; for an ion, add one electron per negative charge and subtract one per positive charge. (a) C 4 + four H 4(1) + O 6 = 14 . (b) P 5 + 4(6) + 3 (for the 3&minus; charge) = 32 . (c) 3(1) + 6 &minus; 1 (for the 1+ charge) = 8 . (d) 6 + 4(6) + 2 = 32 . (e) 1 + 4 + 5 = 10 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 6.14",
+  "question": "Chloromethane, CH 3 Cl, has 14 valence electrons. Which description of its Lewis structure is correct? A. C in the center, single-bonded to three H atoms and to Cl; three lone pairs on Cl; no lone pairs on C B. Cl in the center, single-bonded to C and to the three H atoms; no lone pairs on Cl C. C in the center, single-bonded to three H atoms and to Cl; three lone pairs on Cl and one lone pair on C D. C in the center, single-bonded to three H atoms and double-bonded to Cl; two lone pairs on Cl",
+  "answer": "A. Carbon is central (H is never central, and halogens are usually on the outside). Four single bonds use 8 electrons; the other 6 go on Cl as three lone pairs. Check: C has 4 bonds (8 electrons), Cl has 1 bond + 3 lone pairs (8), each H has 2, and 8 + 6 = 14 electrons are used. B gives chlorine 4 bonds and carbon only 1. Chlorine usually forms 1 bond and carbon 4 (HONC), and carbon would have only 2 electrons. C uses 16 electrons, 2 more than the molecule has, and gives carbon 10 electrons, more than an octet. D uses 14 electrons, but carbon now has 5 bonds (10 electrons). Carbon never exceeds an octet, and chlorine usually forms only 1 bond.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 6.15",
+  "question": "Draw the Lewis structure of phosphorus trichloride, PCl 3 . (a) How many valence electrons does it have? (b) Which atom is central, and why? (c) How many bonding pairs, lone pairs on the central atom, and lone pairs in total are there?",
+  "answer": "(a) 5 + 3(7) = 26 valence electrons . (b) P is central: it appears once, and it is less electronegative than Cl (2.1 versus 3.0). Halogens usually go on the outside. (c) Three P&ndash;Cl single bonds use 6 electrons. Each Cl gets three lone pairs (18 electrons), leaving 26 &minus; 6 &minus; 18 = 2 electrons, which go on P as one lone pair. So: 3 bonding pairs , 1 lone pair on P , and 10 lone pairs in total (9 on the Cl atoms + 1 on P). Check: 13 pairs &times; 2 = 26 electrons. P has 3 bonds + 1 lone pair = 8 electrons, and P forms 3 bonds, like N in NH 3 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 6.16",
+  "question": "Ammonium sulfate fertilizer supplies the ammonium ion, NH 4 + , and milk of magnesia supplies the hydroxide ion, OH &minus; . Describe the Lewis structure of each ion, including the electron count and how the charge is shown.",
+  "answer": "NH 4 + : 5 + 4(1) &minus; 1 = 8 electrons. N is central with four N&ndash;H single bonds (8 electrons) and no lone pairs . The whole structure goes in square brackets with the charge outside: [NH 4 ] + . N has 8 electrons and each H has 2. OH &minus; : 6 + 1 + 1 = 8 electrons. One O&ndash;H bond (2 electrons) and three lone pairs on O (6 electrons), in brackets: [O&ndash;H] &minus; . O has 8 electrons and H has 2. Notice that N in NH 4 + has 4 bonds, not the usual 3, and O in OH &minus; has 1 bond, not the usual 2. HONC counts are for neutral molecules; ions can differ, which is why the electron count, not HONC, is the final check.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 6.17",
+  "question": "Methanol, CH 3 OH (wood alcohol, in windshield-washer fluid), is toxic if swallowed. (a) Use the formula and HONC to describe its skeleton. (b) How many bonding pairs and lone pairs does its Lewis structure have? (c) Why can the H written last in \"CH 3 OH\" not sit between C and O?",
+  "answer": "(a) The formula is written as a CH 3 group joined to an OH group: C is bonded to three H atoms and to O, and O is bonded to C and to the last H. C has 4 bonds and O has 2, as HONC predicts. (b) Valence electrons: 4 + 4(1) + 6 = 14. Five single bonds (three C&ndash;H, one C&ndash;O, one O&ndash;H) are 5 bonding pairs (10 electrons). The other 4 electrons are 2 lone pairs on O . C has 8, O has 4 + 4 = 8, each H has 2. (c) Hydrogen forms only one bond , so it can never connect two other atoms. It must be at the end of a chain, never in the middle.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 6.18",
+  "question": "Ethylene, C 2 H 4 , has 12 valence electrons. Which description of its Lewis structure is correct? A. The two carbons are joined by a double bond, each carbon is single-bonded to two H atoms, and there are no lone pairs. B. The two carbons are joined by a single bond, each carbon is single-bonded to two H atoms, and each carbon has one lone pair. C. The two carbons are joined by a single bond, each carbon is single-bonded to two H atoms, and there are no lone pairs. D. The two carbons are joined by a triple bond, and each carbon is single-bonded to two H atoms.",
+  "answer": "A. H 2 C=CH 2 : four C&ndash;H bonds (8 electrons) + one C=C double bond (4 electrons) = 12. Each carbon has 2 + 2 + 4 = 8 electrons and 4 bonds. B gives each carbon an octet, but it uses 10 + 4 = 14 electrons, 2 more than ethylene has. When you run out of electrons before the octets are full, make a multiple bond instead of adding electrons. C uses only 10 electrons, leaving 2 unused, and each carbon has only 6 electrons around it. D gives each carbon 5 bonds (10 electrons, more than an octet) and uses 14 electrons. A C&equiv;C triple bond appears in acetylene, C 2 H 2 , where each carbon has only one H.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 6.19",
+  "question": "White blood cells called neutrophils kill bacteria partly by making hypochlorous acid, HOCl, and some wound-cleansing solutions contain it as well. Its skeleton is H&ndash;O&ndash;Cl. (a) Why is O, not H or Cl, the central atom? (b) How many valence electrons does HOCl have? (c) Describe the finished Lewis structure, including all lone pairs.",
+  "answer": "(a) H forms only one bond and Cl usually forms one bond, so neither can connect two atoms. O usually forms two bonds, so it sits in the middle: H&ndash;O&ndash;Cl (the formula is written HOCl to show this order). (b) 1 + 6 + 7 = 14 valence electrons . (c) Two single bonds use 4 electrons. Cl gets three lone pairs (6) and O gets two lone pairs (4), so 4 + 6 + 4 = 14. Final structure: H&ndash;O&ndash;Cl with two lone pairs on O and three lone pairs on Cl . O has 8 electrons, Cl has 8, H has 2. (Like water, the O has 2 bonds and 2 lone pairs, so the molecule is bent; Section 6.4.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 6.20",
+  "question": "The table below lists five molecules. For formic acid (the sting in ant bites, H&ndash;C(=O)&ndash;O&ndash;H), use the carbon as the central atom. VSEPR table to complete (blanks marked ?) Molecule Valence electrons Electron groups on central atom Lone pairs on central atom Molecular shape Bond angle CF 4 ? ? ? ? ? PH 3 ? ? ? ? ? OF 2 ? ? ? ? ? CS 2 ? ? ? ? ? HCOOH (carbon) ? ? ? ? ? Fill in each blank.",
+  "answer": "Draw each Lewis structure first, then count groups (each bond of any order is one group; each lone pair is one group) on the central atom only. CF 4 : 4 + 4(7) = 32 electrons; C has four single bonds and no lone pairs (each F has three). 4 groups, 0 lone pairs: tetrahedral, 109.5&deg; . PH 3 : 5 + 3(1) = 8 electrons; three P&ndash;H bonds and one lone pair on P. 4 groups, 1 lone pair: trigonal pyramidal, about 109.5&deg; . OF 2 : 6 + 2(7) = 20 electrons; O is central (less electronegative than F) with two single bonds and two lone pairs. 4 groups, 2 lone pairs: bent, about 109.5&deg; , like water. CS 2 : 4 + 2(6) = 16 electrons; S=C=S with two lone pairs on each S, like CO 2 . 2 groups, 0 lone pairs: linear, 180&deg; . HCOOH: 2(1) + 4 + 2(6) = 18 electrons. Carbon has a single bond to H, a double bond to one O, and a single bond to the O that carries the H (that O already has 2 bonds, so the double bond must go to the other O). 3 groups, 0 lone pairs: trigonal planar, 120&deg; . Check: 5 bonding pairs (10 electrons) + two lone pairs on each O (8 electrons) = 18.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 6.21",
+  "question": "Water's shape is why it dissolves the salts and sugars carried in blood. What is the molecular shape of H 2 O? A. Linear, 180&deg; B. Bent, about 109.5&deg; C. Trigonal planar, 120&deg; D. Tetrahedral, 109.5&deg;",
+  "answer": "B. O has 2 bonds and 2 lone pairs: 4 electron groups, so the electron geometry is tetrahedral. Only the 3 atoms are named in the shape, so the molecule is bent , with an angle of about 109.5&deg; (measured: 104.5&deg;, squeezed by the lone pairs). A comes from reading the flat Lewis drawing H&ndash;O&ndash;H as the real shape and ignoring the two lone pairs on O. C would need 3 electron groups; O in water has 4. D is the electron-group geometry, which counts the lone pairs. The molecular shape names only where the atoms are.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 6.22",
+  "question": "Every breath you exhale carries carbon dioxide, O=C=O with two lone pairs on each O. How many electron groups surround the carbon, and what is the shape of CO 2 ? A. 4 groups; tetrahedral B. 2 groups; linear C. 2 groups; bent D. 4 groups; bent",
+  "answer": "B. Each double bond counts as one electron group, and carbon has no lone pairs, so C has 2 groups. Two groups point in opposite directions: linear, 180&deg; . A counts each double bond as two groups. A double bond is one region of electrons between the same two atoms, so it is one group. C counts the lone pairs on the oxygen atoms. Only lone pairs on the central atom change the shape, and carbon has none. D makes both mistakes: double bonds counted twice and outer lone pairs treated as if they were on carbon.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 6.23",
+  "question": "Methanol, CH 3 OH, has two atoms that each act as a center: the carbon and the oxygen (its Lewis structure is described in Section 6.3 above). Give the number of electron groups, the shape, and the approximate bond angle around (a) the carbon and (b) the oxygen.",
+  "answer": "(a) Carbon: four single bonds (three H, one O) and no lone pairs = 4 groups, 0 lone pairs: tetrahedral, 109.5&deg; . (b) Oxygen: two single bonds (C and H) and two lone pairs = 4 groups, 2 lone pairs: bent, about 109.5&deg; , just like the oxygen in water. Larger molecules are described one center at a time this way.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 6.24",
+  "question": "Acetylene, C 2 H 2 , is the fuel in the oxyacetylene torches used in farm and auto-body shops. Its Lewis structure is H&ndash;C&equiv;C&ndash;H with no lone pairs. (a) Confirm the electron count. (b) What is the shape around each carbon? (c) What is the shape of the whole molecule?",
+  "answer": "(a) 2(4) + 2(1) = 10 valence electrons. Two C&ndash;H bonds (4) + one triple bond (6) = 10. Each carbon has 2 + 6 = 8 electrons and 4 bonds. (b) Each carbon has 2 electron groups (one single bond and one triple bond) and no lone pairs: linear, 180&deg; . (c) Because both carbons are linear, all four atoms lie on one straight line: the whole molecule is linear .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 6.25",
+  "question": "Which pair of molecules or ions has the same molecular shape? A. H 2 O and CO 2 B. NH 3 and CH 2 O C. CH 4 and NH 4 + D. H 2 S and HCN",
+  "answer": "C. In both CH 4 and NH 4 + , the central atom has four single bonds and no lone pairs (8 electrons each): 4 groups, 0 lone pairs, tetrahedral , 109.5&deg;. The charge on NH 4 + does not change the shape. A: H 2 O is bent (4 groups, 2 lone pairs on O); CO 2 is linear (2 groups, 0 lone pairs on C). B: NH 3 is trigonal pyramidal (4 groups, 1 lone pair); CH 2 O is trigonal planar (3 groups, 0 lone pairs). D: H 2 S is bent (like water); HCN is linear (2 groups on C: a single bond and a triple bond).",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 6.26",
+  "question": "In Experiment 6a, suppose the oxygen pieces in your model kit have four holes pointing to the corners of a tetrahedron. You build water by placing two hydrogen pieces in two of the holes. (a) What do the two empty holes stand for? (b) What shape do the three atoms make? (c) A classmate builds ammonia with a four-hole nitrogen piece. How many holes stay empty, and what shape results?",
+  "answer": "(a) The two empty holes stand for oxygen's two lone pairs . They still take up space and push the O&ndash;H bonds into position, but they are not atoms. (b) Looking only at the atoms, the H&ndash;O&ndash;H unit is bent , with an angle of about 109.5&deg;. (c) N bonds to three H atoms, so one hole stays empty (N's one lone pair), and the four atoms form a trigonal pyramid with N at the top.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 6.27",
+  "question": "Use the yellow-sheet electronegativities (H 2.1, C 2.5, O 3.5, F 4.0, Si 1.8, P 2.1, Cl 3.0, Br 2.8, K 0.8, Ca 1.0) to find \\( \\Delta \\text{EN} \\) and classify each bond as nonpolar covalent, polar covalent, or ionic. For each polar covalent bond, name the atom that carries the partial negative charge (&delta;&minus;). (a) Si&ndash;O, in quartz sand and glass; (b) K&ndash;Cl; (c) P&ndash;H; (d) C&ndash;Br; (e) Ca&ndash;O; (f) C&ndash;F, in nonstick coatings",
+  "answer": "Subtract the smaller value from the larger. Cutoffs: 0 to 0.4 nonpolar covalent; above 0.4 to 2.0 polar covalent; above 2.0 ionic. (a) 3.5 &minus; 1.8 = 1.7: polar covalent , O is &delta;&minus;. (b) 3.0 &minus; 0.8 = 2.2: ionic . (c) 2.1 &minus; 2.1 = 0.0: nonpolar covalent . (d) 2.8 &minus; 2.5 = 0.3: nonpolar covalent . (e) 3.5 &minus; 1.0 = 2.5: ionic . (f) 4.0 &minus; 2.5 = 1.5: polar covalent , F is &delta;&minus;.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 6.28",
+  "question": "Which bond is the most polar? A. C&ndash;H B. N&ndash;H C. O&ndash;H D. C&ndash;Cl",
+  "answer": "C. The larger the electronegativity difference, the more polar the bond. O&ndash;H: 3.5 &minus; 2.1 = 1.4 , the largest of the four. This strongly polar bond is why water and alcohols attract each other so strongly. A: C&ndash;H is 2.5 &minus; 2.1 = 0.4, which counts as nonpolar covalent in this course. B: N&ndash;H is 3.0 &minus; 2.1 = 0.9, polar but less polar than O&ndash;H. D: C&ndash;Cl is 3.0 &minus; 2.5 = 0.5, only slightly polar. Chlorine's large size does not make the bond more polar; only the electronegativity difference matters.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 6.29",
+  "question": "Using only the \\( \\Delta \\text{EN} \\) cutoffs from Section 6.5, which bond is classified as ionic? (Mg 1.2, Al 1.5, Ca 1.0, H 2.1, N 3.0, O 3.5, F 4.0, Cl 3.0, I 2.5) A. Mg&ndash;O B. Al&ndash;Cl C. H&ndash;F D. N&ndash;H",
+  "answer": "A. Mg&ndash;O: 3.5 &minus; 1.2 = 2.3, which is above 2.0, so it is ionic, as in the MgO made in Experiment 5a. B: Al&ndash;Cl is 3.0 &minus; 1.5 = 1.5, in the polar-covalent range. It is a metal&ndash;nonmetal pair, so you still name AlCl 3 as an ionic compound (Chapter 4), but by the \\( \\Delta \\text{EN} \\) cutoffs alone it is polar covalent. The cutoffs are guidelines on a continuum. C: H&ndash;F is 4.0 &minus; 2.1 = 1.9, very polar but still below 2.0, so it is polar covalent. HF is a molecule of two nonmetals. D: N&ndash;H is 3.0 &minus; 2.1 = 0.9, polar covalent.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 6.30",
+  "question": "Chloroform, CHCl 3 , was one of the first inhaled anesthetics (it is no longer used, because it damages the liver and heart). Carbon tetrachloride, CCl 4 , and methane, CH 4 , have the same tetrahedral shape. Which of these molecules is polar? A. CCl 4 B. CO 2 C. CH 4 D. CHCl 3",
+  "answer": "D. In CHCl 3 , carbon has four single bonds and no lone pairs (26 electrons in all): tetrahedral. But the four outer atoms are not identical (one H, three Cl). The three polar C&ndash;Cl bonds (\\( \\Delta \\text{EN} \\) = 0.5) are not balanced by a matching bond on the fourth corner, so the dipoles do not cancel: the molecule is asymmetrical and polar (SNAP). A: CCl 4 has four identical polar C&ndash;Cl bonds pointing to the corners of a tetrahedron. They cancel, so it is nonpolar. B: CO 2 has two polar C=O bonds, but it is linear and they point in opposite directions, so they cancel. Nonpolar. C: CH 4 has only C&ndash;H bonds (\\( \\Delta \\text{EN} \\) = 0.4, nonpolar) in a symmetrical tetrahedron. Nonpolar.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 6.31",
+  "question": "Which statement correctly describes the bond in hydrogen chloride, H&ndash;Cl? (H 2.1, Cl 3.0) A. The bond is polar covalent; H is &delta;+, Cl is &delta;&minus;, and the dipole arrow points toward Cl. B. The bond is polar covalent; H is &delta;&minus;, Cl is &delta;+, and the dipole arrow points toward H. C. The bond is nonpolar, because both atoms are nonmetals. D. The bond is ionic, made of H + and Cl &minus; ions.",
+  "answer": "A. \\( \\Delta \\text{EN} \\) = 3.0 &minus; 2.1 = 0.9, polar covalent. Chlorine, the more electronegative atom, pulls the shared pair closer, so it carries the partial negative charge, and the dipole arrow points toward it (with the cross on the H end). B reverses the charges. The more electronegative atom is always the &delta;&minus; end. C: two nonmetals form a covalent bond, but it is nonpolar only if their electronegativities are about equal (\\( \\Delta \\text{EN} \\) of 0.4 or less). Here the difference is 0.9. D: 0.9 is far below 2.0, so the electron is shared unequally, not transferred. (HCl does form ions when it dissolves in water, but that is a reaction with water, Chapter 12, not the bond itself.)",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 6.32",
+  "question": "In the lungs, O 2 and CO 2 cross the thin, fatty (nonpolar) membranes of the alveoli and capillaries quickly. (a) Classify each of these gases as a polar or nonpolar molecule: O 2 , N 2 , CO 2 , H 2 O. (b) CO 2 has polar bonds. Explain why it is still a nonpolar molecule.",
+  "answer": "(a) O 2 , N 2 : nonpolar (identical atoms, \\( \\Delta \\text{EN} \\) = 0). CO 2 : nonpolar. H 2 O: polar (polar O&ndash;H bonds, \\( \\Delta \\text{EN} \\) = 1.4, in a bent shape). (b) Each C=O bond is polar (\\( \\Delta \\text{EN} \\) = 3.5 &minus; 2.5 = 1.0, O is &delta;&minus;). But carbon has 2 electron groups and no lone pairs, so CO 2 is linear: the two identical bond dipoles point in exactly opposite directions and cancel, like two equal teams in a tug-of-war. A symmetrical molecule with identical outer atoms is nonpolar (SNAP). That nonpolar character is part of why CO 2 and O 2 slip through nonpolar membranes so easily.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 6.33",
+  "question": "Valley growers often inject anhydrous ammonia, NH 3 , into the soil as a nitrogen fertilizer, where it dissolves readily in soil water. (a) Is the N&ndash;H bond polar? (N 3.0, H 2.1) (b) What is the shape of NH 3 ? (c) Is NH 3 a polar molecule? Explain.",
+  "answer": "(a) \\( \\Delta \\text{EN} \\) = 3.0 &minus; 2.1 = 0.9: polar covalent , with N &delta;&minus; and each H &delta;+. (b) N has 3 bonds and 1 lone pair (8 valence electrons): 4 groups, 1 lone pair, trigonal pyramidal . (c) Yes, polar. The three N&ndash;H dipoles all point up toward the N at the top of the pyramid; nothing on the opposite side cancels them, and the lone pair adds to the negative end. An asymmetrical molecule with a lone pair on the central atom is polar (SNAP). Like dissolves like: polar NH 3 dissolves easily in polar water.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 6.34",
+  "question": "Ammonium sulfate, (NH 4 ) 2 SO 4 , is sold as a fertilizer with the grade 21-0-0, and its label also lists 24% sulfur. (a) Find its molar mass. (b) Find its percent nitrogen and percent sulfur by mass, and compare them with the label. (H 1.008, N 14.007, O 15.999, S 32.06)",
+  "answer": "(a) The 2 after the parentheses doubles N and H: 2 N, 8 H, 1 S, 4 O. \\( 2(14.007) + 8(1.008) + 32.06 + 4(15.999) = 28.014 + 8.064 + 32.06 + 63.996 = 132.13\\ \\text{g mol}^{-1} \\) (b) \\( \\%\\text{N} = \\dfrac{28.014}{132.134} \\times 100\\% = 21.20\\% \\qquad \\%\\text{S} = \\dfrac{32.06}{132.134} \\times 100\\% = 24.26\\% \\) 21.20% N and 24.26% S , which round to the label's 21% N and 24% S. The first number of a fertilizer grade is the percent nitrogen by mass (Section 5.4).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 6.35",
+  "question": "Which compound has the greatest percent oxygen by mass? (H 1.008, C 12.011, N 14.007, O 15.999) A. Carbon dioxide, CO 2 B. Water, H 2 O C. Hydrogen peroxide, H 2 O 2 D. Dinitrogen monoxide, N 2 O",
+  "answer": "C. H 2 O 2 : 2(15.999) &divide; 34.014 &times; 100% = 94.07% O . Its only other atoms are two very light H atoms. A: CO 2 is 2(15.999) &divide; 44.009 &times; 100% = 72.71% O. Having two O atoms does not guarantee the highest percent; the carbon atom adds 12 g/mol. B: H 2 O is 15.999 &divide; 18.015 &times; 100% = 88.81% O, high, but H 2 O 2 adds a second O with no extra H. D: N 2 O is 15.999 &divide; 44.013 &times; 100% = 36.35% O; the two N atoms make up most of the mass.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 6.36",
+  "question": "In Experiment 5a, a student records these masses: empty crucible and lid, 25.412 g; crucible, lid, and magnesium ribbon, 25.786 g; crucible, lid, and magnesium oxide after heating, 26.032 g. (a) Find the masses of magnesium, of product, and of oxygen that combined. (b) Find the percent Mg and percent O in the product. (c) Compare with the percent Mg in MgO, 60.31%.",
+  "answer": "(a) Mg: 25.786 &minus; 25.412 = 0.374 g . Product: 26.032 &minus; 25.412 = 0.620 g . Oxygen (conservation of mass): 0.620 &minus; 0.374 = 0.246 g . (b) \\( \\%\\text{Mg} = \\dfrac{0.374\\ \\text{g}}{0.620\\ \\text{g}} \\times 100\\% = 60.3\\% \\qquad \\%\\text{O} = \\dfrac{0.246\\ \\text{g}}{0.620\\ \\text{g}} \\times 100\\% = 39.7\\% \\) Three significant figures, set by the masses. Check: 60.3 + 39.7 = 100.0%. (c) 24.31 &divide; 40.31 &times; 100% = 60.31% Mg, so the student's 60.3% agrees with MgO within the precision of the data. Subtracting the crucible mass each time is the key step: the crucible is not part of the compound.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 6.37",
+  "question": "Potassium iodide, KI, tablets are given after some radiation emergencies to keep radioactive iodine out of the thyroid gland. (a) What is the percent iodine by mass in KI? (b) How many milligrams of iodine are in a 65 mg KI tablet? (K 39.10, I 126.90)",
+  "answer": "(a) Molar mass: 39.10 + 126.90 = 166.00 g/mol. \\( \\%\\text{I} = \\dfrac{126.90}{166.00} \\times 100\\% = 76.45\\% \\) (b) \\( 65\\ \\text{mg KI} \\times \\dfrac{76.45\\ \\text{mg I}}{100\\ \\text{mg KI}} = 50.\\ \\text{mg I} \\) (a) 76.45% I ; (b) 50. mg of iodine (two significant figures, set by 65 mg; the decimal point shows that the zero is significant). Iodine is about three-quarters of the mass because it is so much heavier than potassium. (Context only; this is not dosing guidance.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 6.38",
+  "question": "Compare the minerals in tooth enamel. (a) Find the molar mass of hydroxyapatite, Ca 10 (PO 4 ) 6 (OH) 2 , and its percent calcium by mass. (b) Find the molar mass of fluorapatite, Ca 10 (PO 4 ) 6 F 2 , and its percent fluorine by mass. (H 1.008, O 15.999, F 18.998, P 30.97, Ca 40.08)",
+  "answer": "(a) Phosphate, PO 4 , is 30.97 + 4(15.999) = 94.966; hydroxide, OH, is 15.999 + 1.008 = 17.007. \\( 10(40.08) + 6(94.966) + 2(17.007) = 400.80 + 569.796 + 34.014 = 1004.61\\ \\text{g mol}^{-1} \\) \\( \\%\\text{Ca} = \\dfrac{400.80}{1004.61} \\times 100\\% = 39.90\\% \\) (b) Replace 2 OH (34.014) with 2 F, 2(18.998) = 37.996: \\( 400.80 + 569.796 + 37.996 = 1008.59\\ \\text{g mol}^{-1} \\qquad \\%\\text{F} = \\dfrac{37.996}{1008.592} \\times 100\\% = 3.767\\% \\) Hydroxyapatite: 1004.61 g/mol, 39.90% Ca . Fluorapatite: 1008.59 g/mol, 3.767% F . Only a small mass of fluoride is needed to change enamel's surface chemistry.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 6.39",
+  "question": "A student analyzes a 5.00 g sample of pure sodium chloride from a grocery store and a 50.0 g sample of pure sodium chloride harvested from seawater. Which statement is true? (Na 22.99, Cl 35.45) A. Both samples are 39.34% sodium by mass. B. The 50.0 g sample has the greater percent sodium, because it is larger. C. The two samples have different percents, because they came from different sources. D. The 5.00 g sample is 39.34% sodium and the 50.0 g sample is 393.4% sodium.",
+  "answer": "A. By the law of constant composition, every sample of a pure compound has the same percent composition: 22.99 &divide; 58.44 &times; 100% = 39.34% Na , whatever the sample size or source. B confuses mass with percent. The larger sample contains more grams of sodium (19.7 g versus 1.97 g), but the same fraction of its mass is sodium. C: a pure compound has a fixed composition. Different sources can bring different impurities , but both samples here are pure NaCl. D multiplies the percent by the mass ratio. A percent can never exceed 100% for one part of a whole.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 6.40",
+  "question": "Which pair of compounds has the same empirical formula? A. Acetylene, C 2 H 2 , and benzene, C 6 H 6 B. Carbon monoxide, CO, and carbon dioxide, CO 2 C. Ethylene, C 2 H 4 , and ethane, C 2 H 6 D. Water, H 2 O, and hydrogen peroxide, H 2 O 2",
+  "answer": "A. Divide each set of subscripts by the largest number that divides all of them: C 2 H 2 &divide; 2 = CH, and C 6 H 6 &divide; 6 = CH. Both have the empirical formula CH , even though they are different molecules. B: CO (1 : 1) and CO 2 (1 : 2) are already in lowest terms and have different ratios. C: C 2 H 4 reduces to CH 2 , but C 2 H 6 reduces to CH 3 . D: H 2 O cannot be reduced (it is H 2 O), while H 2 O 2 reduces to HO.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 6.41",
+  "question": "Nicotine, the addictive drug in tobacco and the active ingredient in nicotine patches, is 74.03% C, 8.70% H, and 17.27% N by mass. Its molar mass is 162.24 g/mol. Complete the table below, then find the empirical and molecular formulas. (H 1.008, C 12.011, N 14.007) Empirical formula of nicotine (blanks marked ?) Element Mass percent Grams in a 100 g sample Moles Moles &divide; smallest C 74.03% ? ? ? H 8.70% ? ? ? N 17.27% ? ? ?",
+  "answer": "Assume 100 g, so each percent becomes grams; divide by the atomic mass to get moles; then divide by the smallest number of moles (N, 1.233 mol). C: 74.03 g &divide; 12.011 = 6.164 mol; 6.164 &divide; 1.233 = 5.00. H: 8.70 g &divide; 1.008 = 8.631 mol; 8.631 &divide; 1.233 = 7.00. N: 17.27 g &divide; 14.007 = 1.233 mol; 1.233 &divide; 1.233 = 1.00. Empirical formula: C 5 H 7 N , with a formula mass of 5(12.011) + 7(1.008) + 14.007 = 81.118 g/mol. \\( n = \\dfrac{162.24\\ \\text{g mol}^{-1}}{81.118\\ \\text{g mol}^{-1}} = 2.000 \\) Molecular formula: multiply every subscript by 2, C 10 H 14 N 2 . Check: 10(12.011) + 14(1.008) + 2(14.007) = 162.236 g/mol, matching the given molar mass.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 6.42",
+  "question": "Butane, the fuel in disposable lighters and camp stoves, is 82.66% C and 17.34% H by mass, and its molar mass is 58.12 g/mol. Find its empirical and molecular formulas. (H 1.008, C 12.011)",
+  "answer": "Per 100 g: C, 82.66 &divide; 12.011 = 6.882 mol; H, 17.34 &divide; 1.008 = 17.20 mol. Divide by the smaller (6.882): C 1.000, H 2.500. A ratio ending in .5 is not a rounding error: multiply both by 2 to get C 2, H 5. Empirical formula: C 2 H 5 , formula mass 2(12.011) + 5(1.008) = 29.062 g/mol. \\( n = \\dfrac{58.12}{29.062} = 2.000 \\) Molecular formula: C 4 H 10 . Check: 4(12.011) + 10(1.008) = 58.124 g/mol. (Rounding 2.5 up to 3 would give CH 3 , the formula of a different compound.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 6.43",
+  "question": "Propane, stored in tanks on many Valley farms and rural homes for heating and cooking, is 81.71% C and 18.29% H by mass. Its molar mass is 44.10 g/mol. Find its empirical and molecular formulas. (H 1.008, C 12.011)",
+  "answer": "Per 100 g: C, 81.71 &divide; 12.011 = 6.803 mol; H, 18.29 &divide; 1.008 = 18.14 mol. Divide by the smaller (6.803): C 1.000, H 2.667. 2.667 is 2 and two-thirds, so multiply both by 3 : C 3.000, H 8.00. Empirical formula: C 3 H 8 , formula mass 3(12.011) + 8(1.008) = 44.097 g/mol. \\( n = \\dfrac{44.10}{44.097} = 1.000 \\) Since n = 1, the molecular formula is the same as the empirical formula: C 3 H 8 . (Multiplying by 2 would give 5.33 for H, still not a whole number; 3 is the smallest multiplier that works.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 6.44",
+  "question": "Another student in Experiment 5a heats 0.374 g of magnesium, but the product has a mass of only 0.585 g. (a) Find the moles of Mg and of O and the Mg : O mole ratio. (b) Does the result support the formula MgO? (c) Give two reasons from the lab that could make the oxygen mass too low. (O 15.999, Mg 24.31)",
+  "answer": "(a) Oxygen combined: 0.585 &minus; 0.374 = 0.211 g. Moles: Mg, 0.374 &divide; 24.31 = 0.01538 mol; O, 0.211 &divide; 15.999 = 0.01319 mol. Divide by the smaller: Mg 1.17 : O 1.00 . (b) No, not within experimental error. A ratio of 1.17 is neither a whole number nor a simple fraction like 1.5 or 1.33, and a formula such as Mg 7 O 6 makes no sense for Mg 2+ and O 2&minus; ions, whose charges require 1 : 1. The ratio says the sample took up too little oxygen. The good data from the first student in Section 6.6 above (0.374 g Mg, 0.246 g O) give 0.01538 : 0.01538, exactly 1 : 1. (c) (1) Incomplete reaction : some magnesium was not fully heated and never combined with oxygen. (2) Magnesium nitride : some Mg reacted with nitrogen in the air (forming Mg 3 N 2 ), which adds less mass per Mg atom than oxygen does. Either one lowers the product mass and the calculated moles of O. (Losing some white smoke of MgO from the crucible would also lower the product mass.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 6.45",
+  "question": "Lactic acid builds up in muscles during intense exercise. Its empirical formula is CH 2 O and its molar mass is 90.08 g/mol. What is its molecular formula? (H 1.008, C 12.011, O 15.999) A. CH 2 O B. C 2 H 4 O 2 C. C 3 H 6 O 3 D. C 6 H 12 O 6",
+  "answer": "C. The empirical formula mass is 12.011 + 2(1.008) + 15.999 = 30.026 g/mol, so \\( n = \\dfrac{90.08}{30.026} = 3.000 \\) and the molecular formula is (CH 2 O) 3 = C 3 H 6 O 3 . A is the empirical formula. Its mass (30.03 g/mol) is only one-third of the given molar mass, so it cannot be the molecular formula. B uses n = 2 (60.05 g/mol, the molar mass of acetic acid, not lactic acid). D uses n = 6 (180.16 g/mol), the formula of glucose. Lactic acid is made from glucose in muscles, but each glucose gives two lactic acid molecules.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 6.46",
+  "question": "Epsom salt, used for soaking sore muscles, is a hydrate of magnesium sulfate, MgSO 4 &middot;xH 2 O. Heating 2.465 g of Epsom salt drives off the water and leaves 1.204 g of anhydrous MgSO 4 (120.37 g/mol). Find x. (H 2 O 18.015 g/mol)",
+  "answer": "Water lost: 2.465 &minus; 1.204 = 1.261 g. \\( 1.261\\ \\text{g H}_2\\text{O} \\times \\dfrac{1\\ \\text{mol}}{18.015\\ \\text{g}} = 0.07000\\ \\text{mol H}_2\\text{O} \\qquad 1.204\\ \\text{g MgSO}_4 \\times \\dfrac{1\\ \\text{mol}}{120.37\\ \\text{g}} = 0.01000\\ \\text{mol MgSO}_4 \\) \\( x = \\dfrac{0.07000\\ \\text{mol H}_2\\text{O}}{0.01000\\ \\text{mol MgSO}_4} = 7.00 \\) x = 7: MgSO 4 &middot;7H 2 O , magnesium sulfate heptahydrate. Compare moles, not grams: the 1.261 g of water and 1.204 g of salt are nearly equal in mass but very different in moles.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 6.47",
+  "question": "Many Valley growers spread gypsum, a hydrate of calcium sulfate, CaSO 4 &middot;xH 2 O, on their fields to help water soak into the soil. Heating 1.722 g of gypsum leaves 1.362 g of anhydrous CaSO 4 (136.14 g/mol). What is x? (H 2 O 18.015 g/mol) A. 0.5 B. 2 C. 4 D. 21",
+  "answer": "B. Water lost: 1.722 &minus; 1.362 = 0.360 g; 0.360 &divide; 18.015 = 0.01998 mol H 2 O. CaSO 4 : 1.362 &divide; 136.14 = 0.01000 mol. Ratio: 0.01998 &divide; 0.01000 = 2.00, so gypsum is CaSO 4 &middot;2H 2 O . A inverts the ratio: moles of CaSO 4 &divide; moles of water = 0.500. The formula needs water per CaSO 4 . C compares grams instead of moles: 1.362 g &divide; 0.360 g = 3.78, about 4. Masses must be converted to moles first. D mistakes the percent water by mass (0.360 &divide; 1.722 &times; 100% = 20.9%, about 21) for a count of water molecules.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 6.48",
+  "question": "Nitrogen trifluoride is a gas used to clean equipment that makes computer chips. (a) Write its formula from the name (Chapter 4). (b) How many valence electrons does it have? (c) Describe its Lewis structure: bonding pairs, lone pairs on the central atom, and total lone pairs. (d) What is its shape? (e) Is it polar? (N 3.0, F 4.0)",
+  "answer": "(a) Molecular compound; tri- = 3 F: NF 3 . (b) 5 + 3(7) = 26 electrons . (c) N is central (less electronegative; F is always outside), with 3 N&ndash;F bonding pairs, 1 lone pair on N, and three lone pairs on each F: 10 lone pairs in total. Check: 13 pairs &times; 2 = 26. (d) 4 groups, 1 lone pair: trigonal pyramidal , about 109.5&deg;. (e) Polar. Each N&ndash;F bond is polar (\\( \\Delta \\text{EN} \\) = 1.0, F is &delta;&minus;), and the pyramidal shape keeps the dipoles from canceling.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 6.49",
+  "question": "Quartz, the most common mineral in Valley sand, is SiO 2 . (a) Name the compound (Chapter 4). (b) Give the noble-gas electron configuration of silicon and its number of valence electrons (Chapter 3). (c) Find the molar mass of SiO 2 and its percent silicon by mass. (d) Classify the Si&ndash;O bond. (O 15.999, Si 28.09; EN O 3.5, Si 1.8)",
+  "answer": "(a) Two nonmetals (Si is a metalloid treated like a nonmetal here), so use prefixes: silicon dioxide (no mono- on the first element). (b) Si (14 electrons): [Ne] 3s 2 3p 2 , 4 valence electrons (group 14), like carbon. (c) 28.09 + 2(15.999) = 60.09 g/mol ; %Si = 28.09 &divide; 60.09 &times; 100% = 46.75% . (d) \\( \\Delta \\text{EN} \\) = 3.5 &minus; 1.8 = 1.7: polar covalent , O &delta;&minus;. (Quartz is not made of separate SiO 2 molecules: each Si is bonded to four O atoms in a huge network, which is why sand is a hard, high-melting solid.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 6.50",
+  "question": "For each compound, (a) give its name, (b) say whether it is ionic or molecular, and (c) classify its bonds with \\( \\Delta \\text{EN} \\). For the molecular compounds, also (d) give the shape and say whether the molecule is polar. (Na 0.9, C 2.5, P 2.1, F 4.0, Cl 3.0) NaF (in fluoride toothpaste); CCl 4 ; PCl 3",
+  "answer": "NaF: (a) sodium fluoride; (b) ionic (metal + nonmetal); (c) \\( \\Delta \\text{EN} \\) = 4.0 &minus; 0.9 = 3.1, ionic. CCl 4 : (a) carbon tetrachloride; (b) molecular; (c) C&ndash;Cl \\( \\Delta \\text{EN} \\) = 0.5, polar covalent; (d) 4 groups, 0 lone pairs on C, tetrahedral; four identical dipoles cancel, so the molecule is nonpolar . PCl 3 : (a) phosphorus trichloride; (b) molecular; (c) P&ndash;Cl \\( \\Delta \\text{EN} \\) = 0.9, polar covalent; (d) 4 groups, 1 lone pair on P (as found in Section 6.3 above), trigonal pyramidal; the dipoles do not cancel, so the molecule is polar . CCl 4 and PCl 3 both have polar bonds; only shape decides which molecule is polar.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 6.51",
+  "question": "Phosphorus is a key element in fertilizers, bones, and DNA. (a) Write its full and noble-gas electron configurations. (b) How many valence electrons does it have? (c) What ion does it form, what is the ion's name, and which noble gas does it match? (d) How many bonds and lone pairs does P have in PH 3 ?",
+  "answer": "(a) P has 15 electrons: 1s 2 2s 2 2p 6 3s 2 3p 3 , or [Ne] 3s 2 3p 3 . (b) 5 valence electrons (3s 2 3p 3 ; group 15). (c) It gains 3 electrons to reach an octet: P 3&minus; , phosphide , with 18 electrons, the configuration of argon . (d) The same \"needs 3 more\" reasoning gives 3 bonds and 1 lone pair : in PH 3 , P shares 3 electrons instead of gaining them, and keeps its other 2 as a lone pair.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 6.52",
+  "question": "Potassium nitrate is the active ingredient in many toothpastes for sensitive teeth. (a) Write its formula (green sheet). (b) It contains both ionic and covalent bonds. Where is each kind? (c) Find its molar mass and percent potassium by mass. (d) How many moles of K + ions are in 5.00 g of it? (N 14.007, O 15.999, K 39.10; EN N 3.0, O 3.5)",
+  "answer": "(a) K + and the nitrate ion, NO 3 &minus; , combine 1 : 1: KNO 3 . (b) The attraction between K + and NO 3 &minus; is ionic . Inside the nitrate ion, N and O (two nonmetals) share electrons in covalent bonds that are polar (\\( \\Delta \\text{EN} \\) = 0.5). Every compound with a polyatomic ion has both kinds. (c) 39.10 + 14.007 + 3(15.999) = 101.10 g/mol ; %K = 39.10 &divide; 101.10 &times; 100% = 38.67% . (d) \\( 5.00\\ \\text{g KNO}_3 \\times \\dfrac{1\\ \\text{mol KNO}_3}{101.10\\ \\text{g}} \\times \\dfrac{1\\ \\text{mol K}^+}{1\\ \\text{mol KNO}_3} = 0.0495\\ \\text{mol K}^+ \\) (d) 0.0495 mol (4.95 &times; 10 &minus;2 mol) of K + , three significant figures like 5.00 g.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 6.53",
+  "question": "Nitrosyl chloride, NOCl, is a toxic gas formed when nitric acid and hydrochloric acid are mixed. Which atom is central, and what is the shape around it? A. O is central; bent B. N is central; bent C. Cl is central; linear D. There is no central atom; linear",
+  "answer": "B. Usual bond counts: N 3, O 2, Cl 1, so N makes the most bonds and is central. Electrons: 5 + 6 + 7 = 18. Single bonds N&ndash;O and N&ndash;Cl use 4; Cl and O get three lone pairs each (12), and the last 2 go on N as a lone pair. N then has only 6 electrons and O only 1 bond, so one O lone pair becomes an N=O double bond. N has 3 groups (double bond, single bond, lone pair): bent , about 120&deg;. A puts the most electronegative atom in the middle; O makes only 2 bonds, fewer than N. C puts a one-bond atom in the center; Cl, like H, belongs on the outside. D is true only for two-atom molecules. Here N bonds to two atoms, so it is a central atom.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 6.54",
+  "question": "Which molecule is polar? (EN: H 2.1, C 2.5, F 4.0, Si 1.8, Cl 3.0, O 3.5) A. CO 2 B. CF 4 C. CH 3 F D. SiCl 4",
+  "answer": "C. CH 3 F is tetrahedral, but only one bond is polar (C&ndash;F, 1.5); the three C&ndash;H bonds (0.4) are nonpolar. Following the bond arrows like driving directions, there is just one arrow, toward F, so you end up somewhere new: a net dipole. A: two equal C=O arrows (1.0 each) point opposite ways on a linear molecule and cancel. B: four equal C&ndash;F arrows point to the corners of a tetrahedron and cancel. D: Si&ndash;Cl bonds are polar (1.2), but four identical bonds in a tetrahedron cancel, just like CF 4 .",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 6.55",
+  "question": "Ethanol (CH 3 CH 2 OH) and dimethyl ether (CH 3 OCH 3 ) have the same molecular formula, C 2 H 6 O. (a) For dimethyl ether, give the shape around each carbon and around the oxygen. (b) Is dimethyl ether polar? (c) What does this pair show about molecular formulas?",
+  "answer": "(a) Electrons: 2(4) + 6(1) + 6 = 20. Each C has 4 single bonds (three C&ndash;H and one C&ndash;O): tetrahedral . The O has 2 bonds and 2 lone pairs: bent , like water. (b) Polar. The two C&ndash;O bonds are polar (\\( \\Delta \\text{EN} \\) = 1.0) and meet at a bent oxygen, so their arrows do not cancel. The C&ndash;H bonds are nonpolar. (c) The same molecular formula can belong to different molecules with different structures and properties (as with glucose and fructose, Section 6.7). Ethanol has an O&ndash;H group; dimethyl ether does not, so the two behave differently (Chapter 9).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 6.56",
+  "question": "A bottle is labeled \"iron(III) oxide, Fe 2 O 3 .\" A 2.000 g sample of the black powder inside contains 1.554 g of iron. (a) Is the sample Fe 2 O 3 ? (b) Is it consistent with iron(II) oxide, FeO? (Fe 55.85, O 15.999)",
+  "answer": "Measured: 1.554 &divide; 2.000 &times; 100% = 77.70% Fe . (a) Fe 2 O 3 : 2(55.85) = 111.70; 111.70 + 3(15.999) = 159.70 g/mol; %Fe = 111.70 &divide; 159.70 &times; 100% = 69.94%. The measured 77.70% does not match, so the sample fails the law of constant composition for Fe 2 O 3 ; it is not what the label says. (b) FeO: 55.85 + 15.999 = 71.85 g/mol; %Fe = 55.85 &divide; 71.85 &times; 100% = 77.73%. This matches 77.70% within rounding, so the sample is consistent with FeO . (Red-brown Fe 2 O 3 and black FeO even look different.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 6.57",
+  "question": "Urea, CO(NH 2 ) 2 , is one of the most widely used nitrogen fertilizers on Valley farms. (a) Find its percent nitrogen by mass. (b) Use the percent as a conversion factor to find the mass of nitrogen in a 2.50 kg bag of pure urea. (C 12.011, H 1.008, N 14.007, O 15.999)",
+  "answer": "(a) Molar mass: 12.011 + 15.999 + 2(14.007) + 4(1.008) = 60.056 g/mol. %N = 28.014 &divide; 60.056 &times; 100% = 46.65% . (b) \\( 2.50\\ \\text{kg urea} \\times \\dfrac{46.65\\ \\text{kg N}}{100\\ \\text{kg urea}} = 1.17\\ \\text{kg N} \\) Three significant figures, set by 2.50 kg. Almost half of urea's mass is nitrogen, which is why it is such an efficient fertilizer to ship.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 6.58",
+  "question": "An elemental analysis of a compound made by working muscles finds 0.400 mol C, 0.800 mol H, and 0.400 mol O. Its molar mass is 90.08 g/mol. What is its molecular formula? (C 12.011, H 1.008, O 15.999) A. CH 2 O B. C 3 H 6 O 3 C. C 2 H 4 O 2 D. C 6 H 12 O 6",
+  "answer": "B. Divide each mole value by the smallest (0.400): C 1, H 2, O 1, so the empirical formula is CH 2 O (30.026 g/mol). n = 90.08 &divide; 30.026 = 3.000, so the molecular formula is C 3 H 6 O 3 (lactic acid). Check: 3(12.011) + 6(1.008) + 3(15.999) = 90.078 g/mol. A is only the empirical formula. The analysis alone cannot give more, but the molar mass shows the molecule is 3 times bigger. C would have a molar mass of 60.05 g/mol (n = 2), not 90.08. D would have a molar mass of 180.16 g/mol (n = 6). It is glucose, which shares the empirical formula CH 2 O.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 6.59",
+  "question": "(Going Further, not on CHEM 3A exams unless assigned) Ground-level ozone, O 3 , is the Valley's summer smog pollutant. (a) How many valence electrons does O 3 have? (b) Describe its two resonance structures. (c) What is its shape? (d) What does experiment show about the two O&ndash;O bonds?",
+  "answer": "(a) 3(6) = 18 electrons . (b) The central O is bonded to both outer O atoms; one bond is double and one is single. In each structure the central O has one lone pair, the double-bonded outer O has two lone pairs, and the single-bonded outer O has three: O=O&ndash;O &harr; O&ndash;O=O . Check: 3 bonding pairs + 6 lone pairs = 9 pairs = 18 electrons. (c) The central O has 3 electron groups (one double bond, one single bond, one lone pair): bent, about 120&deg; (measured, about 117&deg;). The shape is the same in both resonance structures. (d) Both bonds are the same length , between a single and a double bond. The real molecule is one resonance hybrid, not a molecule that switches back and forth.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 6.60",
+  "question": "(Going Further, not on CHEM 3A exams unless assigned) Nitrogen dioxide, NO 2 , is the brown gas in vehicle exhaust smog. (a) How many valence electrons does it have? (b) Why can its Lewis structure not give every atom an octet? (c) Which kind of octet exception is it, and what does that have to do with smog?",
+  "answer": "(a) 5 + 2(6) = 17 electrons . (b) 17 is an odd number. Bonds and lone pairs each hold 2 electrons, so one electron is always left unpaired, and one atom (N) ends up with only 7 electrons. (c) It is an odd-electron molecule (a radical) . The unpaired electron makes NO 2 very reactive. In sunlight, NO 2 splits into NO and a single O atom, and that O atom combines with O 2 to form O 3 , ground-level ozone. That is why NO 2 from traffic and engines drives the Valley's summer ozone.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 6.61",
+  "question": "(Going Further, not on CHEM 3A exams unless assigned) Nitrate, NO 3 &minus; , from fertilizer can leach into groundwater, and it is tested for in many Valley drinking-water wells. (a) How many valence electrons does NO 3 &minus; have? (b) How many resonance structures does it have, and what does each look like? (c) What is its shape and bond angle?",
+  "answer": "(a) 5 + 3(6) + 1 = 24 electrons . (b) Three. N is central with one N=O double bond and two N&ndash;O single bonds and no lone pairs; the double-bonded O has two lone pairs and each single-bonded O has three. Any of the three O atoms can be the double-bonded one. Each structure is in brackets with a 1&minus; charge. Check: 4 bonding pairs + 8 lone pairs = 12 pairs = 24 electrons. All three real N&ndash;O bonds are identical, each about one and one-third bonds. (c) N has 3 electron groups and no lone pairs: trigonal planar, 120&deg; , in every resonance structure.",
+  "mc": false,
+  "terse_answer": false
+ }
+]

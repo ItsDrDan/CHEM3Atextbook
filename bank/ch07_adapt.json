@@ -96,7 +96,7 @@
   "y": [
    "Correct: C: 6 CO<sub>2</sub>; H: 7 H<sub>2</sub>O; O = 12 + 7 = 19 = 9.5 O<sub>2</sub>. Double: 2, 19, 12, 14.",
    "9.5 balances the atoms but is not a whole number. Double every coefficient.",
-   "38 is double the lowest set.",
+   "38 is double the lowest set. With 2 C<sub>6</sub>H<sub>14</sub>, the products need 38 O atoms; each O<sub>2</sub> supplies two, so divide by 2 for the coefficient.",
    "This counts 1 O in each CO<sub>2</sub>: 6 + 7 = 13."
   ],
   "h": "C, then H, then O; if O ends up odd, double everything.",
@@ -327,7 +327,7 @@
   "y": [
    "Correct: Sulfites follow the sulfate row: soluble except with Ca<sup>2+</sup>, Sr<sup>2+</sup>, Ba<sup>2+</sup>, Ag<sup>+</sup>, Pb<sup>2+</sup>. Calcium is an exception.",
    "Mg<sup>2+</sup> is not a sulfite exception, so MgSO<sub>3</sub> is soluble by the table.",
-   "Sodium is Group 1: always soluble.",
+   "Sodium is Group 1: always soluble. Sulfites are insoluble unless the cation is an exception, so look for a sulfite with a non-exception cation.",
    "Ammonium compounds are always soluble, even fluorides."
   ],
   "h": "Sulfite (SO<sub>3</sub><sup>2&minus;</sup>) shares its row with sulfate.",
@@ -517,7 +517,7 @@
    "Correct: HI is a strong acid and NaOH a strong base; NaI is soluble. Cancel Na<sup>+</sup> and I<sup>&minus;</sup>.",
    "HI is on the strong-acid list, so it is split into H<sup>+</sup> and I<sup>&minus;</sup>; then I<sup>&minus;</sup> cancels.",
    "NaI is soluble (Group 1), so these ions are spectators.",
-   "This is the molecular equation."
+   "This is the molecular equation. Split strong acids, strong bases and soluble salts into ions, then cancel the spectators (Na<sup>+</sup> and I<sup>&minus;</sup>)."
   ],
   "h": "Strong acid + strong base: what is left after the spectators cancel?",
   "w": "<b>H<sup>+</sup>(aq) + OH<sup>&minus;</sup>(aq) &rarr; H<sub>2</sub>O(l)</b>",
@@ -642,7 +642,7 @@
   "y": [
    "Correct: 2 Fe + 3(&minus;2) = 0, so 2 Fe = +6 and each Fe = +3.",
    "+6 is the total for both Fe atoms; divide by 2.",
-   "+2 is iron in FeO, iron(II) oxide.",
+   "+2 is iron in FeO, iron(II) oxide. Set the sum to zero: 2 Fe + 3(&minus;2) = 0, then solve for Fe.",
    "&minus;2 is the oxidation number of oxygen. (The free O<sub>2</sub> that rusts the iron starts at 0.)"
   ],
   "h": "O is &minus;2; the sum is 0; there are two Fe atoms.",
@@ -789,7 +789,7 @@
   "y": [
    "Correct: Aluminum is above zinc, so it displaces Zn<sup>2+</sup>.",
    "Iron is below zinc, so it cannot displace Zn<sup>2+</sup>.",
-   "Nickel is below zinc.",
+   "Nickel is below zinc, so it cannot displace it. Pick a metal that sits above Zn on the activity series.",
    "Copper is below zinc (and below H<sub>2</sub>)."
   ],
   "h": "The free metal must be above zinc.",

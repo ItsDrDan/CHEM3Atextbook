@@ -1,0 +1,1748 @@
+[
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 1.1",
+  "question": "Which of these is a quantitative observation? A. The fluid draining from the wound is cloudy. B. The patient's respiratory rate is 18 breaths per minute. C. The tablet tastes bitter. D. The gas in the flask is colorless.",
+  "answer": "B. A quantitative observation is a measurement: a number with a unit. \"18 breaths per minute\" has both. A is qualitative: \"cloudy\" describes appearance with a word, not a number. C is qualitative: taste is described with a word. D is qualitative: \"colorless\" is a description, not a measurement.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 1.2",
+  "question": "A dental hygienist and a respiratory therapist share notes on the same patient. Label each note qualitative or quantitative. (a) Gums bleed when probed. (b) Probing depth at the lower left first molar is 5 mm. (c) Patient reports that her mouth often feels dry ( xerostomia , the medical term for dry mouth). (d) SpO 2 (the oxygen saturation read by a pulse oximeter clipped to the finger) is 96%. (e) A wheezing sound is heard when the patient breathes out.",
+  "answer": "(a) Qualitative: it describes what happened in words. (b) Quantitative: a number (5) with a unit (mm). (c) Qualitative: a description reported in words. (d) Quantitative: a measured number, reported as a percentage. (e) Qualitative: a sound described in words, with no number. Notice that both kinds of observation are useful; the qualitative ones often tell the clinician what to measure next.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 1.3",
+  "question": "Which statement is a testable (falsifiable) hypothesis? A. Tule fog is the most beautiful weather in California. B. Sugar dissolves because it wants to be in water. C. Raising the water temperature from 20 &deg;C to 40 &deg;C makes sugar dissolve faster. D. Chemistry is more important than biology.",
+  "answer": "C. You can test it: time how long the same amount of sugar takes to dissolve at each temperature, keeping everything else the same. If the 40 &deg;C trial is not faster, the hypothesis is shown wrong, which is what makes it falsifiable. A is an opinion; no measurement could prove it wrong. B gives sugar a \"want,\" which no experiment can measure. D is a value judgment, not a prediction about what will happen in an experiment.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 1.4",
+  "question": "A dairy herd manager in Tulare County writes down what she did over one summer, but the steps are out of order. Put them in the order of the scientific method, and name the control. (P) She predicts that cows in a barn with fans and water misters will give more milk on hot days than cows in a barn without them. (Q) For one month she records the milk from a barn with fans and misters and from a matching barn without them. (R) She notices that her herd gives less milk during weeks when afternoon temperatures pass 38 &deg;C. (S) The cows in the cooled barn gave more milk, so she concludes the data support her prediction and plans to repeat the test next summer. (T) She asks, \"Is the heat causing the drop in milk?\"",
+  "answer": "Order: R, T, P, Q, S. R is the observation (milk drops in hot weeks). T is the question. P is the hypothesis, a testable prediction. Q is the experiment. S is the analysis and conclusion, with a plan to repeat the work, which is how results become trusted. The control is the barn without fans and misters: it shows what milk output would be without the change, so there is something to compare against.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 1.5",
+  "question": "A microbiology student tests whether ultraviolet (UV) light kills bacteria. She spreads the same amount of a harmless lab strain of bacteria on four identical agar plates (dishes of nutrient gel). She places three plates under a UV lamp for 10, 20, and 30 seconds, and leaves the fourth plate unexposed. All four plates then sit for 24 hours at 37 &deg;C, and she counts the colonies on each. Name the independent variable, the dependent variable, the control, and two constants.",
+  "answer": "Independent variable: the UV exposure time (0, 10, 20, or 30 s), because that is what she changes on purpose. Dependent variable: the number of colonies that grow, because that is what she measures. Control: the unexposed plate, which shows how many colonies grow with no UV. Constants (any two): the amount and strain of bacteria, the type of agar, the incubation time (24 h), the incubation temperature (37 &deg;C), and the distance from the lamp.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 1.6",
+  "question": "Nursing students test the hypothesis \"Washing hands longer with soap leaves fewer bacteria.\" After each handwashing time, a student presses a fingertip onto a fresh agar plate, and the plates are incubated the same way. The table below shows the colony counts. @media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } } Colonies grown after different handwashing times Trial Handwashing time (s) Colonies counted 1 0 (no washing) 152 2 5 118 3 20 21 4 40 18 (a) Which trial is the control? (b) Name the independent and dependent variables. (c) Do the data support the hypothesis? (d) Describe the pattern between 20 s and 40 s. (e) Why should the students repeat the whole experiment before drawing a firm conclusion?",
+  "answer": "(a) Trial 1, with no washing: it is the trial without the change, so it is the baseline for comparison. (b) Independent variable: handwashing time (chosen by the students). Dependent variable: the number of colonies (measured). (c) Yes. Each longer washing time gave fewer colonies (152 &rarr; 118 &rarr; 21 &rarr; 18). (d) The big drop happens by 20 s; going from 20 s to 40 s lowered the count only a little (21 to 18). Washing longer still helped, but most of the benefit came by 20 s. This fits the common public-health advice to scrub for at least 20 seconds. (e) One trial at each time could be affected by chance (for example, one fingertip that happened to touch something). Repeating the experiment, and having other people repeat it, shows whether the pattern is real.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 1.7",
+  "question": "Classify each statement as a scientific law, a scientific theory, or a hypothesis. (a) Matter is made of particles that are always moving, and the faster they move, the hotter the sample. (b) Every sample of pure water, from any source, contains hydrogen and oxygen in the same proportion by mass. (c) If I put a heat lamp in this chicken coop, the hens will lay more eggs this month. (d) The total mass of a sealed bottle containing water and an antacid tablet is the same before and after the tablet fizzes.",
+  "answer": "(a) Theory. It explains why samples are hot or cold, using a model of moving particles. (b) Law. It describes what always happens, based on many measurements, without explaining why. (c) Hypothesis. It is a testable prediction about one situation that has not been tested yet. (d) Law. It is an example of the law of conservation of mass: in a closed container, mass before a change equals mass after. (The bottle must be sealed; if the gas escaped, the measured mass would drop.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 1.8",
+  "question": "Which statement about scientific theories is correct? A. A theory becomes a law once it has been proven. B. A theory is a well-tested explanation that can still be revised if new evidence requires it. C. A theory is the scientific word for a guess. D. Laws explain why things happen; theories only describe what happens.",
+  "answer": "B. A theory explains why nature behaves as it does and is supported by many experiments, but it stays open to revision. A is wrong: theories and laws do different jobs (why versus what). A theory never \"graduates\" into a law. C is wrong: that is the everyday meaning of \"theory.\" In science, a theory is the strongest kind of explanation there is. D has the two backwards: laws describe what happens; theories explain why.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 1.9",
+  "question": "Write (a) and (b) in scientific notation, and (c) and (d) as ordinary numbers. (a) A yeast cell is about 0.0000062 m across. (b) A small Valley almond orchard receives 602,000 L of irrigation water in one week. (c) 4.5 &times; 10 3 mL (d) 8.10 &times; 10 &minus;3 g",
+  "answer": "(a) Move the decimal point 6 places to the right to get 6.2. The original number is less than 1, so the exponent is negative: 6.2 &times; 10 &minus;6 m . (b) Move the decimal point 5 places to the left to get 6.02. The original number is greater than 1, so the exponent is positive: 6.02 &times; 10 5 L . (Written as 602,000, the trailing zeros are not significant, so both forms show three significant figures.) (c) A positive exponent of 3 moves the decimal point 3 places to the right: 4500 mL . (d) An exponent of &minus;3 moves the decimal point 3 places to the left: 0.00810 g . Keep the final zero; it is significant and shows that the mass is known to three significant figures.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 1.10",
+  "question": "Do each calculation without converting to ordinary numbers, and give the answer in scientific notation. (a) (2.4 &times; 10 5 )(3.0 &times; 10 &minus;2 ) (b) (6.6 &times; 10 &minus;4 ) &divide; (2.2 &times; 10 3 )",
+  "answer": "(a) Multiply the coefficients and add the exponents: 2.4 &times; 3.0 = 7.2 and 5 + (&minus;2) = 3, so the answer is 7.2 &times; 10 3 . (b) Divide the coefficients and subtract the bottom exponent from the top: 6.6 &divide; 2.2 = 3.0 and &minus;4 &minus; 3 = &minus;7, so the answer is 3.0 &times; 10 &minus;7 . Calculator tip (TI-36X Pro): enter each number with the &times;10 n key, for example 6.6 [&times;10 n ] [(&minus;)] 4. Put the whole bottom number in parentheses or use the &times;10 n key so the calculator divides by all of it.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 1.11",
+  "question": "(a) Name the SI base unit for each quantity: length, mass, time, temperature, and amount of substance. (b) A nursing student says, \"The liter is the SI base unit of volume.\" Explain what is wrong with this statement.",
+  "answer": "(a) Length: meter (m) . Mass: kilogram (kg) . Time: second (s) . Temperature: kelvin (K) . Amount of substance: mole (mol) . Notice that the kilogram, not the gram, is the base unit of mass. (b) Volume does not have its own base unit. It is a derived unit, built from length: volume = length &times; length &times; length. The liter is defined as the volume of a cube 1 decimeter (10 cm) on each side, so 1 L = 1 dm 3 = 1000 cm 3 . The liter is a convenient metric unit, but it is not a base unit.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 1.12",
+  "question": "Fill in each blank with a power of ten, then answer part (e). (a) 1 km = ____ m (b) 1 mg = ____ g (c) 1 &micro;L = ____ L (d) 1 cm = ____ m (e) The spores of the fungus that causes Valley fever (coccidioidomycosis) are a few millionths of a meter across. Which metric prefix is the best fit for describing their size?",
+  "answer": "(a) 10 3 (kilo- = 1000). (b) 10 &minus;3 (milli- = one-thousandth). (c) 10 &minus;6 (micro- = one-millionth). (d) 10 &minus;2 (centi- = one-hundredth). (e) Micro- : a millionth of a meter is 10 &minus;6 m = 1 micrometer (&micro;m), so the spores are a few micrometers across. Choosing a prefix that matches the size keeps the number simple (3 &micro;m instead of 0.000003 m).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 1.13",
+  "question": "A food-science student weighs four spice samples. List them from smallest to largest mass. W: 0.0025 kg &nbsp;&nbsp; X: 3.1 g &nbsp;&nbsp; Y: 2.8 &times; 10 3 mg &nbsp;&nbsp; Z: 2.9 &times; 10 5 &micro;g",
+  "answer": "Convert every mass to grams before comparing: W: 0.0025 kg &times; (1000 g / 1 kg) = 2.5 g X: 3.1 g Y: 2.8 &times; 10 3 mg &times; (1 g / 1000 mg) = 2.8 g Z: 2.9 &times; 10 5 &micro;g &times; (1 g / 10 6 &micro;g) = 0.29 g Smallest to largest: Z (0.29 g) &lt; W (2.5 g) &lt; Y (2.8 g) &lt; X (3.1 g) . Sample Z has the biggest number in front of its unit but the smallest mass, because a microgram is so small.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 1.14",
+  "question": "A patient's lab report lists a hemoglobin of 14.2 g/dL and a platelet count of 2.5 &times; 10 5 platelets per microliter (&micro;L). (a) What does the prefix deci- mean, and how many deciliters are in 1 L? (b) Write the platelet count as an ordinary number. (c) How many platelets is that per milliliter?",
+  "answer": "(a) Deci- means one-tenth (10 &minus;1 ), so 1 dL = 0.1 L and there are 10 dL in 1 L . A hemoglobin of 14.2 g/dL means each tenth of a liter of blood holds 14.2 g of hemoglobin. (b) Move the decimal point 5 places to the right: 250,000 platelets per &micro;L . Written this way the zeros are not significant, which matches the two significant figures of 2.5 &times; 10 5 . (c) 1 mL = 1000 &micro;L, so \\( \\dfrac{2.5 \\times 10^{5}\\ \\text{platelets}}{1\\ \\mu\\text{L}} \\times \\dfrac{1000\\ \\mu\\text{L}}{1\\ \\text{mL}} = 2.5 \\times 10^{8}\\ \\text{platelets/mL} \\) The answer is 2.5 &times; 10 8 platelets per mL . A milliliter is larger than a microliter, so it holds more platelets.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 1.15",
+  "question": "How many significant figures are in each value? Use this book's rule: trailing zeros count only when the number has a decimal point. (a) 0.00720 g &nbsp; (b) 1500 mL &nbsp; (c) 1500. mL &nbsp; (d) 1.500 &times; 10 3 mL &nbsp; (e) 40.06 kg &nbsp; (f) 24 students in a lab section",
+  "answer": "(a) 3 : the leading zeros (0.00) only place the decimal point; 7, 2 and the trailing 0 after the decimal point count. (b) 2 : no decimal point, so the trailing zeros are placeholders. (c) 4 : the decimal point at the end makes the trailing zeros significant. (d) 4 : in scientific notation every digit of the coefficient counts. (e) 4 : the zero between 4 and 6 is a captive zero, and captive zeros always count. (f) Unlimited (exact) : 24 students is a count, not a measurement, so it has no uncertainty. Parts (b), (c) and (d) show why the decimal point matters: the same digits can carry 2 or 4 significant figures.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 1.16",
+  "question": "A respiratory therapy student measures sterile water in a graduated cylinder whose marks are 1 mL apart. The bottom of the meniscus sits between the 42 mL and 43 mL marks, a little past the middle. Her lab partners suggest three ways to record it: 43 mL, 42.6 mL, and 42.60 mL. Which is correct, and what is wrong with the other two?",
+  "answer": "42.6 mL is correct. A measurement records every digit you are certain of plus one estimated digit . The marks make you certain of 42; you estimate the tenths place (about 0.6 of the way to 43). 43 mL drops the estimated digit and throws away information the cylinder can give. 42.60 mL claims a second estimated digit (hundredths). With marks 1 mL apart you cannot estimate that finely, so the final zero is not justified. The uncertainty in this reading is about &plusmn;0.1 mL; another careful reader might record 42.5 or 42.7 mL.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 1.17",
+  "question": "Round each number to three significant figures. (a) 0.0045627 &nbsp; (b) 18.350 &nbsp; (c) 2,467,000 &nbsp; (d) 99.96",
+  "answer": "(a) The first three significant digits are 4, 5, 6; the next digit is 2, so round down: 0.00456 . (b) Keep 1, 8, 3; the next digit is 5, so round up: 18.4 . (c) Keep 2, 4, 6; the next digit is 7, so round up: 2,470,000 , or 2.47 &times; 10 6 . Under this book's rule the trailing zeros in 2,470,000 are not significant, so it shows exactly three significant figures; scientific notation says the same thing more clearly. (d) Keep 9, 9, 9; the next digit is 6, so round up. 99.9 becomes 100.0, which has four digits, so write 100. (with a decimal point) or 1.00 &times; 10 2 to show exactly three significant figures. Writing just \"100\" would show only one.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 1.18",
+  "question": "Do each calculation and report the answer with the correct number of significant figures. (a) 3.6 cm &times; 0.0215 cm (b) 125.0 g &divide; 4.02 mL (c) 12 tablets (counted) &times; 0.250 g per tablet",
+  "answer": "For multiplication and division, the answer keeps as many significant figures as the measured value with the fewest. (a) 3.6 &times; 0.0215 = 0.0774. The value 3.6 cm has two significant figures, so the answer is 0.077 cm 2 . (The units multiply too: cm &times; cm = cm 2 .) (b) 125.0 &divide; 4.02 = 31.0945&hellip;. 125.0 g has four significant figures and 4.02 mL has three, so keep three: 31.1 g/mL . (c) 12 &times; 0.250 = 3 on the calculator. The 12 is a count, so it is exact and does not limit the answer; 0.250 g has three significant figures. Add zeros to show them: 3.00 g .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 1.19",
+  "question": "Do each calculation and report the answer with the correct precision. (a) 13.25 g + 0.4 g + 108.112 g (b) 75.03 mL &minus; 74.9 mL",
+  "answer": "For addition and subtraction, the answer keeps the same number of decimal places as the value with the fewest decimal places. (a) 13.25 + 0.4 + 108.112 = 121.762. The value 0.4 g is known only to the tenths place, so round to tenths: 121.8 g . Notice that the answer has four significant figures even though 0.4 has only one; addition uses decimal places, not significant figures. (b) 75.03 &minus; 74.9 = 0.13. The value 74.9 mL is known only to the tenths place, so round to tenths: 0.1 mL . Subtracting two close numbers can leave very few significant figures (here only one).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 1.20",
+  "question": "A student finds the density of a cough syrup. The mass of a flask plus the syrup is 35.67 g, the mass of the empty flask is 33.12 g, and the volume of syrup is 2.60 mL. Calculate the density with the correct number of significant figures.",
+  "answer": "Step 1 (subtraction, decimal-place rule): mass of syrup = 35.67 g &minus; 33.12 g = 2.55 g. Both values have two decimal places, so the result has two: 2.55 g, which has three significant figures. Step 2 (division, significant-figure rule): \\( d = \\dfrac{2.55\\ \\text{g}}{2.60\\ \\text{mL}} = 0.98077\\ \\text{g/mL} \\) Both 2.55 g and 2.60 mL have three significant figures, so the density is 0.981 g/mL . When a calculation mixes rules, apply each rule to its own step, in order. Keep the extra calculator digits between steps and round only at the end.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 1.21",
+  "question": "A teaching lab checks four balances by weighing the same 10.00 g calibration mass three times on each. The results are in the table below. Three readings of a 10.00 g calibration mass on four balances Balance Reading 1 (g) Reading 2 (g) Reading 3 (g) A 10.01 9.99 10.00 B 10.42 10.41 10.43 C 9.62 10.35 10.05 D 10.62 9.95 10.98 (a) Describe each balance as accurate, precise, both, or neither. (b) Which balance most likely just needs to be recalibrated, and why?",
+  "answer": "Precision asks how close the readings are to each other (look at the spread). Accuracy asks how close they are to the true value , 10.00 g (look at the average). A: accurate and precise. Spread 0.02 g; average 10.00 g. B: precise but not accurate. Spread 0.02 g; average 10.42 g, about 0.42 g high. C: accurate on average but not precise. Spread 0.73 g; average 10.01 g. D: neither. Spread 1.03 g; average 10.52 g. (b) Balance B. Its readings agree closely but are all off by about the same amount. That is a systematic error, the kind recalibration corrects. Balances C and D give scattered readings (random error), which recalibration alone does not fix.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 1.22",
+  "question": "Use a conversion factor for each, and show how the units cancel. (a) 2.45 L to milliliters (b) 785 mg to grams (c) A patient is 64.0 in tall. What is the height in centimeters? (1 in = 2.54 cm exactly)",
+  "answer": "(a) \\( 2.45\\ \\text{L} \\times \\dfrac{1000\\ \\text{mL}}{1\\ \\text{L}} = 2450\\ \\text{mL} \\) The factor is exact, so the answer keeps the three significant figures of 2.45 L. Under this book's rule, 2450 mL has three significant figures (the trailing zero has no decimal point), which is exactly right; 2.45 &times; 10 3 mL says the same thing. (b) \\( 785\\ \\text{mg} \\times \\dfrac{1\\ \\text{g}}{1000\\ \\text{mg}} = 0.785\\ \\text{g} \\) The answer is 0.785 g . Going to a larger unit gives a smaller number. (c) \\( 64.0\\ \\text{in} \\times \\dfrac{2.54\\ \\text{cm}}{1\\ \\text{in}} = 162.56\\ \\text{cm} \\) The factor is exact by definition, so 64.0 in (three significant figures) sets the answer: 163 cm .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 1.23",
+  "question": "Math practice only; always follow the order and facility policy. A provider orders a liquid medication at 12.5 mg/kg for a child who weighs 38.6 lb. The bottle is labeled 100. mg per 5.00 mL. Use 1 kg = 2.2046 lb. (a) What dose in milligrams does the order describe? (b) What volume of the liquid contains that dose?",
+  "answer": "(a) Convert the weight to kilograms first, because the order is per kilogram: \\( 38.6\\ \\text{lb} \\times \\dfrac{1\\ \\text{kg}}{2.2046\\ \\text{lb}} = 17.51\\ \\text{kg} \\) \\( 17.51\\ \\text{kg} \\times \\dfrac{12.5\\ \\text{mg}}{1\\ \\text{kg}} = 218.9\\ \\text{mg} \\) The given values have three or more significant figures (38.6 and 12.5 have three), so the dose is 219 mg . (b) Use the label as a conversion factor, with mg on the bottom so it cancels (carry the unrounded 218.9 mg): \\( 218.9\\ \\text{mg} \\times \\dfrac{5.00\\ \\text{mL}}{100.\\ \\text{mg}} = 10.94\\ \\text{mL} \\) The volume is 10.9 mL . Check: the child is about 17.5 kg, and 17.5 &times; 12.5 &asymp; 220 mg; at 20 mg per mL, 220 mg is about 11 mL. Common slips: multiplying 38.6 lb by 12.5 mg/kg (forgetting to convert to kg) gives 483 mg, more than twice the ordered dose; multiplying by 2.2046 instead of dividing gives a weight in kilograms larger than the weight in pounds, which cannot be right.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 1.24",
+  "question": "Math practice only; always follow the order and facility policy. An order calls for 1.00 L of normal saline to run over 6.00 h. (a) What is the rate in mL/h? (b) What is the rate in mL/min?",
+  "answer": "(a) \\( \\dfrac{1.00\\ \\text{L}}{6.00\\ \\text{h}} \\times \\dfrac{1000\\ \\text{mL}}{1\\ \\text{L}} = 166.67\\ \\text{mL/h} \\) Three significant figures: 167 mL/h . (b) Carry the unrounded rate and convert hours to minutes. Hours are on the bottom, so the factor puts hours on top: \\( 166.67\\ \\dfrac{\\text{mL}}{\\text{h}} \\times \\dfrac{1\\ \\text{h}}{60\\ \\text{min}} = 2.778\\ \\text{mL/min} \\) The rate is 2.78 mL/min . The factor 1 h = 60 min is exact, so it does not limit the significant figures.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 1.25",
+  "question": "A microbiology student uses a micropipette that delivers 25.0 &micro;L per press. How many deliveries can she make from 2.00 mL of a bacterial culture?",
+  "answer": "Convert milliliters to microliters, then divide by the volume of one delivery: \\( 2.00\\ \\text{mL} \\times \\dfrac{1000\\ \\mu\\text{L}}{1\\ \\text{mL}} \\times \\dfrac{1\\ \\text{delivery}}{25.0\\ \\mu\\text{L}} = 80.0\\ \\text{deliveries} \\) Both measured values have three significant figures, so the calculation gives 80.0 deliveries , or 80 full deliveries. Notice how the units cancel step by step: mL cancels with mL, then &micro;L cancels with &micro;L, leaving deliveries.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 1.26",
+  "question": "A lab bench top measures 1.20 m by 0.750 m. (a) What is its area in m 2 ? (b) What is the area in cm 2 ? (c) A student who converts the area using 100 cm/m only once gets 90.0 cm 2 . Explain the mistake.",
+  "answer": "(a) Area = 1.20 m &times; 0.750 m = 0.900 m 2 (three significant figures). (b) The unit is squared, so the conversion factor must be squared too: \\( 0.900\\ \\text{m}^2 \\times \\left(\\dfrac{100\\ \\text{cm}}{1\\ \\text{m}}\\right)^2 = 0.900\\ \\text{m}^2 \\times \\dfrac{10^4\\ \\text{cm}^2}{1\\ \\text{m}^2} = 9.00 \\times 10^{3}\\ \\text{cm}^2 \\) The answer is 9.00 &times; 10 3 cm 2 . Scientific notation shows the three significant figures clearly. (c) Multiplying by 100 cm/m once leaves units of m&middot;cm, not cm 2 ; one meter is left uncanceled. A square meter is 100 cm by 100 cm, which is 10,000 cm 2 , not 100. Check: converting each side first gives 120. cm &times; 75.0 cm = 9.00 &times; 10 3 cm 2 , the same answer as (b).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 1.27",
+  "question": "A biology lab keeps tadpoles in a rectangular tank whose inside measures 50.0 cm long, 25.0 cm wide and 30.0 cm deep. (a) What is the volume in cm 3 ? (b) How many liters of water does the full tank hold? (Use 1 mL = 1 cm 3 .) (c) What is the volume in m 3 ?",
+  "answer": "(a) V = 50.0 cm &times; 25.0 cm &times; 30.0 cm = 37,500 cm 3 = 3.75 &times; 10 4 cm 3 (three significant figures). (b) \\( 3.75 \\times 10^{4}\\ \\text{cm}^3 \\times \\dfrac{1\\ \\text{mL}}{1\\ \\text{cm}^3} \\times \\dfrac{1\\ \\text{L}}{1000\\ \\text{mL}} = 37.5\\ \\text{L} \\) The tank holds 37.5 L . (c) Cube the length factor: (1 m / 100 cm) 3 = 1 m 3 / 10 6 cm 3 . \\( 3.75 \\times 10^{4}\\ \\text{cm}^3 \\times \\dfrac{1\\ \\text{m}^3}{10^{6}\\ \\text{cm}^3} = 3.75 \\times 10^{-2}\\ \\text{m}^3 \\) The volume is 3.75 &times; 10 &minus;2 m 3 . (Check: 1 m 3 = 1000 L, and 37.5 L &divide; 1000 = 0.0375 m 3 .)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 1.28",
+  "question": "A student converts a 4.50 kg bag of fertilizer to pounds like this: \\( 4.50\\ \\text{kg} \\times \\dfrac{1\\ \\text{kg}}{2.2046\\ \\text{lb}} = 2.04\\ \\text{lb} \\) (a) Find the mistake. (b) Do the conversion correctly. (c) How could the student have caught the mistake without redoing the math?",
+  "answer": "(a) The conversion factor is upside down. With kg on top of the factor, kilograms do not cancel; the units become kg 2 /lb, not lb. (b) Put kg on the bottom so it cancels: \\( 4.50\\ \\text{kg} \\times \\dfrac{2.2046\\ \\text{lb}}{1\\ \\text{kg}} = 9.9207\\ \\text{lb} \\) 4.50 kg has three significant figures (2.2046 has five), so the mass is 9.92 lb . (c) Two quick checks: the units did not cancel to lb, and a pound is lighter than a kilogram, so the number of pounds must be larger than the number of kilograms (about twice as large), not smaller.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 1.29",
+  "question": "Which of these is a compound? A. O 3 (ozone) B. N 2 C. NH 3 (ammonia) D. air",
+  "answer": "C. NH 3 contains two different elements, nitrogen and hydrogen, bonded in a fixed 1:3 ratio. A is an element: every atom in O 3 is oxygen. A subscript does not make a compound. B is an element (one of the diatomic seven): only one kind of atom. D is a homogeneous mixture of several gases (mostly N 2 and O 2 ), not one substance.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 1.30",
+  "question": "Classify each as an element, a compound, a homogeneous mixture, or a heterogeneous mixture. (a) helium in a party balloon, He (b) baking soda, NaHCO 3 (c) D5W , an intravenous (IV) fluid made of 5% dextrose (a sugar) dissolved in water (d) a shovelful of soil from a Fresno County orchard (e) liquid bromine, Br 2 (f) pure distilled water, H 2 O",
+  "answer": "(a) Element: one kind of atom. (b) Compound: four different elements (Na, H, C, O) bonded in a fixed ratio. (c) Homogeneous mixture (a solution): the sugar is spread evenly through the water, so it looks the same everywhere, and the amount of sugar could be different (other IV fluids use 10% dextrose, for example). (d) Heterogeneous mixture: you can see bits of sand, clay, roots, and pebbles. (e) Element: Br 2 is one of the diatomic seven; one kind of atom. (f) Compound: two elements bonded in a fixed 2:1 ratio. Distilled water has nothing else dissolved in it, so it is a pure substance.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 1.31",
+  "question": "From this list, pick the elements that exist as diatomic molecules and write the formula of each: hydrogen, helium, nitrogen, sulfur, chlorine, neon, iodine, sodium. Then say whether Cl 2 is an element or a compound.",
+  "answer": "Diatomic: hydrogen (H 2 ), nitrogen (N 2 ), chlorine (Cl 2 ), and iodine (I 2 ). The full set of seven is H 2 , N 2 , O 2 , F 2 , Cl 2 , Br 2 , I 2 ; helium, sulfur, neon, and sodium are not on that list. Cl 2 is an element . Each molecule has two atoms, but both are chlorine; a compound needs two or more different elements.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 1.32",
+  "question": "The table below describes six particle diagrams in words. In each box, atoms listed as \"bonded\" are joined into one particle. Classify each box as a pure element, a pure compound, a mixture of elements, a mixture of compounds, or a mixture of an element and a compound. Particle diagrams described in words Box What the box contains A 6 separate He atoms and 6 separate Ne atoms B 8 identical particles, each one C atom bonded to two O atoms C 5 particles, each two Cl atoms bonded together D 4 H 2 O molecules and 4 CO 2 molecules E 3 N 2 molecules and 3 NH 3 molecules F 6 separate Ar atoms",
+  "answer": "First ask \"is every particle the same?\" Then ask whether each kind of particle has one kind of atom (element) or more (compound). A: mixture of elements. Two kinds of particles; each is a single atom of one element. B: pure compound. Every particle is identical (CO 2 ), and each contains two different elements bonded together. C: pure element. Every particle is Cl 2 , with only one kind of atom. D: mixture of compounds. Two kinds of particles, and each contains two different elements. E: mixture of an element and a compound. N 2 is an element; NH 3 is a compound. F: pure element. Argon exists as single atoms; every particle is the same.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 1.33",
+  "question": "(a) Box G contains 4 O 2 molecules and 2 O 3 molecules. A student says, \"Every atom is oxygen, so this is a pure element.\" Is the student right? Classify the box. (b) Box H contains 6 identical particles, each one N atom bonded to three H atoms. Classify it. (c) One N 2 molecule is added to box H. Classify the box now.",
+  "answer": "(a) The student is only partly right. Both O 2 and O 3 are forms of the element oxygen, but they are two different substances (different particles with different properties). A pure substance needs every particle to be the same, so box G is a mixture of two elements . (b) Every particle is the same NH 3 molecule, made of two different elements: pure compound . (c) Now there are two kinds of particles, NH 3 (a compound) and N 2 (an element), not bonded to each other: mixture of an element and a compound .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 1.34",
+  "question": "Which of these is a molecule but not a compound? A. H 2 O B. NaCl C. Br 2 D. CH 4 (methane)",
+  "answer": "C. Br 2 is two atoms bonded together (a molecule), but both atoms are bromine, so it is an element, not a compound. A is both a molecule and a compound (H and O bonded). B is a compound, but it is made of Na + and Cl &minus; ions in formula units, not molecules. It is the reverse case: a compound but not a molecule. D is both a molecule and a compound (C and H bonded).",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 1.35",
+  "question": "Box 1 holds 4 H 2 molecules and 2 O 2 molecules. Box 2 holds 4 H 2 O molecules. Both boxes contain exactly 8 H atoms and 4 O atoms. Compare the two boxes: classify each, and give two differences in how they behave.",
+  "answer": "Box 1 is a mixture of two elements. The H atoms are bonded only to H, and the O atoms only to O; the two kinds of molecules are just mixed. Box 2 is a pure compound. Each H 2 O particle has H and O bonded together in a fixed 2:1 ratio. Differences (any two): Composition: you could add more H 2 or more O 2 to box 1 and it would still be a hydrogen&ndash;oxygen mixture; water is always 2 H to 1 O. Separation: the gases in box 1 could be separated by physical means; getting hydrogen and oxygen out of water takes a chemical change. Properties: a hydrogen&ndash;oxygen mixture can explode when sparked; water does not burn at all. A compound's properties differ from those of its elements. Counting atoms is not enough to classify matter; you must look at how the atoms are bonded into particles.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 1.36",
+  "question": "Choose a physical method to separate each mixture, and name the property it uses. (a) silt and sand from irrigation canal water before it enters a drip system (b) drinkable water from salty groundwater in the western San Joaquin Valley (c) cream from whole milk at a Valley dairy plant (the cream is less dense than the rest of the milk) (d) solid salt from a brine (salt water) solution, when the water does not need to be kept",
+  "answer": "(a) Filtration (particle size: the solid is trapped while water passes through). Letting the silt settle and decanting also works (density). (b) Distillation (boiling point): the water boils off, and the vapor is condensed and collected, leaving the dissolved salts behind. Plain evaporation would leave the salt but lose the water you want. (c) Centrifugation (density): spinning sends the denser skim milk outward and lets the less dense cream separate. Dairy cream separators are centrifuges. (d) Evaporation (boiling point): the water leaves and the dissolved salt stays behind. All four are physical methods, which work because the parts of a mixture are not bonded to each other.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 1.37",
+  "question": "A nursing student looks at a bag of normal saline, sees \"0.9% sodium chloride (NaCl)\" on the label, and says, \"Saline has a formula, so it is a compound.\" Explain the error and classify normal saline correctly.",
+  "answer": "NaCl is the formula of only one part of the bag's contents. Normal saline is sodium chloride dissolved in water , so it contains two substances that are physically combined, not bonded into one substance. Its composition can vary: hospitals also stock 0.45% (\"half-normal\") and 3% saline. A compound always has a fixed composition. Saline looks the same throughout, so it is a homogeneous mixture (a solution). Sodium chloride by itself, the white solid, is the compound.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 1.38",
+  "question": "Some dental offices offer nitrous oxide&ndash;oxygen sedation , a mild sedation in which the patient breathes a mixture of nitrous oxide gas (N 2 O) and oxygen gas (O 2 ) through a small nose mask. The dentist or a trained hygienist sets the percentage of each gas on the machine. Classify (a) N 2 O, (b) O 2 , and (c) the gas the patient breathes. (d) What fact in the description shows that (c) is a mixture?",
+  "answer": "(a) Compound: two different elements, N and O, bonded in a fixed ratio. (b) Element: one kind of atom (diatomic oxygen). (c) Homogeneous mixture: the two gases are spread evenly through each other, so every breath has the same makeup. (d) The clinician can change the percentage of each gas. Only a mixture can have its composition adjusted; a compound always has the same ratio of elements.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 1.39",
+  "question": "A sample keeps its own shape no matter what container it is placed in. Which description fits its particles? A. Far apart and moving fast in all directions B. Touching, but sliding past one another C. Closely packed and vibrating in place D. Closely packed and not moving at all",
+  "answer": "C. A definite shape means a solid, and solid particles are packed closely and vibrate in fixed positions. A describes a gas, which fills its container and has no definite shape. B describes a liquid, which flows and takes the shape of its container. D is wrong because particles in a solid still vibrate; they just do not move out of place.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 1.40",
+  "question": "Three samples are each moved from a 100 mL flask into a 250 mL flask. The table below records what happened. Identify the state of each sample, and say which one could be squeezed into a much smaller volume. Observations when samples are moved to a larger flask Sample Volume in the 100 mL flask Volume in the 250 mL flask Shape in the 250 mL flask X about 40 mL about 40 mL Takes the shape of the bottom of the flask Y 100 mL (fills the flask) 250 mL (fills the flask) Fills the whole flask Z about 40 mL about 40 mL Stays a cube, the same shape as before",
+  "answer": "X is a liquid: its volume stayed the same (definite volume), but its shape changed to fit the flask (indefinite shape). Y is a gas: its volume changed to fill whatever container it was in. Z is a solid: both its shape and volume stayed the same. Y could be compressed, because gas particles are far apart and most of a gas's volume is empty space. In X and Z the particles already touch, so there is almost no space to remove.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 1.41",
+  "question": "In a skills lab, a nursing student caps the tip of a syringe filled with 10 mL of air and pushes the plunger. Then she does the same with a capped syringe filled with 10 mL of water. Predict what happens in each case and explain with the particle view.",
+  "answer": "Air: the plunger moves in a good distance, so the air is squeezed into a smaller volume. Gas particles are far apart, and pushing removes some of the empty space between them. When she lets go, the plunger springs back as the moving particles push outward. Water: the plunger barely moves. Liquid particles are already touching, so there is almost no empty space to remove; liquids are nearly incompressible.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 1.42",
+  "question": "Four particle diagrams are described below. Identify the state shown in each box. For the two solids, say which is crystalline and which is amorphous. Box P: particles touching one another in neat, repeating rows; each particle jiggles in place. Box Q: particles touching one another, arranged randomly, filling only the bottom part of the box; particles slide past one another. Box R: a few particles spread far apart through the whole box, each moving in a straight line until it hits another particle or a wall. Box S: particles touching one another in a jumbled, non-repeating arrangement; each particle jiggles in place but none moves out of position.",
+  "answer": "P: solid, crystalline (packed, vibrating in place, in a regular repeating pattern). Q: liquid (touching but moving past one another, with a definite volume that sits at the bottom of the container). R: gas (far apart, fast, filling the container). S: solid, amorphous (fixed positions, like a solid, but no repeating pattern, like glass).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 1.43",
+  "question": "Some patients who need oxygen at home use a liquid oxygen system: a reservoir holds very cold liquid O 2 , which warms and turns back into a gas before the patient breathes it. A respiratory therapist explains that a liquid oxygen reservoir holds far more oxygen than a gas cylinder of the same size. (a) Explain why, using the particle view. (b) Is the change from liquid oxygen to oxygen gas a physical or a chemical change? Name it.",
+  "answer": "(a) In liquid oxygen the O 2 molecules are touching. In oxygen gas they are far apart with mostly empty space between them. The same number of molecules therefore takes up far less space as a liquid (when liquid oxygen turns to gas at room temperature, it takes up more than 800 times as much volume), so a small reservoir can store a lot of oxygen. (b) Physical change: vaporization (liquid to gas). The molecules are still O 2 ; only their spacing and motion change.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 1.44",
+  "question": "When you breathe in, your diaphragm (the dome-shaped muscle under your lungs) contracts and moves down, making the chest cavity larger. The air already in the lungs spreads out to fill the larger space. Which statement explains this? A. Gases have a definite volume, so the air keeps the same volume. B. Gases have no definite volume; their particles are far apart and move freely, so they spread to fill any space available. C. Gas particles are touching, so they push each other into the new space. D. The gas particles themselves get bigger when the lungs expand.",
+  "answer": "B. A gas has no definite volume. Its fast-moving particles spread out to fill whatever space they have. A is wrong: a definite volume is a property of solids and liquids, not gases. C is wrong: gas particles are far apart, not touching. D is wrong: the particles do not change size; the space between them changes.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 1.45",
+  "question": "Which pair of particles repels? A. Mg 2+ and Cl &minus; B. a proton and an electron C. F &minus; and O 2&minus; D. Li + and Br &minus;",
+  "answer": "C. Both particles are negative, and like charges repel. (The sizes of the charges differ, but only the signs decide attract or repel.) A: positive and negative attract. B: a proton is positive and an electron is negative, so they attract. D: positive and negative attract.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 1.46",
+  "question": "The table below describes three pairs of oppositely charged ions. Rank the pairs from strongest attraction to weakest, and say which pair would take the most energy to pull apart. Three ion pairs: charges and distances Pair Charges Distance between centers (nm) 1 1+ and 1&minus; 0.30 2 2+ and 2&minus; 0.30 3 1+ and 1&minus; 0.60",
+  "answer": "Change one thing at a time. Pairs 1 and 2 are at the same distance, and pair 2 has larger charges, so pair 2 is stronger than pair 1 . Pairs 1 and 3 have the same charges, and pair 1 is closer, so pair 1 is stronger than pair 3 . Ranking: 2 &gt; 1 &gt; 3. Pair 2, with the strongest attraction, takes the most energy to pull apart.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 1.47",
+  "question": "For each event, say whether energy must be put in or energy is released. (a) A K + ion is pulled away from a Cl &minus; ion. (b) An electron moves closer to a proton. (c) Two Na + ions are pushed closer together. (d) Two electrons that were held close together are allowed to fly apart.",
+  "answer": "(a) Energy put in: separating opposite charges works against their attraction. (b) Energy released: opposite charges coming together is \"downhill.\" (c) Energy put in: forcing like charges together works against their repulsion. (d) Energy released: like charges moving apart is the reverse of (c), so it releases energy.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 1.48",
+  "question": "Each proton carries one unit of positive charge and each electron carries one unit of negative charge. Find the net charge of each particle and say whether it is neutral or an ion. (a) 9 protons and 9 electrons (b) 12 protons and 10 electrons (c) 17 protons and 18 electrons",
+  "answer": "Net charge = (number of protons) &minus; (number of electrons). (a) 9 &minus; 9 = 0: neutral . (b) 12 &minus; 10 = +2: an ion with a 2+ charge (more positive than negative). (c) 17 &minus; 18 = &minus;1: an ion with a 1&minus; charge (one extra electron).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 1.49",
+  "question": "A Na + ion and a Cl &minus; ion are a certain distance apart. Which single change makes the attraction between the two particles stronger? A. Move the two ions farther apart. B. Replace Na + with Mg 2+ , keeping the same distance. C. Replace Cl &minus; with a second Na + . D. Replace both ions with neutral atoms.",
+  "answer": "B. At the same distance, a larger charge gives a stronger attraction, and 2+ is larger than 1+. A weakens the attraction, because the force gets weaker as charges move apart. C gives two positive ions, which repel instead of attract. D removes the net charges, so there is no attraction between ions at all.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 1.50",
+  "question": "The inside of a resting nerve cell is slightly negative compared with the fluid outside it. Considering only the electric charges: (a) Is a Na + ion outside the cell pulled toward the inside or pushed away? (b) What about a chloride ion, Cl &minus; , outside the cell? (c) The cell uses pumps to move Na + from inside to outside. Does moving a positive ion away from the negative interior take energy or release it?",
+  "answer": "(a) Pulled in. Na + is positive and the interior is negative; opposite charges attract. This is the pull that makes Na + rush in when a nerve fires. (b) Pushed away. Cl &minus; and the negative interior have like charges, so the electric force alone repels it. (c) Takes energy. Moving a positive charge away from a negative region is separating opposite charges, which requires an energy input. That is one reason nerve cells spend so much of their energy (as ATP) running these pumps.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 1.51",
+  "question": "In an X-ray tube, a heated filament (the cathode ) releases electrons, and a large voltage makes the target (the anode ) strongly positive. The radiographer sets this voltage as the kVp (peak kilovoltage) on the control panel. (a) Why do the electrons travel from the cathode to the anode? (b) If the anode were made negative instead, what would happen to the electrons? (c) Explain why raising the kVp gives the electrons more energy when they hit the anode.",
+  "answer": "(a) Electrons are negative and the anode is positive; opposite charges attract , so the electrons are pulled toward the anode. (b) Electrons and a negative anode have like charges, so they would repel . The electrons would be pushed away from the target instead of slamming into it, and no X-rays would be produced at the target. (c) A higher kVp makes the anode more strongly positive compared with the cathode, so the pull on each electron is stronger . The electrons speed up more on the way across and arrive with more energy, which produces more penetrating X-rays.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 1.52",
+  "question": "Some Central Valley vineyards and orchards use electrostatic sprayers , which give each tiny spray droplet a small negative charge as it leaves the nozzle. (a) Why do the charged droplets spread out into an even cloud instead of clumping together? (b) The surface of the plant, which is connected to the ground, takes on a slight positive charge on the side facing the cloud of droplets. Why does this help the droplets coat the leaves, even on their undersides?",
+  "answer": "(a) Every droplet carries the same (negative) charge, and like charges repel , so the droplets push away from each other and spread out evenly. (b) The negative droplets and the slightly positive plant surface have opposite charges, which attract . The droplets are pulled toward the leaves and can curve around to stick to hidden surfaces, so less spray drifts away or lands on the ground. The attraction is strongest when the droplets get close to the leaves.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 1.53",
+  "question": "Which of these is a chemical property? A. Isopropyl alcohol evaporates quickly at room temperature. B. Iron tends to rust in moist air. C. Copper conducts electricity. D. Glucose dissolves in water.",
+  "answer": "B. Rusting turns iron into a new substance (iron oxide), so the tendency to rust describes how iron changes into something else: a chemical property. A is a physical property: evaporating alcohol is still alcohol, now as a gas. C is a physical property: electricity passes through copper, and it is still copper afterward. D is a physical property: dissolving is a physical change, and evaporating the water gives the glucose back.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 1.54",
+  "question": "Classify each change as physical or chemical, and give your reason. (a) Chewing breaks a cracker into small pieces. (b) Amylase , an enzyme in saliva (a protein that speeds up a reaction), breaks the starch in the cracker into smaller sugar molecules. (c) A pharmacy dissolves dextrose in sterile water to make an IV fluid. (d) A wooden match burns. (e) An autoclave (a pressurized steam sterilizer used in clinics and labs) turns water into steam. (f) Chlorine bleach removes the color from a coffee stain.",
+  "answer": "(a) Physical: smaller pieces of the same substances. (b) Chemical: starch becomes new substances (sugars). (c) Physical: dissolving; evaporating the water would give the dextrose back. (d) Chemical: wood burns into new substances (carbon dioxide, water vapor, ash), with heat and light given off. (e) Physical: vaporization; the steam is still H 2 O. (f) Chemical: the bleach reacts with the colored substances in the stain, turning them into new, colorless substances.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 1.55",
+  "question": "A lab notebook has five notes about magnesium. Label each as a physical property, a chemical property, a physical change, or a chemical change. (a) Magnesium is a shiny, silvery-gray metal. (b) A strip of magnesium burned with a blinding white light and left a white powder. (c) Magnesium melts at 650 &deg;C. (d) Magnesium reacts with acids to produce hydrogen gas. (e) A magnesium ribbon was bent into a coil.",
+  "answer": "First decide \"property\" (a description of what the substance is or can do) or \"change\" (an event that happened). Then decide physical or chemical by whether a new substance forms. (a) Physical property: appearance, observed without changing the metal. (b) Chemical change: an event in which a new substance (the white powder) formed, with light given off. (c) Physical property: a measured description; melting does not change what the substance is. (d) Chemical property: describes a reaction magnesium can undergo, forming new substances. (e) Physical change: an event, but the coil is still magnesium.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 1.56",
+  "question": "The table below lists six events. Name the change of state in each, and say whether any of them is a chemical change. Six everyday changes of state Event Description (a) Mothballs slowly shrink in a closed closet without ever becoming wet. (b) Droplets form on a bathroom mirror during a hot shower. (c) Liquid nitrogen poured into a cup in a dermatology clinic boils away. (d) On a freezing February night in a Valley orchard, frost forms directly on almond blossoms from water vapor in the air. (e) Melted candle wax hardens as it cools. (f) A frozen bag of blood plasma is thawed before use.",
+  "answer": "(a) Sublimation (solid &rarr; gas; no liquid ever appears). (b) Condensation (water vapor &rarr; liquid). (c) Vaporization , here boiling (liquid &rarr; gas). (d) Deposition (gas &rarr; solid, skipping the liquid). (e) Freezing (liquid &rarr; solid). (f) Melting (solid &rarr; liquid). None is a chemical change. In every change of state, the particles stay the same; only their spacing and motion change.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 1.57",
+  "question": "The large bubbles that rise in a pot of water at a full, rolling boil are mostly: A. hydrogen gas and oxygen gas B. air C. water vapor D. heat",
+  "answer": "C. Boiling is vaporization: liquid water turns into gaseous water (H 2 O) inside the liquid, and those pockets of vapor rise as bubbles. It is a physical change. A would require breaking water molecules apart, a chemical change that boiling does not cause. B is a common mix-up: the tiny bubbles that appear early, as the water first warms, are dissolved air coming out, but the big bubbles of a rolling boil are water vapor. D is wrong because heat is energy, not matter; it cannot fill a bubble.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 1.58",
+  "question": "Which pair contains two intensive properties? A. mass and density B. boiling point and color C. volume and melting point D. mass and volume",
+  "answer": "B. Boiling point and color are the same for a drop or a drum of a substance, so neither depends on the amount. A: density is intensive, but mass is extensive (more sample, more mass). C: melting point is intensive, but volume is extensive. D: both are extensive.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 1.59",
+  "question": "A lab technician has two unlabeled bottles, each holding 50.0 mL of a clear, colorless liquid. She can measure any of these: volume, mass, boiling point, density, color. Which measurements could help identify the liquids? Explain.",
+  "answer": "Boiling point and density. Both are intensive properties that are characteristic of a substance, so they can be compared with values in a reference table. Volume and mass are extensive: they depend on how much liquid is in the bottle, not on what it is. (Mass is useful as one step, because mass divided by volume gives density.) Color is intensive, but both liquids are colorless, so it cannot tell them apart.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 1.60",
+  "question": "A dental hygienist places a sealant (a thin protective coating) on the chewing surface of a molar. The sealant goes on as a thick liquid resin, and a curing light (a bright blue light) makes it harden in seconds as its small molecules link together into a hard solid. The hardened sealant does not turn back into a liquid when warmed. (a) Is curing a physical or a chemical change? (b) Compare it with candle wax hardening as it cools.",
+  "answer": "(a) Chemical change. The resin's molecules bond together into a new substance with different properties (hard, not runny), and warming does not bring back the original liquid. (b) Wax hardening is a physical change (freezing). The wax molecules are the same before and after, and warming the wax melts it back into a liquid. Both changes turn a liquid into a solid, so \"it became solid\" is not enough to decide; the question is whether new substances formed.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 1.61",
+  "question": "Classify each observation as a sign of a physical or a chemical change, and explain. (a) An effervescent (fizzing) tablet dropped into water releases a stream of gas bubbles, though the water is not being heated. (b) Two clear IV medications run through the same line form a cloudy white solid. (c) The sugar coating of a tablet dissolves in the mouth.",
+  "answer": "(a) Chemical. A gas forming without boiling is a sign of a chemical change. Ingredients in the tablet react with each other once wet and produce a new substance, carbon dioxide gas. (b) Chemical (a sign of one). A solid forming when two solutions are mixed is a precipitate, one of the clues of a chemical change. Medications that react this way are called incompatible, which is one reason nurses check IV compatibility and follow pharmacy guidance and facility policy before giving drugs through the same line. (c) Physical. Dissolving spreads the sugar among water molecules; no new substance forms.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 61,
+  "title": "Problem 1.62",
+  "question": "A Central Valley dairy runs these steps. Classify each as a physical or chemical change. (a) Fresh milk is chilled from body temperature to about 4 &deg;C. (b) A centrifuge separates cream from the milk. (c) Bacteria added to milk turn lactose (milk sugar) into lactic acid, thickening it into yogurt. (d) In a covered manure lagoon (a digester ), microbes that live without oxygen break down manure and give off methane gas. (e) The methane is burned in an engine to generate electricity.",
+  "answer": "(a) Physical: only the temperature changes; it is still milk. (b) Physical: separating a mixture by density does not change any substance. (c) Chemical: lactose becomes a new substance, lactic acid. (d) Chemical: manure is broken down into new substances, including methane. (e) Chemical: burning turns methane and oxygen into carbon dioxide and water, releasing energy. Steps (c) and (d) are both done by living microbes; much of the chemistry of life, from yogurt to digestion, is chemical change.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 62,
+  "title": "Problem 1.63",
+  "question": "A clinical lab measures 10.0 mL of a urine sample and finds that it has a mass of 10.2 g. (a) Calculate its density. (b) Why is the sample denser than pure water (1.00 g/mL)?",
+  "answer": "(a) \\( d = \\dfrac{m}{V} = \\dfrac{10.2\\ \\text{g}}{10.0\\ \\text{mL}} = 1.02\\ \\text{g/mL} \\) (b) Urine is mostly water, but it also carries dissolved substances such as salts and urea. Those dissolved particles add mass without adding much volume, so a milliliter of urine has a little more mass than a milliliter of pure water. (Clinicians often report this as specific gravity , the density of the sample compared with that of water.) Check: the mass in grams is slightly more than the volume in milliliters, so the density should be slightly more than 1 g/mL, and it is.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 63,
+  "title": "Problem 1.64",
+  "question": "A radiologic technology student tests a small, flat sample cut from an old X-ray shielding sheet. The sample has a volume of 3.00 cm 3 and a mass of 33.9 g. Calculate its density and use the density table in Section 1.9 to identify the metal.",
+  "answer": "\\( d = \\dfrac{m}{V} = \\dfrac{33.9\\ \\text{g}}{3.00\\ \\text{cm}^3} = 11.3\\ \\text{g/cm}^3 \\) That matches lead (11.3 g/cm 3 ). Lead's high density is one reason it has long been used to block X-rays in shielding and protective aprons. Because 1 cm 3 = 1 mL, this is the same as 11.3 g/mL.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 64,
+  "title": "Problem 1.65",
+  "question": "A student finds the volume of an irregular metal bolt by water displacement: she reads the water level in a graduated cylinder, slides the bolt in, and reads the level again. The rise in the water level equals the bolt's volume. Her data are in the table below. Water displacement data for a metal bolt Measurement Value Mass of bolt 33.8 g Water level before adding the bolt 25.0 mL Water level after adding the bolt 37.5 mL (a) Find the volume of the bolt. (b) Calculate its density. (c) Use the Section 1.9 table to suggest what metal it is.",
+  "answer": "(a) Volume = 37.5 mL &minus; 25.0 mL = 12.5 mL . (b) \\( d = \\dfrac{33.8\\ \\text{g}}{12.5\\ \\text{mL}} = 2.70\\ \\text{g/mL} \\) (the calculator shows 2.704; keep three digits). (c) Aluminum (2.70 g/mL). Check: the bolt is denser than water, which fits with it sinking to the bottom of the cylinder.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 65,
+  "title": "Problem 1.66",
+  "question": "A teaching lab pours four liquids that do not mix into one tall cylinder, then drops in four small objects. The densities are in the table below. Densities of the liquids and objects in a density column Material Type Density (g/mL) Honey liquid 1.42 Vegetable oil liquid 0.92 Dish soap liquid 1.06 Water liquid 1.00 Bead X solid 0.95 Bead Y solid 1.20 Bead Z solid 1.50 Cork solid 0.24 (a) List the liquid layers from top to bottom. (b) Where does each object come to rest?",
+  "answer": "(a) Least dense on top: vegetable oil (0.92), water (1.00), dish soap (1.06), honey (1.42) on the bottom. (b) Each object sinks through every liquid less dense than itself and floats on the first liquid denser than itself. Bead X (0.95): denser than oil, less dense than water, so it rests between the oil and water layers . Bead Y (1.20): denser than oil, water, and soap, less dense than honey, so it rests between the soap and honey layers . Bead Z (1.50): denser than every liquid, so it sinks to the bottom . Cork (0.24): less dense than every liquid, so it floats on top of the oil .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 66,
+  "title": "Problem 1.67",
+  "question": "In winter, many Valley almond and stone-fruit growers spray dormant trees with a horticultural oil mixed into water. A pest-control adviser measures 20.0 mL of the oil and finds a mass of 17.0 g. (a) Calculate the oil's density. (b) If the spray tank sits without stirring, where will the oil end up? (c) Is the oil-and-water spray a homogeneous or heterogeneous mixture, and why must the tank be kept stirred?",
+  "answer": "(a) \\( d = \\dfrac{17.0\\ \\text{g}}{20.0\\ \\text{mL}} = 0.850\\ \\text{g/mL} \\) (b) 0.850 g/mL is less than water's 1.00 g/mL, so the oil rises and floats on top of the water. (c) It is a heterogeneous mixture : oil and water do not dissolve in each other, so they form separate regions. Stirring keeps the oil spread through the water so each part of the orchard gets the same mix; without it, the first trees sprayed would get mostly water and the last ones mostly oil.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 67,
+  "title": "Problem 1.68",
+  "question": "A copper block is cut exactly in half. Which statement about one of the halves is correct? A. Its density is half the density of the original block. B. Its mass and volume are each half of the original, and its density is unchanged. C. Its density is twice the density of the original block. D. Its mass is half of the original, but its volume is unchanged.",
+  "answer": "B. Mass and volume are extensive, so both are cut in half. Density is mass &divide; volume, and halving both leaves the ratio the same: density is intensive. A and C confuse density with an extensive property; the substance is still copper, so its density stays the same. D is wrong: a half block takes up half the space, so its volume also halves.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 68,
+  "title": "Problem 1.69",
+  "question": "Two people have their body density measured by underwater weighing. Person A has a whole-body density of 1.04 g/mL and person B has a whole-body density of 1.07 g/mL. Fat tissue has a density of about 0.90 g/mL and lean tissue about 1.10 g/mL. (a) Which person has the higher percentage of body fat? (b) Which person floats more easily in a pool?",
+  "answer": "(a) Person A. Whole-body density falls between the densities of fat and lean tissue, and more fat pulls it closer to 0.90 g/mL. Person A's lower density (1.04 versus 1.07 g/mL) means a larger share of fat. (b) Person A. A lower density is closer to (and, with a breath of air in the lungs, can drop below) water's 1.00 g/mL, and an object less dense than water floats.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 69,
+  "title": "Problem 1.70",
+  "question": "Which object will float in water (1.00 g/mL)? A. mass 12.0 g, volume 10.0 mL B. mass 9.50 g, volume 10.0 mL C. mass 25.5 g, volume 25.0 mL D. mass 5.00 g, volume 4.00 mL",
+  "answer": "B. Calculate each density and compare with 1.00 g/mL: A: 12.0 g &divide; 10.0 mL = 1.20 g/mL, denser than water, so it sinks. B: 9.50 g &divide; 10.0 mL = 0.950 g/mL, less dense than water, so it floats. C: 25.5 g &divide; 25.0 mL = 1.02 g/mL, slightly denser than water, so it sinks (slowly). D: 5.00 g &divide; 4.00 mL = 1.25 g/mL, denser than water, so it sinks. Notice that C has the largest mass and B is not the lightest object; floating depends on density, not on mass alone.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 70,
+  "title": "Problem 1.71",
+  "question": "A compounding pharmacy needs 50.0 g of glycerin (density 1.26 g/mL) for a batch of skin cream. Glycerin is thick and hard to weigh, so the technician measures it by volume. What volume should she measure?",
+  "answer": "Use density as a conversion factor. You start with grams and want milliliters, so put grams on the bottom (flip the density): \\( 50.0\\ \\text{g} \\times \\dfrac{1\\ \\text{mL}}{1.26\\ \\text{g}} = 39.68\\ \\text{mL} \\) Both values have three significant figures: 39.7 mL . Check: glycerin is denser than water, so 50.0 g takes up less than 50.0 mL, and it does. Multiplying instead (50.0 &times; 1.26 = 63.0) would give units of g 2 /mL and a volume larger than 50 mL, which cannot be right for a liquid denser than water.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 71,
+  "title": "Problem 1.72",
+  "question": "A Lodi winery lab measures out a 250. mL sample of wine to test. The wine's density is 0.993 g/mL. What is the mass of the sample?",
+  "answer": "You start with milliliters and want grams, so use the density with mL on the bottom: \\( 250.\\ \\text{mL} \\times \\dfrac{0.993\\ \\text{g}}{1\\ \\text{mL}} = 248.25\\ \\text{g} \\) The decimal point in 250. mL means three significant figures, and 0.993 g/mL has three, so the mass is 248 g . Check: the density is just under 1 g/mL (the alcohol in wine is less dense than water), so the mass in grams is just under the volume in milliliters.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 72,
+  "title": "Problem 1.73",
+  "question": "A radiologic technology program replaces a lead shield. The lead in the shield has a volume of 84.0 cm 3 , and lead has a density of 11.3 g/cm 3 . What is the mass of the lead in kilograms?",
+  "answer": "Chain the conversions: volume &rarr; grams (density) &rarr; kilograms. \\( 84.0\\ \\text{cm}^3 \\times \\dfrac{11.3\\ \\text{g}}{1\\ \\text{cm}^3} \\times \\dfrac{1\\ \\text{kg}}{1000\\ \\text{g}} = 0.9492\\ \\text{kg} \\) Three significant figures: 0.949 kg (949 g). Even a small volume of lead is heavy, which is one reason lead aprons feel heavy during long procedures.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 73,
+  "title": "Problem 1.74",
+  "question": "A Valley beekeeper sells honey in jars. Honey has a density of 1.42 g/mL. What volume, in liters, does 1.50 kg of honey occupy?",
+  "answer": "Convert kilograms to grams, use the density (flipped, so grams cancel) to get milliliters, then convert to liters: \\( 1.50\\ \\text{kg} \\times \\dfrac{1000\\ \\text{g}}{1\\ \\text{kg}} \\times \\dfrac{1\\ \\text{mL}}{1.42\\ \\text{g}} \\times \\dfrac{1\\ \\text{L}}{1000\\ \\text{mL}} = 1.056\\ \\text{L} \\) Three significant figures: 1.06 L . Check: honey is denser than water, and 1.50 kg of water would fill 1.50 L, so the honey should take up less than 1.50 L. It does.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 74,
+  "title": "Problem 1.75",
+  "question": "A science-night demonstrator drops a chunk of dry ice (solid CO 2 , density about 1.5 g/cm 3 ) into a bowl of warm water. It bubbles, and a thick white fog rolls over the rim of the bowl. First, the white fog is mostly: A. carbon dioxide gas B. tiny droplets of liquid water condensed from water vapor in the air that the very cold CO 2 gas chilled C. smoke from the dry ice burning D. hydrogen and oxygen gas from water breaking apart Then answer: (e) Does the dry ice sink or float? (f) Name the change of state the dry ice undergoes. (g) Classify CO 2 as an element, compound, or mixture. (h) Are the bubbles evidence of a chemical change?",
+  "answer": "B. Carbon dioxide gas is colorless and invisible. The very cold CO 2 gas chills the moist air above the bowl, and the water vapor condenses into tiny droplets that you see as fog (the same physical change that makes tule fog). A is wrong: CO 2 gas is invisible, so it cannot be the white fog. C is wrong: nothing is burning; there is no flame and no new substance. D is wrong: breaking water into hydrogen and oxygen is a chemical change that warm water and dry ice do not cause. (e) Sinks: about 1.5 g/cm 3 is greater than water's 1.00 g/mL (1 cm 3 = 1 mL). (f) Sublimation (solid &rarr; gas), a physical change. (g) Compound: carbon and oxygen bonded in a fixed 1:2 ratio. (h) No. The bubbles are CO 2 gas from the dry ice subliming, and the CO 2 was already there as a solid. A gas forming is only a clue to a chemical change; here no new substance forms.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 75,
+  "title": "Problem 1.76",
+  "question": "Heliox is a breathing gas made of helium and oxygen, commonly 80% helium and 20% oxygen, though 70:30 blends are also used. Respiratory therapists sometimes deliver it, on a provider's order, to patients with a narrowed airway, because a less dense gas flows through a narrow passage more easily. Near room temperature, 80:20 heliox has a density of about 0.40 g/L, and air about 1.2 g/L. (a) Classify helium, oxygen, and heliox. (b) What fact in the description shows heliox is a mixture? (c) Which is less dense, heliox or air? (d) Why are the densities of gases given in g/L instead of g/mL? (e) Is density an intensive or extensive property, and would 1 L and 10 L of the same heliox blend have the same density?",
+  "answer": "(a) Helium: element (exists as single He atoms). Oxygen: element (diatomic O 2 ). Heliox: homogeneous mixture of two elements (the gases are spread evenly through each other). (b) It comes in different proportions (80:20 or 70:30). A mixture's composition can vary; a compound's cannot. (c) Heliox : 0.40 g/L is about one-third of air's 1.2 g/L. (d) Gas particles are far apart, so a milliliter of gas has a tiny mass. Using liters gives numbers that are easier to read (1.2 g/L instead of 0.0012 g/mL). (e) Density is intensive , so 1 L and 10 L of the same blend at the same temperature and pressure have the same density ; the 10 L sample has ten times the mass and ten times the volume.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 76,
+  "title": "Problem 1.77",
+  "question": "A piece of pure copper is drawn into a thin wire. When the wire is held in a flame, its surface turns black as copper combines with oxygen from the air. A different piece of the same copper has a mass of 44.8 g and a volume of 5.00 mL. (a) Classify copper as an element, compound, or mixture. (b) Is drawing copper into wire a physical or a chemical change? (c) Is the black coating that forms in the flame a sign of a physical or a chemical change? (d) Calculate the density of the copper. (e) What would the density of a piece twice as large be?",
+  "answer": "(a) Element: pure copper contains only Cu atoms. (b) Physical change: the shape changes, but it is still copper. (c) Chemical change: copper and oxygen combine into a new black substance, a compound of copper and oxygen. The new color is a clue, and a new substance really did form. (d) \\( d = \\dfrac{44.8\\ \\text{g}}{5.00\\ \\text{mL}} = 8.96\\ \\text{g/mL} \\) (e) Still 8.96 g/mL. Doubling the piece doubles both mass and volume; density is intensive.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 77,
+  "title": "Problem 1.78",
+  "question": "A student finds an unlabeled bottle of clear liquid in the stockroom and forms the hypothesis \"This liquid is ethanol (density 0.789 g/mL).\" She measures three different volumes of the liquid. Her data are in the table below. Mass and volume of three samples of an unknown liquid Trial Volume (mL) Mass (g) 1 20.0 15.8 2 15.0 11.8 3 25.0 19.7 (a) Calculate the density for each trial. (b) Do the data support her hypothesis? (c) The volumes were different, so why are the densities nearly the same? (d) Do the data prove the liquid is ethanol? Suggest one more physical property she could measure.",
+  "answer": "(a) Trial 1: 15.8 g &divide; 20.0 mL = 0.790 g/mL . Trial 2: 11.8 g &divide; 15.0 mL = 0.787 g/mL (calculator: 0.78667). Trial 3: 19.7 g &divide; 25.0 mL = 0.788 g/mL . (b) Yes. All three values are within 0.002 g/mL of ethanol's 0.789 g/mL. (c) Density is intensive . A larger sample has proportionally more mass and more volume, so the ratio stays the same. The small differences come from normal measurement limits. (d) No. The data support the hypothesis but do not prove it; another liquid could have a similar density. Measuring a second intensive property, such as the boiling point (ethanol boils at 78 &deg;C), would be a stronger test. If both match, she can be much more confident. This is the scientific method at work: test a hypothesis more than one way.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 78,
+  "title": "Problem 1.79",
+  "question": "A student measures a small metal cube. A ruler marked every 0.1 cm gives an edge length of 2.50 cm, and a balance gives a mass of 42.2 g. (a) Why does she record the edge as 2.50 cm and not 2.5 cm? (b) Calculate the volume of the cube. (c) Calculate its density. (d) Use the density table in Section 1.9 to identify the metal. (e) Is the metal an element, a compound, or a mixture? (f) Is density a physical or a chemical property?",
+  "answer": "(a) With marks every 0.1 cm, she can estimate one more digit, the hundredths. The final 0 is her estimated digit: the edge lines up with the 2.5 mark. Writing 2.5 cm would throw that information away. (b) V = (2.50 cm) 3 = 2.50 cm &times; 2.50 cm &times; 2.50 cm = 15.625 cm 3 &rarr; 15.6 cm 3 (three significant figures). Keep 15.625 in the calculator for the next step. (c) \\( d = \\dfrac{42.2\\ \\text{g}}{15.625\\ \\text{cm}^3} = 2.7008\\ \\text{g/cm}^3 \\) &rarr; 2.70 g/cm 3 . (d) Aluminum (2.70 g/cm 3 ). (e) Element: pure aluminum contains only Al atoms. (f) Physical property: measuring mass and volume does not change the aluminum into a new substance.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 79,
+  "title": "Problem 1.80",
+  "question": "Normal saline, a common IV fluid, contains 0.90 g of sodium chloride (NaCl) dissolved in every 100. mL of solution. (a) Classify normal saline, sodium chloride, and water as an element, a compound, a homogeneous mixture, or a heterogeneous mixture. (b) How many grams of NaCl are in a 1.00 L bag? (c) Express that mass in milligrams, using scientific notation.",
+  "answer": "(a) Normal saline: homogeneous mixture (the salt is spread evenly through the water, and the proportions could be changed). Sodium chloride: compound (Na and Cl in a fixed 1:1 ratio). Water: compound (H and O in a fixed 2:1 ratio). (b) Use the concentration as a conversion factor: \\( 1.00\\ \\text{L} \\times \\dfrac{1000\\ \\text{mL}}{1\\ \\text{L}} \\times \\dfrac{0.90\\ \\text{g NaCl}}{100.\\ \\text{mL}} = 9.0\\ \\text{g NaCl} \\) 0.90 g has two significant figures, so the answer is 9.0 g . (c) \\( 9.0\\ \\text{g} \\times \\dfrac{1000\\ \\text{mg}}{1\\ \\text{g}} = 9.0 \\times 10^{3}\\ \\text{mg} \\) The mass is 9.0 &times; 10 3 mg . Writing 9000 mg would show only one significant figure under this book's rule, so scientific notation is the clear way to show two.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 80,
+  "title": "Problem 1.81",
+  "question": "A 10 mL graduated cylinder is marked every 0.1 mL. The bottom of the meniscus is about three-tenths of the way from the 4.7 mL mark to the 4.8 mL mark. Which is the correct way to record the volume? A. 4.7 mL B. 4.73 mL C. 4.730 mL D. 5 mL",
+  "answer": "B. The 0.1 mL marks make the tenths place certain (4.7), and you estimate one more digit, the hundredths (about 3). The reading has 3 significant figures. A: stops at the last tick mark and throws away the estimated digit the cylinder allows. C: claims a second estimated digit (the thousandths) that no one can read from 0.1 mL marks. D: rounds to the nearest whole milliliter, which is the precision of a much coarser tool, not this one.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 81,
+  "title": "Problem 1.82",
+  "question": "A machinist in Fresno weighs a small brass fitting: 42.5 g. She lowers it into a graduated cylinder, and the water level rises from 25.0 mL to 30.0 mL. (a) What is the volume of the fitting? (b) What is its density? (c) A classmate divides 42.5 g by 30.0 mL. What answer does he get, and how could he tell it is wrong? (d) Why does the density have only 2 significant figures when every measurement has 3?",
+  "answer": "(a) V = 30.0 mL &minus; 25.0 mL = 5.0 mL . (b) \\( d = \\dfrac{42.5\\ \\text{g}}{5.0\\ \\text{mL}} = 8.5\\ \\text{g/mL} \\), typical of brass (an alloy of copper and zinc). (c) 42.5 g &divide; 30.0 mL = 1.42 g/mL. That is barely denser than water, but the fitting is metal, and most common metals (iron, copper, brass, lead) are above 7 g/mL. He used the final volume instead of the change in volume. (d) In subtraction, the answer keeps the fewest decimal places (one), so 30.0 &minus; 25.0 = 5.0 mL has only 2 significant figures. The density can be no more precise than that volume. A 10 mL cylinder marked every 0.1 mL (two decimal places), or a larger sample that makes a bigger rise, would give more significant figures.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 82,
+  "title": "Problem 1.83",
+  "question": "A 67-year-old patient in Merced uses home oxygen at a flow rate of 2.0 L/min. The room is 22 &deg;C. His portable cylinder holds 680. L of oxygen. How many hours will the cylinder last at this flow? (Context only; this is math practice, not guidance about oxygen use.)",
+  "answer": "Given: 680. L O 2 (stands alone); 2.0 L/min (the slash makes it a conversion factor). Desired: ??? h. The age, the city, and the room temperature are distractors. \\( 680.\\ \\text{L} \\times \\dfrac{1\\ \\text{min}}{2.0\\ \\text{L}} \\times \\dfrac{1\\ \\text{h}}{60\\ \\text{min}} = 5.67\\ \\text{h} \\to 5.7\\ \\text{h} \\) The flow rate has 2 significant figures, so the answer is 5.7 h . Check: 2 L each minute is 120 L each hour, and 680 &divide; 120 is between 5 and 6.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 83,
+  "title": "Problem 1.84",
+  "question": "Math practice only; always follow the order and facility policy. A child who weighs 44.0 lb has an order for a drug at 15.0 mg per kg of body weight per dose, every 6 hours (4 doses a day). The oral suspension contains 160. mg per 5.00 mL. Use 1 kg = 2.2046 lb. (a) How many milligrams is one dose? (b) What volume is one dose? (c) What total volume does the child receive in a day?",
+  "answer": "(a) Start with the stand-alone weight; label body and drug. \\( 44.0\\ \\text{lb body} \\times \\dfrac{1\\ \\text{kg body}}{2.2046\\ \\text{lb body}} \\times \\dfrac{15.0\\ \\text{mg drug}}{1\\ \\text{kg body}} = 299.4\\ \\text{mg drug} \\) One dose is 299 mg (3 significant figures). (b) Carry 299.4 mg, and put mg on the bottom of the label factor: \\( 299.4\\ \\text{mg drug} \\times \\dfrac{5.00\\ \\text{mL}}{160.\\ \\text{mg drug}} = 9.355\\ \\text{mL} \\to 9.35\\ \\text{mL} \\) (c) 9.355 mL per dose &times; 4 doses per day (a count, exact) = 37.42 mL &rarr; 37.4 mL per day . Check: 44 lb is about 20 kg; 20 &times; 15 = 300 mg; at 32 mg per mL (160 &divide; 5), 300 mg is a little over 9 mL. Common slips: using 44.0 lb as if it were kilograms gives 660 mg, more than twice the order; multiplying by 160 and dividing by 5.00 (label upside down) gives mg&sup2;/mL, not mL.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 84,
+  "title": "Problem 1.85",
+  "question": "A toothpaste contains 0.243% sodium fluoride (NaF) by mass. How much sodium fluoride is in a 1.40 g strip of toothpaste on a brush? A. 3.40 mg NaF B. 340 mg NaF C. 576 g NaF D. 0.00340 mg NaF",
+  "answer": "A. Write the percent as a conversion factor with both substances labeled, then convert to milligrams: \\( 1.40\\ \\text{g toothpaste} \\times \\dfrac{0.243\\ \\text{g NaF}}{100\\ \\text{g toothpaste}} \\times \\dfrac{1000\\ \\text{mg}}{1\\ \\text{g}} = 3.40\\ \\text{mg NaF} \\) B: uses 0.243 as if it were already a decimal fraction (0.243 instead of 0.243/100), giving 0.340 g = 340 mg, a hundred times too much. A part cannot be a quarter of a strip that is mostly not NaF. C: flips the percent factor (toothpaste on top), so grams of toothpaste do not cancel; the \"part\" comes out hundreds of times larger than the whole. D: stops at grams (0.00340 g) and labels it mg, skipping the g &rarr; mg step; a smaller unit must give a larger number. (Context only; dental hygienists use these numbers to explain fluoride content, not to set doses.)",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.11_practice_problems.html",
+  "idx": 85,
+  "title": "Problem 1.86",
+  "question": "A 50.0 mL sample of a clear, colorless liquid has a mass of 63.0 g. Using the density table in Section 1.9 (water 1.00, ethanol 0.789, methanol 0.792, glycerol 1.26 g/mL), what is the liquid most likely to be? A. water B. ethanol C. glycerol D. It cannot be identified, because 50.0 mL is too small a sample.",
+  "answer": "C. d = 63.0 g &divide; 50.0 mL = 1.26 g/mL, which matches glycerol. A: water would have a mass of about 50.0 g for 50.0 mL (1.00 g/mL); this sample is heavier than that, so it is denser than water. B: ethanol (0.789 g/mL) would have a mass of about 39.5 g for 50.0 mL, far below 63.0 g; any liquid less dense than water is ruled out. D: density is intensive, so it does not depend on the size of the sample; a drop and a gallon of a liquid have the same density.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Write each number in scientific notation, keeping its significant figures: (a) 0.000450 g; (b) 6,020,000 cells; (c) 0.0302 m; (d) 93,000,000 mi.",
+  "answer": "(a) 4.50 &times; 10 &minus;4 g (the trailing zero after the decimal point is significant, so keep it). (b) 6.02 &times; 10 6 cells (trailing zeros without a decimal point are not significant). (c) 3.02 &times; 10 &minus;2 m (the sandwiched zero counts). (d) 9.3 &times; 10 7 mi . Small numbers get negative exponents; large numbers get positive ones.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Write each in standard notation: (a) a white blood cell count of 7.5 &times; 10 3 cells/&micro;L; (b) 2.8 &times; 10 &minus;3 g; (c) 1.050 &times; 10 5 m. For (c), what is lost when you write it in standard notation?",
+  "answer": "(a) 7,500 cells/&micro;L . (b) 0.0028 g (a negative exponent moves the decimal point to the left). (c) 105,000 m . In standard notation the last two zeros are not significant under this book's rule, so 105,000 shows only 3 significant figures, while 1.050 &times; 10 5 shows 4. Scientific notation is the only clear way to show that the zero after the 5 was measured.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Which is the correct scientific notation for 0.0007203 m? A. 7.203 &times; 10 &minus;4 m B. 7.203 &times; 10 4 m C. 72.03 &times; 10 &minus;5 m D. 7.2 &times; 10 &minus;4 m",
+  "answer": "A. Move the decimal point 4 places to the right to get 7.203; a number smaller than 1 gets a negative exponent. All 4 significant figures (7, 2, 0, 3) stay. B: the exponent has the wrong sign; 7.203 &times; 10 4 is 72,030, a large number. C: has the right value, but the first part (72.03) is not between 1 and 10, so it is not proper scientific notation. D: drops the significant figures 0 and 3. The sandwiched zero counts, so the number has 4 significant figures, not 2.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Use your calculator and give each answer in scientific notation with the correct significant figures: (a) (6.0221 &times; 10 23 ) &times; (2.50 &times; 10 &minus;3 ); (b) (4.8 &times; 10 &minus;5 ) &divide; (1.6 &times; 10 &minus;2 ).",
+  "answer": "(a) 1.5055 &times; 10 21 &rarr; 1.51 &times; 10 21 (3 significant figures, from 2.50). (b) 3.0 &times; 10 &minus;3 (2 significant figures; the calculator shows 0.003, so add the significant zero). On the TI-36X Pro, enter each number with the &times;10 n key, not as \"&times; 10 ^,\" to avoid order-of-operations errors.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "A urine culture grows 1.2 &times; 10 5 colony-forming units (CFU) of bacteria per milliliter. How many CFU are in 0.50 mL of that urine?",
+  "answer": "\\( 0.50\\ \\text{mL} \\times \\dfrac{1.2 \\times 10^{5}\\ \\text{CFU}}{1\\ \\text{mL}} = \\) 6.0 &times; 10 4 CFU (2 significant figures). Microbiology labs report counts in scientific notation because the numbers are so large.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "question": "Give the power of ten each prefix stands for: (a) kilo- (k); (b) centi- (c); (c) milli- (m); (d) micro- (&micro;, written \"mcg\" for micrograms in health care); (e) nano- (n).",
+  "answer": "(a) 10 3 ; (b) 10 &minus;2 ; (c) 10 &minus;3 ; (d) 10 &minus;6 ; (e) 10 &minus;9 . So 1 kg = 1000 g, 100 cm = 1 m, 1000 mg = 1 g, 10 6 mcg = 1 g, and 10 9 nm = 1 m.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 6,
+  "title": "Exercise \\(\\PageIndex{7}\\)",
+  "question": "Which mass is the largest? A. 0.025 kg B. 3.0 &times; 10 4 mg C. 2.5 &times; 10 7 &micro;g D. 2.0 &times; 10 &minus;5 Mg",
+  "answer": "B. Convert each to grams: 3.0 &times; 10 4 mg &times; (1 g / 1000 mg) = 30. g, the largest. A: 0.025 kg &times; (1000 g / 1 kg) = 25 g. C: 2.5 &times; 10 7 &micro;g &times; (1 g / 10 6 &micro;g) = 25 g; a big exponent on a tiny unit does not mean a big mass. D: 2.0 &times; 10 &minus;5 Mg &times; (10 6 g / 1 Mg) = 20. g; a megagram is huge, but the number in front is tiny.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 7,
+  "title": "Exercise \\(\\PageIndex{8}\\)",
+  "question": "Choose a sensible metric unit for each: (a) the mass of a newborn; (b) the amount of vitamin B 12 in one tablet; (c) the diameter of a red blood cell; (d) the volume of an IV bag.",
+  "answer": "(a) kg (newborns are about 3 to 4 kg). (b) mcg (micrograms; vitamin B 12 doses on labels are written in micrograms). (c) &micro;m (micrometers; a red blood cell is about 7 to 8 &micro;m across). (d) mL or L (common bags hold 250 mL to 1 L). A good unit keeps the number between about 0.1 and 1000.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 8,
+  "title": "Exercise \\(\\PageIndex{9}\\)",
+  "question": "How many significant figures are in each? (a) 0.00720 g; (b) 4005 mL; (c) 1200 mg; (d) 1200. mg; (e) 6.020 &times; 10 &minus;3 L; (f) 12 patients in a ward.",
+  "answer": "(a) 3 : leading zeros are placeholders; the trailing zero after the decimal point counts. (b) 4 : sandwiched zeros count. (c) 2 : trailing zeros with no decimal point do not count. (d) 4 : the decimal point makes the trailing zeros significant. (e) 4 : in scientific notation, every digit in the first part counts. (f) Exact (unlimited): 12 patients is a count, not a measurement.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 9,
+  "title": "Exercise \\(\\PageIndex{10}\\)",
+  "question": "A clinic scale gives readings of 72.4 kg, 72.5 kg, and 72.4 kg for a patient. On a newly calibrated scale, the same patient weighs 70.1 kg. The clinic scale is: A. precise but not accurate B. accurate but not precise C. both accurate and precise D. neither accurate nor precise",
+  "answer": "A. The three readings agree closely with each other (precise), but all are about 2.3 kg too high (not accurate). This is the pattern of a systematic error, such as a scale that is out of calibration; it can be fixed by recalibrating. B: accurate means close to the true value; 72.4 kg is not close to 70.1 kg. C: the readings are precise, but precision alone does not make them correct. D: the readings are within 0.1 kg of each other, so they are precise.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 10,
+  "title": "Exercise \\(\\PageIndex{11}\\)",
+  "question": "In lab, a student correctly records a volume as \"5.0 mL.\" Later, on a practice medication order, the student writes \"5.0 mg\" and \".5 mg.\" Explain why the lab entry is correct but both order entries should be rewritten.",
+  "answer": "In a lab notebook, the trailing zero in 5.0 mL tells the reader the volume was measured to the tenths place, which is good significant-figure practice. On medication orders, The Joint Commission's \"Do Not Use\" list forbids trailing zeros (\"5.0 mg\" can be misread as 50 mg if the decimal point is missed) and requires a leading zero (\".5 mg\" can be misread as 5 mg). The order should read 5 mg and 0.5 mg . Lab reports and medication orders follow different rules because they guard against different risks: hiding precision in one, a tenfold dosing error in the other.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 11,
+  "title": "Exercise \\(\\PageIndex{12}\\)",
+  "question": "A lab reports serum potassium as 4.1 mmol/L. How many significant figures does it have, and what does the report claim about the uncertainty? Why would the lab not report 4.137 mmol/L, even if the analyzer displayed it?",
+  "answer": "2 significant figures ; the value is reliable to the tenths place (uncertain by about &plusmn;0.1 mmol/L). Reporting 4.137 would claim precision to the thousandths place that the method cannot deliver, which would make small, meaningless changes from day to day look like real changes in the patient.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 12,
+  "title": "Exercise \\(\\PageIndex{13}\\)",
+  "question": "Calculate and round correctly: (a) 12.45 mL + 3.1 mL + 0.567 mL; (b) 4.50 cm &times; 0.0320 cm; (c) 98.6 &deg;F &minus; 97.92 &deg;F; (d) 2.0 g &divide; 3.000 mL.",
+  "answer": "(a) 16.117 &rarr; 16.1 mL (addition: fewest decimal places, tenths from 3.1). (b) 0.144 &rarr; 0.144 cm 2 (multiplication: fewest significant figures, 3; the units multiply too). (c) 0.68 &rarr; 0.7 &deg;F (subtraction: tenths, from 98.6). (d) 0.6667 &rarr; 0.67 g/mL (division: 2 significant figures, from 2.0).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 13,
+  "title": "Exercise \\(\\PageIndex{14}\\)",
+  "question": "Round 6,451.7 to 2 significant figures. A. 6.5 &times; 10 3 B. 650 C. 6.4 &times; 10 3 D. 6,450",
+  "answer": "A. Underline the second digit (6, 4 51.7); the digit to its right is 5, so round the 4 up to 5. Then keep the number's size with placeholder zeros or scientific notation: 6,500 or 6.5 &times; 10 3 . B: drops a placeholder zero; 650 is ten times too small. If someone owed you &#36;6,500 and paid &#36;650, you would notice. C: cuts off (truncates) instead of rounding; the 5 after the underlined digit means round up. D: keeps 3 significant figures, not 2.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 14,
+  "title": "Exercise \\(\\PageIndex{15}\\)",
+  "question": "Calculate (25.62 &minus; 3.4) &times; 1.205 &divide; 2.50 to the correct number of significant figures.",
+  "answer": "Work the parentheses first: 25.62 &minus; 3.4 = 22.22. The subtraction is good to the tenths place, so underline the last significant digit: 22. 2 2 (3 significant figures). Keep all the digits and continue: 22.22 &times; 1.205 &divide; 2.50 = 10.71. The fewest significant figures in the multiplication and division steps is 3 (22.2 and 2.50), so the answer is 10.7 . Round only at the end.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 15,
+  "title": "Exercise \\(\\PageIndex{16}\\)",
+  "question": "A pressure ulcer measures 2.5 cm by 1.25 cm. Estimate its area (length &times; width) with the correct units and significant figures.",
+  "answer": "2.5 cm &times; 1.25 cm = 3.125 cm 2 &rarr; 3.1 cm 2 (2 significant figures, from 2.5 cm). Multiplying cm by cm gives cm 2 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 16,
+  "title": "Exercise \\(\\PageIndex{17}\\)",
+  "question": "(a) A glass thermometer is marked every 1 &deg;C. The liquid ends about four-tenths of the way from 37 to 38. Record the reading. (b) A graduated cylinder is marked every 1 mL. The bottom of the meniscus sits about three-tenths of the way from 23 to 24. Record the volume.",
+  "answer": "Estimate one digit past the smallest marking. (a) 37.4 &deg;C (3 significant figures; the 4 is estimated). (b) 23.3 mL , read at the bottom of the meniscus. Writing 37 &deg;C or 23 mL would throw away information you measured.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 17,
+  "title": "Exercise \\(\\PageIndex{18}\\)",
+  "question": "A digital analytical balance displays 2.0500 g. What should you record? A. 2.0500 g B. 2.05 g C. 2.050 g D. 2 g",
+  "answer": "A. Record every digit a digital balance shows, including trailing zeros; they are measured, so 2.0500 g has 5 significant figures. B: drops two measured zeros and makes the balance look 100 times less precise than it is. C: drops one measured zero. D: throws away almost all of the measurement.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 18,
+  "title": "Exercise \\(\\PageIndex{19}\\)",
+  "question": "A newborn weighs 7.25 lb. What is the weight in kilograms? (1 kg = 2.2046 lb)",
+  "answer": "\\( 7.25\\ \\text{lb} \\times \\dfrac{1\\ \\text{kg}}{2.2046\\ \\text{lb}} = 3.289\\ \\text{kg} \\to \\) 3.29 kg (3 significant figures). Size check: the number of kilograms is less than half the number of pounds.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 19,
+  "title": "Exercise \\(\\PageIndex{20}\\)",
+  "question": "(Math practice only.) An order is written as 0.250 mg. How many micrograms (mcg) is this? A. 2.50 &times; 10 2 mcg B. 2.50 &times; 10 &minus;4 mcg C. 25.0 mcg D. 2.50 &times; 10 5 mcg",
+  "answer": "A. \\( 0.250\\ \\text{mg} \\times \\dfrac{1\\ \\text{g}}{1000\\ \\text{mg}} \\times \\dfrac{10^{6}\\ \\text{mcg}}{1\\ \\text{g}} = 250.\\ \\text{mcg} = 2.50 \\times 10^{2}\\ \\text{mcg} \\). A smaller unit gives a bigger number. B: divides by 1000 instead of multiplying; the factor 1000 mcg = 1 mg was used upside down, and the number got smaller even though the unit got smaller. C: uses 100 mcg = 1 mg, a made-up factor. Go through the base unit and use factors from the sheet. D: multiplies by 10 6 as if the order were in grams; it skips the mg &rarr; g step and is 1000 times too large.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 20,
+  "title": "Exercise \\(\\PageIndex{21}\\)",
+  "question": "A cup of yogurt is labeled 6.0 oz. What is its mass in grams? (1 g = 0.03527 oz)",
+  "answer": "\\( 6.0\\ \\text{oz} \\times \\dfrac{1\\ \\text{g}}{0.03527\\ \\text{oz}} = 170.1\\ \\text{g} \\to \\) 1.7 &times; 10 2 g (2 significant figures, from 6.0 oz; \"170 g\" also shows 2 under this book's rule).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 21,
+  "title": "Exercise \\(\\PageIndex{22}\\)",
+  "question": "Convert 4.5 &times; 10 &minus;3 kg to milligrams.",
+  "answer": "\\( 4.5 \\times 10^{-3}\\ \\text{kg} \\times \\dfrac{1000\\ \\text{g}}{1\\ \\text{kg}} \\times \\dfrac{1000\\ \\text{mg}}{1\\ \\text{g}} = \\) 4.5 &times; 10 3 mg (through the base unit, grams).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 22,
+  "title": "Exercise \\(\\PageIndex{23}\\)",
+  "question": "A resting heart rate is 72 beats/min. About how many times does the heart beat in one day?",
+  "answer": "\\( \\dfrac{72\\ \\text{beats}}{1\\ \\text{min}} \\times \\dfrac{60\\ \\text{min}}{1\\ \\text{h}} \\times \\dfrac{24\\ \\text{h}}{1\\ \\text{day}} = 103{,}680 \\to \\) 1.0 &times; 10 5 beats/day (2 significant figures, from 72; the time factors are exact).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 23,
+  "title": "Exercise \\(\\PageIndex{24}\\)",
+  "question": "A blood glucose result is 110 mg/dL. Express it in g/L. (10 dL = 1 L)",
+  "answer": "\\( \\dfrac{110\\ \\text{mg}}{1\\ \\text{dL}} \\times \\dfrac{1\\ \\text{g}}{1000\\ \\text{mg}} \\times \\dfrac{10\\ \\text{dL}}{1\\ \\text{L}} = \\) 1.1 g/L (110 has 2 significant figures under this book's rule).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 24,
+  "title": "Exercise \\(\\PageIndex{25}\\)",
+  "question": "The speed limit on a stretch of Highway 99 is 65 mi/h. What is this in m/s? (1 mi = 1.6093 km)",
+  "answer": "\\( \\dfrac{65\\ \\text{mi}}{1\\ \\text{h}} \\times \\dfrac{1.6093\\ \\text{km}}{1\\ \\text{mi}} \\times \\dfrac{1000\\ \\text{m}}{1\\ \\text{km}} \\times \\dfrac{1\\ \\text{h}}{60\\ \\text{min}} \\times \\dfrac{1\\ \\text{min}}{60\\ \\text{s}} = 29.06 \\to \\) 29 m/s (2 significant figures). Distance first, then time.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 25,
+  "title": "Exercise \\(\\PageIndex{26}\\)",
+  "question": "(Math practice only.) An IV runs continuously at 125 mL/h. How many liters does it deliver per day? A. 3.00 L/day B. 3.00 &times; 10 3 L/day C. 5.21 &times; 10 &minus;3 L/day D. 0.125 L/day",
+  "answer": "A. \\( \\dfrac{125\\ \\text{mL}}{1\\ \\text{h}} \\times \\dfrac{24\\ \\text{h}}{1\\ \\text{day}} \\times \\dfrac{1\\ \\text{L}}{1000\\ \\text{mL}} = 3.00\\ \\text{L/day} \\) (3 significant figures; 24 h = 1 day is exact). B: 3000 is the number of milliliters per day; the mL &rarr; L step was skipped. C: divides by 24 instead of multiplying; \"per hour\" on the bottom needs 24 h on the top of the next factor to cancel. D: converts mL to L but never converts hours to days, so it is still the volume per hour.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 26,
+  "title": "Exercise \\(\\PageIndex{27}\\)",
+  "question": "Convert 4.0 &times; 10 4 cm 2 to m 2 . A. 4.0 m 2 B. 4.0 &times; 10 2 m 2 C. 4.0 &times; 10 8 m 2 D. 0.040 m 2",
+  "answer": "A. \\( 4.0 \\times 10^{4}\\ \\text{cm}^{2} \\times \\left(\\dfrac{1\\ \\text{m}}{100\\ \\text{cm}}\\right)^{2} = 4.0 \\times 10^{4} \\div 10^{4} = 4.0\\ \\text{m}^{2} \\). B: divides by 100, forgetting to square the factor. C: multiplies by 10 4 ; the factor is upside down, and a bigger unit must give a smaller number. D: divides by 10 6 , cubing a factor that should be squared (this is an area, not a volume).",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 27,
+  "title": "Exercise \\(\\PageIndex{28}\\)",
+  "question": "A patient room is 12.0 ft long, 10.0 ft wide, and 8.00 ft high. What is its volume in m 3 ? (1 ft = 30.48 cm, exact)",
+  "answer": "V = 12.0 &times; 10.0 &times; 8.00 = 960. ft 3 . \\( 960.\\ \\text{ft}^{3} \\times \\left(\\dfrac{30.48\\ \\text{cm}}{1\\ \\text{ft}}\\right)^{3} \\times \\left(\\dfrac{1\\ \\text{m}}{100\\ \\text{cm}}\\right)^{3} = 27.18\\ \\text{m}^{3} \\to \\) 27.2 m 3 (3 significant figures).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 28,
+  "title": "Exercise \\(\\PageIndex{29}\\)",
+  "question": "A bag of IV fluid holds 0.75 L. Express its volume in cm 3 and in cc.",
+  "answer": "\\( 0.75\\ \\text{L} \\times \\dfrac{1000\\ \\text{cm}^{3}}{1\\ \\text{L}} = \\) 7.5 &times; 10 2 cm 3 = 7.5 &times; 10 2 cc (750 mL; 1 mL = 1 cm 3 = 1 cc). In charting, write mL.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 29,
+  "title": "Exercise \\(\\PageIndex{30}\\)",
+  "question": "(Math practice only; not dosing guidance.) A child weighs 55.0 lb. A medication is ordered at 10. mg per kg of body weight per dose. The oral liquid contains 100. mg per 5 mL (5 mL is a defined label volume). What volume is one dose? (1 kg = 2.2046 lb)",
+  "answer": "\\( 55.0\\ \\text{lb body} \\times \\dfrac{1\\ \\text{kg body}}{2.2046\\ \\text{lb body}} \\times \\dfrac{10.\\ \\text{mg drug}}{1\\ \\text{kg body}} \\times \\dfrac{5\\ \\text{mL}}{100.\\ \\text{mg drug}} = 12.47\\ \\text{mL} \\to \\) 12 mL (2 significant figures, from 10. mg/kg). Check: 55 lb is about 25 kg; 25 &times; 10 = 250 mg; 250 mg is 2.5 times 100 mg, so 2.5 &times; 5 mL = 12.5 mL.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 30,
+  "title": "Exercise \\(\\PageIndex{31}\\)",
+  "question": "A manufacturer has 2.0 kg of a drug. How many 500. mg tablets can it make?",
+  "answer": "\\( 2.0\\ \\text{kg} \\times \\dfrac{1000\\ \\text{g}}{1\\ \\text{kg}} \\times \\dfrac{1000\\ \\text{mg}}{1\\ \\text{g}} \\times \\dfrac{1\\ \\text{tablet}}{500.\\ \\text{mg}} = \\) 4.0 &times; 10 3 tablets (2 significant figures, from 2.0 kg).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 31,
+  "title": "Exercise \\(\\PageIndex{32}\\)",
+  "question": "A nursing student drives from Fresno to a clinical site in Merced, 65 mi away, on a foggy morning at an average of 45 mi/h. How many minutes does the drive take? A. 87 min B. 1.4 min C. 42 min D. 2.9 &times; 10 3 min",
+  "answer": "A. Start with the term that stands alone (65 mi): \\( 65\\ \\text{mi} \\times \\dfrac{1\\ \\text{h}}{45\\ \\text{mi}} \\times \\dfrac{60\\ \\text{min}}{1\\ \\text{h}} = 86.7 \\to 87\\ \\text{min} \\) (2 significant figures). The city names and the fog are distractors. B: 1.4 is the time in hours ; the h &rarr; min step was skipped. C: uses the speed upside down (45 mi/h &times; 60 &divide; 65); miles do not cancel. D: multiplies 65 mi by 45 mi/h, which gives mi 2 /h, not a time.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 32,
+  "title": "Exercise \\(\\PageIndex{33}\\)",
+  "question": "Normal saline is 0.90% NaCl, meaning 0.90 g of NaCl per 100 mL of solution. How many grams of NaCl are in a 1.000 L bag?",
+  "answer": "\\( 1.000\\ \\text{L} \\times \\dfrac{1000\\ \\text{mL}}{1\\ \\text{L}} \\times \\dfrac{0.90\\ \\text{g NaCl}}{100\\ \\text{mL}} = \\) 9.0 g NaCl (2 significant figures, from 0.90%).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 33,
+  "title": "Exercise \\(\\PageIndex{34}\\)",
+  "question": "A patient's hematocrit is 42%, meaning red blood cells make up 42% of the blood volume. If the patient has 5.0 L of blood, what volume is red blood cells?",
+  "answer": "\\( 5.0\\ \\text{L blood} \\times \\dfrac{42\\ \\text{L RBC}}{100\\ \\text{L blood}} = \\) 2.1 L of red blood cells (2 significant figures). Check: a part is always smaller than the total.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 34,
+  "title": "Exercise \\(\\PageIndex{35}\\)",
+  "question": "A cough syrup has a density of 1.31 g/mL. What is the mass of 60.0 mL of it?",
+  "answer": "\\( 60.0\\ \\text{mL} \\times \\dfrac{1.31\\ \\text{g}}{1\\ \\text{mL}} = \\) 78.6 g (3 significant figures). A syrup is denser than water, so 60 mL weighs more than 60 g.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 35,
+  "title": "Exercise \\(\\PageIndex{36}\\)",
+  "question": "What volume of glycerol (d = 1.26 g/mL) has a mass of 75.6 g? A. 60.0 mL B. 95.3 mL C. 0.0600 mL D. 0.0167 mL",
+  "answer": "A. \\( 75.6\\ \\text{g} \\times \\dfrac{1\\ \\text{mL}}{1.26\\ \\text{g}} = 60.0\\ \\text{mL} \\) (3 significant figures). A liquid denser than water has fewer mL than g. B: multiplies by the density (75.6 &times; 1.26); grams do not cancel, and the volume came out larger than the mass, which is impossible for a liquid denser than water. C: 0.0600 is the volume in liters , labeled as mL. D: divides the density by the mass (1.26 &divide; 75.6); the units would be 1/mL, not mL.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 36,
+  "title": "Exercise \\(\\PageIndex{37}\\)",
+  "question": "A patient produces 1.50 L of urine in a day, with a specific gravity of 1.015 (so a density of 1.015 g/mL). What is its mass in kilograms?",
+  "answer": "\\( 1.50\\ \\text{L} \\times \\dfrac{1000\\ \\text{mL}}{1\\ \\text{L}} \\times \\dfrac{1.015\\ \\text{g}}{1\\ \\text{mL}} \\times \\dfrac{1\\ \\text{kg}}{1000\\ \\text{g}} = 1.5225\\ \\text{kg} \\to \\) 1.52 kg (3 significant figures, from 1.50 L).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.12_measurement_exercises.html",
+  "idx": 37,
+  "title": "Exercise \\(\\PageIndex{38}\\)",
+  "question": "After a delivery, soaked pads weigh 410. g; the same pads dry weigh 96 g. (a) Estimate the blood loss in mL with the rule 1 g &asymp; 1 mL. (b) Recalculate using a blood density of 1.06 g/mL. (c) Which estimate is larger, and why?",
+  "answer": "Blood mass = 410. g &minus; 96 g = 314 g (both masses are known to the ones place, so the difference is too). (a) 314 mL . (b) \\( 314\\ \\text{g} \\times \\dfrac{1\\ \\text{mL}}{1.06\\ \\text{g}} = 296.2 \\to \\) 296 mL . (c) The 1 g &asymp; 1 mL rule gives the larger estimate, because blood is slightly denser than water, so each gram of blood is a little less than 1 mL. The difference (about 6%) is small enough that the quick rule is used in practice. (Context only.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.1_scientific_method.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Label each observation qualitative or quantitative: (a) the urine sample is dark amber; (b) the patient weighs 72.5 kg; (c) the reaction mixture fizzed; (d) the oxygen flow is 2 L/min.",
+  "answer": "(a) qualitative (a color, no number); (b) quantitative (number and unit); (c) qualitative; (d) quantitative.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.1_scientific_method.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "A farmer tests whether a new drip-irrigation schedule increases almond yield. One block of trees keeps the old schedule; a matching block gets the new one. At harvest, she weighs the almonds from each block. Name the independent variable, dependent variable, and control.",
+  "answer": "Independent variable: the irrigation schedule (the one thing she changed). Dependent variable: the mass of almonds harvested (what she measured). Control: the block kept on the old schedule.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.1_scientific_method.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Which statement is a scientific law, and which is a theory? (a) Matter is made of atoms that are rearranged, not created or destroyed, in chemical reactions. (b) In a chemical reaction, the total mass of the products equals the total mass of the reactants.",
+  "answer": "(a) is a theory: it explains why, using a model of atoms. (b) is a law: it states what always happens (the law of conservation of mass).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.2.1_scientific_notation.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Write in scientific notation: (a) 93,000,000 mi; (b) 0.000482 g; (c) 0.07050 L.",
+  "answer": "(a) 9.3 &times; 10 7 mi (the trailing zeros are placeholders). (b) 4.82 &times; 10 &minus;4 g. (c) 7.050 &times; 10 &minus;2 L (the final zero is significant, so it stays).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.2.1_scientific_notation.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Write in standard form: (a) 7.04 &times; 10 &minus;3 m; (b) 3.1 &times; 10 5 platelets/&micro;L.",
+  "answer": "(a) 0.00704 m (negative exponent: move three places left). (b) 310,000 platelets/&micro;L (positive exponent: move five places right).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.2.1_scientific_notation.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A student writes 0.0056 as 5.6 &times; 10 3 . Without redoing the problem, how can a calculator show that this is wrong, and what is the correct answer?",
+  "answer": "Typing 5.6 &times; 10 3 into the calculator gives 5600, not 0.0056, so the sign of the exponent is wrong. The decimal point moves three places to the right, so the answer is 5.6 &times; 10 &minus;3 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.2.1_scientific_notation.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Calculate, and give the answer in scientific notation: (a) (4.0 &times; 10 8 )(2.5 &times; 10 &minus;3 ); (b) (9.0 &times; 10 4 ) &divide; (3.0 &times; 10 &minus;2 ).",
+  "answer": "(a) 4.0 &times; 2.5 = 10, and 8 + (&minus;3) = 5, so 10 &times; 10 5 = 1.0 &times; 10 6 (2 significant figures). (b) 9.0 &divide; 3.0 = 3.0, and 4 &minus; (&minus;2) = 6, so 3.0 &times; 10 6 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.2.1_scientific_notation.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "(Context only.) One lab reports a white blood cell count as 6.4 &times; 10 3 /&micro;L, and another reports a count for a different patient as 6.4 &times; 10 9 /L. Which patient has more white blood cells per unit of blood?",
+  "answer": "Neither: they are the same. 6.4 &times; 10 9 per liter, divided by 10 6 microliters per liter, is 6.4 &times; 10 3 per microliter. The exponents differ only because the units differ.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.2.2_units.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Give the symbol and the power of ten for each prefix: (a) mega-; (b) centi-; (c) micro-; (d) pico-.",
+  "answer": "(a) M, 10 6 . (b) c, 10 &minus;2 . (c) &micro; (mcg for micrograms in health care), 10 &minus;6 . (d) p, 10 &minus;12 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.2.2_units.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "The yellow sheet lists milli- as 10 &minus;3 and nano- as 10 &minus;9 , so 1 mm = 10 &minus;3 m and 1 ng = 10 &minus;9 g. Rewrite each equality in whole-number form.",
+  "answer": "1000 mm = 1 m (because 1 &divide; 10 &minus;3 = 1000), and 10 9 ng = 1 g (because 1 &divide; 10 &minus;9 = 10 9 ).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.2.2_units.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Which is larger: (a) 0.50 mg or 450 mcg; (b) 1.2 dL or 120 mL?",
+  "answer": "(a) 0.50 mg = 500 mcg, so 0.50 mg is larger. (b) 1 dL = 0.1 L = 100 mL, so 1.2 dL = 120 mL: they are equal .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.2.2_units.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "(Context only.) A child's weight is entered as \"20\" in a chart field labeled kg, but the child was weighed on a scale reading pounds. Is a weight-based dose calculated from this entry too large or too small, and by about how much?",
+  "answer": "Too large. 20 lb is only about 9 kg (20 &divide; 2.2046 = 9.07), so treating it as 20 kg makes the calculated dose about 2.2 times too large. This is why many facilities record weights in kilograms only.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.2.2_units.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Which of these US&ndash;metric equalities are exact: 1 in = 2.54 cm; 1 kg = 2.2046 lb; 1 L = 1000 cm 3 ; 1 gal = 3.785 L?",
+  "answer": "1 in = 2.54 cm and 1 L = 1000 cm 3 are exact (definitions). 1 kg = 2.2046 lb (5 significant figures) and 1 gal = 3.785 L (4 significant figures) are rounded values.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.2_taking_measurements.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "A note in a patient's chart reads \"Temp 37.2, weight 64.\" What is missing, and why does it matter?",
+  "answer": "Both units are missing. 37.2 is a normal body temperature in degrees Celsius but would be impossible in degrees Fahrenheit, and 64 could be kilograms or pounds, a difference of about 2.2 times. Without units the reader has to guess, and a guess about weight can change a weight-based dose.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.2_taking_measurements.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Identify the number and the unit: (a) 250 mL; (b) 4.1 mmol/L of potassium; (c) one dozen syringes.",
+  "answer": "(a) 250, milliliters. (b) 4.1, millimoles per liter (a combined unit). (c) 1, dozen syringes (a counted unit; one dozen is exactly 12).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.3.1_sig_figs_precision.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "How many significant figures are in each? (a) 0.0400 g; (b) 60.50 mL; (c) 7,000 m; (d) 7,000. m; (e) 3.010 &times; 10 4 cells; (f) 0.008 L.",
+  "answer": "(a) 3 (leading zeros do not count; the trailing zeros after a decimal point do). (b) 4. (c) 1 (no decimal point). (d) 4 (the decimal point makes the trailing zeros count). (e) 4 (every digit in A). (f) 1.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.3.1_sig_figs_precision.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Write 45,000 g so that it shows (a) 2, (b) 3, and (c) 5 significant figures.",
+  "answer": "(a) 45,000 g or 4.5 &times; 10 4 g. (b) 4.50 &times; 10 4 g. (c) 45,000. g or 4.5000 &times; 10 4 g.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.3.1_sig_figs_precision.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Which of these have an unlimited number of significant figures? (a) 60 s = 1 min; (b) a blood pressure of 118 mmHg; (c) 4 vials on a tray; (d) 1 kg = 2.2046 lb.",
+  "answer": "(a) and (c). The first is a definition and the second is a count. A blood pressure is measured (3 significant figures), and 2.2046 lb is a rounded value (5 significant figures).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.3.1_sig_figs_precision.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "A newborn scale is tested with a 5.000 kg reference mass. It reads 5.120 kg, 5.118 kg, and 5.121 kg. Is the scale accurate, precise, both, or neither? Which target in Figure 1 does it match?",
+  "answer": "Precise but not accurate: the readings agree within 0.003 kg, but all are about 0.12 kg (120 g) too high. This matches target (a). The scale needs to be recalibrated.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.3.1_sig_figs_precision.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "(Context only.) Rewrite each medication amount the way a safe order would write it, and explain the change: (a) .25 mg; (b) 10.0 mg.",
+  "answer": "(a) 0.25 mg : a leading zero is required, so the decimal point cannot be missed (\".25\" could be read as \"25\"). (b) 10 mg : no trailing zero, so the order cannot be misread as 100 mg. In a lab notebook, by contrast, 10.0 mg would be correct if the mass was measured to the tenth of a milligram.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.3.2_sig_figs_calculations.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Round each to the number of significant figures shown: (a) 76,349 (2); (b) 0.0049872 (3); (c) 6.0449 &times; 10 &minus;3 (2).",
+  "answer": "(a) 76,000 (the next digit is 3, so round down; the zeros hold the place). (b) 0.00499 (the next digit is 7, so round up: 498 becomes 499). (c) 6.0 &times; 10 &minus;3 (the next digit is 4, so round down; the zero stays as the second significant figure).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.3.2_sig_figs_calculations.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Calculate and report with the correct significant figures and units: (a) 0.0457 cm &times; 2.1 cm; (b) 45.82 mL + 3.6 mL &minus; 0.555 mL.",
+  "answer": "(a) 0.09597 cm 2 &rarr; 0.096 cm 2 (2.1 has 2 significant figures). (b) 48.865 mL &rarr; 48.9 mL (3.6 has one decimal place).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.3.2_sig_figs_calculations.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Calculate (8.47 g &minus; 6.2 g) &times; 4.105, where 4.105 is a measured value with no unit. Show the underline step.",
+  "answer": "Parentheses first: 8.47 &minus; 6.2 = 2.27 g; one decimal place, so underline 2. 2 7 (2 significant figures). Then 2.27 &times; 4.105 = 9.318 g. The answer gets 2 significant figures: 9.3 g .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.3.2_sig_figs_calculations.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "A bottle of 40 tablets (counted) has a total tablet mass of 15.2 g. What is the average mass of one tablet?",
+  "answer": "15.2 g &divide; 40 = 0.38 g. The 40 is exact, so 15.2 g (3 significant figures) decides: 0.380 g . The trailing zero must be written to show 3 significant figures.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.3.2_sig_figs_calculations.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "A student adds 132 mg of a salt to 2.50 g of water and reports the total as 134.50 g. Find two mistakes and give the correct total in grams.",
+  "answer": "The student added milligrams to grams directly, and reported too many decimal places. Convert first: 132 mg = 0.132 g. Then 2.50 g + 0.132 g = 2.632 g &rarr; 2.63 g (two decimal places, from 2.50).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.3.2_sig_figs_calculations.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "question": "Three measurements of a patient's forearm length are 24.6 cm, 24.9 cm, and 24.7 cm. What is the average length?",
+  "answer": "(24.6 + 24.9 + 24.7) &divide; 3 = 74.2 &divide; 3 = 24.733&hellip; cm. The sum has one decimal place (74. 2 , 3 significant figures), and 3 is exact: 24.7 cm .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.3.3_reading_tools.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "A buret is marked every 0.1 mL. The bottom of the meniscus is between the 18.3 mL and 18.4 mL marks, about seven-tenths of the way down to 18.4. Record the reading.",
+  "answer": "18.37 mL (18.3 is certain; the 7 in the hundredths place is estimated). Readings of 18.36 or 18.38 mL are also reasonable.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.3.3_reading_tools.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "An analytical balance displays 5.200 g. A student records \"5.2 g.\" What is wrong, and how many significant figures should the recorded mass have?",
+  "answer": "The balance measured the two trailing zeros, so they are significant. The student threw away two digits of precision. Record 5.200 g , which has 4 significant figures .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.3.3_reading_tools.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A 100 mL graduated cylinder is marked every 1 mL. Which reading could have come from it: 36 mL, 36.4 mL, or 36.42 mL? Explain.",
+  "answer": "36.4 mL. With 1 mL marks you are certain of the ones place and estimate the tenths. 36 mL leaves out the estimated digit; 36.42 mL claims a second estimated digit that the marks cannot support.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.3_significant_figures.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "A bathroom scale shows 68 kg; a clinic scale shows 68.4 kg for the same person a minute later. Which reading tells you more, and why?",
+  "answer": "The clinic reading, 68.4 kg. It has three significant figures and is known to the nearest tenth of a kilogram; 68 kg is known only to the nearest kilogram. (Whether either scale is accurate is a separate question; see Section 1.3.1.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.4.1_unit_conversions.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Write two conversion factors for each equality: (a) 1 L = 1000 mL; (b) 1 kg = 2.2046 lb. Which factors are exact?",
+  "answer": "(a) \\( \\tfrac{1000\\ \\text{mL}}{1\\ \\text{L}} \\) and \\( \\tfrac{1\\ \\text{L}}{1000\\ \\text{mL}} \\), exact (a metric prefix). (b) \\( \\tfrac{2.2046\\ \\text{lb}}{1\\ \\text{kg}} \\) and \\( \\tfrac{1\\ \\text{kg}}{2.2046\\ \\text{lb}} \\), measured (5 significant figures, the yellow sheet's value).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.4.1_unit_conversions.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "A patient is 68.5 in tall. What is the height in centimeters?",
+  "answer": "\\( 68.5\\ \\text{in} \\times \\dfrac{2.54\\ \\text{cm}}{1\\ \\text{in}} = 173.99\\ \\text{cm} \\to \\) 174 cm (3 significant figures from 68.5 in; 2.54 is exact).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.4.1_unit_conversions.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A 2.00 L bottle of an oral rehydration drink holds how many quarts? (1 qt = 0.946 L)",
+  "answer": "\\( 2.00\\ \\text{L} \\times \\dfrac{1\\ \\text{qt}}{0.946\\ \\text{L}} = 2.114\\ \\text{qt} \\to \\) 2.11 qt (3 significant figures from 2.00 L and from 0.946).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.4.1_unit_conversions.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "A student converts 12.5 oz to grams using the yellow sheet's 1 g = 0.03527 oz and writes 12.5 oz &times; (0.03527 oz / 1 g) = 0.441. What went wrong, and what is the correct answer?",
+  "answer": "The factor is upside down: ounces are on top twice, so they cannot cancel, and the answer's unit would be oz 2 /g. Correct: \\( 12.5\\ \\text{oz} \\times \\dfrac{1\\ \\text{g}}{0.03527\\ \\text{oz}} = 354.4\\ \\text{g} \\to \\) 354 g . Size check: a gram is much smaller than an ounce, so the number must get bigger.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.4.2_multistep.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Convert 11.84 &micro;s to milliseconds.",
+  "answer": "\\( 11.84\\ \\mu\\text{s} \\times \\dfrac{1\\ \\text{s}}{10^{6}\\ \\mu\\text{s}} \\times \\dfrac{1000\\ \\text{ms}}{1\\ \\text{s}} = \\) 1.184 &times; 10 &minus;2 ms (0.01184 ms; 4 significant figures).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.4.2_multistep.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Convert 3.549 lb to milligrams. (1 lb = 453.59 g)",
+  "answer": "\\( 3.549\\ \\text{lb} \\times \\dfrac{453.59\\ \\text{g}}{1\\ \\text{lb}} \\times \\dfrac{1000\\ \\text{mg}}{1\\ \\text{g}} = 1{,}609{,}791\\ \\text{mg} \\to \\) 1.610 &times; 10 6 mg . The measurement has 4 significant figures and the factor 453.59 has 5, so the answer has 4; scientific notation shows the significant final zero.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.4.2_multistep.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A hemoglobin result is 13.5 g/dL. Labs in many other countries report it in g/L. Convert it.",
+  "answer": "\\( \\dfrac{13.5\\ \\text{g}}{1\\ \\text{dL}} \\times \\dfrac{10\\ \\text{dL}}{1\\ \\text{L}} = \\) 135 g/L (3 significant figures; only the bottom unit changes).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.4.2_multistep.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "A simple syrup has a sugar concentration of 0.5 g/mL. Express it in kg/dL. (1 dL = 100 mL)",
+  "answer": "\\( \\dfrac{0.5\\ \\text{g}}{1\\ \\text{mL}} \\times \\dfrac{1\\ \\text{kg}}{1000\\ \\text{g}} \\times \\dfrac{100\\ \\text{mL}}{1\\ \\text{dL}} = \\) 0.05 kg/dL (1 significant figure). Answers of 50 kg/dL (forgot g &rarr; kg: 0.5 &times; 100) or 5 &times; 10 &minus;6 kg/dL (put 100 mL on the bottom: 0.5 &divide; 1000 &divide; 100) come from one flipped or missing factor.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.4.2_multistep.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "(Math practice only.) An IV pump is set to 125 mL/h. What is this rate in mL/min?",
+  "answer": "\\( \\dfrac{125\\ \\text{mL}}{1\\ \\text{h}} \\times \\dfrac{1\\ \\text{h}}{60\\ \\text{min}} = 2.083\\ \\text{mL/min} \\to \\) 2.08 mL/min (3 significant figures; 60 min = 1 h is exact).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.4.3_units_powers.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "A patient's body surface area is 1.85 m 2 . Express it in cm 2 .",
+  "answer": "\\( 1.85\\ \\text{m}^{2} \\times \\left(\\dfrac{100\\ \\text{cm}}{1\\ \\text{m}}\\right)^{2} = 1.85 \\times 10^{4}\\ \\text{cm}^{2} \\) ( 18,500 cm 2 ; 3 significant figures).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.4.3_units_powers.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Convert 2.5 &times; 10 5 cm 3 to m 3 .",
+  "answer": "\\( 2.5 \\times 10^{5}\\ \\text{cm}^{3} \\times \\left(\\dfrac{1\\ \\text{m}}{100\\ \\text{cm}}\\right)^{3} = 2.5 \\times 10^{5} \\div 10^{6} = \\) 0.25 m 3 . Dividing by 100 instead (2.5 &times; 10 3 m 3 ) means the factor was not cubed.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.4.3_units_powers.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A medicine cup holds 5.0 mL. Express this volume in (a) cc, (b) cm 3 , (c) L.",
+  "answer": "(a) 5.0 cc and (b) 5.0 cm 3 , since 1 mL = 1 cm 3 = 1 cc. (c) \\( 5.0\\ \\text{mL} \\times \\dfrac{1\\ \\text{L}}{1000\\ \\text{mL}} = \\) 5.0 &times; 10 &minus;3 L .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.4.3_units_powers.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Explain in one or two sentences why 1 cm 2 = 100 mm 2 , using a drawing in words.",
+  "answer": "A square 1 cm on each side is also 10 mm on each side, and its area is 10 mm &times; 10 mm = 100 mm 2 . A grid of 10 rows of 10 tiny 1 mm squares fills it.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.4.4_word_problems_dosage.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "A baker in Visalia makes 2 dozen cookies every 18 min. How many minutes does she need to make 150. cookies? (1 dozen = 12, exact)",
+  "answer": "\\( 150.\\ \\text{cookies} \\times \\dfrac{1\\ \\text{dozen}}{12\\ \\text{cookies}} \\times \\dfrac{18\\ \\text{min}}{2\\ \\text{dozen}} = 112.5\\ \\text{min} \\) &rarr; 1.1 &times; 10 2 min (18 min has 2 significant figures; the city name is a distractor).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.4.4_word_problems_dosage.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "(Math practice only.) An order calls for 0.150 g of a drug. The liquid on hand contains 250. mg per 5.00 mL. What volume holds the ordered amount?",
+  "answer": "\\( 0.150\\ \\text{g} \\times \\dfrac{1000\\ \\text{mg}}{1\\ \\text{g}} \\times \\dfrac{5.00\\ \\text{mL}}{250.\\ \\text{mg}} = 3.00\\ \\text{mL} \\)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.4.4_word_problems_dosage.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A problem says, \"A 12.0 oz can of soda contains 34.0 mg of caffeine.\" Write the conversion factor both ways up, and say which one you would use to find the caffeine in 3 cans (36.0 oz).",
+  "answer": "34.0 mg caffeine / 12.0 oz soda, or 12.0 oz soda / 34.0 mg caffeine. To go from ounces to milligrams, ounces must be on the bottom: 36.0 oz &times; (34.0 mg / 12.0 oz) = 102 mg caffeine .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.4.5_percents.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Write 0.0825 as a percent, and 4.6% as a decimal.",
+  "answer": "0.0825 &times; 100 = 8.25% ; 4.6 &divide; 100 = 0.046 .",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch01/1.4.5_percents.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "A copper ore is 0.25% copper by mass. What mass of ore, in kilograms, contains 1.00 kg of copper?",
+  "answer": "\\( 1.00\\ \\text{kg Cu} \\times \\dfrac{100\\ \\text{kg ore}}{0.25\\ \\text{kg Cu}} = 400\\ \\text{kg ore} \\) &rarr; 4.0 &times; 10 2 kg ore (0.25% has 2 significant figures).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.4.5_percents.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A 12.0 g piece of sterling silver (92.5% silver by mass) is in a ring. What mass of silver does it contain, and what mass is other metals?",
+  "answer": "12.0 g &times; (92.5 g Ag / 100 g sterling) = 11.1 g silver ; the other metals are 12.0 g &minus; 11.1 g = 0.9 g (one decimal place in the subtraction).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.5_classifying_matter.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Classify each: (a) sucrose (table sugar), C 12 H 22 O 11 ; (b) sugar dissolved in iced tea; (c) chlorine gas, Cl 2 ; (d) a bowl of cereal with milk.",
+  "answer": "(a) compound (three elements bonded in a fixed ratio); (b) homogeneous mixture (dissolved evenly; strength can vary); (c) element (one kind of atom; a diatomic element); (d) heterogeneous mixture (you can see the parts).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.5_classifying_matter.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Box (f) in Figure \\(\\PageIndex{1}\\) contains H 2 O molecules and O 2 molecules. Explain why it is a mixture even though every particle contains oxygen.",
+  "answer": "There are two different kinds of particles (H 2 O and O 2 ), and they are not bonded to each other. A pure substance would need every particle to be identical.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.5_classifying_matter.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Which method would you use to separate (a) sand from water, (b) the dissolved salt from seawater, and (c) red blood cells from plasma?",
+  "answer": "(a) filtration (or decanting); (b) evaporation (or distillation, which also recovers the water); (c) centrifugation.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.5_classifying_matter.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "A particle diagram shows a box of eight identical particles. Each particle is one formula unit made of one Na, one Cl, and one O (sodium hypochlorite, NaClO, the active ingredient in bleach). A second box shows eight identical particles, each made of two bonded Cl atoms. Classify each box.",
+  "answer": "First box: one kind of particle, made of three different elements bonded, so a pure substance, a compound . Having three elements does not make it a mixture; they are bonded in one particle. Second box: one kind of particle containing only Cl atoms, so a pure substance, an element (Cl 2 , one of the diatomic seven).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.6_states_of_matter.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "A 250 mL sample of a substance is moved from a 500 mL flask to a 1000 mL flask and now fills the whole 1000 mL flask. What state is it in? Explain with the particle view.",
+  "answer": "Gas. Its volume changed to fill the new container, which only a gas does; its particles are far apart and move freely until they hit the walls.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.6_states_of_matter.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Glass holds its shape like a solid, but its particles are not arranged in a repeating pattern. What kind of solid is glass?",
+  "answer": "An amorphous solid (its particles are disordered, unlike a crystalline solid).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.6_states_of_matter.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A student spills 75.0 mL of water from a beaker onto a lab bench. It spreads into a thin puddle. Has its shape changed? Has its volume changed? Explain with the particle view.",
+  "answer": "The shape changed (from the beaker's shape to the puddle's), but the volume did not: it is still 75.0 mL. Liquid particles touch one another, so they cannot be pushed closer or spread farther apart, but they slide past each other, so the liquid takes the shape of whatever holds it.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.7_electric_charge.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Will a fluoride ion, F &minus; , attract or repel (a) a potassium ion, K + ; (b) a chloride ion, Cl &minus; ?",
+  "answer": "(a) attract (opposite signs); (b) repel (both negative).",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch01/1.7_electric_charge.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "A + charge and a &minus; charge are moved from 2 nm apart to 1 nm apart. Does the attraction get stronger or weaker? Was energy released or absorbed as they moved closer?",
+  "answer": "Stronger, because they are closer. Energy was released, because opposite charges came together.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.7_electric_charge.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "At the same distance, which pair attracts more strongly: K + with Cl &minus; , or Ca 2+ with O 2&minus; ?",
+  "answer": "Ca 2+ with O 2&minus; : at the same distance, larger charges give a stronger attraction.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.8_properties_and_changes.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Classify each as a physical or chemical change: (a) a frozen IV bag thaws; (b) milk sours; (c) a nail rusts; (d) dry ice shrinks as it sits on a lab bench.",
+  "answer": "(a) physical (melting); (b) chemical (bacteria turn sugars into lactic acid, a new substance); (c) chemical (iron forms iron oxide); (d) physical (sublimation of CO 2 ).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.8_properties_and_changes.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Which of these properties of copper are intensive: mass, color, melting point, volume, density?",
+  "answer": "Color, melting point, and density are intensive. Mass and volume are extensive.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.8_properties_and_changes.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Frost forms on a windshield overnight with no liquid water ever appearing. Name this change of state and say whether it is physical or chemical.",
+  "answer": "Deposition (gas to solid). It is a physical change: the water molecules are unchanged.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.9.1_density_conversion.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "What is the mass of 25.0 mL of glycerol (d = 1.26 g/mL)?",
+  "answer": "\\( 25.0\\ \\text{mL} \\times \\dfrac{1.26\\ \\text{g}}{1\\ \\text{mL}} = \\) 31.5 g (3 significant figures).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.9.1_density_conversion.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "What volume of ethanol (d = 0.789 g/mL) has a mass of 150. g? A. 190. mL B. 118 mL C. 0.190 mL D. 5.26 &times; 10 &minus;3 mL",
+  "answer": "A. \\( 150.\\ \\text{g} \\times \\dfrac{1\\ \\text{mL}}{0.789\\ \\text{g}} = 190.1\\ \\text{mL} \\to 190.\\ \\text{mL} \\) (3 significant figures; the decimal point shows the zero is significant). B: multiplies the mass by the density (g &times; g/mL), so grams do not cancel; a liquid less dense than water must have more mL than g. C: is the right number of liters (0.190 L) but labeled mL. D: divides the density by the mass (0.789 &divide; 150); the units would be 1/mL, not mL, so the setup cannot be right.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.9.1_density_conversion.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A urine sample of 250. mL has a specific gravity of 1.020. Taking water's density as 1.000 g/mL, what is the mass of the sample?",
+  "answer": "Density = 1.020 &times; 1.000 g/mL = 1.020 g/mL. \\( 250.\\ \\text{mL} \\times \\dfrac{1.020\\ \\text{g}}{1\\ \\text{mL}} = \\) 255 g (3 significant figures, from 250. mL).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.9.1_density_conversion.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "You need 1.50 kg of glycerol (d = 1.26 g/mL) and have only a 500-mL graduated cylinder. What volume do you need, and how would you measure it?",
+  "answer": "\\( 1.50\\ \\text{kg} \\times \\dfrac{1000\\ \\text{g}}{1\\ \\text{kg}} \\times \\dfrac{1\\ \\text{mL}}{1.26\\ \\text{g}} = 1190.5\\ \\text{mL} \\to \\) 1.19 &times; 10 3 mL . Fill the 500-mL cylinder twice (1000 mL), then measure about 190 mL more.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.9_density.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "A metal cube has a mass of 54.0 g and a volume of 20.0 cm 3 . Calculate its density and use the table to identify the metal.",
+  "answer": "d = 54.0 g &divide; 20.0 cm 3 = 2.70 g/cm 3 , which matches aluminum.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.9_density.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Vegetable oil (about 0.92 g/mL) and corn syrup (about 1.37 g/mL) are poured into a cylinder of water, and none of the three liquids mix. What is the order of layers from top to bottom? Where would a piece of cork (about 0.24 g/mL) end up?",
+  "answer": "Least dense on top: vegetable oil, then water, then corn syrup on the bottom. The cork is less dense than all three, so it floats on top of the oil.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.9_density.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A 500. g block and a 5.00 g chip are cut from the same piece of oak. Which has the greater density?",
+  "answer": "Neither: both are oak, and density is intensive, so it does not depend on the size of the sample.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch01/1.9_density.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "A piece of reddish metal has a mass of 35.8 g. It raises the water in a graduated cylinder from 30.0 mL to 34.0 mL. Calculate its density and identify the metal from the table. What answer would a student get by dividing by 34.0 mL?",
+  "answer": "V = 34.0 mL &minus; 30.0 mL = 4.0 mL (one decimal place, so 2 significant figures). d = 35.8 g &divide; 4.0 mL = 8.95 g/mL &rarr; 9.0 g/mL , closest to copper (8.96 g/mL). Dividing by 34.0 mL gives 1.05 g/mL, which would mean the metal barely sinks, a sign the wrong volume was used.",
+  "mc": false,
+  "terse_answer": false
+ }
+]

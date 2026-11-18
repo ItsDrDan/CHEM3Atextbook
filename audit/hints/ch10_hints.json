@@ -1,0 +1,639 @@
+[
+ {
+  "file": "drafts/ch10/10.1_kmt.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Compare how far apart the particles are in a gas and in a liquid. What fills most of a gas that a liquid does not have?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.1_kmt.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Temperature sets the average kinetic energy. If the particles slow down, how do their hits on the walls change? The rigid volume cannot change.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.1_kmt.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Same temperature means the same average kinetic energy. Compare the molar masses: lighter particles must move faster to carry the same energy.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.1_kmt.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Pressure comes from particles hitting the walls. (a) More particles means more hits. (b) Heating makes each particle faster: think about how hard and how often they hit.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.2_pressure.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Use 1 atm = 760 mmHg as a conversion factor, with atm on the bottom so it cancels. Keep three significant figures.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.2_pressure.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Go through atm: divide by 101.325 kPa per atm first, then multiply by 760 mmHg per atm.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.2_pressure.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Set up a conversion factor with 1 atm on top and 760 mmHg on the bottom so mmHg cancels.",
+  "why": "Since 1 atm = 760 mmHg exactly, dividing by 760 converts mmHg to atm, and the answer keeps the three significant figures of 118 mmHg."
+ },
+ {
+  "file": "drafts/ch10/10.3_gas_laws.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Temperature and moles stay constant, so P and V are inverse: P<sub>1</sub>V<sub>1</sub> = P<sub>2</sub>V<sub>2</sub>. Predict first: a bigger volume means a lower pressure.",
+  "why": "At constant temperature and moles, Boyle's law gives P<sub>2</sub> = P<sub>1</sub>V<sub>1</sub>/V<sub>2</sub>; the volume grew 2.5 times, so the pressure fell to 1/2.5 of its value."
+ },
+ {
+  "file": "drafts/ch10/10.3_gas_laws.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "A rigid tank means V is constant: Gay-Lussac's law, P<sub>1</sub>/T<sub>1</sub> = P<sub>2</sub>/T<sub>2</sub>. Convert both temperatures to kelvins first (add 273.15).",
+  "why": "With volume and moles constant, pressure is directly proportional to Kelvin temperature, so P<sub>2</sub> = P<sub>1</sub> × T<sub>2</sub>/T<sub>1</sub> with 318.15 K and 293.15 K, and warming raises the pressure."
+ },
+ {
+  "file": "drafts/ch10/10.3_gas_laws.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Constant pressure: Charles's law, V<sub>1</sub>/T<sub>1</sub> = V<sub>2</sub>/T<sub>2</sub>. Change both temperatures to kelvins; −196 °C has no decimal places, which limits the significant figures.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.3_gas_laws.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Cross out what stays the same from P<sub>1</sub>V<sub>1</sub>/(n<sub>1</sub>T<sub>1</sub>) = P<sub>2</sub>V<sub>2</sub>/(n<sub>2</sub>T<sub>2</sub>). The unknown n<sub>2</sub> lands in a denominator, so flip both sides.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.3_gas_laws.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Pick easy numbers, such as V<sub>1</sub> = 1 L, T<sub>1</sub> = 400 K, and T<sub>2</sub> = 200 K, and put them into V<sub>1</sub>/T<sub>1</sub> = V<sub>2</sub>/T<sub>2</sub>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.4_ideal_gas_law.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "One set of conditions, so use PV = nRT solved for V. Convert 30.0 °C to kelvins and use R = 0.082058 L·atm/(mol·K).",
+  "why": "With one set of conditions, V = nRT/P, using T = 303.15 K; R = 0.082058 L·atm/(mol·K) with P in atm leaves the answer in liters."
+ },
+ {
+  "file": "drafts/ch10/10.4_ideal_gas_law.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Solve PV = nRT for n. Change 21.0 °C to kelvins, and put R × T in parentheses on the calculator.",
+  "why": "n = PV/(RT) with T = 294.15 K; P in atm and V in liters match R = 0.082058 L·atm/(mol·K), so only moles are left."
+ },
+ {
+  "file": "drafts/ch10/10.4_ideal_gas_law.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Our goal is the mole: change grams to moles with the molar mass of CO<sub>2</sub>, then use 22.4 L/mol, which works because the gas is at STP.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.4_ideal_gas_law.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "At STP, 22.4 L/mol gives the moles; grams divided by moles gives the molar mass. The gas is diatomic, so halve it before looking at the periodic table.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.4_ideal_gas_law.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Look for subscripts. (a) One set of conditions: PV = nRT. (b) Two temperatures, so the gas changes: cross V and n out of the combined gas law. Use kelvins.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.5_gas_stoichiometry.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Our goal is the mole: grams of Mg to moles, mole ratio to H<sub>2</sub>, then V = nRT/P with T in kelvins. This is not STP, so not 22.4 L/mol.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.5_gas_stoichiometry.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Grams of CaCO<sub>3</sub> to moles, then the mole ratio to CO<sub>2</sub>. The gas is at STP, so 22.4 L/mol turns moles into liters.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.5_gas_stoichiometry.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Both gases are at the same temperature and pressure, so the coefficients are volume ratios. Read the ratio of O<sub>2</sub> to CO from the equation.",
+  "why": "At the same T and P, equal volumes hold equal moles (Avogadro's law), so the 1 : 2 coefficient ratio of O<sub>2</sub> to CO is also a volume ratio, and liters go straight to liters."
+ },
+ {
+  "file": "drafts/ch10/10.5_gas_stoichiometry.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Subtract water's vapor pressure from the total first, so P belongs to the dry H<sub>2</sub>. Then n = PV/RT (mL to L, °C to K), the mole ratio, and the molar mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.5_gas_stoichiometry.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Which substance does V = nRT/P describe here? The n must be moles of that gas, which you get only after the mole ratio from the balanced equation.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.6_dalton.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Dalton's law: the total pressure is the sum of the partial pressures. Round to the decimal place of the least precise value.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.6_dalton.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Find the mole fraction of CO<sub>2</sub> (its moles over the total moles), then multiply by the total pressure.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.6_dalton.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "The room pressure is shared by the oxygen and the water vapor. Subtract the vapor pressure, then round to the ones place, set by the room pressure.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.6_dalton.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Count particles: the mole fraction of B is its particles over all the particles. Multiply that fraction by the total pressure.",
+  "why": "Every particle contributes equally to the pressure, so B's share of the particles (3 of 12) is its share of the total: P<sub>B</sub> = X<sub>B</sub> × P<sub>total</sub>."
+ },
+ {
+  "file": "drafts/ch10/10.6_dalton.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "At fixed V and T, the total pressure depends only on the total moles, not on which gas. Use P<sub>1</sub>/n<sub>1</sub> = P<sub>2</sub>/n<sub>2</sub> with the new total moles.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 10.1",
+  "hint": "Compare each choice with the KMT list in Section 10.1. A gas spreads out to fill any container: what does that say about forces between its particles?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 10.2",
+  "hint": "Pressure is force per area. In KMT, what are gas particles constantly doing to the walls? Heating changes their speed, not their size.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 10.3",
+  "hint": "Answer with particles: how does temperature change how fast the air molecules move, and how hard and how often they hit the inside of the ball? Their number stays the same.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 10.4",
+  "hint": "Average kinetic energy is proportional to the Kelvin temperature. What must happen to the Kelvin temperature to double the kinetic energy? Do not switch to °C.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 10.5",
+  "hint": "(a) What sets the average kinetic energy? (b) With equal kinetic energy, lighter particles move faster: rank by molar mass. (c) Faster particles escape through small gaps sooner.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 10.6",
+  "hint": "An ideal gas has particles that take up no space and do not attract each other. Which pressure keeps particles far apart, and which temperature makes attractions unimportant?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 10.7",
+  "hint": "Use 1 atm = 760 mmHg with mmHg on the bottom. Check: at 4,000 ft there is less air above you, so should the answer be above or below 1 atm?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 10.8",
+  "hint": "(a) Divide by 14.7 psi per atm. (b) The gauge reads above the outside pressure, so add the 1.00 atm of air. (c) Use 101.325 kPa per atm.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 10.9",
+  "hint": "Convert every choice to the same unit (atm is easiest), then compare. A big number in a small unit can still be a smaller pressure.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 10.10",
+  "hint": "(a) How do torr and mmHg compare? (b) Go through the base unit: 760 mmHg = 1 atm = 101.325 kPa. Keep two significant figures, like the readings.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 10.11",
+  "hint": "Find the pressure from the water (depth × 1 atm per 10.1 m), then add the air pressing on the surface of the water.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 10.12",
+  "hint": "(a) Divide by 760 mmHg per atm, then use 101.325 kPa per atm. (b) Summit pressure ÷ sea-level pressure × 100%. (c) At the same T and V, the number of molecules is proportional to the pressure.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 10.13",
+  "hint": "(a) As P goes up, what does V do? (b) Try both P × V and V/P for each trial; which stays the same? (c) Use P<sub>1</sub>V<sub>1</sub> = P<sub>2</sub>V<sub>2</sub>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 10.14",
+  "hint": "Constant temperature and moles: Boyle's law, P<sub>1</sub>V<sub>1</sub> = P<sub>2</sub>V<sub>2</sub>. Predict first: as the pressure drops on the way up, what happens to the volume?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 10.15",
+  "hint": "Charles's law, V<sub>1</sub>/T<sub>1</sub> = V<sub>2</sub>/T<sub>2</sub>, with both temperatures in kelvins (add 273.15). Then redo it with °C and look at the sign of the result.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 10.16",
+  "hint": "Rigid means constant volume: Gay-Lussac's law, P<sub>1</sub>/T<sub>1</sub> = P<sub>2</sub>/T<sub>2</sub>. Convert both temperatures to kelvins; a 27 °C rise should raise the pressure only a little.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 10.17",
+  "hint": "Constant T and P: Avogadro's law, V<sub>1</sub>/n<sub>1</sub> = V<sub>2</sub>/n<sub>2</sub>. The volume grows, so the moles must grow by the same factor.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 10.18",
+  "hint": "For each one, ask which two variables change and which stay constant (rigid means constant V; a flexible container stays near constant P). Then decide direct or inverse.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 10.19",
+  "hint": "Put both pressures in the same unit and both temperatures in kelvins. Predict: lower pressure and higher temperature both make the volume bigger.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 10.20",
+  "hint": "Use V<sub>2</sub> = V<sub>1</sub> × (P<sub>1</sub>/P<sub>2</sub>) × (T<sub>2</sub>/T<sub>1</sub>) with easy numbers: P<sub>1</sub> = 1, P<sub>2</sub> = 3, T<sub>1</sub> = 1, T<sub>2</sub> = 2.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 10.21",
+  "hint": "The can's volume is fixed: Gay-Lussac's law. Convert both temperatures to kelvins (650. °C is known to the ones place), then compare with what °C would predict.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 10.22",
+  "hint": "Pressure and temperature both change, so use the combined gas law, V<sub>2</sub> = V<sub>1</sub> × (P<sub>1</sub>/P<sub>2</sub>) × (T<sub>2</sub>/T<sub>1</sub>), with kelvins.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 10.23",
+  "hint": "One set of conditions: n = PV/RT. The gas is not at STP, so 22.4 L/mol does not apply, and T must be in kelvins.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 10.24",
+  "hint": "Our goal is the mole: change grams of CO<sub>2</sub> to moles first. Then V = nRT/P with T in kelvins.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 10.25",
+  "hint": "Find P = nRT/V with T in kelvins; with R = 0.082058 the pressure comes out in atm. Then convert atm to mmHg; there are more mmHg than atm.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 10.26",
+  "hint": "Grams of N<sub>2</sub> to moles first, then solve PV = nRT for T = PV/(nR). That gives kelvins; subtract 273.15 for °C.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 10.27",
+  "hint": "At STP, 1 mol of any gas fills 22.4 L. Set up moles × (22.4 L / 1 mol) so moles cancel; the molar mass is not needed.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 10.28",
+  "hint": "(a) 25.0 °C is not STP, so use V = nRT/P. (b) Percent error = (student's value − correct value) ÷ correct value × 100%. (c) Solve PV = nRT for T.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 10.29",
+  "hint": "Find n from PV = nRT (kelvins, atm, liters), then M = grams ÷ moles and match it to the list. Density is simply grams over liters.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 10.30",
+  "hint": "A gas whose molar mass is larger than air's (about 29 g/mol) is denser than air and sinks. Compare each molar mass with 29.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 10.31",
+  "hint": "Density is grams per liter, and at STP one mole fills 22.4 L. Multiply g/L by L/mol so liters cancel and g/mol remains.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 10.32",
+  "hint": "(a) Divide by 14.7 psi per atm. (b) n = PV/RT with T in kelvins; carry the unrounded pressure. (c) Same temperature before and after: Boyle's law, no R needed.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 10.33",
+  "hint": "Moles of butane, then the mole ratio of O<sub>2</sub> to butane from the coefficients, then 22.4 L/mol at STP. Burning a fuel takes more O<sub>2</sub> than fuel.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 10.34",
+  "hint": "Grams of glucose to moles, mole ratio to CO<sub>2</sub> (check the coefficients), then V = nRT/P. 30.0 °C and 0.975 atm are not STP.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 10.35",
+  "hint": "Same T and P, so the coefficients are volume ratios. Use the coefficients of the two substances in the question, O<sub>2</sub> and C<sub>3</sub>H<sub>8</sub>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 10.36",
+  "hint": "Not STP, so n = PV/RT gives the moles of CO<sub>2</sub>. Then use the mole ratios from the equation and each molar mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 10.37",
+  "hint": "Liters of O<sub>2</sub> at STP to moles (divide by 22.4 L/mol), the mole ratio 2 KClO<sub>3</sub> : 3 O<sub>2</sub>, then the molar mass of KClO<sub>3</sub>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 10.38",
+  "hint": "Grams of H<sub>2</sub>O<sub>2</sub> to moles, the mole ratio to O<sub>2</sub> (check the coefficients), then V = nRT/P with T in kelvins.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 10.39",
+  "hint": "Grams to moles of NaHCO<sub>3</sub>, the 1 : 1 ratio to CO<sub>2</sub>, then V = nRT/P in kelvins (this is not STP). R gives liters; convert to mL.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 10.40",
+  "hint": "(a) Grams of CH<sub>4</sub> to moles, mole ratio to CO<sub>2</sub>, then V = nRT/P. (b) O<sub>2</sub> and CO<sub>2</sub> are at the same T and P, so use a volume ratio.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 10.41",
+  "hint": "Same T and P: the coefficients are a volume ratio. How many H<sub>2</sub> does each O<sub>2</sub> need? Go straight from liters to liters.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 10.42",
+  "hint": "Same T and P, so work in liters with the coefficients. (a) Find how much O<sub>2</sub> the NO needs and compare with what is there. Use the limiting gas for the rest.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 10.43",
+  "hint": "Divide the percent by 100 to get the mole fraction of N<sub>2</sub>O, then multiply by the total pressure. A partial pressure is always less than the total.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 10.44",
+  "hint": "(a) Dalton's law: add the partial pressures; round to the ones place. (b) Mole fraction = partial pressure ÷ total pressure. (c) What is added to inhaled air, and where does O<sub>2</sub> go?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 10.45",
+  "hint": "(a) Mole percents add up to 100. (b) Percent ÷ 100 = mole fraction; multiply by 760. mmHg. (c) Moles of CO = mole fraction × total moles.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 10.46",
+  "hint": "Subtract the vapor pressure of water at the temperature of the water (check which value that is) from the barometric pressure.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 10.47",
+  "hint": "For each trial: subtract the vapor pressure and convert to atm; moles of H<sub>2</sub> = moles of Mg (1 : 1); R = PV/(nT) in liters and kelvins. (c) Which number grows?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 10.48",
+  "hint": "To find the moles of one gas, use that gas's own partial pressure in PV = nRT, with T in kelvins.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 10.49",
+  "hint": "(a) Mole fraction × pressure. (b) Subtract the water vapor first, then take the O<sub>2</sub> fraction of what is left. (c) Repeat with the new fraction. (d) Charles's law, in kelvins.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 10.50",
+  "hint": "(a) Partial pressure of O<sub>2</sub> = mole fraction × P<sub>total</sub>. (b) Solve the same equation for P<sub>total</sub>. (c) Subtract the 1.00 atm of air first, then convert atm to meters with 10.1 m per atm.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 10.51",
+  "hint": "Each gas in a mixture acts as if it were alone. Did the moles of O<sub>2</sub>, the volume, or the temperature change?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 10.52",
+  "hint": "(a) Divide by 14.7 psi per atm. (b) Same temperature before and after: Boyle's law. (c) Volume ÷ flow rate. (d) n = PV/RT, then moles × molar mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 10.53",
+  "hint": "Our goal is the mole: grams of CO<sub>2</sub> to moles. Then P = nRT/V (convert atm to psi with 14.7 psi per atm) and V = nRT/P.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 10.54",
+  "hint": "(a) X × P<sub>total</sub>. (b) n = PV/RT using the O<sub>2</sub> partial pressure. (c) Mole ratio from the equation. (d) V = nRT/P; check with a volume ratio.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 10.55",
+  "hint": "(a) Subtract the water vapor, then convert to atm. (b) n = PV/RT; change mL to L. (c) 1 : 1 ratio, then molar mass. (d) Repeat with the full barometric pressure.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 10.56",
+  "hint": "(a) n = PV/RT, then M = grams ÷ moles. (b) Match the molar mass to the list. (c) Same T and P, so the coefficients are volume ratios.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 10.57",
+  "hint": "P and V are constant: cross them out of the combined gas law to get n<sub>1</sub>T<sub>1</sub> = n<sub>2</sub>T<sub>2</sub>. Use kelvins; warming pushes air out of an open jar.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 10.58",
+  "hint": "Charles's law with the unknown on the bottom: flip both sides, T<sub>1</sub>/V<sub>1</sub> = T<sub>2</sub>/V<sub>2</sub>. Convert 21.0 °C to kelvins first, and back to °C at the end.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 10.59",
+  "hint": "Look for subscripts. Is the gas changing, with before and after values, or is there just one set of conditions? Is there a mixture of gases?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 10.60",
+  "hint": "n = PV/RT (kelvins; parentheses around R × T), then M = grams ÷ moles. The element is diatomic, so halve the molar mass before checking the periodic table.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 10.61",
+  "hint": "Molar mass: 22.4 L/mol at STP gives moles; grams ÷ moles. Empirical formula: assume 100 g, change to moles, divide by the smaller. Then molar mass ÷ empirical-formula mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 61,
+  "title": "Problem 10.62",
+  "hint": "Subtract water's vapor pressure at 30.0 °C (Table 1 in Section 10.6). Then n = PV/RT for the H<sub>2</sub>, the mole ratio to Mg, and the molar mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 62,
+  "title": "Problem 10.63",
+  "hint": "Count all the particles. Neon's share of the particles is its mole fraction; multiply it by the total pressure.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch10/10.8_practice_problems.html",
+  "idx": 63,
+  "title": "Problem 10.64",
+  "hint": "Grams of He to moles. At fixed V and T, pressure is proportional to total moles: scale to the new total, subtract the helium, then convert moles of N<sub>2</sub> to grams.",
+  "why": ""
+ }
+]

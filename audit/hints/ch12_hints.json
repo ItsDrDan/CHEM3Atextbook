@@ -1,0 +1,625 @@
+[
+ {
+  "file": "drafts/ch12/12.1_properties.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Look up green in the red cabbage color chart in 12.1: is it an acid color or a base color? Then use BRA for litmus and \"pink means base\" for phenolphthalein.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.1_properties.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Acid + carbonate &rarr; salt + water + carbon dioxide. Build the salt from the ion charges, then balance Cl and H. The gas tells you what you would see.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.1_properties.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Acid + base &rarr; salt + water. Ca<sup>2+</sup> needs two NO<sub>3</sub><sup>&minus;</sup>, so count the HNO<sub>3</sub> and waters that takes; the salt is the base's cation with the acid's anion.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.2_bronsted_lowry.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Use BAD: the reactant that loses an H from left to right is the acid; the one that gains an H is the base. Each partner on the right shares a common piece with it.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.2_bronsted_lowry.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "To make a conjugate acid, add one H<sup>+</sup>: one more H, and the charge goes up by 1.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.2_bronsted_lowry.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Follow the H<sup>+</sup>: does water gain an H or lose one from left to right? Bases Accept, Acids Donate.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.2_bronsted_lowry.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "(a) Add one H<sup>+</sup> to Cl<sup>&minus;</sup>. (b) Add one H<sup>+</sup> for the conjugate acid and remove one for the conjugate base, changing the charge by 1 each time.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.3_strong_weak.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Check the green-sheet strong lists first. Then ask: H written first (acid)? Metal hydroxide or amine (base)? Metal with another anion (salt)? None of these (neither)?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.3_strong_weak.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "The acid gives one H<sup>+</sup> to water to make H<sub>3</sub>O<sup>+</sup>. Is lactic acid on the six-acid strong list? That decides single or double arrow.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.3_strong_weak.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Ca<sup>2+</sup> pairs with two ClO<sub>4</sub><sup>&minus;</sup>, so count the HClO<sub>4</sub> and waters needed. Name the salt: cation first, then the polyatomic anion from the green sheet.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.3_strong_weak.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Look for the functional group: &ndash;COOH means acid, an amine nitrogen (&ndash;NH<sub>2</sub>) means base, and an ester (&ndash;COO&ndash; between carbons) has neither.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.3_strong_weak.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Write each ion's conjugate acid (add H<sup>+</sup>) and check the strong-acid list. The weaker the conjugate acid, the stronger the base.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.4_water_kw.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Use K<sub>w</sub>: divide 1.0 &times; 10<sup>&minus;14</sup> by [OH<sup>&minus;</sup>]. Then compare [H<sub>3</sub>O<sup>+</sup>] with 1.0 &times; 10<sup>&minus;7</sup> M.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.4_water_kw.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "NaOH is a strong base with one OH<sup>&minus;</sup>, so [OH<sup>&minus;</sup>] equals its molarity. Then divide K<sub>w</sub> by [OH<sup>&minus;</sup>].",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.4_water_kw.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Compare each given concentration with 10<sup>&minus;7</sup> M (write out the zeros if it helps). For [OH<sup>&minus;</sup>] in A, divide K<sub>w</sub> by A's [H<sub>3</sub>O<sup>+</sup>].",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.4_water_kw.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Move the decimal point left as many places as the exponent says. Then line [H<sub>3</sub>O<sup>+</sup>] up against neutral's 0.0000001 M.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.5_ph.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "HCl is strong, so [H<sub>3</sub>O<sup>+</sup>] equals its molarity. Take &minus;log, and give as many decimal places as the concentration has significant figures.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.5_ph.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "KOH is strong with one OH<sup>&minus;</sup>: take &minus;log[OH<sup>&minus;</sup>] for the pOH, then use pH + pOH = 14.00.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.5_ph.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Undo the log with the 10<sup>x</sup> key: [H<sub>3</sub>O<sup>+</sup>] = 10<sup>&minus;pH</sup>. Two decimal places in the pH give two significant figures. Then compare the pH with 7.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.5_ph.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Compare the pH with the normal range, 7.35&ndash;7.45. Then use [H<sub>3</sub>O<sup>+</sup>] = 10<sup>&minus;pH</sup> with the 10<sup>x</sup> key.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.5_ph.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "pH = &minus;log[H<sub>3</sub>O<sup>+</sup>]; three significant figures give three decimal places. Then compare the pH with 7.35&ndash;7.45.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.5_ph.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "hint": "Map it out: g &rarr; mol NaOH &rarr; mol OH<sup>&minus;</sup> &rarr; [OH<sup>&minus;</sup>] (divide by liters) &rarr; pOH &rarr; pH.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.6_buffers.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Ask the two buffer questions: is there a weak acid (or weak base)? Is its conjugate partner, the same formula with one H<sup>+</sup> more or less, also there?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.6_buffers.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Each partner handles one threat: which one can accept a proton from H<sub>3</sub>O<sup>+</sup>, and which can donate one to OH<sup>&minus;</sup>? Each product is the other partner plus water.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.6_buffers.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Rapid breathing removes CO<sub>2</sub>. Follow CO<sub>2</sub> + H<sub>2</sub>O &rarr; H<sub>2</sub>CO<sub>3</sub> &rarr; H<sup>+</sup> + HCO<sub>3</sub><sup>&minus;</sup>: less CO<sub>2</sub> means what for H<sup>+</sup>, and for pH?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.6_buffers.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Use process of elimination: cross out any pair with a strong acid, then any pair with no weak acid, then any pair whose members don't differ by one H<sup>+</sup>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 12.1",
+  "hint": "For each choice, name the indicator and recall its color in acid and in base (BRA for litmus). Which kind of solution makes chalk fizz?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 12.2",
+  "hint": "(a) Match each color to the red cabbage chart in 12.1. (b) Lower pH is more acidic; look for two samples with the same color. (c) Bases turn red litmus blue. (d) Acid + bicarbonate makes which gas?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 12.3",
+  "hint": "(a) Acid + active metal &rarr; salt + hydrogen gas; aluminum forms Al<sup>3+</sup>. (b) Think about the gas and the metal. (c) Compare with the list of acid properties in 12.1.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 12.4",
+  "hint": "Swap partners first: what forms from H<sup>+</sup> and HCO<sub>3</sub><sup>&minus;</sup>? Then use the unstable-products table to see what that product becomes.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 12.5",
+  "hint": "The salt is the base's cation with the acid's anion; Ba(OH)<sub>2</sub> has two OH<sup>&minus;</sup>, so it needs two acid molecules. For (c), cross out the spectator ions.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 12.6",
+  "hint": "Classify each pH first: below 7 acidic, above 7 basic. Then check each indicator statement: BRA for litmus, pink above about pH 8 for phenolphthalein.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 12.7",
+  "hint": "(a) Acid + carbonate &rarr; salt + water + CO<sub>2</sub>. (b) Does CaSO<sub>4</sub> contain a carbonate or bicarbonate? (c) Balance S first, then H with water, and O last.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 12.8",
+  "hint": "Brønsted&ndash;Lowry definitions are about a proton (H<sup>+</sup>) moving between substances. Recall what an acid does with the proton; a base does the opposite. Which choice is the older Arrhenius definition?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 12.9",
+  "hint": "For each reaction, follow the H<sup>+</sup>: the reactant that loses an H is the acid, and the one that gains it is the base. Each conjugate shares a common piece with its partner.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 12.10",
+  "hint": "A conjugate base has exactly one fewer H and a charge one lower than its acid.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 12.11",
+  "hint": "Conjugate base: remove one H<sup>+</sup> (one fewer H, charge down 1). Conjugate acid: add one H<sup>+</sup> (one more H, charge up 1). Watch the charges on the ions.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 12.12",
+  "hint": "A conjugate pair has one member on each side of the arrow, and the two differ by exactly one H<sup>+</sup>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 12.13",
+  "hint": "(a) As an acid, H<sub>2</sub>PO<sub>4</sub><sup>&minus;</sup> gives one H<sup>+</sup> to OH<sup>&minus;</sup>. (b) As a base, it takes one from H<sub>3</sub>O<sup>+</sup>. Check the charges. (c) See water's double role in 12.2.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 12.14",
+  "hint": "(a) Count C, H, N, and O on each side. (b) BAD: who donates the proton, and who accepts it? (c) Use the urea-to-NH<sub>3</sub> mole ratio; each NH<sub>3</sub> accepts one proton.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 12.15",
+  "hint": "Check the green-sheet strong lists first. Then: H first (acid), metal hydroxide or amine (base), metal with another anion (salt). Carbonates and bicarbonates can be salts and bases.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 12.16",
+  "hint": "Only six common acids are strong; recall the green-sheet list. Having more H atoms, or a halogen, does not make an acid strong.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 12.17",
+  "hint": "Is lactic acid on the green-sheet strong-acid list? How much of a weak acid ionizes, compared with a strong acid?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 12.18",
+  "hint": "Strong acids and bases get a single arrow; weak ones get a double arrow. Acids and amines react with water; hydroxides just dissociate (count the OH<sup>&minus;</sup>).",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 12.19",
+  "hint": "Most of the HX is still intact molecules. Is that a strong or a weak acid? Then find the choice that is not on the strong list.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 12.20",
+  "hint": "Salt = base's cation + acid's anion; balance so every H<sup>+</sup> meets an OH<sup>&minus;</sup>. Check solubility on the green sheet. The number of waters equals the H<sup>+</sup> neutralized.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 12.21",
+  "hint": "Classify each substance as strong or weak first: strong gets a single arrow, weak a double arrow. Then check that each equation balances.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 12.22",
+  "hint": "Bulb brightness tracks how many ions are present. Which is a strong acid (all ions), which is weak (mostly molecules), and which forms no ions?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 12.23",
+  "hint": "(a) Check the green-sheet lists, then look for an amine, a carbonate, or an alcohol. (b)(c) Weak species get double arrows. (d) Strong acid + strong base: think about the heat released.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 12.24",
+  "hint": "Write water's autoionization: each H<sub>3</sub>O<sup>+</sup> forms with one OH<sup>&minus;</sup>. The two equal concentrations multiply to give K<sub>w</sub>; what must each one be?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 12.25",
+  "hint": "Divide K<sub>w</sub> by [H<sub>3</sub>O<sup>+</sup>]. Then check: an acidic juice must have [OH<sup>&minus;</sup>] below 10<sup>&minus;7</sup> M.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 12.26",
+  "hint": "Rearrange K<sub>w</sub> to find [H<sub>3</sub>O<sup>+</sup>] from [OH<sup>&minus;</sup>], then compare it with 1.0 &times; 10<sup>&minus;7</sup> M.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 12.27",
+  "hint": "Compare each value with 1.0 &times; 10<sup>&minus;7</sup> M, and note whether it is [H<sub>3</sub>O<sup>+</sup>] or [OH<sup>&minus;</sup>]. Basic means [H<sub>3</sub>O<sup>+</sup>] below 10<sup>&minus;7</sup> M.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 12.28",
+  "hint": "HBr is a strong acid, so [H<sub>3</sub>O<sup>+</sup>] equals its molarity. Then divide K<sub>w</sub> by [H<sub>3</sub>O<sup>+</sup>].",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 12.29",
+  "hint": "Ca(OH)<sub>2</sub> releases two OH<sup>&minus;</sup> per formula unit, so find [OH<sup>&minus;</sup>] first. Then divide K<sub>w</sub> by it; the question asks for H<sub>3</sub>O<sup>+</sup>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 12.30",
+  "hint": "Put every solution on the same scale: convert each [OH<sup>&minus;</sup>] to [H<sub>3</sub>O<sup>+</sup>] with K<sub>w</sub>, then rank from the largest [H<sub>3</sub>O<sup>+</sup>] (most acidic) down.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 12.31",
+  "hint": "(a) Divide K<sub>w</sub> by [OH<sup>&minus;</sup>] and compare with 10<sup>&minus;7</sup> M. (b) Divide the two [H<sub>3</sub>O<sup>+</sup>] values. (c) Is bicarbonate an acid or a base?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 12.32",
+  "hint": "Does K<sub>w</sub> = [H<sub>3</sub>O<sup>+</sup>][OH<sup>&minus;</sup>] change when a base dissolves at 25 &deg;C? If [OH<sup>&minus;</sup>] goes up, what must happen to keep the product fixed?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 12.33",
+  "hint": "HNO<sub>3</sub> is strong, so [H<sub>3</sub>O<sup>+</sup>] equals its molarity. Take &minus;log, and count significant figures in the concentration for the decimal places.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 12.34",
+  "hint": "KOH is strong with one OH<sup>&minus;</sup>. Take &minus;log[OH<sup>&minus;</sup>] for the pOH, then subtract from 14.00; two significant figures give two decimal places.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 12.35",
+  "hint": "Each Ca(OH)<sub>2</sub> gives two OH<sup>&minus;</sup>. Find [OH<sup>&minus;</sup>], take &minus;log for the pOH, subtract from 14.00, and watch the decimal places.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 12.36",
+  "hint": "Undo the pH with the 10<sup>x</sup> key: [H<sub>3</sub>O<sup>+</sup>] = 10<sup>&minus;pH</sup>. Two decimal places in the pH give two significant figures.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 12.37",
+  "hint": "Each row has one known value. Use the loop in 12.5: &minus;log, 10<sup>x</sup>, K<sub>w</sub>, and pH + pOH = 14.00. In (d), the given value is the pOH.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 12.38",
+  "hint": "Each pH unit is a factor of 10 in [H<sub>3</sub>O<sup>+</sup>]. Find the pH difference, then raise 10 to that power.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 12.39",
+  "hint": "(a) Use 10<sup>&minus;pH</sup>; two decimal places give two significant figures. (b) Divide the two concentrations. (c) Compare with the normal range, 7.35&ndash;7.45.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 12.40",
+  "hint": "Count the significant figures in 4.80 &times; 10<sup>&minus;5</sup> (does the trailing zero count?). That is the number of decimal places the pH gets.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 12.41",
+  "hint": "(a)(b) Use 10<sup>&minus;pH</sup>; one decimal place in the pH means one significant figure. (c) Raise 10 to the pH difference. (d) Is carbonate an acid or a base?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 12.42",
+  "hint": "HCl is strong, so [H<sub>3</sub>O<sup>+</sup>] equals its molarity. Take &minus;log, then subtract from 14.00 for the pOH; count the significant figures in 0.080 carefully.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 12.43",
+  "hint": "Is lactic acid strong or weak? Compare the [H<sub>3</sub>O<sup>+</sup>] it makes with that of 0.010 M HCl, then decide which way the pH moves.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 12.44",
+  "hint": "A buffer needs a weak acid with its own conjugate base (the same formula, one H<sup>+</sup> less). Cross out strong acids first, then check each partner.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 12.45",
+  "hint": "(a) Which species has the acidic H, and which is the same formula minus one H<sup>+</sup>? (b) The base partner takes H<sub>3</sub>O<sup>+</sup>. (c) The acid partner gives a proton to OH<sup>&minus;</sup>. Leave Na<sup>+</sup> out.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 12.46",
+  "hint": "Added OH<sup>&minus;</sup> needs something that can donate a proton to it. Which species in the blood buffer is the acid partner, and which is the base partner?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 12.47",
+  "hint": "(a) Follow the arrows: more CO<sub>2</sub> pushes toward more H<sup>+</sup>. (b) Compare 7.30 with 7.35&ndash;7.45 and ask what caused it. (c) Lungs vs. kidneys. (d) Compare blood with its normal range, not with 7.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 12.48",
+  "hint": "(a) Added acid reacts with the base partner, 1 : 1. (b) Subtract from one partner and add to the other. (c) What happens to the extra acid once the base partner runs out?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 12.49",
+  "hint": "A buffer needs a weak acid plus its conjugate base. Which part neutralizes added acid, and which neutralizes added base? Test HCl and Cl<sup>&minus;</sup> against those two jobs.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 12.50",
+  "hint": "(a) Lactic acid donates its H<sup>+</sup> to HCO<sub>3</sub><sup>&minus;</sup>. (b) H<sub>2</sub>CO<sub>3</sub> breaks down as in acid + carbonate reactions. (c) Where does the extra CO<sub>2</sub> go?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 12.51",
+  "hint": "(a) Use M<sub>1</sub>V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub> (Section 11.4). (b) HCl is strong; take &minus;log and count significant figures. (c) Use the red cabbage chart. (d) Take &minus;log of the stock molarity.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 12.52",
+  "hint": "(a) Moles = L &times; M for each; they react 1 : 1, so subtract. (b) Divide the leftover moles by the total volume. (c) Leftover OH<sup>&minus;</sup> means pOH first. (d) Phenolphthalein is pink above about pH 8.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 12.53",
+  "hint": "(a) The goal is the mole: g &rarr; mol antacid &rarr; mol HCl (from each equation) &rarr; volume of 0.0800 M acid. (c) Which product is a gas? (d) Check the green-sheet strong-base list.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 12.54",
+  "hint": "(a) Remove one H<sup>+</sup> from benzoic acid; add one H<sup>+</sup> to pyridine. (b) Look for a weak acid or weak base with its conjugate partner; ignore Na<sup>+</sup> and Cl<sup>&minus;</sup>. (c) Is HBr strong?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 12.55",
+  "hint": "(a) Grams &rarr; moles, then divide by liters. (b) KOH is strong with one OH<sup>&minus;</sup>: pOH, then pH, then K<sub>w</sub>. (c) Use the cabbage chart. (d) Count the OH<sup>&minus;</sup> per formula unit.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 12.56",
+  "hint": "A conjugate base is one rung down the proton ladder: one fewer H, and the charge goes down by 1.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 12.57",
+  "hint": "(a) Follow the H<sup>+</sup> from left to right (BAD). (b) Find the piece each pair shares. (c) Read right to left: does the conjugate acid hand its H<sup>+</sup> back to the conjugate base?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 12.58",
+  "hint": "Use [H<sub>3</sub>O<sup>+</sup>] = 10<sup>&minus;pH</sup> with the 10<sup>x</sup> key. A high pH must mean a very small [H<sub>3</sub>O<sup>+</sup>].",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 12.59",
+  "hint": "Map it out: g &rarr; mol Sr(OH)<sub>2</sub> &rarr; mol OH<sup>&minus;</sup> (two per formula unit) &rarr; [OH<sup>&minus;</sup>] in mol/L &rarr; pOH &rarr; pH.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 12.60",
+  "hint": "(a) Balance first (Sr(OH)<sub>2</sub> has two OH), then start from the side with both V and M: mL &rarr; mol Sr(OH)<sub>2</sub> &rarr; mol HCl &rarr; mL. (b) [OH<sup>&minus;</sup>] is twice the molarity.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 12.61",
+  "hint": "Cross out any pair with a strong acid. Then check that the two species differ by exactly one H<sup>+</sup> and that both partners are present.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 61,
+  "title": "Problem 12.62",
+  "hint": "Name the functional group in each compound. Which of those groups did Chapter 12 call acidic, which basic, and which neither?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch12/12.8_practice_problems.html",
+  "idx": 62,
+  "title": "Problem 12.63",
+  "hint": "(a) Find which two powers of 10 the concentration sits between. (b) Take &minus;log; two significant figures give two decimal places. (c) Compare with pH 7.",
+  "why": ""
+ }
+]

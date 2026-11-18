@@ -76,7 +76,7 @@
    "Correct: Sieverts (and the older rem, 1 Sv = 100 rem) describe the dose to a person; doses are usually given in millisieverts.",
    "Decays per second is activity, in becquerels or curies.",
    "Sieverts describe what a person absorbs, not what a source emits.",
-   "That is the half-life, a time."
+   "That is the half-life, a time. A sievert measures equivalent dose: absorbed dose adjusted for how harmful the radiation is."
   ],
   "h": "Which family of units describes the person?",
   "w": "Sievert = <b>equivalent (biological) dose</b>.",
@@ -263,9 +263,9 @@
   ],
   "y": [
    "Correct: Top: 228 + 4 = 232. Bottom: 88 + 2 = 90.",
-   "Top: 230 + 4 = 234, not 232.",
-   "Bottom: 89 + 2 = 91, not 90.",
-   "Bottom: 86 + 2 = 88, not 90."
+   "Top: 230 + 4 = 234, not 232. Alpha emission lowers A by 4, so the product's mass number must be 232 &minus; 4.",
+   "Bottom: 89 + 2 = 91, not 90. Alpha emission lowers Z by 2, so the product's atomic number must be 90 &minus; 2.",
+   "Bottom: 86 + 2 = 88, not 90. Alpha emission lowers Z by 2, so the product's atomic number must be 90 &minus; 2."
   ],
   "h": "Check the top total and the bottom total of each.",
   "w": "<b><sup>232</sup><sub>90</sub>Th &rarr; <sup>228</sup><sub>88</sub>Ra + <sup>4</sup><sub>2</sub>He</b>.",
@@ -285,7 +285,7 @@
   "y": [
    "Correct: A = 231 + 4 = 235; Z = 90 + 2 = 92, uranium.",
    "This subtracts the alpha particle; the parent has the larger numbers.",
-   "This adds only 1 to Z; add 2.",
+   "This adds only 1 to Z; add 2. Add the alpha particle back to Th-231: A = 231 + 4 and Z = 90 + 2.",
    "This keeps Z = 90; the parent has 2 more protons."
   ],
   "h": "The parent's numbers equal the totals on the right.",
@@ -306,7 +306,7 @@
   "y": [
    "Correct: Gamma rays have no mass and no charge, so they pass most atoms without interacting: most penetrating, least ionizing.",
    "Alpha particles have the <i>highest</i> ionizing power.",
-   "Beta particles are in the middle.",
+   "Beta particles are in the middle. Ionizing power runs alpha &gt; beta &gt; gamma, so pick the one at the low end.",
    "Alpha particles ionize far more than beta particles."
   ],
   "h": "Ionizing power is the reverse of penetrating power.",
@@ -368,7 +368,7 @@
   ],
   "y": [
    "Correct: n = 15.75 &divide; 5.25 = 3; 6.80 &divide; 8.",
-   "This halves four times; n = 3.",
+   "This halves four times; n = 3. Find n = 15.75 days &divide; 5.25 days, then halve 6.80 mCi that many times.",
    "This divides by 2 &times; 3 = 6 instead of 2<sup>3</sup> = 8.",
    "This multiplies by (1/2) &times; 3; the activity must drop."
   ],
@@ -391,7 +391,7 @@
    "Correct: n = 55.4 &divide; 27.7 = 2; 3.60 &times; 1/4.",
    "This halves once; 55.4 days is two half-lives.",
    "This subtracts half of the <i>original</i> amount twice; each half-life halves what is left.",
-   "This halves three times; n = 2."
+   "This halves three times; n = 2. Find n = 55.4 days &divide; 27.7 days, then halve 3.60 &mu;Ci that many times."
   ],
   "h": "Halve once per half-life.",
   "w": "3.60 &rarr; 1.80 &rarr; 0.900 &mu;Ci = <b>0.900 &mu;Ci</b>.",
@@ -474,7 +474,7 @@
   "y": [
    "Correct: n = 8.40 &divide; 2.80 = 3; working backward, double 3 times: 0.600 &times; 8.",
    "This halves; going back to the start, the activity must get larger.",
-   "This doubles only twice; n = 3.",
+   "This doubles only twice; n = 3. Find n = 8.40 days &divide; 2.80 days, then double 0.600 mCi that many times.",
    "This multiplies by n = 3 instead of 2<sup>3</sup> = 8."
   ],
   "h": "Backward in time, double once per half-life.",
@@ -494,7 +494,7 @@
   ],
   "y": [
    "Correct: n = 19.0 &divide; 3.8 = 5; (1/2)<sup>5</sup> = 1/32.",
-   "This is 4 half-lives; n = 5.",
+   "This is 4 half-lives; n = 5. Find n = 19.0 days &divide; 3.8 days, then halve 100% five times.",
    "This is 3 half-lives; 19.0 days is five 3.8-day half-lives.",
    "This is the percent that has <i>decayed</i>, not the percent left."
   ],
@@ -811,7 +811,7 @@
    "Correct: Dose = dose rate &times; time, so half the time gives half the dose. (Context only; care follows facility policy.)",
    "One-fourth comes from doubling the <i>distance</i> (inverse-square law), not halving the time.",
    "The dose depends on how long she is exposed.",
-   "Less time means less dose."
+   "Less time means less dose, not more. Dose is proportional to time at the same distance, so halving the time halves the dose."
   ],
   "h": "Dose = dose rate &times; time.",
   "w": "Half the time: <b>half the dose</b>.",

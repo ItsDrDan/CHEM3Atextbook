@@ -1,0 +1,767 @@
+[
+ {
+  "file": "drafts/ch13/13.1_rates.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Reactants sit at 120 kJ, the top of the hill at 185 kJ, and the products at 160 kJ. Find E a and &Delta;H, and classify the reaction.",
+  "answer": "E a = 185 &minus; 120 = 65 kJ. &Delta;H = 160 &minus; 120 = +40 kJ. The products are higher in energy, so the reaction is endothermic.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.1_rates.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Why does a chewable antacid tablet that is chewed neutralize stomach acid faster than one swallowed whole?",
+  "answer": "Chewing breaks the tablet into small pieces with much more surface area, so more of the base is exposed to collisions with H + ions each second.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.1_rates.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A student says, \"Raising the temperature speeds up a reaction only because the molecules collide more often.\" What is missing?",
+  "answer": "At a higher temperature, a larger fraction of the collisions also have at least the activation energy. That effect is usually the bigger one.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.1_rates.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "A sample of chicken salad sits at 30 &deg;C instead of 4 &deg;C. Using collision theory, explain why bacteria in it grow faster.",
+  "answer": "Bacterial growth depends on enzyme-catalyzed reactions. At 30 &deg;C the molecules move faster, collide more often, and more collisions have at least E a , so the reactions, and the growth, are faster. 30 &deg;C is also inside the USDA danger zone of 4 to 60 &deg;C.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.1_rates.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "An electric car parked outside overnight in winter shows a shorter driving range in the morning than it did the evening before, even though it was not driven. Use collision theory to explain why, and predict what happens to the range once the battery warms up.",
+  "answer": "The battery delivers energy through chemical reactions. In the cold, the particles move more slowly, collide less often, and fewer collisions have at least E a , so the reactions run more slowly and the battery cannot deliver its full capacity. The stored energy is not gone: as the battery warms, the reactions speed up and much of the range comes back.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.2_dynamic.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Write the forward and reverse reactions for CH 4 (g) + H 2 O(g) &#8644; CO(g) + 3 H 2 (g).",
+  "answer": "Forward: CH 4 (g) + H 2 O(g) &rarr; CO(g) + 3 H 2 (g). Reverse: CO(g) + 3 H 2 (g) &rarr; CH 4 (g) + H 2 O(g).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.2_dynamic.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Fill in each blank with \"equal\" or \"not equal\": (a) Before equilibrium is reached, the forward and reverse rates are ____. (b) At equilibrium, the forward and reverse rates are ____. (c) At equilibrium, the concentrations of reactants and products are usually ____.",
+  "answer": "(a) not equal (the forward rate is faster when you start with reactants). (b) equal. (c) not equal; they are constant.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.2_dynamic.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A sealed flask that starts with only NO 2 gas eventually contains both NO 2 and N 2 O 4 , and its color stops changing. Explain what is happening at the molecular level once the color is steady.",
+  "answer": "Pairs of NO 2 molecules are still combining to form N 2 O 4 , and N 2 O 4 molecules are still splitting into NO 2 , but at the same rate. The amounts, and so the color, stay constant: dynamic equilibrium.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.2_dynamic.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "In the two-tub demonstration with a 300 mL forward beaker and a 150 mL reverse beaker, the water levels eventually stop changing. (a) At that point, is the forward beaker carrying more water per trip, less, or the same as the reverse beaker? (b) Which tub holds more water? (c) Which part of the model stands for the rates, and which for the concentrations?",
+  "answer": "(a) The same: the levels stop changing only when each trip forward is matched by an equal trip back. (b) The product tub. (c) The amount moved per trip stands for the rates (equal at equilibrium); the water level in each tub stands for the concentrations (constant, but not equal).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.3_k.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Write K for 2 SO 2 (g) + O 2 (g) &#8644; 2 SO 3 (g).",
+  "answer": "K = [SO 3 ] 2 / ([SO 2 ] 2 [O 2 ]).",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch13/13.3_k.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Write K for C(s) + H 2 O(g) &#8644; CO(g) + H 2 (g).",
+  "answer": "K = [CO][H 2 ] / [H 2 O]. Carbon is a solid and is left out; water is a gas here, so it stays in.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.3_k.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "For the reaction in Exercise 1, an equilibrium mixture contains [SO 2 ] = 0.100 M, [O 2 ] = 0.0500 M, and [SO 3 ] = 0.400 M. Calculate K and say which side is favored.",
+  "answer": "K = (0.400) 2 / [(0.100) 2 (0.0500)] = 0.160 / 0.000500 = 3.20 &times; 10 2 . K &gt; 1, so products are favored.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.3_k.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "For PCl 5 (g) &#8644; PCl 3 (g) + Cl 2 (g), an equilibrium mixture contains [PCl 5 ] = 0.800 M, [PCl 3 ] = 0.0200 M, and [Cl 2 ] = 0.0200 M. Calculate K. Are reactants or products favored?",
+  "answer": "K = (0.0200)(0.0200) / 0.800 = 5.00 &times; 10 &minus;4 . K &lt; 1, so the reactant, PCl 5 , is favored.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.3_k.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "For 2 NO 2 (g) &#8644; N 2 O 4 (g), an equilibrium mixture contains [NO 2 ] = 0.0500 M and [N 2 O 4 ] = 0.0150 M. Calculate K.",
+  "answer": "K = [N 2 O 4 ] / [NO 2 ] 2 = 0.0150 / (0.0500) 2 = 0.0150 / 0.00250 = 6.00.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.3_k.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "question": "Using your answer to Exercise 5, write the expression and calculate K for the reverse reaction, N 2 O 4 (g) &#8644; 2 NO 2 (g). Do the two K values agree about which gas is favored?",
+  "answer": "K reverse = [NO 2 ] 2 / [N 2 O 4 ] = 1/6.00 = 0.167. Yes: in the forward direction N 2 O 4 is a product and K &gt; 1; in the reverse it is a reactant and K &lt; 1. Both favor N 2 O 4 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.4_le_chatelier.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "For CO(g) + 2 H 2 (g) &#8644; CH 3 OH(g), &Delta;H = &minus;90.5 kJ, predict the shift for: (a) adding CO; (b) removing CH 3 OH; (c) raising the temperature; (d) increasing the volume.",
+  "answer": "(a) Right (away from added CO). (b) Right (toward removed CH 3 OH). (c) Exothermic, heat is a product: adding heat shifts left, and K decreases. (d) 3 mol gas on the left, 1 on the right; more volume shifts toward more moles: left.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.4_le_chatelier.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Iron(III) ions and thiocyanate ions form a blood-red complex ion: Fe 3+ (aq) + SCN &minus; (aq) &#8644; FeSCN 2+ (aq). What happens to the red color when (a) more Fe 3+ is added; (b) a substance is added that removes SCN &minus; from solution?",
+  "answer": "(a) Add a reactant: shift right, more FeSCN 2+ , a deeper red. (b) Remove a reactant: shift left (toward SCN &minus; ), less FeSCN 2+ , the red fades.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.4_le_chatelier.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A patient on opioid pain medicine is breathing only 6 times per minute. Predict the shift in CO 2 (aq) + H 2 O(l) &#8644; H 2 CO 3 (aq) &#8644; H + (aq) + HCO 3 &minus; (aq), and the effect on blood pH.",
+  "answer": "Slow breathing lets CO 2 build up (CO 2 added), so the system shifts right. [H + ] increases and blood pH decreases: respiratory acidosis.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.4_le_chatelier.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Use Le Chatelier's principle to explain why sipping a sugary soda all afternoon is harder on tooth enamel than drinking the same soda with lunch.",
+  "answer": "Each sip feeds plaque bacteria, which make acid. The H + removes OH &minus; (and phosphate) from the enamel equilibrium, so it shifts toward dissolving (demineralization) again and again. With one drink at lunch, saliva has the rest of the afternoon to neutralize acid and add Ca 2+ and phosphate, shifting the equilibrium back toward remineralization.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.4_le_chatelier.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "For 2 NO 2 (g) &#8644; N 2 O 4 (g), which change would change the value of K: adding NO 2 , compressing the gas, adding a catalyst, or cooling the mixture?",
+  "answer": "Only cooling the mixture. The other changes cause a shift (or no shift, for the catalyst) but leave K the same.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.4_le_chatelier.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "question": "For 2 H 2 S(g) + 3 O 2 (g) &#8644; 2 SO 2 (g) + 2 H 2 O(g), predict the shift when the volume of the container is tripled.",
+  "answer": "Tripling the volume lowers the pressure. Gas moles: left, 2 + 3 = 5; right, 2 + 2 = 4. Lower pressure shifts toward more moles of gas: left .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.4_le_chatelier.html",
+  "idx": 6,
+  "title": "Exercise \\(\\PageIndex{7}\\)",
+  "question": "For the equilibrium in Exercise 2, a student adds solid potassium thiocyanate, KSCN. (a) Write its dissociation. (b) Which ion causes a shift, and which way? (c) What does the student see?",
+  "answer": "(a) KSCN(s) &rarr; K + (aq) + SCN &minus; (aq). (b) SCN &minus; , the common ion, is a reactant, so the system shifts right (add &rarr; away); K + is a spectator. (c) A deeper red color, from more FeSCN 2+ .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.4_le_chatelier.html",
+  "idx": 7,
+  "title": "Exercise \\(\\PageIndex{8}\\)",
+  "question": "For heat + CaCO 3 (s) &#8644; CaO(s) + CO 2 (g): (a) Is &Delta;H positive or negative? (b) Predict the shift when the container is cooled. (c) Predict the shift when more CaO(s) is added.",
+  "answer": "(a) Heat is a reactant, so the reaction is endothermic and &Delta;H is positive . (b) Cooling removes heat, a reactant: shift left , toward heat, and K decreases. (c) CaO is a pure solid: no shift .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 13.1",
+  "question": "Nitric oxide from car exhaust reacts with ozone in the air: NO(g) + O 3 (g) &rarr; NO 2 (g) + O 2 (g) In a flask of the two gases, the molecules collide billions of times per second, yet only a small fraction of those collisions form products. Why? A. The molecules can react only when they collide with a catalyst, and the flask has none. B. At room temperature gas molecules are not moving, so they collide only when the flask is shaken. C. A collision forms products only if the molecules hit with the right orientation and with at least the activation energy. D. As soon as a few NO 2 molecules form, the reaction reaches equilibrium and the collisions stop.",
+  "answer": "C. Collision theory says an effective collision needs two things: the right orientation (the right atoms touching, so the right bond can break and form) and enough energy to reach at least E a . Most collisions miss on one or both counts, and the molecules simply bounce apart unchanged. A is wrong because a catalyst is not required. It only lowers the activation energy so that more collisions succeed; many reactions run without one. B is wrong because gas particles are always moving (Chapter 10). Even at room temperature they collide constantly. D mixes up two ideas. Collisions never stop, and at equilibrium (Section 13.2) the forward and reverse reactions keep running at equal rates.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 13.2",
+  "question": "On an energy diagram for a reaction, the reactants sit at 85 kJ, the top of the hill is at 210 kJ, and the products sit at 140 kJ. (a) What is the activation energy? (b) What is &Delta;H? (c) Is the reaction exothermic or endothermic? (d) With a catalyst, the top of the hill is at 160 kJ. What are E a and &Delta;H for the catalyzed path?",
+  "answer": "(a) E a = top of hill &minus; reactants = 210 kJ &minus; 85 kJ = 125 kJ . (b) &Delta;H = products &minus; reactants = 140 kJ &minus; 85 kJ = +55 kJ . (c) The products are higher in energy than the reactants, so heat is absorbed: endothermic . (d) E a = 160 kJ &minus; 85 kJ = 75 kJ , lower than before. &Delta;H is still +55 kJ : a catalyst lowers the hill but does not move the starting or ending energies.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 13.3",
+  "question": "On an energy diagram, the reactants sit at 75 kJ, the top of the hill is at 160 kJ, and the products sit at 10 kJ. What is the activation energy of the forward reaction? A. 150 kJ B. 85 kJ C. 160 kJ D. 65 kJ",
+  "answer": "B. Activation energy is always measured from the reactants up to the top of the hill: E a = 160 kJ &minus; 75 kJ = 85 kJ. A measures from the products (160 &minus; 10). That is the hill for the reverse reaction, not the forward one. C reads the height of the hill from the bottom of the graph (zero) instead of from the reactants. D is the size of &Delta;H (10 &minus; 75 = &minus;65 kJ, an exothermic reaction), the difference between reactants and products, not the hill.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 13.4",
+  "question": "A pharmacist tests how fast the active ingredient in a liquid medicine breaks down at different storage temperatures. The table below gives the percent of the active ingredient lost per week. @media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } } Breakdown of a liquid medicine at four storage temperatures Storage temperature (&deg;C) Active ingredient lost per week (%) 5 0.40 15 0.81 25 1.6 35 3.3 (a) Describe the trend, and explain it with collision theory. (b) By about what factor does the rate of breakdown change for each 10 &deg;C rise? (c) About how many times faster does the medicine break down at 35 &deg;C than in a refrigerator at 5 &deg;C? (d) Predict the percent lost per week at 45 &deg;C.",
+  "answer": "(a) The higher the temperature, the faster the medicine breaks down. At a higher temperature the molecules move faster, so they collide more often, and a larger fraction of the collisions have at least the activation energy, so more collisions are effective each second. (b) Each step up the table is about a factor of 2 : 0.81 &divide; 0.40 = 2.0, 1.6 &divide; 0.81 = 2.0, and 3.3 &divide; 1.6 = 2.1. The rate about doubles for every 10 &deg;C, the rule of thumb in Section 13.1. (c) \\( \\dfrac{3.3\\ \\%\\ \\text{per week}}{0.40\\ \\%\\ \\text{per week}} = 8.25 \\approx 8 \\) (c) About 8 times faster. That matches three doublings for a 30 &deg;C difference: 2 &times; 2 &times; 2 = 8. (d) Doubling once more: 2 &times; 3.3% &asymp; 6.6% per week (an estimate; the doubling rule is only approximate). This is why some liquid medicines are labeled \"refrigerate.\" (Context only; store every medicine as its label or pharmacist directs.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 13.5",
+  "question": "A student drops marble chips (calcium carbonate) into hydrochloric acid and watches the bubbles of carbon dioxide: CaCO 3 (s) + 2 HCl(aq) &rarr; CaCl 2 (aq) + H 2 O(l) + CO 2 (g) Which change makes the bubbling slower ? A. Warming the acid from 20 &deg;C to 40 &deg;C B. Using a few large chips instead of many small chips of the same total mass C. Using 2.0 M HCl instead of 1.0 M HCl D. Grinding the chips into a powder before adding them",
+  "answer": "B. The reaction happens only where acid touches the surface of the solid. A few large chips expose much less surface area than many small chips of the same mass, so fewer CaCO 3 units are available to collide with the acid each second, and the reaction slows. A speeds the reaction up: hotter particles collide more often and harder, and more collisions have at least E a . C speeds it up: more H + ions per liter means more collisions with the solid per second. D speeds it up a great deal: a powder has far more surface area than chips.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 13.6",
+  "question": "A patient's temperature rises from 37.0 &deg;C to 39.5 &deg;C during a fever. (a) Use collision theory to explain why her metabolic rate, and with it her heart rate and breathing rate, goes up. (b) The body's reactions are catalyzed by enzymes. Explain why a very high body temperature, above about 41 &deg;C, slows some of these reactions instead of speeding them up. (c) What do the words \"optimum temperature\" mean for an enzyme?",
+  "answer": "(a) Higher temperature means faster-moving molecules. The substrate molecules collide with enzymes more often, and a larger fraction of those collisions have enough energy to react, so the enzyme-catalyzed reactions of metabolism run faster. The body then uses oxygen and fuel faster, so the heart pumps faster and she breathes faster to keep up. (b) Enzymes are proteins, and they work only when they hold their exact shape. At too high a temperature the shape begins to change (the enzyme denatures ), the substrate no longer fits, and the catalyzed path with its lower activation energy is lost. The reaction falls back toward its slow, uncatalyzed rate. (c) The optimum temperature is the temperature at which the enzyme works fastest: warm enough for frequent, energetic collisions, but not so hot that the enzyme loses its shape. For most human enzymes it is close to body temperature. (Context only; this is not guidance on treating a fever.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 13.7",
+  "question": "A package of ground beef is forgotten in a car on a hot afternoon and warms to 33 &deg;C. In the refrigerator it was at 3 &deg;C. (a) Use the rule of thumb that rates about double for every 10 &deg;C to estimate how many times faster the bacteria's enzyme-catalyzed reactions run in the car. (b) Is 33 &deg;C inside the U.S. Department of Agriculture's \"danger zone\" of 40 &deg;F to 140 &deg;F (about 4 &deg;C to 60 &deg;C)? (c) A friend says, \"It's fine; the cold in the refrigerator killed the bacteria anyway.\" What is wrong with this?",
+  "answer": "(a) The temperature rose by 33 &deg;C &minus; 3 &deg;C = 30 &deg;C, which is three 10 &deg;C steps. Each step doubles the rate: 2 &times; 2 &times; 2 = about 8 times faster . (This is a rough estimate; real bacterial growth depends on the species.) (b) Yes. 33 &deg;C is well inside 4 &deg;C to 60 &deg;C, where bacteria in food can multiply quickly. (c) Cold slows the bacteria's reactions; it does not kill most of them. Once the meat warms up, their reactions speed up again. That is why food is both kept cold and cooked to a safe temperature.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 13.8",
+  "question": "Fine dust from almond hulling, grain handling, or flour milling can explode if it is stirred into the air and meets a spark, but a solid pile of the same material only smolders. Which statement best explains the difference? A. The dust has far more surface area, so far more of the fuel is exposed to collisions with O 2 at the same time. B. Grinding a material into dust changes it into a new substance with a lower activation energy. C. Dust particles are hotter than a solid pile because they float in warm air. D. A cloud of dust contains more total fuel than a pile of the same mass.",
+  "answer": "A. Breaking a solid into tiny particles exposes an enormous surface area. Each particle is surrounded by air, so huge numbers of fuel&ndash;O 2 collisions happen at once, and the burning spreads through the cloud almost instantly. In a pile, only the outside surface touches air. B is wrong because grinding is a physical change. The dust is the same substance with the same activation energy; there is simply much more of it exposed. C is wrong because the dust starts at the same temperature as its surroundings. The spark, not the dust, supplies the activation energy. D is wrong because the problem compares the same mass of material. The amount of fuel is the same; only how much of it can collide with oxygen at once is different.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 13.9",
+  "question": "A patient who uses oxygen at home through a nasal cannula is told never to smoke or light candles near the oxygen, because materials burn much faster and more fiercely in oxygen-enriched air. Use collision theory to explain why a higher concentration of O 2 makes burning faster.",
+  "answer": "Burning is a reaction between the fuel (hair, clothing, bedding, a cigarette) and O 2 . Air near the cannula has a higher concentration of O 2 , so more O 2 molecules are in contact with the fuel's surface, and there are many more fuel&ndash;O 2 collisions per second. More collisions per second means more effective collisions per second, so the fuel ignites more easily and burns faster and hotter. It is the same reason a glowing splint bursts into flame in pure oxygen. (Context only; follow the oxygen supplier's and the care team's safety instructions.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 13.10",
+  "question": "Ozone near the ground is not released directly by cars or farms. It forms when sunlight drives reactions between nitrogen oxides (from vehicles, trucks, and engines) and volatile organic compounds (VOCs). The San Joaquin Valley's ozone levels are usually highest on hot, sunny summer afternoons. (a) Using collision theory, explain how high temperatures help ozone form faster. (b) A student writes, \"Heat lowers the activation energy of the ozone reactions.\" Correct the statement.",
+  "answer": "(a) At higher temperatures the molecules in the air move faster, so they collide more often, and a larger fraction of those collisions have at least the activation energy. The reactions that make ozone run faster, so more ozone builds up during a hot afternoon (strong sunlight on long summer days, and still air that traps the gases, add to the effect). (b) Temperature does not change the activation energy; only a catalyst gives a path with a lower hill. Heating raises the number of molecules that have enough energy to get over the same hill.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 13.11",
+  "question": "Which statement is true for every reaction at chemical equilibrium? A. The concentrations of the reactants and products are equal. B. The forward and reverse reactions have both stopped. C. The forward reaction is faster than the reverse reaction. D. The forward and reverse rates are equal, so the concentrations stay constant.",
+  "answer": "D. Equilibrium is defined by equal rates. Because each species is made as fast as it is used up, there is no net change, and the concentrations stay constant: equal rates, constant amounts. A is the most common trap. The concentrations are constant, but they are usually not equal; the mixture can be mostly products, mostly reactants, or a fair amount of both. B is wrong because equilibrium is dynamic. Both reactions keep running; they just run at the same rate. C describes a reaction that is still approaching equilibrium from the reactant side, not one that has reached it.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 13.12",
+  "question": "A sealed bottle of sparkling water has been sitting on a shelf for a week, and the pressure inside has stopped changing: CO 2 (g) &#8644; CO 2 (aq) Which statement about the bottle is correct? A. No CO 2 molecules move between the gas space and the water anymore. B. All of the CO 2 has dissolved in the water. C. CO 2 molecules dissolve in the water and escape from it at the same rate. D. The concentration of CO 2 in the water is equal to the concentration of CO 2 in the gas space.",
+  "answer": "C. This is a dynamic equilibrium (a physical one: the CO 2 changes phase, not identity). Molecules are constantly dissolving and escaping, but at the same rate, so the amount in each phase, and so the pressure, stays constant. A says the rates are zero. At equilibrium the rates are equal, not zero. B is wrong because there is still CO 2 gas in the space above the water; that gas is what keeps the pressure up. D confuses constant with equal. The two concentrations stay constant, but nothing makes them the same number.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 13.13",
+  "question": "Ethylene and hydrogen react to form ethane: C 2 H 4 (g) + H 2 (g) &#8644; C 2 H 6 (g) (a) Write the forward and reverse reactions. (b) A sealed flask starts with only C 2 H 6 . At the very start, which rate is zero, and why? (c) As time goes on, how do the forward and reverse rates change? (d) Once equilibrium is reached, does the flask still contain C 2 H 6 ?",
+  "answer": "(a) Forward: C 2 H 4 (g) + H 2 (g) &rarr; C 2 H 6 (g). Reverse: C 2 H 6 (g) &rarr; C 2 H 4 (g) + H 2 (g). (b) The forward rate is zero: there is no C 2 H 4 or H 2 yet, so there is nothing to collide and react in the forward direction. The reverse reaction is the only one running, and it is at its fastest. (c) As C 2 H 6 breaks apart, the reverse rate slows (less C 2 H 6 left), and as C 2 H 4 and H 2 build up, the forward rate rises. The two rates become equal at equilibrium. (d) Yes. At equilibrium all three gases are present at constant concentrations. Equilibrium can be reached from either side.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 13.14",
+  "question": "A reversible reaction is started in a sealed flask with only reactants. On a graph of rate versus time, which description of the reverse rate is correct? A. It starts high and falls to zero at equilibrium. B. It starts at zero, rises, and levels off at the same value as the forward rate. C. It stays at zero until equilibrium is reached, then jumps up to match the forward rate. D. It starts at zero and keeps rising until it is larger than the forward rate.",
+  "answer": "B. With no products at the start, the reverse reaction cannot happen, so its rate is zero. As products build up, more reverse collisions happen and the reverse rate rises, while the forward rate falls. At equilibrium the two curves meet and stay level together. A describes the forward rate's shape, and even the forward rate does not reach zero; it levels off. C is wrong because the reverse reaction starts as soon as the first product molecules form; it rises gradually, not in a jump. D is wrong because once the rates are equal there is no net change, so nothing pushes the reverse rate any higher.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 13.15",
+  "question": "Two sealed flasks of the same size are held at the same high temperature. Flask 1 starts with 0.100 mol of CO and 0.100 mol of H 2 O vapor. Flask 2 starts with 0.100 mol of CO 2 and 0.100 mol of H 2 . The reaction is CO(g) + H 2 O(g) &#8644; CO 2 (g) + H 2 (g) (a) Which reaction, forward or reverse, runs faster at first in each flask? (b) Once equilibrium is reached, which gases are in flask 2? (c) The two flasks contain the same atoms in the same amounts. How do their equilibrium mixtures compare?",
+  "answer": "(a) Flask 1 has only reactants, so the forward reaction runs faster at first. Flask 2 has only products, so the reverse reaction runs faster at first. (b) All four : CO, H 2 O, CO 2 , and H 2 . The reverse reaction makes CO and H 2 O until the forward and reverse rates are equal. (c) They end up with the same equilibrium mixture . Both flasks hold 0.100 mol of C, 0.200 mol of O, and 0.200 mol of H in the same volume at the same temperature, so approaching from the left or from the right leads to the same place, with the same K.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 13.16",
+  "question": "Water evaporates both from an open pot on a counter and from a capped bottle that is half full. Which can reach a liquid&ndash;vapor equilibrium, H 2 O(l) &#8644; H 2 O(g)? A. Only the open pot, because the vapor has room to spread out B. Both, because evaporation happens in both containers C. Neither, because evaporation is a physical change, not a chemical reaction D. Only the capped bottle, because it is a closed system",
+  "answer": "D. In the capped bottle, vapor collects above the liquid and some of it condenses back. Soon molecules evaporate and condense at the same rate, and the amount of vapor stays constant. In the open pot, the vapor drifts away, so condensation cannot keep up, and the water eventually evaporates completely. A has it backward: letting the vapor escape is exactly what prevents equilibrium. B is wrong because evaporation alone is not equilibrium; the reverse process, condensation, has to keep pace, and that needs a closed system. C is wrong because physical changes such as evaporation and dissolving can reach dynamic equilibrium too, as long as the system is closed.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 13.17",
+  "question": "In water, pink hexaaquacobalt(II) ions react with chloride ions to form blue tetrachlorocobaltate(II) ions: [Co(H 2 O) 6 ] 2+ (aq, pink) + 4 Cl &minus; (aq) &#8644; [CoCl 4 ] 2&minus; (aq, blue) + 6 H 2 O(l) A solution of these ions sits on the bench, and after a few minutes its purple color stops changing. A student says, \"The color stopped changing, so the reaction is over, and there must be equal amounts of the pink and blue ions.\" Correct both parts of the statement.",
+  "answer": "The reaction is not over. The color is steady because the system is at dynamic equilibrium : pink ions are still turning into blue ions, and blue ions are still turning back into pink ones, at the same rate, so the amounts stay constant. The amounts are constant, not necessarily equal. A purple color tells you both ions are present in noticeable amounts, but the equilibrium concentrations of the two ions do not have to be the same; that depends on K and on the other concentrations. Equal rates, constant amounts.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 13.18",
+  "question": "Nitrosyl chloride breaks down into nitric oxide and chlorine: 2 NOCl(g) &#8644; 2 NO(g) + Cl 2 (g) Which is the equilibrium constant expression? A. \\( K = \\dfrac{[\\text{NOCl}]^2}{[\\text{NO}]^2[\\text{Cl}_2]} \\) B. \\( K = \\dfrac{[\\text{NO}][\\text{Cl}_2]}{[\\text{NOCl}]} \\) C. \\( K = \\dfrac{[\\text{NO}]^2[\\text{Cl}_2]}{[\\text{NOCl}]^2} \\) D. \\( K = \\dfrac{2[\\text{NO}][\\text{Cl}_2]}{2[\\text{NOCl}]} \\)",
+  "answer": "C. Products over reactants, with each coefficient as an exponent: NO and NOCl each have a coefficient of 2, and Cl 2 has 1 (not written). A is upside down: reactants over products. B leaves out the exponents, as if every coefficient were 1. D multiplies by the coefficients instead of raising to their powers. (The 2's would also cancel, giving B again.)",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 13.19",
+  "question": "Hydrogen gas reduces magnetite, an iron ore, to iron metal: Fe 3 O 4 (s) + 4 H 2 (g) &#8644; 3 Fe(s) + 4 H 2 O(g) Which is the equilibrium constant expression? A. \\( K = \\dfrac{[\\text{H}_2\\text{O}]^4}{[\\text{H}_2]^4} \\) B. \\( K = \\dfrac{[\\text{Fe}]^3[\\text{H}_2\\text{O}]^4}{[\\text{Fe}_3\\text{O}_4][\\text{H}_2]^4} \\) C. \\( K = \\dfrac{1}{[\\text{H}_2]^4} \\) D. \\( K = \\dfrac{[\\text{H}_2]^4}{[\\text{H}_2\\text{O}]^4} \\)",
+  "answer": "A. Fe 3 O 4 and Fe are pure solids, so they are left out. Water here is a gas (g), not a liquid, so it stays in. Products over reactants, coefficients as exponents. B includes the two solids. Their concentrations do not change, so they never appear in K. C drops the water as if it were a liquid. Always read the phase label: H 2 O(g) stays in; H 2 O(l) would be left out. D is upside down: reactants over products.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 13.20",
+  "question": "Write the equilibrium constant expression for each reaction. (a) 2 CO(g) + O 2 (g) &#8644; 2 CO 2 (g) (b) CO 2 (aq) + H 2 O(l) &#8644; H 2 CO 3 (aq) (c) NH 4 Cl(s) &#8644; NH 3 (g) + HCl(g) (d) 4 NH 3 (g) + 5 O 2 (g) &#8644; 4 NO(g) + 6 H 2 O(g)",
+  "answer": "(a) \\( K = \\dfrac{[\\text{CO}_2]^2}{[\\text{CO}]^2[\\text{O}_2]} \\) (b) \\( K = \\dfrac{[\\text{H}_2\\text{CO}_3]}{[\\text{CO}_2]} \\) (c) \\( K = [\\text{NH}_3][\\text{HCl}] \\) (d) \\( K = \\dfrac{[\\text{NO}]^4[\\text{H}_2\\text{O}]^6}{[\\text{NH}_3]^4[\\text{O}_2]^5} \\) In (b), water is the solvent, a pure liquid, so it is left out; this is the first step of the blood CO 2 equilibrium in Section 13.4. In (c), the solid NH 4 Cl is left out, so there is nothing in the denominator. In (d), every species is a gas, so all four appear, each with its coefficient as the exponent.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 13.21",
+  "question": "A reaction has this equilibrium constant expression: \\( K = \\dfrac{[\\text{NO}]^2[\\text{O}_2]}{[\\text{NO}_2]^2} \\) Which balanced equation does it belong to? A. 2 NO(g) + O 2 (g) &#8644; 2 NO 2 (g) B. 2 NO 2 (g) &#8644; 2 NO(g) + O 2 (g) C. NO 2 (g) &#8644; NO(g) + O 2 (g) D. 2 NO 2 (g) &#8644; 2 NO(g) + 2 O(g)",
+  "answer": "B. The species on top (NO and O 2 ) are the products, the species on the bottom (NO 2 ) is the reactant, and the exponents are the coefficients: 2 NO 2 &#8644; 2 NO + O 2 . Check that it balances: 2 N and 4 O on each side. A is the reverse reaction. Its K would be the reciprocal, [NO 2 ] 2 / ([NO] 2 [O 2 ]). C is not balanced (2 O on the left, 3 on the right), and its K would have no exponents. D has O atoms instead of O 2 molecules, so its K would contain [O] 2 , not [O 2 ].",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 13.22",
+  "question": "At a certain high temperature, an equilibrium mixture for the reaction below contains [CO] = 0.0400 M, [H 2 O] = 0.0500 M, [CO 2 ] = 0.0600 M, and [H 2 ] = 0.0600 M. CO(g) + H 2 O(g) &#8644; CO 2 (g) + H 2 (g) What is K? A. 0.556 B. 1.33 C. 0.00360 D. 1.80",
+  "answer": "D. All four species are gases, and every coefficient is 1: \\( K = \\dfrac{[\\text{CO}_2][\\text{H}_2]}{[\\text{CO}][\\text{H}_2\\text{O}]} = \\dfrac{(0.0600)(0.0600)}{(0.0400)(0.0500)} = \\dfrac{0.00360}{0.00200} = 1.80 \\) Three significant figures in each concentration give three in K. K is close to 1, so the mixture has sizable amounts of both reactants and products, as the numbers show. A is reactants over products, 0.00200 &divide; 0.00360. That is K for the reverse reaction. B adds the concentrations, (0.0600 + 0.0600) &divide; (0.0400 + 0.0500), instead of multiplying them. C stops after the numerator and never divides by the reactants.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 13.23",
+  "question": "At a high temperature, hydrogen sulfide breaks down: 2 H 2 S(g) &#8644; 2 H 2 (g) + S 2 (g) An equilibrium mixture contains [H 2 S] = 0.0800 M, [H 2 ] = 0.0120 M, and [S 2 ] = 0.00600 M. (a) Write K. (b) Calculate K. (c) Are reactants or products favored?",
+  "answer": "(a) \\( K = \\dfrac{[\\text{H}_2]^2[\\text{S}_2]}{[\\text{H}_2\\text{S}]^2} \\) (b) \\( K = \\dfrac{(0.0120)^2(0.00600)}{(0.0800)^2} = \\dfrac{(0.000144)(0.00600)}{0.00640} = \\dfrac{8.64 \\times 10^{-7}}{0.00640} = 1.35 \\times 10^{-4} \\) (b) K = 1.35 &times; 10 &minus;4 (three significant figures). Forgetting to square the H 2 and H 2 S terms would give 9.00 &times; 10 &minus;4 , a different and wrong answer. (c) K is much less than 1, so reactants are favored : most of the sulfur stays as H 2 S, just as the concentrations show (0.0800 M H 2 S against only 0.0120 M H 2 ).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 13.24",
+  "question": "Solid ammonium hydrogen sulfide is placed in a sealed flask and partly breaks down into two gases: NH 4 HS(s) &#8644; NH 3 (g) + H 2 S(g) At equilibrium, [NH 3 ] = [H 2 S] = 0.0110 M, and some solid is still present. What is K? A. 1.21 &times; 10 &minus;4 B. 0.0220 C. 8.26 &times; 10 3 D. 0.0110",
+  "answer": "A. The solid is left out, so K is just the product of the two gas concentrations: \\( K = [\\text{NH}_3][\\text{H}_2\\text{S}] = (0.0110)(0.0110) = 1.21 \\times 10^{-4} \\) B adds the two concentrations instead of multiplying them. C is 1 &divide; (1.21 &times; 10 &minus;4 ), the expression turned upside down, as if the gases were reactants. D uses only one of the two products.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 13.25",
+  "question": "Inside a hot engine, nitrogen and oxygen from the air form nitric oxide: N 2 (g) + O 2 (g) &#8644; 2 NO(g) The table below gives three equilibrium mixtures, each reached from a different starting mixture at the same temperature, about 2000 K. Equilibrium concentrations for N 2 + O 2 &#8644; 2 NO at about 2000 K Experiment [N 2 ] (M) [O 2 ] (M) [NO] (M) 1 0.800 0.200 0.00800 2 0.500 0.500 0.0100 3 0.900 0.400 0.0120 (a) Write K. (b) Calculate K for each experiment. (c) What do your answers show? (d) At this temperature, does the equilibrium mixture contain mostly reactants or mostly products?",
+  "answer": "(a) \\( K = \\dfrac{[\\text{NO}]^2}{[\\text{N}_2][\\text{O}_2]} \\) (b) Experiment 1: \\( K = \\dfrac{(0.00800)^2}{(0.800)(0.200)} = \\dfrac{6.40 \\times 10^{-5}}{0.160} = 4.00 \\times 10^{-4} \\) Experiment 2: \\( K = \\dfrac{(0.0100)^2}{(0.500)(0.500)} = \\dfrac{1.00 \\times 10^{-4}}{0.250} = 4.00 \\times 10^{-4} \\) Experiment 3: \\( K = \\dfrac{(0.0120)^2}{(0.900)(0.400)} = \\dfrac{1.44 \\times 10^{-4}}{0.360} = 4.00 \\times 10^{-4} \\) (c) The three mixtures have different concentrations but the same K, 4.00 &times; 10 &minus;4 . At a given temperature, K does not depend on the starting amounts. (Leaving out the exponent on [NO] would give three different numbers, 0.0500, 0.0400, and 0.0333, a sign that something is wrong.) (d) K is much less than 1, so the mixture is mostly reactants , N 2 and O 2 , with only a little NO. Even so, a car engine burns so much air that this small fraction adds up to a major source of nitrogen oxides, one of the ingredients of the Valley's ozone.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 13.26",
+  "question": "At 25 &deg;C, the reaction 2 H 2 (g) + O 2 (g) &#8644; 2 H 2 O(g) has K of about 10 80 . Yet a balloon filled with a mixture of hydrogen and oxygen can sit for years without making any noticeable water, until a spark sets it off. Which statement explains this? A. K is so large that the reaction is already complete inside the balloon. B. K tells how far the reaction goes at equilibrium, not how fast it gets there; with a high activation energy, the reaction is extremely slow until a spark supplies the energy. C. A K of 10 80 means the reactants are strongly favored, so no water forms. D. The balloon is already at equilibrium, because the concentrations of H 2 and O 2 are not changing.",
+  "answer": "B. The size of K (Section 13.3) and the rate (Section 13.1) answer different questions. A huge K says that if the mixture reaches equilibrium, it will be almost all water. The activation energy decides how quickly that happens, and for H 2 and O 2 at room temperature it is so high that almost no collisions succeed. A spark gives some molecules enough energy, the heat released sets off the rest, and the balloon explodes. A contradicts the problem: the balloon contains almost no water, so the reaction has not happened. C reads K backward. A K much greater than 1 favors products . D is wrong because nothing changing is not enough: an equilibrium mixture for this K would be almost all water. The mixture is unchanged because the reaction is too slow to be seen, not because it has reached equilibrium.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 13.27",
+  "question": "At 25 &deg;C, K for 2 NO 2 (g) &#8644; N 2 O 4 (g) is about 2.2 &times; 10 2 . (a) What is K for the reverse reaction, N 2 O 4 (g) &#8644; 2 NO 2 (g), at 25 &deg;C? (b) Do the two K values describe the same equilibrium mixture or different ones? (c) Three other reactions have these K values at 25 &deg;C: reaction X, 7.5 &times; 10 &minus;15 ; reaction Y, 0.36; reaction Z, 4.1 &times; 10 8 . Which goes nearly to completion, which barely happens, and which leaves sizable amounts of both reactants and products?",
+  "answer": "(a) \\( K_{\\text{reverse}} = \\dfrac{1}{K} = \\dfrac{1}{2.2 \\times 10^{2}} = 4.5 \\times 10^{-3} \\) (a) 4.5 &times; 10 &minus;3 (two significant figures, like 2.2 &times; 10 2 ). (b) The same mixture. Writing the reaction backward swaps the top and bottom of the expression, so K becomes 1/K, but the gases in the flask are the same. Both values say that N 2 O 4 is the favored side at 25 &deg;C, although K is not large enough to make the reaction go nearly to completion. (c) Reaction Z (K &#8811; 1) goes nearly to completion ; reaction X (K &#8810; 1) barely happens ; reaction Y (K close to 1) leaves sizable amounts of both .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 13.28",
+  "question": "Nitric oxide and bromine are at equilibrium with nitrosyl bromide in a sealed flask: 2 NO(g) + Br 2 (g) &#8644; 2 NOBr(g) More Br 2 is added, and the temperature is kept constant. What happens? A. The equilibrium shifts left, toward the added Br 2 ; K does not change. B. The equilibrium shifts right; K does not change. C. The equilibrium shifts right, and K increases. D. Nothing happens, because the system was already at equilibrium.",
+  "answer": "B. Add &rarr; away: Br 2 is a reactant, so the system shifts away from it, to the right. The extra Br 2 means more forward collisions, so for a while the forward reaction runs faster, using up some Br 2 and NO and making more NOBr. The temperature did not change, so K stays the same; the concentrations rearrange until their ratio equals the same K again. A shifts toward the added substance. Adding pushes the system away from it. C has the right direction, but only a temperature change changes K. D is wrong because adding Br 2 disturbs the equilibrium. Le Chatelier's principle is about exactly that: how an equilibrium responds to a stress.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 13.29",
+  "question": "Chlorine can be made from hydrogen chloride and oxygen: 4 HCl(g) + O 2 (g) &#8644; 2 Cl 2 (g) + 2 H 2 O(g) For each change, predict the direction of the shift and the effect on the concentration named: (a) O 2 is added; effect on [HCl]. (b) H 2 O is removed; effect on [Cl 2 ]. (c) Cl 2 is added; effect on [O 2 ]. (d) HCl is removed; effect on [H 2 O].",
+  "answer": "(a) Add a reactant: shift right , away from O 2 . HCl is used up, so [HCl] decreases . (b) Take &rarr; toward: shift right , toward the removed H 2 O. More products form, so [Cl 2 ] increases . (c) Add a product: shift left , away from Cl 2 . More reactants form, so [O 2 ] increases . (d) Take &rarr; toward: shift left , toward the removed HCl. Products are used up, so [H 2 O] decreases . In every case, find the direction first; then everything on the side the system shifts toward goes up, and everything on the other side goes down. None of these changes K.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 13.30",
+  "question": "Use the cobalt equilibrium from Section 13.2's problems. The forward reaction is endothermic. [Co(H 2 O) 6 ] 2+ (aq, pink) + 4 Cl &minus; (aq) &#8644; [CoCl 4 ] 2&minus; (aq, blue) + 6 H 2 O(l) &nbsp;&nbsp; &Delta;H positive A test tube of the purple equilibrium mixture is divided into four tubes. Predict the shift and the color change for each: (a) concentrated HCl is added, which supplies Cl &minus; ; (b) silver nitrate is added, which removes Cl &minus; as solid AgCl; (c) the tube is placed in an ice bath; (d) the tube is placed in boiling water. (e) In which tubes does K change?",
+  "answer": "(a) Add a reactant (Cl &minus; ): shift right , more [CoCl 4 ] 2&minus; , so the solution turns blue . (b) Ag + (aq) + Cl &minus; (aq) &rarr; AgCl(s) removes Cl &minus; . Take &rarr; toward: shift left , more [Co(H 2 O) 6 ] 2+ , so the solution turns pink (with white AgCl solid). (c) &Delta;H is positive, so heat is a reactant: heat + [Co(H 2 O) 6 ] 2+ + 4 Cl &minus; &#8644; [CoCl 4 ] 2&minus; + 6 H 2 O. Cooling removes heat, so the system shifts left , toward the heat term: pink . (d) Heating adds a reactant (heat): shift right : blue . (e) Only (c) and (d) , the temperature changes. K decreases in the ice bath and increases in boiling water. Adding or removing Cl &minus; shifts the equilibrium but leaves K the same.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 13.31",
+  "question": "In simplified form, hemoglobin carries oxygen by the equilibrium Hb(aq) + O 2 (aq) &#8644; HbO 2 (aq). In a leg muscle during a long run, cells use O 2 quickly, so the O 2 concentration there is low. What happens to the equilibrium in the red blood cells passing through that muscle? A. It shifts left, so HbO 2 releases O 2 to the muscle. B. It shifts right, because the muscle needs more oxygen. C. It does not shift, because hemoglobin is a catalyst. D. It shifts right, because removing O 2 pushes the system away from O 2 .",
+  "answer": "A. The working muscle removes O 2 . Take &rarr; toward: the system shifts toward O 2 , to the left. HbO 2 breaks apart and releases its oxygen right where it is being used. In the lungs, where O 2 is high, the same equilibrium shifts right and hemoglobin loads up again. B gives a reason from biology (\"the muscle needs it\"), not from the equilibrium. Shifting right would make hemoglobin hold on to more oxygen, the opposite of delivery. C is wrong because hemoglobin is a reactant in this equilibrium, not a catalyst; it is bound and released, not left unchanged on the side. D swaps the rules. Removing a substance pulls the system toward it; adding one pushes the system away.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 13.32",
+  "question": "A Fresno student who lives near sea level drives to a trailhead in the Sierra Nevada and hikes to about 3,600 m (about 12,000 ft), where the partial pressure of O 2 in the air is about two-thirds of its sea-level value. (a) Predict the shift in Hb + O 2 &#8644; HbO 2 in her lungs, and the effect on her SpO 2 (the percentage of hemoglobin carrying oxygen) compared with at home. (b) A park ranger who has lived at high elevation for years has more hemoglobin in each liter of blood. Use Le Chatelier's principle to explain how this helps. (c) Does living at altitude change K for hemoglobin binding O 2 ?",
+  "answer": "(a) Less O 2 reaches her alveoli, which is like removing a reactant. Take &rarr; toward: the equilibrium shifts left , less HbO 2 forms, and her SpO 2 reads lower than at home. She feels short of breath with less effort. (b) Hb is a reactant. More Hb means a reactant is added, so the system shifts right and more HbO 2 forms, so more total oxygen is carried in each liter of blood even though the air holds less. (c) No. Body temperature is the same, and only a temperature change changes K. Altitude changes a concentration (the O 2 ), and the body's response changes another (the Hb). (Context only; altitude illness is a medical matter, not a chemistry problem.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 13.33",
+  "question": "Carbon monoxide binds hemoglobin more than 200 times more tightly than oxygen does. One way to picture the competition between them is this equilibrium: HbCO(aq) + O 2 (aq) &#8644; HbO 2 (aq) + CO(aq) A person with carbon monoxide poisoning is given a high concentration of oxygen. According to Le Chatelier's principle, why does this help? A. O 2 is a catalyst that breaks the bond between hemoglobin and CO. B. Adding O 2 shifts the equilibrium left, toward the added O 2 . C. Adding O 2 raises the value of K, so less HbCO is present at equilibrium. D. Adding O 2 shifts the equilibrium right, releasing CO from hemoglobin and forming HbO 2 .",
+  "answer": "D. O 2 is a reactant here. Add &rarr; away: a large excess of O 2 pushes the system to the right, so hemoglobin trades its CO for O 2 , and the freed CO is breathed out. Because CO binds so tightly, a lot of O 2 is needed to drive this shift, which is why high-concentration oxygen (sometimes in a hyperbaric chamber) is used. A is wrong because O 2 appears in the equation as a reactant; a catalyst would not, and a catalyst would not shift the equilibrium anyway. B shifts toward the added substance. Adding pushes the system away from it. C is wrong because only temperature changes K. Adding O 2 changes a concentration, and the system shifts until the ratio equals the same K. (Context only; CO poisoning is an emergency, treated by medical professionals.)",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 13.34",
+  "question": "Mateo Herrera, the irrigation technician with asthma from the chapter opener, is in the first hour of an asthma attack and is breathing fast. Which describes the effect on the blood equilibrium below? CO 2 (aq) + H 2 O(l) &#8644; H 2 CO 3 (aq) &#8644; H + (aq) + HCO 3 &minus; (aq) A. It shifts left; [H + ] decreases; blood pH rises. B. It shifts right; [H + ] increases; blood pH falls. C. It shifts left; [H + ] decreases; blood pH falls. D. It does not shift, because water is a pure liquid and is left out of K.",
+  "answer": "A. Fast breathing blows off CO 2 faster than his cells make it, so CO 2 is removed. Take &rarr; toward: the system shifts left, toward CO 2 . H + combines with HCO 3 &minus; to replace the lost CO 2 , so [H + ] drops, and a lower [H + ] means a higher pH (Chapter 12): a mild respiratory alkalosis, as in his blood gas in Section 13.4. B is the direction for CO 2 building up (hypoventilation), not for fast breathing that removes it. C gets the shift and [H + ] right but the pH backward. Fewer H + ions means a less acidic blood, so the pH goes up. D misuses the solid-and-liquid rule. Water is left out of K, but the stress here is a change in CO 2 , which is dissolved (aq) and is in the equilibrium. (The case is for learning chemistry only; it is not treatment advice.)",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 13.35",
+  "question": "Tooth enamel is in equilibrium with its ions in saliva: Ca 5 (PO 4 ) 3 OH(s) &#8644; 5 Ca 2+ (aq) + 3 PO 4 3&minus; (aq) + OH &minus; (aq) A dental hygiene patient sips lemon water all day. The H + from the citric acid reacts with OH &minus; to form water. What happens to the enamel equilibrium? A. No shift, because H + does not appear in the equation. B. It shifts right, toward the removed OH &minus; , so enamel dissolves (demineralization). C. It shifts left, away from the added H + , so enamel rebuilds. D. No shift, because hydroxyapatite is a solid and solids are left out of K.",
+  "answer": "B. H + (aq) + OH &minus; (aq) &rarr; H 2 O(l) removes OH &minus; , a product. Take &rarr; toward: the equilibrium shifts right, and more hydroxyapatite dissolves to replace the lost OH &minus; . Sipping all day keeps the enamel shifted toward demineralization for hours at a time. A misses the indirect stress. H + is not in the equation, but it removes OH &minus; , which is. C treats H + as if it were a product in this equation. It is not; its effect comes only through removing OH &minus; . D misreads the rule. Adding or removing the solid causes no shift, but removing an aqueous ion does. Here the solid is the thing that dissolves.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 13.36",
+  "question": "Fluoride from toothpaste or a fluoride varnish lets enamel rebuild as fluorapatite: Ca 5 (PO 4 ) 3 F(s) &#8644; 5 Ca 2+ (aq) + 3 PO 4 3&minus; (aq) + F &minus; (aq) (a) Saliva supplies Ca 2+ and phosphate ions between meals. Which way does this shift the fluorapatite equilibrium, and is that remineralization or demineralization? (b) Fluorapatite has OH &minus; replaced by F &minus; . Using your answer to the lemon-water problem above, explain why fluorapatite holds up better against acid than hydroxyapatite does. (c) A patient with xerostomia (dry mouth) makes much less saliva. Predict the effect on her enamel.",
+  "answer": "(a) Ca 2+ and PO 4 3&minus; are products. Add &rarr; away: the equilibrium shifts left , and solid mineral forms on the tooth: remineralization . (b) Acid attacks hydroxyapatite mainly by removing OH &minus; (H + + OH &minus; &rarr; H 2 O), which pulls the equilibrium toward dissolving. F &minus; is a far weaker base than OH &minus; (Chapter 12), so H + does not remove it nearly as easily. With less of a product being taken away, fluorapatite is shifted toward dissolving much less, so it resists acid better. (H + can still remove some phosphate, so acid can still harm fluorapatite, just less.) (c) With less saliva, less Ca 2+ and phosphate are added and less acid is neutralized, so the equilibrium stays shifted toward demineralization for more of the day, and her risk of caries (tooth decay) rises. (Context only; follow the dentist's treatment plan.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 13.37",
+  "question": "Nitric oxide reacts with oxygen to form brown nitrogen dioxide: 2 NO(g) + O 2 (g) &#8644; 2 NO 2 (g) &nbsp;&nbsp; &Delta;H = &minus;114 kJ The temperature of the equilibrium mixture is raised. What happens? A. The equilibrium shifts right, and K increases. B. The equilibrium shifts left, and K decreases. C. The equilibrium shifts left, and K does not change. D. Nothing shifts; a temperature change only makes the reactions faster.",
+  "answer": "B. &Delta;H is negative (exothermic), so heat is a product : 2 NO + O 2 &#8644; 2 NO 2 + heat. Raising the temperature adds heat. Add &rarr; away: the system shifts left, less NO 2 is present, and because temperature is the one stress that changes K, K decreases. A puts heat on the wrong side, as if the reaction were endothermic. C has the right direction but treats temperature like a concentration change. Temperature changes the value of K itself. D is half true: heating does speed up both reactions, but not by the same factor, so the equilibrium position moves too.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 13.38",
+  "question": "A sealed glass tube holds an equilibrium mixture of colorless N 2 O 4 and brown NO 2 , N 2 O 4 (g) &#8644; 2 NO 2 (g). At 50 &deg;C the gas is dark brown; in an ice bath at 0 &deg;C it is pale, almost colorless. What can you conclude? A. The forward reaction is endothermic, and K is larger at 50 &deg;C than at 0 &deg;C. B. The forward reaction is exothermic, because heating makes the mixture release brown gas. C. K is the same at both temperatures; only the concentrations changed. D. At 0 &deg;C the reactions are too slow for any NO 2 to form, so the tube is not at equilibrium.",
+  "answer": "A. Heating makes more NO 2 , so heating shifts the system right. Adding heat pushes the system away from the heat term, so heat must be on the left, a reactant: the forward reaction is endothermic (&Delta;H positive). More product at the higher temperature means K is larger at 50 &deg;C. B confuses \"making more product\" with \"releasing heat.\" Shifting right when heated means the forward reaction absorbs heat. C is wrong because the concentrations changed when only the temperature changed, which can only happen if K changed. D is wrong because cold slows the reactions but does not stop them. Given time, the tube reaches equilibrium at 0 &deg;C too; that equilibrium just has very little NO 2 .",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 13.39",
+  "question": "For N 2 (g) + O 2 (g) &#8644; 2 NO(g), K is roughly 10 &minus;30 at 25 &deg;C (Section 13.3) and about 4.00 &times; 10 &minus;4 at 2000 K (the three-experiment table above). (a) Is the forward reaction endothermic or exothermic? Explain. (b) Rewrite the equation with the heat term on the correct side. (c) Explain why a hotter-running engine tends to make more NO. (d) Would a catalyst in the engine change the amount of NO at equilibrium?",
+  "answer": "(a) Endothermic. K is much larger at the higher temperature, so heating shifts the equilibrium toward NO. Adding heat pushes the system away from the heat term, so heat must be a reactant. (The measured &Delta;H is about +181 kJ.) (b) heat + N 2 (g) + O 2 (g) &#8644; 2 NO(g). (c) A higher temperature adds heat, a reactant, so the equilibrium shifts right and K is larger: more NO at equilibrium. Higher temperature also makes the reaction faster (Section 13.1), so more NO forms in the short time the gases spend in the cylinder. (d) No. A catalyst speeds up the forward and reverse reactions equally, so equilibrium is reached sooner, but the equilibrium amount of NO and K stay the same.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 13.40",
+  "question": "Oxygen binding to hemoglobin releases heat: Hb(aq) + O 2 (aq) &#8644; HbO 2 (aq) + heat Hard-working muscle is slightly warmer than the rest of the body. What does the extra warmth do to this equilibrium in the muscle? A. It shifts right, so hemoglobin holds its oxygen more tightly. B. Nothing, because temperature changes only the rate, not the equilibrium. C. It shifts left and K decreases, so hemoglobin releases more O 2 where it is needed. D. It shifts left, but K does not change, because the body's temperature is controlled.",
+  "answer": "C. Heat is a product here (the binding is exothermic). Warming adds heat. Add &rarr; away: the system shifts left, HbO 2 gives up O 2 , and K for binding gets smaller. This is one of the reasons active muscle, which is warmer and makes more CO 2 and acid, receives more oxygen. A puts the shift toward the heat that was added, as if adding a product pulled the system toward it. B is wrong because temperature changes both the rates and the equilibrium; it is the one stress that changes K. D has the right direction, but any change in temperature, even a small, local one, changes K.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 13.41",
+  "question": "Phosphorus pentachloride breaks down at high temperature: PCl 5 (g) &#8644; PCl 3 (g) + Cl 2 (g) The volume of the container is decreased at constant temperature. Which way does the equilibrium shift? A. Left, toward the side with fewer moles of gas B. Right, toward the side with more moles of gas C. No shift, because K does not change D. Right, because the higher pressure makes more PCl 5 molecules collide and break apart",
+  "answer": "A. Count moles of gas: 1 on the left, 1 + 1 = 2 on the right. A smaller volume raises the pressure, and the system relieves it by shifting toward fewer gas particles, to the left, making more PCl 5 . B has the rule backward. Squeezing shifts toward fewer moles of gas; expanding shifts toward more. C is true about K but wrong about the shift. Squeezing changes the concentrations so that their ratio no longer equals K, and the system shifts to restore it. D treats the squeeze as if it sped up only the forward reaction. Crowding the gases together speeds up the reverse reaction, which needs PCl 3 and Cl 2 to collide, even more, so the net shift is toward fewer moles of gas, to the left.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 13.42",
+  "question": "Predict the shift when the volume of each container is increased (pressure lowered) at constant temperature. (a) 2 CO(g) + O 2 (g) &#8644; 2 CO 2 (g) (b) N 2 (g) + O 2 (g) &#8644; 2 NO(g) (c) C(s) + CO 2 (g) &#8644; 2 CO(g) (d) Ni(s) + 4 CO(g) &#8644; Ni(CO) 4 (g)",
+  "answer": "A larger volume shifts toward the side with more moles of gas . Count gases only. (a) Left: 2 + 1 = 3 mol gas; right: 2. Shift left . (b) Left: 1 + 1 = 2; right: 2. Equal moles of gas: no shift . (c) Left: 1 (carbon is a solid and is not counted); right: 2. Shift right . (d) Left: 4 (nickel is a solid); right: 1. Shift left . K does not change in any of them; only temperature changes K.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 13.43",
+  "question": "A rigid steel tank holds an equilibrium mixture for the Haber process, N 2 (g) + 3 H 2 (g) &#8644; 2 NH 3 (g). Argon gas is pumped in, which raises the total pressure, while the volume and temperature stay the same. What happens? A. The equilibrium shifts right, toward fewer moles of gas, because the pressure went up. B. The equilibrium shifts left, away from the added gas. C. Nothing shifts, because the concentrations of N 2 , H 2 , and NH 3 did not change. D. K increases, because the total pressure is higher.",
+  "answer": "C. Argon is an inert gas: it is not in the equation. In a rigid tank the volume is fixed, so the moles per liter of N 2 , H 2 , and NH 3 are unchanged, the ratio still equals K, and there is no shift. A applies the volume rule where it does not fit. The \"fewer moles of gas\" rule works when the volume changes, which changes every concentration in the reaction; here the volume did not change. B treats argon as if it were a product. Add &rarr; away applies only to substances in the equilibrium. D is wrong because only temperature changes K.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 13.44",
+  "question": "In red blood cells, the enzyme carbonic anhydrase catalyzes CO 2 (aq) + H 2 O(l) &#8644; H 2 CO 3 (aq). Which statement about the enzyme is correct? A. It makes the reaction reach equilibrium faster in both directions, without changing the equilibrium amounts or K. B. It shifts the equilibrium toward H 2 CO 3 , because it speeds up the forward reaction. C. It increases K, so more H 2 CO 3 is present at equilibrium. D. It is used up as the reaction runs, so red blood cells must keep making more of it.",
+  "answer": "A. A catalyst lowers the activation energy for the forward and the reverse reactions, so it speeds both up by the same factor. Equilibrium is reached much sooner, but the equilibrium mixture and K are the same. That lets the blood switch quickly between making H 2 CO 3 in the tissues and releasing CO 2 in the lungs, in whichever direction the conditions push. B forgets that the enzyme speeds up the reverse reaction just as much as the forward one, so neither direction wins. C is wrong because only temperature changes K; a catalyst changes the path, not the starting and ending points. D is wrong because a catalyst comes out of the reaction unchanged and is used over and over.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 13.45",
+  "question": "Most hydrogen gas is made by steam reforming of methane, an endothermic reaction run with a nickel catalyst: CH 4 (g) + H 2 O(g) &#8644; CO(g) + 3 H 2 (g) &nbsp;&nbsp; &Delta;H = +206 kJ The table below lists seven separate changes made to the equilibrium mixture. For each, predict (a) the direction of the shift, (b) the effect on the amount of H 2 O at the new equilibrium, and (c) whether K changes. Stresses on the steam-reforming equilibrium Stress Change made 1 Add CH 4 2 Remove H 2 as it forms 3 Add CO 4 Raise the temperature 5 Decrease the volume 6 Add more nickel catalyst 7 Add argon at constant volume",
+  "answer": "Add CH 4 : add &rarr; away, shift right ; H 2 O is used up, so it decreases ; K no . Remove H 2 : take &rarr; toward, shift right ; H 2 O decreases ; K no . Add CO: add &rarr; away, shift left ; H 2 O increases ; K no . Raise the temperature: &Delta;H is positive, so heat is a reactant; adding heat shifts right ; H 2 O decreases ; K yes , it increases. Decrease the volume: 1 + 1 = 2 mol gas on the left, 1 + 3 = 4 on the right; squeezing shifts toward fewer moles, left ; H 2 O increases ; K no . Add catalyst: no shift (equilibrium is reached sooner); H 2 O no change ; K no . Add argon at constant volume: no shift , because no concentration in the reaction changes; H 2 O no change ; K no . Only stress 4 changes K. A plant that wants more H 2 runs hot (stress 4), at modest pressure (the opposite of stress 5), with excess steam, and removes H 2 ; the catalyst only gets it there faster.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 13.46",
+  "question": "Limewater is a saturated solution of calcium hydroxide with some undissolved solid at the bottom of the bottle: Ca(OH) 2 (s) &#8644; Ca 2+ (aq) + 2 OH &minus; (aq) A student adds another spoonful of solid Ca(OH) 2 and stirs, keeping the temperature constant. What happens to the concentration of OH &minus; in the solution? A. It increases, because adding a reactant shifts the equilibrium right. B. It stays the same, because adding a pure solid causes no shift. C. It decreases, because the system shifts toward the added solid. D. It doubles, because twice as much solid is now present.",
+  "answer": "B. A pure solid does not appear in K = [Ca 2+ ][OH &minus; ] 2 , so adding more of it does not change the ratio, and nothing shifts. The solution was already saturated; the extra solid simply sits on the bottom. A applies \"add &rarr; away\" to a solid. The rule applies only to species that appear in K, gases and aqueous species. C moves toward the added substance, which is backward even for species that do count. D assumes the dissolved amount depends on how much solid is present. A saturated solution holds a fixed amount at a given temperature, however much extra solid is underneath.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 13.47",
+  "question": "In a sealed can of soda, carbon dioxide gas in the space at the top is in equilibrium with CO 2 dissolved in the drink. Dissolving CO 2 releases heat: CO 2 (g) &#8644; CO 2 (aq) + heat (a) When the can is opened, the CO 2 gas above the drink escapes. Use Le Chatelier's principle to explain the bubbles. (b) Why does a warm soda fizz more and go flat faster than a cold one? (c) Why does an opened soda eventually go completely flat instead of reaching a new equilibrium, as it would if you quickly put the cap back on?",
+  "answer": "(a) Opening the can removes CO 2 (g), a reactant. Take &rarr; toward: the equilibrium shifts left , and dissolved CO 2 comes out of solution as gas, forming the bubbles. (b) Heat is a product. A warmer soda has more heat added, so the equilibrium shifts left , toward CO 2 (g), and K for dissolving is smaller: less CO 2 can stay dissolved. The warmer molecules also move faster, so the gas escapes faster (a rate effect, Section 13.1). (c) An open can is not a closed system. The CO 2 gas keeps drifting away, so the reverse process (gas dissolving back into the drink) can never catch up, and the drink keeps losing CO 2 until almost none is left. With the cap back on, gas collects above the drink, the rates become equal again, and the system settles at a new equilibrium (Section 13.2).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 13.48",
+  "question": "A sealed flask that starts with 0.0400 M N 2 O 4 and no NO 2 is held at a constant temperature: N 2 O 4 (g) &#8644; 2 NO 2 (g) &nbsp;&nbsp; &Delta;H = +57.2 kJ After 10 s, [N 2 O 4 ] has fallen to 0.0300 M; after 20 s, to 0.0250 M; and after 30 s it reaches 0.0230 M, where it stays. (a) What is [NO 2 ] at 10 s, 20 s, and 30 s? (b) At 10 s, which rate is larger, forward or reverse? At 40 s? (c) Calculate K at this temperature. (d) At 100 &deg;C, K for this reaction is about 0.36. Was this experiment run above or below 100 &deg;C? Explain using &Delta;H.",
+  "answer": "(a) Each mole of N 2 O 4 that reacts makes 2 mol of NO 2 , so [NO 2 ] rises by twice the drop in [N 2 O 4 ]: at 10 s, 2 &times; (0.0400 &minus; 0.0300) = 0.0200 M ; at 20 s, 2 &times; (0.0400 &minus; 0.0250) = 0.0300 M ; at 30 s, 2 &times; (0.0400 &minus; 0.0230) = 0.0340 M . (b) At 10 s the concentrations are still changing (N 2 O 4 falling, NO 2 rising), so the forward rate is larger. At 40 s the concentrations are constant, so the system is at equilibrium and the two rates are equal . Notice that the equilibrium concentrations, 0.0230 M and 0.0340 M, are not equal. (c) \\( K = \\dfrac{[\\text{NO}_2]^2}{[\\text{N}_2\\text{O}_4]} = \\dfrac{(0.0340)^2}{0.0230} = \\dfrac{0.001156}{0.0230} = 0.0503 \\) (c) K = 0.0503 (three significant figures). Without the exponent, 0.0340 &divide; 0.0230 = 1.48, which is wrong. (d) Below 100 &deg;C. &Delta;H is positive, so heat is a reactant, and raising the temperature shifts the equilibrium right and makes K larger. This experiment's K (0.0503) is smaller than K at 100 &deg;C (0.36), so it must have been run at a lower temperature.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 13.49",
+  "question": "Return to Mateo Herrera, the irrigation technician with asthma from the chapter opener. In the first hour of his attack, his arterial blood gas (ABG) shows a PaCO 2 of 31 mmHg and a pH of 7.49. Suppose, instead of improving, the attack had dragged on until his breathing muscles tired, and a later ABG showed a PaCO 2 of 50 mmHg and a pH of 7.30. Use the blood equilibrium: CO 2 (aq) + H 2 O(l) &#8644; H 2 CO 3 (aq) &#8644; H + (aq) + HCO 3 &minus; (aq) (a) Compare each PaCO 2 and pH with the normal ranges (35 to 45 mmHg; 7.35 to 7.45). (b) Explain the first ABG with Le Chatelier's principle. (c) Explain the later ABG. (d) Carbonic anhydrase is working the whole time. Does it change which way the equilibrium shifts? (e) Write K for the first step, CO 2 (aq) + H 2 O(l) &#8644; H 2 CO 3 (aq). Does a change in Mateo's breathing rate change this K?",
+  "answer": "(a) First ABG: PaCO 2 31 mmHg is below normal, and pH 7.49 is above normal. Later ABG: PaCO 2 50 mmHg is above normal, and pH 7.30 is below normal. (b) Breathing fast removes CO 2 faster than his cells make it. Take &rarr; toward: the system shifts left , H + combines with HCO 3 &minus; , [H + ] falls, and the pH rises: a respiratory alkalosis. (c) With tired muscles and narrowed airways, CO 2 cannot get out and builds up. Add &rarr; away: the system shifts right , more H + forms, and the pH falls: a respiratory acidosis. This is why a PaCO 2 that climbs back to normal or above during an asthma attack worries clinicians. (d) No. The enzyme speeds up the forward and reverse reactions equally, so it only lets the equilibrium keep up quickly with whatever direction his breathing pushes it. (e) \\( K = \\dfrac{[\\text{H}_2\\text{CO}_3]}{[\\text{CO}_2]} \\) (e) Water, a pure liquid, is left out. His breathing changes the concentration of CO 2 , not the temperature, so K does not change; the system shifts until the ratio equals the same K again. (The case is for learning chemistry only; it is not treatment advice. In the book's case, Mateo responds to his bronchodilator and his blood gas returns to normal.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 13.50",
+  "question": "Much of the nitrogen fertilizer used on Valley farms starts as ammonia from the Haber process: N 2 (g) + 3 H 2 (g) &#8644; 2 NH 3 (g) &nbsp;&nbsp; &Delta;H = &minus;92.2 kJ (a) At one high temperature, an equilibrium mixture contains [N 2 ] = 0.400 M, [H 2 ] = 1.20 M, and [NH 3 ] = 0.150 M. Calculate K. (b) Is K larger or smaller at a lower temperature? (c) A student suggests running the plant at 600 &deg;C instead of about 425 &deg;C \"to make more ammonia faster.\" Which half of the suggestion is right, and which is wrong? (d) The plant adds an iron catalyst. What does it change about the reaction, and what does it not change?",
+  "answer": "(a) \\( K = \\dfrac{[\\text{NH}_3]^2}{[\\text{N}_2][\\text{H}_2]^3} = \\dfrac{(0.150)^2}{(0.400)(1.20)^3} = \\dfrac{0.0225}{(0.400)(1.728)} = \\dfrac{0.0225}{0.6912} = 0.0326 \\) (a) K = 0.0326 (three significant figures). Forgetting the exponents would give 0.150 &divide; (0.400 &times; 1.20) = 0.313, and turning the expression upside down would give 30.7; both are wrong. (b) Larger. &Delta;H is negative, so heat is a product. Lowering the temperature removes heat; take &rarr; toward shifts the equilibrium right, toward NH 3 , and K increases. (c) \"Faster\" is right: at 600 &deg;C molecules collide more often and more collisions have at least E a , so equilibrium is reached sooner. \"More ammonia\" is wrong: adding heat to an exothermic reaction shifts it left and makes K smaller, so the equilibrium mixture holds less NH 3 . That conflict is why plants compromise at about 400&ndash;450 &deg;C, use high pressure (4 mol of gas on the left, 2 on the right, so squeezing shifts right), and remove NH 3 as it forms. (d) The catalyst lowers the activation energy for both directions, so equilibrium is reached faster . It does not change the equilibrium amounts, K, or &Delta;H.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 13.51",
+  "question": "Some humidity indicator cards, packed with electronics and medicines, are coated with cobalt(II) chloride. The dry salt is blue, and the hydrated salt is pink. Hydration releases heat: CoCl 2 (s, blue) + 6 H 2 O(g) &#8644; CoCl 2 &middot;6H 2 O(s, pink) + heat (a) Write K. (b) The card is moved from a dry room into a humid one. Which way does the equilibrium shift, and what color does the card turn? (c) A pink card is warmed in a low oven. Which way does it shift, what color does it turn, and what happens to K? (d) A student places a pink card in a sealed jar with extra solid CoCl 2 &middot;6H 2 O. Does the extra solid shift the equilibrium?",
+  "answer": "(a) \\( K = \\dfrac{1}{[\\text{H}_2\\text{O}]^6} \\) (a) Both cobalt compounds are solids and are left out. Water is a gas here, so it stays in, on the bottom (a reactant) with exponent 6, and only a 1 is left on top. (b) More water vapor means a reactant is added. Add &rarr; away: shift right , and the card turns pink . (c) Heat is a product. Warming adds heat, so the system shifts left : water is driven off and the card turns blue . Because the temperature changed, K decreases . (d) No. The hydrate is a pure solid, so it is not in K, and adding more of it causes no shift.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 13.52",
+  "question": "A car's catalytic converter turns carbon monoxide in the exhaust into carbon dioxide: 2 CO(g) + O 2 (g) &#8644; 2 CO 2 (g) &nbsp;&nbsp; &Delta;H = &minus;566 kJ (a) Write K. (b) At 25 &deg;C, K is about 10 90 . What does this say about the equilibrium mixture? (c) If K is so large, why does an engine's exhaust contain CO at all before it reaches the converter? (d) What does the platinum-group metal catalyst in the converter do, in terms of activation energy? Does it change K? (e) The converter runs at about 400 &deg;C or hotter. Is K larger or smaller there than at 25 &deg;C, and why does the converter still work well?",
+  "answer": "(a) \\( K = \\dfrac{[\\text{CO}_2]^2}{[\\text{CO}]^2[\\text{O}_2]} \\) (b) K &#8811; 1, so at equilibrium the mixture would be almost entirely CO 2 , with essentially no CO left: products are strongly favored. (c) K tells how far the reaction goes, not how fast. The exhaust spends only a fraction of a second in the engine and tailpipe, and without a catalyst the activation energy is high enough that much of the CO does not react in that time. The mixture never gets close to equilibrium. (d) The catalyst provides a path with a lower activation energy, so many more collisions are effective and the reaction gets close to equilibrium in the short time the gas is in the converter. It does not change K or &Delta;H, and it is not used up. (e) Smaller. The reaction is exothermic, so heat is a product, and raising the temperature shifts it left and lowers K. But K starts out so enormous that even at converter temperatures it remains very large, so the equilibrium still lies far toward CO 2 , and the high temperature makes the catalyzed reaction fast. Here, rate (helped by the catalyst and the heat) and equilibrium (a huge K) both work in the driver's favor.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 13.53",
+  "question": "In a two-tub water-transfer model of equilibrium, a 500 mL beaker moves water forward from the \"reactant\" tub and a 100 mL beaker moves water back from the \"product\" tub. After many rounds, the water levels stop changing. Which statement is true at that point? A. The reactant tub is empty, because the forward beaker is five times larger. B. Both beakers carry the same volume of water per trip, and the product tub holds more water. C. Both tubs hold the same volume of water. D. Water has stopped moving between the tubs.",
+  "answer": "B. The levels stop changing only when each forward trip is matched by an equal reverse trip: equal rates. The large forward beaker favors the product tub, so the product tub ends up with more water, but the reactant tub is not empty; once it is shallow, the big beaker cannot fill. A forgets the reverse direction. As the product tub fills, the small beaker carries a full load back every trip, so the reactant tub never runs dry. C confuses equal rates with equal amounts . At equilibrium the amounts are constant, not equal. D describes a static stop. Equilibrium is dynamic: both beakers keep moving water, at the same rate.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 13.54",
+  "question": "For 2 NO(g) + O 2 (g) &#8644; 2 NO 2 (g), K is large at room temperature. (a) Write K for the reverse reaction, 2 NO 2 (g) &#8644; 2 NO(g) + O 2 (g). (b) If K for the forward reaction is 4.0 &times; 10 2 at some temperature, what is K for the reverse reaction? (c) Do the two values agree about which side is favored?",
+  "answer": "(a) \\( K_{\\text{reverse}} = \\dfrac{[\\text{NO}]^2[\\text{O}_2]}{[\\text{NO}_2]^2} \\) (a) The old reactants are now on top, and the coefficients are still the exponents. (b) K reverse = 1 / (4.0 &times; 10 2 ) = 2.5 &times; 10 &minus;3 (two significant figures). (c) Yes. Forward, NO 2 is a product and K &gt; 1; reverse, NO 2 is a reactant and K &lt; 1. Both say NO 2 is favored.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 13.55",
+  "question": "Iron(III) ions and thiocyanate ions are at equilibrium with the red complex ion: Fe 3+ (aq) + SCN &minus; (aq) &#8644; FeSCN 2+ (aq, red) A student stirs a few crystals of potassium nitrate, KNO 3 , into the red solution. What happens? A. The solution turns deeper red, because a salt was added. B. The color fades, because adding a substance shifts the system left. C. Nothing changes, because neither K + nor NO 3 &minus; is part of the equilibrium. D. The solution turns deeper red, because NO 3 &minus; is a common ion.",
+  "answer": "C. Write the dissociation first: KNO 3 (s) &rarr; K + (aq) + NO 3 &minus; (aq). Neither ion appears in the equilibrium, so both are spectators, and there is no shift and no color change. A treats every added salt as a stress. Only an ion that appears in the equation (a common ion) causes a shift. B applies \"add &rarr; away\" to a substance that is not in the equation at all. D misnames NO 3 &minus; . A common ion is one already in the equilibrium; nitrate is not. (Adding iron(III) nitrate would deepen the red, but because of its Fe 3+ , not its nitrate.)",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 13.56",
+  "question": "Steam and hot coal react to make \"water gas,\" a fuel mixture of CO and H 2 : C(s) + H 2 O(g) + heat &#8644; CO(g) + H 2 (g) (a) Is the reaction endothermic or exothermic, and is &Delta;H positive or negative? (b) Predict the shift for each change: H 2 is removed; more C(s) is added; the volume is increased; the temperature is lowered. (c) Which of the changes in (b) changes K?",
+  "answer": "(a) Heat is written on the left, as a reactant, so the reaction is endothermic and &Delta;H is positive . (b) Remove H 2 : take &rarr; toward, shift right . Add C(s): a pure solid, no shift . Increase the volume: lower pressure, toward more moles of gas; left has 1 mol gas (C is a solid and is not counted), right has 2, so shift right . Lower the temperature: removes heat, a reactant, so shift toward heat, left . (c) Only lowering the temperature changes K (it makes K smaller for this endothermic reaction).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 13.57",
+  "question": "Hydrogen sulfide, the rotten-egg gas, burns in oxygen: 2 H 2 S(g) + 3 O 2 (g) &#8644; 2 SO 2 (g) + 2 H 2 O(g) The volume of the container is doubled at constant temperature. Which way does the equilibrium shift? A. Right, because a larger volume always favors products. B. Left, toward the side with more moles of gas. C. Right, toward the side with fewer moles of gas. D. No shift, because volume is not a stress.",
+  "answer": "B. Doubling the volume lowers the pressure. Count moles of gas: left, 2 + 3 = 5; right, 2 + 2 = 4. Lower pressure shifts toward more moles of gas, which is the left side here. A has no basis: a larger volume favors whichever side has more moles of gas, which can be either side. C has the rule backward. Fewer moles of gas is the answer for a smaller volume (higher pressure). D is wrong for gas reactions with different numbers of moles of gas on each side; volume changes the pressure, and the system responds.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 13.58",
+  "question": "For each reaction, predict the shift when the volume is increased : (a) PCl 5 (g) &#8644; PCl 3 (g) + Cl 2 (g); (b) 2 SO 2 (g) + O 2 (g) &#8644; 2 SO 3 (g); (c) H 2 (g) + Br 2 (g) &#8644; 2 HBr(g); (d) NH 4 Cl(s) &#8644; NH 3 (g) + HCl(g).",
+  "answer": "A larger volume means a lower pressure, which shifts toward more moles of gas. (a) Left 1, right 2: shift right . (b) Left 3, right 2: shift left . (c) 2 and 2: no shift . (d) Left 0 (solid only), right 2: shift right .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 13.59",
+  "question": "A student's sealed test tube at 37 &deg;C holds the same CO 2 /bicarbonate equilibrium that is found in blood: CO 2 (aq) + H 2 O(l) &#8644; H + (aq) + HCO 3 &minus; (aq) The student adds solid sodium bicarbonate, NaHCO 3 (baking soda), to the tube. (a) Write its dissociation. (b) Which ion is the common ion, and which way does the equilibrium shift? (c) What happens to [H + ] and to the pH?",
+  "answer": "(a) NaHCO 3 (s) &rarr; Na + (aq) + HCO 3 &minus; (aq). (b) HCO 3 &minus; is the common ion, a product. Add &rarr; away: the system shifts left . Na + is a spectator. (c) H + is used up as the system shifts left, so [H + ] decreases and the pH rises . This is the same idea as the bicarbonate buffer in Chapter 12. (Context only; this is a chemistry exercise, not treatment guidance.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.8_going_further.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Write K a for HF(aq) + H 2 O(l) &#8644; H 3 O + (aq) + F &minus; (aq).",
+  "answer": "K a = [H 3 O + ][F &minus; ] / [HF]. Water is the solvent and is left out.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.8_going_further.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Write the dissolving equation and K sp for Mg(OH) 2 . Would Mg(OH) 2 be more or less soluble in a solution that already contains NaOH?",
+  "answer": "Mg(OH) 2 (s) &#8644; Mg 2+ (aq) + 2 OH &minus; (aq); K sp = [Mg 2+ ][OH &minus; ] 2 . Less soluble: OH &minus; is a common ion, so adding it shifts the equilibrium left, toward the solid.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch13/13.8_going_further.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Lead(II) iodide is a bright yellow solid with K sp about 9.8 &times; 10 &minus;9 . (a) Write its formula, its dissolving equation, and its K sp expression. (b) Is it soluble?",
+  "answer": "(a) Pb 2+ and I &minus; give PbI 2 . PbI 2 (s) &#8644; Pb 2+ (aq) + 2 I &minus; (aq); K sp = [Pb 2+ ][I &minus; ] 2 . (b) No: K sp is far below 1, so the equilibrium lies toward the solid. PbI 2 is insoluble, as the green-sheet exception for lead(II) halides predicts.",
+  "mc": false,
+  "terse_answer": false
+ }
+]

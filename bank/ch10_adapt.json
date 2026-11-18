@@ -138,7 +138,7 @@
   "y": [
    "Correct: Through atm: 34.5 psi &times; (1 atm / 14.7 psi) &times; (101.325 kPa / 1 atm).",
    "This multiplies by 14.7; the psi factor is flipped.",
-   "This flips both factors.",
+   "This flips both factors. Set up the conversion so psi cancels: multiply by 101.325 kPa / 14.7 psi.",
    "This multiplies psi by 101.325 as if the pressure were in atm."
   ],
   "h": "14.7 psi = 1 atm = 101.325 kPa.",
@@ -431,7 +431,7 @@
   ],
   "y": [
    "Correct: P = nRT/V, with T in kelvins.",
-   "This uses the Celsius temperature.",
+   "This uses the Celsius temperature. Gas laws need kelvins: add 273.15 to 24.5 &deg;C before using PV = nRT.",
    "This uses 22.4 L/mol, which is for STP only.",
    "This is nRT, not yet divided by the volume."
   ],
@@ -452,7 +452,7 @@
   ],
   "y": [
    "Correct: V = nRT/P gives liters; &times; 1000 mL/L.",
-   "This uses the Celsius temperature.",
+   "This uses the Celsius temperature. Gas laws need kelvins: add 273.15 to 37.0 &deg;C before using PV = nRT.",
    "This is the volume in liters labeled as mL; multiply by 1000.",
    "This uses 22.4 L/mol, but 37.0 °C is not STP."
   ],
@@ -474,7 +474,7 @@
   "y": [
    "Correct: n = PV/RT; with R = 62.36 the pressure stays in torr.",
    "This uses R = 0.082058 with the pressure in torr; that R needs atm.",
-   "This uses the Celsius temperature.",
+   "This uses the Celsius temperature. Gas laws need kelvins: add 273.15 to 26.5 &deg;C before using PV = nRT.",
    "This converts torr to atm but then uses R = 62.36, which needs torr."
   ],
   "h": "Match the pressure unit to the R you use.",
@@ -494,7 +494,7 @@
   ],
   "y": [
    "Correct: T = PV/(nR).",
-   "This is nR/(PV), the reciprocal.",
+   "This is nR/(PV), the reciprocal. Solve PV = nRT for T: T = PV / (nR).",
    "This uses R = 62.36, which needs torr; the pressure is in atm.",
    "PV/(nR) gives kelvins, not degrees Celsius."
   ],
@@ -537,7 +537,7 @@
   "y": [
    "Correct: n = PV/RT with V = 0.345 L; M = m/n.",
    "This uses 345 mL as liters, so n is 1000 times too large and M 1000 times too small.",
-   "This uses the Celsius temperature.",
+   "This uses the Celsius temperature. Gas laws need kelvins: add 273.15 to 23.5 &deg;C before finding moles with PV = nRT.",
    "This divides moles by grams; molar mass is grams per mole."
   ],
   "h": "Get n from PV = nRT (liters, atm, K), then M = m/n.",
@@ -599,7 +599,7 @@
   ],
   "y": [
    "Correct: Same T and P, so volumes follow coefficients: 2.65 L N<sub>2</sub> &times; (2 L NO / 1 L N<sub>2</sub>).",
-   "This flips the ratio.",
+   "This flips the ratio. At the same T and P, volumes follow the coefficients: multiply by 2 L NO / 1 L N<sub>2</sub>.",
    "This assumes 1 : 1; one N<sub>2</sub> makes two NO.",
    "This finds the moles of NO (2.65 &times; 2 &divide; 22.4) and stops; that number is moles, not liters. With all gases at the same T and P, the volume ratio gives liters directly."
   ],
@@ -620,9 +620,9 @@
   ],
   "y": [
    "Correct: g Na &rarr; mol &rarr; &times; (1 mol Cl<sub>2</sub> / 2 mol Na) &rarr; &times; 22.4 L/mol.",
-   "This skips the mole ratio.",
-   "This flips the mole ratio.",
-   "This uses grams of Na as moles."
+   "This skips the mole ratio. Multiply moles of Na by 1 mol Cl<sub>2</sub> / 2 mol Na before converting to liters.",
+   "This flips the mole ratio. Put the substance you want on top: 1 mol Cl<sub>2</sub> / 2 mol Na.",
+   "This uses grams of Na as moles. Convert 4.15 g to moles with 22.99 g/mol first."
   ],
   "h": "g &rarr; mol &rarr; mole ratio &rarr; L at STP.",
   "w": "4.15 &divide; 22.99 = 0.1805 mol Na; &divide; 2 = 0.09026 mol Cl<sub>2</sub>; &times; 22.4 = <b>2.02 L</b>.",
@@ -642,8 +642,8 @@
   "y": [
    "Correct: g &rarr; mol &rarr; &times; 2 &rarr; V = nRT/P.",
    "This uses 22.4 L/mol, but the gas is not at STP.",
-   "This skips the 1 : 2 mole ratio.",
-   "This uses the Celsius temperature."
+   "This skips the 1 : 2 mole ratio. Multiply moles of glucose by 2 mol CO<sub>2</sub> / 1 mol glucose before using PV = nRT.",
+   "This uses the Celsius temperature. Gas laws need kelvins: add 273.15 to 32.5 &deg;C before using PV = nRT."
   ],
   "h": "Mole ratio, then V = nRT/P.",
   "w": "25.5 &divide; 180.156 = 0.1415 mol; &times; 2 = 0.2831 mol CO<sub>2</sub>. T = 32.5 + 273.15 = 305.7 K. V = <b>7.14 L</b>.",
@@ -662,9 +662,9 @@
   ],
   "y": [
    "Correct: n O<sub>2</sub> = PV/RT; &times; 2 mol H<sub>2</sub>O<sub>2</sub> per mol O<sub>2</sub>; &times; 34.014 g/mol.",
-   "This skips the mole ratio.",
-   "This flips the mole ratio.",
-   "This uses 22.4 L/mol off STP."
+   "This skips the mole ratio. Multiply moles of O<sub>2</sub> by 2 mol H<sub>2</sub>O<sub>2</sub> / 1 mol O<sub>2</sub> before converting to grams.",
+   "This flips the mole ratio. Put the substance you want on top: 2 mol H<sub>2</sub>O<sub>2</sub> / 1 mol O<sub>2</sub>.",
+   "This uses 22.4 L/mol off STP. At 0.978 atm and 24.5 &deg;C, find moles of O<sub>2</sub> with n = PV/RT (T in kelvins)."
   ],
   "h": "L &rarr; mol (PV = nRT) &rarr; mole ratio &rarr; g.",
   "w": "T = 24.5 + 273.15 = 297.7 K. n O<sub>2</sub> = 0.05806 mol; &times; 2 = 0.1161 mol H<sub>2</sub>O<sub>2</sub>; &times; 34.014 = <b>3.95 g</b>.",
@@ -684,8 +684,8 @@
   "y": [
    "Correct: L CH<sub>4</sub> &divide; 22.4 (STP) &rarr; &times; 2 &rarr; V = nRT/P at the new conditions.",
    "This uses the 1 : 2 volume ratio, but the two gases are measured at different conditions, so convert through moles.",
-   "This skips the mole ratio.",
-   "This uses the Celsius temperature."
+   "This skips the mole ratio. Multiply moles of CH<sub>4</sub> by 2 mol O<sub>2</sub> / 1 mol CH<sub>4</sub> before using PV = nRT.",
+   "This uses the Celsius temperature. Gas laws need kelvins: add 273.15 to 21.5 &deg;C before using PV = nRT."
   ],
   "h": "Different conditions for the two gases: go through moles.",
   "w": "2.85 &divide; 22.4 = 0.1272 mol CH<sub>4</sub>; &times; 2 = 0.2545 mol O<sub>2</sub>. T = 21.5 + 273.15 = 294.7 K. V = <b>5.86 L</b>.",
@@ -725,9 +725,9 @@
   ],
   "y": [
    "Correct: g &rarr; mol KO<sub>2</sub> &rarr; &times; 3/4 &rarr; &times; 22.4 L/mol.",
-   "This skips the mole ratio.",
+   "This skips the mole ratio. Multiply moles of KO<sub>2</sub> by 3 mol O<sub>2</sub> / 4 mol KO<sub>2</sub> before converting to liters.",
    "This flips the mole ratio (4/3 instead of 3/4).",
-   "This uses grams of KO<sub>2</sub> as moles."
+   "This uses grams of KO<sub>2</sub> as moles. Convert 14.2 g to moles with 71.10 g/mol first."
   ],
   "h": "g &rarr; mol &rarr; mole ratio &rarr; L at STP.",
   "w": "14.2 &divide; 71.10 = 0.1997 mol; &times; 3/4 = 0.1498 mol O<sub>2</sub>; &times; 22.4 = <b>3.36 L</b>.",
@@ -768,7 +768,7 @@
   "y": [
    "Correct: X = 0.320; P<sub>O2</sub> = 0.320 &times; 2.45 atm.",
    "This uses the percent without dividing by 100.",
-   "This divides by the mole fraction.",
+   "This divides by the mole fraction. Partial pressure = mole fraction &times; total pressure, so multiply 0.320 by 2.45 atm.",
    "This is the partial pressure of the nitrogen (1 &minus; 0.320 = 0.680)."
   ],
   "h": "Percent &divide; 100 = mole fraction; P<sub>i</sub> = X<sub>i</sub>P<sub>total</sub>.",
@@ -831,8 +831,8 @@
   "y": [
    "Correct: P<sub>H2</sub> = 765 &minus; 31.8 = 733 mmHg = 0.9645 atm; V = 0.0625 L; n = PV/RT.",
    "This forgets to subtract the water vapor.",
-   "This uses mL as liters.",
-   "This uses mmHg with R = 0.082058."
+   "This uses mL as liters. Convert 62.5 mL to 0.0625 L before using PV = nRT.",
+   "This uses mmHg with R = 0.082058. Convert the H<sub>2</sub> pressure to atm (divide by 760), or use R = 62.36 L&middot;torr/(mol&middot;K)."
   ],
   "h": "Dry-gas pressure first, then units that match R.",
   "w": "P<sub>H2</sub> = 733 mmHg = 0.9645 atm; T = 30.0 + 273.15 = 303.2 K. n = <b>0.00242 mol</b>.",

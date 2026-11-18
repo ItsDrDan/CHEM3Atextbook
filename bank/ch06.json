@@ -880,7 +880,7 @@
   "y": [
    "&Delta;EN = 3.5 &minus; 2.1 = 1.4, the largest difference here.",
    "&Delta;EN = 3.0 &minus; 2.5 = 0.5, barely polar.",
-   "&Delta;EN = 3.0 &minus; 2.1 = 0.9.",
+   "&Delta;EN = 3.0 &minus; 2.1 = 0.9. Find &Delta;EN for every bond; the largest difference is the most polar bond.",
    "&Delta;EN = 3.5 &minus; 2.5 = 1.0, polar but less than another bond here."
   ],
   "h": "Compute &Delta;EN for each bond; the largest difference is the most polar.",
@@ -1219,7 +1219,7 @@
   "y": [
    "All the percents add to 100%: 100 &minus; 54.53 &minus; 9.15 = 36.32% O.",
    "This subtracts only the carbon. Hydrogen must be subtracted too.",
-   "This subtracts only the hydrogen.",
+   "This subtracts only the hydrogen. Oxygen is what is left after both carbon and hydrogen, so subtract both percents from 100%.",
    "This is the C and H added together, not the oxygen."
   ],
   "h": "The percents of all the elements add up to 100%.",

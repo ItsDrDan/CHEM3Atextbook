@@ -635,7 +635,7 @@
   "y": [
    "15.0 g &divide; 100.09 g/mol = 0.1499 mol CaCO<sub>3</sub> = 0.1499 mol CO<sub>2</sub> (1 : 1); &times; 22.4 L/mol.",
    "This multiplies grams by 22.4 L/mol. Molar volume converts moles, not grams.",
-   "This stops at moles of CO<sub>2</sub>.",
+   "This stops at moles of CO<sub>2</sub>. Multiply by 22.4 L/mol to convert moles to liters at STP.",
    "This divides by 22.4 L/mol. Moles &times; (22.4 L / 1 mol) gives liters."
   ],
   "h": "g &rarr; mol CaCO<sub>3</sub> &rarr; mol CO<sub>2</sub> &rarr; L.",
@@ -657,7 +657,7 @@
    "0.0425 g &divide; 24.31 g/mol = 0.001748 mol Mg = 0.001748 mol H<sub>2</sub>; &times; 22.4 L/mol = 0.03916 L = 39.2 mL.",
    "This uses the HCl coefficient (2). The ratio of H<sub>2</sub> to Mg is 1 : 1.",
    "This is the volume in liters with a mL label; multiply by 1000 mL/L.",
-   "This stops at moles of H<sub>2</sub>."
+   "This stops at moles of H<sub>2</sub>. Multiply by 22.4 L/mol, then convert liters to mL."
   ],
   "h": "Find liters with 22.4 L/mol, then convert to mL.",
   "w": "0.0425 g Mg &times; (1 mol / 24.31 g) &times; (1 mol H<sub>2</sub> / 1 mol Mg) &times; (22.4 L / 1 mol) = 0.03916 L = <b>39.2 mL H<sub>2</sub></b>.",
@@ -678,7 +678,7 @@
    "12.6 g &divide; 180.156 g/mol = 0.06994 mol glucose; &times; 2 = 0.1399 mol CO<sub>2</sub>; &times; 24.5 L/mol, the molar volume at these conditions.",
    "This uses 22.4 L/mol, which is only for STP (0 &deg;C, 1 atm). At 25 &deg;C a mole of gas takes up more room.",
    "This skips the mole ratio: each glucose makes 2 CO<sub>2</sub>.",
-   "This stops at moles of CO<sub>2</sub>."
+   "This stops at moles of CO<sub>2</sub>. Multiply by the given 24.5 L/mol to convert to liters at these conditions."
   ],
   "h": "Use the molar volume given for these conditions, not the STP value.",
   "w": "12.6 g &times; (1 mol / 180.156 g) &times; (2 mol CO<sub>2</sub> / 1 mol glucose) &times; (24.5 L / 1 mol) = <b>3.43 L CO<sub>2</sub></b>.",
@@ -783,7 +783,7 @@
    "When the limiting reactant runs out, the reaction stops, so it decides the maximum amount of product.",
    "Mass alone cannot tell you; a reactant with a small molar mass can have many moles in a small mass.",
    "Coefficients are only part of the story; the amounts present matter too.",
-   "That is the excess reactant."
+   "That is the excess reactant. The limiting reactant runs out first, so it decides how much product can form."
   ],
   "h": "Think of bicycles: with 4 frames and 6 wheels, which part runs out first?",
   "w": "The limiting reactant is <b>used up first and sets the maximum amount of product</b>; the other reactant is in excess and some is left over.",
@@ -1149,7 +1149,7 @@
   ],
   "y": [
    "It is the calculated maximum, assuming every bit of the limiting reactant becomes product and none is lost.",
-   "That is the actual yield.",
+   "That is the actual yield, what you weigh in lab. The theoretical yield is calculated from the limiting reactant by stoichiometry.",
    "Reactant mass is not product mass; some reactant may be in excess, and other products form too.",
    "The excess reactant cannot all react, so it predicts too much product."
   ],
@@ -1256,7 +1256,7 @@
    "Percent yield = actual &divide; theoretical &times; 100%.",
    "That is percent error (|measured &minus; accepted| &divide; accepted &times; 100%), which compares a measurement with an accepted value.",
    "That is a leftover (excess reactant) calculation.",
-   "Yield says nothing about speed."
+   "Yield says nothing about speed. Percent yield compares product collected with the most product possible: actual &divide; theoretical &times; 100%."
   ],
   "h": "Yield compares what you got with what was possible.",
   "w": "Percent yield asks <b>how much of the possible product you collected</b>; percent error asks how close a measurement is to the accepted value.",
@@ -1464,7 +1464,7 @@
   ],
   "y": [
    "3.60 &times; 10<sup>4</sup> kJ &divide; 890.3 kJ/mol = 40.44 mol CH<sub>4</sub>; &times; 16.043 g/mol.",
-   "This stops at moles of methane.",
+   "This stops at moles of methane. Multiply by 16.043 g/mol to convert moles to grams.",
    "This divides by the molar mass instead of multiplying.",
    "This uses the coefficient of O<sub>2</sub> (2). The 890.3 kJ goes with 1 mol CH<sub>4</sub>."
   ],

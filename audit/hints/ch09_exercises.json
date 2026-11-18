@@ -1,0 +1,920 @@
+[
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 9.1",
+  "question": "Which of these is mainly potential energy? A. Red blood cells moving through an artery B. Glucose dissolved in a sports drink C. The fast-moving water molecules in the steam inside an autoclave D. A spinning centrifuge rotor in a clinical lab",
+  "answer": "B. Glucose stores chemical potential energy in the arrangement of its atoms. Nothing is happening to that energy yet; your cells release it later in cellular respiration. A is kinetic energy: the cells are moving with the blood. C is kinetic energy too. The random motion of particles is thermal energy, a kind of kinetic energy; the hotter the steam, the faster its molecules move. D is kinetic energy: the rotor is moving. It took electrical energy to get it spinning, but right now its energy is energy of motion.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 9.2",
+  "question": "Classify the main kind of energy in each as kinetic or potential: (a) ATP stored in a resting muscle cell; (b) almonds falling to the ground when a mechanical shaker shakes the tree at harvest; (c) water held in an elevated storage tank above an orchard; (d) the moving molecules of a warm blanket. (e) Describe the energy changes from the moment an almond lets go of its branch until it lands and stops.",
+  "answer": "(a) Potential (chemical energy stored in ATP's bonds). (b) Kinetic (motion). (c) Potential (energy of position; it becomes kinetic energy when the water flows down the pipes). (d) Kinetic (thermal energy, the random motion of its molecules). (e) The almond starts with gravitational potential energy. As it falls, potential energy turns into kinetic energy. When it hits the ground and stops, the kinetic energy becomes heat (a tiny warming of the almond and the soil) and sound. No energy is destroyed; it changes form at every step.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 9.3",
+  "question": "A car brakes from highway speed to a stop. What happens to its kinetic energy? A. It is destroyed, because the car is no longer moving. B. It is turned back into chemical potential energy in the gasoline. C. It becomes temperature, which is a form of energy. D. It becomes heat in the brakes, tires, and air, so the total energy is unchanged.",
+  "answer": "D. By the law of conservation of energy, energy changes form but is never created or destroyed. Friction in the brakes turns the car's kinetic energy into heat, which is why brakes get hot after a hard stop. A breaks the law of conservation of energy. The car's kinetic energy is gone, but the energy itself has moved into the brakes and surroundings. B is backward. Burning gasoline is a one-way chemical change; ordinary brakes cannot rebuild fuel molecules. C confuses temperature with energy. The brakes' temperature rises because their particles gain kinetic energy, but temperature is a measure of average kinetic energy, not a form of energy itself.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 9.4",
+  "question": "Describe what happens to the kinetic energy and the potential energy of the water molecules in each case: (a) liquid water warms from 10.0 &deg;C to 30.0 &deg;C; (b) ice melts at 0 &deg;C.",
+  "answer": "(a) The temperature rises, so the molecules move faster: their average kinetic energy increases . They stay liquid and about as close together as before, so their potential energy changes very little. (b) The temperature stays at 0 &deg;C, so the average kinetic energy does not change . The added energy loosens the molecules from their fixed places in the ice, pulling them slightly apart against their attractions: their potential energy increases . This is why a phase change happens at a constant temperature (Section 9.5).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 9.5",
+  "question": "An outdoor swimming pool holds water at 27.0 &deg;C, and a mug of tea is at 70.0 &deg;C. (a) In which do the water molecules have the higher average kinetic energy? (b) If both cool to 20.0 &deg;C, which releases more heat? Explain how both answers can be true.",
+  "answer": "(a) The tea . Temperature measures the average kinetic energy of the particles, and the tea is hotter. (b) The pool . It cools by only 7.0 &deg;C, but it holds millions of times more water than the mug, and the heat released depends on the mass as well as on the temperature change (q = mc&Delta;T, Section 9.4). Temperature is an average per particle; the thermal energy a sample can give off depends on how many particles there are. That is the difference between temperature and heat.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 9.6",
+  "question": "Mateo Herrera, 34, is an irrigation technician on a Fresno County almond orchard. He has asthma. On a July afternoon he is checking drip lines while the air temperature reaches 104 &deg;F. (a) Convert 104 &deg;F to &deg;C and to K. (b) Compare the air temperature with a normal body temperature of 37.0 &deg;C. Which way does heat flow between the air and his body? (c) Explain, in terms of energy and molecules, why sweating cools him. (d) Why does sweating cool him better on a dry Valley afternoon than on a humid day?",
+  "answer": "(a) \\( {}^\\circ\\text{C} = \\dfrac{104 - 32}{1.8} = \\dfrac{72}{1.8} = 40.\\ {}^\\circ\\text{C} \\qquad \\text{K} = 40. + 273.15 = 313\\ \\text{K} \\) Subtracting the exact 32 leaves 72, which has no decimal places and two significant figures, so the Celsius answer is 40. &deg;C (the decimal point shows that the zero counts). Adding 273.15 keeps the ones place: 313 K . (b) The air (40. &deg;C) is warmer than his body (37.0 &deg;C), so heat flows from the air into his body . On a day like this he cannot lose heat to the air by simply being cooler than it; evaporating sweat becomes his main way to shed heat. The day is also well above the 95 &deg;F mark at which Cal/OSHA's high-heat procedures apply (chapter introduction). (c) Evaporation is endothermic. The water molecules in sweat that escape into the air are the fastest ones, and they need energy to break away from their hydrogen-bonded neighbors. That energy, the heat of vaporization (about 2.4 kJ per gram at skin temperature), comes from his skin, so the skin and the blood just beneath it cool. The molecules left behind have a lower average kinetic energy, which is a lower temperature. (d) Sweat evaporates quickly into dry air. In humid air, which already holds a lot of water vapor, evaporation is slow, so more sweat drips off without evaporating, and dripping sweat carries away very little heat. (Context only; this is not medical guidance.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 9.7",
+  "question": "A patient's temperature is 38.6 &deg;C. What is it in &deg;F? A. 3.7 &deg;F B. 53.4 &deg;F C. 101.5 &deg;F D. 127.1 &deg;F",
+  "answer": "C. \\( {}^\\circ\\text{F} = 1.8(38.6) + 32 = 69.5 + 32 = 101.5\\ {}^\\circ\\text{F} \\) Multiplying by the exact 1.8 keeps three significant figures (69.5), and adding the exact 32 keeps one decimal place. The answer makes sense: 38.6 &deg;C is above the 38.0 &deg;C (100.4 &deg;F) commonly used as the fever threshold. A uses the &deg;F-to-&deg;C formula in the wrong direction: (38.6 &minus; 32)/1.8. A temperature of 3.7 &deg;F would be well below freezing. B divides by 1.8 instead of multiplying (38.6/1.8 + 32). A Fahrenheit degree is smaller than a Celsius degree, so the Fahrenheit number grows by a factor of 1.8. D adds 32 before multiplying, 1.8(38.6 + 32). The formula multiplies first, then adds 32.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 9.8",
+  "question": "A hiker rescued from a cold night in the Sierra Nevada has a core body temperature of 33.2 &deg;C. (a) Convert this temperature to &deg;F and to K. (b) Is it below the commonly used hypothermia threshold of 35.0 &deg;C (95.0 &deg;F)?",
+  "answer": "(a) \\( {}^\\circ\\text{F} = 1.8(33.2) + 32 = 59.8 + 32 = 91.8\\ {}^\\circ\\text{F} \\qquad \\text{K} = 33.2 + 273.15 = 306.4\\ \\text{K} \\) The answers are 91.8 &deg;F and 306.4 K (the sum 306.35 rounds to one decimal place, like 33.2). (b) Yes. 33.2 &deg;C is 1.8 &deg;C below 35.0 &deg;C, and 91.8 &deg;F is 3.2 &deg;F below 95.0 &deg;F; the two differences agree because 1.8 &times; 1.8 &deg;C = 3.2 &deg;F. (Context only; follow facility policy for thresholds and actions.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 9.9",
+  "question": "Hospitals store oxygen for patients as a liquid in large insulated tanks. Liquid oxygen boils at &minus;183 &deg;C. What is this temperature in kelvins? A. 90. K B. 456 K C. &minus;90. K D. &minus;183 K",
+  "answer": "A. \\( \\text{K} = -183 + 273.15 = 90.\\ \\text{K} \\) The sum 90.15 is rounded to the ones place, like &minus;183, and the decimal point in \"90.\" shows that the zero is significant. B adds 183 to 273.15, dropping the negative sign. A temperature below 0 &deg;C must be below 273.15 K. C subtracts in the wrong order (&minus;183 + 273.15 is positive, not negative). Kelvin temperatures are never negative, since 0 K is absolute zero. D assumes the scales are the same. A kelvin and a Celsius degree are the same size , but the zero points differ by 273.15.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 9.10",
+  "question": "After a dose of a fever reducer, a child's temperature drops by 2.5 &deg;F. By how many degrees Celsius and by how many kelvins did it drop?",
+  "answer": "For a change in temperature, use only the size of the degrees; do not subtract 32 or add 273.15. A Celsius degree is 1.8 Fahrenheit degrees, so \\( \\Delta T = \\dfrac{2.5\\ {}^\\circ\\text{F}}{1.8} = 1.4\\ {}^\\circ\\text{C} = 1.4\\ \\text{K} \\) The temperature dropped by 1.4 &deg;C , which is also 1.4 K , because a kelvin is the same size as a Celsius degree. Using the full formula, (2.5 &minus; 32)/1.8 = &minus;16.4 &deg;C, would convert a temperature of 2.5 &deg;F, not a change. (Context only; this is not dosing guidance.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 9.11",
+  "question": "Rank these temperatures from coldest to hottest: 25.0 &deg;C, 80.0 &deg;F, 305 K.",
+  "answer": "Convert everything to &deg;C: 80.0 &deg;F: (80.0 &minus; 32)/1.8 = 48.0/1.8 = 26.7 &deg;C 305 K: 305 &minus; 273.15 = 31.85, which rounds to the ones place as 32 &deg;C Coldest to hottest: 25.0 &deg;C &lt; 80.0 &deg;F &lt; 305 K . The biggest number (305) is the hottest here, but only after converting can you tell; 80.0 &deg;F is a warm day, while 80.0 &deg;C would be close to boiling water.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 9.12",
+  "question": "A medium banana provides about 105 Cal of food energy. How many kilojoules is that? A. 0.439 kJ B. 25.1 kJ C. 439 kJ D. 4.39 &times; 10 5 kJ",
+  "answer": "C. \\( 105\\ \\text{Cal} \\times \\dfrac{4184\\ \\text{J}}{1\\ \\text{Cal}} \\times \\dfrac{1\\ \\text{kJ}}{1000\\ \\text{J}} = 439\\ \\text{kJ} \\) Since 1 Cal = 4.184 kJ, the number of kilojoules is a little more than 4 times the number of Calories. A treats the food Calorie as a small calorie: 105 cal &times; 4.184 J/cal = 439 J = 0.439 kJ. A food Calorie is 1000 cal. B divides by 4.184 instead of multiplying. A kilojoule is smaller than a Calorie, so there must be more kilojoules than Calories. D is the answer in joules (4.39 &times; 10 5 J) labeled as kilojoules; the last step, dividing by 1000 J/kJ, was skipped.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 9.13",
+  "question": "An instant hot pack releases 12.5 kJ of heat as its salt dissolves. (a) Express this heat in calories and in food Calories. (b) What is the sign of q for the dissolving salt (the system)?",
+  "answer": "(a) \\( 12.5\\ \\text{kJ} \\times \\dfrac{1000\\ \\text{J}}{1\\ \\text{kJ}} \\times \\dfrac{1\\ \\text{cal}}{4.184\\ \\text{J}} = 2.99 \\times 10^{3}\\ \\text{cal} = 2.99\\ \\text{Cal} \\) (a) 2.99 &times; 10 3 cal , which is 2.99 Cal (1 Cal = 1000 cal). Scientific notation keeps three significant figures, like 12.5. (b) The pack releases heat, so the process is exothermic and q = &minus;12.5 kJ . Your hand, part of the surroundings, absorbs that heat and feels warm.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 9.14",
+  "question": "Which is the largest amount of energy? A. 2.50 kJ B. 500. cal C. 0.750 Cal D. 2.80 &times; 10 3 J",
+  "answer": "C. Convert each to joules: 0.750 Cal &times; 4184 J/Cal = 3138 J, or 3.14 &times; 10 3 J, the largest. A is 2.50 kJ = 2500 J (2.50 &times; 10 3 J). B has the biggest number, but calories are larger than joules by only a factor of 4.184: 500. cal &times; 4.184 J/cal = 2092 J (2.09 &times; 10 3 J), the smallest of the four. D is 2.80 &times; 10 3 J, more than A and B but less than C.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 9.15",
+  "question": "Which process releases heat to its surroundings? A. Sweat evaporating from the skin B. An instant cold pack being activated C. Water from sprinklers freezing on almond blossoms on a frosty night D. Dry ice subliming in a box used to ship vaccines",
+  "answer": "C. Freezing is exothermic (q &lt; 0 for the water): as the molecules lock into the ice structure, they release heat to the blossoms and the air around them. Some growers use this on purpose to protect blossoms on frosty nights. A is endothermic: evaporating sweat absorbs heat from the skin, which is why it cools you. B is endothermic: the dissolving solid absorbs heat from its surroundings, so the pack feels cold. D is endothermic: sublimation (solid to gas) separates the CO 2 molecules completely, which takes energy. Dry ice keeps the box cold by absorbing heat from its contents.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 9.16",
+  "question": "For each process, name the system, say whether it is exothermic or endothermic, and give the sign of q for the system: (a) a bag of IV fluid warming in a fluid warmer; (b) a cup of hot coffee cooling on the counter at a nurses' station; (c) rubbing alcohol evaporating from a patient's arm. (d) A patient with an ice pack says, \"The cold is flowing into my ankle.\" Restate this correctly in terms of heat.",
+  "answer": "(a) System: the IV fluid. It absorbs heat from the warmer: endothermic, q &gt; 0 . (b) System: the coffee. It releases heat to the cup and the air: exothermic, q &lt; 0 . (c) System: the evaporating alcohol. It absorbs heat from the skin as it vaporizes: endothermic, q &gt; 0 . The arm, part of the surroundings, loses that heat and feels cool. (d) \"Cold\" is not a thing that flows. Heat flows out of the ankle into the ice pack , because heat always moves from the warmer object to the colder one. The ankle feels cold because it is losing heat; the ice absorbs that heat and melts.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 9.17",
+  "question": "A warm compress is made by soaking a cloth in 225 g of water heated from 21.0 &deg;C to 45.0 &deg;C. How much heat did the water absorb, in joules and in kilojoules?",
+  "answer": "&Delta;T = 45.0 &minus; 21.0 = 24.0 &deg;C. \\( q = (225\\ \\text{g})\\left(4.184\\ \\dfrac{\\text{J}}{\\text{g}\\cdot{}^\\circ\\text{C}}\\right)(24.0\\ {}^\\circ\\text{C}) = 2.26 \\times 10^{4}\\ \\text{J} = 22.6\\ \\text{kJ} \\) The water absorbed 2.26 &times; 10 4 J (22.6 kJ) . The grams and degrees cancel, leaving joules, and q is positive because the water warmed. (Context only; follow facility policy for compress temperatures.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 9.18",
+  "question": "A 455 g length of copper pipe cools from 65.0 &deg;C to 22.5 &deg;C. What is q for the pipe? A. +7.44 &times; 10 3 J B. &minus;7.44 &times; 10 3 J C. &minus;3.94 &times; 10 3 J D. &minus;8.09 &times; 10 4 J",
+  "answer": "B. &Delta;T = T final &minus; T initial = 22.5 &minus; 65.0 = &minus;42.5 &deg;C. \\( q = (455\\ \\text{g})\\left(0.385\\ \\dfrac{\\text{J}}{\\text{g}\\cdot{}^\\circ\\text{C}}\\right)(-42.5\\ {}^\\circ\\text{C}) = -7.44 \\times 10^{3}\\ \\text{J} \\) The negative sign means the pipe releases 7.44 kJ of heat as it cools. A has the right size but the wrong sign; it comes from subtracting initial minus final. A cooling object releases heat, so q is negative. C uses the final temperature, 22.5 &deg;C, as if it were &Delta;T. D uses the specific heat of water (4.184) instead of copper's (0.385). Use the specific heat of the substance whose temperature is changing.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 9.19",
+  "question": "A 75.0 g silver spoon at 22.0 &deg;C is placed in a pot of hot soup and absorbs 1.25 kJ of heat. What is the spoon's final temperature? (c for silver = 0.235 J/(g&middot;&deg;C))",
+  "answer": "Convert kJ to J first, because the specific heat is in joules: 1.25 kJ = 1250 J. \\( \\Delta T = \\dfrac{q}{mc} = \\dfrac{1250\\ \\text{J}}{(75.0\\ \\text{g})(0.235\\ \\text{J/(g}\\cdot{}^\\circ\\text{C)})} = 70.9\\ {}^\\circ\\text{C} \\qquad T_\\text{final} = 22.0 + 70.9 = 92.9\\ {}^\\circ\\text{C} \\) The spoon ends at 92.9 &deg;C . A modest amount of heat raises its temperature a lot because silver's specific heat is low, which is why a metal spoon left in hot soup is too hot to hold.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 9.20",
+  "question": "A beaker holds 1.50 &times; 10 2 g of water at 18.5 &deg;C. It absorbs 8.20 kJ of heat. What is the final temperature of the water? A. 13.1 &deg;C B. 18.5 &deg;C C. 31.6 &deg;C D. 5.4 &deg;C",
+  "answer": "C. \\( \\Delta T = \\dfrac{8200\\ \\text{J}}{(150.\\ \\text{g})(4.184\\ \\text{J/(g}\\cdot{}^\\circ\\text{C)})} = 13.1\\ {}^\\circ\\text{C} \\qquad T_\\text{final} = 18.5 + 13.1 = 31.6\\ {}^\\circ\\text{C} \\) A is &Delta;T, not the final temperature. The question asks where the temperature ends up, so add &Delta;T to the starting temperature. B leaves the heat in kJ: 8.20/(150. &times; 4.184) = 0.0131 &deg;C, a change too small to see. The specific heat is in joules, so 8.20 kJ must become 8200 J. D subtracts &Delta;T from the starting temperature. The water absorbed heat, so its temperature went up.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 9.21",
+  "question": "A 58.2 g sample of an unknown metal absorbs 1.31 kJ of heat as it warms from 21.4 &deg;C to 71.4 &deg;C. Find its specific heat and identify the metal from the list at the top of this page.",
+  "answer": "&Delta;T = 71.4 &minus; 21.4 = 50.0 &deg;C, and q = 1.31 kJ = 1310 J. \\( c = \\dfrac{q}{m\\,\\Delta T} = \\dfrac{1310\\ \\text{J}}{(58.2\\ \\text{g})(50.0\\ {}^\\circ\\text{C})} = 0.450\\ \\dfrac{\\text{J}}{\\text{g}\\cdot{}^\\circ\\text{C}} \\) The specific heat is 0.450 J/(g&middot;&deg;C) , which matches iron (0.449). Check: (58.2)(0.449)(50.0) = 1307 J, which rounds to 1.31 kJ.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 9.22",
+  "question": "What mass of water, in grams, can be warmed from 20.5 &deg;C to 37.0 &deg;C by 5.00 &times; 10 4 J of heat, as when water is warmed for a patient's bed bath?",
+  "answer": "&Delta;T = 37.0 &minus; 20.5 = 16.5 &deg;C. \\( m = \\dfrac{q}{c\\,\\Delta T} = \\dfrac{5.00 \\times 10^{4}\\ \\text{J}}{(4.184\\ \\text{J/(g}\\cdot{}^\\circ\\text{C)})(16.5\\ {}^\\circ\\text{C})} = 724\\ \\text{g} \\) The heat can warm 724 g of water, about three cups. Check the units: J divided by J/(g&middot;&deg;C) and by &deg;C leaves grams.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 9.23",
+  "question": "In a lab modeled on Experiment 7a (Calorimetry), a student dissolves 5.00 g of each of three solids, one at a time, in 25.0 g of water in a foam-cup calorimeter and records the starting temperature and the highest or lowest temperature reached. @media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } } Dissolving 5.00 g of each solid in 25.0 g of water Solid Mass of water (g) Initial temperature (&deg;C) Final temperature (&deg;C) Calcium chloride, CaCl 2 25.0 21.8 50.9 Ammonium chloride, NH 4 Cl 25.0 22.6 11.7 Urea, CO(NH 2 ) 2 25.0 22.4 12.3 (a) Find &Delta;T of the water for each trial and classify each dissolving as exothermic or endothermic. (b) Find q for the water in each trial. (c) Find q for the dissolving solid (the system) in each trial. (d) Which solid would work best in an instant hot pack, and which in an instant cold pack? (To keep the math simple, use only the mass of the water and c = 4.184 J/(g&middot;&deg;C), and assume no heat is lost to the cup or the air.)",
+  "answer": "For each trial, q water = (25.0 g)(4.184 J/(g&middot;&deg;C))(&Delta;T), and q dissolving = &minus;q water , because the heat the dissolving solid releases is the heat the water absorbs. CaCl 2 : &Delta;T = 50.9 &minus; 21.8 = +29.1 &deg;C; q water = +3.04 &times; 10 3 J; q dissolving = &minus;3.04 &times; 10 3 J . The water warmed, so dissolving CaCl 2 is exothermic . NH 4 Cl: &Delta;T = 11.7 &minus; 22.6 = &minus;10.9 &deg;C; q water = &minus;1.14 &times; 10 3 J; q dissolving = +1.14 &times; 10 3 J . The water cooled, so the dissolving is endothermic . Urea: &Delta;T = 12.3 &minus; 22.4 = &minus;10.1 &deg;C; q water = &minus;1.06 &times; 10 3 J; q dissolving = +1.06 &times; 10 3 J , endothermic . (d) Calcium chloride suits a hot pack; it released the most heat. Ammonium chloride absorbed slightly more heat per 5.00 g than urea, so it makes the colder pack, although both are used in real cold packs. Keep the signs straight: the water's temperature tells you what happened to the surroundings , and the system's q has the opposite sign.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 9.24",
+  "question": "A 112.5 g sample of an unknown metal is heated in a boiling-water bath to 99.8 &deg;C and then quickly moved into a calorimeter holding 45.0 g of water at 20.3 &deg;C. The metal and water end at 35.2 &deg;C. (a) How much heat did the water gain? (b) What is q for the metal? (c) Find the metal's specific heat and identify it.",
+  "answer": "(a) \\( q_\\text{water} = (45.0\\ \\text{g})(4.184)(35.2 - 20.3\\ {}^\\circ\\text{C}) = (45.0)(4.184)(14.9) = 2.81 \\times 10^{3}\\ \\text{J} \\) (b) Heat lost by the hot metal equals heat gained by the water, &minus;q metal = q water , so q metal = &minus;2.81 &times; 10 3 J . (c) \\( c_\\text{metal} = \\dfrac{q}{m\\,\\Delta T} = \\dfrac{-2805\\ \\text{J}}{(112.5\\ \\text{g})(35.2 - 99.8\\ {}^\\circ\\text{C})} = \\dfrac{-2805\\ \\text{J}}{(112.5\\ \\text{g})(-64.6\\ {}^\\circ\\text{C})} = 0.386\\ \\dfrac{\\text{J}}{\\text{g}\\cdot{}^\\circ\\text{C}} \\) (c) 0.386 J/(g&middot;&deg;C) , which matches copper (0.385). The two negative signs cancel, as they must; a specific heat is always positive. The metal's temperature fell by 64.6 &deg;C while the water's rose by only 14.9 &deg;C, because copper's specific heat is so much lower than water's.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 9.25",
+  "question": "On the heating curve for water, heat is still being added while ice melts at 0 &deg;C, but the temperature does not change. Where does that heat go? A. It breaks the O&ndash;H covalent bonds inside the water molecules. B. Nowhere; since &Delta;T = 0, q = mc&Delta;T shows that no heat is absorbed. C. It makes the molecules move faster, raising their kinetic energy. D. It overcomes the attractions holding the molecules in the ice, raising their potential energy.",
+  "answer": "D. During a phase change, the added heat goes into separating the molecules against their intermolecular attractions (hydrogen bonds in ice). Their potential energy rises while their average kinetic energy, and so the temperature, stays the same. The heat is q = n&Delta;H fus . A confuses intermolecular forces with bonds. Melting separates whole H 2 O molecules from each other; each molecule keeps its O&ndash;H bonds. B uses q = mc&Delta;T on a plateau. That equation only describes temperature changes; a phase change absorbs heat even though &Delta;T = 0. C would make the temperature rise, since temperature measures average kinetic energy. On a plateau it does not.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 9.26",
+  "question": "An athletic trainer fills a bag with 3.50 &times; 10 2 g of ice at 0 &deg;C for a sprained ankle. How much heat must the ice absorb to melt completely? Give the answer in kilojoules, and check it with &Delta;H fus = 334 J/g.",
+  "answer": "\\( 3.50 \\times 10^{2}\\ \\text{g} \\times \\dfrac{1\\ \\text{mol H}_2\\text{O}}{18.015\\ \\text{g}} \\times \\dfrac{6.02\\ \\text{kJ}}{1\\ \\text{mol}} = 117\\ \\text{kJ} \\) The ice absorbs 117 kJ (q = +117 kJ, endothermic) while it stays at 0 &deg;C. Check: 350. g &times; 334 J/g = 1.17 &times; 10 5 J = 117 kJ. That steady, large heat absorption at a fixed 0 &deg;C is what makes melting ice such a good cold source. (Context only; follow the care plan for cold therapy.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 9.27",
+  "question": "In an autoclave, steam condenses on the surgical instruments being sterilized and heats them. What is q for 42.0 g of steam condensing to liquid water at 100 &deg;C? A. &minus;94.9 kJ B. +94.9 kJ C. &minus;1.71 &times; 10 3 kJ D. &minus;14.0 kJ",
+  "answer": "A. \\( 42.0\\ \\text{g} \\times \\dfrac{1\\ \\text{mol}}{18.015\\ \\text{g}} \\times \\dfrac{40.7\\ \\text{kJ}}{1\\ \\text{mol}} = 94.9\\ \\text{kJ} \\qquad q = -94.9\\ \\text{kJ} \\) Condensation is the reverse of vaporization, so it releases the same amount of heat: the steam's q is negative, and the instruments absorb +94.9 kJ. That large release is why condensing steam heats a load so quickly. B has the right size but the sign for vaporizing . Condensing releases heat, so q for the steam is negative. C skips the gram-to-mole step: 42.0 &times; 40.7 = 1709. The &Delta;H vap is per mole , so grams must be converted to moles first. D uses &Delta;H fus (6.02 kJ/mol), the value for melting and freezing. Steam &harr; liquid uses &Delta;H vap .",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 9.28",
+  "question": "During a long run on a hot day, a marathon runner evaporates 615 g of sweat. (a) Estimate the heat the evaporating sweat removes from the body, using &Delta;H vap = 40.7 kJ/mol. (b) Express the answer in food Calories. (c) The true heat of vaporization at skin temperature is slightly larger than 40.7 kJ/mol. Is your estimate too high or too low?",
+  "answer": "(a) \\( 615\\ \\text{g} \\times \\dfrac{1\\ \\text{mol}}{18.015\\ \\text{g}} \\times \\dfrac{40.7\\ \\text{kJ}}{1\\ \\text{mol}} = 1.39 \\times 10^{3}\\ \\text{kJ} \\) (b) \\( 1.39 \\times 10^{3}\\ \\text{kJ} \\times \\dfrac{1000\\ \\text{J}}{1\\ \\text{kJ}} \\times \\dfrac{1\\ \\text{Cal}}{4184\\ \\text{J}} = 332\\ \\text{Cal} \\) (a) About 1.39 &times; 10 3 kJ (q = +1.39 &times; 10 3 kJ for the sweat, since evaporation absorbs heat); (b) about 332 Cal , the food energy in a large snack, removed as heat just by evaporation. (c) The estimate is too low : water at skin temperature needs a little more energy per mole to evaporate than water at 100 &deg;C, so the real heat removed is somewhat larger.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 9.29",
+  "question": "On a frosty spring night, a grower runs sprinklers so that a thin layer of water freezes on the blossoms. Over one acre, about 1.00 &times; 10 6 g (1.00 &times; 10 3 kg) of water freezes at 0 &deg;C. (a) Find q for the freezing water. (b) Where does that heat go? (c) Explain why the blossoms stay at about 0 &deg;C, even though the air is colder, as long as water keeps freezing on them.",
+  "answer": "(a) \\( 1.00 \\times 10^{6}\\ \\text{g} \\times \\dfrac{1\\ \\text{mol}}{18.015\\ \\text{g}} \\times \\dfrac{6.02\\ \\text{kJ}}{1\\ \\text{mol}} = 3.34 \\times 10^{5}\\ \\text{kJ} \\qquad q = -3.34 \\times 10^{5}\\ \\text{kJ} \\) (a) q = &minus;3.34 &times; 10 5 kJ : freezing is exothermic, so the sign is negative. (b) The heat flows into the blossoms, branches, and the air right around them, the surroundings. (c) A mixture of ice and liquid water sits on the freezing plateau of the heating curve, at 0 &deg;C. As long as liquid water is still freezing, the heat it releases keeps the coating, and the blossom inside it, at 0 &deg;C. Blossoms are usually damaged only when they cool a few degrees below freezing, so holding them at 0 &deg;C protects them. If the sprinklers stop, the freezing ends and the ice can cool below 0 &deg;C.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 9.30",
+  "question": "A sample of acetone, the solvent in many nail polish removers, is heated at a steady rate from &minus;120 &deg;C to 80 &deg;C. Its heating curve has two flat segments, one at &minus;95 &deg;C and one at 56 &deg;C. (a) What is happening on each flat segment? (b) What are acetone's melting point and boiling point? (c) What is acetone's state at &minus;100 &deg;C, at 25 &deg;C, and at 70 &deg;C? (d) Which flat segment is longer, and why? (e) Which equation gives the heat for the sloped segment between the two plateaus?",
+  "answer": "(a) At &minus;95 &deg;C solid acetone melts ; at 56 &deg;C liquid acetone boils . On each plateau the temperature is constant while the state changes. (b) Melting point &minus;95 &deg;C ; boiling point 56 &deg;C . (c) &minus;100 &deg;C: solid (below the melting point). 25 &deg;C: liquid . 70 &deg;C: gas (above the boiling point). (d) The boiling plateau at 56 &deg;C is longer. Vaporizing separates the molecules completely, which takes much more energy than loosening them into a liquid, so &Delta;H vap is much larger than &Delta;H fus , just as it is for water. (e) The sloped segment is liquid acetone warming, so q = mc&Delta;T , using the specific heat of liquid acetone.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 9.31",
+  "question": "How much heat is needed to turn 30.0 g of liquid water at 60.0 &deg;C into steam at 100.0 &deg;C? A. 5.02 kJ B. 67.8 kJ C. 72.8 kJ D. 5.09 &times; 10 3 kJ",
+  "answer": "C. Two steps: warm the liquid to 100.0 &deg;C (a slope), then boil it (a plateau). \\( q_1 = (30.0\\ \\text{g})(4.184)(100.0 - 60.0\\ {}^\\circ\\text{C}) = 5.02 \\times 10^{3}\\ \\text{J} = 5.02\\ \\text{kJ} \\) \\( q_2 = 30.0\\ \\text{g} \\times \\dfrac{1\\ \\text{mol}}{18.015\\ \\text{g}} \\times \\dfrac{40.7\\ \\text{kJ}}{1\\ \\text{mol}} = 67.8\\ \\text{kJ} \\qquad q_\\text{total} = 5.02 + 67.8 = 72.8\\ \\text{kJ} \\) A stops at 100.0 &deg;C: it warms the water but never boils it. Reaching 100 &deg;C is not the same as becoming steam. B boils the water but skips warming it from 60.0 &deg;C to 100.0 &deg;C. D adds 5020 J to 67.8 kJ as if both were in the same unit. Convert every step to kJ (or every step to J) before adding.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 9.32",
+  "question": "How much heat is needed to warm 40.0 g of ice from &minus;25.0 &deg;C to &minus;5.0 &deg;C? A. 2.09 &times; 10 3 J B. 3.35 &times; 10 3 J C. 1.50 &times; 10 4 J D. 1.67 &times; 10 3 J",
+  "answer": "D. The sample stays solid the whole time (it never reaches 0 &deg;C), so this is one sloped segment with the specific heat of ice . &Delta;T = &minus;5.0 &minus; (&minus;25.0) = 20.0 &deg;C. \\( q = (40.0\\ \\text{g})\\left(2.09\\ \\dfrac{\\text{J}}{\\text{g}\\cdot{}^\\circ\\text{C}}\\right)(20.0\\ {}^\\circ\\text{C}) = 1.67 \\times 10^{3}\\ \\text{J} \\) A uses 25.0 &deg;C as &Delta;T, the size of the starting temperature instead of the change. B uses the specific heat of liquid water (4.184). Ice has its own, smaller specific heat, 2.09 J/(g&middot;&deg;C). C adds a melting step (40.0 g &divide; 18.015 g/mol &times; 6020 J/mol). No ice melts, because the final temperature is still below 0 &deg;C; sketch the heating curve to see which segments the change really crosses.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 9.33",
+  "question": "Which substance can hydrogen bond with itself? A. Formaldehyde, H 2 CO B. Difluoromethane, CH 2 F 2 C. Ethylamine, CH 3 CH 2 NH 2 D. Hydrogen chloride, HCl",
+  "answer": "C. Ethylamine has two H atoms bonded directly to N, and the N has a lone pair, so an N&ndash;H on one molecule can hydrogen bond to the N of a neighbor. A has an O, but both H atoms are bonded to C. A C&ndash;H hydrogen is not positive enough to hydrogen bond; formaldehyde is polar, so its strongest force is dipole&ndash;dipole. B has F atoms and H atoms, but again every H is on carbon. Hydrogen bonding needs H bonded directly to N, O, or F. D is polar, with H bonded to Cl, but Cl is not N, O, or F. HCl has dipole&ndash;dipole forces, not hydrogen bonds.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 9.34",
+  "question": "List all the intermolecular forces present in each substance and name the strongest. Use the polarity rules from Chapter 6. (a) CCl 4 ; (b) PCl 3 ; (c) CH 3 NH 2 ; (d) BF 3 ; (e) LiCl dissolved in water.",
+  "answer": "(a) CCl 4 : the C&ndash;Cl bonds are polar (&Delta;EN = 0.5), but the tetrahedral shape is symmetric, so the dipoles cancel and the molecule is nonpolar. Dispersion only . (b) PCl 3 : polar P&ndash;Cl bonds (&Delta;EN = 0.9) and a trigonal pyramidal shape (a lone pair on P), which is asymmetric, so the molecule is polar. Dispersion and dipole&ndash;dipole (strongest). (c) CH 3 NH 2 : H bonded directly to N. Dispersion, dipole&ndash;dipole, and hydrogen bonding (strongest). (d) BF 3 : the B&ndash;F bonds are very polar (&Delta;EN = 2.0), but the trigonal planar shape is symmetric, so the dipoles cancel. Dispersion only . Polar bonds do not guarantee a polar molecule (SNAP). (e) Li + and Cl &minus; ions surrounded by polar water molecules: ion&ndash;dipole (strongest), along with the hydrogen bonding and dispersion forces among the water molecules themselves.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 9.35",
+  "question": "Dichloromethane, CH 2 Cl 2 , is a solvent used to remove caffeine from coffee beans. What is the strongest intermolecular force between CH 2 Cl 2 molecules? A. Dipole&ndash;dipole forces B. Hydrogen bonding C. Dispersion forces only, because a tetrahedral molecule is symmetric D. Ion&ndash;dipole forces",
+  "answer": "A. The C&ndash;Cl bonds are polar (&Delta;EN = 0.5) and the C&ndash;H bonds count as nonpolar, so the two Cl atoms pull electron density toward one side of the molecule. The bond dipoles do not cancel, so CH 2 Cl 2 is polar: dipole&ndash;dipole forces (plus dispersion). B: CH 2 Cl 2 contains H, but every H is bonded to C, and there is no N, O, or F. No hydrogen bonding. C: the shape is tetrahedral, but a tetrahedron is only symmetric when all four atoms around the center are the same, as in CH 4 or CCl 4 . Two H and two Cl make it asymmetric. D needs ions. CH 2 Cl 2 is a molecular compound made only of nonmetals.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 9.36",
+  "question": "Which statement correctly describes water boiling at 100 &deg;C? A. The bubbles are H 2 and O 2 gas, formed as water molecules break apart. B. Hydrogen bonds between neighboring molecules are overcome, and each H 2 O molecule stays intact. C. The O&ndash;H covalent bonds inside each molecule break. D. Hydrogen bonds are covalent bonds between the H atoms of neighboring molecules, and boiling breaks them.",
+  "answer": "B. Boiling is a physical change. The molecules move apart from each other, so the intermolecular forces (mainly hydrogen bonds) are overcome, but the molecules themselves do not change; the bubbles are water vapor, H 2 O(g). A describes a chemical change (decomposition, as in electrolysis). Boiling water does not make hydrogen or oxygen gas. C: covalent O&ndash;H bonds are far stronger than intermolecular forces; breaking them takes far more energy than boiling provides. D: a hydrogen bond is not covalent. It is an attraction between an H on one molecule and a lone pair on the O of a different molecule, a few percent as strong as a covalent bond.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 9.37",
+  "question": "The two strands of DNA are held together by hydrogen bonds between base pairs: adenine&ndash;thymine (A&ndash;T) pairs form two hydrogen bonds, and guanine&ndash;cytosine (G&ndash;C) pairs form three. (a) In the polymerase chain reaction (PCR), a sample is heated to about 95 &deg;C to separate the strands. Would a stretch of DNA rich in A&ndash;T pairs or one rich in G&ndash;C pairs separate more easily? Explain. (b) When the strands separate, are covalent bonds broken? (c) In these hydrogen bonds, the H is bonded to an N atom. Why does that matter?",
+  "answer": "(a) The A&ndash;T-rich stretch. Each A&ndash;T pair is held by two hydrogen bonds instead of three, so it takes less energy to pull the strands apart there. G&ndash;C-rich DNA needs a higher temperature to separate. (b) No. Separating the strands overcomes the hydrogen bonds between the bases. The covalent bonds within each strand (the sugar&ndash;phosphate backbone and the bases themselves) stay intact, which is why the strands can be copied and then pair up again. (c) Hydrogen bonding needs an H bonded directly to N, O, or F. An N&ndash;H hydrogen is strongly &delta;+, so it is attracted to a lone pair on an O or N atom of the base across from it. An H on carbon would not be positive enough.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 9.38",
+  "question": "Which substance has the strongest dispersion forces? A. HF B. HCl C. HBr D. HI",
+  "answer": "D. Dispersion forces grow with the number of electrons. HI has 54 electrons (1 + 53), the largest, most polarizable electron cloud of the four. A, HF, has the fewest electrons (10) and the weakest dispersion forces. HF does hydrogen bond, but hydrogen bonding is a different force; the question asks only about dispersion. B, HCl, has 18 electrons. C, HBr, has 36 electrons: stronger dispersion than HCl, but weaker than HI.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 9.39",
+  "question": "Ammonia (NH 3 , 17.031 g/mol) boils at &minus;33 &deg;C, while methane (CH 4 , 16.043 g/mol) boils at &minus;162 &deg;C. (a) Explain the difference with intermolecular forces. (b) Water (18.015 g/mol) boils at 100 &deg;C, far higher than ammonia. Suggest a reason.",
+  "answer": "(a) The molecules are nearly the same size (10 electrons each), so their dispersion forces are similar. Methane is nonpolar (C&ndash;H bonds count as nonpolar, and the shape is symmetric), so it has dispersion forces only . Ammonia has H bonded directly to N, so its molecules hydrogen bond . Overcoming those stronger attractions takes more energy, so ammonia boils about 130 &deg;C higher. (b) O is more electronegative than N, so the O&ndash;H hydrogens in water are more &delta;+ and its hydrogen bonds are stronger. Each water molecule also has two H atoms and two lone pairs, so it can form more hydrogen bonds than an NH 3 molecule, whose N has only one lone pair to share among its neighbors' three H atoms.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 9.40",
+  "question": "Quartz (SiO 2 ) melts at about 1700 &deg;C, while dry ice (solid CO 2 ) sublimes at &minus;78 &deg;C. What is the best explanation? A. Quartz is a covalent network: melting it breaks Si&ndash;O covalent bonds. Dry ice is a molecular solid held only by dispersion forces. B. Both are molecular solids, and SiO 2 has the larger molar mass, so its dispersion forces are stronger. C. Quartz is an ionic solid, because Si and O have very different electronegativities. D. SiO 2 molecules hydrogen bond with each other; CO 2 molecules do not.",
+  "answer": "A. Quartz has no separate SiO 2 molecules: every Si is covalently bonded to four O atoms, and every O to two Si atoms, in an endless network. To melt it, covalent bonds must break. Dry ice is made of separate, nonpolar O=C=O molecules held together only by weak dispersion forces. B treats SiO 2 as a molecule. The formula SiO 2 only gives the ratio of atoms in the network. A difference of 16 g/mol in molar mass could never explain a difference of nearly 1800 &deg;C. C: silicon is a metalloid and oxygen a nonmetal, and the Si&ndash;O bond is polar covalent, not ionic. Quartz does not conduct even when melted. D: quartz has no H atoms at all, so it cannot hydrogen bond.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 9.41",
+  "question": "Classify each solid as ionic, molecular, covalent network, or metallic: (a) CaCl 2 ; (b) graphite; (c) solid iodine, I 2 ; (d) silver; (e) glucose, C 6 H 12 O 6 ; (f) silicon carbide, SiC; (g) hydroxyapatite, Ca 5 (PO 4 ) 3 OH, the mineral in tooth enamel.",
+  "answer": "(a) Ionic : a metal cation (Ca 2+ ) with a nonmetal anion (Cl &minus; ). (b) Covalent network : sheets of carbon atoms covalently bonded to each other. Graphite is one of the network solids to memorize. (c) Molecular : separate I 2 molecules held by dispersion forces. (d) Metallic : a metal element alone. (e) Molecular : separate glucose molecules held by hydrogen bonds and other intermolecular forces. (f) Covalent network : like diamond, with Si and C atoms bonded in a three-dimensional network, which makes it hard enough to use as an abrasive. (g) Ionic : Ca 2+ cations with phosphate (PO 4 3&minus; ) and hydroxide (OH &minus; ) polyatomic anions. It contains nonmetals, but a metal ion with polyatomic ions makes an ionic solid.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 9.42",
+  "question": "A lab has four unlabeled white or gray solids. Identify the type of solid for each from its properties, then match each to one of these: sucrose (table sugar), sodium chloride, copper, quartz sand. Solid W: shiny when polished, bends without breaking, and conducts electricity as a solid. Solid X: melts below 200 &deg;C and does not conduct electricity as a solid, as a liquid, or dissolved in water. Solid Y: hard and brittle, melts above 700 &deg;C, and conducts electricity only when melted or dissolved in water. Solid Z: extremely hard, melts above 1500 &deg;C, does not dissolve in water, and does not conduct.",
+  "answer": "W: metallic ; its mobile \"sea\" of electrons conducts, and the metal cations can slide past each other without breaking the solid. It is copper . X: molecular ; only intermolecular forces hold it together, so it melts low, and it has no ions or free electrons to carry charge. It is sucrose . Y: ionic ; ionic bonds give a high melting point, and the ions carry charge only when they are free to move. It is sodium chloride . Z: covalent network ; covalent bonds run through the whole crystal, so it is very hard and melts very high. It is quartz sand (SiO 2 ).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 9.43",
+  "question": "Which liquid has the highest surface tension at room temperature? A. Hexane, C 6 H 14 B. Diethyl ether, CH 3 CH 2 OCH 2 CH 3 C. Ethanol, CH 3 CH 2 OH D. Water, H 2 O",
+  "answer": "D. Surface tension rises with the strength of the attractions pulling surface molecules inward. Water forms an extensive network of hydrogen bonds (two O&ndash;H hydrogens and two lone pairs per molecule), the strongest attractions of the four. A, hexane, is nonpolar, with dispersion forces only. Its larger size does not make up for the lack of stronger forces. B, diethyl ether, is polar but has no O&ndash;H, so it cannot hydrogen bond with itself; its strongest force is dipole&ndash;dipole. C, ethanol, does hydrogen bond, but with only one O&ndash;H per molecule it forms fewer hydrogen bonds than water does, so its surface tension is much lower.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 9.44",
+  "question": "(a) For a finger-stick blood test, a technician touches a thin glass capillary tube to a drop of blood, and the blood rises into the tube on its own. Explain why, using the terms adhesion and cohesion. (b) Ethylene glycol (HOCH 2 CH 2 OH, the main ingredient in antifreeze) is much more viscous than ethanol (CH 3 CH 2 OH). Explain. (c) What happens to the viscosity of ethylene glycol on a cold winter morning, and why?",
+  "answer": "(a) Blood is mostly water. The water molecules are attracted to the polar glass surface ( adhesion ) more strongly than to each other ( cohesion ), so the liquid climbs the walls of the narrow tube and pulls the rest of the column up with it. This is capillary action. (b) Both molecules hydrogen bond, but ethylene glycol has two O&ndash;H groups per molecule, one at each end, while ethanol has only one. Each ethylene glycol molecule can hydrogen bond to more neighbors, so the molecules hold on to each other more tightly and resist flowing past one another. (c) The viscosity increases . At a lower temperature the molecules move more slowly, so they are less able to break away from their hydrogen-bonded neighbors and slide past them.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 9.45",
+  "question": "Inside a running autoclave, the pressure is roughly twice normal atmospheric pressure, and water boils at about 121 &deg;C instead of 100 &deg;C. Why? A. The higher pressure makes the hydrogen bonds between water molecules stronger. B. Water's vapor pressure is lower inside an autoclave, so it must be heated more. C. Boiling happens when the vapor pressure equals the pressure above the liquid, and water's vapor pressure reaches the higher pressure only at a higher temperature. D. The steam has extra heat added to it, and the boiling point rises with the amount of heat added.",
+  "answer": "C. A liquid boils when its vapor pressure equals the outside pressure. Water's vapor pressure rises with temperature and reaches 1 atm at 100 &deg;C; to match a pressure about twice as high, the water must be hotter, about 121 &deg;C. Steam at that temperature kills heat-resistant bacterial spores that survive boiling at 100 &deg;C. A: the intermolecular forces are the same; the molecules are still water. What changed is the pressure the vapor must push against. B: vapor pressure depends on the liquid and its temperature, not on the container. At any given temperature, water's vapor pressure is the same inside or outside the autoclave. D: adding heat at the boiling point turns more liquid into steam, but it does not change the boiling temperature. Only the outside pressure does that.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 9.46",
+  "question": "The table below lists three compounds with nearly the same molar mass and their normal boiling points. Three compounds of similar molar mass Compound Formula Molar mass (g/mol) Normal boiling point (&deg;C) Butane CH 3 CH 2 CH 2 CH 3 58.124 &minus;1 Acetone CH 3 COCH 3 (C=O in the middle) 58.080 56 1-Propanol CH 3 CH 2 CH 2 OH 60.096 97 (a) Name the strongest intermolecular force in each. (b) Explain the order of the boiling points. (c) Which has the highest vapor pressure at 25 &deg;C? (d) Which of the two liquids would evaporate faster from a lab bench?",
+  "answer": "(a) Butane: nonpolar hydrocarbon, dispersion only . Acetone: polar C=O bond and no O&ndash;H, dipole&ndash;dipole . 1-Propanol: an O&ndash;H group, hydrogen bonding . (b) The molar masses (and electron counts, 32 to 34) are nearly equal, so the dispersion forces are similar, and the strongest force decides the order: dispersion &lt; dipole&ndash;dipole &lt; hydrogen bonding, matching &minus;1 &deg;C &lt; 56 &deg;C &lt; 97 &deg;C. Butane boils below room temperature, which is why it is sold as a gas in pressurized lighters. (c) Butane , with the weakest forces. Vapor pressure runs opposite to boiling point; butane's vapor pressure at 25 &deg;C is above 1 atm, since its boiling point is below 25 &deg;C. (d) Acetone . Of the two liquids, it has the weaker intermolecular forces, the higher vapor pressure, and the lower boiling point.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 9.47",
+  "question": "Ethane (C 2 H 6 ), fluoromethane (CH 3 F), and methanol (CH 3 OH) each have 18 electrons. Rank them from lowest to highest boiling point. A. C 2 H 6 &lt; CH 3 OH &lt; CH 3 F B. C 2 H 6 &lt; CH 3 F &lt; CH 3 OH C. CH 3 OH &lt; CH 3 F &lt; C 2 H 6 D. All three about the same, because they have the same number of electrons",
+  "answer": "B. With the size (electron count) the same, the strongest force decides. Ethane is nonpolar (dispersion only). Fluoromethane is polar because of its C&ndash;F bond (&Delta;EN = 1.5), but all its H atoms are on carbon, so its strongest force is dipole&ndash;dipole. Methanol has an O&ndash;H and hydrogen bonds. The real boiling points are about &minus;89 &deg;C, &minus;78 &deg;C, and 65 &deg;C. A ranks by molar mass (30.070 &lt; 32.042 &lt; 34.033 g/mol). Hydrogen bonding in methanol outweighs fluoromethane's slightly larger mass; compare the strongest force first and use size only to break ties. C is the order of vapor pressure (lowest to highest), which is the reverse of the boiling-point order. D: equal electron counts make the dispersion forces similar, but methanol and fluoromethane have additional, stronger forces on top of dispersion.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 9.48",
+  "question": "Which liquid has the highest vapor pressure at 20 &deg;C? A. Acetone B. Ethanol C. Water D. Glycerol, C 3 H 5 (OH) 3",
+  "answer": "A. Acetone is polar but cannot hydrogen bond with itself, so it has the weakest intermolecular forces of the four. Its molecules escape most easily: it is the most volatile, with the highest vapor pressure and the lowest boiling point (56 &deg;C). B, ethanol, hydrogen bonds through its one O&ndash;H group, so it holds its molecules more tightly than acetone does. C, water, hydrogen bonds even more extensively than ethanol; its vapor pressure is lower still. D, glycerol, has three O&ndash;H groups per molecule and the highest boiling point of the four. Picking it uses the boiling-point order; vapor pressure runs the opposite way, so glycerol has the lowest vapor pressure.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 9.49",
+  "question": "Some vaccines and many bacterial cultures are preserved by freeze-drying: the sample is frozen, then placed under very low pressure, and the ice turns directly into water vapor. (a) Name this phase change. (b) Is it endothermic or exothermic, and what is the sign of q for the ice? (c) Why does lowering the pressure help? (d) Why not simply warm the sample until the water evaporates?",
+  "answer": "(a) Sublimation , solid &rarr; gas without melting. (b) Endothermic , so q &gt; 0 for the ice: separating the molecules completely takes energy. (Freeze-dryers supply gentle heat to keep the process going.) (c) Ice has a small vapor pressure even below 0 &deg;C. When the pressure around the sample is lowered below that vapor pressure, water molecules leave the ice faster than they return, so the ice sublimes away while the sample stays frozen. (d) Warming the sample enough to evaporate the water would first melt it and then hold it at higher temperatures for a long time. Heat can denature proteins by breaking the hydrogen bonds that hold their shape (Section 9.6), and it can kill the microbes being preserved. Freeze-drying removes the water while everything stays cold.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 9.50",
+  "question": "Rank from lowest to highest melting point: KCl, N 2 , SiC, CH 3 OH. Explain your reasoning.",
+  "answer": "Classify the solids first, then compare forces within a type: N 2 : molecular, nonpolar, dispersion only . CH 3 OH: molecular, hydrogen bonding (O&ndash;H). KCl: ionic (K + and Cl &minus; , held by ionic bonds). SiC: covalent network (covalent bonds throughout). N 2 &lt; CH 3 OH &lt; KCl &lt; SiC The two molecular solids melt lowest because only intermolecular forces must be overcome, and hydrogen bonding puts methanol above nitrogen. Melting KCl requires separating ions held by ionic bonds, and melting SiC requires breaking covalent bonds, so the network solid is highest.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 9.51",
+  "question": "How much heat is needed to turn 40.0 g of ice at &minus;12.0 &deg;C into steam at 115.0 &deg;C? (a) Sketch the heating curve and list each segment. (b) Find the heat for each segment and the total, in kJ. (c) Which segment needs the most heat, and what fraction of the total is it? (d) Express the total in food Calories.",
+  "answer": "(a) Five segments: warm the ice from &minus;12.0 &deg;C to 0 &deg;C (slope), melt it (plateau), warm the water from 0 &deg;C to 100.0 &deg;C (slope), boil it (plateau), warm the steam from 100.0 &deg;C to 115.0 &deg;C (slope). Each slope uses the specific heat of the state present. \\( q_1 = (40.0)(2.09)(12.0) = 1.00 \\times 10^{3}\\ \\text{J} = 1.00\\ \\text{kJ} \\) \\( q_2 = \\dfrac{40.0\\ \\text{g}}{18.015\\ \\text{g/mol}} \\times 6.02\\ \\text{kJ/mol} = 13.4\\ \\text{kJ} \\) \\( q_3 = (40.0)(4.184)(100.0) = 1.67 \\times 10^{4}\\ \\text{J} = 16.7\\ \\text{kJ} \\) \\( q_4 = \\dfrac{40.0\\ \\text{g}}{18.015\\ \\text{g/mol}} \\times 40.7\\ \\text{kJ/mol} = 90.4\\ \\text{kJ} \\) \\( q_5 = (40.0)(2.01)(15.0) = 1.21 \\times 10^{3}\\ \\text{J} = 1.21\\ \\text{kJ} \\) (b) \\( q_\\text{total} = 1.00 + 13.4 + 16.7 + 90.4 + 1.21 = 122.7\\ \\text{kJ} \\) (b) The total is 122.7 kJ (the sum keeps the tenths place of the least precise terms). (c) Boiling (q 4 ): 90.4/122.7 = 0.737, about 74% of the total, the longest segment on the curve. (d) \\( 122.7\\ \\text{kJ} \\times \\dfrac{1000\\ \\text{J}}{1\\ \\text{kJ}} \\times \\dfrac{1\\ \\text{Cal}}{4184\\ \\text{J}} = 29.3\\ \\text{Cal} \\)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 9.52",
+  "question": "A pot holding 1.20 &times; 10 3 g of soup (treat it as water) cools on the stove from 140.0 &deg;F to 95.0 &deg;F. (a) Convert both temperatures to &deg;C. (b) Find q for the soup in kJ. (c) Express the heat released in food Calories. (d) Show that you get the same &Delta;T in &deg;C by converting the change of 45.0 &deg;F directly.",
+  "answer": "(a) \\( \\dfrac{140.0 - 32}{1.8} = \\dfrac{108.0}{1.8} = 60.00\\ {}^\\circ\\text{C} \\qquad \\dfrac{95.0 - 32}{1.8} = \\dfrac{63.0}{1.8} = 35.0\\ {}^\\circ\\text{C} \\) (a) 60.00 &deg;C (108.0 has four significant figures) and 35.0 &deg;C . (b) \\( q = (1.20 \\times 10^{3}\\ \\text{g})(4.184)(35.0 - 60.00\\ {}^\\circ\\text{C}) = (1.20 \\times 10^{3})(4.184)(-25.0) = -1.26 \\times 10^{5}\\ \\text{J} = -126\\ \\text{kJ} \\) (b) q = &minus;126 kJ ; the negative sign means the soup releases heat. The subtraction gives &minus;25.0 (tenths place), and three significant figures limit the product. (c) 1.2552 &times; 10 5 J &divide; 4184 J/Cal = 30.0 Cal released. (d) &Delta;T = 45.0 &deg;F &divide; 1.8 = 25.0 &deg;C, the same size as 60.00 &minus; 35.0. For a change, divide by 1.8 but do not subtract 32.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 9.53",
+  "question": "In a lab modeled on Part 2 of Experiment 7a, a student adds ice at 0.0 &deg;C to warm water in a foam-cup calorimeter, stirs until all the ice melts, and records the lowest temperature. The table below gives the data. Melting ice in warm water Measurement Value Mass of empty foam cups (g) 4.6 Mass of cups + warm water (g) 104.6 Mass of cups + water after the ice melted (g) 127.2 Initial temperature of warm water (&deg;C) 34.8 Lowest temperature after the ice melted (&deg;C) 13.4 (a) Find the mass of warm water and the mass of ice. (b) How much heat did the warm water lose? (c) How much of that heat went into warming the melted ice from 0.0 &deg;C to the final temperature? (d) How much heat melted the ice? (e) Find the student's value of &Delta;H fus in J/g and in kJ/mol, and the percent error compared with 6.02 kJ/mol. (Ignore heat taken up by the cup or lost to the air.)",
+  "answer": "(a) Warm water: 104.6 &minus; 4.6 = 100.0 g . Ice: 127.2 &minus; 104.6 = 22.6 g , from the increase in mass. (b) \\( q_\\text{warm water} = (100.0\\ \\text{g})(4.184)(13.4 - 34.8\\ {}^\\circ\\text{C}) = (100.0)(4.184)(-21.4) = -8.95 \\times 10^{3}\\ \\text{J} \\) (c) \\( q_\\text{meltwater} = (22.6\\ \\text{g})(4.184)(13.4 - 0.0\\ {}^\\circ\\text{C}) = 1.27 \\times 10^{3}\\ \\text{J} \\) (d) Heat lost = heat gained, so the ice gained 8954 J in all: 1267 J to warm its meltwater and the rest to melt. \\( q_\\text{melt} = 8954\\ \\text{J} - 1267\\ \\text{J} = 7.69 \\times 10^{3}\\ \\text{J} \\) (e) \\( \\dfrac{7687\\ \\text{J}}{22.6\\ \\text{g}} = 340.\\ \\text{J/g} \\qquad n = \\dfrac{22.6\\ \\text{g}}{18.015\\ \\text{g/mol}} = 1.255\\ \\text{mol} \\qquad \\dfrac{7.687\\ \\text{kJ}}{1.255\\ \\text{mol}} = 6.13\\ \\text{kJ/mol} \\) \\( \\text{percent error} = \\dfrac{|6.13 - 6.02|}{6.02} \\times 100\\% = 1.8\\% \\) (b) &minus;8.95 &times; 10 3 J (the water lost 8.95 kJ); (c) 1.27 &times; 10 3 J ; (d) 7.69 &times; 10 3 J ; (e) 340. J/g , or 6.13 kJ/mol , a 1.8% error. Carry the unrounded values (8954 J and 1267 J) through the subtraction and round at the end. Forgetting step (c) is the most common error: it would credit all 8.95 kJ to melting and give 7.14 kJ/mol, about 19% above 6.02 kJ/mol.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 9.54",
+  "question": "A nursing student compares three liquids on the back of a hand: water (H 2 O), isopropyl alcohol (rubbing alcohol, (CH 3 ) 2 CHOH), and acetone (CH 3 COCH 3 ). (a) Name the strongest intermolecular force in each. (b) Rank them from lowest to highest boiling point. (c) Rank them from highest to lowest vapor pressure at skin temperature. (d) Which disappears from the skin first, and which lingers longest? (e) Why does each liquid feel cool as it evaporates?",
+  "answer": "(a) Water: hydrogen bonding (two O&ndash;H). Isopropyl alcohol: hydrogen bonding (one O&ndash;H). Acetone: dipole&ndash;dipole (polar C=O, but all H on carbon). (b) Acetone &lt; isopropyl alcohol &lt; water (about 56 &deg;C, 82 &deg;C, and 100 &deg;C). Acetone has no hydrogen bonding. Isopropyl alcohol hydrogen bonds, but each molecule has only one O&ndash;H; water forms the most hydrogen bonds per molecule, even though it is the smallest molecule of the three. (c) The reverse order: acetone &gt; isopropyl alcohol &gt; water . (d) Acetone evaporates first; water lingers longest. (e) Evaporation is endothermic. The escaping molecules absorb their heat of vaporization from the skin, and the fastest molecules leave first, lowering the average kinetic energy of what remains. Heat flows from the skin into the evaporating liquid, so the skin cools.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 9.55",
+  "question": "Compare a burn from steam with a burn from boiling water. (a) How much heat is released when 2.50 g of steam at 100.0 &deg;C condenses on skin and the water then cools to 37.0 &deg;C? (b) How much heat is released when 2.50 g of liquid water at 100.0 &deg;C cools to 37.0 &deg;C? (c) About how many times as much heat does the steam deliver? (d) Explain the difference using the heating curve.",
+  "answer": "(a) Two steps, both releasing heat: \\( q_\\text{condense} = -\\left(\\dfrac{2.50\\ \\text{g}}{18.015\\ \\text{g/mol}} \\times 40.7\\ \\text{kJ/mol}\\right) = -5.65\\ \\text{kJ} \\) \\( q_\\text{cool} = (2.50\\ \\text{g})(4.184)(37.0 - 100.0\\ {}^\\circ\\text{C}) = (2.50)(4.184)(-63.0) = -659\\ \\text{J} = -0.659\\ \\text{kJ} \\) \\( q_\\text{total} = -5.65 + (-0.659) = -6.31\\ \\text{kJ} \\) (a) 6.31 kJ released (q = &minus;6.31 kJ for the steam). (b) 0.659 kJ released (q = &minus;0.659 kJ), the cooling step alone. (c) 6.31 &divide; 0.659 = about 9.6 times as much heat. (d) Steam must first come down the long boiling plateau, releasing its whole heat of vaporization into the skin at 100 &deg;C, before it can begin to cool along the liquid slope. Boiling water starts at the bottom of that plateau, so it releases only the heat of cooling. (Context only; follow first-aid and facility procedures for burns.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 9.56",
+  "question": "In a foam-cup calorimeter, 25.0 mL of hydrochloric acid (density 1.02 g/mL) is mixed with 25.0 mL of sodium hydroxide solution (density 1.04 g/mL). The temperature rises from 22.3 &deg;C to 28.9 &deg;C. Using c = 4.184 J/(g&middot;&deg;C) for the mixture and the total mass of the solution, what is q reaction ? A. &minus;1.4 kJ B. +1.4 kJ C. &minus;0.70 kJ D. &minus;6.2 kJ",
+  "answer": "A. Total mass: 25.0 &times; 1.02 = 25.5 g and 25.0 &times; 1.04 = 26.0 g, so m = 51.5 g. &Delta;T = 28.9 &minus; 22.3 = 6.6 &deg;C (two significant figures after the subtraction). \\( q_\\text{solution} = (51.5\\ \\text{g})(4.184)(6.6\\ {}^\\circ\\text{C}) = 1.4 \\times 10^{3}\\ \\text{J} \\qquad q_\\text{reaction} = -q_\\text{solution} = -1.4\\ \\text{kJ} \\) The solution warmed, so the reaction released heat: it is exothermic. B is q solution , not q reaction . The signs are opposite: heat gained by the solution was lost by the reaction. C uses the mass of only one of the two solutions (25.5 g). The thermometer reads the whole mixture, so m is the total mass. D uses the final temperature, 28.9 &deg;C, as &Delta;T. &Delta;T is final minus initial.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 9.57",
+  "question": "A camping stove melts and boils snow. How much heat is needed to turn 25.0 g of snow (ice) at &minus;15.0 &deg;C into steam at 115.0 &deg;C? @media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } } Data for water Quantity Value c ice , c water , c steam 2.09, 4.184, 2.01 J/(g&middot;&deg;C) &Delta;H fus , &Delta;H vap 6.02, 40.7 kJ/mol Molar mass of H 2 O 18.015 g mol &minus;1",
+  "answer": "Sketch the curve: slope (ice), plateau (melt), slope (water), plateau (boil), slope (steam). Moles once: 25.0 &divide; 18.015 = 1.388 mol. \\( q_1 = (25.0)(2.09)(15.0) = 784\\ \\text{J} = 0.784\\ \\text{kJ} \\qquad q_2 = (1.388)(6.02) = 8.35\\ \\text{kJ} \\) \\( q_3 = (25.0)(4.184)(100.0) = 1.05 \\times 10^{4}\\ \\text{J} = 10.5\\ \\text{kJ} \\qquad q_4 = (1.388)(40.7) = 56.5\\ \\text{kJ} \\qquad q_5 = (25.0)(2.01)(15.0) = 754\\ \\text{J} = 0.754\\ \\text{kJ} \\) \\( q_\\text{total} = 0.784 + 8.354 + 10.46 + 56.48 + 0.754 = 76.8\\ \\text{kJ} \\) The answer is 76.8 kJ (carry the unrounded step values and round once, to tenths). Boiling (q 4 ) is almost three-quarters of the total. The most common slips are skipping a segment, using 4.184 for the ice or steam, and adding joules to kilojoules.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 9.58",
+  "question": "A steam pipe leaks 40.0 g of steam at 100.0 &deg;C. The steam condenses, the water cools, and the water freezes at 0.0 &deg;C on a cold surface. How much heat is released in all? (&Delta;H vap = 40.7 kJ/mol; &Delta;H fus = 6.02 kJ/mol; c water = 4.184 J/(g&middot;&deg;C); H 2 O 18.015 g/mol) A. 120.5 kJ B. 103.7 kJ C. 90.4 kJ D. 107.1 kJ",
+  "answer": "A. n = 40.0 &divide; 18.015 = 2.220 mol. Condense: 2.220 &times; 40.7 = 90.37 kJ. Cool from 100.0 to 0.0 &deg;C: (40.0)(4.184)(100.0) = 16,736 J = 16.74 kJ. Freeze: 2.220 &times; 6.02 = 13.37 kJ. Total released: 90.37 + 16.74 + 13.37 = 120.5 kJ (q = &minus;120.5 kJ for the water). B leaves out the cooling step: the water must cool from 100 &deg;C to 0 &deg;C between the two plateaus. C counts only the condensing step. D leaves out the freezing step at 0.0 &deg;C.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 9.59",
+  "question": "A hot-water bottle holds 1.50 L of water at 55.0 &deg;C. How many kilojoules does it give off as it cools to body temperature, 37.0 &deg;C? Use a density of 1.00 g/mL.",
+  "answer": "Convert volume to mass first: 1.50 L &times; 1000 mL/L &times; 1.00 g/mL = 1.50 &times; 10 3 g. \\( q = (1.50 \\times 10^{3}\\ \\text{g})(4.184)(37.0 - 55.0\\ {}^\\circ\\text{C}) = -1.13 \\times 10^{5}\\ \\text{J} = -113\\ \\text{kJ} \\) The bottle gives off 113 kJ ; q is negative because the water cools. Putting 1.50 (liters) in for m would give an answer 1000 times too small. (Context only; follow facility policy for heat therapy.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 9.60",
+  "question": "How much heat is needed to warm 50.0 g of solid lead from 25.0 &deg;C to its melting point, 327.5 &deg;C, and then melt it? For lead, c = 0.128 J/(g&middot;&deg;C) and &Delta;H fus = 4.77 kJ/mol; Pb 207.20 g/mol.",
+  "answer": "\\( q_1 = (50.0)(0.128)(327.5 - 25.0) = 1.94 \\times 10^{3}\\ \\text{J} = 1.94\\ \\text{kJ} \\qquad q_2 = \\dfrac{50.0\\ \\text{g}}{207.20\\ \\text{g/mol}} \\times 4.77\\ \\text{kJ/mol} = 1.15\\ \\text{kJ} \\) \\( q_\\text{total} = 1.936 + 1.151 = 3.09\\ \\text{kJ} \\) The answer is 3.09 kJ . The method is the same as for water; only the constants change. Lead's tiny specific heat makes the warming step cheap even across 300 degrees.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 9.61",
+  "question": "Which molecule can hydrogen bond with itself? A. dimethyl ether, CH 3 OCH 3 B. methylamine, CH 3 NH 2 C. phosphine, PH 3 D. trimethylamine, N(CH 3 ) 3",
+  "answer": "B. Methylamine has H atoms bonded directly to N (donors) and a lone pair on that N (an acceptor), so one molecule can donate to the next. A has a lone pair on O, so it can accept a hydrogen bond (from water, for example), but every H is on carbon: no donor. Its strongest force with itself is dipole&ndash;dipole. C: P is not F, N, or O, and P&ndash;H bonds count as nonpolar (2.1 and 2.1). PH 3 has dispersion forces only. D has a lone pair on N (an acceptor) but no H on N: no donor.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 61,
+  "title": "Problem 9.62",
+  "question": "Which solid conducts electricity? A. NaCl(s) B. Ag(s) C. I 2 (s) D. Ar(s)",
+  "answer": "B. Silver is a metallic solid: its cations sit in a sea of electrons that are free to move, so it conducts as a solid. A is ionic. Its ions are locked in the lattice, so it conducts only when melted or dissolved. C is a molecular solid held by dispersion forces; it has no free charges. D is an atomic nonbonding solid (argon atoms held by dispersion forces only); it does not conduct, and it melts at &minus;189 &deg;C.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.10_practice_problems.html",
+  "idx": 62,
+  "title": "Problem 9.63",
+  "question": "A puddle of water and a puddle of rubbing alcohol are left on a sidewalk. (a) Using the spread of kinetic energies in a liquid, explain why both evaporate faster at 35 &deg;C than at 15 &deg;C. (b) Which puddle disappears first, and why? (c) Would spreading the water puddle thinner make it disappear faster or slower?",
+  "answer": "(a) Only molecules with more than the minimum kinetic energy needed to escape can evaporate. At 35 &deg;C the distribution of kinetic energies shifts to higher values, so a larger fraction of molecules is above that minimum and evaporation is faster. (b) The rubbing alcohol . Isopropyl alcohol has only one O&ndash;H per molecule, so it forms fewer hydrogen bonds than water; its forces are weaker and its vapor pressure is higher (it is more volatile, and you can smell it). (c) Faster. A thinner, wider puddle has more surface area, so more molecules are at the surface in position to escape.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.1_energy.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Classify each as mainly kinetic or potential energy: (a) a charged phone battery; (b) wind turning a turbine; (c) a stretched IV tubing clamp spring; (d) warm air rising from a heater.",
+  "answer": "(a) Potential (chemical). (b) Kinetic. (c) Potential (position). (d) Kinetic (moving, fast-moving molecules).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.1_energy.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "A sample of water at 20 &deg;C is warmed to 60 &deg;C without boiling. What happens to the average kinetic energy of its molecules?",
+  "answer": "It increases. A higher temperature means the molecules are moving faster on average.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.1_energy.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A student says, \"When a log burns, its energy is destroyed.\" Correct the statement.",
+  "answer": "The energy is not destroyed. The chemical potential energy of the wood changes into heat and light that spread into the surroundings; the total energy is conserved.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.1_energy.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "When steam condenses to liquid water, does the average distance between the water molecules increase or decrease? Does their potential energy go up or down, and is energy taken in or given off?",
+  "answer": "The distance decreases (the molecules come together), so the potential energy goes down, and that energy is given off as heat. This is why steam burns are so severe.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.2_temperature.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Frozen vaccines are stored between &minus;50.0 &deg;C and &minus;15.0 &deg;C. Express this range in &deg;F.",
+  "answer": "1.8(&minus;50.0) + 32 = &minus;58.0 &deg;F and 1.8(&minus;15.0) + 32 = 5.0 &deg;F, so &minus;58.0 &deg;F to 5.0 &deg;F.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.2_temperature.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Convert a normal body temperature of 98.6 &deg;F to kelvins.",
+  "answer": "(98.6 &minus; 32) &divide; 1.8 = 37.0 &deg;C; 37.0 + 273.15 = 310.2 K.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.2_temperature.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "The temperature of a patient rises by 1.5 &deg;C. By how many kelvins and by how many Fahrenheit degrees did it rise?",
+  "answer": "By 1.5 K (the degrees are the same size) and by 1.8 &times; 1.5 = 2.7 &deg;F. For a change in temperature, do not add 273.15 or 32.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.3_heat_units.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "A 12-oz can of soda provides 155 Cal. Convert this to kilojoules.",
+  "answer": "155 &times; 4.184 = 649 kJ (1 Cal = 4.184 kJ).",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch09/9.3_heat_units.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "A process absorbs 525 J. How many calories is that, and what is the sign of q?",
+  "answer": "525 &divide; 4.184 = 125 cal. The system absorbs heat, so q = +525 J (endothermic).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.3_heat_units.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Classify each as exothermic or endothermic: (a) dew forming on grass; (b) a candle burning; (c) dry ice turning into gas.",
+  "answer": "(a) Exothermic (condensation releases heat). (b) Exothermic. (c) Endothermic (sublimation absorbs heat).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.3_heat_units.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "A pat of margarine provides 145 kJ of energy when it is metabolized. How many food Calories is that? A. 34.7 Cal B. 607 Cal C. 0.0347 Cal",
+  "answer": "A. 1 Cal = 4.184 kJ, so 145 kJ &divide; 4.184 kJ/Cal = 34.7 Cal. B multiplies by 4.184 instead of dividing (a Calorie is bigger than a kilojoule, so the number of Calories must be smaller). C divides 145 by 4184 J/Cal without first changing kJ to J (145 kJ = 145,000 J); a kilojoule-to-Calorie conversion uses 4.184 kJ/Cal.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.3_heat_units.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Rewrite each change with \"heat\" on the correct side of the arrow: (a) H 2 O(l) &rarr; H 2 O(g); (b) H 2 O(l) &rarr; H 2 O(s). On an energy diagram, which one goes uphill?",
+  "answer": "(a) H 2 O(l) + heat &rarr; H 2 O(g) (boiling is endothermic). (b) H 2 O(l) &rarr; H 2 O(s) + heat (freezing is exothermic). Boiling, (a), goes uphill: the gas is higher in energy than the liquid.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.4_specific_heat.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "How much heat is needed to warm 50.0 g of water from 25.0 &deg;C to 80.0 &deg;C?",
+  "answer": "q = (50.0)(4.184)(55.0) = 1.15 &times; 10 4 J (11.5 kJ).",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch09/9.4_specific_heat.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "A 15.0 g gold ring absorbs 125 J. By how much does its temperature rise? (c for gold = 0.128 J/(g&middot;&deg;C))",
+  "answer": "&Delta;T = 125 &divide; (15.0 &times; 0.128) = 65.1 &deg;C.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch09/9.4_specific_heat.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Equal masses of water and iron absorb the same amount of heat. Which one has the larger temperature increase, and why?",
+  "answer": "The iron. Its specific heat (0.449) is much lower than water's (4.184), so the same heat raises its temperature about 9 times as much.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.4_specific_heat.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "A student dissolves 5.00 g of ammonium nitrate in 50.0 g of water in a foam cup. The temperature falls from 22.0 &deg;C to 15.0 &deg;C. Using c = 4.184 J/(g&middot;&deg;C) for the solution, find q solution and q dissolving . Is dissolving ammonium nitrate exothermic or endothermic?",
+  "answer": "m = 5.00 + 50.0 = 55.0 g (everything in the cup). &Delta;T = 15.0 &minus; 22.0 = &minus;7.0 &deg;C. q solution = (55.0)(4.184)(&minus;7.0) = &minus;1.6 &times; 10 3 J (&minus;1.6 kJ). q dissolving = +1.6 kJ: the solution cooled, so the dissolving absorbed heat. It is endothermic , which is why ammonium nitrate is used in instant cold packs.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.4_specific_heat.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "How many joules are needed to warm 250. mL of water (density 1.00 g/mL) from 20.0 &deg;C to 95.0 &deg;C for a cup of tea?",
+  "answer": "250. mL &times; 1.00 g/mL = 250. g. q = (250.)(4.184)(75.0) = 7.85 &times; 10 4 J (78.5 kJ).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.5_phase_changes.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "How much heat is needed to boil away 5.00 g of water at 100 &deg;C?",
+  "answer": "5.00 &divide; 18.015 = 0.2775 mol; &times; 40.7 kJ/mol = 11.3 kJ.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.5_phase_changes.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "How much heat is released when 50.0 g of liquid water freezes at 0 &deg;C?",
+  "answer": "50.0 &divide; 18.015 = 2.775 mol; &times; 6.02 kJ/mol = 16.7 kJ released (q = &minus;16.7 kJ).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.5_phase_changes.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "On a heating curve for water, which segment is longest, and why? What is happening to the temperature along it?",
+  "answer": "The boiling plateau at 100 &deg;C, because vaporizing takes far more heat than melting or warming. The temperature stays constant while the liquid turns to gas.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.5_phase_changes.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Use the cooling curve for water (Figure 1 read from right to left). (a) At what temperature does water condense? (b) At 0 &deg;C, what happens to liquid water as heat is removed? (c) At 60 &deg;C, what state is the water in? (d) When water freezes, is heat added or removed?",
+  "answer": "(a) 100 &deg;C. (b) It freezes (the plateau at 0 &deg;C). (c) Liquid (between 0 and 100 &deg;C). (d) Removed: freezing is exothermic.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.5_phase_changes.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "A foundry melts 125 g of aluminum at its melting point. How much heat does the melting take? (&Delta;H fus for aluminum = 10.7 kJ/mol; Al 26.98 g/mol)",
+  "answer": "125 &divide; 26.98 = 4.633 mol; &times; 10.7 kJ/mol = 49.6 kJ. The metal is already at its melting point, so there is no slope step.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.5_phase_changes.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "question": "How many calories does it take to melt 15.0 g of ice at 0 &deg;C, and then to vaporize the same 15.0 g of water at 100 &deg;C? (80. cal/g and 540 cal/g)",
+  "answer": "Melting: 15.0 &times; 80. = 1.2 &times; 10 3 cal (2 significant figures, from 80.). Vaporizing: 15.0 &times; 540 = 8.1 &times; 10 3 cal. Vaporizing takes almost 7 times as much.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.5_phase_changes.html",
+  "idx": 6,
+  "title": "Exercise \\(\\PageIndex{7}\\) (Going Further)",
+  "question": "Use the phase diagram of water (Figure 2). (a) What phase is water in at 1 atm and 50 &deg;C? (b) What is true of the point where the 1 atm line meets the liquid&ndash;gas curve? (c) At a pressure below the triple point, ice is warmed until it crosses a line. What phase change happens?",
+  "answer": "(a) Liquid: 50 &deg;C at 1 atm lies between the normal melting point (0 &deg;C) and the normal boiling point (100 &deg;C). (b) Liquid and gas exist together at equilibrium there; it is the normal boiling point, 100 &deg;C. (c) Sublimation: below the triple-point pressure, the only line between solid and gas is the solid&ndash;gas curve, so ice goes straight to vapor (this is how freeze-drying works).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.6_imf.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Which of these can hydrogen bond with itself: CH 3 OH, CH 3 F, HF, H 2 , N(CH 3 ) 3 ?",
+  "answer": "CH 3 OH (O&ndash;H) and HF (H&ndash;F). CH 3 F and N(CH 3 ) 3 have H only on C; H 2 is nonpolar.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.6_imf.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "What is the strongest intermolecular force in (a) CO 2 ; (b) SO 2 ; (c) HF?",
+  "answer": "(a) Dispersion (CO 2 is linear and nonpolar). (b) Dipole&ndash;dipole (S&ndash;O bonds are polar and the molecule is bent; there is no H at all). (c) Hydrogen bonding.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.6_imf.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Explain why I 2 is a solid at room temperature while Cl 2 is a gas, even though both are nonpolar.",
+  "answer": "Both have only dispersion forces, but I 2 has many more electrons (106 vs 34), so it is more polarizable and its dispersion forces are strong enough to hold it as a solid.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.6_imf.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "In a hydrogen bond between a water molecule and an ammonia molecule, the H on water's O points at the lone pair on ammonia's N. Which molecule is the donor and which is the acceptor?",
+  "answer": "Water is the donor (it supplies the H bonded to O). Ammonia is the acceptor (it supplies the lone pair on N).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.6_imf.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Use the coin-flip model to explain why krypton (36 electrons) boils at a higher temperature than neon (10 electrons).",
+  "answer": "With 36 electrons, the chance of an exactly even split is only about 13%, versus about 25% for neon's 10. Krypton's electron cloud is lopsided more often (it is more polarizable), so it forms instantaneous dipoles more often, has stronger dispersion forces, and needs a higher temperature to boil.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.7_liquids_solids.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Classify each solid as ionic, molecular, covalent network, or metallic: (a) MgO; (b) ice; (c) diamond; (d) aluminum foil.",
+  "answer": "(a) Ionic. (b) Molecular. (c) Covalent network. (d) Metallic.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.7_liquids_solids.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "A white solid melts at 801 &deg;C, does not conduct as a solid, and conducts when dissolved in water. What type of solid is it?",
+  "answer": "Ionic (it is NaCl).",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch09/9.7_liquids_solids.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Why does honey flow more slowly when it is cold?",
+  "answer": "At lower temperature the molecules move more slowly and cannot overcome their attractions (many hydrogen bonds between sugar and water molecules) as easily, so the viscosity is higher.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.7_liquids_solids.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Liquid A has only weak dispersion forces; liquid B hydrogen bonds. Fill in \"higher\" or \"lower\" for liquid A compared with B: boiling point, vapor pressure, viscosity, surface tension.",
+  "answer": "Boiling point: lower. Vapor pressure: higher. Viscosity: lower. Surface tension: lower. (Vapor pressure is the one that goes the opposite way.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.7_liquids_solids.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "For each solid, name the type, what holds it together, and whether it conducts as a solid: (a) Ne(s); (b) MgCl 2 (s); (c) Zn(s); (d) quartz, SiO 2 (s).",
+  "answer": "(a) Atomic nonbonding; dispersion forces; no. (b) Ionic; ionic bonds; no (yes when melted or dissolved). (c) Metallic; metallic bonding; yes. (d) Covalent network; covalent bonds; no.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.8_vapor_pressure_ranking.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Which has the higher boiling point in each pair: (a) H 2 O or H 2 S; (b) Cl 2 or Br 2 ; (c) CH 3 OH or CH 3 F?",
+  "answer": "(a) H 2 O (hydrogen bonding). (b) Br 2 (more electrons, stronger dispersion). (c) CH 3 OH (hydrogen bonding; CH 3 F is only dipole&ndash;dipole).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.8_vapor_pressure_ranking.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Why does water boil at a lower temperature on a mountain than in the Valley?",
+  "answer": "Air pressure is lower at high altitude, so the vapor pressure of water reaches the outside pressure at a lower temperature.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.8_vapor_pressure_ranking.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Rank from highest to lowest vapor pressure at 25 &deg;C: water, ethanol, diethyl ether (CH 3 CH 2 OCH 2 CH 3 ).",
+  "answer": "Diethyl ether (no hydrogen bonding with itself) &gt; ethanol (one O&ndash;H, fewer hydrogen bonds) &gt; water (most extensive hydrogen bonding).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.8_vapor_pressure_ranking.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "A bottle of nail-polish remover (acetone) left open can be smelled across the room within seconds, while an open bottle of glycerol cannot be smelled at all. Which has the higher vapor pressure, and which has the stronger intermolecular forces?",
+  "answer": "Acetone has the higher vapor pressure (its molecules escape easily, so you smell them). Glycerol, with three O&ndash;H groups per molecule and extensive hydrogen bonding, has the stronger intermolecular forces and a very low vapor pressure.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch09/9.8_vapor_pressure_ranking.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Using the kinetic-energy picture, explain why a wet towel dries faster on a hot afternoon than on a cool morning.",
+  "answer": "At the higher temperature, the spread of kinetic energies shifts to higher values, so a larger fraction of water molecules have more than the minimum energy needed to escape. More molecules evaporate each second.",
+  "mc": false,
+  "terse_answer": false
+ }
+]

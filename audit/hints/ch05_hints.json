@@ -1,0 +1,562 @@
+[
+ {
+  "file": "drafts/ch05/5.1_the_mole.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Given: moles of Fe. Desire: Fe atoms. Equality: 1 mol = Avogadro's number of atoms. Write the factor with mol on the bottom so moles cancel.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.1_the_mole.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Particles are given, so put particles on the bottom of the Avogadro factor. Sanity check: is the count bigger or smaller than one mole's worth?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.1_the_mole.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "A mole is a count, like a dozen. Does the kind of particle change how many are in one mole?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.2_molar_mass.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Count the atoms of each element (watch the parentheses in (c)), multiply each count by its atomic mass, add, and round to the fewest decimal places.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.2_molar_mass.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Read the formula, not just the symbol: how many O atoms are in one O<sub>2</sub> molecule?",
+  "why": "Each O<sub>2</sub> molecule holds two O atoms, so a mole of O<sub>2</sub> weighs twice oxygen's atomic mass, while a mole of O atoms weighs the atomic mass itself."
+ },
+ {
+  "file": "drafts/ch05/5.2_molar_mass.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "The dot means add: find the molar mass of MgSO<sub>4</sub>, then add seven times the molar mass of water.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.2_molar_mass.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Molar mass is grams per mole. Divide the mass by the moles, then find the jewelry metal whose atomic mass on the yellow sheet is closest.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.3_mass_moles_particles.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "The goal is the mole: grams to moles with the molar mass (grams on the bottom), then moles to molecules with Avogadro's number.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.3_mass_moles_particles.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Change mg to g, divide by the molar mass to get moles, then convert to millimoles (1 mol = 1000 mmol).",
+  "why": "Grams divided by g/mol gives moles, and 1000 mmol per mol turns that into millimoles; dividing mg by the molar mass read as mg/mmol gives the same result in one step."
+ },
+ {
+  "file": "drafts/ch05/5.3_mass_moles_particles.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "There is no direct path from molecules to grams. Go through moles: molecules to moles (Avogadro's number), then moles to grams (molar mass).",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.3_mass_moles_particles.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Equal masses: which element has the smaller molar mass? A smaller molar mass means more moles in the same mass, and more moles means more atoms.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.4_moles_within_formula.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Use the subscripts as a mole ratio: how many N atoms are in one Ca(NO<sub>3</sub>)<sub>2</sub>? Remember the 2 outside the parentheses.",
+  "why": "Each formula unit holds two nitrate ions with one N each, so the ratio is 2 mol N per 1 mol Ca(NO<sub>3</sub>)<sub>2</sub>, which doubles the moles."
+ },
+ {
+  "file": "drafts/ch05/5.4_moles_within_formula.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Moles of compound to moles of O (subscript ratio from the formula), then moles of O to grams with the molar mass of O atoms.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.4_moles_within_formula.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Two steps: a subscript ratio (how many Cl<sup>&minus;</sup> per CaCl<sub>2</sub>?) gives moles of chloride, then Avogadro's number gives ions.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.4_moles_within_formula.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Decide whether each part asks about the ion or an element inside it. One formula unit has two phosphate ions, and each phosphate holds four O atoms.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.4_moles_within_formula.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Diatomic trap: oxygen gas is O<sub>2</sub>. Grams to moles of O<sub>2</sub>, then moles of O atoms (2 per molecule), then atoms.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.5_putting_it_together.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Moles to grams with the molar mass of water, then grams to mL with the density (mL on top).",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.5_putting_it_together.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Work backward: grams of K to moles of K, then moles of KCl (1 : 1), then grams of KCl.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.5_putting_it_together.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Find the moles of O in the same mass of each. Per gram, which compound has more molecules? Does that outweigh the 2 : 1 subscript?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 5.1",
+  "hint": "A mole is a count of whatever particle the formula names. What is the basic particle of an ionic compound like NaCl? Is 58.44 a count or a mass?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 5.2",
+  "hint": "Given: moles of Fe. Desire: atoms. Multiply by Avogadro's number written with mol on the bottom. Less than a mole should give fewer than 6 &times; 10<sup>23</sup> atoms.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 5.3",
+  "hint": "Molecules are given, so put molecules on the bottom of the Avogadro factor. A count smaller than Avogadro's number must give less than one mole.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 5.4",
+  "hint": "Is the count larger or smaller than one mole's worth? Molecules are given, so divide by Avogadro's number; then check which choice is in moles, not grams.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 5.5",
+  "hint": "Divide the count by Avogadro's number (molecules on the bottom). Expect a tiny fraction of a mole, and keep the significant figures of the given count.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 5.6",
+  "hint": "What does one mole of any substance always contain? Then compare the molar masses of H<sub>2</sub> and O<sub>2</sub>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 5.7",
+  "hint": "Moles to molecules: multiply by Avogadro's number. On the TI-36X Pro, enter both numbers with the &times;10<sup>n</sup> key.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 5.8",
+  "hint": "In each row, find the given box. Moles to particles: multiply by Avogadro's number. Particles to moles: divide. Keep three significant figures.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 5.9",
+  "hint": "Put every choice in the same unit before comparing: convert the mole amounts to atoms with Avogadro's number.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 5.10",
+  "hint": "Check the units: does mol &divide; (atoms/mol) give atoms? Which way should the Avogadro factor be written so moles cancel? Can a count of atoms be less than 1?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 5.11",
+  "hint": "(a) Start from one mole of bacteria and use the culture density as a factor, with bacteria on the bottom. (b) 1 L = 1000 mL. (c) Could any lab grow that much?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 5.12",
+  "hint": "In multiplication, the answer keeps the fewest significant figures. How many does the mole value have? (A trailing zero after the decimal point counts.)",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 5.13",
+  "hint": "Multiply each atomic mass by its subscript, add, and round to the fewest decimal places among the atomic masses used. Notice which compound includes Na.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 5.14",
+  "hint": "Count atoms first: the 2 outside the parentheses multiplies both N and O. Use atomic masses, not atomic numbers.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 5.15",
+  "hint": "One O<sub>2</sub> molecule contains two oxygen atoms. Is the question about atoms, molecules, or a single molecule?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 5.16",
+  "hint": "The dot means plus: find the molar mass of CaCl<sub>2</sub>, add the mass of two waters, and round to the fewest decimal places.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 5.17",
+  "hint": "Make an atom-count table for each: element, number, atomic mass, subtotal. Watch the 2 outside the parentheses in (e), and round by decimal places.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 5.18",
+  "hint": "(a) Add the atomic masses times their subscripts, using the yellow sheet. (b) The same number answers both questions; only the unit changes.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 5.19",
+  "hint": "Count both K atoms, add the masses, then use the addition rule: keep the fewest decimal places, not the fewest significant figures.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 5.20",
+  "hint": "(a) Add the atomic masses (4 O). (b) Divide barium's mass by the molar mass. (c) Look for the heavy, many-electron atom in the contrast agent in Section 5.2.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 5.21",
+  "hint": "Compare the size of 1 amu with 1 g: are they the same mass? Then think about how Avogadro's number was chosen.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 5.22",
+  "hint": "(a) The 2 after (NH<sub>2</sub>) doubles both N and H; NH<sub>4</sub>NO<sub>3</sub> has an N in each ion. (b) Multiply each count by its atomic mass and add.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 5.23",
+  "hint": "Rebuild the student's number: which subscript did they skip? Then count 3 Ca and multiply everything in the parentheses by 2.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 5.24",
+  "hint": "Add the atomic masses; SnF<sub>2</sub> has two F atoms. Round each sum to the fewest decimal places among the masses used.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 5.25",
+  "hint": "Grams are given, so put grams on the bottom of the molar mass factor. The goal is the mole.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 5.26",
+  "hint": "Moles to grams: multiply by the molar mass with mol on the bottom. Estimate: what fraction of a mole is this, and what fraction of the molar mass?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 5.27",
+  "hint": "Molar mass in g/mol is the same number in mg/mmol, so divide the mg by it directly. Should the answer be more or less than 1 mmol?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 5.28",
+  "hint": "Convert dL to L (10 dL per L), then mg to mmol using the molar mass as mg/mmol. Let the units cancel.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 5.29",
+  "hint": "Same setup as the glucose problem, but with calcium's molar mass: dL to L, then mg to mmol (mg on the bottom).",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 5.30",
+  "hint": "Find the molar mass of CO<sub>2</sub> first. (a) Grams on the bottom of the molar mass factor. (b) Moles to molecules with Avogadro's number; carry an extra digit.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 5.31",
+  "hint": "One mole of iron atoms has a mass in grams equal to the atomic mass. Divide that mass by the number of atoms in one mole.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 5.32",
+  "hint": "Find your starting box on the mole road map in each row. Grams and moles: molar mass. Moles and particles: Avogadro's number. Always go through moles.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 5.33",
+  "hint": "Same mass for each: does a smaller or a larger molar mass give more moles, and so more molecules?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 5.34",
+  "hint": "(a) Use the molar mass as mg/mmol. (b) Avogadro's number is per mole, so change mmol to mol before you multiply.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 5.35",
+  "hint": "Write the units next to each number: do grams cancel when you multiply g by g/mol? Which way up should the molar mass factor be?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 5.36",
+  "hint": "Change mg to g, then go through moles: grams to moles to molecules. Keep the significant figures of the given mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 5.37",
+  "hint": "Moles to grams: which way does the molar mass factor go so moles cancel? Less than a mole should weigh less than the molar mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 5.38",
+  "hint": "Count the O in one formula unit: the 2 outside the parentheses multiplies the 3 O. Use that count as the mole ratio.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 5.39",
+  "hint": "(a) Subscript ratio: 2 mol H per mol H<sub>2</sub>O. (b) Moles of H to atoms with Avogadro's number. (c) How many O are in each molecule?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 5.40",
+  "hint": "(a) Count Fe, C, H, and O and add their masses. (b) Use the molar mass as mg/mmol. (c) One Fe per formula unit, then mmol Fe to mg Fe.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 5.41",
+  "hint": "Grams of compound to moles of compound to moles of Ca (1 : 1) to grams of Ca. Can the calcium weigh more than the whole compound?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 5.42",
+  "hint": "(a) Divide mg by the molar mass read as mg/mmol. (b) How many F per SnF<sub>2</sub>? (c) Multiply mmol F by fluorine's molar mass. (d) 1 mg per g = 1000 ppm.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 5.43",
+  "hint": "(a) Divide mg by the molar mass as mg/mmol. (b) How many I atoms are in one iohexol formula? (c) Use iodine's molar mass. (d) Compare (c) with the label.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 5.44",
+  "hint": "Use the subscripts as mole ratios, and count each polyatomic ion as one particle; do not split sulfate or phosphate into atoms.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 5.45",
+  "hint": "Moles of CO<sub>2</sub> to moles of O atoms (subscript ratio), then grams with the molar mass of O atoms, not O<sub>2</sub>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 5.46",
+  "hint": "Change kg to g first. Then grams to moles of urea to moles of N (2 per formula unit) to grams of N, then kg. Repeat (d) with ammonium sulfate's molar mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 5.47",
+  "hint": "(a) Grams divided by molar mass. (b) Use 4 mol Fe per mol hemoglobin as the ratio. (c) Moles of Fe to grams with iron's molar mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 5.48",
+  "hint": "Add the subscripts to get atoms per molecule, use that as the mole ratio, then multiply by Avogadro's number.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 5.49",
+  "hint": "Work backward: moles of Cl<sup>&minus;</sup> to moles of MgCl<sub>2</sub> (how many Cl<sup>&minus;</sup> per formula unit?), then grams of MgCl<sub>2</sub>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 5.50",
+  "hint": "Build each formula with the Chapter 4 rules: balance the charges for the ionic ones (iron(III) is Fe<sup>3+</sup>); prefixes give the subscripts for the molecular one. Then add atomic masses.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 5.51",
+  "hint": "(a) Both ions have fixed charges; balance them. (b) Add the atomic masses. (c) Divide mg by mg/mmol, then use the 1 : 1 ratio of K<sup>+</sup> to KCl.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 5.52",
+  "hint": "(a) Pair Na<sup>+</sup> with hydrogen carbonate from the green sheet. (b) Grams to moles to millimoles. (c) Divide the millimoles by the volume in mL.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 5.53",
+  "hint": "Write the formula first: how many NH<sub>4</sub><sup>+</sup> balance one PO<sub>4</sub><sup>3&minus;</sup>? Then count every N and H before adding masses.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 5.54",
+  "hint": "(a) 1000 mg per g and 1000 g per kg. (b) Use the molar mass as mg/mmol. (c) Change mmol to mol before using Avogadro's number.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 5.55",
+  "hint": "(a) Balance Mg<sup>2+</sup> with sulfate. (b) Grams to moles, then Mg<sup>2+</sup> (1 : 1), then ions. (c) Moles of Mg to grams to mg. (d) How many ions per formula unit?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 5.56",
+  "hint": "(a) Fixed-charge ions, 1 : 1. (b) Grams to moles of NaCl to moles of Na<sup>+</sup> to mmol. (c) Multiply moles of Na<sup>+</sup> by sodium's molar mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 5.57",
+  "hint": "Molar mass = grams &divide; moles. Compare your result with each metal's atomic mass and pick the closest.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 5.58",
+  "hint": "Bromine is diatomic: grams to moles of Br<sub>2</sub> (molar mass 2 &times; 79.90), then moles of Br atoms (2 per molecule), then atoms.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 5.59",
+  "hint": "Map: mol to g (molar mass of C<sub>3</sub>H<sub>6</sub>O), then g to mL (density, with mL on top).",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 5.60",
+  "hint": "Read the ratios from the formula: Ca<sup>2+</sup> and PO<sub>4</sub><sup>3&minus;</sup> per formula unit, and O atoms (4 in each phosphate). Ions and O atoms are different questions.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 5.61",
+  "hint": "Work the road map backward: g Fe to mol Fe to mol Fe<sub>2</sub>O<sub>3</sub> (2 Fe per formula unit) to g Fe<sub>2</sub>O<sub>3</sub>.",
+  "why": ""
+ }
+]

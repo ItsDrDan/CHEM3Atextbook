@@ -1,0 +1,639 @@
+[
+ {
+  "file": "drafts/ch11/11.1_solutions_form.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "The solvent is the component present in the larger amount; the solute is what is dissolved in it. In (b), which liquid makes up the larger share?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.1_solutions_form.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "What is the strongest attraction each can form with water? Look for an O–H group; a molecule made of only C and H has dispersion forces only.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.1_solutions_form.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "A stable solution would dissolve the crystal or leave it sitting there. What does it mean that extra solute came out all at once?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.1_solutions_form.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "(a) K<sub>2</sub>CO<sub>3</sub> is ionic: the subscript on K becomes a coefficient, and carbonate stays together. (b) Is sucrose ionic or molecular? Count the particles on the right.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.2_solubility_t_p.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Find 80 °C on the x axis of Figure 1, trace up to the NaCl curve and across to read grams per 100 g of water. Compare 50.0 g with that limit.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.2_solubility_t_p.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "How does temperature affect the solubility of a gas, the opposite of most solids? Think about how fast the CO<sub>2</sub> molecules move.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.2_solubility_t_p.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Henry's law: S<sub>1</sub>/P<sub>1</sub> = S<sub>2</sub>/P<sub>2</sub> at constant temperature. By what factor did the N<sub>2</sub> partial pressure increase?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.2_solubility_t_p.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "(a) Compare 50.0 g with the 20 °C limit. (b) How can extra solute stay dissolved? Think about cooling a hot solution. (c) Only the amount above the limit comes out.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.3_concentration.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "The denominator is the whole solution: sugar plus water. Divide the grams of sugar by that total and multiply by 100%.",
+  "why": "Mass percent divides the solute by the total mass of solution (26.0 g + 224.0 g = 250.0 g), not by the water alone."
+ },
+ {
+  "file": "drafts/ch11/11.3_concentration.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "In dilute water solutions, 1 ppm ≈ 1 mg/L. Convert, then compare with the limit.",
+  "why": "A liter of dilute water solution has a mass of about 1 kg, so milligrams per liter equal milligrams per kilogram, which is parts per million; 52 ppm is more than the 45 ppm limit."
+ },
+ {
+  "file": "drafts/ch11/11.3_concentration.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Our goal is the mole: grams of KCl to moles, then divide by liters of solution (change mL to L first).",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.3_concentration.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Start with the term by itself, the grams of sugar, and write the percent upside down (g syrup on top) so grams of sugar cancel.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.3_concentration.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "1 M = 1000 mM. Moving to the smaller unit, should the number get bigger or smaller?",
+  "why": "Since 1 M = 1000 mM, multiplying by 1000 mM/M cancels M and moves the decimal point three places to the right."
+ },
+ {
+  "file": "drafts/ch11/11.4_molarity_dilution.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Liters times molarity gives moles (change mL to L first); then multiply by the molar mass to get grams.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.4_molarity_dilution.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Dilution: M<sub>1</sub>V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub>. The stock is side 1, and V<sub>2</sub> is the total final volume. The answer must be weaker than the stock.",
+  "why": "The moles of HCl do not change on dilution, so M<sub>2</sub> = M<sub>1</sub>V<sub>1</sub>/V<sub>2</sub>; the mL units cancel because both volumes are in mL."
+ },
+ {
+  "file": "drafts/ch11/11.4_molarity_dilution.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Label the strong solution 1 and the weak one 2 in M<sub>1</sub>V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub>, then solve for V<sub>1</sub>.",
+  "why": "All the moles in the final solution come from the stock, so V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub>/M<sub>1</sub>; the stock is 40 times as concentrated, so you need one-fortieth of 100.0 mL."
+ },
+ {
+  "file": "drafts/ch11/11.4_molarity_dilution.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Write the dissolving equation. The subscript on Cl becomes a coefficient, and that coefficient multiplies the compound's molarity.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.4_molarity_dilution.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Make the units match first: change mM to M (or M to mM). Then solve M<sub>1</sub>V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub> for V<sub>2</sub>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.5_titration.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Start on the side with both V and M: liters × molarity gives moles of H<sub>2</sub>SO<sub>4</sub>. Use the mole ratio from the equation, then divide by the NaOH molarity.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.5_titration.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Moles of NaOH = its volume in liters × its molarity; 1 : 1 gives moles of acetic acid; divide by the vinegar's volume in liters.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.5_titration.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Volume (in L) × molarity gives moles of NaCl; the ratio to AgCl is 1 : 1; then multiply by the molar mass of AgCl.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.5_titration.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Both solutions come with V and M, so it is a limiting-reactant problem: find the moles of AgCl each reactant could make. The smaller amount decides.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.5_titration.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Balance first (write water as HOH). Start with the term by itself, the grams of Ca(OH)<sub>2</sub>; go to moles, use the mole ratio, then divide by the HNO<sub>3</sub> molarity.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.6_colligative.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Moles of NaCl over kilograms of water (change g to kg). Osmolality = i × m, and NaCl gives 2 particles. Multiply by 1000 for mOsm/kg.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.6_colligative.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Count particles: multiply each molality by i. The larger i × m gives the bigger freezing point lowering, ΔT<sub>f</sub>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.6_colligative.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Compare 3% NaCl with 0.9% saline, which is isotonic. Water follows solute: which way does it cross the cell membrane?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.6_colligative.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Write each dissolving equation and add the coefficients on the right. Polyatomic ions stay together; molecular solutes stay whole.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.6_colligative.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "The molalities differ, so do not rank by i alone: multiply i × m for each and compare. The larger value gives the larger ΔT<sub>b</sub>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 11.1",
+  "hint": "Like dissolves like: water is polar and hydrogen bonds. Check each molecule: is it polar, and can it hydrogen bond with water?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 11.2",
+  "hint": "The solvent is the component present in the largest amount, whatever its state. The state of the solution matches the state of the solvent.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 11.3",
+  "hint": "A solution conducts only if it contains ions. Which choice is ionic (a metal with a nonmetal) rather than molecular?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 11.4",
+  "hint": "(a) Which end of a water molecule is partly negative and which is partly positive? Each ion attracts the opposite end. (b) Does hexane have any partial charges?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 11.5",
+  "hint": "Solubility is per 100 g of water, but only 50.0 g of water was used. Scale the amount dissolved to 100 g of water before comparing.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 11.6",
+  "hint": "Like dissolves like. Is oil-based paint polar or nonpolar? Are mineral spirits? How strongly do water molecules hold on to each other?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 11.7",
+  "hint": "(a) Compare each salt's 0 °C and 80 °C values. (b) Compare 50.0 g with the 80 °C limit. (c) Subtract the 20 °C limit. (d) Find where the order of the two salts switches.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 11.8",
+  "hint": "Use the 40 °C solubility as a conversion factor (g KNO<sub>3</sub> per 100 g water) and multiply by the grams of water.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 11.9",
+  "hint": "Scale every solubility to 50.0 g of water (half the table value). (b) Amount dissolved minus what stays dissolved at 20 °C. (c) Crystals ÷ starting mass × 100%.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 11.10",
+  "hint": "How does the solubility of a gas change as water warms (Chapter 11)? Check each choice for the right trend and a correct reason.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 11.11",
+  "hint": "Henry's law: S<sub>2</sub> = S<sub>1</sub> × P<sub>2</sub>/P<sub>1</sub>. Use only the O<sub>2</sub> partial pressure; a lower pressure means less dissolved gas.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 11.12",
+  "hint": "(a) Partial pressure = mole fraction × total pressure. (b) Henry's law, S<sub>1</sub>/P<sub>1</sub> = S<sub>2</sub>/P<sub>2</sub>. (c) What happens to the solubility as the N<sub>2</sub> pressure drops?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 11.13",
+  "hint": "(a), (b) Henry's law: S<sub>2</sub> = S<sub>1</sub> × P<sub>2</sub>/P<sub>1</sub>. (c) Henry's law says how much stays dissolved, not how fast it leaves; how does warmth change both?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 11.14",
+  "hint": "The denominator is the whole solution: sugar plus water. Then multiply the fraction by 100%.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 11.15",
+  "hint": "0.45% (m/v) means 0.45 g per 100 mL. Change the liters to mL, then use the percent as a conversion factor.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 11.16",
+  "hint": "(a) Start with the grams of glucose and flip the percent (100 mL on top). (b) Divide by the molar mass. (c) Moles ÷ liters of solution.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 11.17",
+  "hint": "Write each label as a fraction with full units, start with the volume given, and let units cancel: (a) g per 100 mL, then g to mg; (b) mg per mL; (c) mL per 100 mL.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 11.18",
+  "hint": "(a) In water, 1 mg/L ≈ 1 ppm. (b) Volume × concentration. (c) ppm by mass is mg per kg; change grams to kg. (d) Divide the two ppm values.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 11.19",
+  "hint": "In water, 1 ppb ≈ 1 μg/L. Then convert μg to mg (1 mg = 1000 μg): a larger unit means a smaller number.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 11.20",
+  "hint": "(a) 1 mg/L ≈ 1 ppm; compare with the limit. (b) mg to g to moles, per liter. (c) mg/L to ng/L (1 mg = 10<sup>6</sup> ng), and 1 ng/L ≈ 1 ppt. (d) Liters × ng/L.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 11.21",
+  "hint": "Our goal is the mole: grams to moles first, then divide by the volume in liters, not mL.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 11.22",
+  "hint": "Assume 100. g of solution: the percent gives grams of H<sub>2</sub>O<sub>2</sub> (change to moles), and the density gives the volume of solution (change to liters).",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 11.23",
+  "hint": "Subtract masses to get the NaCl and the solution. Percents divide by the whole solution (its mass, or its 50.00 mL); molarity needs moles and liters; density is mass ÷ volume.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 11.24",
+  "hint": "Change mL to L, multiply by the molarity to get moles, then multiply by the molar mass to get grams.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 11.25",
+  "hint": "(a) Liters × molarity × molar mass; dissolve and fill a volumetric flask to the line. (b) Write the dissolving equation: how many Cl<sup>−</sup> per MgCl<sub>2</sub>?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 11.26",
+  "hint": "(a) Rate × time. (b) Use 0.900 g per 100 mL as a conversion factor. (c) Grams to moles to mmol; how many Na<sup>+</sup> per NaCl? (d) Grams per liter ÷ molar mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 11.27",
+  "hint": "V<sub>2</sub> in M<sub>1</sub>V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub> is the total final volume, not the water added. Add the two volumes first.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 11.28",
+  "hint": "Make the units match: change mM to M first. Label the concentrated stock as 1, then solve for V<sub>1</sub>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 11.29",
+  "hint": "Write both volumes in the same unit before using M<sub>1</sub>V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub>. The diluted solution must be weaker than the stock.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 11.30",
+  "hint": "(a) C<sub>1</sub>V<sub>1</sub> = C<sub>2</sub>V<sub>2</sub>, with percents on both sides and V<sub>2</sub> the total volume. (b) Total minus bleach. (c) What does V<sub>2</sub> stand for?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 11.31",
+  "hint": "(a) Each step puts 1.00 mL into a total of 10.00 mL; multiply the step factors. (b) Colonies ÷ mL plated. (c) Multiply back by the overall dilution factor.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 11.32",
+  "hint": "(a) Liters × molarity × molar mass. (b) Solve M<sub>1</sub>V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub> for V<sub>1</sub>. (c) Same stock volume, but use the actual total volume as V<sub>2</sub>; give mM.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 11.33",
+  "hint": "Volume in liters × molarity gives moles of BaCl<sub>2</sub>. Read the BaSO<sub>4</sub> : BaCl<sub>2</sub> ratio from the equation, then multiply by the molar mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 11.34",
+  "hint": "Start on the side with both V and M: moles of CaCl<sub>2</sub>. (a) Mole ratio 2 Na<sub>3</sub>PO<sub>4</sub> : 3 CaCl<sub>2</sub>, then ÷ molarity. (b) Ratio 1 : 3, then molar mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 11.35",
+  "hint": "Start with the term by itself, the grams of Mg(OH)<sub>2</sub>. Go to moles, use the mole ratio (how many HCl per Mg(OH)<sub>2</sub>?), then divide by the HCl molarity.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 11.36",
+  "hint": "Phenolphthalein turns pink once base is in excess. Which color change shows the acid is just used up throughout the flask, not only where the drop landed?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 11.37",
+  "hint": "Volume used = final reading − initial reading. Moles of NaOH (L × M), 1 : 1 to HCl, then divide by the HCl volume in liters.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 11.38",
+  "hint": "(a) Final − initial. (b) Grams of oxalic acid → moles → × 2 for NaOH → ÷ liters; average. (c) Ratio 1 citric acid : 3 NaOH, ÷ soda liters. (d) × molar mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 11.39",
+  "hint": "Liters × molarity gives moles of NaOH; oxalic acid has two acidic hydrogens, so use the 1 : 2 ratio. Then grams of acid ÷ sample mass × 100%.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 11.40",
+  "hint": "Find the volume used (final − initial). Moles of NaOH, then the mole ratio: how many NaOH does each H<sub>2</sub>SO<sub>4</sub> need? Divide by the acid's volume.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 11.41",
+  "hint": "What does the NaOH actually react with: the volume of the solution or the moles of oxalic acid? Compare that quantity in the two flasks.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 11.42",
+  "hint": "Molality = moles of solute ÷ kilograms of solvent. Change grams of urea to moles and grams of water to kilograms.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 11.43",
+  "hint": "(a) Grams to moles, ÷ kg of water. (b), (c) ΔT = i K m with i = 1 for a nonelectrolyte, K<sub>f</sub> = 1.86 and K<sub>b</sub> = 0.512 °C/m. (d) Think about both effects.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 11.44",
+  "hint": "Count particles: multiply each molality by i (glucose 1; ionic solutes 2 or 3). The largest i × m gives the largest ΔT<sub>f</sub>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 11.45",
+  "hint": "For each fluid: grams ÷ molar mass gives mol/kg; multiply by i, then by 1000 for mOsm/kg; compare with 275–295. (d) Water flows toward more particles.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 11.46",
+  "hint": "Find i from the dissolving equation (the two chloride ions are separate particles), then ΔT<sub>f</sub> = i K<sub>f</sub> m with K<sub>f</sub> = 1.86 °C/m.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 11.47",
+  "hint": "(a) Moles of NaCl ÷ kg of water. (b) ΔT<sub>b</sub> = i K<sub>b</sub> m with i = 2 and K<sub>b</sub> = 0.512 °C/m. (c) Is a change that size enough to matter?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 11.48",
+  "hint": "Which is more concentrated, the brine or the inside of the cucumber cells? Recall which way water moves across a membrane by osmosis.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 11.49",
+  "hint": "Pure water has no dissolved particles. Compared with the inside of a cell, is it hypotonic or hypertonic, and which way does water flow?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 11.50",
+  "hint": "(a) For each salt: grams ÷ molar mass, then ΔT<sub>f</sub> = i K<sub>f</sub> m. (b) Compare moles of particles (i × moles) from the same 90.0 g. (c) Think per mole, not per gram.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 11.51",
+  "hint": "Start with 100. g of water plus the KCl that dissolves. (a) KCl ÷ total solution. (b) Volume from the density, then mol ÷ L. (c) mol ÷ kg of water. (d) Compare denominators.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 11.52",
+  "hint": "(a) C<sub>1</sub>V<sub>1</sub> = C<sub>2</sub>V<sub>2</sub> with percents. (b) 10.0% is 10.0 g per 100 mL; scale to a liter and change to moles. (c) i = 1; multiply by 1000 for mOsm/kg.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 11.53",
+  "hint": "Find each solute's mol/kg (grams ÷ molar mass), multiply by its i (NaCl 2, glucose 1), and convert to mOsm/kg. Add them and compare with 275–295; then take the glucose away.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 11.54",
+  "hint": "(a) The saline is being diluted: C<sub>1</sub>V<sub>1</sub> = C<sub>2</sub>V<sub>2</sub>, with V<sub>2</sub> the total. (b) g/kg ÷ molar mass × i × 1000. (c) Compare with 275–295 mOsm/kg.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 11.55",
+  "hint": "(a) M<sub>1</sub>V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub>. (b) Volume used, moles of NaOH, 1 : 1, ÷ liters titrated. (c) Undo the vinegar dilution the same way. (d) mol/L × g/mol, then per 100 mL.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 11.56",
+  "hint": "0.500% (m/v) means 0.500 g KCl per 100 mL. Start with the term by itself, the grams of KCl, and flip the percent so grams cancel.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 11.57",
+  "hint": "(a) Dilution only lowers a concentration: which bottle is stronger than the target? (b) M<sub>1</sub>V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub>. (c) Fill to the mark rather than measuring the water.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 11.58",
+  "hint": "(a) Subscripts outside the parentheses become coefficients; sulfate stays together. (b) Grams → moles ÷ liters. (c) Multiply by each coefficient. (d) Add the ion concentrations.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 11.59",
+  "hint": "Both solutions come with V and M, so find the moles of BaSO<sub>4</sub> each reactant could make. The smaller amount is what forms; then use the molar mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 11.60",
+  "hint": "Start with the grams of Ca(OH)<sub>2</sub>: grams to moles, the mole ratio (how many HCl per Ca(OH)<sub>2</sub>?), then divide by the HCl molarity.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 11.61",
+  "hint": "Count particles: find i for each solute (acetate stays together) and multiply by its molality. The largest i × m freezes lowest.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 61,
+  "title": "Problem 11.62",
+  "hint": "The solubilities are per 100 g of water, so scale them to 50.0 g of water first, then compare with 55.0 g at each temperature. (c) Dissolved minus the new limit.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch11/11.8_practice_problems.html",
+  "idx": 62,
+  "title": "Problem 11.63",
+  "hint": "Think through H<sup>+</sup> + OH<sup>−</sup> → H<sub>2</sub>O. Which ions are left in the flask? What makes phenolphthalein change color? What does a buret reading measure?",
+  "why": ""
+ }
+]

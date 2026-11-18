@@ -1,0 +1,875 @@
+[
+ {
+  "file": "drafts/ch03/3.1_light.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "What is the frequency of green light with a wavelength of 532 nm?",
+  "answer": "Convert 532 nm to 5.32 &times; 10 &minus;7 m, then divide: \\( \\nu = \\dfrac{3.00 \\times 10^{8}\\ \\text{m s}^{-1}}{5.32 \\times 10^{-7}\\ \\text{m}} = 5.64 \\times 10^{14}\\ \\text{Hz} \\)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.1_light.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "A germicidal lamp gives off UV-C light at 254 nm. What is the energy of one photon?",
+  "answer": "\\( E = \\dfrac{hc}{\\lambda} = \\dfrac{(6.626 \\times 10^{-34}\\ \\text{J s})(3.00 \\times 10^{8}\\ \\text{m s}^{-1})}{2.54 \\times 10^{-7}\\ \\text{m}} = 7.83 \\times 10^{-19}\\ \\text{J} \\) That is more than twice the energy of a 660 nm red photon.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.1_light.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Put these in order of increasing photon energy: X-rays, infrared, radio waves, ultraviolet, visible light.",
+  "answer": "Radio waves &lt; infrared &lt; visible light &lt; ultraviolet &lt; X-rays (the same order as decreasing wavelength).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.1_light.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Two red laser pointers have the same wavelength, 650 nm, but one is much brighter. Which wave property is different, and do their photons have different energies?",
+  "answer": "The amplitude (intensity) is different: the brighter pointer has taller waves and sends out more photons each second. The wavelength is the same, so each photon has the same energy, and the color is the same red.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.2_bohr_model.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Why does a sodium street lamp give off light of only a few colors instead of a full rainbow?",
+  "answer": "Sodium's electrons can only occupy certain energy levels, so only certain energy drops, and therefore only certain wavelengths, are possible. Sodium's strongest lines are yellow-orange, near 589 nm.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.2_bohr_model.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "An electron drops from n = 4 to n = 1 in one atom and from n = 4 to n = 3 in another. Which photon has the longer wavelength?",
+  "answer": "The n = 4 to n = 3 drop is much smaller, so its photon has less energy and the longer wavelength.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.2_bohr_model.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "What is the difference between the ground state and an excited state?",
+  "answer": "In the ground state the electrons are in the lowest energy levels available. In an excited state at least one electron has absorbed energy and moved to a higher level.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.2_bohr_model.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "A sodium lamp gives off yellow light at 589 nm. What is the energy gap, in joules, between the two levels involved?",
+  "answer": "\\( \\Delta E = \\dfrac{(6.626 \\times 10^{-34}\\ \\text{J s})(3.00 \\times 10^{8}\\ \\text{m s}^{-1})}{5.89 \\times 10^{-7}\\ \\text{m}} = 3.37 \\times 10^{-19}\\ \\text{J} \\) Slightly larger than the 656 nm red gap, as a shorter wavelength should be.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.2_bohr_model.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Give the electrons per ring for (a) a nitrogen atom, (b) the N 3&minus; ion, (c) a potassium atom, and (d) the K + ion.",
+  "answer": "(a) N, 7 electrons: 2, 5. (b) N 3&minus; , 10 electrons: 2, 8 (like neon). (c) K, 19 electrons: 2, 8, 8, 1. (d) K + , 18 electrons: 2, 8, 8 (like argon).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.2_bohr_model.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "question": "A gas absorbs light at 434 nm when white light passes through it. At what wavelength would you expect a bright line when the same gas glows in a discharge tube?",
+  "answer": "At 434 nm. Absorption and emission use the same energy gaps, and an atom can emit any photon it absorbs, so the dark absorption line has a matching bright emission line at the same wavelength.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.3_orbitals.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "How many electrons can the third shell (n = 3) hold, and how are they divided among its subshells?",
+  "answer": "18: 3s holds 2, 3p holds 6, and 3d holds 10.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch03/3.3_orbitals.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Draw the orbital diagram for fluorine. How many unpaired electrons does it have?",
+  "answer": "F has 9 electrons: 1s [&uarr;&darr;] 2s [&uarr;&darr;] 2p [&uarr;&darr;][&uarr;&darr;][&uarr;]. One unpaired electron.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.3_orbitals.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A student draws phosphorus's 3p subshell as [&uarr;&darr;][&uarr;][&nbsp;&nbsp;]. Which rule is broken, and what is the correct drawing?",
+  "answer": "Hund's rule. The three 3p electrons should go one per orbital with the same spin: [&uarr;][&uarr;][&uarr;].",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.3_orbitals.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Which configuration is impossible: (A) 1s 2 2s 2 2p 6 3s 2 3p 3 ; (B) 1s 2 2s 2 2p 6 3s 2 3p 7 ; (C) 1s 2 2s 1 2p 3 ; (D) 1s 2 2s 2 2p 2 ?",
+  "answer": "B: a p subshell holds at most 6 electrons, so 3p 7 cannot exist. A is phosphorus and D is carbon (both ground state). C is carbon in an excited state (one 2s electron moved up to 2p), which is possible.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.3_orbitals.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Draw the orbital diagrams of the outer subshells for an oxygen atom and for the O 2&minus; ion. How many unpaired electrons does each have?",
+  "answer": "O (8 e &minus; ): 2s [&uarr;&darr;] 2p [&uarr;&darr;][&uarr;][&uarr;], 2 unpaired. O 2&minus; (10 e &minus; ): 2s [&uarr;&darr;] 2p [&uarr;&darr;][&uarr;&darr;][&uarr;&darr;], 0 unpaired (the same as neon).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.4_electron_configurations.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Write the full and noble-gas configurations of aluminum.",
+  "answer": "Al (13 electrons): 1s 2 2s 2 2p 6 3s 2 3p 1 , or [Ne] 3s 2 3p 1 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.4_electron_configurations.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Which element has the configuration [Kr] 5s 2 ?",
+  "answer": "Strontium (Sr): 36 + 2 = 38 electrons, group 2, row 5.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch03/3.4_electron_configurations.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Write the configuration of the oxide ion, O 2&minus; . Which noble gas is it isoelectronic with?",
+  "answer": "O is 1s 2 2s 2 2p 4 ; adding 2 electrons gives 1s 2 2s 2 2p 6 , isoelectronic with neon.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.4_electron_configurations.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Write the noble-gas configuration of the Be 2+ ion and of a neutral germanium (Ge) atom. Check each by adding superscripts.",
+  "answer": "Be is 1s 2 2s 2 ; losing its two 2s electrons leaves 1s 2 (= [He]), 2 electrons = 4 &minus; 2. Ge (Z = 32): [Ar] 4s 2 3d 10 4p 2 ; 18 + 2 + 10 + 2 = 32.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.4_electron_configurations.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "A student writes copper's configuration as [Ar] 4s 2 3d 9 . What is wrong, and what is the correct configuration? How many unpaired electrons does a copper atom have?",
+  "answer": "Copper is an exception: a filled 3d subshell is extra stable, so one 4s electron moves to 3d. Correct: [Ar] 4s 1 3d 10 (18 + 1 + 10 = 29). The five 3d orbitals are all paired, so there is 1 unpaired electron, the one in 4s.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.5_valence_electrons.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "How many valence electrons does a phosphorus atom have? What ion does it form?",
+  "answer": "5 (group 15, [Ne] 3s 2 3p 3 ). It gains 3 to reach an octet: P 3&minus; , phosphide.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.5_valence_electrons.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Why do magnesium and calcium have similar chemical properties?",
+  "answer": "Both are in group 2 with two valence electrons in an s subshell (3s 2 and 4s 2 ), so both lose two electrons to form 2+ ions.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.5_valence_electrons.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Which ion is isoelectronic with neon: K + , F &minus; , or Cl &minus; ?",
+  "answer": "F &minus; : 9 + 1 = 10 electrons, the same as Ne. K + and Cl &minus; each have 18 electrons, like argon.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.5_valence_electrons.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Describe the Lewis symbols of (a) a sulfur atom, (b) the S 2&minus; ion, and (c) the Ca 2+ ion.",
+  "answer": "(a) S (group 16): 6 dots, two pairs and two single dots. (b) S 2&minus; : 8 dots (four pairs) in brackets with a 2&minus; charge outside. (c) Ca 2+ : the symbol in empty brackets with a 2+ charge outside; calcium's two valence electrons are gone.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.5_valence_electrons.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "A student draws carbon with two pairs of dots on two sides and says, \"That's four dots, so it's right.\" What is wrong?",
+  "answer": "The count is right, but the placement is not: put one dot on each side before pairing. Carbon's Lewis symbol has four single dots, one per side, which shows the four electrons available for its four bonds in Chapter 6.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.6_periodic_trends.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Which is larger: (a) N or P; (b) Na or Cl; (c) Ca or Ca 2+ ?",
+  "answer": "(a) P (one more shell). (b) Na (same shell, smaller nuclear charge). (c) Ca (the ion has lost its 4s shell).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.6_periodic_trends.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "Rank Li, Cs, and F in order of increasing ionization energy.",
+  "answer": "Cs &lt; Li &lt; F. Cs is farthest down group 1; F is farthest right in period 2.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.6_periodic_trends.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Explain in one sentence why atoms get smaller from left to right across a period.",
+  "answer": "Each step adds a proton while the electrons go into the same shell, so the stronger nuclear pull draws the valence electrons closer.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.6_periodic_trends.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Put these ions in order from smallest to largest: S 2&minus; , K + , Cl &minus; , Ca 2+ . (All have 18 electrons.)",
+  "answer": "Ca 2+ &lt; K + &lt; Cl &minus; &lt; S 2&minus; . The protons pulling on the same 18 electrons drop from 20 to 19 to 17 to 16, so the ions get larger in that order.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.6_periodic_trends.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "Which has the lower ionization energy, magnesium or chlorine? Explain with the octet rule.",
+  "answer": "Magnesium. It reaches an octet by losing just two electrons, so they come off easily; chlorine is one electron short of an octet and holds its own electrons tightly in a smaller atom.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 3.1",
+  "question": "Moving through the electromagnetic spectrum from radio waves toward gamma rays, which statement is true? A. Wavelength increases and photon energy increases. B. Wavelength decreases and frequency increases. C. Frequency decreases and photon energy increases. D. The waves travel faster.",
+  "answer": "B. Radio waves are the longest waves and gamma rays the shortest. Because \\( c = \\lambda\\nu \\) and \\( c \\) is fixed, a shorter wavelength means a higher frequency, and by \\( E = h\\nu \\) a higher photon energy. A is wrong: wavelength gets shorter toward gamma rays. Wavelength and energy never rise together. C is wrong: frequency and energy always change in the same direction, because \\( E = h\\nu \\). Both increase toward gamma rays. D is wrong: all electromagnetic radiation travels at the same speed in a vacuum, \\( 3.00 \\times 10^{8}\\ \\text{m s}^{-1} \\).",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 3.2",
+  "question": "Many newborns develop jaundice , a yellow color of the skin caused by a buildup of bilirubin, a yellow pigment made when old red blood cells are broken down. In phototherapy , the baby lies under blue light. Suppose a phototherapy unit's blue LEDs (light-emitting diodes) give off light with a peak wavelength of 458 nm. Bilirubin in the skin absorbs these photons, which changes it into forms the body can get rid of more easily. (a) What is the frequency of 458 nm light? (b) What is the energy of one photon? (c) Would a photon from a red 660 nm lamp carry more or less energy? Explain without a calculation.",
+  "answer": "(a) Convert to meters first: \\( 458\\ \\text{nm} \\times \\dfrac{10^{-9}\\ \\text{m}}{1\\ \\text{nm}} = 4.58 \\times 10^{-7}\\ \\text{m} \\). Then \\( \\nu = \\dfrac{c}{\\lambda} = \\dfrac{3.00 \\times 10^{8}\\ \\text{m s}^{-1}}{4.58 \\times 10^{-7}\\ \\text{m}} = 6.55 \\times 10^{14}\\ \\text{s}^{-1} \\) The frequency is 6.55 &times; 10 14 Hz (three significant figures, set by 458 and 3.00). (b) \\( E = h\\nu = (6.626 \\times 10^{-34}\\ \\text{J s})(6.550 \\times 10^{14}\\ \\text{s}^{-1}) = 4.34 \\times 10^{-19}\\ \\text{J} \\) (Carrying one extra digit of the frequency and rounding once at the end avoids rounding error.) (c) Less. Red light has a longer wavelength, so a lower frequency and less energy per photon. (Section 3.1 found 3.01 &times; 10 &minus;19 J for a 660 nm photon.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 3.3",
+  "question": "A radiologic technologist takes a chest radiograph. One of the X-ray photons in the beam has a wavelength of 0.0250 nm. (a) Write the wavelength in meters, in scientific notation. (b) Find its frequency. (c) Find its energy. (d) About how many times more energy does it carry than a 458 nm phototherapy photon, which carries 4.34 &times; 10 &minus;19 J?",
+  "answer": "(a) \\( 0.0250\\ \\text{nm} \\times \\dfrac{10^{-9}\\ \\text{m}}{1\\ \\text{nm}} = 2.50 \\times 10^{-11}\\ \\text{m} \\) (b) \\( \\nu = \\dfrac{3.00 \\times 10^{8}\\ \\text{m s}^{-1}}{2.50 \\times 10^{-11}\\ \\text{m}} = 1.20 \\times 10^{19}\\ \\text{Hz} \\) (c) \\( E = h\\nu = (6.626 \\times 10^{-34}\\ \\text{J s})(1.20 \\times 10^{19}\\ \\text{s}^{-1}) = 7.95 \\times 10^{-15}\\ \\text{J} \\) (d) \\( \\dfrac{7.95 \\times 10^{-15}\\ \\text{J}}{4.34 \\times 10^{-19}\\ \\text{J}} = 1.83 \\times 10^{4} \\) The X-ray photon carries about 18,000 times as much energy. That is enough to knock electrons out of atoms, which is why X-rays are ionizing radiation and why exposure is kept as low as possible.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 3.4",
+  "question": "The table below lists light sources used in health care and around town. @media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } } Wavelengths of some common light sources Light source Wavelength (nm) Germicidal UV-C lamp 254 Dental curing light 470 Sodium street lamp 589 Pulse oximeter, red 660 Pulse oximeter, infrared 940 Er:YAG dental laser 2940 (a) Name the region of the spectrum (ultraviolet, visible, or infrared) for each source. (b) Rank the sources from highest to lowest energy per photon. (c) The Er:YAG (erbium-doped yttrium aluminum garnet) laser is used to remove tooth enamel and decay. Find the frequency of its light. (d) How many times more energy does a UV-C photon carry than an Er:YAG photon?",
+  "answer": "(a) Visible light runs from about 400 to 700 nm. UV-C lamp, 254 nm: ultraviolet . Curing light (470 nm, blue), sodium lamp (589 nm, yellow-orange), and red oximeter light (660 nm): visible . Infrared oximeter light (940 nm) and the Er:YAG laser (2940 nm): infrared . (b) Shorter wavelength means more energy per photon, so the order is the order of increasing wavelength: UV-C lamp &gt; curing light &gt; sodium lamp &gt; red oximeter &gt; infrared oximeter &gt; Er:YAG laser . (c) \\( 2940\\ \\text{nm} = 2.94 \\times 10^{-6}\\ \\text{m} \\), and \\( \\nu = \\dfrac{3.00 \\times 10^{8}\\ \\text{m s}^{-1}}{2.94 \\times 10^{-6}\\ \\text{m}} = 1.02 \\times 10^{14}\\ \\text{Hz} \\). (The zero in 2940 has no decimal point after it, so it is not significant: three significant figures.) (d) Because \\( E = hc/\\lambda \\), photon energy is inversely proportional to wavelength, and the constants cancel in a ratio: \\( \\dfrac{E_{\\text{UV-C}}}{E_{\\text{Er:YAG}}} = \\dfrac{\\lambda_{\\text{Er:YAG}}}{\\lambda_{\\text{UV-C}}} = \\dfrac{2940\\ \\text{nm}}{254\\ \\text{nm}} = 11.6 \\) A UV-C photon carries about 11.6 times as much energy.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 3.5",
+  "question": "A 1.5-tesla MRI (magnetic resonance imaging) scanner uses radio waves with a frequency of 63.9 MHz (1 MHz = 10 6 Hz). (a) What is the wavelength, in meters? (b) What is the energy of one of these photons? (c) Use your answer to explain why MRI is not ionizing radiation, even though it uses electromagnetic waves.",
+  "answer": "(a) \\( 63.9\\ \\text{MHz} = 6.39 \\times 10^{7}\\ \\text{Hz} \\), and \\( \\lambda = \\dfrac{c}{\\nu} = \\dfrac{3.00 \\times 10^{8}\\ \\text{m s}^{-1}}{6.39 \\times 10^{7}\\ \\text{s}^{-1}} = 4.69\\ \\text{m} \\) (b) \\( E = h\\nu = (6.626 \\times 10^{-34}\\ \\text{J s})(6.39 \\times 10^{7}\\ \\text{s}^{-1}) = 4.23 \\times 10^{-26}\\ \\text{J} \\) (c) Each radio photon carries about ten million times less energy than a 458 nm visible photon (4.34 &times; 10 &minus;19 J &divide; 4.23 &times; 10 &minus;26 J &asymp; 1 &times; 10 7 ), and far less than an X-ray photon. That is much too little energy to knock an electron out of an atom or break a bond, so radio waves are not ionizing.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 3.6",
+  "question": "Compare a 254 nm photon from a germicidal UV-C lamp with a 940 nm photon from a pulse oximeter. Which statement is correct? A. The UV-C photon has a higher frequency and more energy. B. The infrared photon has more energy, because its wavelength is longer. C. The two photons have the same energy, because both travel at the speed of light. D. The UV-C photon has a lower frequency but more energy.",
+  "answer": "A. The UV-C photon has the shorter wavelength, so it has the higher frequency (\\( \\nu = c/\\lambda \\)) and the higher energy (\\( E = h\\nu \\)). By the ratio of wavelengths, 940 &divide; 254 = 3.7, it carries about 3.7 times the energy. (The zero in 940 has no decimal point, so 940 has two significant figures.) B has the relationship backward: longer wavelength means less energy. C is wrong: all light has the same speed, but energy depends on frequency, and these frequencies are different. D is impossible: a photon with more energy must have a higher frequency, since \\( E = h\\nu \\).",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 3.7",
+  "question": "A phototherapy lamp is switched to a higher intensity setting, so it is brighter, but its color stays at 458 nm. What changes? A. Each photon carries more energy. B. More photons reach the skin each second, but each photon has the same energy. C. The wavelength becomes shorter. D. The frequency increases.",
+  "answer": "B. Brightness (intensity) is the number of photons. The energy of each photon depends only on its wavelength, and the wavelength has not changed. A is wrong: the photon energy is set by \\( E = hc/\\lambda \\), and \\( \\lambda \\) is still 458 nm. C is wrong: the color, and so the wavelength, stays the same. D is wrong: with the same wavelength, \\( \\nu = c/\\lambda \\) gives the same frequency.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 3.8",
+  "question": "A drone flies over an almond orchard near Fresno with a camera that records red light at 655 nm and near-infrared light at 865 nm. (a) Find the frequency and the photon energy of the 865 nm light. (b) Which band has the more energetic photons, and by what factor? (c) Healthy leaves absorb most of one band and reflect most of the other. Which band do they reflect strongly?",
+  "answer": "(a) \\( 865\\ \\text{nm} = 8.65 \\times 10^{-7}\\ \\text{m} \\) \\( \\nu = \\dfrac{3.00 \\times 10^{8}\\ \\text{m s}^{-1}}{8.65 \\times 10^{-7}\\ \\text{m}} = 3.47 \\times 10^{14}\\ \\text{Hz} \\) \\( E = h\\nu = (6.626 \\times 10^{-34}\\ \\text{J s})(3.468 \\times 10^{14}\\ \\text{s}^{-1}) = 2.30 \\times 10^{-19}\\ \\text{J} \\) (b) The red photons, because 655 nm is the shorter wavelength. The factor is the ratio of wavelengths: \\( 865 \\div 655 = 1.32 \\), so each red photon carries 1.32 times the energy (3.03 &times; 10 &minus;19 J versus 2.30 &times; 10 &minus;19 J). (c) Near-infrared. Leaves absorb red light for photosynthesis and reflect near-infrared, so a healthy canopy looks bright in the 865 nm image and dark in the red one.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 3.9",
+  "question": "A student finds the frequency of light from a 532 nm green laser pointer and gets 5.64 &times; 10 5 Hz. (a) What mistake did the student make? (b) What is the correct frequency? (c) How could the student have caught the mistake?",
+  "answer": "(a) The student divided by 532 without converting nanometers to meters: \\( 3.00 \\times 10^{8} \\div 532 = 5.64 \\times 10^{5} \\). That treats the wavelength as 532 meters . (b) \\( 532\\ \\text{nm} = 5.32 \\times 10^{-7}\\ \\text{m} \\), so \\( \\nu = \\dfrac{3.00 \\times 10^{8}\\ \\text{m s}^{-1}}{5.32 \\times 10^{-7}\\ \\text{m}} = 5.64 \\times 10^{14}\\ \\text{Hz} \\). (c) Visible light has frequencies near 10 14 Hz. An answer near 10 5 Hz would be a radio wave, not green light.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 3.10",
+  "question": "Which light source, viewed through a prism or spectroscope, gives a line spectrum? A. sunlight B. the glowing filament of an old-style incandescent light bulb C. a sodium vapor street lamp D. a red-hot electric stove burner",
+  "answer": "C. The lamp holds sodium atoms as a glowing gas. Their electrons can drop only between certain energy levels, so the lamp gives off only certain wavelengths: a few bright lines, the strongest near 589 nm. A is wrong: sunlight spreads into a continuous rainbow. B is wrong: a hot solid filament gives a continuous spectrum. D is wrong: the hot burner is also a hot solid. It glows with a continuous spread of wavelengths, mostly infrared plus some red.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 3.11",
+  "question": "The table below lists five electron jumps in hydrogen atoms. Electron jumps between Bohr energy levels in hydrogen Jump Starting level Ending level P n = 1 n = 3 Q n = 4 n = 2 R n = 2 n = 5 S n = 6 n = 1 T n = 3 n = 2 (a) For each jump, is energy absorbed or emitted? (b) Of the jumps that emit light, which gives the photon with the most energy? (c) Which jump gives hydrogen's red line at 656 nm?",
+  "answer": "(a) Moving up needs energy; moving down releases it as a photon. P (up): absorbed . Q (down): emitted . R (up): absorbed . S (down): emitted . T (down): emitted . (b) S , the drop from n = 6 all the way to n = 1, is the biggest drop of the three, so its photon has the most energy (and the shortest wavelength; it is in the ultraviolet). (c) T , n = 3 to n = 2 (Section 3.2). It is the smallest of the three drops, which fits the red line having the longest wavelength of hydrogen's visible lines.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 3.12",
+  "question": "A hydrogen electron absorbs a photon and jumps from n = 2 to n = 4. A moment later it drops straight back from n = 4 to n = 2. How does the photon it gives off compare with the photon it absorbed? A. It has the same energy and the same wavelength. B. It has more energy, because the electron is falling. C. It has a longer wavelength, because emitted light is always redder. D. No photon is given off when the electron drops.",
+  "answer": "A. The energy gap between n = 4 and n = 2 is fixed. Going up takes exactly that much energy, and coming down gives back exactly that much, as one photon of the same wavelength (486 nm, blue-green). B is wrong: the electron cannot give off more energy than the gap between the two levels. C is wrong for a single atom dropping back between the same two levels. (A fluorescent molecule can give off a longer wavelength because it loses some energy first, as in the fluorescent stain problem later in this section, but that is not what happens here.) D is wrong: dropping to a lower level is exactly how the atom gives off a photon.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 3.13",
+  "question": "Many older street lights in Central Valley towns are sodium vapor lamps, which glow yellow-orange at 589 nm. (a) What is the energy of one 589 nm photon? (b) In one sentence, explain why a sodium lamp gives off nearly one color instead of a full rainbow.",
+  "answer": "(a) \\( 589\\ \\text{nm} = 5.89 \\times 10^{-7}\\ \\text{m} \\), and \\( E = \\dfrac{hc}{\\lambda} = \\dfrac{(6.626 \\times 10^{-34}\\ \\text{J s})(3.00 \\times 10^{8}\\ \\text{m s}^{-1})}{5.89 \\times 10^{-7}\\ \\text{m}} = 3.37 \\times 10^{-19}\\ \\text{J} \\) (b) Sodium's electrons can occupy only certain energy levels, so only certain energy drops are possible, and the strongest of them always gives a photon of the same energy, which is light of the same wavelength, 589 nm.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 3.14",
+  "question": "Hydrogen's blue-green line at 486 nm comes from the drop n = 4 to n = 2, and its violet line at 434 nm comes from n = 5 to n = 2. (a) Find the energy of each photon. (b) Which of the two drops is bigger? (c) Use your answers to find the energy gap between n = 5 and n = 4. (d) An electron drops from n = 5 to n = 4. Find the wavelength of the photon, and name its region of the spectrum.",
+  "answer": "(a) \\( E_{486} = \\dfrac{(6.626 \\times 10^{-34}\\ \\text{J s})(3.00 \\times 10^{8}\\ \\text{m s}^{-1})}{4.86 \\times 10^{-7}\\ \\text{m}} = 4.09 \\times 10^{-19}\\ \\text{J} \\) \\( E_{434} = \\dfrac{(6.626 \\times 10^{-34}\\ \\text{J s})(3.00 \\times 10^{8}\\ \\text{m s}^{-1})}{4.34 \\times 10^{-7}\\ \\text{m}} = 4.58 \\times 10^{-19}\\ \\text{J} \\) (b) The n = 5 to n = 2 drop: its photon has more energy (shorter wavelength). (c) Both drops end at n = 2. The 5 &rarr; 2 drop is the 5 &rarr; 4 step plus the 4 &rarr; 2 step, so the difference between them is the 5 &rarr; 4 gap: \\( 4.58 \\times 10^{-19}\\ \\text{J} - 4.09 \\times 10^{-19}\\ \\text{J} = 0.49 \\times 10^{-19}\\ \\text{J} = 4.9 \\times 10^{-20}\\ \\text{J} \\) The subtraction leaves two decimal places in the 10 &minus;19 numbers, so the gap has two significant figures. (d) \\( \\lambda = \\dfrac{hc}{E} = \\dfrac{(6.626 \\times 10^{-34}\\ \\text{J s})(3.00 \\times 10^{8}\\ \\text{m s}^{-1})}{4.9 \\times 10^{-20}\\ \\text{J}} = 4.1 \\times 10^{-6}\\ \\text{m} \\) That is about 4100 nm, far longer than red light (700 nm): infrared . A small drop gives a low-energy, long-wavelength photon, and the levels get closer together as n increases.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 3.15",
+  "question": "In flame tests, a strontium salt turns the flame red, a sodium salt turns it yellow-orange, and a copper salt turns it blue-green. (a) Rank the three colors from lowest to highest photon energy. (b) Which element's light comes from the largest energy drop? (c) Why does each element give its own color?",
+  "answer": "(a) From long wavelength to short (ROY G BV): red (strontium) &lt; yellow-orange (sodium) &lt; blue-green (copper) . (b) Copper. Blue-green is the shortest wavelength of the three, so it has the most energy per photon, which comes from the biggest drop between levels. (c) Each element has its own set of energy levels, so its electrons make their own set of drops and give off their own set of wavelengths. That is why the colors work like a fingerprint for identifying elements.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 3.16",
+  "question": "Which statement about the Bohr model is correct? A. It explains hydrogen's line spectrum, and its idea of fixed energy levels is still used today. B. It correctly predicts the line spectra of all the elements. C. It says an electron can have any amount of energy. D. It describes electrons as clouds of probability called orbitals.",
+  "answer": "A. Bohr's model matches hydrogen's lines very well, and the idea that electron energies are quantized carried over into the modern model. B is wrong: the model fails for atoms with more than one electron. C is the opposite of the model: energies are quantized, like steps on a staircase, with nothing in between. D describes the later quantum-mechanical model (Section 3.3). Bohr pictured electrons moving in fixed circular orbits.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 3.17",
+  "question": "In a microbiology lab, a fluorescent stain absorbs blue light at 494 nm and gives off green light at 521 nm, so stained bacteria glow green under the microscope. (a) Which photon has more energy, the absorbed one or the emitted one? Calculate both. (b) Where did the difference in energy go? (c) Could this stain absorb 521 nm light and give off 494 nm light? Explain.",
+  "answer": "(a) The absorbed 494 nm photon , since it has the shorter wavelength. \\( E_{494} = \\dfrac{(6.626 \\times 10^{-34}\\ \\text{J s})(3.00 \\times 10^{8}\\ \\text{m s}^{-1})}{4.94 \\times 10^{-7}\\ \\text{m}} = 4.02 \\times 10^{-19}\\ \\text{J} \\) \\( E_{521} = \\dfrac{(6.626 \\times 10^{-34}\\ \\text{J s})(3.00 \\times 10^{8}\\ \\text{m s}^{-1})}{5.21 \\times 10^{-7}\\ \\text{m}} = 3.82 \\times 10^{-19}\\ \\text{J} \\) (b) The stain molecule keeps a small part of the absorbed energy, about 2.1 &times; 10 &minus;20 J per photon (4.024 &minus; 3.815 = 0.209, in units of 10 &minus;19 J), and loses it as heat to its surroundings before it gives off the rest as light. (c) No. The emitted photon would have more energy than the absorbed one, and the molecule cannot give off more energy than it took in.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 3.18",
+  "question": "Which of these can hold the most electrons? A. one 4p orbital B. the 2s subshell C. the 3p subshell D. the n = 2 shell",
+  "answer": "D. The n = 2 shell contains the 2s subshell (2 electrons) and the 2p subshell (6 electrons), so it holds 2 + 6 = 8. A is wrong: any single orbital holds at most 2 electrons. B is wrong: an s subshell is one orbital, so it holds 2. C is wrong: a p subshell is three orbitals, so it holds 6, fewer than the 8 of the whole second shell.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 3.19",
+  "question": "(a) Complete the table below. If a subshell does not exist, say so. (b) Describe the shape of an s orbital and of a p orbital. How is a 2s orbital different from a 1s orbital? Subshells to complete (blanks marked ?) Subshell Number of orbitals Maximum electrons 3s ? ? 2p ? ? 3d ? ? 4f ? ? 2d ? ?",
+  "answer": "(a) Each orbital holds 2 electrons, so maximum electrons = 2 &times; number of orbitals. 3s: 1 orbital, 2 electrons . 2p: 3 orbitals, 6 electrons . 3d: 5 orbitals, 10 electrons . 4f: 7 orbitals, 14 electrons . 2d: does not exist. Shell n has n kinds of subshells, so shell 2 has only 2s and 2p. The first d subshell is 3d. (b) An s orbital is a sphere centered on the nucleus. A p orbital has two lobes on opposite sides of the nucleus, like a dumbbell, and the three p orbitals point along three perpendicular directions. A 2s orbital is the same shape as a 1s orbital but larger : its electrons are farther from the nucleus on average and higher in energy.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 3.20",
+  "question": "Draw orbital diagrams for (a) silicon and (b) chlorine. How many unpaired electrons does each have?",
+  "answer": "(a) Si has Z = 14, so 14 electrons. Fill 1s (2), 2s (2), 2p (6), 3s (2), and put the last 2 into two different 3p orbitals with the same spin (Hund's rule): 1s [&uarr;&darr;] &nbsp; 2s [&uarr;&darr;] &nbsp; 2p [&uarr;&darr;][&uarr;&darr;][&uarr;&darr;] &nbsp; 3s [&uarr;&darr;] &nbsp; 3p [&uarr;][&uarr;][&nbsp;&nbsp;] Silicon has 2 unpaired electrons . Check: 2 + 2 + 6 + 2 + 2 = 14. (b) Cl has Z = 17. The first 12 electrons fill exactly as in silicon; the last 5 go into 3p, one per orbital first and then pairing: 1s [&uarr;&darr;] &nbsp; 2s [&uarr;&darr;] &nbsp; 2p [&uarr;&darr;][&uarr;&darr;][&uarr;&darr;] &nbsp; 3s [&uarr;&darr;] &nbsp; 3p [&uarr;&darr;][&uarr;&darr;][&uarr;] Chlorine has 1 unpaired electron . Check: 2 + 2 + 6 + 2 + 5 = 17.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 3.21",
+  "question": "Which drawing shows the 2p subshell of a ground-state nitrogen atom correctly? A. 2p [&uarr;&darr;][&uarr;][&nbsp;&nbsp;] B. 2p [&uarr;][&uarr;][&uarr;] C. 2p [&uarr;&darr;&uarr;][&nbsp;&nbsp;][&nbsp;&nbsp;] D. 2p [&uarr;][&darr;][&uarr;]",
+  "answer": "B. Nitrogen (7 electrons) is 1s 2 2s 2 2p 3 . By Hund's rule, the three 2p electrons go one per orbital, all with the same spin. A breaks Hund's rule: two electrons are paired while an orbital of the same energy is still empty. C breaks the Pauli exclusion principle: no orbital can hold three electrons. D breaks Hund's rule: the electrons are one per orbital, but they must all have the same spin before any pairing.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 3.22",
+  "question": "Each orbital diagram below is for a ground-state atom. Name the rule that is broken (Aufbau principle, Pauli exclusion principle, or Hund's rule), or write \"correct.\" (a) beryllium: 1s [&uarr;&darr;] &nbsp; 2s [&nbsp;&nbsp;] &nbsp; 2p [&uarr;][&uarr;][&nbsp;&nbsp;] (b) helium: 1s [&uarr;&uarr;] (c) oxygen: 1s [&uarr;&darr;] &nbsp; 2s [&uarr;&darr;] &nbsp; 2p [&uarr;&darr;][&uarr;&darr;][&nbsp;&nbsp;] (d) magnesium: 1s [&uarr;&darr;] &nbsp; 2s [&uarr;&darr;] &nbsp; 2p [&uarr;&darr;][&uarr;&darr;][&uarr;&darr;] &nbsp; 3s [&uarr;&darr;]",
+  "answer": "(a) Aufbau principle. The 2s orbital is lower in energy than 2p and must fill first. Correct: 1s [&uarr;&darr;] 2s [&uarr;&darr;]. (b) Pauli exclusion principle. Two electrons in one orbital must have opposite spins: 1s [&uarr;&darr;]. (c) Hund's rule. Oxygen's four 2p electrons should fill all three orbitals before pairing: 2p [&uarr;&darr;][&uarr;][&uarr;]. (d) Correct. 2 + 2 + 6 + 2 = 12 electrons, the number for magnesium, all paired, filled in order.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 3.23",
+  "question": "How many unpaired electrons does each atom have in its ground state? (a) O (b) Ne (c) Al (d) P (e) K (f) Ca",
+  "answer": "Only the last, partly filled subshell can hold unpaired electrons, so draw just that subshell. (a) O, 2p 4 : [&uarr;&darr;][&uarr;][&uarr;], 2 . (b) Ne, 2p 6 : [&uarr;&darr;][&uarr;&darr;][&uarr;&darr;], 0 . (c) Al, 3p 1 : [&uarr;][&nbsp;&nbsp;][&nbsp;&nbsp;], 1 . (d) P, 3p 3 : [&uarr;][&uarr;][&uarr;], 3 . (e) K, 4s 1 : [&uarr;], 1 . (f) Ca, 4s 2 : [&uarr;&darr;], 0 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 3.24",
+  "question": "(a) Put these subshells in the order they fill: 4p, 3d, 4s, 3p, 5s, 2p. (b) Into which subshell does the 19th electron of an atom go? (c) Into which subshell does the 21st go?",
+  "answer": "(a) Follow the diagonal method: 2p, 3p, 4s, 3d, 4p, 5s . Notice that 4s comes before 3d. (b) Count up: 1s 2 2s 2 2p 6 3s 2 3p 6 holds 18 electrons, so the 19th goes into 4s (potassium). (c) 4s holds electrons 19 and 20, so the 21st goes into 3d (scandium, the first d-block element).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 3.25",
+  "question": "In an X-ray tube, a fast electron knocks an electron out of the innermost shell (the K shell, n = 1) of a tungsten atom in the target. An electron from a higher shell drops into the empty spot and gives off a photon. One of tungsten's characteristic X-ray photons has an energy of 9.50 &times; 10 &minus;15 J. (a) Which subshell makes up the K shell, and how many electrons can it hold? (b) Find the wavelength of this photon in meters and in nanometers. (c) In hydrogen, a drop to n = 1 gives an ultraviolet photon, not an X-ray. In one sentence, suggest why tungsten's drop gives so much more energy.",
+  "answer": "(a) Shell 1 has only the 1s subshell, one orbital, which holds 2 electrons . (b) Rearrange \\( E = hc/\\lambda \\) to \\( \\lambda = hc/E \\): \\( \\lambda = \\dfrac{(6.626 \\times 10^{-34}\\ \\text{J s})(3.00 \\times 10^{8}\\ \\text{m s}^{-1})}{9.50 \\times 10^{-15}\\ \\text{J}} = 2.09 \\times 10^{-11}\\ \\text{m} \\) \\( 2.09 \\times 10^{-11}\\ \\text{m} \\times \\dfrac{1\\ \\text{nm}}{10^{-9}\\ \\text{m}} = 0.0209\\ \\text{nm} \\), well inside the X-ray region. (c) Tungsten has 74 protons instead of 1, so its inner electrons are pulled in far more tightly and the energy gaps between its inner shells are enormous compared with hydrogen's.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 3.26",
+  "question": "Write the full electron configuration of (a) magnesium, (b) silicon, (c) argon, and (d) potassium.",
+  "answer": "(a) Mg, 12 electrons: 1s 2 2s 2 2p 6 3s 2 (2 + 2 + 6 + 2 = 12) (b) Si, 14 electrons: 1s 2 2s 2 2p 6 3s 2 3p 2 (2 + 2 + 6 + 2 + 2 = 14) (c) Ar, 18 electrons: 1s 2 2s 2 2p 6 3s 2 3p 6 (2 + 2 + 6 + 2 + 6 = 18) (d) K, 19 electrons: 1s 2 2s 2 2p 6 3s 2 3p 6 4s 1 (18 + 1 = 19). The 19th electron goes into 4s, not 3d.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 3.27",
+  "question": "Which is the correct ground-state electron configuration of selenium (Se, Z = 34)? A. 1s 2 2s 2 2p 6 3s 2 3p 6 4s 2 4d 10 4p 4 B. 1s 2 2s 2 2p 6 3s 2 3p 6 4s 2 3d 10 4p 4 C. 1s 2 2s 2 2p 6 3s 2 3p 6 4s 2 4p 4 D. 1s 2 2s 2 2p 6 3s 2 3p 6 3d 10 4s 2 4p 6",
+  "answer": "B. Reading across row 4, you pass the s block (4s 2 ), the whole d block (3d 10 ), and then four columns of the p block (4p 4 ). Check: 2 + 2 + 6 + 2 + 6 + 2 + 10 + 4 = 34. A labels the d subshell 4d. The d block in row 4 is 3d (row number minus 1); 4d does not fill until row 5. C leaves out the 3d electrons entirely. Its superscripts add to only 24, not 34. D adds to 36 electrons: that is krypton, not selenium. (Listing 3d before 4s is not the problem; the electron count is.)",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 3.28",
+  "question": "Write the noble-gas (shorthand) configuration of (a) sulfur, (b) rubidium, (c) barium, (d) zinc, and (e) krypton.",
+  "answer": "Use the noble gas at the end of the row above the element. (a) S, row 3: [Ne] 3s 2 3p 4 . Check: 10 + 6 = 16. (b) Rb, row 5: [Kr] 5s 1 . Check: 36 + 1 = 37. (c) Ba, row 6: [Xe] 6s 2 . Check: 54 + 2 = 56. (d) Zn, row 4: [Ar] 4s 2 3d 10 . Check: 18 + 12 = 30. Zinc is the last column of the d block, so 3d is full. (e) Kr, row 4: [Ar] 4s 2 3d 10 4p 6 . Check: 18 + 18 = 36. Krypton is the noble gas at the end of row 4, so you use the one above it, argon, not [Kr] itself.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 3.29",
+  "question": "Identify the element with each ground-state configuration. (a) 1s 2 2s 2 2p 5 (b) [Ne] 3s 2 (c) [Ar] 4s 2 3d 10 4p 3 (d) [Xe] 6s 1",
+  "answer": "Add the superscripts (and the noble gas's electrons) to get Z for a neutral atom. (a) 2 + 2 + 5 = 9: fluorine . (b) 10 + 2 = 12: magnesium . (c) 18 + 2 + 10 + 3 = 33: arsenic (row 4, group 15). (d) 54 + 1 = 55: cesium (row 6, group 1).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 3.30",
+  "question": "Which element's ground-state configuration ends in 4p 2 ? A. silicon B. germanium C. tin D. calcium",
+  "answer": "B. A configuration ending in 4p 2 belongs to row 4, second column of the p block: group 14. That is germanium, Ge ([Ar] 4s 2 3d 10 4p 2 , 32 electrons). A is in group 14 but row 3, so silicon ends in 3p 2 . C is in group 14 but row 5, so tin ends in 5p 2 . D is in row 4 but in the s block (group 2), so calcium ends in 4s 2 .",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 3.31",
+  "question": "A basic metabolic panel and related blood tests report the electrolyte ions in the table below. Complete the table: give the number of protons and electrons, the full electron configuration, and the noble gas each ion is isoelectronic with. Electrolyte ions to complete (blanks marked ?) Ion Protons Electrons Full configuration Isoelectronic with Na + ? ? ? ? K + ? ? ? ? Mg 2+ ? ? ? ? Ca 2+ ? ? ? ? Cl &minus; ? ? ? ?",
+  "answer": "Protons = Z. Electrons = Z minus the positive charge, or Z plus the negative charge (Section 2.4). Na + : 11 protons, 10 electrons, 1s 2 2s 2 2p 6 , isoelectronic with neon . K + : 19 protons, 18 electrons, 1s 2 2s 2 2p 6 3s 2 3p 6 , isoelectronic with argon . Mg 2+ : 12 protons, 10 electrons, 1s 2 2s 2 2p 6 , isoelectronic with neon . Ca 2+ : 20 protons, 18 electrons, 1s 2 2s 2 2p 6 3s 2 3p 6 , isoelectronic with argon . Cl &minus; : 17 protons, 18 electrons, 1s 2 2s 2 2p 6 3s 2 3p 6 , isoelectronic with argon . Three of the five ions have exactly the same configuration, yet they are different elements, because they have different numbers of protons.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 3.32",
+  "question": "Which ion is not isoelectronic with argon? A. K + B. S 2&minus; C. Ca 2+ D. Al 3+",
+  "answer": "D. Al 3+ has 13 &minus; 3 = 10 electrons, 1s 2 2s 2 2p 6 : it is isoelectronic with neon , not argon (18 electrons). A: K + has 19 &minus; 1 = 18 electrons, like argon. B: S 2&minus; has 16 + 2 = 18 electrons, like argon. C: Ca 2+ has 20 &minus; 2 = 18 electrons, like argon.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 3.33",
+  "question": "Each configuration below has a mistake. Find it and write the correct configuration. (a) K: 1s 2 2s 2 2p 6 3s 2 3p 6 3d 1 (b) Na: [Ar] 3s 1 (c) Mg 2+ : 1s 2 2s 2 2p 6 3s 2 3p 2 (d) Cl: 1s 2 2s 2 2p 6 3s 2 3p 6",
+  "answer": "(a) The 19th electron goes into 4s, which fills before 3d: 1s 2 2s 2 2p 6 3s 2 3p 6 4s 1 . (b) The bracket must be the noble gas from the row above . Argon (18 electrons) plus one more would be 19, potassium. Sodium is [Ne] 3s 1 (10 + 1 = 11). (c) A 2+ ion has lost two electrons, but this configuration added two (14 electrons). Mg has 12 electrons, and Mg 2+ has 10: 1s 2 2s 2 2p 6 . (d) The superscripts add to 18, one too many for chlorine (17). This is the configuration of Cl &minus; (or argon). Chlorine is 1s 2 2s 2 2p 6 3s 2 3p 5 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 3.34",
+  "question": "Zinc is part of many enzymes in the body. For a zinc atom, how many electrons are in (a) s subshells, (b) d subshells, (c) the n = 3 shell, and (d) the n = 4 shell?",
+  "answer": "Zn (Z = 30): 1s 2 2s 2 2p 6 3s 2 3p 6 4s 2 3d 10 . Check: 2 + 2 + 6 + 2 + 6 + 2 + 10 = 30. (a) s subshells: 1s 2 + 2s 2 + 3s 2 + 4s 2 = 8 . (b) d subshells: only 3d 10 , so 10 . (c) n = 3: 3s 2 + 3p 6 + 3d 10 = 18 , the full capacity of shell 3. (d) n = 4: only 4s 2 , so 2 . The 3d electrons are written after 4s because of the filling order, but they belong to shell 3.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 3.35",
+  "question": "How many valence electrons does each atom have, and so how many dots go in its electron-dot symbol? (a) Ba (b) Si (c) Se (d) He (e) Al (f) Br",
+  "answer": "For groups 1 and 2, use the group number; for groups 13 to 18, subtract 10 (helium: 2). The number of dots equals the number of valence electrons. (a) Ba, group 2: 2 . (b) Si, group 14: 14 &minus; 10 = 4 . (c) Se, group 16: 6 (4s 2 4p 4 ; the 3d electrons are not in the highest shell). (d) He: 2 . Helium is in group 18 but has only the 1s subshell, which is full with 2. (e) Al, group 13: 3 . (f) Br, group 17: 7 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 3.36",
+  "question": "Sodium and potassium both react with water in the same way, and both form 1+ ions. Why do they have such similar chemistry? A. They have the same number of protons. B. They have the same number of valence electrons, in the same kind of subshell. C. They have the same number of shells. D. They have nearly the same atomic mass.",
+  "answer": "B. Both are in group 1 and end in ns 1 (Na: [Ne] 3s 1 ; K: [Ar] 4s 1 ). Valence electrons decide how an element reacts, and each loses its single valence electron to form a 1+ ion. A is wrong: Na has 11 protons and K has 19. Different proton counts mean different elements. C is wrong: sodium's electrons are in 3 shells and potassium's are in 4. D is wrong: their average atomic masses are about 22.99 and 39.10 amu, not close. Mass does not decide chemistry.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 3.37",
+  "question": "Use valence electrons and the octet rule to predict the ion formed by each element. Name the ion and the noble gas whose configuration it has. (a) Li (b) Ba (c) Al (d) N (e) S (f) I",
+  "answer": "(a) Li, 1 valence electron: loses 1, Li + , lithium ion , helium's configuration (lithium aims for two electrons, like helium). (b) Ba, 2 valence electrons: loses 2, Ba 2+ , barium ion , xenon's configuration. (c) Al, 3 valence electrons: loses 3, Al 3+ , aluminum ion , neon's configuration. (d) N, 5 valence electrons: gains 3, N 3&minus; , nitride , neon's configuration. (e) S, 6 valence electrons: gains 2, S 2&minus; , sulfide , argon's configuration. (f) I, 7 valence electrons: gains 1, I &minus; , iodide , xenon's configuration. Metals lose electrons and keep their names (\"barium ion\"); nonmetals gain electrons and take the -ide ending.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 3.38",
+  "question": "A main-group element X forms the ion X 2&minus; , as the octet rule predicts. In which group is X? A. group 2 B. group 14 C. group 16 D. group 18",
+  "answer": "C. A 2&minus; ion has gained 2 electrons. An atom gains 2 to reach an octet when it starts with 6 valence electrons, and group 16 elements (O, S, Se) have 6. A is wrong: group 2 atoms have 2 valence electrons and lose them, forming 2+ ions, not 2&minus;. B is wrong: group 14 atoms have 4 valence electrons, halfway to an octet, and usually share electrons instead of forming ions. D is wrong: group 18 atoms already have a full octet and do not form ions.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 3.39",
+  "question": "Explain each fact in one sentence. (a) Neon and argon almost never react. (b) Magnesium forms Mg 2+ rather than gaining six electrons. (c) Carbon usually shares electrons instead of forming an ion. (d) Na + has the same electron configuration as neon, but it is not neon.",
+  "answer": "(a) Their valence shells are already full (ns 2 np 6 , an octet), so they have nothing to gain by gaining, losing, or sharing electrons. (b) Magnesium is only 2 electrons past neon, so losing 2 reaches an octet far more easily than gaining 6 to reach argon. (c) With 4 valence electrons, carbon is halfway: it would have to lose 4 or gain 4 to reach an octet, so it shares electrons instead (Chapter 6). (d) Na + still has 11 protons, and the number of protons decides the element; neon has 10.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 3.40",
+  "question": "Some lab reports and IV (intravenous) fluid labels give electrolytes in milliequivalents (mEq), a unit that counts charge: 1 mmol of an ion with a 2+ charge is 2 mEq, and 1 mmol of a 1+ ion is 1 mEq. A blood test reports K + 4.1 mmol/L, Ca 2+ 2.35 mmol/L, and Mg 2+ 0.85 mmol/L. (a) Convert each to mEq/L. (b) Where does each ion's charge come from?",
+  "answer": "(a) Multiply by the size of the charge. The 1 or 2 is an exact counting number, so it does not limit significant figures. K + : \\( 4.1\\ \\text{mmol/L} \\times \\dfrac{1\\ \\text{mEq}}{1\\ \\text{mmol}} = 4.1\\ \\text{mEq/L} \\) Ca 2+ : \\( 2.35\\ \\text{mmol/L} \\times \\dfrac{2\\ \\text{mEq}}{1\\ \\text{mmol}} = 4.70\\ \\text{mEq/L} \\) Mg 2+ : \\( 0.85\\ \\text{mmol/L} \\times \\dfrac{2\\ \\text{mEq}}{1\\ \\text{mmol}} = 1.7\\ \\text{mEq/L} \\) (b) From the number of valence electrons each atom gives up to reach an octet: potassium (group 1) loses 1, and calcium and magnesium (group 2) each lose 2.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 3.41",
+  "question": "A student says that chlorine has 17 valence electrons, and that bromine, [Ar] 4s 2 3d 10 4p 5 , has 17 too (2 + 10 + 5). Correct both claims.",
+  "answer": "Chlorine has 17 electrons in total , but only those in its highest shell are valence electrons: 3s 2 3p 5 , so 7 . For bromine, the highest shell is n = 4, so the valence electrons are 4s 2 4p 5 , also 7 . The 3d electrons belong to shell 3 and are core electrons. Both are in group 17 (17 &minus; 10 = 7), which is why they form the same kind of ion, Cl &minus; and Br &minus; .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 3.42",
+  "question": "Which pair of ions are both isoelectronic with krypton? A. Rb + and Br &minus; B. K + and Cl &minus; C. Sr 2+ and Na + D. Se 2&minus; and Ca 2+",
+  "answer": "A. Krypton has 36 electrons. Rb + : 37 &minus; 1 = 36. Br &minus; : 35 + 1 = 36. Both match. B: K + (18) and Cl &minus; (18) are both isoelectronic with argon. C: Sr 2+ (38 &minus; 2 = 36) matches krypton, but Na + (10) matches neon. D: Se 2&minus; (34 + 2 = 36) matches krypton, but Ca 2+ (18) matches argon.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 3.43",
+  "question": "Rank Cl, Mg, Na, and K in order of increasing atomic radius, and explain the order.",
+  "answer": "Cl &lt; Mg &lt; Na &lt; K. Cl, Mg, and Na are all in period 3, and radius decreases left to right across a period (more protons pulling on the same shell), so Cl &lt; Mg &lt; Na. K is directly below Na in group 1, and it has one more shell, so it is the largest.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 3.44",
+  "question": "Which atom has the highest first ionization energy? A. Rb B. Sr C. Ca D. Mg",
+  "answer": "D. Mg, Ca, and Sr are in group 2, and ionization energy decreases going down a group, so Mg (highest in the group) holds its valence electrons most tightly. Its valence electrons are in shell 3, closest to the nucleus of the four. A is wrong: Rb is in group 1 and period 5, the lowest and farthest left of the four, so it has the lowest ionization energy. B is wrong: Sr is below Ca and Mg in group 2, with valence electrons in shell 5, farther out and easier to remove. C is wrong: Ca is below Mg, with valence electrons in shell 4.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 3.45",
+  "question": "The table below gives the first ionization energies of the group 1 metals, in kilojoules per mole (kJ mol &minus;1 ), the energy to remove one electron from each atom in a fixed, very large number of atoms (the mole, Chapter 5). First ionization energies of the group 1 elements Element Period First ionization energy (kJ mol &minus;1 ) Li 2 520 Na 3 496 K 4 419 Rb 5 403 Cs 6 376 (a) Describe the trend. (b) Explain it in terms of shells and shielding. (c) Which of these metals loses an electron most easily? (d) Argon, the element just before potassium, has a first ionization energy of 1521 kJ mol &minus;1 , more than three and a half times potassium's. Explain the huge difference.",
+  "answer": "(a) Ionization energy decreases going down the group, from 520 kJ mol &minus;1 for Li to 376 kJ mol &minus;1 for Cs. (b) Each step down adds a shell, so the single valence electron is farther from the nucleus, and more core electrons shield it from the nucleus's pull. A farther, better-shielded electron is easier to remove. (c) Cesium , with the lowest ionization energy. (d) Argon's outermost electrons are in a full 3p subshell in shell 3, held by 18 protons across a well-filled period (high effective nuclear charge). Potassium's one valence electron is alone in a new shell (4s), farther out and shielded by 18 core electrons, so it comes off easily. Removing it leaves potassium with argon's stable configuration, while removing an electron from argon breaks up a full octet. (1521 &divide; 419 = 3.63.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 3.46",
+  "question": "Which size comparison is correct? A. Na + is smaller than a Na atom. B. Cl &minus; is smaller than a Cl atom. C. Ca 2+ is larger than a Ca atom. D. O 2&minus; is smaller than an O atom.",
+  "answer": "A. Na + has lost its only 3s electron, so its outermost electrons are in shell 2, and 11 protons pull on just 10 electrons. Cations are smaller than their atoms. B is backward: Cl &minus; has an extra electron, so the electrons repel each other more and the cloud spreads out. Anions are larger than their atoms. C is backward: Ca 2+ has lost its whole 4s shell, so it is smaller than Ca. D is backward: O 2&minus; has gained two electrons and is larger than O.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 3.47",
+  "question": "Which element has the most metallic character? A. Ba B. Mg C. Al D. S",
+  "answer": "A. Metallic character increases toward the lower left of the table, where ionization energy is lowest. Barium is in group 2 and period 6, below magnesium, so it loses its valence electrons most easily. B is a metal, but it is above Ba in group 2, so it holds its valence electrons more tightly. C is a metal to the right of Mg in period 3, so it is less metallic than Mg, and less than Ba. D is a nonmetal at the right side of period 3.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 3.48",
+  "question": "For each pair, which atom has the larger atomic radius, and which has the higher first ionization energy? (a) F or S (b) Ca or Se (c) Li or Cs",
+  "answer": "(a) S is larger; F has the higher ionization energy. S is in period 3 and group 16; F is in period 2 and group 17. S is both farther down and farther left, so both trends point the same way. (b) Ca is larger; Se has the higher ionization energy. Both are in period 4, and Se is farther right, so it has more protons pulling on the same shell. (c) Cs is larger; Li has the higher ionization energy. Both are in group 1, and Cs is four shells farther down. In every pair, the larger atom has the lower ionization energy: the two trends run in opposite directions.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 3.49",
+  "question": "Potassium channels in nerve cell membranes sort ions partly by size. (a) Na + and K + both carry a 1+ charge. Which ion is larger, and why? (b) Which is larger, a K + ion or a K atom? Explain.",
+  "answer": "(a) K + . Na + is 1s 2 2s 2 2p 6 , with its outermost electrons in shell 2; K + is 1s 2 2s 2 2p 6 3s 2 3p 6 , with its outermost electrons in shell 3. One more shell makes K + larger, just as K is larger than Na. (b) The K atom. It has a 4s electron in shell 4. K + has lost that electron, and with it the whole fourth shell.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 3.50",
+  "question": "In nuclear medicine, a radioactive isotope of strontium, strontium-89, is taken up by bone in much the same way as calcium. (a) Why does strontium behave chemically like calcium? (b) Which atom is larger, Sr or Ca? (c) Which has the lower first ionization energy? (d) What ion does strontium form, and which noble gas is it isoelectronic with? (e) How many protons and neutrons are in a strontium-89 nucleus?",
+  "answer": "(a) Both are in group 2 with two valence electrons in an s subshell (Ca: [Ar] 4s 2 ; Sr: [Kr] 5s 2 ), so both form 2+ ions and react in similar ways. (b) Sr , which is below Ca in group 2 and has one more shell. (c) Sr . Its valence electrons are farther from the nucleus and better shielded, so they are easier to remove. (d) Sr 2+ , with 38 &minus; 2 = 36 electrons, isoelectronic with krypton . (e) Z = 38, so 38 protons and 89 &minus; 38 = 51 neutrons (Section 2.5). Being radioactive is a property of the nucleus; its chemistry comes from its electrons, which are the same as those of any strontium atom.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 3.51",
+  "question": "Calcium ions trigger muscle contraction and make up much of the mineral in bone. Consider the ion \\( ^{40}_{20}\\text{Ca}^{2+} \\). (a) How many protons, neutrons, and electrons does it have? (b) Write its full electron configuration, and name the noble gas it is isoelectronic with. (c) How many valence electrons does a neutral calcium atom have, and how does that explain the 2+ charge? (d) Is Ca 2+ larger or smaller than a Ca atom?",
+  "answer": "(a) 20 protons (Z = 20), 40 &minus; 20 = 20 neutrons , and 20 &minus; 2 = 18 electrons . (b) 1s 2 2s 2 2p 6 3s 2 3p 6 (18 electrons), isoelectronic with argon . (c) Calcium, [Ar] 4s 2 , has 2 valence electrons. Losing both leaves the full shell underneath, an octet, so it forms Ca 2+ . (d) Smaller : losing the 4s electrons removes the whole fourth shell.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 3.52",
+  "question": "Natural potassium is mostly potassium-39, with a little potassium-41 and a tiny amount (about 0.012%) of potassium-40, which is radioactive. Because potassium is in every cell, potassium-40 is one of the natural sources of radiation inside the human body. (a) Give the number of protons, neutrons, and electrons in a neutral atom of potassium-39 and of potassium-40. (b) Do the two atoms have the same electron configuration? Write it. (c) Does the body's chemistry treat K + made from potassium-40 differently from K + made from potassium-39? Explain.",
+  "answer": "(a) Both have Z = 19: 19 protons and 19 electrons . Potassium-39 has 39 &minus; 19 = 20 neutrons ; potassium-40 has 40 &minus; 19 = 21 neutrons . (b) Yes. Both have 19 electrons: 1s 2 2s 2 2p 6 3s 2 3p 6 4s 1 , or [Ar] 4s 1 . (c) No. Chemistry depends on electrons, and both isotopes lose the same single 4s electron to form K + with argon's configuration. The extra neutron changes the mass and makes the nucleus unstable, but it does not change how the ion behaves in the body.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 3.53",
+  "question": "A particle has 16 protons, 18 neutrons, and 18 electrons. (a) Identify it and write its symbol with mass number, atomic number, and charge. (b) Write its noble-gas configuration. Which noble gas is it isoelectronic with? (c) Is it larger or smaller than the neutral atom of the same isotope? (d) Explain, using valence electrons, why the neutral atom forms this ion.",
+  "answer": "(a) 16 protons means sulfur. The mass number is 16 + 18 = 34, and 2 more electrons than protons gives a 2&minus; charge: \\( ^{34}_{16}\\text{S}^{2-} \\), a sulfide ion made from sulfur-34. (b) [Ne] 3s 2 3p 6 (10 + 8 = 18 electrons), the same as [Ar]: isoelectronic with argon . (c) Larger. It is an anion: the two extra electrons repel the others, and the cloud spreads out. (d) A sulfur atom ([Ne] 3s 2 3p 4 ) has 6 valence electrons, two short of an octet, so it gains 2.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 3.54",
+  "question": "Mateo's pulse oximeter (chapter opener) shines red light at 660 nm and infrared light at 940 nm through his fingertip. Section 3.1 found that a 660 nm photon carries 3.01 &times; 10 &minus;19 J and a 940 nm photon carries 2.11 &times; 10 &minus;19 J. Suppose that in one flash the red light source gives off 1.5 &times; 10 &minus;6 J of light energy. (a) How many photons is that? (b) If the infrared source gives off the same amount of energy in one flash, does it give off more photons or fewer? How many? (c) Which of the two wavelengths does oxyhemoglobin absorb more strongly?",
+  "answer": "(a) Section 3.1 found the energy of one 660 nm photon, 3.01 &times; 10 &minus;19 J. Divide the total energy by the energy of one photon: \\( \\dfrac{1.5 \\times 10^{-6}\\ \\text{J}}{3.01 \\times 10^{-19}\\ \\text{J/photon}} = 5.0 \\times 10^{12}\\ \\text{photons} \\) (Two significant figures, set by 1.5 &times; 10 &minus;6 J.) (b) More. Each infrared photon carries less energy (2.11 &times; 10 &minus;19 J, Section 3.1), so it takes more of them to carry the same total: \\( \\dfrac{1.5 \\times 10^{-6}\\ \\text{J}}{2.11 \\times 10^{-19}\\ \\text{J/photon}} = 7.1 \\times 10^{12}\\ \\text{photons} \\) (c) The 940 nm infrared light (Section 3.1). Deoxyhemoglobin absorbs more of the red; comparing the two lets the device estimate SpO 2 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 3.55",
+  "question": "Five elements on a typical electrolyte panel are Na, K, Mg, Ca, and Cl. (a) Of these five atoms, which is largest and which is smallest? (b) Which atom has the lowest first ionization energy? (c) Which two of the ions they form are isoelectronic with neon? (d) Which element forms an anion, and why is it the only one?",
+  "answer": "(a) Largest: K. Smallest: Cl. K and Ca are in period 4 (four shells), and K is farther left, so K is the largest. Na, Mg, and Cl are in period 3, and Cl is the farthest right, so it is the smallest. (b) K . It is the lowest and farthest left of the five, so its valence electron is farthest from the nucleus and easiest to remove. (c) Na + and Mg 2+ , with 10 electrons each. (K + , Ca 2+ , and Cl &minus; have 18, like argon.) (d) Chlorine , forming Cl &minus; . It is the only nonmetal of the five: with 7 valence electrons it gains one to reach an octet, while the four metals have 1 or 2 valence electrons and lose them.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 3.56",
+  "question": "Which particle has 12 protons, 12 neutrons, and 10 electrons? A. \\( ^{24}_{12}\\text{Mg} \\) B. \\( ^{23}_{11}\\text{Na}^{+} \\) C. \\( ^{24}_{12}\\text{Mg}^{2+} \\) D. \\( ^{22}_{10}\\text{Ne} \\)",
+  "answer": "C. Z = 12 gives 12 protons (magnesium); 24 &minus; 12 = 12 neutrons; a 2+ charge means 12 &minus; 2 = 10 electrons. A is the neutral atom: 12 protons, 12 neutrons, but 12 electrons. B has 10 electrons and 23 &minus; 11 = 12 neutrons, but only 11 protons. D has 10 electrons and 22 &minus; 10 = 12 neutrons, but only 10 protons. All four particles have 12 neutrons, and B, C, and D are isoelectronic (10 electrons), but only the proton count identifies the element.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 3.57",
+  "question": "A dental assistant turns a curing light to a higher power setting. The light gets brighter but stays the same blue. Which property of the light wave increased? A. Amplitude B. Wavelength C. Frequency D. Energy of each photon",
+  "answer": "A. Amplitude is the height of the wave, which we see as brightness (intensity): turning up the power is like turning up a dimmer switch. B: a change in wavelength would change the color. C: frequency is tied to wavelength by \\( c = \\lambda\\nu \\), so it also would change the color. D: each photon's energy depends only on its frequency (\\( E = h\\nu \\)); a brighter beam has more photons, not more energetic ones.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 3.58",
+  "question": "A sodium streetlamp shows a bright yellow line at 589 nm. This line comes from electrons dropping back to sodium's ground state. (a) What is the energy gap, in joules, between the two levels that produce this line? (b) If white light passed through cool sodium vapor, would you expect a dark line at 589 nm? Explain.",
+  "answer": "(a) The photon carries exactly the energy of the gap. Convert 589 nm to 5.89 &times; 10 &minus;7 m: \\( \\Delta E = \\dfrac{hc}{\\lambda} = \\dfrac{(6.626 \\times 10^{-34}\\ \\text{J s})(3.00 \\times 10^{8}\\ \\text{m s}^{-1})}{5.89 \\times 10^{-7}\\ \\text{m}} = 3.37 \\times 10^{-19}\\ \\text{J} \\) (b) Yes. Cool sodium atoms sit in the ground state, and this line's gap starts at the ground state, so the atoms can absorb a 589 nm photon and jump up across the same gap. Sodium's absorption spectrum has a dark line at 589 nm. (Not every emission line shows up this way: a cool gas absorbs mainly the lines that start from the ground state.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 3.59",
+  "question": "An electron in a hydrogen atom is excited to n = 4. On its way back to n = 1 it may drop in one step or in several. (a) List every possible single drop that could happen on the way down. (b) How many different spectral lines could these atoms produce? (c) Which drop gives the shortest-wavelength line?",
+  "answer": "(a) From 4: 4 &rarr; 3, 4 &rarr; 2, 4 &rarr; 1. From 3: 3 &rarr; 2, 3 &rarr; 1. From 2: 2 &rarr; 1. (b) Six different lines, one for each gap. This is the toll-road picture: like paying a large toll with exact change, the electron can come down all at once or in smaller steps, and each step matches one gap exactly. (c) 4 &rarr; 1 , the biggest drop: the most energetic photon has the shortest wavelength.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 3.60",
+  "question": "Which electron configuration is impossible? A. 1s 2 2s 2 2p 6 3s 2 3p 6 4s 1 B. 1s 2 2s 2 2p 6 3s 3 C. 1s 2 2s 2 2p 5 3s 1 D. 1s 2 2s 2 2p 6 3s 2 3p 4",
+  "answer": "B. An s subshell holds at most 2 electrons, so 3s 3 cannot exist. Work it out yourself before reading the choices, then check every subshell against its capacity. A is the ground state of potassium (19 electrons). C is an excited state of neon (10 electrons): one 2p electron has moved up to 3s. Unusual, but possible. D is the ground state of sulfur (16 electrons).",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 3.61",
+  "question": "Which configuration describes a magnesium atom in an excited state? A. [Ne] 3s 2 B. [Ne] 3s 1 3p 1 C. [Ne] 3s 3 D. [Ne] 3s 2 3p 1",
+  "answer": "B. It still has 10 + 2 = 12 electrons (magnesium), but one 3s electron has moved up to 3p. A is magnesium's ground state. C is impossible (an s subshell holds only 2). D has 13 electrons: that is the ground state of aluminum, not magnesium.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 61,
+  "title": "Problem 3.62",
+  "question": "Give the number of electrons on each Bohr ring for (a) an oxygen atom, (b) the oxide ion O 2&minus; , (c) an aluminum atom, (d) the Al 3+ ion, and (e) a calcium atom. Which of these have the same rings as neon?",
+  "answer": "Fill 2, then 8, then 8, then the rest. (a) O, 8 electrons: 2, 6 . (b) O 2&minus; , 10 electrons: 2, 8 . (c) Al, 13 electrons: 2, 8, 3 . (d) Al 3+ , 10 electrons: 2, 8 . (e) Ca, 20 electrons: 2, 8, 8, 2 . O 2&minus; and Al 3+ have neon's rings (2, 8). One gained electrons to fill its outer ring; the other lost its whole outer ring.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 62,
+  "title": "Problem 3.63",
+  "question": "Which description of the electron-dot (Lewis) symbol of the phosphide ion, P 3&minus; , is correct? A. P with 5 dots and no brackets B. P with 8 dots, in brackets, with a 3&minus; charge outside C. P in empty brackets with a 3&minus; charge outside D. P with 3 dots, in brackets, with a 3&minus; charge outside",
+  "answer": "B. Phosphorus (group 15) has 5 valence electrons; the 3&minus; ion gained 3 more, for 8 dots (an octet). Ions are written in brackets with the charge outside. A is the neutral phosphorus atom. C is how a cation is drawn (its valence electrons are gone); an anion keeps and adds dots. D shows only the 3 gained electrons and forgets the original 5.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 63,
+  "title": "Problem 3.64",
+  "question": "Na + , Mg 2+ , Al 3+ , and F &minus; all have 10 electrons. Which list puts them in order from smallest to largest? A. Al 3+ &lt; Mg 2+ &lt; Na + &lt; F &minus; B. F &minus; &lt; Na + &lt; Mg 2+ &lt; Al 3+ C. Na + &lt; Mg 2+ &lt; Al 3+ &lt; F &minus; D. They are all the same size, because they have the same number of electrons.",
+  "answer": "A. The same 10 electrons are pulled by 13, 12, 11, and 9 protons. The more protons, the tighter the pull and the smaller the ion: a 3+ ion \"hoards\" its electrons most, and the anion, with more electrons than protons, spreads out most. B is the exact reverse: it treats more positive charge as bigger. C orders the cations backward; a larger positive charge makes a cation smaller, not larger. D ignores the nucleus. Equal electron counts do not mean equal sizes when the proton counts differ.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 64,
+  "title": "Problem 3.65",
+  "question": "Which atom has the lowest first ionization energy? A. Cs B. Ca C. Se D. F",
+  "answer": "A. Look for the extreme: cesium is the farthest down and to the left (group 1, period 6). Its one valence electron is far from the nucleus, and giving it away reaches an octet, so it comes off easily. B, calcium, is higher up (period 4) and one group farther right, so it is smaller and holds its electrons more tightly. C, selenium, is a nonmetal on the right side; it tends to gain electrons, not lose them. D, fluorine, is near the upper right corner, with one of the highest ionization energies of all.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 65,
+  "title": "Problem 3.66",
+  "question": "Which is the correct ground-state electron configuration of chromium (Cr, Z = 24)? A. [Ar] 4s 2 3d 4 B. [Ar] 4s 1 3d 5 C. [Ar] 3d 6 D. [Ar] 4s 2 4d 4",
+  "answer": "B. Chromium is one of the two famous exceptions. The filling order would end in 4s 2 3d 4 , but a half-filled d subshell is extra stable, so one 4s electron moves to 3d, giving every one of the six outer electrons its own orbital. Check: 18 + 1 + 5 = 24. A follows the filling order but misses the exception. A configuration that ends in s 2 d 4 is the signal to move one s electron. C moves both 4s electrons. Only one moves; 3d 6 is neither half-filled nor filled, so it gains no extra stability. D uses 4d in row 4. The d block is n &minus; 1, so row 4 fills 3d; it also misses the exception.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch03/3.8_practice_problems.html",
+  "idx": 66,
+  "title": "Problem 3.67",
+  "question": "Copper wire carries the current in most electrical wiring. (a) Write the full electron configuration of copper (Cu, Z = 29). (b) Draw the orbital diagram for its 4s and 3d subshells. (c) In one sentence, explain why copper does not follow the normal filling order. (d) How many unpaired electrons does a copper atom have?",
+  "answer": "(a) 1s 2 2s 2 2p 6 3s 2 3p 6 4s 1 3d 10 (or [Ar] 4s 1 3d 10 ). Check: 2 + 2 + 6 + 2 + 6 + 1 + 10 = 29. (b) 4s [&uarr;] &nbsp; 3d [&uarr;&darr;][&uarr;&darr;][&uarr;&darr;][&uarr;&darr;][&uarr;&darr;] (c) A completely filled d subshell is extra stable, and 4s and 3d are close in energy, so one 4s electron moves to fill 3d instead of leaving it at 3d 9 . (d) 1 , the lone 4s electron; every 3d orbital holds a pair. (The element below copper, silver, follows the same pattern: [Kr] 5s 1 4d 10 .)",
+  "mc": false,
+  "terse_answer": false
+ }
+]

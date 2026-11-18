@@ -1,0 +1,3314 @@
+[
+ {
+  "bank": "bank/ch01_adapt.json",
+  "id": "c1-h04",
+  "choice_index": 3,
+  "question": "Which of these is a <b>compound</b>?",
+  "choices": [
+   "Ammonia, NH<sub>3</sub>",
+   "Nitrogen gas, N<sub>2</sub>",
+   "Air",
+   "Iron, Fe"
+  ],
+  "correct": "Ammonia, NH<sub>3</sub>",
+  "worked": "Only NH<sub>3</sub> contains two different elements bonded together in a fixed ratio. N<sub>2</sub> and Fe are elements; air is a mixture.",
+  "old_reason": "Fe is a single element.",
+  "new_reason": "Fe is a single element. A compound has two or more <i>different</i> elements bonded in a fixed ratio, so look for a formula with more than one symbol."
+ },
+ {
+  "bank": "bank/ch01_adapt.json",
+  "id": "c1-h30",
+  "choice_index": 2,
+  "question": "<b>Math practice only; always follow the order and facility policy.</b> An infusion pump runs at 83.3 mL/h for a measured 2.5 h. How much volume is delivered, to the correct number of significant figures?",
+  "choices": [
+   "2.1 &times; 10<sup>2</sup> mL",
+   "208 mL",
+   "208.25 mL",
+   "33 mL"
+  ],
+  "correct": "2.1 &times; 10<sup>2</sup> mL",
+  "worked": "83.3 mL/h &times; 2.5 h = 208.25 mL &rarr; two significant figures &rarr; <b>2.1 &times; 10<sup>2</sup> mL</b>. Writing 210 mL would also show two significant figures under this book's rule, but scientific notation is clearest.",
+  "old_reason": "This keeps every calculator digit.",
+  "new_reason": "This keeps every calculator digit. Round the product to the fewest significant figures in the data: 2.5 h has two, so report two significant figures."
+ },
+ {
+  "bank": "bank/ch02.json",
+  "id": "c2-023",
+  "choice_index": 3,
+  "question": "A respiratory therapy chart lists inhaled &ldquo;NO&rdquo; as a gas used for some newborns. What does NO stand for?",
+  "choices": [
+   "A compound made of nitrogen and oxygen",
+   "The element nobelium",
+   "The element sodium",
+   "The element neon"
+  ],
+  "correct": "A compound made of nitrogen and oxygen",
+  "worked": "A symbol has one capital letter, so <b>NO</b> is two symbols, N and O: the compound nitric oxide. Compare No (nobelium) and CO (carbon monoxide) with Co (cobalt).",
+  "old_reason": "Neon's symbol is Ne.",
+  "new_reason": "Neon's symbol is Ne. A symbol has only one capital letter, so a capital N followed by a capital O means two symbols: N and O."
+ },
+ {
+  "bank": "bank/ch02.json",
+  "id": "c2-024",
+  "choice_index": 2,
+  "question": "Radiologic technologists wear aprons made with lead to shield their bodies. What is the symbol for lead?",
+  "choices": [
+   "Pb",
+   "Pd",
+   "P",
+   "Ld"
+  ],
+  "correct": "Pb",
+  "worked": "Lead is <b>Pb</b>, from the Latin <i>plumbum</i>. Pd is palladium and P is phosphorus.",
+  "old_reason": "P is phosphorus, a nonmetal.",
+  "new_reason": "P is phosphorus, a nonmetal. Lead's symbol comes from its Latin name, <i>plumbum</i>, so look for the symbol that starts with Pb."
+ },
+ {
+  "bank": "bank/ch02_adapt.json",
+  "id": "c2-h22",
+  "choice_index": 3,
+  "question": "An ion has 26 protons and 23 electrons. Which ion is it?",
+  "choices": [
+   "Fe<sup>3+</sup>",
+   "Fe<sup>3&minus;</sup>",
+   "V, a vanadium atom",
+   "Fe<sup>2+</sup>"
+  ],
+  "correct": "Fe<sup>3+</sup>",
+  "worked": "Z = 26 is iron; 26 &minus; 23 = 3+, so the ion is <b>Fe<sup>3+</sup></b>.",
+  "old_reason": "Fe<sup>2+</sup> would have 24 electrons.",
+  "new_reason": "Fe<sup>2+</sup> would have 24 electrons. Subtract electrons from protons: 26 &minus; 23 = 3 more protons, so the charge is 3+."
+ },
+ {
+  "bank": "bank/ch02_adapt.json",
+  "id": "c2-h29",
+  "choice_index": 2,
+  "question": "Cobalt-60 is a radiation source. Cobalt has Z = 27. How many neutrons are in a cobalt-60 nucleus?",
+  "choices": [
+   "33",
+   "60",
+   "27",
+   "87"
+  ],
+  "correct": "33",
+  "worked": "60 &minus; 27 = <b>33 neutrons</b>.",
+  "old_reason": "27 is the number of protons.",
+  "new_reason": "27 is the number of protons. Neutrons = mass number &minus; atomic number, so subtract Z from 60."
+ },
+ {
+  "bank": "bank/ch02_adapt.json",
+  "id": "c2-h33",
+  "choice_index": 1,
+  "question": "Potassium-40 is a naturally radioactive isotope found in small amounts in the body and in foods such as bananas and almonds. Potassium has Z = 19. How many neutrons does potassium-40 have?",
+  "choices": [
+   "21",
+   "40",
+   "19",
+   "20"
+  ],
+  "correct": "21",
+  "worked": "40 &minus; 19 = <b>21 neutrons</b>.",
+  "old_reason": "40 is the mass number.",
+  "new_reason": "40 is the mass number, which counts protons plus neutrons. Subtract the atomic number: neutrons = A &minus; Z."
+ },
+ {
+  "bank": "bank/ch02_adapt.json",
+  "id": "c2-h33",
+  "choice_index": 2,
+  "question": "Potassium-40 is a naturally radioactive isotope found in small amounts in the body and in foods such as bananas and almonds. Potassium has Z = 19. How many neutrons does potassium-40 have?",
+  "choices": [
+   "21",
+   "40",
+   "19",
+   "20"
+  ],
+  "correct": "21",
+  "worked": "40 &minus; 19 = <b>21 neutrons</b>.",
+  "old_reason": "19 is the number of protons.",
+  "new_reason": "19 is the number of protons. Neutrons = mass number &minus; atomic number, so subtract 19 from 40."
+ },
+ {
+  "bank": "bank/ch02_adapt.json",
+  "id": "c2-h36",
+  "choice_index": 2,
+  "question": "Rubidium is 72.17% rubidium-85 (84.912 amu) and 27.83% rubidium-87 (86.909 amu). Calculate rubidium's average atomic mass.",
+  "choices": [
+   "85.47 amu",
+   "85.91 amu",
+   "86.35 amu",
+   "8547 amu"
+  ],
+  "correct": "85.47 amu",
+  "worked": "(0.7217)(84.912) + (0.2783)(86.909) = 61.28 + 24.19 = <b>85.47 amu</b>.",
+  "old_reason": "This swaps the abundances.",
+  "new_reason": "This swaps the abundances. Multiply each isotope's mass by its own fractional abundance (0.7217 with 84.912), then add."
+ },
+ {
+  "bank": "bank/ch03.json",
+  "id": "c3-028",
+  "choice_index": 2,
+  "question": "Following the Aufbau principle, which subshell fills <b>right after 3p</b>?",
+  "choices": [
+   "4s",
+   "3d",
+   "4p",
+   "3f"
+  ],
+  "correct": "4s",
+  "worked": "Filling order: 1s 2s 2p 3s 3p <b>4s</b> 3d 4p 5s. That is why potassium and calcium, in row 4, put their last electrons in 4s before any 3d electrons appear.",
+  "old_reason": "4p comes after both 4s and 3d.",
+  "new_reason": "4p comes after both 4s and 3d. Follow the filling order 3s 3p 4s 3d 4p; the subshell right after 3p is the next one on that list."
+ },
+ {
+  "bank": "bank/ch03_adapt.json",
+  "id": "c3-h14",
+  "choice_index": 1,
+  "question": "How many orbitals are in a <b>d subshell</b>?",
+  "choices": [
+   "5",
+   "3",
+   "10",
+   "7"
+  ],
+  "correct": "5",
+  "worked": "s has 1 orbital, p has 3, <b>d has 5</b>, and f has 7. That is why the d block is 10 columns wide.",
+  "old_reason": "3 is the number of p orbitals.",
+  "new_reason": "3 is the number of p orbitals. Count orbitals by subshell: s 1, p 3, d 5, f 7, so pick the d value."
+ },
+ {
+  "bank": "bank/ch03_adapt.json",
+  "id": "c3-h14",
+  "choice_index": 3,
+  "question": "How many orbitals are in a <b>d subshell</b>?",
+  "choices": [
+   "5",
+   "3",
+   "10",
+   "7"
+  ],
+  "correct": "5",
+  "worked": "s has 1 orbital, p has 3, <b>d has 5</b>, and f has 7. That is why the d block is 10 columns wide.",
+  "old_reason": "7 is the number of f orbitals.",
+  "new_reason": "7 is the number of f orbitals. Count orbitals by subshell: s 1, p 3, d 5, f 7, so pick the d value."
+ },
+ {
+  "bank": "bank/ch03_adapt.json",
+  "id": "c3-h18",
+  "choice_index": 3,
+  "question": "Following the Aufbau principle, which subshell fills <b>right after 4s</b>?",
+  "choices": [
+   "3d",
+   "4p",
+   "4d",
+   "5s"
+  ],
+  "correct": "3d",
+  "worked": "After 4s comes <b>3d</b>, then 4p. That is why row 4 has ten transition metals between calcium and gallium.",
+  "old_reason": "5s comes after 4p.",
+  "new_reason": "5s comes after 4p. Follow the filling order 4s 3d 4p 5s; the subshell right after 4s is the next one on that list."
+ },
+ {
+  "bank": "bank/ch03_adapt.json",
+  "id": "c3-h20",
+  "choice_index": 1,
+  "question": "What does the <b>Pauli exclusion principle</b> say?",
+  "choices": [
+   "An orbital holds at most two electrons, and two electrons in the same orbital must have opposite spins.",
+   "Electrons fill the lowest-energy orbitals first.",
+   "Electrons spread out over equal-energy orbitals before pairing.",
+   "A shell holds at most eight electrons."
+  ],
+  "correct": "An orbital holds at most two electrons, and two electrons in the same orbital must have opposite spins.",
+  "worked": "<b>Pauli:</b> at most 2 electrons per orbital, with opposite spins (&uarr;&darr;). Aufbau sets the filling order and Hund's rule sets how equal-energy orbitals fill.",
+  "old_reason": "This is the Aufbau principle.",
+  "new_reason": "This is the Aufbau principle, which sets the filling order. The Pauli principle is about one orbital: at most two electrons, with opposite spins."
+ },
+ {
+  "bank": "bank/ch03_adapt.json",
+  "id": "c3-h20",
+  "choice_index": 2,
+  "question": "What does the <b>Pauli exclusion principle</b> say?",
+  "choices": [
+   "An orbital holds at most two electrons, and two electrons in the same orbital must have opposite spins.",
+   "Electrons fill the lowest-energy orbitals first.",
+   "Electrons spread out over equal-energy orbitals before pairing.",
+   "A shell holds at most eight electrons."
+  ],
+  "correct": "An orbital holds at most two electrons, and two electrons in the same orbital must have opposite spins.",
+  "worked": "<b>Pauli:</b> at most 2 electrons per orbital, with opposite spins (&uarr;&darr;). Aufbau sets the filling order and Hund's rule sets how equal-energy orbitals fill.",
+  "old_reason": "This is Hund's rule.",
+  "new_reason": "This is Hund's rule, which says how equal-energy orbitals fill. The Pauli principle limits one orbital to two electrons with opposite spins."
+ },
+ {
+  "bank": "bank/ch03_adapt.json",
+  "id": "c3-h21",
+  "choice_index": 1,
+  "question": "Silicon is used in computer chips and in some medical implants. What is the full electron configuration of a silicon atom (Z = 14)?",
+  "choices": [
+   "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>2</sup>",
+   "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>4</sup>",
+   "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>4</sup>",
+   "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3d<sup>2</sup>"
+  ],
+  "correct": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>2</sup>",
+  "worked": "Si: <b>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>2</sup></b>. Silicon is in group 14, the second column of the p block, so it ends in p<sup>2</sup>.",
+  "old_reason": "This adds to 16 (sulfur).",
+  "new_reason": "This adds to 16 (sulfur). Add the superscripts until they total Z = 14; silicon is the second element of the p block, so it ends in 3p<sup>2</sup>."
+ },
+ {
+  "bank": "bank/ch03_adapt.json",
+  "id": "c3-h22",
+  "choice_index": 2,
+  "question": "Selenium is a trace element in some enzymes. What is the noble-gas configuration of a selenium atom (Z = 34)?",
+  "choices": [
+   "[Ar] 4s<sup>2</sup> 3d<sup>10</sup> 4p<sup>4</sup>",
+   "[Ar] 4s<sup>2</sup> 4p<sup>4</sup>",
+   "[Ar] 4s<sup>2</sup> 4d<sup>10</sup> 4p<sup>4</sup>",
+   "[Kr] 4s<sup>2</sup> 3d<sup>10</sup> 4p<sup>4</sup>"
+  ],
+  "correct": "[Ar] 4s<sup>2</sup> 3d<sup>10</sup> 4p<sup>4</sup>",
+  "worked": "Se: <b>[Ar] 4s<sup>2</sup> 3d<sup>10</sup> 4p<sup>4</sup></b>. Check: 18 + 2 + 10 + 4 = 34. It ends in p<sup>4</sup> like oxygen and sulfur in group 16.",
+  "old_reason": "The row-4 d block is 3d, not 4d.",
+  "new_reason": "The row-4 d block is 3d, not 4d. The d subshell number is one less than the row, so row 4 fills 3d<sup>10</sup> between 4s and 4p."
+ },
+ {
+  "bank": "bank/ch03_adapt.json",
+  "id": "c3-h24",
+  "choice_index": 2,
+  "question": "What is the electron configuration of the chloride ion, Cl<sup>&minus;</sup>?",
+  "choices": [
+   "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup>",
+   "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>4</sup>",
+   "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>5</sup>",
+   "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>5</sup> 4s<sup>1</sup>"
+  ],
+  "correct": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup>",
+  "worked": "Cl (1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>5</sup>) gains one electron: <b>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup></b>, isoelectronic with argon.",
+  "old_reason": "This is the neutral chlorine atom.",
+  "new_reason": "This is the neutral chlorine atom. Cl<sup>&minus;</sup> has gained one electron, so add one to the last subshell: 3p<sup>5</sup> becomes 3p<sup>6</sup>."
+ },
+ {
+  "bank": "bank/ch03_adapt.json",
+  "id": "c3-h26",
+  "choice_index": 1,
+  "question": "Calcium is in row 4, group 2. In which block of the periodic table is it?",
+  "choices": [
+   "s block",
+   "p block",
+   "d block",
+   "f block"
+  ],
+  "correct": "s block",
+  "worked": "Groups 1 and 2 are the <b>s block</b>. Calcium is [Ar] 4s<sup>2</sup>.",
+  "old_reason": "The p block is groups 13 to 18.",
+  "new_reason": "The p block is groups 13 to 18. Calcium is in group 2, and groups 1 and 2 make up the s block."
+ },
+ {
+  "bank": "bank/ch03_adapt.json",
+  "id": "c3-h26",
+  "choice_index": 2,
+  "question": "Calcium is in row 4, group 2. In which block of the periodic table is it?",
+  "choices": [
+   "s block",
+   "p block",
+   "d block",
+   "f block"
+  ],
+  "correct": "s block",
+  "worked": "Groups 1 and 2 are the <b>s block</b>. Calcium is [Ar] 4s<sup>2</sup>.",
+  "old_reason": "The d block is groups 3 to 12.",
+  "new_reason": "The d block is groups 3 to 12. Calcium is in group 2, and groups 1 and 2 make up the s block."
+ },
+ {
+  "bank": "bank/ch03_adapt.json",
+  "id": "c3-h32",
+  "choice_index": 1,
+  "question": "Which electrolyte ion has <b>18 electrons</b>?",
+  "choices": [
+   "K<sup>+</sup>",
+   "Na<sup>+</sup>",
+   "Mg<sup>2+</sup>",
+   "F<sup>&minus;</sup>"
+  ],
+  "correct": "K<sup>+</sup>",
+  "worked": "<b>K<sup>+</sup></b>: 19 &minus; 1 = 18 electrons, isoelectronic with argon. The other three each have 10, like neon.",
+  "old_reason": "Na<sup>+</sup> has 11 &minus; 1 = 10.",
+  "new_reason": "Na<sup>+</sup> has 11 &minus; 1 = 10. For each ion, subtract the positive charge from Z (or add the negative charge) and look for 18."
+ },
+ {
+  "bank": "bank/ch03_adapt.json",
+  "id": "c3-h32",
+  "choice_index": 2,
+  "question": "Which electrolyte ion has <b>18 electrons</b>?",
+  "choices": [
+   "K<sup>+</sup>",
+   "Na<sup>+</sup>",
+   "Mg<sup>2+</sup>",
+   "F<sup>&minus;</sup>"
+  ],
+  "correct": "K<sup>+</sup>",
+  "worked": "<b>K<sup>+</sup></b>: 19 &minus; 1 = 18 electrons, isoelectronic with argon. The other three each have 10, like neon.",
+  "old_reason": "Mg<sup>2+</sup> has 12 &minus; 2 = 10.",
+  "new_reason": "Mg<sup>2+</sup> has 12 &minus; 2 = 10. For each ion, subtract the positive charge from Z (or add the negative charge) and look for 18."
+ },
+ {
+  "bank": "bank/ch03_adapt.json",
+  "id": "c3-h32",
+  "choice_index": 3,
+  "question": "Which electrolyte ion has <b>18 electrons</b>?",
+  "choices": [
+   "K<sup>+</sup>",
+   "Na<sup>+</sup>",
+   "Mg<sup>2+</sup>",
+   "F<sup>&minus;</sup>"
+  ],
+  "correct": "K<sup>+</sup>",
+  "worked": "<b>K<sup>+</sup></b>: 19 &minus; 1 = 18 electrons, isoelectronic with argon. The other three each have 10, like neon.",
+  "old_reason": "F<sup>&minus;</sup> has 9 + 1 = 10.",
+  "new_reason": "F<sup>&minus;</sup> has 9 + 1 = 10. For each ion, subtract the positive charge from Z (or add the negative charge) and look for 18."
+ },
+ {
+  "bank": "bank/ch03_adapt.json",
+  "id": "c3-h35",
+  "choice_index": 1,
+  "question": "Rank K, Mg and Cl in order of <b>increasing</b> atomic radius.",
+  "choices": [
+   "Cl &lt; Mg &lt; K",
+   "K &lt; Mg &lt; Cl",
+   "Mg &lt; Cl &lt; K",
+   "Cl &lt; K &lt; Mg"
+  ],
+  "correct": "Cl &lt; Mg &lt; K",
+  "worked": "Smallest at the upper right, largest at the lower left: <b>Cl &lt; Mg &lt; K</b>.",
+  "old_reason": "This is decreasing radius.",
+  "new_reason": "This is decreasing radius. Radius grows toward the lower left of the table, so list from the upper-right element (smallest) to the lower-left one (largest)."
+ },
+ {
+  "bank": "bank/ch04.json",
+  "id": "c4-044",
+  "choice_index": 1,
+  "question": "Zinc sulfate heptahydrate is sprayed on some Valley orchards to correct zinc deficiency. What is its formula?",
+  "choices": [
+   "ZnSO<sub>4</sub>&middot;7H<sub>2</sub>O",
+   "ZnSO<sub>4</sub>&middot;6H<sub>2</sub>O",
+   "ZnS&middot;7H<sub>2</sub>O",
+   "Zn<sub>2</sub>SO<sub>4</sub>&middot;7H<sub>2</sub>O"
+  ],
+  "correct": "ZnSO<sub>4</sub>&middot;7H<sub>2</sub>O",
+  "worked": "Zinc sulfate is ZnSO<sub>4</sub> (Zn<sup>2+</sup>, SO<sub>4</sub><sup>2&minus;</sup>); hepta = 7, so <b>ZnSO<sub>4</sub>&middot;7H<sub>2</sub>O</b>.",
+  "old_reason": "Hexa- is 6; hepta- is 7.",
+  "new_reason": "Hexa- is 6; hepta- is 7. Write the number of water molecules from the prefix: heptahydrate means &middot;7H<sub>2</sub>O."
+ },
+ {
+  "bank": "bank/ch04.json",
+  "id": "c4-048",
+  "choice_index": 3,
+  "question": "Eye surgeons sometimes place a bubble of <b>sulfur hexafluoride</b> gas inside the eye after retina repair. What is its formula?",
+  "choices": [
+   "SF<sub>6</sub>",
+   "S<sub>6</sub>F",
+   "SF",
+   "SF<sub>5</sub>"
+  ],
+  "correct": "SF<sub>6</sub>",
+  "worked": "Sulfur (no prefix, 1 S) hexa- (6) fluoride: <b>SF<sub>6</sub></b>.",
+  "old_reason": "Penta- is 5; hexa- is 6.",
+  "new_reason": "Penta- is 5; hexa- is 6. Turn each prefix into a subscript: no prefix on sulfur means 1 S, and hexafluoride means 6 F."
+ },
+ {
+  "bank": "bank/ch04.json",
+  "id": "c4-058",
+  "choice_index": 3,
+  "question": "What is the name of H<sub>2</sub>S(aq)?",
+  "choices": [
+   "hydrosulfuric acid",
+   "sulfuric acid",
+   "sulfurous acid",
+   "hydrosulfurous acid"
+  ],
+  "correct": "hydrosulfuric acid",
+  "worked": "Sulfide (-ide) becomes hydro-...-ic: <b>hydrosulfuric acid</b>. Sulfuric acid, H<sub>2</sub>SO<sub>4</sub>, is a different compound.",
+  "old_reason": "Binary acids end in -ic, not -ous.",
+  "new_reason": "Binary acids end in -ic, not -ous. Use hydro- + the nonmetal root + -ic for an acid with no oxygen."
+ },
+ {
+  "bank": "bank/ch04.json",
+  "id": "c4-063",
+  "choice_index": 2,
+  "question": "What is the name of HIO<sub>4</sub>?",
+  "choices": [
+   "periodic acid",
+   "iodic acid",
+   "hydroperiodic acid",
+   "periodous acid"
+  ],
+  "correct": "periodic acid",
+  "worked": "IO<sub>4</sub><sup>&minus;</sup> = periodate; -ate &rarr; -ic, prefix kept: <b>periodic acid</b> (per-iodic, nothing to do with the periodic table).",
+  "old_reason": "Oxyacids never take hydro-.",
+  "new_reason": "Oxyacids never take hydro-; hydro- is only for acids with no oxygen. Name it from the anion: periodate (-ate) becomes periodic acid (-ic)."
+ },
+ {
+  "bank": "bank/ch04.json",
+  "id": "c4-064",
+  "choice_index": 1,
+  "question": "Vinegar is about 5% <b>acetic acid</b> in water. What is the formula of acetic acid?",
+  "choices": [
+   "HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>",
+   "H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>",
+   "H<sub>2</sub>C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>",
+   "C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>&minus;</sup>"
+  ],
+  "correct": "HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>",
+  "worked": "Acetic &larr; acetate, C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>&minus;</sup>; add one H<sup>+</sup>: <b>HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub></b> (also written CH<sub>3</sub>COOH).",
+  "old_reason": "This is oxalic acid, from oxalate.",
+  "new_reason": "This is oxalic acid, from oxalate. Start from the acetate ion, C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>&minus;</sup>, and add one H<sup>+</sup> to cancel its 1&minus; charge."
+ },
+ {
+  "bank": "bank/ch04.json",
+  "id": "c4-066",
+  "choice_index": 2,
+  "question": "The table shows anions and the acids made from them. Which name belongs in the cell marked ?",
+  "choices": [
+   "chlorous acid",
+   "chloric acid",
+   "hydrochlorous acid",
+   "hypochlorous acid"
+  ],
+  "correct": "chlorous acid",
+  "worked": "Sulfite gave sulfurous acid, so chlorite gives <b>chlorous acid</b>, HClO<sub>2</sub>.",
+  "old_reason": "Oxyacids never take hydro-.",
+  "new_reason": "Oxyacids never take hydro-; hydro- is only for acids with no oxygen. Change the anion ending: -ite becomes -ous, so chlorite gives chlorous acid."
+ },
+ {
+  "bank": "bank/ch04_adapt.json",
+  "id": "c4-h06",
+  "choice_index": 3,
+  "question": "Which compound below is <b>molecular</b>?",
+  "choices": [
+   "PCl<sub>3</sub>",
+   "AlCl<sub>3</sub>",
+   "NH<sub>4</sub>Cl",
+   "ZnCl<sub>2</sub>"
+  ],
+  "correct": "PCl<sub>3</sub>",
+  "worked": "Only <b>PCl<sub>3</sub></b> is made of nonmetals alone with no ammonium ion, so it is molecular.",
+  "old_reason": "Zn is a metal, so ZnCl<sub>2</sub> is ionic.",
+  "new_reason": "Zn is a metal, so ZnCl<sub>2</sub> is ionic. A molecular compound has nonmetals only, so look for the formula with no metal and no NH<sub>4</sub><sup>+</sup>."
+ },
+ {
+  "bank": "bank/ch04_adapt.json",
+  "id": "c4-h20",
+  "choice_index": 3,
+  "question": "What is the formula of the <b>peroxide</b> ion?",
+  "choices": [
+   "O<sub>2</sub><sup>2&minus;</sup>",
+   "O<sup>2&minus;</sup>",
+   "O<sub>2</sub>",
+   "OH<sup>&minus;</sup>"
+  ],
+  "correct": "O<sub>2</sub><sup>2&minus;</sup>",
+  "worked": "Peroxide is <b>O<sub>2</sub><sup>2&minus;</sup></b>; hydrogen peroxide is H<sub>2</sub>O<sub>2</sub>.",
+  "old_reason": "This is the hydroxide ion.",
+  "new_reason": "This is the hydroxide ion. Peroxide is two oxygen atoms with a 2&minus; charge on the pair, as in hydrogen peroxide, H<sub>2</sub>O<sub>2</sub>."
+ },
+ {
+  "bank": "bank/ch04_adapt.json",
+  "id": "c4-h21",
+  "choice_index": 2,
+  "question": "Zinc oxide, ZnO, is the white ingredient in many diaper creams. Which name follows the naming rules?",
+  "choices": [
+   "zinc oxide",
+   "zinc(II) oxide",
+   "zinc monoxide",
+   "zinc oxygen"
+  ],
+  "correct": "zinc oxide",
+  "worked": "<b>zinc oxide</b>: fixed-charge metal, no numeral, no prefixes.",
+  "old_reason": "Ionic names never use prefixes.",
+  "new_reason": "Ionic names never use prefixes. Name the metal, then the anion with -ide; zinc has a fixed charge, so it needs no Roman numeral either."
+ },
+ {
+  "bank": "bank/ch04_adapt.json",
+  "id": "c4-h22",
+  "choice_index": 1,
+  "question": "What is the name of MgBr<sub>2</sub>?",
+  "choices": [
+   "magnesium bromide",
+   "magnesium dibromide",
+   "magnesium(II) bromide",
+   "magnesium bromate"
+  ],
+  "correct": "magnesium bromide",
+  "worked": "<b>magnesium bromide</b>.",
+  "old_reason": "Ionic names do not use prefixes.",
+  "new_reason": "Ionic names do not use prefixes. Name the metal, then the anion with -ide; the charges, not prefixes, set how many bromide ions there are."
+ },
+ {
+  "bank": "bank/ch04_adapt.json",
+  "id": "c4-h25",
+  "choice_index": 2,
+  "question": "Copper fungicides sprayed in Valley orchards often contain Cu(OH)<sub>2</sub>. What is its name?",
+  "choices": [
+   "copper(II) hydroxide",
+   "copper hydroxide",
+   "copper(II) dihydroxide",
+   "cuprous hydroxide"
+  ],
+  "correct": "copper(II) hydroxide",
+  "worked": "2 OH<sup>&minus;</sup> = 2&minus;: Cu<sup>2+</sup>, <b>copper(II) hydroxide</b> (cupric hydroxide).",
+  "old_reason": "Ionic names do not use prefixes.",
+  "new_reason": "Ionic names do not use prefixes. Copper has more than one charge, so give it a Roman numeral from the charge and name the anion plainly: hydroxide."
+ },
+ {
+  "bank": "bank/ch04_adapt.json",
+  "id": "c4-h30",
+  "choice_index": 3,
+  "question": "Valley dried-fruit packers treat apricots with <b>sulfur dioxide</b> gas to keep their color. What is the formula of sulfur dioxide?",
+  "choices": [
+   "SO<sub>2</sub>",
+   "SO<sub>3</sub><sup>2&minus;</sup>",
+   "S<sub>2</sub>O",
+   "SO"
+  ],
+  "correct": "SO<sub>2</sub>",
+  "worked": "Sulfur (1) di-oxide (2): <b>SO<sub>2</sub></b>.",
+  "old_reason": "Di- means two oxygen atoms.",
+  "new_reason": "Di- means two oxygen atoms. Turn each prefix into a subscript: no prefix on sulfur means 1 S, and dioxide means O<sub>2</sub>."
+ },
+ {
+  "bank": "bank/ch04_adapt.json",
+  "id": "c4-h36",
+  "choice_index": 2,
+  "question": "Nitrogen fertilizers are made from HNO<sub>3</sub>. What is its name?",
+  "choices": [
+   "nitric acid",
+   "nitrous acid",
+   "hydronitric acid",
+   "nitrate acid"
+  ],
+  "correct": "nitric acid",
+  "worked": "NO<sub>3</sub><sup>&minus;</sup> = nitrate; -ate &rarr; -ic: <b>nitric acid</b>.",
+  "old_reason": "Oxyacids never take hydro-.",
+  "new_reason": "Oxyacids never take hydro-; hydro- is only for acids with no oxygen. Name it from the anion: nitrate (-ate) becomes nitric acid (-ic)."
+ },
+ {
+  "bank": "bank/ch04_adapt.json",
+  "id": "c4-h38",
+  "choice_index": 2,
+  "question": "Rhubarb leaves contain <b>oxalic acid</b>. What is its formula?",
+  "choices": [
+   "H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>",
+   "HC<sub>2</sub>O<sub>4</sub>",
+   "HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>",
+   "C<sub>2</sub>O<sub>4</sub><sup>2&minus;</sup>"
+  ],
+  "correct": "H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>",
+  "worked": "Oxalic &larr; oxalate, C<sub>2</sub>O<sub>4</sub><sup>2&minus;</sup>: <b>H<sub>2</sub>C<sub>2</sub>O<sub>4</sub></b>.",
+  "old_reason": "This is acetic acid, from acetate.",
+  "new_reason": "This is acetic acid, from acetate. Start from the oxalate ion, C<sub>2</sub>O<sub>4</sub><sup>2&minus;</sup>, and add two H<sup>+</sup> to cancel its 2&minus; charge."
+ },
+ {
+  "bank": "bank/ch05_adapt.json",
+  "id": "c5-h16",
+  "choice_index": 1,
+  "question": "Aluminum hydroxide, Al(OH)<sub>3</sub>, is an antacid ingredient. What is its molar mass? (Al 26.98, O 15.999, H 1.008)",
+  "choices": [
+   "78.00 g/mol",
+   "46.00 g/mol",
+   "75.99 g/mol",
+   "78.001 g/mol"
+  ],
+  "correct": "78.00 g/mol",
+  "worked": "Al(OH)<sub>3</sub>: 26.98 + 3(15.999) + 3(1.008) = 78.001 &rarr; 78.00 g/mol. So the molar mass is <b>78.00 g/mol</b>.",
+  "old_reason": "This applies the 3 only to H.",
+  "new_reason": "This applies the 3 only to H. The subscript outside the parentheses multiplies everything inside, so count 3 O and 3 H."
+ },
+ {
+  "bank": "bank/ch05_adapt.json",
+  "id": "c5-h16",
+  "choice_index": 2,
+  "question": "Aluminum hydroxide, Al(OH)<sub>3</sub>, is an antacid ingredient. What is its molar mass? (Al 26.98, O 15.999, H 1.008)",
+  "choices": [
+   "78.00 g/mol",
+   "46.00 g/mol",
+   "75.99 g/mol",
+   "78.001 g/mol"
+  ],
+  "correct": "78.00 g/mol",
+  "worked": "Al(OH)<sub>3</sub>: 26.98 + 3(15.999) + 3(1.008) = 78.001 &rarr; 78.00 g/mol. So the molar mass is <b>78.00 g/mol</b>.",
+  "old_reason": "This applies the 3 only to O.",
+  "new_reason": "This applies the 3 only to O. The subscript outside the parentheses multiplies everything inside, so count 3 O and 3 H."
+ },
+ {
+  "bank": "bank/ch05_adapt.json",
+  "id": "c5-h25",
+  "choice_index": 2,
+  "question": "What mass of caffeine, C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub> (194.194 g/mol), contains 1.00 &times; 10<sup>20</sup> molecules? Give the answer in milligrams.",
+  "choices": [
+   "32.2 mg",
+   "0.0322 mg",
+   "1.66 &times; 10<sup>&minus;4</sup> mol",
+   "8.55 &times; 10<sup>&minus;4</sup> mg"
+  ],
+  "correct": "32.2 mg",
+  "worked": "1.00 &times; 10<sup>20</sup> &divide; 6.0221 &times; 10<sup>23</sup> = 1.661 &times; 10<sup>&minus;4</sup> mol; &times; 194.194 g/mol = 0.0322 g = <b>32.2 mg</b>.",
+  "old_reason": "This stops at moles.",
+  "new_reason": "This stops at moles, and the answer asks for milligrams. Multiply the moles by 194.194 g/mol, then convert grams to mg."
+ },
+ {
+  "bank": "bank/ch05_adapt.json",
+  "id": "c5-h27",
+  "choice_index": 2,
+  "question": "A respiratory therapist's oxygen calculation involves 2.50 g of O<sub>2</sub> gas (31.998 g/mol). How many O<sub>2</sub> molecules is that?",
+  "choices": [
+   "4.71 &times; 10<sup>22</sup> O<sub>2</sub> molecules",
+   "9.41 &times; 10<sup>22</sup> O<sub>2</sub> molecules",
+   "0.0781 mol",
+   "1.51 &times; 10<sup>24</sup> O<sub>2</sub> molecules"
+  ],
+  "correct": "4.71 &times; 10<sup>22</sup> O<sub>2</sub> molecules",
+  "worked": "2.50 g &times; (1 mol / 31.998 g) &times; 6.0221 &times; 10<sup>23</sup> = <b>4.71 &times; 10<sup>22</sup> O<sub>2</sub> molecules</b>.",
+  "old_reason": "This stops at moles.",
+  "new_reason": "This stops at moles. Multiply the moles of O<sub>2</sub> by Avogadro's number, 6.0221 &times; 10<sup>23</sup>, to count molecules."
+ },
+ {
+  "bank": "bank/ch05_adapt.json",
+  "id": "c5-h30",
+  "choice_index": 2,
+  "question": "Nitroglycerin, C<sub>3</sub>H<sub>5</sub>N<sub>3</sub>O<sub>9</sub> (227.085 g/mol), is used to relieve chest pain. How many molecules are in 1.00 mg of it?",
+  "choices": [
+   "2.65 &times; 10<sup>18</sup> molecules",
+   "2.65 &times; 10<sup>21</sup> molecules",
+   "4.40 &times; 10<sup>&minus;6</sup> mol",
+   "1.37 &times; 10<sup>23</sup> molecules"
+  ],
+  "correct": "2.65 &times; 10<sup>18</sup> molecules",
+  "worked": "1.00 &times; 10<sup>&minus;3</sup> g &times; (1 mol / 227.085 g) &times; 6.0221 &times; 10<sup>23</sup> = <b>2.65 &times; 10<sup>18</sup> molecules</b>. (Context only.)",
+  "old_reason": "This stops at moles.",
+  "new_reason": "This stops at moles. Multiply the moles by Avogadro's number, 6.0221 &times; 10<sup>23</sup>, to count molecules."
+ },
+ {
+  "bank": "bank/ch05_adapt.json",
+  "id": "c5-h32",
+  "choice_index": 2,
+  "question": "How many nitrogen atoms are in 0.0750 mol of ammonium nitrate, NH<sub>4</sub>NO<sub>3</sub>?",
+  "choices": [
+   "9.03 &times; 10<sup>22</sup> N atoms",
+   "4.52 &times; 10<sup>22</sup> N atoms",
+   "0.150 mol N",
+   "2.26 &times; 10<sup>22</sup> N atoms"
+  ],
+  "correct": "9.03 &times; 10<sup>22</sup> N atoms",
+  "worked": "0.0750 &times; 2 = 0.150 mol N; &times; 6.0221 &times; 10<sup>23</sup> = <b>9.03 &times; 10<sup>22</sup> N atoms</b>.",
+  "old_reason": "This stops at moles of N.",
+  "new_reason": "This stops at moles of N. Multiply the moles of N by Avogadro's number, 6.0221 &times; 10<sup>23</sup>, to count atoms."
+ },
+ {
+  "bank": "bank/ch05_adapt.json",
+  "id": "c5-h35",
+  "choice_index": 1,
+  "question": "Sodium phosphate, Na<sub>3</sub>PO<sub>4</sub>, dissolves into Na<sup>+</sup> and PO<sub>4</sub><sup>3&minus;</sup> ions. How many moles of ions in total come from 0.0200 mol of Na<sub>3</sub>PO<sub>4</sub>?",
+  "choices": [
+   "0.0800 mol ions",
+   "0.0600 mol ions",
+   "0.0200 mol ions",
+   "0.160 mol ions"
+  ],
+  "correct": "0.0800 mol ions",
+  "worked": "0.0200 mol &times; 4 mol ions / 1 mol = <b>0.0800 mol ions</b>.",
+  "old_reason": "This counts only the sodium ions.",
+  "new_reason": "This counts only the sodium ions. Each Na<sub>3</sub>PO<sub>4</sub> gives 3 Na<sup>+</sup> and 1 PO<sub>4</sub><sup>3&minus;</sup>, so multiply by 4 ions per formula unit."
+ },
+ {
+  "bank": "bank/ch05_adapt.json",
+  "id": "c5-h36",
+  "choice_index": 1,
+  "question": "How many potassium ions are in 1.49 g of potassium chloride, KCl (74.55 g/mol)?",
+  "choices": [
+   "1.20 &times; 10<sup>22</sup> K<sup>+</sup> ions",
+   "2.41 &times; 10<sup>22</sup> K<sup>+</sup> ions",
+   "2.29 &times; 10<sup>22</sup> K<sup>+</sup> ions",
+   "0.0200 mol K<sup>+</sup>"
+  ],
+  "correct": "1.20 &times; 10<sup>22</sup> K<sup>+</sup> ions",
+  "worked": "1.49 g &times; (1 mol / 74.55 g) &times; 6.0221 &times; 10<sup>23</sup> = <b>1.20 &times; 10<sup>22</sup> K<sup>+</sup> ions</b>.",
+  "old_reason": "This counts both K<sup>+</sup> and Cl<sup>&minus;</sup>.",
+  "new_reason": "This counts both K<sup>+</sup> and Cl<sup>&minus;</sup>. Each KCl gives one K<sup>+</sup>, so use a 1 : 1 ratio and do not double the count."
+ },
+ {
+  "bank": "bank/ch05_adapt.json",
+  "id": "c5-h36",
+  "choice_index": 3,
+  "question": "How many potassium ions are in 1.49 g of potassium chloride, KCl (74.55 g/mol)?",
+  "choices": [
+   "1.20 &times; 10<sup>22</sup> K<sup>+</sup> ions",
+   "2.41 &times; 10<sup>22</sup> K<sup>+</sup> ions",
+   "2.29 &times; 10<sup>22</sup> K<sup>+</sup> ions",
+   "0.0200 mol K<sup>+</sup>"
+  ],
+  "correct": "1.20 &times; 10<sup>22</sup> K<sup>+</sup> ions",
+  "worked": "1.49 g &times; (1 mol / 74.55 g) &times; 6.0221 &times; 10<sup>23</sup> = <b>1.20 &times; 10<sup>22</sup> K<sup>+</sup> ions</b>.",
+  "old_reason": "This stops at moles.",
+  "new_reason": "This stops at moles. Multiply the moles of K<sup>+</sup> by Avogadro's number, 6.0221 &times; 10<sup>23</sup>, to count ions."
+ },
+ {
+  "bank": "bank/ch05_adapt.json",
+  "id": "c5-h37",
+  "choice_index": 2,
+  "question": "What mass of potassium iodide, KI (166.00 g/mol), contains 0.100 g of iodine? (I 126.90)",
+  "choices": [
+   "0.131 g KI",
+   "0.0764 g KI",
+   "7.88 &times; 10<sup>&minus;4</sup> mol",
+   "0.100 g KI"
+  ],
+  "correct": "0.131 g KI",
+  "worked": "0.100 g I &times; (1 mol I / 126.90 g) &times; (1 mol KI / 1 mol I) &times; (166.00 g / 1 mol KI) = <b>0.131 g KI</b>. (Potassium iodide tablets for radiation emergencies are about 130 mg for about 100 mg of iodide; context only.)",
+  "old_reason": "This stops at moles of iodine.",
+  "new_reason": "This stops at moles of iodine. Use the 1 mol KI : 1 mol I ratio, then multiply by 166.00 g/mol to get grams of KI."
+ },
+ {
+  "bank": "bank/ch05_adapt.json",
+  "id": "c5-h38",
+  "choice_index": 1,
+  "question": "What mass of oxygen is in 0.600 mol of water, H<sub>2</sub>O? (O 15.999, H 1.008)",
+  "choices": [
+   "9.60 g O",
+   "19.2 g O",
+   "10.8 g O",
+   "0.0375 g O"
+  ],
+  "correct": "9.60 g O",
+  "worked": "0.600 mol &times; (1 mol O / 1 mol H<sub>2</sub>O) &times; 15.999 g/mol = <b>9.60 g O</b>.",
+  "old_reason": "This uses 31.998 (O<sub>2</sub>) for O atoms.",
+  "new_reason": "This uses 31.998 (O<sub>2</sub>) for O atoms. Each H<sub>2</sub>O has one O atom, so use 15.999 g/mol for O."
+ },
+ {
+  "bank": "bank/ch05_adapt.json",
+  "id": "c5-h39",
+  "choice_index": 2,
+  "question": "How many hydrogen atoms are in 5.00 g of ethanol, C<sub>2</sub>H<sub>5</sub>OH (46.069 g/mol)?",
+  "choices": [
+   "3.92 &times; 10<sup>23</sup> H atoms",
+   "6.54 &times; 10<sup>22</sup> H atoms",
+   "0.651 mol H",
+   "3.27 &times; 10<sup>23</sup> H atoms"
+  ],
+  "correct": "3.92 &times; 10<sup>23</sup> H atoms",
+  "worked": "5.00 g &times; (1 mol / 46.069 g) &times; (6 mol H / 1 mol) &times; 6.0221 &times; 10<sup>23</sup> = <b>3.92 &times; 10<sup>23</sup> H atoms</b>.",
+  "old_reason": "This stops at moles of H.",
+  "new_reason": "This stops at moles of H. Multiply the moles of H by Avogadro's number, 6.0221 &times; 10<sup>23</sup>, to count atoms."
+ },
+ {
+  "bank": "bank/ch05_adapt.json",
+  "id": "c5-h40",
+  "choice_index": 2,
+  "question": "When 1 mol of potassium sulfate, K<sub>2</sub>SO<sub>4</sub>, dissolves, how many moles of K<sup>+</sup> and how many moles of ions in total are released?",
+  "choices": [
+   "2 mol K<sup>+</sup>; 3 mol of ions in total",
+   "2 mol K<sup>+</sup>; 7 mol of ions in total",
+   "1 mol K<sup>+</sup>; 2 mol of ions in total",
+   "2 mol K<sup>+</sup>; 2 mol of ions in total"
+  ],
+  "correct": "2 mol K<sup>+</sup>; 3 mol of ions in total",
+  "worked": "K<sub>2</sub>SO<sub>4</sub> &rarr; 2 K<sup>+</sup> + SO<sub>4</sub><sup>2&minus;</sup>: <b>2 mol K<sup>+</sup>, 3 mol of ions</b>.",
+  "old_reason": "This ignores the subscript 2 on K.",
+  "new_reason": "This ignores the subscript 2 on K. Each K<sub>2</sub>SO<sub>4</sub> gives 2 K<sup>+</sup> and 1 SO<sub>4</sub><sup>2&minus;</sup>; add them for the total ions."
+ },
+ {
+  "bank": "bank/ch06.json",
+  "id": "c6-041",
+  "choice_index": 2,
+  "question": "Which bond is the <b>most polar</b>? (H 2.1, C 2.5, N 3.0, O 3.5, Cl 3.0)",
+  "choices": [
+   "O&ndash;H",
+   "C&ndash;Cl",
+   "N&ndash;H",
+   "C&ndash;O"
+  ],
+  "correct": "O&ndash;H",
+  "worked": "C&ndash;Cl 0.5 &lt; N&ndash;H 0.9 &lt; C&ndash;O 1.0 &lt; O&ndash;H 1.4. <b>O&ndash;H</b> is the most polar.",
+  "old_reason": "&Delta;EN = 3.0 &minus; 2.1 = 0.9.",
+  "new_reason": "&Delta;EN = 3.0 &minus; 2.1 = 0.9. Find &Delta;EN for every bond; the largest difference is the most polar bond."
+ },
+ {
+  "bank": "bank/ch06.json",
+  "id": "c6-056",
+  "choice_index": 2,
+  "question": "A compound of carbon, hydrogen, and oxygen is 54.53% C and 9.15% H by mass, and the rest is oxygen. What is its mass percent of oxygen?",
+  "choices": [
+   "36.32%",
+   "45.47%",
+   "90.85%",
+   "63.68%"
+  ],
+  "correct": "36.32%",
+  "worked": "%O = 100% &minus; 54.53% &minus; 9.15% = <b>36.32%</b> (2 decimal places, from the subtraction).",
+  "old_reason": "This subtracts only the hydrogen.",
+  "new_reason": "This subtracts only the hydrogen. Oxygen is what is left after both carbon and hydrogen, so subtract both percents from 100%."
+ },
+ {
+  "bank": "bank/ch06_adapt.json",
+  "id": "c6-h07",
+  "choice_index": 1,
+  "question": "How many valence electrons are in the carbonate ion, CO<sub>3</sub><sup>2&minus;</sup>?",
+  "choices": [
+   "24",
+   "22",
+   "20",
+   "12"
+  ],
+  "correct": "24",
+  "worked": "4 + 3(6) + 2 = <b>24</b> valence electrons for CO<sub>3</sub><sup>2&minus;</sup>.",
+  "old_reason": "This forgets the 2&minus; charge.",
+  "new_reason": "This forgets the 2&minus; charge. A negative ion has extra electrons, so add 2 to the valence electrons of the atoms."
+ },
+ {
+  "bank": "bank/ch06_adapt.json",
+  "id": "c6-h07",
+  "choice_index": 3,
+  "question": "How many valence electrons are in the carbonate ion, CO<sub>3</sub><sup>2&minus;</sup>?",
+  "choices": [
+   "24",
+   "22",
+   "20",
+   "12"
+  ],
+  "correct": "24",
+  "worked": "4 + 3(6) + 2 = <b>24</b> valence electrons for CO<sub>3</sub><sup>2&minus;</sup>.",
+  "old_reason": "This counts one O atom: 4 + 6 + 2.",
+  "new_reason": "This counts one O atom: 4 + 6 + 2. Multiply by the subscript: three O atoms give 3 &times; 6."
+ },
+ {
+  "bank": "bank/ch06_adapt.json",
+  "id": "c6-h16",
+  "choice_index": 2,
+  "question": "A central atom has <b>4 electron groups</b>, and <b>1</b> is a lone pair. What is the molecular shape?",
+  "choices": [
+   "trigonal pyramidal",
+   "tetrahedral",
+   "bent",
+   "trigonal planar"
+  ],
+  "correct": "trigonal pyramidal",
+  "worked": "4 groups, 1 lone pair: <b>trigonal pyramidal</b>, about 109.5&deg; (NH<sub>3</sub>).",
+  "old_reason": "Bent (4 groups) has 2 lone pairs.",
+  "new_reason": "Bent (4 groups) has 2 lone pairs. With 4 groups and only 1 lone pair, three atoms sit around the center, like NH<sub>3</sub>."
+ },
+ {
+  "bank": "bank/ch06_adapt.json",
+  "id": "c6-h18",
+  "choice_index": 3,
+  "question": "What is the best estimate of the Cl&ndash;P&ndash;Cl bond angle in PCl<sub>3</sub> (three bonds and one lone pair on P)?",
+  "choices": [
+   "about 109.5&deg;",
+   "120&deg;",
+   "90&deg;",
+   "180&deg;"
+  ],
+  "correct": "about 109.5&deg;",
+  "worked": "4 groups (trigonal pyramidal): <b>about 109.5&deg;</b>.",
+  "old_reason": "180&deg; is for 2 groups.",
+  "new_reason": "180&deg; is for 2 groups. P has 4 electron groups (3 bonds + 1 lone pair), so start from the tetrahedral angle, about 109.5&deg;."
+ },
+ {
+  "bank": "bank/ch06_adapt.json",
+  "id": "c6-h29",
+  "choice_index": 2,
+  "question": "Calcium chloride, CaCl<sub>2</sub> (110.98 g/mol), is used in IV solutions and as a dust-control salt on dirt roads. What is its mass percent of chlorine? (Cl 35.45)",
+  "choices": [
+   "63.89%",
+   "31.94%",
+   "36.11%",
+   "176.9%"
+  ],
+  "correct": "63.89%",
+  "worked": "%Cl = 70.90 &divide; 110.98 &times; 100% = <b>63.89%</b>.",
+  "old_reason": "This is the percent of calcium.",
+  "new_reason": "This is the percent of calcium. Use the mass of chlorine, 2 &times; 35.45, over the molar mass of CaCl<sub>2</sub>."
+ },
+ {
+  "bank": "bank/ch06_adapt.json",
+  "id": "c6-h32",
+  "choice_index": 1,
+  "question": "Calcium dihydrogen phosphate, Ca(H<sub>2</sub>PO<sub>4</sub>)<sub>2</sub> (234.04 g/mol), is a phosphorus fertilizer. What is its mass percent of phosphorus? (P 30.97)",
+  "choices": [
+   "26.47%",
+   "13.23%",
+   "17.13%",
+   "22.60%"
+  ],
+  "correct": "26.47%",
+  "worked": "%P = 2(30.97) &divide; 234.04 &times; 100% = <b>26.47%</b>.",
+  "old_reason": "This counts one P atom.",
+  "new_reason": "This counts one P atom. Ca(H<sub>2</sub>PO<sub>4</sub>)<sub>2</sub> has 2 P atoms, so use 2 &times; 30.97 on top."
+ },
+ {
+  "bank": "bank/ch06_adapt.json",
+  "id": "c6-h32",
+  "choice_index": 2,
+  "question": "Calcium dihydrogen phosphate, Ca(H<sub>2</sub>PO<sub>4</sub>)<sub>2</sub> (234.04 g/mol), is a phosphorus fertilizer. What is its mass percent of phosphorus? (P 30.97)",
+  "choices": [
+   "26.47%",
+   "13.23%",
+   "17.13%",
+   "22.60%"
+  ],
+  "correct": "26.47%",
+  "worked": "%P = 2(30.97) &divide; 234.04 &times; 100% = <b>26.47%</b>.",
+  "old_reason": "This is the percent of calcium.",
+  "new_reason": "This is the percent of calcium. Put the mass of phosphorus, 2 &times; 30.97, over the molar mass."
+ },
+ {
+  "bank": "bank/ch06_adapt.json",
+  "id": "c6-h33",
+  "choice_index": 2,
+  "question": "Niacin (vitamin B<sub>3</sub>), C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub> (123.111 g/mol), is sold as a supplement. What is its mass percent of nitrogen? (N 14.007)",
+  "choices": [
+   "11.38%",
+   "7.143%",
+   "58.54%",
+   "878.9%"
+  ],
+  "correct": "11.38%",
+  "worked": "%N = 14.007 &divide; 123.111 &times; 100% = <b>11.38%</b>.",
+  "old_reason": "This is the percent of carbon.",
+  "new_reason": "This is the percent of carbon. Put the mass of nitrogen, 1 &times; 14.007, over the molar mass."
+ },
+ {
+  "bank": "bank/ch06_adapt.json",
+  "id": "c6-h33",
+  "choice_index": 3,
+  "question": "Niacin (vitamin B<sub>3</sub>), C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub> (123.111 g/mol), is sold as a supplement. What is its mass percent of nitrogen? (N 14.007)",
+  "choices": [
+   "11.38%",
+   "7.143%",
+   "58.54%",
+   "878.9%"
+  ],
+  "correct": "11.38%",
+  "worked": "%N = 14.007 &divide; 123.111 &times; 100% = <b>11.38%</b>.",
+  "old_reason": "This divides the wrong way.",
+  "new_reason": "This divides the wrong way. Mass percent = (mass of N &divide; molar mass of compound) &times; 100%; the part goes on top."
+ },
+ {
+  "bank": "bank/ch07.json",
+  "id": "c7-003",
+  "choice_index": 2,
+  "question": "Barium chloride solution is mixed with magnesium sulfate (Epsom salt) solution: BaCl<sub>2</sub>(aq) + MgSO<sub>4</sub>(aq) &rarr; BaSO<sub>4</sub>(s) + MgCl<sub>2</sub>(aq). What does the label (s) after BaSO<sub>4</sub> tell you?",
+  "choices": [
+   "BaSO<sub>4</sub> forms as a solid, a precipitate.",
+   "BaSO<sub>4</sub> stays dissolved in the water.",
+   "BaSO<sub>4</sub> is formed as a gas.",
+   "Only a single unit of BaSO<sub>4</sub> forms."
+  ],
+  "correct": "BaSO<sub>4</sub> forms as a solid, a precipitate.",
+  "worked": "(s) = solid, (l) = liquid, (g) = gas, (aq) = dissolved in water. <b>BaSO<sub>4</sub>(s) is a solid precipitate</b>; MgCl<sub>2</sub>(aq) stays dissolved.",
+  "old_reason": "Gases are labeled (g).",
+  "new_reason": "Gases are labeled (g). The label (s) means solid; a solid that forms when two solutions mix is a precipitate."
+ },
+ {
+  "bank": "bank/ch07.json",
+  "id": "c7-014",
+  "choice_index": 2,
+  "question": "Nickel wire is placed in silver nitrate solution: Ni(s) + 2 AgNO<sub>3</sub>(aq) &rarr; Ni(NO<sub>3</sub>)<sub>2</sub>(aq) + 2 Ag(s). What type of reaction is this?",
+  "choices": [
+   "Single displacement",
+   "Double displacement",
+   "Combination",
+   "Decomposition"
+  ],
+  "correct": "Single displacement",
+  "worked": "Element + compound &rarr; new compound + new element: <b>single displacement</b>.",
+  "old_reason": "There are two products, not one.",
+  "new_reason": "There are two products, not one, so this is not combination. An element replacing another element in a compound is single displacement."
+ },
+ {
+  "bank": "bank/ch07.json",
+  "id": "c7-027",
+  "choice_index": 2,
+  "question": "Use the solubility rules. Which compound is <b>insoluble</b> in water?",
+  "choices": [
+   "AgI",
+   "NaI",
+   "Mg(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub>",
+   "(NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub>"
+  ],
+  "correct": "AgI",
+  "worked": "AgI: iodide with Ag<sup>+</sup> is an exception, so <b>AgI is insoluble</b>.",
+  "old_reason": "Acetates are always soluble.",
+  "new_reason": "Acetates are always soluble. Check the exceptions on the green sheet: find the anion that is insoluble with this cation."
+ },
+ {
+  "bank": "bank/ch07.json",
+  "id": "c7-029",
+  "choice_index": 2,
+  "question": "A barium contrast agent must be <b>insoluble</b>, so that almost no toxic Ba<sup>2+</sup> dissolves and is absorbed. By the solubility rules, which barium compound is insoluble?",
+  "choices": [
+   "BaSO<sub>4</sub>",
+   "BaCl<sub>2</sub>",
+   "Ba(NO<sub>3</sub>)<sub>2</sub>",
+   "BaS"
+  ],
+  "correct": "BaSO<sub>4</sub>",
+  "worked": "<b>BaSO<sub>4</sub></b> is insoluble (sulfate with Ba<sup>2+</sup>), which is why it is used for X-ray contrast. (Context only.)",
+  "old_reason": "Nitrates are always soluble.",
+  "new_reason": "Nitrates are always soluble. Check the green sheet for which anion is insoluble with Ba<sup>2+</sup>."
+ },
+ {
+  "bank": "bank/ch07.json",
+  "id": "c7-030",
+  "choice_index": 2,
+  "question": "Which sulfide is <b>insoluble</b> in water?",
+  "choices": [
+   "ZnS",
+   "CaS",
+   "Na<sub>2</sub>S",
+   "(NH<sub>4</sub>)<sub>2</sub>S"
+  ],
+  "correct": "ZnS",
+  "worked": "<b>ZnS</b> is insoluble; Zn<sup>2+</sup> is not on the exception list.",
+  "old_reason": "Sodium is Group 1: always soluble.",
+  "new_reason": "Sodium is Group 1: always soluble. Sulfides are insoluble unless the cation is an exception, so find the cation not on that list."
+ },
+ {
+  "bank": "bank/ch07.json",
+  "id": "c7-058",
+  "choice_index": 3,
+  "question": "The thermite reaction welds railroad rails: 2 Al(s) + Fe<sub>2</sub>O<sub>3</sub>(s) &rarr; Al<sub>2</sub>O<sub>3</sub>(s) + 2 Fe(s). What is the oxidizing agent?",
+  "choices": [
+   "Fe<sub>2</sub>O<sub>3</sub>",
+   "Al",
+   "Al<sub>2</sub>O<sub>3</sub>",
+   "Fe"
+  ],
+  "correct": "Fe<sub>2</sub>O<sub>3</sub>",
+  "worked": "Al: 0 &rarr; +3 (oxidized; reducing agent). Fe: +3 &rarr; 0 (reduced). Oxidizing agent: <b>Fe<sub>2</sub>O<sub>3</sub></b>.",
+  "old_reason": "Fe is a product.",
+  "new_reason": "Fe is a product, and the oxidizing agent is a reactant. Find the reactant whose atoms are reduced (Fe +3 &rarr; 0)."
+ },
+ {
+  "bank": "bank/ch07.json",
+  "id": "c7-066",
+  "choice_index": 2,
+  "question": "Activity series (most active first): Zn, Fe, Ni, Sn, Pb, H<sub>2</sub>, Cu, Ag, Au. Which metal could recover lead from a solution of lead(II) nitrate?",
+  "choices": [
+   "Zn",
+   "Cu",
+   "Ag",
+   "Au"
+  ],
+  "correct": "Zn",
+  "worked": "Only <b>Zn</b> is above Pb on the list.",
+  "old_reason": "Silver is below lead.",
+  "new_reason": "Silver is below lead, so it cannot displace it. Pick a metal that sits above Pb on the activity series."
+ },
+ {
+  "bank": "bank/ch07_adapt.json",
+  "id": "c7-h05",
+  "choice_index": 2,
+  "question": "Hexane, C<sub>6</sub>H<sub>14</sub>, is a solvent used to extract cooking oil from seeds. In the balanced equation for its complete combustion, C<sub>6</sub>H<sub>14</sub>(l) + O<sub>2</sub>(g) &rarr; CO<sub>2</sub>(g) + H<sub>2</sub>O(g), what is the lowest whole-number coefficient of O<sub>2</sub>?",
+  "choices": [
+   "19",
+   "9.5",
+   "38",
+   "13"
+  ],
+  "correct": "19",
+  "worked": "2 C<sub>6</sub>H<sub>14</sub>(l) + 19 O<sub>2</sub>(g) &rarr; 12 CO<sub>2</sub>(g) + 14 H<sub>2</sub>O(g): O 38 = 24 + 14. Coefficient of O<sub>2</sub>: <b>19</b>.",
+  "old_reason": "38 is double the lowest set.",
+  "new_reason": "38 is double the lowest set. With 2 C<sub>6</sub>H<sub>14</sub>, the products need 38 O atoms; each O<sub>2</sub> supplies two, so divide by 2 for the coefficient."
+ },
+ {
+  "bank": "bank/ch07_adapt.json",
+  "id": "c7-h16",
+  "choice_index": 2,
+  "question": "By the green-sheet rules, which compound is <b>insoluble</b> in water?",
+  "choices": [
+   "CaSO<sub>3</sub>",
+   "MgSO<sub>3</sub>",
+   "Na<sub>2</sub>S",
+   "NH<sub>4</sub>F"
+  ],
+  "correct": "CaSO<sub>3</sub>",
+  "worked": "<b>CaSO<sub>3</sub></b> is insoluble (sulfite with Ca<sup>2+</sup>).",
+  "old_reason": "Sodium is Group 1: always soluble.",
+  "new_reason": "Sodium is Group 1: always soluble. Sulfites are insoluble unless the cation is an exception, so look for a sulfite with a non-exception cation."
+ },
+ {
+  "bank": "bank/ch07_adapt.json",
+  "id": "c7-h25",
+  "choice_index": 3,
+  "question": "What is the net ionic equation for hydroiodic acid, HI(aq), reacting with sodium hydroxide solution?",
+  "choices": [
+   "H<sup>+</sup>(aq) + OH<sup>&minus;</sup>(aq) &rarr; H<sub>2</sub>O(l)",
+   "HI(aq) + OH<sup>&minus;</sup>(aq) &rarr; H<sub>2</sub>O(l) + I<sup>&minus;</sup>(aq)",
+   "Na<sup>+</sup>(aq) + I<sup>&minus;</sup>(aq) &rarr; NaI(s)",
+   "HI(aq) + NaOH(aq) &rarr; H<sub>2</sub>O(l) + NaI(aq)"
+  ],
+  "correct": "H<sup>+</sup>(aq) + OH<sup>&minus;</sup>(aq) &rarr; H<sub>2</sub>O(l)",
+  "worked": "<b>H<sup>+</sup>(aq) + OH<sup>&minus;</sup>(aq) &rarr; H<sub>2</sub>O(l)</b>",
+  "old_reason": "This is the molecular equation.",
+  "new_reason": "This is the molecular equation. Split strong acids, strong bases and soluble salts into ions, then cancel the spectators (Na<sup>+</sup> and I<sup>&minus;</sup>)."
+ },
+ {
+  "bank": "bank/ch07_adapt.json",
+  "id": "c7-h31",
+  "choice_index": 2,
+  "question": "Rust is mostly iron(III) oxide, Fe<sub>2</sub>O<sub>3</sub>. What is the oxidation number of iron in Fe<sub>2</sub>O<sub>3</sub>?",
+  "choices": [
+   "+3",
+   "+6",
+   "+2",
+   "&minus;2"
+  ],
+  "correct": "+3",
+  "worked": "2 Fe + 3(&minus;2) = 0 &rarr; Fe = <b>+3</b>.",
+  "old_reason": "+2 is iron in FeO, iron(II) oxide.",
+  "new_reason": "+2 is iron in FeO, iron(II) oxide. Set the sum to zero: 2 Fe + 3(&minus;2) = 0, then solve for Fe."
+ },
+ {
+  "bank": "bank/ch07_adapt.json",
+  "id": "c7-h38",
+  "choice_index": 2,
+  "question": "Activity series (most active first): Mg, Al, Zn, Fe, Ni, Sn, Pb, H<sub>2</sub>, Cu. Which metal reacts with zinc nitrate solution?",
+  "choices": [
+   "Al",
+   "Fe",
+   "Ni",
+   "Cu"
+  ],
+  "correct": "Al",
+  "worked": "Only <b>Al</b> is above Zn among the choices: 2 Al(s) + 3 Zn(NO<sub>3</sub>)<sub>2</sub>(aq) &rarr; 2 Al(NO<sub>3</sub>)<sub>3</sub>(aq) + 3 Zn(s).",
+  "old_reason": "Nickel is below zinc.",
+  "new_reason": "Nickel is below zinc, so it cannot displace it. Pick a metal that sits above Zn on the activity series."
+ },
+ {
+  "bank": "bank/ch08.json",
+  "id": "c8-028",
+  "choice_index": 2,
+  "question": "Heating limestone in a kiln makes lime for cement and for treating farm soil: CaCO<sub>3</sub>(s) &rarr; CaO(s) + CO<sub>2</sub>(g). What volume of CO<sub>2</sub> at STP forms from 15.0 g of CaCO<sub>3</sub>? (CaCO<sub>3</sub> 100.09 g/mol)",
+  "choices": [
+   "3.36 L CO<sub>2</sub>",
+   "336 L CO<sub>2</sub>",
+   "0.150 mol CO<sub>2</sub>",
+   "0.00669 L CO<sub>2</sub>"
+  ],
+  "correct": "3.36 L CO<sub>2</sub>",
+  "worked": "15.0 g &times; (1 mol / 100.09 g) &times; (1 mol CO<sub>2</sub> / 1 mol CaCO<sub>3</sub>) &times; (22.4 L / 1 mol) = <b>3.36 L CO<sub>2</sub></b> at STP.",
+  "old_reason": "This stops at moles of CO<sub>2</sub>.",
+  "new_reason": "This stops at moles of CO<sub>2</sub>. Multiply by 22.4 L/mol to convert moles to liters at STP."
+ },
+ {
+  "bank": "bank/ch08.json",
+  "id": "c8-029",
+  "choice_index": 3,
+  "question": "In a gas-production lab, magnesium ribbon reacts with acid: Mg(s) + 2 HCl(aq) &rarr; MgCl<sub>2</sub>(aq) + H<sub>2</sub>(g). What volume of H<sub>2</sub>, in mL at STP, forms from 0.0425 g of Mg? (Mg 24.31 g/mol)",
+  "choices": [
+   "39.2 mL H<sub>2</sub>",
+   "78.3 mL H<sub>2</sub>",
+   "0.0392 mL H<sub>2</sub>",
+   "0.00175 mol H<sub>2</sub>"
+  ],
+  "correct": "39.2 mL H<sub>2</sub>",
+  "worked": "0.0425 g Mg &times; (1 mol / 24.31 g) &times; (1 mol H<sub>2</sub> / 1 mol Mg) &times; (22.4 L / 1 mol) = 0.03916 L = <b>39.2 mL H<sub>2</sub></b>.",
+  "old_reason": "This stops at moles of H<sub>2</sub>.",
+  "new_reason": "This stops at moles of H<sub>2</sub>. Multiply by 22.4 L/mol, then convert liters to mL."
+ },
+ {
+  "bank": "bank/ch08.json",
+  "id": "c8-030",
+  "choice_index": 3,
+  "question": "A winemaker ferments grapes at 25 &deg;C and 1 atm, where 1 mol of gas occupies 24.5 L: C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>(aq) &rarr; 2 C<sub>2</sub>H<sub>5</sub>OH(aq) + 2 CO<sub>2</sub>(g). What volume of CO<sub>2</sub> forms from 12.6 g of glucose? (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> 180.156 g/mol)",
+  "choices": [
+   "3.43 L CO<sub>2</sub>",
+   "3.13 L CO<sub>2</sub>",
+   "1.71 L CO<sub>2</sub>",
+   "0.140 mol CO<sub>2</sub>"
+  ],
+  "correct": "3.43 L CO<sub>2</sub>",
+  "worked": "12.6 g &times; (1 mol / 180.156 g) &times; (2 mol CO<sub>2</sub> / 1 mol glucose) &times; (24.5 L / 1 mol) = <b>3.43 L CO<sub>2</sub></b>.",
+  "old_reason": "This stops at moles of CO<sub>2</sub>.",
+  "new_reason": "This stops at moles of CO<sub>2</sub>. Multiply by the given 24.5 L/mol to convert to liters at these conditions."
+ },
+ {
+  "bank": "bank/ch08.json",
+  "id": "c8-035",
+  "choice_index": 3,
+  "question": "What is the <b>limiting reactant</b> in a reaction?",
+  "choices": [
+   "The reactant that is used up first, which sets the most product that can form",
+   "The reactant present in the smallest mass",
+   "The reactant with the smallest coefficient in the balanced equation",
+   "The reactant that is left over when the reaction stops"
+  ],
+  "correct": "The reactant that is used up first, which sets the most product that can form",
+  "worked": "The limiting reactant is <b>used up first and sets the maximum amount of product</b>; the other reactant is in excess and some is left over.",
+  "old_reason": "That is the excess reactant.",
+  "new_reason": "That is the excess reactant. The limiting reactant runs out first, so it decides how much product can form."
+ },
+ {
+  "bank": "bank/ch08.json",
+  "id": "c8-048",
+  "choice_index": 1,
+  "question": "What is the <b>theoretical yield</b> of a reaction?",
+  "choices": [
+   "The most product that stoichiometry predicts from the limiting reactant",
+   "The mass of product you weigh at the end of the lab",
+   "The total mass of all the reactants",
+   "The product predicted from the excess reactant"
+  ],
+  "correct": "The most product that stoichiometry predicts from the limiting reactant",
+  "worked": "Theoretical yield = <b>the maximum product calculated from the limiting reactant</b>.",
+  "old_reason": "That is the actual yield.",
+  "new_reason": "That is the actual yield, what you weigh in lab. The theoretical yield is calculated from the limiting reactant by stoichiometry."
+ },
+ {
+  "bank": "bank/ch08.json",
+  "id": "c8-053",
+  "choice_index": 3,
+  "question": "Which question does a <b>percent yield</b> answer?",
+  "choices": [
+   "How much of the possible product did I collect?",
+   "How close is my measurement to the accepted value?",
+   "How much of the excess reactant is left?",
+   "How fast did the reaction go?"
+  ],
+  "correct": "How much of the possible product did I collect?",
+  "worked": "Percent yield asks <b>how much of the possible product you collected</b>; percent error asks how close a measurement is to the accepted value.",
+  "old_reason": "Yield says nothing about speed.",
+  "new_reason": "Yield says nothing about speed. Percent yield compares product collected with the most product possible: actual &divide; theoretical &times; 100%."
+ },
+ {
+  "bank": "bank/ch08.json",
+  "id": "c8-063",
+  "choice_index": 1,
+  "question": "A Valley dairy digester burns captured methane, CH<sub>4</sub>(g) + 2 O<sub>2</sub>(g) &rarr; CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l), &Delta;H = &minus;890.3 kJ. What mass of methane must burn to release 3.60 &times; 10<sup>4</sup> kJ? (CH<sub>4</sub> 16.043 g/mol)",
+  "choices": [
+   "649 g CH<sub>4</sub>",
+   "40.4 mol CH<sub>4</sub>",
+   "2.52 g CH<sub>4</sub>",
+   "324 g CH<sub>4</sub>"
+  ],
+  "correct": "649 g CH<sub>4</sub>",
+  "worked": "3.60 &times; 10<sup>4</sup> kJ &times; (1 mol CH<sub>4</sub> / 890.3 kJ) &times; (16.043 g / 1 mol) = <b>649 g CH<sub>4</sub></b>.",
+  "old_reason": "This stops at moles of methane.",
+  "new_reason": "This stops at moles of methane. Multiply by 16.043 g/mol to convert moles to grams."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h02",
+  "choice_index": 2,
+  "question": "For ammonia fertilizer, N<sub>2</sub>(g) + 3 H<sub>2</sub>(g) &rarr; 2 NH<sub>3</sub>(g). How many moles of H<sub>2</sub> are needed to make 5.30 mol of NH<sub>3</sub>?",
+  "choices": [
+   "7.95 mol H<sub>2</sub>",
+   "3.53 mol H<sub>2</sub>",
+   "5.30 mol H<sub>2</sub>",
+   "15.9 mol H<sub>2</sub>"
+  ],
+  "correct": "7.95 mol H<sub>2</sub>",
+  "worked": "5.30 mol NH<sub>3</sub> &times; (3 mol H<sub>2</sub> / 2 mol NH<sub>3</sub>) = <b>7.95 mol H<sub>2</sub></b>.",
+  "old_reason": "This skips the mole ratio.",
+  "new_reason": "This skips the mole ratio. Multiply by the coefficients from the balanced equation, 3 mol H<sub>2</sub> / 2 mol NH<sub>3</sub>."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h03",
+  "choice_index": 2,
+  "question": "Ethanol burns in a fuel blend by C<sub>2</sub>H<sub>5</sub>OH(l) + 3 O<sub>2</sub>(g) &rarr; 2 CO<sub>2</sub>(g) + 3 H<sub>2</sub>O(g). How many moles of CO<sub>2</sub> form when 0.715 mol of O<sub>2</sub> is used?",
+  "choices": [
+   "0.477 mol CO<sub>2</sub>",
+   "1.07 mol CO<sub>2</sub>",
+   "0.715 mol CO<sub>2</sub>",
+   "1.43 mol CO<sub>2</sub>"
+  ],
+  "correct": "0.477 mol CO<sub>2</sub>",
+  "worked": "0.715 mol O<sub>2</sub> &times; (2 mol CO<sub>2</sub> / 3 mol O<sub>2</sub>) = <b>0.477 mol CO<sub>2</sub></b>.",
+  "old_reason": "This skips the mole ratio.",
+  "new_reason": "This skips the mole ratio. Multiply by the coefficients from the balanced equation, 2 mol CO<sub>2</sub> / 3 mol O<sub>2</sub>."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h06",
+  "choice_index": 2,
+  "question": "Roasting pyrite ore, 4 FeS<sub>2</sub>(s) + 11 O<sub>2</sub>(g) &rarr; 2 Fe<sub>2</sub>O<sub>3</sub>(s) + 8 SO<sub>2</sub>(g), releases sulfur dioxide. How many moles of O<sub>2</sub> are used when 3.52 mol of SO<sub>2</sub> forms?",
+  "choices": [
+   "4.84 mol O<sub>2</sub>",
+   "2.56 mol O<sub>2</sub>",
+   "3.52 mol O<sub>2</sub>",
+   "9.68 mol O<sub>2</sub>"
+  ],
+  "correct": "4.84 mol O<sub>2</sub>",
+  "worked": "3.52 mol SO<sub>2</sub> &times; (11 mol O<sub>2</sub> / 8 mol SO<sub>2</sub>) = <b>4.84 mol O<sub>2</sub></b>.",
+  "old_reason": "This skips the mole ratio.",
+  "new_reason": "This skips the mole ratio. Multiply by the coefficients from the balanced equation, 11 mol O<sub>2</sub> / 8 mol SO<sub>2</sub>."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h07",
+  "choice_index": 2,
+  "question": "A student writes the unbalanced equation H<sub>2</sub>(g) + O<sub>2</sub>(g) &rarr; H<sub>2</sub>O(l) and uses 1 mol H<sub>2</sub>O / 1 mol O<sub>2</sub>. After balancing, how many moles of H<sub>2</sub>O form per mole of O<sub>2</sub>?",
+  "choices": [
+   "2 mol H<sub>2</sub>O per 1 mol O<sub>2</sub>",
+   "1 mol H<sub>2</sub>O per 1 mol O<sub>2</sub>",
+   "1 mol H<sub>2</sub>O per 2 mol O<sub>2</sub>",
+   "3 mol H<sub>2</sub>O per 1 mol O<sub>2</sub>"
+  ],
+  "correct": "2 mol H<sub>2</sub>O per 1 mol O<sub>2</sub>",
+  "worked": "2 H<sub>2</sub>(g) + O<sub>2</sub>(g) &rarr; 2 H<sub>2</sub>O(l): <b>2 mol H<sub>2</sub>O per 1 mol O<sub>2</sub></b>. Always balance before writing a mole ratio.",
+  "old_reason": "This is upside down.",
+  "new_reason": "This is upside down. After balancing (2 H<sub>2</sub> + O<sub>2</sub> &rarr; 2 H<sub>2</sub>O), put the coefficient of what you want on top: 2 mol H<sub>2</sub>O / 1 mol O<sub>2</sub>."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h08",
+  "choice_index": 3,
+  "question": "A hydrogen fuel-cell bus runs on 2 H<sub>2</sub>(g) + O<sub>2</sub>(g) &rarr; 2 H<sub>2</sub>O(l). What mass of water forms from 6.35 g of H<sub>2</sub>? (H<sub>2</sub> 2.016 g/mol; H<sub>2</sub>O 18.015 g/mol)",
+  "choices": [
+   "56.7 g H<sub>2</sub>O",
+   "113 g H<sub>2</sub>O",
+   "0.711 g H<sub>2</sub>O",
+   "3.15 mol H<sub>2</sub>O"
+  ],
+  "correct": "56.7 g H<sub>2</sub>O",
+  "worked": "6.35 g &times; (1 mol / 2.016 g) &times; (2 mol H<sub>2</sub>O / 2 mol H<sub>2</sub>) &times; (18.015 g / 1 mol) = <b>56.7 g H<sub>2</sub>O</b>.",
+  "old_reason": "This stops at moles.",
+  "new_reason": "This stops at moles. Use the 2 : 2 mole ratio, then multiply by 18.015 g/mol to get grams of H<sub>2</sub>O."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h09",
+  "choice_index": 1,
+  "question": "What mass of CO<sub>2</sub> forms when 9.20 g of ethanol burns? C<sub>2</sub>H<sub>5</sub>OH(l) + 3 O<sub>2</sub>(g) &rarr; 2 CO<sub>2</sub>(g) + 3 H<sub>2</sub>O(g) (C<sub>2</sub>H<sub>5</sub>OH 46.069 g/mol; CO<sub>2</sub> 44.009 g/mol)",
+  "choices": [
+   "17.6 g CO<sub>2</sub>",
+   "8.79 g CO<sub>2</sub>",
+   "4.39 g CO<sub>2</sub>",
+   "35.2 g CO<sub>2</sub>"
+  ],
+  "correct": "17.6 g CO<sub>2</sub>",
+  "worked": "9.20 g &times; (1 mol / 46.069 g) &times; (2 mol CO<sub>2</sub> / 1 mol) &times; (44.009 g / 1 mol) = <b>17.6 g CO<sub>2</sub></b>.",
+  "old_reason": "This skips the mole ratio.",
+  "new_reason": "This skips the mole ratio. Multiply moles of ethanol by 2 mol CO<sub>2</sub> / 1 mol C<sub>2</sub>H<sub>5</sub>OH before converting to grams."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h11",
+  "choice_index": 1,
+  "question": "Natural gas burns by CH<sub>4</sub>(g) + 2 O<sub>2</sub>(g) &rarr; CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l). What mass of water forms from 5.75 g of CH<sub>4</sub>? (CH<sub>4</sub> 16.043 g/mol; H<sub>2</sub>O 18.015 g/mol)",
+  "choices": [
+   "12.9 g H<sub>2</sub>O",
+   "6.46 g H<sub>2</sub>O",
+   "3.23 g H<sub>2</sub>O",
+   "25.8 g H<sub>2</sub>O"
+  ],
+  "correct": "12.9 g H<sub>2</sub>O",
+  "worked": "5.75 g &times; (1 mol / 16.043 g) &times; (2 mol H<sub>2</sub>O / 1 mol CH<sub>4</sub>) &times; (18.015 g / 1 mol) = <b>12.9 g H<sub>2</sub>O</b>.",
+  "old_reason": "This skips the mole ratio.",
+  "new_reason": "This skips the mole ratio. Multiply moles of CH<sub>4</sub> by 2 mol H<sub>2</sub>O / 1 mol CH<sub>4</sub> before converting to grams."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h11",
+  "choice_index": 3,
+  "question": "Natural gas burns by CH<sub>4</sub>(g) + 2 O<sub>2</sub>(g) &rarr; CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l). What mass of water forms from 5.75 g of CH<sub>4</sub>? (CH<sub>4</sub> 16.043 g/mol; H<sub>2</sub>O 18.015 g/mol)",
+  "choices": [
+   "12.9 g H<sub>2</sub>O",
+   "6.46 g H<sub>2</sub>O",
+   "3.23 g H<sub>2</sub>O",
+   "25.8 g H<sub>2</sub>O"
+  ],
+  "correct": "12.9 g H<sub>2</sub>O",
+  "worked": "5.75 g &times; (1 mol / 16.043 g) &times; (2 mol H<sub>2</sub>O / 1 mol CH<sub>4</sub>) &times; (18.015 g / 1 mol) = <b>12.9 g H<sub>2</sub>O</b>.",
+  "old_reason": "This uses the coefficient twice.",
+  "new_reason": "This uses the coefficient twice. Apply the 2 mol H<sub>2</sub>O / 1 mol CH<sub>4</sub> ratio only once in the chain."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h12",
+  "choice_index": 3,
+  "question": "A lab tests for chloride with silver nitrate: AgNO<sub>3</sub>(aq) + NaCl(aq) &rarr; AgCl(s) + NaNO<sub>3</sub>(aq). What mass of AgCl precipitate forms from 2.15 g of NaCl? (NaCl 58.44 g/mol; AgCl 143.32 g/mol)",
+  "choices": [
+   "5.27 g AgCl",
+   "2.15 g AgCl",
+   "0.877 g AgCl",
+   "0.0368 mol AgCl"
+  ],
+  "correct": "5.27 g AgCl",
+  "worked": "2.15 g &times; (1 mol / 58.44 g) &times; (1 mol AgCl / 1 mol NaCl) &times; (143.32 g / 1 mol) = <b>5.27 g AgCl</b>.",
+  "old_reason": "This stops at moles.",
+  "new_reason": "This stops at moles. Use the 1 : 1 ratio, then multiply by 143.32 g/mol to get grams of AgCl."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h14",
+  "choice_index": 1,
+  "question": "Milk of magnesia neutralizes stomach acid: Mg(OH)<sub>2</sub>(s) + 2 HCl(aq) &rarr; MgCl<sub>2</sub>(aq) + 2 H<sub>2</sub>O(l). What mass of HCl can 0.350 g of Mg(OH)<sub>2</sub> neutralize? (Mg(OH)<sub>2</sub> 58.32 g/mol; HCl 36.46 g/mol)",
+  "choices": [
+   "0.438 g HCl",
+   "0.219 g HCl",
+   "0.109 g HCl",
+   "0.875 g HCl"
+  ],
+  "correct": "0.438 g HCl",
+  "worked": "0.350 g &times; (1 mol / 58.32 g) &times; (2 mol HCl / 1 mol) &times; (36.46 g / 1 mol) = <b>0.438 g HCl</b>. (Context only; follow the label.)",
+  "old_reason": "This skips the mole ratio.",
+  "new_reason": "This skips the mole ratio. Multiply moles of Mg(OH)<sub>2</sub> by 2 mol HCl / 1 mol Mg(OH)<sub>2</sub> before converting to grams."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h14",
+  "choice_index": 3,
+  "question": "Milk of magnesia neutralizes stomach acid: Mg(OH)<sub>2</sub>(s) + 2 HCl(aq) &rarr; MgCl<sub>2</sub>(aq) + 2 H<sub>2</sub>O(l). What mass of HCl can 0.350 g of Mg(OH)<sub>2</sub> neutralize? (Mg(OH)<sub>2</sub> 58.32 g/mol; HCl 36.46 g/mol)",
+  "choices": [
+   "0.438 g HCl",
+   "0.219 g HCl",
+   "0.109 g HCl",
+   "0.875 g HCl"
+  ],
+  "correct": "0.438 g HCl",
+  "worked": "0.350 g &times; (1 mol / 58.32 g) &times; (2 mol HCl / 1 mol) &times; (36.46 g / 1 mol) = <b>0.438 g HCl</b>. (Context only; follow the label.)",
+  "old_reason": "This uses the coefficient twice.",
+  "new_reason": "This uses the coefficient twice. Apply the 2 mol HCl / 1 mol Mg(OH)<sub>2</sub> ratio only once in the chain."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h15",
+  "choice_index": 2,
+  "question": "How many moles of glucose are in 125 mL of a 0.0400 M glucose solution?",
+  "choices": [
+   "0.00500 mol",
+   "5.00 mol",
+   "3.13 mol",
+   "3.20 &times; 10<sup>&minus;4</sup> mol"
+  ],
+  "correct": "0.00500 mol",
+  "worked": "0.125 L &times; 0.0400 mol/L = <b>0.00500 mol</b> glucose.",
+  "old_reason": "This divides volume by molarity.",
+  "new_reason": "This divides volume by molarity. Convert mL to L, then multiply: moles = M &times; V (L)."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h16",
+  "choice_index": 1,
+  "question": "What volume of N<sub>2</sub> at STP is needed to make 0.875 mol of NH<sub>3</sub>? N<sub>2</sub>(g) + 3 H<sub>2</sub>(g) &rarr; 2 NH<sub>3</sub>(g)",
+  "choices": [
+   "9.80 L N<sub>2</sub>",
+   "19.6 L N<sub>2</sub>",
+   "39.2 L N<sub>2</sub>",
+   "0.438 mol N<sub>2</sub>"
+  ],
+  "correct": "9.80 L N<sub>2</sub>",
+  "worked": "0.875 mol NH<sub>3</sub> &times; (1 mol N<sub>2</sub> / 2 mol NH<sub>3</sub>) &times; (22.4 L / 1 mol) = <b>9.80 L N<sub>2</sub></b>.",
+  "old_reason": "This skips the mole ratio.",
+  "new_reason": "This skips the mole ratio. Multiply by 1 mol N<sub>2</sub> / 2 mol NH<sub>3</sub> before converting to liters."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h16",
+  "choice_index": 3,
+  "question": "What volume of N<sub>2</sub> at STP is needed to make 0.875 mol of NH<sub>3</sub>? N<sub>2</sub>(g) + 3 H<sub>2</sub>(g) &rarr; 2 NH<sub>3</sub>(g)",
+  "choices": [
+   "9.80 L N<sub>2</sub>",
+   "19.6 L N<sub>2</sub>",
+   "39.2 L N<sub>2</sub>",
+   "0.438 mol N<sub>2</sub>"
+  ],
+  "correct": "9.80 L N<sub>2</sub>",
+  "worked": "0.875 mol NH<sub>3</sub> &times; (1 mol N<sub>2</sub> / 2 mol NH<sub>3</sub>) &times; (22.4 L / 1 mol) = <b>9.80 L N<sub>2</sub></b>.",
+  "old_reason": "This stops at moles.",
+  "new_reason": "This stops at moles. Multiply the moles of N<sub>2</sub> by 22.4 L/mol to get liters at STP."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h17",
+  "choice_index": 2,
+  "question": "What mass of AgCl forms when 20.0 mL of 0.115 M AgNO<sub>3</sub> reacts with excess NaCl? AgNO<sub>3</sub>(aq) + NaCl(aq) &rarr; AgCl(s) + NaNO<sub>3</sub>(aq) (AgCl 143.32 g/mol; AgNO<sub>3</sub> 169.87 g/mol)",
+  "choices": [
+   "0.330 g AgCl",
+   "330. g AgCl",
+   "0.00230 mol AgCl",
+   "0.391 g AgCl"
+  ],
+  "correct": "0.330 g AgCl",
+  "worked": "0.0200 L &times; 0.115 mol/L &times; (1 mol AgCl / 1 mol AgNO<sub>3</sub>) &times; 143.32 g/mol = <b>0.330 g AgCl</b>.",
+  "old_reason": "This stops at moles.",
+  "new_reason": "This stops at moles. Multiply the moles of AgCl by 143.32 g/mol to get grams."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h18",
+  "choice_index": 1,
+  "question": "What volume of CO<sub>2</sub> at STP forms when 3.85 g of propane burns? C<sub>3</sub>H<sub>8</sub>(g) + 5 O<sub>2</sub>(g) &rarr; 3 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(l) (C<sub>3</sub>H<sub>8</sub> 44.097 g/mol)",
+  "choices": [
+   "5.87 L CO<sub>2</sub>",
+   "1.96 L CO<sub>2</sub>",
+   "0.652 L CO<sub>2</sub>",
+   "0.262 mol CO<sub>2</sub>"
+  ],
+  "correct": "5.87 L CO<sub>2</sub>",
+  "worked": "3.85 g &times; (1 mol / 44.097 g) &times; (3 mol CO<sub>2</sub> / 1 mol) &times; (22.4 L / 1 mol) = <b>5.87 L CO<sub>2</sub></b>.",
+  "old_reason": "This skips the mole ratio.",
+  "new_reason": "This skips the mole ratio. Multiply moles of propane by 3 mol CO<sub>2</sub> / 1 mol C<sub>3</sub>H<sub>8</sub> before converting to liters."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h18",
+  "choice_index": 3,
+  "question": "What volume of CO<sub>2</sub> at STP forms when 3.85 g of propane burns? C<sub>3</sub>H<sub>8</sub>(g) + 5 O<sub>2</sub>(g) &rarr; 3 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(l) (C<sub>3</sub>H<sub>8</sub> 44.097 g/mol)",
+  "choices": [
+   "5.87 L CO<sub>2</sub>",
+   "1.96 L CO<sub>2</sub>",
+   "0.652 L CO<sub>2</sub>",
+   "0.262 mol CO<sub>2</sub>"
+  ],
+  "correct": "5.87 L CO<sub>2</sub>",
+  "worked": "3.85 g &times; (1 mol / 44.097 g) &times; (3 mol CO<sub>2</sub> / 1 mol) &times; (22.4 L / 1 mol) = <b>5.87 L CO<sub>2</sub></b>.",
+  "old_reason": "This stops at moles.",
+  "new_reason": "This stops at moles. Multiply the moles of CO<sub>2</sub> by 22.4 L/mol to get liters at STP."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h19",
+  "choice_index": 2,
+  "question": "A respiratory therapist measures the volume of exhaled CO<sub>2</sub> at body temperature (37 &deg;C) and 1 atm. Why can't 22.4 L/mol convert this volume to moles?",
+  "choices": [
+   "22.4 L/mol holds only at STP, 0 &deg;C and 1 atm; at 37 &deg;C a mole of gas fills more than 22.4 L.",
+   "22.4 L/mol works only for O<sub>2</sub>, not CO<sub>2</sub>.",
+   "Exhaled gas is a liquid at 37 &deg;C.",
+   "It can; 22.4 L/mol holds at any temperature."
+  ],
+  "correct": "22.4 L/mol holds only at STP, 0 &deg;C and 1 atm; at 37 &deg;C a mole of gas fills more than 22.4 L.",
+  "worked": "<b>22.4 L/mol applies only at STP (0 &deg;C, 1 atm)</b>; at body temperature a mole of gas occupies more volume (Chapter 10).",
+  "old_reason": "CO<sub>2</sub> is a gas at body temperature.",
+  "new_reason": "CO<sub>2</sub> is a gas at body temperature, so that is not the problem. The issue is temperature: 22.4 L/mol holds only at STP (0 &deg;C, 1 atm)."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h20",
+  "choice_index": 1,
+  "question": "What mass of Mg(OH)<sub>2</sub> neutralizes 45.0 mL of 0.0800 M HCl? Mg(OH)<sub>2</sub>(s) + 2 HCl(aq) &rarr; MgCl<sub>2</sub>(aq) + 2 H<sub>2</sub>O(l) (Mg(OH)<sub>2</sub> 58.32 g/mol)",
+  "choices": [
+   "0.105 g Mg(OH)<sub>2</sub>",
+   "0.210 g Mg(OH)<sub>2</sub>",
+   "105 g Mg(OH)<sub>2</sub>",
+   "0.420 g Mg(OH)<sub>2</sub>"
+  ],
+  "correct": "0.105 g Mg(OH)<sub>2</sub>",
+  "worked": "0.0450 L &times; 0.0800 mol/L &times; (1 mol Mg(OH)<sub>2</sub> / 2 mol HCl) &times; 58.32 g/mol = <b>0.105 g Mg(OH)<sub>2</sub></b>.",
+  "old_reason": "This skips the mole ratio.",
+  "new_reason": "This skips the mole ratio. Multiply moles of HCl by 1 mol Mg(OH)<sub>2</sub> / 2 mol HCl before converting to grams."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h20",
+  "choice_index": 2,
+  "question": "What mass of Mg(OH)<sub>2</sub> neutralizes 45.0 mL of 0.0800 M HCl? Mg(OH)<sub>2</sub>(s) + 2 HCl(aq) &rarr; MgCl<sub>2</sub>(aq) + 2 H<sub>2</sub>O(l) (Mg(OH)<sub>2</sub> 58.32 g/mol)",
+  "choices": [
+   "0.105 g Mg(OH)<sub>2</sub>",
+   "0.210 g Mg(OH)<sub>2</sub>",
+   "105 g Mg(OH)<sub>2</sub>",
+   "0.420 g Mg(OH)<sub>2</sub>"
+  ],
+  "correct": "0.105 g Mg(OH)<sub>2</sub>",
+  "worked": "0.0450 L &times; 0.0800 mol/L &times; (1 mol Mg(OH)<sub>2</sub> / 2 mol HCl) &times; 58.32 g/mol = <b>0.105 g Mg(OH)<sub>2</sub></b>.",
+  "old_reason": "This uses mL as liters.",
+  "new_reason": "This uses mL as liters. Convert 45.0 mL to 0.0450 L before multiplying by the molarity."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h21",
+  "choice_index": 1,
+  "question": "Biogas methane from a dairy digester burns by CH<sub>4</sub>(g) + 2 O<sub>2</sub>(g) &rarr; CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l). What volume of O<sub>2</sub> at STP is needed to burn 8.00 g of CH<sub>4</sub>? (CH<sub>4</sub> 16.043 g/mol)",
+  "choices": [
+   "22.3 L O<sub>2</sub>",
+   "11.2 L O<sub>2</sub>",
+   "5.58 L O<sub>2</sub>",
+   "0.997 mol O<sub>2</sub>"
+  ],
+  "correct": "22.3 L O<sub>2</sub>",
+  "worked": "8.00 g &times; (1 mol / 16.043 g) &times; (2 mol O<sub>2</sub> / 1 mol CH<sub>4</sub>) &times; (22.4 L / 1 mol) = <b>22.3 L O<sub>2</sub></b>.",
+  "old_reason": "This skips the mole ratio.",
+  "new_reason": "This skips the mole ratio. Multiply moles of CH<sub>4</sub> by 2 mol O<sub>2</sub> / 1 mol CH<sub>4</sub> before converting to liters."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h21",
+  "choice_index": 3,
+  "question": "Biogas methane from a dairy digester burns by CH<sub>4</sub>(g) + 2 O<sub>2</sub>(g) &rarr; CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l). What volume of O<sub>2</sub> at STP is needed to burn 8.00 g of CH<sub>4</sub>? (CH<sub>4</sub> 16.043 g/mol)",
+  "choices": [
+   "22.3 L O<sub>2</sub>",
+   "11.2 L O<sub>2</sub>",
+   "5.58 L O<sub>2</sub>",
+   "0.997 mol O<sub>2</sub>"
+  ],
+  "correct": "22.3 L O<sub>2</sub>",
+  "worked": "8.00 g &times; (1 mol / 16.043 g) &times; (2 mol O<sub>2</sub> / 1 mol CH<sub>4</sub>) &times; (22.4 L / 1 mol) = <b>22.3 L O<sub>2</sub></b>.",
+  "old_reason": "This stops at moles.",
+  "new_reason": "This stops at moles. Multiply the moles of O<sub>2</sub> by 22.4 L/mol to get liters at STP."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h24",
+  "choice_index": 3,
+  "question": "A thermite mixture holds 5.40 g of Al and 18.0 g of Fe<sub>2</sub>O<sub>3</sub>: Fe<sub>2</sub>O<sub>3</sub>(s) + 2 Al(s) &rarr; Al<sub>2</sub>O<sub>3</sub>(s) + 2 Fe(l). What is the maximum mass of iron? (Al 26.98 g/mol; Fe<sub>2</sub>O<sub>3</sub> 159.70 g/mol; Fe 55.85 g/mol)",
+  "choices": [
+   "11.2 g Fe",
+   "12.6 g Fe",
+   "6.29 g Fe",
+   "23.4 g Fe"
+  ],
+  "correct": "11.2 g Fe",
+  "worked": "Al &rarr; 0.2001 mol Fe (less than 0.2254), so Al limits: 0.2001 &times; 55.85 = <b>11.2 g Fe</b>.",
+  "old_reason": "This adds the reactant masses.",
+  "new_reason": "This adds the reactant masses. Find the moles of Fe each reactant could make; the smaller amount (the limiting reactant) sets the mass of iron."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h28",
+  "choice_index": 2,
+  "question": "0.180 mol Zn and 0.300 mol HCl react: Zn(s) + 2 HCl(aq) &rarr; ZnCl<sub>2</sub>(aq) + H<sub>2</sub>(g). What is the most H<sub>2</sub> that can form?",
+  "choices": [
+   "0.150 mol H<sub>2</sub>",
+   "0.180 mol H<sub>2</sub>",
+   "0.300 mol H<sub>2</sub>",
+   "0.360 mol H<sub>2</sub>"
+  ],
+  "correct": "0.150 mol H<sub>2</sub>",
+  "worked": "HCl &rarr; 0.150 mol H<sub>2</sub> (less than 0.180), so <b>HCl limits: 0.150 mol H<sub>2</sub></b>.",
+  "old_reason": "This skips the 2 HCl : 1 H<sub>2</sub> ratio.",
+  "new_reason": "This skips the 2 HCl : 1 H<sub>2</sub> ratio. Find the H<sub>2</sub> each reactant could make, using its own ratio, and keep the smaller amount."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h29",
+  "choice_index": 2,
+  "question": "A student's theoretical yield is 6.48 g and the actual yield is 5.62 g. What is the percent yield?",
+  "choices": [
+   "86.7%",
+   "115%",
+   "13.3%",
+   "0.867%"
+  ],
+  "correct": "86.7%",
+  "worked": "5.62 g &divide; 6.48 g &times; 100% = <b>86.7%</b>.",
+  "old_reason": "This is the percent lost.",
+  "new_reason": "This is the percent lost. Percent yield is actual &divide; theoretical &times; 100%, so divide 5.62 g by 6.48 g."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h29",
+  "choice_index": 3,
+  "question": "A student's theoretical yield is 6.48 g and the actual yield is 5.62 g. What is the percent yield?",
+  "choices": [
+   "86.7%",
+   "115%",
+   "13.3%",
+   "0.867%"
+  ],
+  "correct": "86.7%",
+  "worked": "5.62 g &divide; 6.48 g &times; 100% = <b>86.7%</b>.",
+  "old_reason": "This forgets to multiply by 100%.",
+  "new_reason": "This forgets to multiply by 100%. Actual &divide; theoretical gives a fraction; multiply it by 100% to get a percent."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h32",
+  "choice_index": 2,
+  "question": "Lime is made by CaCO<sub>3</sub>(s) &rarr; CaO(s) + CO<sub>2</sub>(g). If 25.0 g of CaCO<sub>3</sub> gives a 91.5% yield, what mass of CaO is collected? (CaCO<sub>3</sub> 100.09 g/mol; CaO 56.08 g/mol)",
+  "choices": [
+   "12.8 g CaO",
+   "14.0 g CaO",
+   "15.3 g CaO",
+   "22.9 g CaO"
+  ],
+  "correct": "12.8 g CaO",
+  "worked": "14.01 g &times; 0.915 = <b>12.8 g CaO</b>.",
+  "old_reason": "This divides by 0.915.",
+  "new_reason": "This divides by 0.915. Actual yield is less than theoretical, so multiply the theoretical mass of CaO by 0.915."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h39",
+  "choice_index": 1,
+  "question": "A propane water heater uses C<sub>3</sub>H<sub>8</sub>(g) + 5 O<sub>2</sub>(g) &rarr; 3 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(l), &Delta;H = &minus;2.220 &times; 10<sup>3</sup> kJ. What mass of propane must burn to release 1.50 &times; 10<sup>4</sup> kJ? (C<sub>3</sub>H<sub>8</sub> 44.097 g/mol)",
+  "choices": [
+   "298 g C<sub>3</sub>H<sub>8</sub>",
+   "6.76 mol C<sub>3</sub>H<sub>8</sub>",
+   "1.49 &times; 10<sup>3</sup> g C<sub>3</sub>H<sub>8</sub>",
+   "0.153 g C<sub>3</sub>H<sub>8</sub>"
+  ],
+  "correct": "298 g C<sub>3</sub>H<sub>8</sub>",
+  "worked": "1.50 &times; 10<sup>4</sup> kJ &times; (1 mol / 2.220 &times; 10<sup>3</sup> kJ) &times; 44.097 g/mol = <b>298 g C<sub>3</sub>H<sub>8</sub></b>.",
+  "old_reason": "This stops at moles.",
+  "new_reason": "This stops at moles. Multiply the moles of propane by 44.097 g/mol to get grams."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h40",
+  "choice_index": 2,
+  "question": "A hydrogen car runs on 2 H<sub>2</sub>(g) + O<sub>2</sub>(g) &rarr; 2 H<sub>2</sub>O(l), &Delta;H = &minus;571.6 kJ. How much heat is released by 18.5 g of H<sub>2</sub>? (H<sub>2</sub> 2.016 g/mol)",
+  "choices": [
+   "2.62 &times; 10<sup>3</sup> kJ released",
+   "5.25 &times; 10<sup>3</sup> kJ released",
+   "5.29 &times; 10<sup>3</sup> kJ released",
+   "2.62 &times; 10<sup>3</sup> kJ absorbed"
+  ],
+  "correct": "2.62 &times; 10<sup>3</sup> kJ released",
+  "worked": "18.5 g &times; (1 mol / 2.016 g) &times; (571.6 kJ / 2 mol H<sub>2</sub>) = <b>2.62 &times; 10<sup>3</sup> kJ released</b>.",
+  "old_reason": "This uses grams instead of moles.",
+  "new_reason": "This uses grams instead of moles. Convert 18.5 g to moles with 2.016 g/mol, then use 571.6 kJ per 2 mol H<sub>2</sub>."
+ },
+ {
+  "bank": "bank/ch08_adapt.json",
+  "id": "c8-h41",
+  "choice_index": 2,
+  "question": "A sports drink supplies 25.0 Cal from glucose (1 Cal = 4.184 kJ). Using C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6 O<sub>2</sub> &rarr; 6 CO<sub>2</sub> + 6 H<sub>2</sub>O, &Delta;H = &minus;2803 kJ, what mass of glucose releases this energy? (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> 180.156 g/mol)",
+  "choices": [
+   "6.72 g",
+   "1.61 g",
+   "0.0373 mol",
+   "40.3 g"
+  ],
+  "correct": "6.72 g",
+  "worked": "25.0 Cal &times; (4.184 kJ / 1 Cal) &times; (1 mol / 2803 kJ) &times; (180.156 g / 1 mol) = <b>6.72 g</b> glucose.",
+  "old_reason": "This stops at moles of glucose.",
+  "new_reason": "This stops at moles of glucose. Multiply the moles by 180.156 g/mol to finish the conversion to grams."
+ },
+ {
+  "bank": "bank/ch09.json",
+  "id": "c9-050",
+  "choice_index": 2,
+  "question": "Carbon tetrachloride, CCl<sub>4</sub>, has polar C&ndash;Cl bonds and a symmetric tetrahedral shape. What is its strongest intermolecular force?",
+  "choices": [
+   "Dispersion",
+   "Dipole&ndash;dipole",
+   "Hydrogen bonding",
+   "Ion&ndash;dipole"
+  ],
+  "correct": "Dispersion",
+  "worked": "CCl<sub>4</sub> is nonpolar: <b>dispersion</b> only.",
+  "old_reason": "CCl<sub>4</sub> has no hydrogen at all.",
+  "new_reason": "CCl<sub>4</sub> has no hydrogen at all, so it cannot hydrogen bond. Its bond dipoles cancel in the symmetric shape, so it is nonpolar."
+ },
+ {
+  "bank": "bank/ch09_adapt.json",
+  "id": "c9-h12",
+  "choice_index": 3,
+  "question": "Which of these is the largest amount of energy?",
+  "choices": [
+   "1.00 kcal",
+   "1.00 kJ",
+   "1.00 cal",
+   "500. J"
+  ],
+  "correct": "1.00 kcal",
+  "worked": "In joules: 4184 (kcal), 1000 (kJ), 4.184 (cal), 500. The largest is <b>1.00 kcal</b>.",
+  "old_reason": "500. J is half of a kilojoule.",
+  "new_reason": "500. J is half of a kilojoule. Convert every choice to joules (1 cal = 4.184 J) and compare."
+ },
+ {
+  "bank": "bank/ch09_adapt.json",
+  "id": "c9-h29",
+  "choice_index": 3,
+  "question": "Acetone, CH<sub>3</sub>COCH<sub>3</sub>, the solvent in many nail polish removers, is polar and has no O&ndash;H bond. Which intermolecular forces act between acetone molecules?",
+  "choices": [
+   "Dispersion and dipole&ndash;dipole",
+   "Dispersion only",
+   "Dispersion, dipole&ndash;dipole, and hydrogen bonding",
+   "Ion&ndash;dipole"
+  ],
+  "correct": "Dispersion and dipole&ndash;dipole",
+  "worked": "Acetone: <b>dispersion and dipole&ndash;dipole</b>.",
+  "old_reason": "There are no ions in acetone.",
+  "new_reason": "There are no ions in acetone. For a polar molecule with no O&ndash;H, N&ndash;H or F&ndash;H bond, list dispersion plus dipole&ndash;dipole."
+ },
+ {
+  "bank": "bank/ch09_adapt.json",
+  "id": "c9-h32",
+  "choice_index": 3,
+  "question": "For molecules of similar size, which list orders the forces from weakest to strongest?",
+  "choices": [
+   "Dispersion &lt; dipole&ndash;dipole &lt; hydrogen bond &lt; ion&ndash;dipole",
+   "Hydrogen bond &lt; dipole&ndash;dipole &lt; dispersion &lt; ion&ndash;dipole",
+   "Dispersion &lt; hydrogen bond &lt; dipole&ndash;dipole &lt; ion&ndash;dipole",
+   "Ion&ndash;dipole &lt; hydrogen bond &lt; dipole&ndash;dipole &lt; dispersion"
+  ],
+  "correct": "Dispersion &lt; dipole&ndash;dipole &lt; hydrogen bond &lt; ion&ndash;dipole",
+  "worked": "<b>Dispersion &lt; dipole&ndash;dipole &lt; hydrogen bond &lt; ion&ndash;dipole</b> (for similar sizes).",
+  "old_reason": "This list is reversed.",
+  "new_reason": "This list is reversed. Weakest to strongest starts with dispersion and ends with ion&ndash;dipole."
+ },
+ {
+  "bank": "bank/ch10.json",
+  "id": "c10-054",
+  "choice_index": 3,
+  "question": "Heating potassium chlorate releases oxygen: 2 KClO<sub>3</sub>(s) &rarr; 2 KCl(s) + 3 O<sub>2</sub>(g). What volume of O<sub>2</sub> at 1.02 atm and 22.5 °C forms from 4.25 g of KClO<sub>3</sub> (122.55 g/mol)?",
+  "choices": [
+   "1.24 L",
+   "0.825 L",
+   "0.550 L",
+   "0.0942 L"
+  ],
+  "correct": "1.24 L",
+  "worked": "4.25 g &divide; 122.55 = 0.03468 mol; &times; 3/2 = 0.05202 mol O<sub>2</sub>. T = 22.5 + 273.15 = 295.7 K. V = <b>1.24 L</b>.",
+  "old_reason": "This uses the Celsius temperature.",
+  "new_reason": "This uses the Celsius temperature. Gas laws need kelvins: add 273.15 to 22.5 &deg;C before using PV = nRT."
+ },
+ {
+  "bank": "bank/ch10.json",
+  "id": "c10-057",
+  "choice_index": 2,
+  "question": "An antacid tablet neutralizes stomach acid: CaCO<sub>3</sub>(s) + 2 HCl(aq) &rarr; CaCl<sub>2</sub>(aq) + H<sub>2</sub>O(l) + CO<sub>2</sub>(g). What volume of CO<sub>2</sub> at 0.988 atm and 37.0 °C forms from 0.750 g of CaCO<sub>3</sub> (100.09 g/mol)?",
+  "choices": [
+   "0.193 L",
+   "0.168 L",
+   "0.0230 L",
+   "0.386 L"
+  ],
+  "correct": "0.193 L",
+  "worked": "0.750 &divide; 100.09 = 0.007493 mol CO<sub>2</sub>. T = 37.0 + 273.15 = 310.2 K. V = (0.007493)(0.082058)(310.2) / 0.988 = <b>0.193 L</b>.",
+  "old_reason": "This uses the Celsius temperature.",
+  "new_reason": "This uses the Celsius temperature. Gas laws need kelvins: add 273.15 to 37.0 &deg;C before using PV = nRT."
+ },
+ {
+  "bank": "bank/ch10_adapt.json",
+  "id": "c10-h07",
+  "choice_index": 2,
+  "question": "A car tire is inflated to 34.5 psi. What is this pressure in kilopascals?",
+  "choices": [
+   "238 kPa",
+   "5.14 &times; 10<sup>4</sup> kPa",
+   "5.01 kPa",
+   "3.50 &times; 10<sup>3</sup> kPa"
+  ],
+  "correct": "238 kPa",
+  "worked": "34.5 &times; 101.325 &divide; 14.7 = <b>238 kPa</b>.",
+  "old_reason": "This flips both factors.",
+  "new_reason": "This flips both factors. Set up the conversion so psi cancels: multiply by 101.325 kPa / 14.7 psi."
+ },
+ {
+  "bank": "bank/ch10_adapt.json",
+  "id": "c10-h21",
+  "choice_index": 1,
+  "question": "A 12.5 L tank holds 0.645 mol of oxygen at 24.5 °C. What is the pressure in the tank?",
+  "choices": [
+   "1.26 atm",
+   "0.104 atm",
+   "1.16 atm",
+   "15.8 atm"
+  ],
+  "correct": "1.26 atm",
+  "worked": "T = 24.5 + 273.15 = 297.7 K. P = (0.645)(0.082058)(297.7) / 12.5 = <b>1.26 atm</b>.",
+  "old_reason": "This uses the Celsius temperature.",
+  "new_reason": "This uses the Celsius temperature. Gas laws need kelvins: add 273.15 to 24.5 &deg;C before using PV = nRT."
+ },
+ {
+  "bank": "bank/ch10_adapt.json",
+  "id": "c10-h22",
+  "choice_index": 1,
+  "question": "A sample of exhaled air contains 2.15 &times; 10<sup>&minus;3</sup> mol of CO<sub>2</sub> at 37.0 °C and 0.985 atm. What volume, in mL, does the CO<sub>2</sub> alone occupy at these conditions?",
+  "choices": [
+   "55.6 mL",
+   "6.63 mL",
+   "0.0556 mL",
+   "48.2 mL"
+  ],
+  "correct": "55.6 mL",
+  "worked": "T = 37.0 + 273.15 = 310.2 K. V = (2.15 &times; 10<sup>&minus;3</sup>)(0.082058)(310.2) / 0.985 = 0.05555 L = <b>55.6 mL</b>.",
+  "old_reason": "This uses the Celsius temperature.",
+  "new_reason": "This uses the Celsius temperature. Gas laws need kelvins: add 273.15 to 37.0 &deg;C before using PV = nRT."
+ },
+ {
+  "bank": "bank/ch10_adapt.json",
+  "id": "c10-h23",
+  "choice_index": 2,
+  "question": "A 2.75 L flask contains neon at 632 torr and 26.5 °C. Using R = 62.36 L&middot;torr/(mol&middot;K), how many moles of neon are present?",
+  "choices": [
+   "0.0930 mol",
+   "70.7 mol",
+   "1.05 mol",
+   "1.22 &times; 10<sup>&minus;4</sup> mol"
+  ],
+  "correct": "0.0930 mol",
+  "worked": "T = 26.5 + 273.15 = 299.7 K. n = (632)(2.75) / [(62.36)(299.7)] = <b>0.0930 mol</b>.",
+  "old_reason": "This uses the Celsius temperature.",
+  "new_reason": "This uses the Celsius temperature. Gas laws need kelvins: add 273.15 to 26.5 &deg;C before using PV = nRT."
+ },
+ {
+  "bank": "bank/ch10_adapt.json",
+  "id": "c10-h24",
+  "choice_index": 1,
+  "question": "A 6.50 L steel tank holds 0.312 mol of nitrogen at 1.27 atm. What is the temperature in kelvins?",
+  "choices": [
+   "322 K",
+   "0.00310 K",
+   "0.424 K",
+   "322 °C"
+  ],
+  "correct": "322 K",
+  "worked": "T = (1.27)(6.50) / [(0.312)(0.082058)] = <b>322 K</b>.",
+  "old_reason": "This is nR/(PV), the reciprocal.",
+  "new_reason": "This is nR/(PV), the reciprocal. Solve PV = nRT for T: T = PV / (nR)."
+ },
+ {
+  "bank": "bank/ch10_adapt.json",
+  "id": "c10-h26",
+  "choice_index": 2,
+  "question": "A 0.635 g sample of a gas occupies 345 mL at 0.968 atm and 23.5 °C. What is its molar mass?",
+  "choices": [
+   "46.3 g/mol",
+   "0.0463 g/mol",
+   "3.67 g/mol",
+   "0.0216 g/mol"
+  ],
+  "correct": "46.3 g/mol",
+  "worked": "T = 23.5 + 273.15 = 296.7 K. n = (0.968)(0.345) / [(0.082058)(296.7)] = 0.01372 mol; M = 0.635 &divide; 0.01372 = <b>46.3 g/mol</b>.",
+  "old_reason": "This uses the Celsius temperature.",
+  "new_reason": "This uses the Celsius temperature. Gas laws need kelvins: add 273.15 to 23.5 &deg;C before finding moles with PV = nRT."
+ },
+ {
+  "bank": "bank/ch10_adapt.json",
+  "id": "c10-h29",
+  "choice_index": 1,
+  "question": "In a hot engine, N<sub>2</sub>(g) + O<sub>2</sub>(g) &rarr; 2 NO(g). What volume of NO forms from 2.65 L of N<sub>2</sub>, all gases at the same temperature and pressure?",
+  "choices": [
+   "5.30 L",
+   "1.33 L",
+   "2.65 L",
+   "0.237 L"
+  ],
+  "correct": "5.30 L",
+  "worked": "2.65 &times; 2 = <b>5.30 L</b>.",
+  "old_reason": "This flips the ratio.",
+  "new_reason": "This flips the ratio. At the same T and P, volumes follow the coefficients: multiply by 2 L NO / 1 L N<sub>2</sub>."
+ },
+ {
+  "bank": "bank/ch10_adapt.json",
+  "id": "c10-h30",
+  "choice_index": 1,
+  "question": "Sodium reacts with chlorine: 2 Na(s) + Cl<sub>2</sub>(g) &rarr; 2 NaCl(s). What volume of Cl<sub>2</sub> at STP reacts with 4.15 g of Na (22.99 g/mol)?",
+  "choices": [
+   "2.02 L",
+   "4.04 L",
+   "8.09 L",
+   "46.5 L"
+  ],
+  "correct": "2.02 L",
+  "worked": "4.15 &divide; 22.99 = 0.1805 mol Na; &divide; 2 = 0.09026 mol Cl<sub>2</sub>; &times; 22.4 = <b>2.02 L</b>.",
+  "old_reason": "This skips the mole ratio.",
+  "new_reason": "This skips the mole ratio. Multiply moles of Na by 1 mol Cl<sub>2</sub> / 2 mol Na before converting to liters."
+ },
+ {
+  "bank": "bank/ch10_adapt.json",
+  "id": "c10-h30",
+  "choice_index": 2,
+  "question": "Sodium reacts with chlorine: 2 Na(s) + Cl<sub>2</sub>(g) &rarr; 2 NaCl(s). What volume of Cl<sub>2</sub> at STP reacts with 4.15 g of Na (22.99 g/mol)?",
+  "choices": [
+   "2.02 L",
+   "4.04 L",
+   "8.09 L",
+   "46.5 L"
+  ],
+  "correct": "2.02 L",
+  "worked": "4.15 &divide; 22.99 = 0.1805 mol Na; &divide; 2 = 0.09026 mol Cl<sub>2</sub>; &times; 22.4 = <b>2.02 L</b>.",
+  "old_reason": "This flips the mole ratio.",
+  "new_reason": "This flips the mole ratio. Put the substance you want on top: 1 mol Cl<sub>2</sub> / 2 mol Na."
+ },
+ {
+  "bank": "bank/ch10_adapt.json",
+  "id": "c10-h30",
+  "choice_index": 3,
+  "question": "Sodium reacts with chlorine: 2 Na(s) + Cl<sub>2</sub>(g) &rarr; 2 NaCl(s). What volume of Cl<sub>2</sub> at STP reacts with 4.15 g of Na (22.99 g/mol)?",
+  "choices": [
+   "2.02 L",
+   "4.04 L",
+   "8.09 L",
+   "46.5 L"
+  ],
+  "correct": "2.02 L",
+  "worked": "4.15 &divide; 22.99 = 0.1805 mol Na; &divide; 2 = 0.09026 mol Cl<sub>2</sub>; &times; 22.4 = <b>2.02 L</b>.",
+  "old_reason": "This uses grams of Na as moles.",
+  "new_reason": "This uses grams of Na as moles. Convert 4.15 g to moles with 22.99 g/mol first."
+ },
+ {
+  "bank": "bank/ch10_adapt.json",
+  "id": "c10-h31",
+  "choice_index": 2,
+  "question": "In bread dough, yeast ferments glucose: C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>(aq) &rarr; 2 C<sub>2</sub>H<sub>5</sub>OH(aq) + 2 CO<sub>2</sub>(g). What volume of CO<sub>2</sub> at 0.995 atm and 32.5 °C comes from 25.5 g of glucose (180.156 g/mol)?",
+  "choices": [
+   "7.14 L",
+   "6.34 L",
+   "3.57 L",
+   "0.759 L"
+  ],
+  "correct": "7.14 L",
+  "worked": "25.5 &divide; 180.156 = 0.1415 mol; &times; 2 = 0.2831 mol CO<sub>2</sub>. T = 32.5 + 273.15 = 305.7 K. V = <b>7.14 L</b>.",
+  "old_reason": "This skips the 1 : 2 mole ratio.",
+  "new_reason": "This skips the 1 : 2 mole ratio. Multiply moles of glucose by 2 mol CO<sub>2</sub> / 1 mol glucose before using PV = nRT."
+ },
+ {
+  "bank": "bank/ch10_adapt.json",
+  "id": "c10-h31",
+  "choice_index": 3,
+  "question": "In bread dough, yeast ferments glucose: C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>(aq) &rarr; 2 C<sub>2</sub>H<sub>5</sub>OH(aq) + 2 CO<sub>2</sub>(g). What volume of CO<sub>2</sub> at 0.995 atm and 32.5 °C comes from 25.5 g of glucose (180.156 g/mol)?",
+  "choices": [
+   "7.14 L",
+   "6.34 L",
+   "3.57 L",
+   "0.759 L"
+  ],
+  "correct": "7.14 L",
+  "worked": "25.5 &divide; 180.156 = 0.1415 mol; &times; 2 = 0.2831 mol CO<sub>2</sub>. T = 32.5 + 273.15 = 305.7 K. V = <b>7.14 L</b>.",
+  "old_reason": "This uses the Celsius temperature.",
+  "new_reason": "This uses the Celsius temperature. Gas laws need kelvins: add 273.15 to 32.5 &deg;C before using PV = nRT."
+ },
+ {
+  "bank": "bank/ch10_adapt.json",
+  "id": "c10-h32",
+  "choice_index": 1,
+  "question": "Hydrogen peroxide decomposes on a wound: 2 H<sub>2</sub>O<sub>2</sub>(aq) &rarr; 2 H<sub>2</sub>O(l) + O<sub>2</sub>(g). What mass of H<sub>2</sub>O<sub>2</sub> (34.014 g/mol) must decompose to give 1.45 L of O<sub>2</sub> at 0.978 atm and 24.5 °C?",
+  "choices": [
+   "3.95 g",
+   "1.97 g",
+   "0.987 g",
+   "4.40 g"
+  ],
+  "correct": "3.95 g",
+  "worked": "T = 24.5 + 273.15 = 297.7 K. n O<sub>2</sub> = 0.05806 mol; &times; 2 = 0.1161 mol H<sub>2</sub>O<sub>2</sub>; &times; 34.014 = <b>3.95 g</b>.",
+  "old_reason": "This skips the mole ratio.",
+  "new_reason": "This skips the mole ratio. Multiply moles of O<sub>2</sub> by 2 mol H<sub>2</sub>O<sub>2</sub> / 1 mol O<sub>2</sub> before converting to grams."
+ },
+ {
+  "bank": "bank/ch10_adapt.json",
+  "id": "c10-h32",
+  "choice_index": 2,
+  "question": "Hydrogen peroxide decomposes on a wound: 2 H<sub>2</sub>O<sub>2</sub>(aq) &rarr; 2 H<sub>2</sub>O(l) + O<sub>2</sub>(g). What mass of H<sub>2</sub>O<sub>2</sub> (34.014 g/mol) must decompose to give 1.45 L of O<sub>2</sub> at 0.978 atm and 24.5 °C?",
+  "choices": [
+   "3.95 g",
+   "1.97 g",
+   "0.987 g",
+   "4.40 g"
+  ],
+  "correct": "3.95 g",
+  "worked": "T = 24.5 + 273.15 = 297.7 K. n O<sub>2</sub> = 0.05806 mol; &times; 2 = 0.1161 mol H<sub>2</sub>O<sub>2</sub>; &times; 34.014 = <b>3.95 g</b>.",
+  "old_reason": "This flips the mole ratio.",
+  "new_reason": "This flips the mole ratio. Put the substance you want on top: 2 mol H<sub>2</sub>O<sub>2</sub> / 1 mol O<sub>2</sub>."
+ },
+ {
+  "bank": "bank/ch10_adapt.json",
+  "id": "c10-h32",
+  "choice_index": 3,
+  "question": "Hydrogen peroxide decomposes on a wound: 2 H<sub>2</sub>O<sub>2</sub>(aq) &rarr; 2 H<sub>2</sub>O(l) + O<sub>2</sub>(g). What mass of H<sub>2</sub>O<sub>2</sub> (34.014 g/mol) must decompose to give 1.45 L of O<sub>2</sub> at 0.978 atm and 24.5 °C?",
+  "choices": [
+   "3.95 g",
+   "1.97 g",
+   "0.987 g",
+   "4.40 g"
+  ],
+  "correct": "3.95 g",
+  "worked": "T = 24.5 + 273.15 = 297.7 K. n O<sub>2</sub> = 0.05806 mol; &times; 2 = 0.1161 mol H<sub>2</sub>O<sub>2</sub>; &times; 34.014 = <b>3.95 g</b>.",
+  "old_reason": "This uses 22.4 L/mol off STP.",
+  "new_reason": "This uses 22.4 L/mol off STP. At 0.978 atm and 24.5 &deg;C, find moles of O<sub>2</sub> with n = PV/RT (T in kelvins)."
+ },
+ {
+  "bank": "bank/ch10_adapt.json",
+  "id": "c10-h33",
+  "choice_index": 2,
+  "question": "Methane burns: CH<sub>4</sub>(g) + 2 O<sub>2</sub>(g) &rarr; CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(g). A 2.85 L sample of CH<sub>4</sub>, measured at STP, burns completely. What volume of O<sub>2</sub>, measured at 1.05 atm and 21.5 °C, is used?",
+  "choices": [
+   "5.86 L",
+   "5.70 L",
+   "2.93 L",
+   "0.428 L"
+  ],
+  "correct": "5.86 L",
+  "worked": "2.85 &divide; 22.4 = 0.1272 mol CH<sub>4</sub>; &times; 2 = 0.2545 mol O<sub>2</sub>. T = 21.5 + 273.15 = 294.7 K. V = <b>5.86 L</b>.",
+  "old_reason": "This skips the mole ratio.",
+  "new_reason": "This skips the mole ratio. Multiply moles of CH<sub>4</sub> by 2 mol O<sub>2</sub> / 1 mol CH<sub>4</sub> before using PV = nRT."
+ },
+ {
+  "bank": "bank/ch10_adapt.json",
+  "id": "c10-h33",
+  "choice_index": 3,
+  "question": "Methane burns: CH<sub>4</sub>(g) + 2 O<sub>2</sub>(g) &rarr; CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(g). A 2.85 L sample of CH<sub>4</sub>, measured at STP, burns completely. What volume of O<sub>2</sub>, measured at 1.05 atm and 21.5 °C, is used?",
+  "choices": [
+   "5.86 L",
+   "5.70 L",
+   "2.93 L",
+   "0.428 L"
+  ],
+  "correct": "5.86 L",
+  "worked": "2.85 &divide; 22.4 = 0.1272 mol CH<sub>4</sub>; &times; 2 = 0.2545 mol O<sub>2</sub>. T = 21.5 + 273.15 = 294.7 K. V = <b>5.86 L</b>.",
+  "old_reason": "This uses the Celsius temperature.",
+  "new_reason": "This uses the Celsius temperature. Gas laws need kelvins: add 273.15 to 21.5 &deg;C before using PV = nRT."
+ },
+ {
+  "bank": "bank/ch10_adapt.json",
+  "id": "c10-h35",
+  "choice_index": 1,
+  "question": "A rebreather uses potassium superoxide to make oxygen: 4 KO<sub>2</sub>(s) + 2 CO<sub>2</sub>(g) &rarr; 2 K<sub>2</sub>CO<sub>3</sub>(s) + 3 O<sub>2</sub>(g). What volume of O<sub>2</sub> at STP forms from 14.2 g of KO<sub>2</sub> (71.10 g/mol)?",
+  "choices": [
+   "3.36 L",
+   "4.47 L",
+   "5.96 L",
+   "239 L"
+  ],
+  "correct": "3.36 L",
+  "worked": "14.2 &divide; 71.10 = 0.1997 mol; &times; 3/4 = 0.1498 mol O<sub>2</sub>; &times; 22.4 = <b>3.36 L</b>.",
+  "old_reason": "This skips the mole ratio.",
+  "new_reason": "This skips the mole ratio. Multiply moles of KO<sub>2</sub> by 3 mol O<sub>2</sub> / 4 mol KO<sub>2</sub> before converting to liters."
+ },
+ {
+  "bank": "bank/ch10_adapt.json",
+  "id": "c10-h35",
+  "choice_index": 3,
+  "question": "A rebreather uses potassium superoxide to make oxygen: 4 KO<sub>2</sub>(s) + 2 CO<sub>2</sub>(g) &rarr; 2 K<sub>2</sub>CO<sub>3</sub>(s) + 3 O<sub>2</sub>(g). What volume of O<sub>2</sub> at STP forms from 14.2 g of KO<sub>2</sub> (71.10 g/mol)?",
+  "choices": [
+   "3.36 L",
+   "4.47 L",
+   "5.96 L",
+   "239 L"
+  ],
+  "correct": "3.36 L",
+  "worked": "14.2 &divide; 71.10 = 0.1997 mol; &times; 3/4 = 0.1498 mol O<sub>2</sub>; &times; 22.4 = <b>3.36 L</b>.",
+  "old_reason": "This uses grams of KO<sub>2</sub> as moles.",
+  "new_reason": "This uses grams of KO<sub>2</sub> as moles. Convert 14.2 g to moles with 71.10 g/mol first."
+ },
+ {
+  "bank": "bank/ch10_adapt.json",
+  "id": "c10-h37",
+  "choice_index": 2,
+  "question": "A diver's nitrox mixture is 32.0% O<sub>2</sub> by moles. At a depth where the total pressure is 2.45 atm, what is the partial pressure of O<sub>2</sub>?",
+  "choices": [
+   "0.784 atm",
+   "78.4 atm",
+   "7.66 atm",
+   "1.67 atm"
+  ],
+  "correct": "0.784 atm",
+  "worked": "0.320 &times; 2.45 = <b>0.784 atm</b>.",
+  "old_reason": "This divides by the mole fraction.",
+  "new_reason": "This divides by the mole fraction. Partial pressure = mole fraction &times; total pressure, so multiply 0.320 by 2.45 atm."
+ },
+ {
+  "bank": "bank/ch10_adapt.json",
+  "id": "c10-h40",
+  "choice_index": 2,
+  "question": "Zinc reacts with acid, Zn(s) + 2 HCl(aq) &rarr; ZnCl<sub>2</sub>(aq) + H<sub>2</sub>(g), and 62.5 mL of H<sub>2</sub> is collected over water at 30.0 °C. The barometer reads 765 mmHg, and water's vapor pressure at 30.0 °C is 31.8 mmHg. How many moles of H<sub>2</sub> were collected?",
+  "choices": [
+   "0.00242 mol",
+   "0.00253 mol",
+   "2.42 mol",
+   "1.84 mol"
+  ],
+  "correct": "0.00242 mol",
+  "worked": "P<sub>H2</sub> = 733 mmHg = 0.9645 atm; T = 30.0 + 273.15 = 303.2 K. n = <b>0.00242 mol</b>.",
+  "old_reason": "This uses mL as liters.",
+  "new_reason": "This uses mL as liters. Convert 62.5 mL to 0.0625 L before using PV = nRT."
+ },
+ {
+  "bank": "bank/ch10_adapt.json",
+  "id": "c10-h40",
+  "choice_index": 3,
+  "question": "Zinc reacts with acid, Zn(s) + 2 HCl(aq) &rarr; ZnCl<sub>2</sub>(aq) + H<sub>2</sub>(g), and 62.5 mL of H<sub>2</sub> is collected over water at 30.0 °C. The barometer reads 765 mmHg, and water's vapor pressure at 30.0 °C is 31.8 mmHg. How many moles of H<sub>2</sub> were collected?",
+  "choices": [
+   "0.00242 mol",
+   "0.00253 mol",
+   "2.42 mol",
+   "1.84 mol"
+  ],
+  "correct": "0.00242 mol",
+  "worked": "P<sub>H2</sub> = 733 mmHg = 0.9645 atm; T = 30.0 + 273.15 = 303.2 K. n = <b>0.00242 mol</b>.",
+  "old_reason": "This uses mmHg with R = 0.082058.",
+  "new_reason": "This uses mmHg with R = 0.082058. Convert the H<sub>2</sub> pressure to atm (divide by 760), or use R = 62.36 L&middot;torr/(mol&middot;K)."
+ },
+ {
+  "bank": "bank/ch11.json",
+  "id": "c11-055",
+  "choice_index": 3,
+  "question": "A buret reads 0.85 mL before a titration and 17.40 mL at the endpoint. What volume of titrant was used?",
+  "choices": [
+   "16.55 mL",
+   "17.40 mL",
+   "18.25 mL",
+   "0.85 mL"
+  ],
+  "correct": "16.55 mL",
+  "worked": "17.40 &minus; 0.85 = <b>16.55 mL</b>.",
+  "old_reason": "This is just the starting reading.",
+  "new_reason": "This is just the starting reading. Volume used = final reading &minus; initial reading."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h13",
+  "choice_index": 2,
+  "question": "A solution is made by dissolving 6.40 g of potassium iodide, KI, in 145.0 g of water. What is the mass percent of KI?",
+  "choices": [
+   "4.23%",
+   "4.41%",
+   "95.8%",
+   "0.0423%"
+  ],
+  "correct": "4.23%",
+  "worked": "6.40 / 151.4 &times; 100% = <b>4.23%</b>.",
+  "old_reason": "This is the percent of water.",
+  "new_reason": "This is the percent of water. Put the mass of KI on top and the mass of the whole solution (KI + water) on the bottom."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h14",
+  "choice_index": 2,
+  "question": "An over-the-counter fluoride mouth rinse is 0.050% (m/v) sodium fluoride, NaF. How many grams of NaF are in a 10.0 mL dose?",
+  "choices": [
+   "0.0050 g",
+   "0.50 g",
+   "5.0 &times; 10<sup>&minus;5</sup> g",
+   "2.0 &times; 10<sup>2</sup> g"
+  ],
+  "correct": "0.0050 g",
+  "worked": "10.0 mL &times; (0.050 g / 100 mL) = <b>0.0050 g</b> (5.0 mg).",
+  "old_reason": "This divides by 100 twice.",
+  "new_reason": "This divides by 100 twice. 0.050% (m/v) means 0.050 g per 100 mL, so multiply 10.0 mL by 0.050 g / 100 mL once."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h17",
+  "choice_index": 1,
+  "question": "What is the molarity of a solution made by dissolving 4.75 g of MgCl<sub>2</sub> (95.21 g/mol) in enough water to make 150.0 mL of solution?",
+  "choices": [
+   "0.333 M",
+   "3.33 &times; 10<sup>&minus;4</sup> M",
+   "31.7 M",
+   "3.01 M"
+  ],
+  "correct": "0.333 M",
+  "worked": "0.04989 mol / 0.1500 L = <b>0.333 M</b>.",
+  "old_reason": "This divides by mL; convert to L.",
+  "new_reason": "This divides by mL; convert to L. Molarity is moles per liter, so use 0.1500 L."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h17",
+  "choice_index": 2,
+  "question": "What is the molarity of a solution made by dissolving 4.75 g of MgCl<sub>2</sub> (95.21 g/mol) in enough water to make 150.0 mL of solution?",
+  "choices": [
+   "0.333 M",
+   "3.33 &times; 10<sup>&minus;4</sup> M",
+   "31.7 M",
+   "3.01 M"
+  ],
+  "correct": "0.333 M",
+  "worked": "0.04989 mol / 0.1500 L = <b>0.333 M</b>.",
+  "old_reason": "This uses grams instead of moles.",
+  "new_reason": "This uses grams instead of moles. Convert 4.75 g to moles with 95.21 g/mol, then divide by liters."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h18",
+  "choice_index": 1,
+  "question": "A hospital pharmacy dissolves 18.9 g of NaHCO<sub>3</sub> (84.01 g/mol) in water to make 300.0 mL of solution. What is the molarity?",
+  "choices": [
+   "0.750 M",
+   "7.50 &times; 10<sup>&minus;4</sup> M",
+   "63.0 M",
+   "1.33 M"
+  ],
+  "correct": "0.750 M",
+  "worked": "0.2250 mol / 0.3000 L = <b>0.750 M</b>.",
+  "old_reason": "This divides by mL instead of L.",
+  "new_reason": "This divides by mL instead of L. Molarity is moles per liter, so use 0.3000 L."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h18",
+  "choice_index": 3,
+  "question": "A hospital pharmacy dissolves 18.9 g of NaHCO<sub>3</sub> (84.01 g/mol) in water to make 300.0 mL of solution. What is the molarity?",
+  "choices": [
+   "0.750 M",
+   "7.50 &times; 10<sup>&minus;4</sup> M",
+   "63.0 M",
+   "1.33 M"
+  ],
+  "correct": "0.750 M",
+  "worked": "0.2250 mol / 0.3000 L = <b>0.750 M</b>.",
+  "old_reason": "This divides liters by moles.",
+  "new_reason": "This divides liters by moles. Molarity = moles of solute &divide; liters of solution."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h20",
+  "choice_index": 1,
+  "question": "In dilute water solutions, a concentration of 1 ppb is about the same as which of these?",
+  "choices": [
+   "1 &mu;g per liter",
+   "1 mg per liter",
+   "1 g per liter",
+   "1 ng per liter"
+  ],
+  "correct": "1 &mu;g per liter",
+  "worked": "<b>1 ppb &asymp; 1 &mu;g/L</b>.",
+  "old_reason": "1 mg/L is about 1 ppm.",
+  "new_reason": "1 mg/L is about 1 ppm. A ppb is 1000 times smaller than a ppm, so step down one metric prefix from mg."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h21",
+  "choice_index": 1,
+  "question": "How many moles of KCl are in 42.5 mL of 0.0875 M KCl?",
+  "choices": [
+   "0.00372 mol",
+   "3.72 mol",
+   "0.486 mol",
+   "2.06 mol"
+  ],
+  "correct": "0.00372 mol",
+  "worked": "0.0425 L &times; 0.0875 mol/L = <b>0.00372 mol</b>.",
+  "old_reason": "This uses mL in place of L.",
+  "new_reason": "This uses mL in place of L. Convert 42.5 mL to 0.0425 L, then multiply by the molarity."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h22",
+  "choice_index": 1,
+  "question": "What mass of Na<sub>2</sub>SO<sub>4</sub> (142.04 g/mol) is needed to prepare 100.0 mL of 0.450 M Na<sub>2</sub>SO<sub>4</sub>?",
+  "choices": [
+   "6.39 g",
+   "6.39 &times; 10<sup>3</sup> g",
+   "0.0450 g",
+   "3.17 &times; 10<sup>&minus;4</sup> g"
+  ],
+  "correct": "6.39 g",
+  "worked": "0.04500 mol &times; 142.04 g/mol = <b>6.39 g</b>.",
+  "old_reason": "This uses mL as liters.",
+  "new_reason": "This uses mL as liters. Convert 100.0 mL to 0.1000 L before multiplying by the molarity."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h22",
+  "choice_index": 3,
+  "question": "What mass of Na<sub>2</sub>SO<sub>4</sub> (142.04 g/mol) is needed to prepare 100.0 mL of 0.450 M Na<sub>2</sub>SO<sub>4</sub>?",
+  "choices": [
+   "6.39 g",
+   "6.39 &times; 10<sup>3</sup> g",
+   "0.0450 g",
+   "3.17 &times; 10<sup>&minus;4</sup> g"
+  ],
+  "correct": "6.39 g",
+  "worked": "0.04500 mol &times; 142.04 g/mol = <b>6.39 g</b>.",
+  "old_reason": "This divides by the molar mass.",
+  "new_reason": "This divides by the molar mass. Moles &times; molar mass gives grams, so multiply by 142.04 g/mol."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h24",
+  "choice_index": 2,
+  "question": "How many milliliters of 0.425 M KCl stock are needed to make 200.0 mL of 12.5 mM KCl?",
+  "choices": [
+   "5.88 mL",
+   "5.88 &times; 10<sup>3</sup> mL",
+   "6.80 &times; 10<sup>3</sup> mL",
+   "2.66 &times; 10<sup>&minus;5</sup> mL"
+  ],
+  "correct": "5.88 mL",
+  "worked": "(0.0125)(200.0) / 0.425 = <b>5.88 mL</b>.",
+  "old_reason": "This puts M<sub>1</sub> on top.",
+  "new_reason": "This puts M<sub>1</sub> on top. Solve M<sub>1</sub>V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub> for V<sub>1</sub>: V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub> / M<sub>1</sub>, with 12.5 mM as 0.0125 M."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h24",
+  "choice_index": 3,
+  "question": "How many milliliters of 0.425 M KCl stock are needed to make 200.0 mL of 12.5 mM KCl?",
+  "choices": [
+   "5.88 mL",
+   "5.88 &times; 10<sup>3</sup> mL",
+   "6.80 &times; 10<sup>3</sup> mL",
+   "2.66 &times; 10<sup>&minus;5</sup> mL"
+  ],
+  "correct": "5.88 mL",
+  "worked": "(0.0125)(200.0) / 0.425 = <b>5.88 mL</b>.",
+  "old_reason": "This divides by V<sub>2</sub>.",
+  "new_reason": "This multiplies the two molarities and divides by V<sub>2</sub>. Solve M<sub>1</sub>V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub> for V<sub>1</sub>: V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub> &divide; M<sub>1</sub>, with 12.5 mM written as 0.0125 M."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h26",
+  "choice_index": 2,
+  "question": "What volume of 25.0 mM KCl contains 1.50 &times; 10<sup>&minus;4</sup> mol of KCl? Give the answer in mL.",
+  "choices": [
+   "6.00 mL",
+   "0.00600 mL",
+   "0.00375 mL",
+   "1.67 &times; 10<sup>5</sup> mL"
+  ],
+  "correct": "6.00 mL",
+  "worked": "0.00600 L = <b>6.00 mL</b>.",
+  "old_reason": "This multiplies moles by molarity.",
+  "new_reason": "This multiplies moles by molarity. Volume = moles &divide; molarity, with 25.0 mM written as 0.0250 M; then convert L to mL."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h26",
+  "choice_index": 3,
+  "question": "What volume of 25.0 mM KCl contains 1.50 &times; 10<sup>&minus;4</sup> mol of KCl? Give the answer in mL.",
+  "choices": [
+   "6.00 mL",
+   "0.00600 mL",
+   "0.00375 mL",
+   "1.67 &times; 10<sup>5</sup> mL"
+  ],
+  "correct": "6.00 mL",
+  "worked": "0.00600 L = <b>6.00 mL</b>.",
+  "old_reason": "This divides molarity by moles.",
+  "new_reason": "This divides molarity by moles. Volume = moles &divide; molarity (0.0250 M); then convert L to mL."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h27",
+  "choice_index": 1,
+  "question": "A technician adds 1.0 mL of 2.0 M stock to 4.0 mL of water and mixes. Then 1.0 mL of that solution is added to another 4.0 mL of water. What is the final concentration?",
+  "choices": [
+   "0.080 M",
+   "0.40 M",
+   "0.20 M",
+   "0.13 M"
+  ],
+  "correct": "0.080 M",
+  "worked": "2.0 M &divide; 25 = <b>0.080 M</b>.",
+  "old_reason": "This counts only one dilution.",
+  "new_reason": "This counts only one dilution. Each step dilutes by 5 (1.0 mL into 5.0 mL total), so divide 2.0 M by 5 twice."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h30",
+  "choice_index": 2,
+  "question": "A 0.1700 g sample of oxalic acid, H<sub>2</sub>C<sub>2</sub>O<sub>4</sub> (90.034 g/mol), needs 25.85 mL of NaOH to reach the endpoint. What is the molarity of the NaOH? H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>(aq) + 2 NaOH(aq) &rarr; Na<sub>2</sub>C<sub>2</sub>O<sub>4</sub>(aq) + 2 H<sub>2</sub>O(l)",
+  "choices": [
+   "0.1461 M",
+   "0.07304 M",
+   "0.03652 M",
+   "13.15 M"
+  ],
+  "correct": "0.1461 M",
+  "worked": "0.003776 mol / 0.02585 L = <b>0.1461 M</b>.",
+  "old_reason": "This flips the mole ratio.",
+  "new_reason": "This flips the mole ratio. Each mol of acid needs 2 mol NaOH, so multiply the acid moles by 2 mol NaOH / 1 mol acid."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h30",
+  "choice_index": 3,
+  "question": "A 0.1700 g sample of oxalic acid, H<sub>2</sub>C<sub>2</sub>O<sub>4</sub> (90.034 g/mol), needs 25.85 mL of NaOH to reach the endpoint. What is the molarity of the NaOH? H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>(aq) + 2 NaOH(aq) &rarr; Na<sub>2</sub>C<sub>2</sub>O<sub>4</sub>(aq) + 2 H<sub>2</sub>O(l)",
+  "choices": [
+   "0.1461 M",
+   "0.07304 M",
+   "0.03652 M",
+   "13.15 M"
+  ],
+  "correct": "0.1461 M",
+  "worked": "0.003776 mol / 0.02585 L = <b>0.1461 M</b>.",
+  "old_reason": "This uses grams as moles.",
+  "new_reason": "This uses grams as moles. Convert 0.1700 g to moles with 90.034 g/mol, then use the 2 : 1 ratio."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h31",
+  "choice_index": 3,
+  "question": "A 5.00 mL sample of H<sub>2</sub>SO<sub>4</sub> needs 18.24 mL of 0.1120 M NaOH to reach the endpoint. What is the molarity of the H<sub>2</sub>SO<sub>4</sub>? H<sub>2</sub>SO<sub>4</sub>(aq) + 2 NaOH(aq) &rarr; Na<sub>2</sub>SO<sub>4</sub>(aq) + 2 H<sub>2</sub>O(l)",
+  "choices": [
+   "0.204 M",
+   "0.409 M",
+   "0.817 M",
+   "0.0560 M"
+  ],
+  "correct": "0.204 M",
+  "worked": "0.001021 mol / 0.00500 L = <b>0.204 M</b>.",
+  "old_reason": "This divides by the NaOH volume.",
+  "new_reason": "This divides by the NaOH volume. Divide moles of H<sub>2</sub>SO<sub>4</sub> by the acid's own volume, 0.00500 L."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h32",
+  "choice_index": 2,
+  "question": "A 0.8125 g sample of impure potassium hydrogen phthalate, KHC<sub>8</sub>H<sub>4</sub>O<sub>4</sub> (KHP, 204.22 g/mol), needs 32.18 mL of 0.1088 M NaOH. What is the mass percent of KHP in the sample? KHC<sub>8</sub>H<sub>4</sub>O<sub>4</sub>(aq) + NaOH(aq) &rarr; KNaC<sub>8</sub>H<sub>4</sub>O<sub>4</sub>(aq) + H<sub>2</sub>O(l)",
+  "choices": [
+   "88.00%",
+   "0.7150 g",
+   "0.4309%",
+   "113.6%"
+  ],
+  "correct": "88.00%",
+  "worked": "0.7150 / 0.8125 &times; 100% = <b>88.00%</b>.",
+  "old_reason": "This divides moles by grams.",
+  "new_reason": "This divides moles by grams. Convert moles of KHP to grams with 204.22 g/mol, then divide by the 0.8125 g sample."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h33",
+  "choice_index": 1,
+  "question": "What volume of 0.115 M AgNO<sub>3</sub> reacts completely with 22.5 mL of 0.140 M AlCl<sub>3</sub>? AlCl<sub>3</sub>(aq) + 3 AgNO<sub>3</sub>(aq) &rarr; 3 AgCl(s) + Al(NO<sub>3</sub>)<sub>3</sub>(aq)",
+  "choices": [
+   "82.2 mL",
+   "27.4 mL",
+   "9.13 mL",
+   "67.5 mL"
+  ],
+  "correct": "82.2 mL",
+  "worked": "0.009450 mol &divide; 0.115 M = <b>82.2 mL</b>.",
+  "old_reason": "This skips the 1 : 3 mole ratio.",
+  "new_reason": "This skips the 1 : 3 mole ratio. Multiply moles of AlCl<sub>3</sub> by 3 mol AgNO<sub>3</sub> / 1 mol AlCl<sub>3</sub> before dividing by 0.115 M."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h36",
+  "choice_index": 1,
+  "question": "What is the molality of a solution of 14.2 g of glycerol (C<sub>3</sub>H<sub>8</sub>O<sub>3</sub>, 92.094 g/mol) in 315.0 g of water?",
+  "choices": [
+   "0.489 m",
+   "4.89 &times; 10<sup>&minus;4</sup> m",
+   "45.1 m",
+   "0.468 m"
+  ],
+  "correct": "0.489 m",
+  "worked": "0.1542 mol / 0.3150 kg = <b>0.489 m</b>.",
+  "old_reason": "This divides by grams of water.",
+  "new_reason": "This divides by grams of water. Molality uses kilograms of solvent, so use 0.3150 kg."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h36",
+  "choice_index": 2,
+  "question": "What is the molality of a solution of 14.2 g of glycerol (C<sub>3</sub>H<sub>8</sub>O<sub>3</sub>, 92.094 g/mol) in 315.0 g of water?",
+  "choices": [
+   "0.489 m",
+   "4.89 &times; 10<sup>&minus;4</sup> m",
+   "45.1 m",
+   "0.468 m"
+  ],
+  "correct": "0.489 m",
+  "worked": "0.1542 mol / 0.3150 kg = <b>0.489 m</b>.",
+  "old_reason": "This uses grams of glycerol.",
+  "new_reason": "This uses grams of glycerol. Convert 14.2 g to moles with 92.094 g/mol, then divide by kg of water."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h37",
+  "choice_index": 2,
+  "question": "What is the freezing point of a 0.215 m AlCl<sub>3</sub> solution in water, assuming complete dissociation? (K<sub>f</sub> = 1.86 °C/m)",
+  "choices": [
+   "&minus;1.60 °C",
+   "1.60 °C",
+   "&minus;0.40 °C",
+   "&minus;0.44 °C"
+  ],
+  "correct": "&minus;1.60 °C",
+  "worked": "T<sub>f</sub> = 0.00 &minus; 1.60 = <b>&minus;1.60 °C</b>.",
+  "old_reason": "This forgets i = 4.",
+  "new_reason": "This forgets i = 4. AlCl<sub>3</sub> gives 1 Al<sup>3+</sup> + 3 Cl<sup>&minus;</sup>, so use &Delta;T<sub>f</sub> = i K<sub>f</sub> m with i = 4."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h37",
+  "choice_index": 3,
+  "question": "What is the freezing point of a 0.215 m AlCl<sub>3</sub> solution in water, assuming complete dissociation? (K<sub>f</sub> = 1.86 °C/m)",
+  "choices": [
+   "&minus;1.60 °C",
+   "1.60 °C",
+   "&minus;0.40 °C",
+   "&minus;0.44 °C"
+  ],
+  "correct": "&minus;1.60 °C",
+  "worked": "T<sub>f</sub> = 0.00 &minus; 1.60 = <b>&minus;1.60 °C</b>.",
+  "old_reason": "This uses K<sub>b</sub>.",
+  "new_reason": "This uses K<sub>b</sub>. A freezing-point question needs K<sub>f</sub> = 1.86 &deg;C/m."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h39",
+  "choice_index": 1,
+  "question": "What is the osmolality of a 0.0850 m Na<sub>2</sub>SO<sub>4</sub> solution in mOsm/kg, assuming complete dissociation?",
+  "choices": [
+   "255 mOsm/kg",
+   "85.0 mOsm/kg",
+   "170. mOsm/kg",
+   "0.255 mOsm/kg"
+  ],
+  "correct": "255 mOsm/kg",
+  "worked": "3 &times; 0.0850 = <b>255 mOsm/kg</b>.",
+  "old_reason": "This forgets i.",
+  "new_reason": "This forgets i. Na<sub>2</sub>SO<sub>4</sub> gives 3 ions, so multiply the molality by 3 and convert to mOsm/kg."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h41",
+  "choice_index": 2,
+  "question": "Propylene glycol, a nonelectrolyte, is used in RV antifreeze because it is less toxic than ethylene glycol. What molality of propylene glycol in water freezes at &minus;12.0 °C? (K<sub>f</sub> = 1.86 °C/m)",
+  "choices": [
+   "6.45 m",
+   "3.23 m",
+   "23.4 m",
+   "22.3 m"
+  ],
+  "correct": "6.45 m",
+  "worked": "12.0 / 1.86 = <b>6.45 m</b>.",
+  "old_reason": "This uses K<sub>b</sub>.",
+  "new_reason": "This uses K<sub>b</sub>. A freezing-point question needs K<sub>f</sub>: m = &Delta;T<sub>f</sub> / K<sub>f</sub>."
+ },
+ {
+  "bank": "bank/ch11_adapt.json",
+  "id": "c11-h41",
+  "choice_index": 3,
+  "question": "Propylene glycol, a nonelectrolyte, is used in RV antifreeze because it is less toxic than ethylene glycol. What molality of propylene glycol in water freezes at &minus;12.0 °C? (K<sub>f</sub> = 1.86 °C/m)",
+  "choices": [
+   "6.45 m",
+   "3.23 m",
+   "23.4 m",
+   "22.3 m"
+  ],
+  "correct": "6.45 m",
+  "worked": "12.0 / 1.86 = <b>6.45 m</b>.",
+  "old_reason": "This multiplies by K<sub>f</sub>; divide.",
+  "new_reason": "This multiplies by K<sub>f</sub>; divide. Solve &Delta;T<sub>f</sub> = K<sub>f</sub>m for m: m = 12.0 / 1.86."
+ },
+ {
+  "bank": "bank/ch12.json",
+  "id": "c12-003",
+  "choice_index": 1,
+  "question": "Use the table of red cabbage indicator colors. A sample of seltzer (carbonated water) turns the indicator pink. What are its approximate pH and type?",
+  "choices": [
+   "pH 3&ndash;4, acidic",
+   "pH 1&ndash;2, strongly acidic",
+   "pH 8, slightly basic",
+   "pH 9&ndash;11, basic"
+  ],
+  "correct": "pH 3&ndash;4, acidic",
+  "worked": "Pink = <b>pH 3&ndash;4, acidic</b>.",
+  "old_reason": "pH 1&ndash;2 gives red, not pink.",
+  "new_reason": "pH 1&ndash;2 gives red, not pink. Find &ldquo;pink&rdquo; in the color column and read the pH across."
+ },
+ {
+  "bank": "bank/ch12.json",
+  "id": "c12-003",
+  "choice_index": 2,
+  "question": "Use the table of red cabbage indicator colors. A sample of seltzer (carbonated water) turns the indicator pink. What are its approximate pH and type?",
+  "choices": [
+   "pH 3&ndash;4, acidic",
+   "pH 1&ndash;2, strongly acidic",
+   "pH 8, slightly basic",
+   "pH 9&ndash;11, basic"
+  ],
+  "correct": "pH 3&ndash;4, acidic",
+  "worked": "Pink = <b>pH 3&ndash;4, acidic</b>.",
+  "old_reason": "pH 8 gives blue.",
+  "new_reason": "pH 8 gives blue. Find &ldquo;pink&rdquo; in the color column and read the pH across."
+ },
+ {
+  "bank": "bank/ch12.json",
+  "id": "c12-003",
+  "choice_index": 3,
+  "question": "Use the table of red cabbage indicator colors. A sample of seltzer (carbonated water) turns the indicator pink. What are its approximate pH and type?",
+  "choices": [
+   "pH 3&ndash;4, acidic",
+   "pH 1&ndash;2, strongly acidic",
+   "pH 8, slightly basic",
+   "pH 9&ndash;11, basic"
+  ],
+  "correct": "pH 3&ndash;4, acidic",
+  "worked": "Pink = <b>pH 3&ndash;4, acidic</b>.",
+  "old_reason": "pH 9&ndash;11 gives green.",
+  "new_reason": "pH 9&ndash;11 gives green. Find &ldquo;pink&rdquo; in the color column and read the pH across."
+ },
+ {
+  "bank": "bank/ch12.json",
+  "id": "c12-051",
+  "choice_index": 2,
+  "question": "Limewater is a solution of Ca(OH)<sub>2</sub>. What is the pH of 3.3 &times; 10<sup>&minus;4</sup> M Ca(OH)<sub>2</sub> at 25 °C?",
+  "choices": [
+   "10.82",
+   "10.52",
+   "3.18",
+   "&minus;10.82"
+  ],
+  "correct": "10.82",
+  "worked": "[OH<sup>&minus;</sup>] = 6.6 &times; 10<sup>&minus;4</sup> M; pOH = 3.18; pH = <b>10.82</b>.",
+  "old_reason": "This is the pOH, not the pH.",
+  "new_reason": "This is the pOH, not the pH. After finding pOH from [OH<sup>&minus;</sup>] = 2 &times; 3.3 &times; 10<sup>&minus;4</sup> M, finish with pH = 14.00 &minus; pOH."
+ },
+ {
+  "bank": "bank/ch12.json",
+  "id": "c12-054",
+  "choice_index": 3,
+  "question": "What is the pH of a solution with [H<sub>3</sub>O<sup>+</sup>] = 7.94 &times; 10<sup>&minus;6</sup> M?",
+  "choices": [
+   "5.100",
+   "5.10",
+   "&minus;5.100",
+   "8.900"
+  ],
+  "correct": "5.100",
+  "worked": "&minus;log(7.94 &times; 10<sup>&minus;6</sup>) = <b>5.100</b>.",
+  "old_reason": "This is the pOH, 14 &minus; pH.",
+  "new_reason": "This is the pOH, 14 &minus; pH. The question gives [H<sub>3</sub>O<sup>+</sup>], so pH = &minus;log[H<sub>3</sub>O<sup>+</sup>] directly."
+ },
+ {
+  "bank": "bank/ch12.json",
+  "id": "c12-059",
+  "choice_index": 1,
+  "question": "A patient's arterial blood gas shows pH 7.52. How is this described?",
+  "choices": [
+   "Alkalosis (above the normal 7.35&ndash;7.45)",
+   "Acidosis (below the normal range)",
+   "Normal (within 7.35&ndash;7.45)",
+   "Neutral, because it is close to 7"
+  ],
+  "correct": "Alkalosis (above the normal 7.35&ndash;7.45)",
+  "worked": "7.52 &gt; 7.45: <b>alkalosis</b>.",
+  "old_reason": "Acidosis is a pH <i>below</i> 7.35.",
+  "new_reason": "Acidosis is a pH <i>below</i> 7.35. Compare 7.52 with the normal range 7.35&ndash;7.45; above it is alkalosis."
+ },
+ {
+  "bank": "bank/ch12_adapt.json",
+  "id": "c12-h10",
+  "choice_index": 3,
+  "question": "What is the conjugate acid of the nitrite ion, NO<sub>2</sub><sup>&minus;</sup>?",
+  "choices": [
+   "HNO<sub>2</sub>",
+   "HNO<sub>2</sub><sup>&minus;</sup>",
+   "NO<sub>2</sub><sup>2&minus;</sup>",
+   "H<sub>2</sub>NO<sub>2</sub><sup>+</sup>"
+  ],
+  "correct": "HNO<sub>2</sub>",
+  "worked": "NO<sub>2</sub><sup>&minus;</sup> + H<sup>+</sup> = <b>HNO<sub>2</sub></b>.",
+  "old_reason": "This adds two H<sup>+</sup>.",
+  "new_reason": "This adds two H<sup>+</sup>. A conjugate acid has exactly one more H<sup>+</sup>, so add one H and raise the charge by 1."
+ },
+ {
+  "bank": "bank/ch12_adapt.json",
+  "id": "c12-h11",
+  "choice_index": 2,
+  "question": "Which pair is <b>not</b> a conjugate acid&ndash;base pair?",
+  "choices": [
+   "H<sub>2</sub>SO<sub>4</sub> and SO<sub>4</sub><sup>2&minus;</sup>",
+   "HSO<sub>4</sub><sup>&minus;</sup> and SO<sub>4</sub><sup>2&minus;</sup>",
+   "NH<sub>4</sub><sup>+</sup> and NH<sub>3</sub>",
+   "H<sub>2</sub>O and OH<sup>&minus;</sup>"
+  ],
+  "correct": "H<sub>2</sub>SO<sub>4</sub> and SO<sub>4</sub><sup>2&minus;</sup>",
+  "worked": "H<sub>2</sub>SO<sub>4</sub> and SO<sub>4</sub><sup>2&minus;</sup> differ by two protons: <b>not a pair</b>.",
+  "old_reason": "These differ by one H<sup>+</sup>: a pair.",
+  "new_reason": "These differ by one H<sup>+</sup>: a pair. Look for the two species that differ by two H<sup>+</sup>."
+ },
+ {
+  "bank": "bank/ch12_adapt.json",
+  "id": "c12-h11",
+  "choice_index": 3,
+  "question": "Which pair is <b>not</b> a conjugate acid&ndash;base pair?",
+  "choices": [
+   "H<sub>2</sub>SO<sub>4</sub> and SO<sub>4</sub><sup>2&minus;</sup>",
+   "HSO<sub>4</sub><sup>&minus;</sup> and SO<sub>4</sub><sup>2&minus;</sup>",
+   "NH<sub>4</sub><sup>+</sup> and NH<sub>3</sub>",
+   "H<sub>2</sub>O and OH<sup>&minus;</sup>"
+  ],
+  "correct": "H<sub>2</sub>SO<sub>4</sub> and SO<sub>4</sub><sup>2&minus;</sup>",
+  "worked": "H<sub>2</sub>SO<sub>4</sub> and SO<sub>4</sub><sup>2&minus;</sup> differ by two protons: <b>not a pair</b>.",
+  "old_reason": "These differ by one H<sup>+</sup>: a pair.",
+  "new_reason": "These differ by one H<sup>+</sup>: a pair. Look for the two species that differ by two H<sup>+</sup>."
+ },
+ {
+  "bank": "bank/ch12_adapt.json",
+  "id": "c12-h20",
+  "choice_index": 2,
+  "question": "Four solutions each have a concentration of 0.10 M. Which one conducts electricity only weakly?",
+  "choices": [
+   "HF",
+   "HCl",
+   "NaOH",
+   "KNO<sub>3</sub>"
+  ],
+  "correct": "HF",
+  "worked": "<b>HF</b>, a weak acid, conducts weakly.",
+  "old_reason": "NaOH is a strong base: all ions.",
+  "new_reason": "NaOH is a strong base: all ions, so it conducts strongly. Look for a weak acid, which forms only a few ions."
+ },
+ {
+  "bank": "bank/ch12_adapt.json",
+  "id": "c12-h20",
+  "choice_index": 3,
+  "question": "Four solutions each have a concentration of 0.10 M. Which one conducts electricity only weakly?",
+  "choices": [
+   "HF",
+   "HCl",
+   "NaOH",
+   "KNO<sub>3</sub>"
+  ],
+  "correct": "HF",
+  "worked": "<b>HF</b>, a weak acid, conducts weakly.",
+  "old_reason": "KNO<sub>3</sub> is a soluble salt: all ions.",
+  "new_reason": "KNO<sub>3</sub> is a soluble salt: all ions, so it conducts strongly. Look for a weak acid, which forms only a few ions."
+ },
+ {
+  "bank": "bank/ch12_adapt.json",
+  "id": "c12-h21",
+  "choice_index": 2,
+  "question": "A sample of rainwater has [H<sub>3</sub>O<sup>+</sup>] = 8.3 &times; 10<sup>&minus;6</sup> M at 25 °C. What is [OH<sup>&minus;</sup>]?",
+  "choices": [
+   "1.2 &times; 10<sup>&minus;9</sup> M",
+   "8.3 &times; 10<sup>&minus;20</sup> M",
+   "8.3 &times; 10<sup>8</sup> M",
+   "1.0 &times; 10<sup>&minus;7</sup> M"
+  ],
+  "correct": "1.2 &times; 10<sup>&minus;9</sup> M",
+  "worked": "1.0 &times; 10<sup>&minus;14</sup> / 8.3 &times; 10<sup>&minus;6</sup> = <b>1.2 &times; 10<sup>&minus;9</sup> M</b>.",
+  "old_reason": "This divides the wrong way.",
+  "new_reason": "This divides the wrong way. Use [OH<sup>&minus;</sup>] = K<sub>w</sub> / [H<sub>3</sub>O<sup>+</sup>] = 1.0 &times; 10<sup>&minus;14</sup> &divide; 8.3 &times; 10<sup>&minus;6</sup>."
+ },
+ {
+  "bank": "bank/ch12_adapt.json",
+  "id": "c12-h22",
+  "choice_index": 1,
+  "question": "A diluted bleach solution has [OH<sup>&minus;</sup>] = 1.9 &times; 10<sup>&minus;4</sup> M at 25 °C. What is [H<sub>3</sub>O<sup>+</sup>]?",
+  "choices": [
+   "5.3 &times; 10<sup>&minus;11</sup> M",
+   "1.9 &times; 10<sup>&minus;18</sup> M",
+   "5.3 &times; 10<sup>3</sup> M",
+   "1.9 &times; 10<sup>10</sup> M"
+  ],
+  "correct": "5.3 &times; 10<sup>&minus;11</sup> M",
+  "worked": "1.0 &times; 10<sup>&minus;14</sup> / 1.9 &times; 10<sup>&minus;4</sup> = <b>5.3 &times; 10<sup>&minus;11</sup> M</b>.",
+  "old_reason": "This multiplies by K<sub>w</sub>.",
+  "new_reason": "This multiplies by K<sub>w</sub>. Use [H<sub>3</sub>O<sup>+</sup>] = K<sub>w</sub> / [OH<sup>&minus;</sup>], dividing 1.0 &times; 10<sup>&minus;14</sup> by 1.9 &times; 10<sup>&minus;4</sup>."
+ },
+ {
+  "bank": "bank/ch12_adapt.json",
+  "id": "c12-h22",
+  "choice_index": 3,
+  "question": "A diluted bleach solution has [OH<sup>&minus;</sup>] = 1.9 &times; 10<sup>&minus;4</sup> M at 25 °C. What is [H<sub>3</sub>O<sup>+</sup>]?",
+  "choices": [
+   "5.3 &times; 10<sup>&minus;11</sup> M",
+   "1.9 &times; 10<sup>&minus;18</sup> M",
+   "5.3 &times; 10<sup>3</sup> M",
+   "1.9 &times; 10<sup>10</sup> M"
+  ],
+  "correct": "5.3 &times; 10<sup>&minus;11</sup> M",
+  "worked": "1.0 &times; 10<sup>&minus;14</sup> / 1.9 &times; 10<sup>&minus;4</sup> = <b>5.3 &times; 10<sup>&minus;11</sup> M</b>.",
+  "old_reason": "This divides [OH<sup>&minus;</sup>] by K<sub>w</sub>.",
+  "new_reason": "This divides [OH<sup>&minus;</sup>] by K<sub>w</sub>. Put K<sub>w</sub> on top: [H<sub>3</sub>O<sup>+</sup>] = 1.0 &times; 10<sup>&minus;14</sup> &divide; [OH<sup>&minus;</sup>]."
+ },
+ {
+  "bank": "bank/ch12_adapt.json",
+  "id": "c12-h24",
+  "choice_index": 2,
+  "question": "What is [H<sub>3</sub>O<sup>+</sup>] in 0.0082 M KOH at 25 °C?",
+  "choices": [
+   "1.2 &times; 10<sup>&minus;12</sup> M",
+   "0.0082 M",
+   "8.2 &times; 10<sup>&minus;17</sup> M",
+   "6.1 &times; 10<sup>&minus;13</sup> M"
+  ],
+  "correct": "1.2 &times; 10<sup>&minus;12</sup> M",
+  "worked": "1.0 &times; 10<sup>&minus;14</sup> / 0.0082 = <b>1.2 &times; 10<sup>&minus;12</sup> M</b>.",
+  "old_reason": "This multiplies by K<sub>w</sub>.",
+  "new_reason": "This multiplies by K<sub>w</sub>. KOH gives [OH<sup>&minus;</sup>] = 0.0082 M, so [H<sub>3</sub>O<sup>+</sup>] = 1.0 &times; 10<sup>&minus;14</sup> &divide; 0.0082."
+ },
+ {
+  "bank": "bank/ch12_adapt.json",
+  "id": "c12-h25",
+  "choice_index": 2,
+  "question": "What is [H<sub>3</sub>O<sup>+</sup>] in 0.0026 M Sr(OH)<sub>2</sub> at 25 °C?",
+  "choices": [
+   "1.9 &times; 10<sup>&minus;12</sup> M",
+   "3.8 &times; 10<sup>&minus;12</sup> M",
+   "0.0052 M",
+   "2.6 &times; 10<sup>&minus;17</sup> M"
+  ],
+  "correct": "1.9 &times; 10<sup>&minus;12</sup> M",
+  "worked": "[OH<sup>&minus;</sup>] = 0.0052 M; [H<sub>3</sub>O<sup>+</sup>] = <b>1.9 &times; 10<sup>&minus;12</sup> M</b>.",
+  "old_reason": "0.0052 M is [OH<sup>&minus;</sup>].",
+  "new_reason": "0.0052 M is [OH<sup>&minus;</sup>]. Finish with [H<sub>3</sub>O<sup>+</sup>] = 1.0 &times; 10<sup>&minus;14</sup> &divide; 0.0052."
+ },
+ {
+  "bank": "bank/ch12_adapt.json",
+  "id": "c12-h29",
+  "choice_index": 2,
+  "question": "What is the pH of 1.35 &times; 10<sup>&minus;4</sup> M HClO<sub>4</sub>?",
+  "choices": [
+   "3.870",
+   "3.87",
+   "&minus;3.870",
+   "10.130"
+  ],
+  "correct": "3.870",
+  "worked": "&minus;log(1.35 &times; 10<sup>&minus;4</sup>) = <b>3.870</b>.",
+  "old_reason": "This drops the minus sign.",
+  "new_reason": "This drops the minus sign. pH = &minus;log[H<sub>3</sub>O<sup>+</sup>]; the log of a number below 1 is negative, so the minus makes pH positive."
+ },
+ {
+  "bank": "bank/ch12_adapt.json",
+  "id": "c12-h29",
+  "choice_index": 3,
+  "question": "What is the pH of 1.35 &times; 10<sup>&minus;4</sup> M HClO<sub>4</sub>?",
+  "choices": [
+   "3.870",
+   "3.87",
+   "&minus;3.870",
+   "10.130"
+  ],
+  "correct": "3.870",
+  "worked": "&minus;log(1.35 &times; 10<sup>&minus;4</sup>) = <b>3.870</b>.",
+  "old_reason": "This is the pOH.",
+  "new_reason": "This is the pOH. HClO<sub>4</sub> is a strong acid, so [H<sub>3</sub>O<sup>+</sup>] = 1.35 &times; 10<sup>&minus;4</sup> M and pH = &minus;log of that directly."
+ },
+ {
+  "bank": "bank/ch12_adapt.json",
+  "id": "c12-h30",
+  "choice_index": 1,
+  "question": "What is the pH of 0.0059 M KOH at 25 °C?",
+  "choices": [
+   "11.77",
+   "2.23",
+   "12.07",
+   "11.8"
+  ],
+  "correct": "11.77",
+  "worked": "pOH = 2.23; pH = <b>11.77</b>.",
+  "old_reason": "This is the pOH, not the pH.",
+  "new_reason": "This is the pOH, not the pH. After finding pOH = &minus;log[OH<sup>&minus;</sup>], finish with pH = 14.00 &minus; pOH."
+ },
+ {
+  "bank": "bank/ch12_adapt.json",
+  "id": "c12-h31",
+  "choice_index": 2,
+  "question": "What is the pH of 0.0024 M Sr(OH)<sub>2</sub> at 25 °C?",
+  "choices": [
+   "11.68",
+   "11.38",
+   "2.32",
+   "&minus;11.68"
+  ],
+  "correct": "11.68",
+  "worked": "[OH<sup>&minus;</sup>] = 0.0048 M; pOH = 2.32; pH = <b>11.68</b>.",
+  "old_reason": "This is the pOH.",
+  "new_reason": "This is the pOH, not the pH. Sr(OH)<sub>2</sub> gives 2 OH<sup>&minus;</sup> per unit, so after finding pOH, finish with pH = 14.00 &minus; pOH."
+ },
+ {
+  "bank": "bank/ch12_adapt.json",
+  "id": "c12-h32",
+  "choice_index": 2,
+  "question": "A sample of milk has pH 6.62. What is its [H<sub>3</sub>O<sup>+</sup>]?",
+  "choices": [
+   "2.4 &times; 10<sup>&minus;7</sup> M",
+   "4.2 &times; 10<sup>&minus;8</sup> M",
+   "4.2 &times; 10<sup>6</sup> M",
+   "2.40 &times; 10<sup>&minus;7</sup> M"
+  ],
+  "correct": "2.4 &times; 10<sup>&minus;7</sup> M",
+  "worked": "10<sup>&minus;6.62</sup> = <b>2.4 &times; 10<sup>&minus;7</sup> M</b>.",
+  "old_reason": "This drops the minus sign: 10<sup>6.62</sup>.",
+  "new_reason": "This drops the minus sign: 10<sup>6.62</sup>. Use [H<sub>3</sub>O<sup>+</sup>] = 10<sup>&minus;pH</sup> = 10<sup>&minus;6.62</sup>."
+ },
+ {
+  "bank": "bank/ch12_adapt.json",
+  "id": "c12-h33",
+  "choice_index": 1,
+  "question": "A floor cleaner has pH 10.85 at 25 °C. What is its [OH<sup>&minus;</sup>]?",
+  "choices": [
+   "7.1 &times; 10<sup>&minus;4</sup> M",
+   "1.4 &times; 10<sup>&minus;11</sup> M",
+   "3.15 M",
+   "7.08 &times; 10<sup>&minus;4</sup> M"
+  ],
+  "correct": "7.1 &times; 10<sup>&minus;4</sup> M",
+  "worked": "pOH = 3.15; [OH<sup>&minus;</sup>] = <b>7.1 &times; 10<sup>&minus;4</sup> M</b>.",
+  "old_reason": "10<sup>&minus;10.85</sup> is [H<sub>3</sub>O<sup>+</sup>].",
+  "new_reason": "10<sup>&minus;10.85</sup> is [H<sub>3</sub>O<sup>+</sup>]. Find pOH = 14.00 &minus; 10.85 first, then [OH<sup>&minus;</sup>] = 10<sup>&minus;pOH</sup>."
+ },
+ {
+  "bank": "bank/ch12_adapt.json",
+  "id": "c12-h35",
+  "choice_index": 2,
+  "question": "An arterial blood gas shows pH 7.33. How is this described?",
+  "choices": [
+   "Acidosis, because it is below 7.35",
+   "Normal, because it is above 7 and so slightly basic",
+   "Alkalosis, because it is above 7",
+   "Normal, because it is within 7.35&ndash;7.45"
+  ],
+  "correct": "Acidosis, because it is below 7.35",
+  "worked": "7.33 &lt; 7.35: <b>acidosis</b>.",
+  "old_reason": "Alkalosis is above 7.45.",
+  "new_reason": "Alkalosis is above 7.45. Compare 7.33 with the normal range 7.35&ndash;7.45; below it is acidosis."
+ },
+ {
+  "bank": "bank/ch12_adapt.json",
+  "id": "c12-h38",
+  "choice_index": 2,
+  "question": "A student mixes hydrofluoric acid, HF, with potassium chloride, KCl. HF is a weak acid. Why is the mixture still <b>not</b> a buffer?",
+  "choices": [
+   "Cl<sup>&minus;</sup> is not the conjugate base of HF, so no partner can neutralize added acid.",
+   "HF is a strong acid, so it cannot be in a buffer.",
+   "KCl is a strong base that neutralizes all the HF.",
+   "It is a buffer, because any weak acid with any salt makes one."
+  ],
+  "correct": "Cl<sup>&minus;</sup> is not the conjugate base of HF, so no partner can neutralize added acid.",
+  "worked": "<b>Cl<sup>&minus;</sup> is not F<sup>&minus;</sup></b>: the base partner is missing.",
+  "old_reason": "KCl is a neutral salt, not a base.",
+  "new_reason": "KCl is a neutral salt, not a base. A buffer needs a weak acid plus its own conjugate base, so HF needs F<sup>&minus;</sup>, not Cl<sup>&minus;</sup>."
+ },
+ {
+  "bank": "bank/ch12_adapt.json",
+  "id": "c12-h39",
+  "choice_index": 2,
+  "question": "A phosphate buffer contains H<sub>2</sub>PO<sub>4</sub><sup>&minus;</sup> and HPO<sub>4</sub><sup>2&minus;</sup>. Which species reacts with a small amount of added OH<sup>&minus;</sup>?",
+  "choices": [
+   "H<sub>2</sub>PO<sub>4</sub><sup>&minus;</sup>",
+   "HPO<sub>4</sub><sup>2&minus;</sup>",
+   "Na<sup>+</sup>",
+   "PO<sub>4</sub><sup>3&minus;</sup>"
+  ],
+  "correct": "H<sub>2</sub>PO<sub>4</sub><sup>&minus;</sup>",
+  "worked": "H<sub>2</sub>PO<sub>4</sub><sup>&minus;</sup>(aq) + OH<sup>&minus;</sup>(aq) &rarr; HPO<sub>4</sub><sup>2&minus;</sup>(aq) + H<sub>2</sub>O(l): <b>H<sub>2</sub>PO<sub>4</sub><sup>&minus;</sup></b>.",
+  "old_reason": "Na<sup>+</sup> is a spectator ion.",
+  "new_reason": "Na<sup>+</sup> is a spectator ion. Added OH<sup>&minus;</sup> reacts with the buffer's acid, the species that can give up an H<sup>+</sup>."
+ },
+ {
+  "bank": "bank/ch12_adapt.json",
+  "id": "c12-h42",
+  "choice_index": 2,
+  "question": "After a sugary snack, plaque bacteria release lactic acid onto the teeth. Which part of saliva neutralizes the acid?",
+  "choices": [
+   "Bicarbonate, HCO<sub>3</sub><sup>&minus;</sup>, a base",
+   "Carbonic acid, H<sub>2</sub>CO<sub>3</sub>",
+   "Na<sup>+</sup> ions",
+   "Water alone"
+  ],
+  "correct": "Bicarbonate, HCO<sub>3</sub><sup>&minus;</sup>, a base",
+  "worked": "<b>Bicarbonate</b> accepts the H<sup>+</sup>.",
+  "old_reason": "Na<sup>+</sup> is a spectator ion.",
+  "new_reason": "Na<sup>+</sup> is a spectator ion and does not react with acid. Look for the base in saliva, the species that accepts H<sup>+</sup>."
+ },
+ {
+  "bank": "bank/ch14.json",
+  "id": "c14-027",
+  "choice_index": 3,
+  "question": "Which statement describes what happens inside the nucleus during <b>positron emission</b>?",
+  "choices": [
+   "A proton changes into a neutron, so Z decreases by 1 and A stays the same.",
+   "A neutron changes into a proton, so Z increases by 1 and A stays the same.",
+   "The nucleus captures an inner electron, so A decreases by 1.",
+   "The nucleus releases only energy, so A and Z stay the same."
+  ],
+  "correct": "A proton changes into a neutron, so Z decreases by 1 and A stays the same.",
+  "worked": "Positron emission: <b>proton &rarr; neutron + positron; Z &minus; 1, A unchanged</b>.",
+  "old_reason": "That is gamma emission.",
+  "new_reason": "That is gamma emission. In positron emission a proton becomes a neutron, so Z drops by 1 and A stays the same."
+ },
+ {
+  "bank": "bank/ch14.json",
+  "id": "c14-065",
+  "choice_index": 3,
+  "question": "Radon-222 seeps from the soil into a home's basement. In which part of the body does it do most of its damage, and why?",
+  "choices": [
+   "The lungs: inhaled radon and its decay products give off alpha particles right next to living lung cells.",
+   "The skin: its alpha particles are stopped there.",
+   "The bones: radon is taken up like calcium.",
+   "Every organ equally: radon gives off mostly gamma rays."
+  ],
+  "correct": "The lungs: inhaled radon and its decay products give off alpha particles right next to living lung cells.",
+  "worked": "<b>The lungs</b>: alpha particles are delivered right to lung cells.",
+  "old_reason": "Radon-222 is an alpha emitter.",
+  "new_reason": "Radon-222 is an alpha emitter, not mostly gamma. Alpha particles travel only a short way, so think about where inhaled radon decays."
+ },
+ {
+  "bank": "bank/ch14.json",
+  "id": "c14-070",
+  "choice_index": 3,
+  "question": "Why is iodine-131 used to treat an overactive thyroid (Graves' disease)?",
+  "choices": [
+   "The thyroid collects iodide to make its hormones, so iodine-131 concentrates there and its beta particles destroy nearby thyroid tissue.",
+   "Iodine-131 gives off only gamma rays, which are absorbed only by the thyroid.",
+   "Iodine-131 is an alpha emitter that travels through the whole body.",
+   "Iodine-131 has a half-life of a few seconds, so it acts instantly."
+  ],
+  "correct": "The thyroid collects iodide to make its hormones, so iodine-131 concentrates there and its beta particles destroy nearby thyroid tissue.",
+  "worked": "<b>The thyroid concentrates iodine-131, and its beta particles act locally</b>.",
+  "old_reason": "Its half-life is 8.0 days.",
+  "new_reason": "Its half-life is 8.0 days, not seconds. It works because the thyroid concentrates iodine, so its beta particles act right there."
+ },
+ {
+  "bank": "bank/ch14_adapt.json",
+  "id": "c14-h04",
+  "choice_index": 3,
+  "question": "What does a <b>sievert</b> (Sv) measure?",
+  "choices": [
+   "The equivalent (biological) dose: absorbed dose adjusted for how harmful the radiation is",
+   "The number of decays per second in a source",
+   "The energy given off by a source per second",
+   "The time for half of a sample to decay"
+  ],
+  "correct": "The equivalent (biological) dose: absorbed dose adjusted for how harmful the radiation is",
+  "worked": "Sievert = <b>equivalent (biological) dose</b>.",
+  "old_reason": "That is the half-life, a time.",
+  "new_reason": "That is the half-life, a time. A sievert measures equivalent dose: absorbed dose adjusted for how harmful the radiation is."
+ },
+ {
+  "bank": "bank/ch14_adapt.json",
+  "id": "c14-h13",
+  "choice_index": 1,
+  "question": "Thorium-232, found in many rocks, is an alpha emitter. Which equation is balanced?",
+  "choices": [
+   "<sup>232</sup><sub>90</sub>Th &rarr; <sup>228</sup><sub>88</sub>Ra + <sup>4</sup><sub>2</sub>He",
+   "<sup>232</sup><sub>90</sub>Th &rarr; <sup>230</sup><sub>88</sub>Ra + <sup>4</sup><sub>2</sub>He",
+   "<sup>232</sup><sub>90</sub>Th &rarr; <sup>228</sup><sub>89</sub>Ac + <sup>4</sup><sub>2</sub>He",
+   "<sup>232</sup><sub>90</sub>Th &rarr; <sup>228</sup><sub>86</sub>Rn + <sup>4</sup><sub>2</sub>He"
+  ],
+  "correct": "<sup>232</sup><sub>90</sub>Th &rarr; <sup>228</sup><sub>88</sub>Ra + <sup>4</sup><sub>2</sub>He",
+  "worked": "<b><sup>232</sup><sub>90</sub>Th &rarr; <sup>228</sup><sub>88</sub>Ra + <sup>4</sup><sub>2</sub>He</b>.",
+  "old_reason": "Top: 230 + 4 = 234, not 232.",
+  "new_reason": "Top: 230 + 4 = 234, not 232. Alpha emission lowers A by 4, so the product's mass number must be 232 &minus; 4."
+ },
+ {
+  "bank": "bank/ch14_adapt.json",
+  "id": "c14-h13",
+  "choice_index": 2,
+  "question": "Thorium-232, found in many rocks, is an alpha emitter. Which equation is balanced?",
+  "choices": [
+   "<sup>232</sup><sub>90</sub>Th &rarr; <sup>228</sup><sub>88</sub>Ra + <sup>4</sup><sub>2</sub>He",
+   "<sup>232</sup><sub>90</sub>Th &rarr; <sup>230</sup><sub>88</sub>Ra + <sup>4</sup><sub>2</sub>He",
+   "<sup>232</sup><sub>90</sub>Th &rarr; <sup>228</sup><sub>89</sub>Ac + <sup>4</sup><sub>2</sub>He",
+   "<sup>232</sup><sub>90</sub>Th &rarr; <sup>228</sup><sub>86</sub>Rn + <sup>4</sup><sub>2</sub>He"
+  ],
+  "correct": "<sup>232</sup><sub>90</sub>Th &rarr; <sup>228</sup><sub>88</sub>Ra + <sup>4</sup><sub>2</sub>He",
+  "worked": "<b><sup>232</sup><sub>90</sub>Th &rarr; <sup>228</sup><sub>88</sub>Ra + <sup>4</sup><sub>2</sub>He</b>.",
+  "old_reason": "Bottom: 89 + 2 = 91, not 90.",
+  "new_reason": "Bottom: 89 + 2 = 91, not 90. Alpha emission lowers Z by 2, so the product's atomic number must be 90 &minus; 2."
+ },
+ {
+  "bank": "bank/ch14_adapt.json",
+  "id": "c14-h13",
+  "choice_index": 3,
+  "question": "Thorium-232, found in many rocks, is an alpha emitter. Which equation is balanced?",
+  "choices": [
+   "<sup>232</sup><sub>90</sub>Th &rarr; <sup>228</sup><sub>88</sub>Ra + <sup>4</sup><sub>2</sub>He",
+   "<sup>232</sup><sub>90</sub>Th &rarr; <sup>230</sup><sub>88</sub>Ra + <sup>4</sup><sub>2</sub>He",
+   "<sup>232</sup><sub>90</sub>Th &rarr; <sup>228</sup><sub>89</sub>Ac + <sup>4</sup><sub>2</sub>He",
+   "<sup>232</sup><sub>90</sub>Th &rarr; <sup>228</sup><sub>86</sub>Rn + <sup>4</sup><sub>2</sub>He"
+  ],
+  "correct": "<sup>232</sup><sub>90</sub>Th &rarr; <sup>228</sup><sub>88</sub>Ra + <sup>4</sup><sub>2</sub>He",
+  "worked": "<b><sup>232</sup><sub>90</sub>Th &rarr; <sup>228</sup><sub>88</sub>Ra + <sup>4</sup><sub>2</sub>He</b>.",
+  "old_reason": "Bottom: 86 + 2 = 88, not 90.",
+  "new_reason": "Bottom: 86 + 2 = 88, not 90. Alpha emission lowers Z by 2, so the product's atomic number must be 90 &minus; 2."
+ },
+ {
+  "bank": "bank/ch14_adapt.json",
+  "id": "c14-h14",
+  "choice_index": 2,
+  "question": "A nucleus gives off an alpha particle and becomes thorium-231. What was the starting nucleus? ? &rarr; <sup>231</sup><sub>90</sub>Th + <sup>4</sup><sub>2</sub>He",
+  "choices": [
+   "<sup>235</sup><sub>92</sub>U (uranium-235)",
+   "<sup>227</sup><sub>88</sub>Ra (radium-227)",
+   "<sup>235</sup><sub>91</sub>Pa (protactinium-235)",
+   "<sup>235</sup><sub>90</sub>Th (thorium-235)"
+  ],
+  "correct": "<sup>235</sup><sub>92</sub>U (uranium-235)",
+  "worked": "<b><sup>235</sup><sub>92</sub>U</b>.",
+  "old_reason": "This adds only 1 to Z; add 2.",
+  "new_reason": "This adds only 1 to Z; add 2. Add the alpha particle back to Th-231: A = 231 + 4 and Z = 90 + 2."
+ },
+ {
+  "bank": "bank/ch14_adapt.json",
+  "id": "c14-h15",
+  "choice_index": 2,
+  "question": "Which kind of radiation has the <b>lowest</b> ionizing power?",
+  "choices": [
+   "Gamma rays",
+   "Alpha particles",
+   "Beta particles",
+   "Alpha and beta particles equally"
+  ],
+  "correct": "Gamma rays",
+  "worked": "Ionizing power alpha &gt; beta &gt; gamma: <b>gamma rays</b>.",
+  "old_reason": "Beta particles are in the middle.",
+  "new_reason": "Beta particles are in the middle. Ionizing power runs alpha &gt; beta &gt; gamma, so pick the one at the low end."
+ },
+ {
+  "bank": "bank/ch14_adapt.json",
+  "id": "c14-h18",
+  "choice_index": 1,
+  "question": "Xenon-133 (half-life 5.25 days) is used in lung ventilation scans. A vial contains 6.80 mCi of xenon-133. What activity remains after 15.75 days?",
+  "choices": [
+   "0.850 mCi",
+   "0.425 mCi",
+   "1.13 mCi",
+   "10.2 mCi"
+  ],
+  "correct": "0.850 mCi",
+  "worked": "6.80 &rarr; 3.40 &rarr; 1.70 &rarr; 0.850 mCi = <b>0.850 mCi</b>.",
+  "old_reason": "This halves four times; n = 3.",
+  "new_reason": "This halves four times; n = 3. Find n = 15.75 days &divide; 5.25 days, then halve 6.80 mCi that many times."
+ },
+ {
+  "bank": "bank/ch14_adapt.json",
+  "id": "c14-h19",
+  "choice_index": 3,
+  "question": "Chromium-51 (half-life 27.7 days) is used to measure red blood cell survival. A sample has an activity of 3.60 &mu;Ci. What is its activity after 55.4 days?",
+  "choices": [
+   "0.900 &mu;Ci",
+   "1.80 &mu;Ci",
+   "0 &mu;Ci",
+   "0.450 &mu;Ci"
+  ],
+  "correct": "0.900 &mu;Ci",
+  "worked": "3.60 &rarr; 1.80 &rarr; 0.900 &mu;Ci = <b>0.900 &mu;Ci</b>.",
+  "old_reason": "This halves three times; n = 2.",
+  "new_reason": "This halves three times; n = 2. Find n = 55.4 days &divide; 27.7 days, then halve 3.60 &mu;Ci that many times."
+ },
+ {
+  "bank": "bank/ch14_adapt.json",
+  "id": "c14-h23",
+  "choice_index": 2,
+  "question": "Indium-111 (half-life 2.80 days) labels white blood cells to find infections. 8.40 days after a dose was made, 0.600 mCi remains. What was the starting activity?",
+  "choices": [
+   "4.80 mCi",
+   "0.0750 mCi",
+   "2.40 mCi",
+   "1.80 mCi"
+  ],
+  "correct": "4.80 mCi",
+  "worked": "0.600 &times; 8 = <b>4.80 mCi</b>.",
+  "old_reason": "This doubles only twice; n = 3.",
+  "new_reason": "This doubles only twice; n = 3. Find n = 8.40 days &divide; 2.80 days, then double 0.600 mCi that many times."
+ },
+ {
+  "bank": "bank/ch14_adapt.json",
+  "id": "c14-h24",
+  "choice_index": 1,
+  "question": "Radon-222 (half-life 3.8 days) from soil enters a sealed jar, and no more radon gets in. What percent of the radon-222 is left after 19.0 days?",
+  "choices": [
+   "3.125%",
+   "6.25%",
+   "12.5%",
+   "96.875%"
+  ],
+  "correct": "3.125%",
+  "worked": "n = 5: 100 &rarr; 50 &rarr; 25 &rarr; 12.5 &rarr; 6.25 &rarr; <b>3.125%</b>.",
+  "old_reason": "This is 4 half-lives; n = 5.",
+  "new_reason": "This is 4 half-lives; n = 5. Find n = 19.0 days &divide; 3.8 days, then halve 100% five times."
+ },
+ {
+  "bank": "bank/ch14_adapt.json",
+  "id": "c14-h39",
+  "choice_index": 3,
+  "question": "A nurse caring for a patient after radioactive iodine therapy cuts her time at the bedside from 20 minutes to 10 minutes, at the same distance. How does her dose change?",
+  "choices": [
+   "It is cut in half",
+   "It is cut to one-fourth",
+   "It does not change",
+   "It doubles"
+  ],
+  "correct": "It is cut in half",
+  "worked": "Half the time: <b>half the dose</b>.",
+  "old_reason": "Less time means less dose.",
+  "new_reason": "Less time means less dose, not more. Dose is proportional to time at the same distance, so halving the time halves the dose."
+ }
+]

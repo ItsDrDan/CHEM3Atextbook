@@ -587,7 +587,7 @@
    "<sup>1</sup><sub>1</sub>H &rarr; <sup>1</sup><sub>0</sub>n + <sup>0</sup><sub>+1</sub>e: one fewer proton, the same total of protons and neutrons.",
    "That is beta decay, which gives off <sup>0</sup><sub>&minus;1</sub>e.",
    "Electron capture also lowers Z by 1, but A never changes: the electron's mass number is 0.",
-   "That is gamma emission."
+   "That is gamma emission. In positron emission a proton becomes a neutron, so Z drops by 1 and A stays the same."
   ],
   "h": "A positron carries away a +1 charge.",
   "w": "Positron emission: <b>proton &rarr; neutron + positron; Z &minus; 1, A unchanged</b>.",
@@ -1642,7 +1642,7 @@
    "Radon is a gas, so it is breathed in; it and its solid decay products lodge in the lungs, where the highly ionizing alpha particles damage lung tissue.",
    "The outer layer of skin is dead cells, which is why alpha particles from outside do little harm.",
    "Radon is a noble gas; it is breathed in and out and does not build bone.",
-   "Radon-222 is an alpha emitter."
+   "Radon-222 is an alpha emitter, not mostly gamma. Alpha particles travel only a short way, so think about where inhaled radon decays."
   ],
   "h": "How does a gas get into the body?",
   "w": "<b>The lungs</b>: alpha particles are delivered right to lung cells.",
@@ -1747,7 +1747,7 @@
    "The thyroid cannot tell iodine-131 from stable iodine; its short-range beta particles (under about 2 mm in tissue) deliver dose locally.",
    "Iodine-131 gives off beta particles and gamma rays; the beta particles do the treating, and gamma rays pass out of the body.",
    "Iodine-131 is a beta emitter, and it collects in the thyroid rather than spreading through the body.",
-   "Its half-life is 8.0 days."
+   "Its half-life is 8.0 days, not seconds. It works because the thyroid concentrates iodine, so its beta particles act right there."
   ],
   "h": "Which gland uses iodine?",
   "w": "<b>The thyroid concentrates iodine-131, and its beta particles act locally</b>.",

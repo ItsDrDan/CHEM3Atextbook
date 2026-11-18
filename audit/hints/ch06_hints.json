@@ -1,0 +1,660 @@
+[
+ {
+  "file": "drafts/ch06/6.11_going_further.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Count valence electrons first (S and O are both group 16). If a double bond can sit on either S&ndash;O side, you have resonance. Then count electron groups on S, including its lone pair.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.11_going_further.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Count the electrons around the central atom in each. Fewer than 8 is incomplete; more than 8 is expanded. An odd total of valence electrons means a radical.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.1_ionic_bonding.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Start with valence electrons: K is in group 1, O in group 16. How many electrons does O need, and how many K atoms does it take to supply them?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.1_ionic_bonding.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Look for the ion that decides: does the formula contain OH<sup>&minus;</sup> (base), the oxide ion O<sup>2&minus;</sup> with a metal (metal oxide), or neither (salt)?",
+  "why": "LiOH contains the hydroxide ion, Al<sub>2</sub>O<sub>3</sub> is a metal with the oxide ion, and CaCO<sub>3</sub> is a metal cation with a polyatomic anion that is neither OH<sup>&minus;</sup> nor O<sup>2&minus;</sup>."
+ },
+ {
+  "file": "drafts/ch06/6.1_ionic_bonding.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "To carry a current, charged particles must be able to move. Ask where the ions are free to move: in the crystal lattice or in water?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.1_ionic_bonding.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Al is in group 13 and F in group 17. Each F needs only one electron, so do not give all of Al's electrons to one F. Electrons lost must equal electrons gained.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.2_covalent_bonds.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Use the group number: an atom usually forms as many bonds as the electrons it needs to reach an octet, and its leftover valence electrons pair up as lone pairs.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.2_covalent_bonds.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Think about how many pairs are shared. The more shared pairs between two atoms, the shorter and stronger the bond.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.2_covalent_bonds.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Count O<sub>2</sub>'s valence electrons, then try a single bond. Does each O end up with 8 electrons using only that many?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.3_lewis_structures.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Add the group-number valence electrons of every atom. For an ion, add one electron per negative charge and subtract one per positive charge.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.3_lewis_structures.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Count valence electrons, put S in the center (H is never central), connect with single bonds, then place what is left as lone pairs. Compare with water.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.3_lewis_structures.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Count 10 electrons and connect H&ndash;C&ndash;N with single bonds. Check octets: if C is short, move lone pairs from N into the C&ndash;N bond.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.3_lewis_structures.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Let the bond counts build the skeleton: which atom bonds to the most things? After single bonds and lone pairs, check octets and erase a lone pair to make a double bond where needed.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.3_lewis_structures.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Count the electrons, build the skeleton from the formula with single bonds, and place lone pairs. Which atoms are short of their usual bond counts?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.3_lewis_structures.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "hint": "Count valence electrons for an ion: add one for the 1&minus; charge. Put N in the center, and remember the brackets and the charge outside.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.4_vsepr.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "For each, draw the Lewis structure and count electron groups on the central atom (a multiple bond counts as one group). Then ask whether any groups are lone pairs.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.4_vsepr.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Count how many of the 4 groups are bonds and how many are lone pairs. The shape names only where the atoms are.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.4_vsepr.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Look at one carbon at a time. Count its electron groups, remembering that the C=C double bond counts as one group.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.4_vsepr.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Count groups on N (bonds plus lone pairs) and picture that many balloons. Pop the lone-pair balloon without moving the others. Wedges come toward you; dashes go away.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.5_polarity.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Find &Delta;EN for each bond with the yellow-sheet electronegativities (larger minus smaller). A bigger difference means a more polar bond.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.5_polarity.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "First get the shape from the Lewis structure (does P have a lone pair?). Then use SNAP: do the polar bonds cancel?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.5_polarity.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Both have polar bonds, so decide by shape. Which shape lets three equal bond dipoles cancel, and which has a lone pair on the central atom?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.5_polarity.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Draw an arrow only for each polar bond (&Delta;EN above 0.4). Follow the arrows like driving directions: if you end up back where you started, they cancel.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.5_polarity.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "(a) Count electron groups around each carbon separately. (b) Which bond has a large &Delta;EN, and is anything on the other side to cancel it? Polar mixes with polar.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.6_percent_composition.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Mass of N in one mole: subscript &times; atomic mass (count every N in the formula). Then part &divide; whole &times; 100%.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.6_percent_composition.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Use one mole: there is one C in CO<sub>2</sub>. Divide the mass of C by the molar mass and multiply by 100%.",
+  "why": "Mass percent is the element's mass in one mole (1 &times; 12.011 g of C) divided by the molar mass of CO<sub>2</sub>, times 100%."
+ },
+ {
+  "file": "drafts/ch06/6.6_percent_composition.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Part &divide; whole &times; 100%, where the whole is the sample mass. The oxygen mass is whatever is left after the copper.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.6_percent_composition.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Find %Cu from the formula (two Cu per Cu<sub>2</sub>S), then use it as a conversion factor: g Cu per 100 g Cu<sub>2</sub>S.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.6_percent_composition.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Compute the measured %Cl from the sample, then the %Cl expected from the formula NaCl. Do they agree?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.7_empirical_molecular.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Divide every subscript by the largest number that divides all of them. If they cannot be reduced, the formula is already empirical.",
+  "why": "Each empirical formula is the molecular formula divided by the largest common factor of its subscripts (2, 2, 6 and 2), giving the simplest whole-number ratio."
+ },
+ {
+  "file": "drafts/ch06/6.7_empirical_molecular.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Assume 100 g so percents become grams, convert to moles (the goal is the mole), and divide by the smallest. Then n = molar mass &divide; empirical formula mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.7_empirical_molecular.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Find the empirical formula mass of CH<sub>2</sub>O, then n = molar mass &divide; empirical formula mass. Multiply every subscript by n.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.7_empirical_molecular.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "(a) The data are already in moles: divide each by the smallest. (b) Compare the given molar mass with the empirical formula mass to find n.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 6.1",
+  "hint": "Calcium is in group 2 and fluorine in group 17. How many electrons must Ca lose, and how many can one F accept? Metals lose, nonmetals gain.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 6.2",
+  "hint": "(a) Use group numbers. (b) Find the smallest number both 3 (lost per Al) and 2 (gained per O) divide into. (c) Write the formula from those counts.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 6.3",
+  "hint": "Look for the ions: OH<sup>&minus;</sup> means base; a metal with O<sup>2&minus;</sup> means metal oxide; other ion pairs (including NH<sub>4</sub><sup>+</sup>) mean salt; two nonmetals with no ions means not ionic.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 6.4",
+  "hint": "A current needs charged particles that can move. Which choice has ions, and are they free to move?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 6.5",
+  "hint": "(a) Multiply each ion's charge by how many there are, then add. (b) Compare the charges of F<sup>&minus;</sup> and OH<sup>&minus;</sup>. (c) Count each polyatomic ion as one ion.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 6.6",
+  "hint": "Count electrons: Mg has 12 and O has 8. How many does each ion have after losing or gaining 2? Which noble gas has that many?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 6.7",
+  "hint": "Count N<sub>2</sub>'s valence electrons, then count the electrons each choice uses. Never add electrons to complete octets; HONC says N forms 3 bonds.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 6.8",
+  "hint": "(a) Add group-number electrons. (b) The three single bonds use some; the rest go as lone pairs. (c) Count electrons around each O and each H.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 6.9",
+  "hint": "Count the shared electron pairs in each bond. Does sharing more pairs hold the two carbons closer together or farther apart?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 6.10",
+  "hint": "For each molecule, count valence electrons, connect the atoms, and place the rest as lone pairs. Remember H gets a duet, not an octet.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 6.11",
+  "hint": "Use HONC (carbon forms 4 bonds). In which molecule can't every atom reach its usual bond count with single bonds alone?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 6.12",
+  "hint": "Use the group number: each bond to H gives the element one more electron toward an octet. Leftover valence electrons pair up as lone pairs.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 6.13",
+  "hint": "Add the group-number valence electrons of every atom. For an ion, add one per negative charge and subtract one per positive charge.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 6.14",
+  "hint": "Check each choice: total electrons used must be 14, carbon makes 4 bonds (HONC), Cl usually 1, and no atom other than H has more or less than 8.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 6.15",
+  "hint": "(a) Add valence electrons. (b) Which atom appears once and is less electronegative? (c) Connect with single bonds, fill outer atoms first, and put any leftovers on the center.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 6.16",
+  "hint": "Count each ion's electrons (adjust for the charge), place bonds and lone pairs, then put the structure in brackets with the charge outside.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 6.17",
+  "hint": "(a) Read the formula as a CH<sub>3</sub> group joined to an OH group. (b) Count electrons and subtract the bonding pairs. (c) How many bonds can H form?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 6.18",
+  "hint": "Count the electrons each description uses (it must be 12) and check that every carbon has 4 bonds and 8 electrons.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 6.19",
+  "hint": "(a) Which atoms can form only one bond? (b) Add group-number electrons. (c) Connect with single bonds, then fill octets with lone pairs.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 6.20",
+  "hint": "Draw each Lewis structure first, then count groups on the central atom only (any bond is one group; each lone pair is one group). Pop the lone pairs to name the shape.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 6.21",
+  "hint": "Count electron groups on O, including lone pairs. Then name the shape from the atoms only, not from the flat Lewis drawing.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 6.22",
+  "hint": "A double bond counts as one electron group, and only lone pairs on the central atom count. How many groups does carbon have?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 6.23",
+  "hint": "Treat each center separately. Count bonds and lone pairs on C, then on O, and pop the lone pairs to name each shape.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 6.24",
+  "hint": "(a) Count valence electrons and compare with the bonds drawn. (b) Count groups on each carbon (the triple bond is one group). (c) Put the two centers together.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 6.25",
+  "hint": "For each molecule or ion, count electron groups and lone pairs on the central atom. The same counts give the same shape, whatever the charge.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 6.26",
+  "hint": "The holes play the role of electron groups. (a) What fills a group if no atom does? (b) Name the shape by the atoms only. (c) Count N's bonds.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 6.27",
+  "hint": "For each bond, subtract the smaller electronegativity from the larger and compare with the cutoffs: 0&ndash;0.4, above 0.4&ndash;2.0, above 2.0. The more electronegative atom is &delta;&minus;.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 6.28",
+  "hint": "Compute &Delta;EN for each bond (larger minus smaller). The largest difference is the most polar bond.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 6.29",
+  "hint": "Compute &Delta;EN for each pair and compare with the cutoff: above 2.0 is ionic. Use only the numbers, not the metal&ndash;nonmetal rule.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 6.30",
+  "hint": "Each has a basic shape with no lone pairs on carbon, so check the outer atoms (SNAP). Which molecule has outer atoms that are not all the same?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 6.31",
+  "hint": "Find &Delta;EN to classify the bond. Then decide which atom pulls the shared pair closer, which end gets &delta;&minus;, and which way the dipole arrow points.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 6.32",
+  "hint": "(a) For each, check bond polarity and then shape. (b) What is the shape of CO<sub>2</sub>, and which way do its two bond dipoles point?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 6.33",
+  "hint": "(a) Compute &Delta;EN. (b) Count groups on N, including the lone pair. (c) Use SNAP: is the shape symmetrical?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 6.34",
+  "hint": "(a) The 2 outside the parentheses doubles everything inside: count each atom, then add. (b) For each element, mass in one mole &divide; molar mass &times; 100%.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 6.35",
+  "hint": "For each, find the mass of O in one mole and the molar mass, then part &divide; whole. More O atoms alone does not guarantee the highest percent.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 6.36",
+  "hint": "(a) Subtract the crucible mass each time; oxygen is product minus magnesium. (b) Part &divide; whole &times; 100%, where the whole is the product.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 6.37",
+  "hint": "(a) Molar mass of KI, then mass of I &divide; molar mass &times; 100%. (b) Use the percent as a conversion factor: mg I per 100 mg KI.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 6.38",
+  "hint": "Find the phosphate and hydroxide masses first, then multiply by their counts. Percent = mass of the element in one mole &divide; molar mass &times; 100%.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 6.39",
+  "hint": "Think about the law of constant composition. Does the percent of an element in a pure compound depend on sample size or source?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 6.40",
+  "hint": "Divide each set of subscripts by the largest number that divides all of them, then compare the reduced formulas in each pair.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 6.41",
+  "hint": "Assume 100 g, so each percent becomes grams. Convert to moles (the goal is the mole) and divide by the smallest. Then find n from the molar mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 6.42",
+  "hint": "Assume 100 g, convert to moles, and divide by the smaller. If a ratio ends in .5, do not round: multiply both by 2. Then find n.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 6.43",
+  "hint": "Assume 100 g, convert to moles, and divide by the smaller. A ratio like 2.67 is a fraction in thirds: find the multiplier that makes it whole.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 6.44",
+  "hint": "(a) Oxygen is product mass minus Mg mass. Convert both to moles and divide by the smaller. (b) Do the charges of Mg<sup>2+</sup> and O<sup>2&minus;</sup> allow that ratio?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 6.45",
+  "hint": "Find the empirical formula mass of CH<sub>2</sub>O, then n = molar mass &divide; empirical formula mass. Which choice is (CH<sub>2</sub>O)<sub>n</sub>?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 6.46",
+  "hint": "Water lost = hydrate mass minus anhydrous mass. Convert both masses to moles, then x = mol H<sub>2</sub>O &divide; mol MgSO<sub>4</sub>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 6.47",
+  "hint": "Find the water lost, then convert both the water and the CaSO<sub>4</sub> to moles. Compare moles, not grams, with water on top.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 6.48",
+  "hint": "(a) Use the prefix for the number of F. (b) Add group-number electrons. (c) N is less electronegative, so it is central. (d) Count groups on N. (e) Use SNAP.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 6.49",
+  "hint": "(a) Two nonmetals: use prefixes. (b) Count 14 electrons. (c) Molar mass, then mass of Si &divide; molar mass &times; 100%. (d) Compare &Delta;EN with the cutoffs.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 6.50",
+  "hint": "Metal plus nonmetal is ionic; two nonmetals is molecular. Compute &Delta;EN for each bond, then for the molecular ones count groups on the center and apply SNAP.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 6.51",
+  "hint": "Count 15 electrons into orbitals in order. The valence electrons are the outermost s and p. How many more does P need to match the next noble gas?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 6.52",
+  "hint": "(a) Use the green sheet for nitrate. (b) Which pieces are held by attraction between ions, and which by shared electrons? (c) Part &divide; whole. (d) Find moles first; the goal is the mole.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 6.53",
+  "hint": "Use the usual bond counts: which atom forms the most bonds? Draw the structure, then count electron groups (including lone pairs) on that atom.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 6.54",
+  "hint": "A molecule is polar if its bond arrows do not cancel. For each, check which bonds are polar (&Delta;EN above 0.4) and whether the outer atoms are all the same.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 6.55",
+  "hint": "(a) Treat each carbon and the oxygen as separate centers and count their groups. (b) Are the two C&ndash;O dipoles pointing in opposite directions? (c) Compare the two structures.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 6.56",
+  "hint": "Find the measured %Fe from the sample, then the %Fe expected from each formula. A pure compound must match its formula's percent.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 6.57",
+  "hint": "(a) Count the N atoms (the 2 outside the parentheses doubles NH<sub>2</sub>), find the molar mass, then part &divide; whole. (b) Use the percent as kg N per 100 kg urea.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 6.58",
+  "hint": "The data are already in moles: divide by the smallest to get the empirical formula, then n = molar mass &divide; empirical formula mass.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 6.59",
+  "hint": "(a) Add group-number electrons. (b) Try placing the double bond on each side of the central O. (c) Count groups on the central O. (d) Think about the resonance hybrid.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 6.60",
+  "hint": "(a) Add group-number electrons. (b) Is the total odd or even? Bonds and lone pairs hold electrons in pairs. (c) What do we call a molecule with an unpaired electron?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch06/6.9_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 6.61",
+  "hint": "(a) Add one electron for the 1&minus; charge. (b) How many different O atoms could hold the double bond? (c) Count groups on N; it has no lone pairs.",
+  "why": ""
+ }
+]

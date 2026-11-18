@@ -1,0 +1,722 @@
+[
+ {
+  "file": "drafts/ch05/5.1_the_mole.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "How many atoms are in 0.250 mol of iron?",
+  "answer": "0.250 mol &times; 6.0221 &times; 10 23 atoms/mol = 1.51 &times; 10 23 Fe atoms.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.1_the_mole.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "How many moles of CO 2 molecules are in 3.01 &times; 10 24 molecules?",
+  "answer": "3.01 &times; 10 24 &divide; 6.0221 &times; 10 23 per mol = 5.00 mol CO 2 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.1_the_mole.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Which contains more particles: 1 mol of sand grains or 1 mol of hydrogen atoms?",
+  "answer": "Neither. Both contain 6.0221 &times; 10 23 particles; a mole is a number, like a dozen. (A mole of sand grains would just be enormously heavier.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.2_molar_mass.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "Find the molar mass of (a) CO 2 ; (b) MgSO 4 ; (c) Al 2 (SO 4 ) 3 . (C 12.011, O 15.999, Mg 24.31, S 32.06, Al 26.98)",
+  "answer": "(a) 12.011 + 2(15.999) = 44.009 g/mol. (b) 24.31 + 32.06 + 4(15.999) = 120.366 &rarr; 120.37 g/mol. (c) 2(26.98) + 3(32.06) + 12(15.999) = 53.96 + 96.18 + 191.988 = 342.128 &rarr; 342.13 g/mol.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.2_molar_mass.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "What is the mass of one mole of oxygen molecules , O 2 ? Of oxygen atoms ?",
+  "answer": "O 2 : 2(15.999) = 31.998 g/mol. O atoms: 15.999 g/mol.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch05/5.2_molar_mass.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "Epsom salt is MgSO 4 &middot;7H 2 O. Find its molar mass.",
+  "answer": "120.366 + 7(18.015) = 120.366 + 126.105 = 246.471 &rarr; 246.47 g/mol.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.2_molar_mass.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "A 0.155 mol sample of a metal used in jewelry has a mass of 30.5 g. Identify the metal.",
+  "answer": "30.5 g &divide; 0.155 mol = 197 g/mol, which matches gold (196.97). Platinum (195.08) is close but further away.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.3_mass_moles_particles.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "How many moles are in 10.0 g of CO 2 (44.009 g/mol)? How many molecules?",
+  "answer": "10.0 &divide; 44.009 = 0.227 mol; 0.2272 mol &times; 6.0221 &times; 10 23 = 1.37 &times; 10 23 molecules.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.3_mass_moles_particles.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "An acetaminophen tablet contains 325 mg of acetaminophen, C 8 H 9 NO 2 (151.165 g/mol). How many millimoles is that?",
+  "answer": "0.325 g &divide; 151.165 g/mol = 0.00215 mol = 2.15 mmol.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch05/5.3_mass_moles_particles.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "What is the mass of 2.50 &times; 10 22 glucose molecules (180.156 g/mol)?",
+  "answer": "2.50 &times; 10 22 &divide; 6.0221 &times; 10 23 = 0.04151 mol; &times; 180.156 g/mol = 7.48 g.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.3_mass_moles_particles.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "Without a calculator: which contains more atoms, 5.00 g of helium or 5.00 g of neon?",
+  "answer": "Helium. The masses are equal and helium has the smaller molar mass (4.003 vs 20.180 g/mol), so 5.00 g of He is more moles (1.25 mol vs 0.248 mol) and therefore more atoms.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.4_moles_within_formula.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "How many moles of nitrogen atoms are in 0.40 mol of Ca(NO 3 ) 2 ?",
+  "answer": "0.40 mol &times; 2 mol N / 1 mol Ca(NO 3 ) 2 = 0.80 mol N.",
+  "mc": false,
+  "terse_answer": true
+ },
+ {
+  "file": "drafts/ch05/5.4_moles_within_formula.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "How many grams of oxygen are in 2.00 mol of H 2 SO 4 ?",
+  "answer": "2.00 mol &times; 4 mol O / 1 mol H 2 SO 4 = 8.00 mol O; &times; 15.999 g/mol = 128 g O.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.4_moles_within_formula.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "How many chloride ions are in 0.0500 mol of CaCl 2 ?",
+  "answer": "0.0500 mol &times; 2 mol Cl &minus; /mol CaCl 2 = 0.100 mol Cl &minus; ; &times; 6.0221 &times; 10 23 = 6.02 &times; 10 22 Cl &minus; ions.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.4_moles_within_formula.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "question": "How many moles of phosphate ions, and how many moles of oxygen atoms, are in 0.0250 mol of Ca 3 (PO 4 ) 2 ?",
+  "answer": "0.0250 &times; 2 = 0.0500 mol PO 4 3&minus; ; 0.0250 &times; 8 = 0.200 mol O atoms.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.4_moles_within_formula.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "question": "How many oxygen atoms are in 16.0 g of oxygen gas?",
+  "answer": "Oxygen gas is O 2 (31.998 g/mol). 16.0 g &divide; 31.998 g/mol = 0.500 mol O 2 ; &times; 2 = 1.00 mol O; &times; 6.0221 &times; 10 23 = 6.02 &times; 10 23 O atoms.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.5_putting_it_together.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "question": "What volume of water (density 1.00 g/mL) is 2.00 mol of water?",
+  "answer": "2.00 mol &times; 18.015 g/mol = 36.03 g; &times; 1 mL/1.00 g = 36.0 mL.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.5_putting_it_together.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "question": "What mass of potassium chloride, KCl, contains 1.00 g of potassium?",
+  "answer": "1.00 g K &divide; 39.10 g/mol = 0.02558 mol K = 0.02558 mol KCl; &times; 74.55 g/mol = 1.91 g KCl.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.5_putting_it_together.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "question": "A student says, \"CO 2 has two oxygens, so any mass of CO 2 has more oxygen atoms than the same mass of H 2 O.\" Is the student right?",
+  "answer": "No. Per gram, water has more moles of molecules (18.015 vs 44.009 g/mol), and that outweighs the 2:1 subscript. 10.0 g of H 2 O holds 0.555 mol O, while 10.0 g of CO 2 holds 0.454 mol O (Example 4).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 5.1",
+  "question": "One mole of sodium chloride, NaCl, contains A. 58.44 formula units of NaCl. B. 6.0221 &times; 10 23 formula units of NaCl. C. 6.0221 &times; 10 23 ions in total, half Na + and half Cl &minus; . D. exactly 1 g of NaCl.",
+  "answer": "B. A mole of anything is 6.0221 &times; 10 23 of that thing. NaCl is ionic, so its particles are formula units (Section 4.1), and one mole is 6.0221 &times; 10 23 of them. A mixes up the molar mass with the count: 58.44 is the mass of one mole in grams, not the number of formula units. C undercounts the ions. Each formula unit holds one Na + and one Cl &minus; , so one mole of NaCl holds 6.0221 &times; 10 23 of each ion, 1.2044 &times; 10 24 ions in total. D treats the mole as a mass. One mole of NaCl has a mass of 58.44 g; a mole is a number, not a mass.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 5.2",
+  "question": "An iron nail contains 0.0450 mol of iron. How many iron atoms is that?",
+  "answer": "Multiply moles by Avogadro's number, written with moles on the bottom so they cancel: \\( 0.0450\\ \\text{mol Fe} \\times \\dfrac{6.0221 \\times 10^{23}\\ \\text{Fe atoms}}{1\\ \\text{mol Fe}} = 2.71 \\times 10^{22}\\ \\text{Fe atoms} \\) The answer is 2.71 &times; 10 22 Fe atoms , three significant figures like 0.0450 (the leading zeros are not significant; the trailing zero after the decimal point is). Less than one mole gives fewer than 6 &times; 10 23 atoms, as expected.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 5.3",
+  "question": "A respiratory therapist collects the breath a patient exhales over about one minute; it contains 4.25 &times; 10 21 molecules of carbon dioxide. How many moles of CO 2 is that?",
+  "answer": "Divide by Avogadro's number (particles on the bottom of the factor): \\( 4.25 \\times 10^{21}\\ \\text{molecules} \\times \\dfrac{1\\ \\text{mol CO}_2}{6.0221 \\times 10^{23}\\ \\text{molecules}} = 7.06 \\times 10^{-3}\\ \\text{mol CO}_2 \\) The answer is 7.06 &times; 10 &minus;3 mol (0.00706 mol, or 7.06 mmol). A count smaller than Avogadro's number must give less than one mole.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 5.4",
+  "question": "A glass of water contains 1.20 &times; 10 24 water molecules. How many moles of water is that? A. 7.23 &times; 10 47 mol B. 1.99 mol C. 0.502 mol D. 35.9 mol",
+  "answer": "B. \\( 1.20 \\times 10^{24}\\ \\text{molecules} \\times \\dfrac{1\\ \\text{mol}}{6.0221 \\times 10^{23}\\ \\text{molecules}} = 1.99\\ \\text{mol H}_2\\text{O} \\) The count is about twice Avogadro's number, so about 2 mol makes sense. A multiplies by Avogadro's number instead of dividing. A number of moles near 10 47 is the sign of an upside-down factor. C divides the wrong way round, 6.0221 &times; 10 23 &divide; 1.20 &times; 10 24 . The units come out as &ldquo;per mole,&rdquo; not moles, and the answer is too small for a count about twice Avogadro's number. D goes one step too far: 1.99 mol &times; 18.015 g/mol = 35.9, which is the mass in grams , not the number of moles.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 5.5",
+  "question": "Each red blood cell carries roughly 2.7 &times; 10 8 hemoglobin molecules. How many moles of hemoglobin are in one red blood cell?",
+  "answer": "\\( 2.7 \\times 10^{8}\\ \\text{molecules} \\times \\dfrac{1\\ \\text{mol}}{6.0221 \\times 10^{23}\\ \\text{molecules}} = 4.5 \\times 10^{-16}\\ \\text{mol hemoglobin} \\) The answer is 4.5 &times; 10 &minus;16 mol (two significant figures, set by 2.7). Even 270 million molecules is a tiny fraction of a mole, which is why biologists count cells directly but chemists count molecules in moles.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 5.6",
+  "question": "Compare 1.00 mol of hydrogen gas, H 2 , with 1.00 mol of oxygen gas, O 2 . Which statement is true? A. They have the same number of molecules and the same mass. B. They have the same number of molecules, but the O 2 sample has the greater mass. C. The O 2 sample has more molecules, because oxygen molecules are heavier. D. The H 2 sample has more molecules, because hydrogen molecules are smaller.",
+  "answer": "B. One mole is always 6.0221 &times; 10 23 particles, so both samples hold the same number of molecules. Each O 2 molecule is heavier, so the oxygen sample weighs more (31.998 g versus 2.016 g; Section 5.2). A is wrong: the same number of heavier particles has more mass, like a dozen bricks versus a dozen marbles. C and D are wrong for the same reason: a mole is a fixed count, like a dozen. The size or mass of the particles does not change how many are in a mole.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 5.7",
+  "question": "One amoxicillin capsule (an antibiotic) contains 1.37 &times; 10 &minus;3 mol of amoxicillin. How many amoxicillin molecules are in the capsule?",
+  "answer": "\\( 1.37 \\times 10^{-3}\\ \\text{mol} \\times \\dfrac{6.0221 \\times 10^{23}\\ \\text{molecules}}{1\\ \\text{mol}} = 8.25 \\times 10^{20}\\ \\text{molecules} \\) The answer is 8.25 &times; 10 20 molecules . A small number of moles still holds an enormous number of molecules. On the TI-36X Pro, enter both numbers with the &times;10 n key: 1.37E-3 &times; 6.0221E23 .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 5.8",
+  "question": "The table below lists samples of several substances, each with either the number of moles or the number of particles given. @media (max-width: 37.49em) { .mt-content-container .mt-responsive-table td[data-th] { padding-left: 9.5em !important; } } Moles and particles to complete (blanks marked ?) Sample Kind of particle Moles Number of particles Copper wire Cu atoms 0.125 mol ? Neon sign Ne atoms ? 3.50 &times; 10 22 Dry ice CO 2 molecules 2.40 mol ? Calcium ions in a lab solution Ca 2+ ions ? 9.03 &times; 10 20 Glucose in a sports drink sip C 6 H 12 O 6 molecules 0.00575 mol ? Fill in each blank.",
+  "answer": "Moles &times; 6.0221 &times; 10 23 = particles; particles &divide; 6.0221 &times; 10 23 = moles. Each answer has three significant figures, like the given value. Cu: 0.125 mol &times; 6.0221 &times; 10 23 = 7.53 &times; 10 22 Cu atoms . Ne: 3.50 &times; 10 22 &divide; 6.0221 &times; 10 23 = 0.0581 mol Ne . CO 2 : 2.40 mol &times; 6.0221 &times; 10 23 = 1.45 &times; 10 24 CO 2 molecules . Ca 2+ : 9.03 &times; 10 20 &divide; 6.0221 &times; 10 23 = 1.50 &times; 10 &minus;3 mol Ca 2+ (1.50 mmol). Glucose: 0.00575 mol &times; 6.0221 &times; 10 23 = 3.46 &times; 10 21 glucose molecules . Check: every sample under one mole has fewer than 6 &times; 10 23 particles, and the 2.40 mol sample has more.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 5.9",
+  "question": "Which sample contains the greatest number of sodium atoms? A. 0.10 mol of Na B. 5.0 &times; 10 22 Na atoms C. 9.0 &times; 10 21 Na atoms D. 0.050 mol of Na",
+  "answer": "A. Put every choice in the same unit before comparing. 0.10 mol &times; 6.0221 &times; 10 23 = 6.0 &times; 10 22 atoms, which is more than any other choice. B looks biggest only because 5.0 &times; 10 22 is a large-looking number next to \"0.10.\" In the same unit, 5.0 &times; 10 22 is less than 6.0 &times; 10 22 . C is 9.0 &times; 10 21 atoms, about one-seventh of choice A. D is half of choice A: 0.050 mol &times; 6.0221 &times; 10 23 = 3.0 &times; 10 22 atoms.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 5.10",
+  "question": "A student is asked how many atoms are in 1.50 mol of silver and reports 2.49 &times; 10 &minus;24 atoms. (a) What mistake did the student make? (b) What is the correct answer? (c) How could the student have caught the mistake?",
+  "answer": "(a) The student divided by Avogadro's number instead of multiplying: \\( 1.50 \\div (6.0221 \\times 10^{23}) = 2.49 \\times 10^{-24} \\). The units show it: mol &divide; (atoms/mol) gives mol 2 /atom, not atoms. (b) \\( 1.50\\ \\text{mol Ag} \\times \\dfrac{6.0221 \\times 10^{23}\\ \\text{Ag atoms}}{1\\ \\text{mol Ag}} = 9.03 \\times 10^{23}\\ \\text{Ag atoms} \\) (c) A number of atoms can never be less than 1, and more than one mole must be more than 6 &times; 10 23 atoms. Any particle count with a negative exponent is a flipped factor.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 5.11",
+  "question": "In the microbiology lab, a dense overnight culture of E. coli contains about 2.0 &times; 10 9 bacteria per milliliter. (a) What volume of culture, in milliliters, would contain one mole of bacteria? (b) Convert that volume to liters. (c) What does your answer say about why bacteria are counted directly rather than in moles?",
+  "answer": "(a) \\( 6.0221 \\times 10^{23}\\ \\text{bacteria} \\times \\dfrac{1\\ \\text{mL}}{2.0 \\times 10^{9}\\ \\text{bacteria}} = 3.0 \\times 10^{14}\\ \\text{mL} \\) (b) \\( 3.0 \\times 10^{14}\\ \\text{mL} \\times \\dfrac{1\\ \\text{L}}{1000\\ \\text{mL}} = 3.0 \\times 10^{11}\\ \\text{L} \\) Two significant figures, set by 2.0 &times; 10 9 (1 L = 1000 mL is exact). (c) Three hundred billion liters of culture is far more than any lab will ever grow. Cells and bacteria come in counts that are tiny compared with a mole, so they are counted directly (as cells or colony-forming units). The mole is useful only for things as small as atoms, ions, and molecules.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 5.12",
+  "question": "A balloon holds 0.20 mol of helium atoms. Which answer reports the number of helium atoms with the correct significant figures? A. 1.2044 &times; 10 23 atoms B. 1.20 &times; 10 23 atoms C. 1.2 &times; 10 23 atoms D. 1 &times; 10 23 atoms",
+  "answer": "C. In multiplication, the answer keeps the fewest significant figures of the measured values. 0.20 has 2 significant figures (the trailing zero after the decimal point counts), and Avogadro's number as given has 5, so the answer has 2: 0.20 &times; 6.0221 &times; 10 23 = 1.2 &times; 10 23 . A copies every digit from the calculator (5 significant figures), more precision than 0.20 mol supports. B has 3 significant figures; it would be right for 0.200 mol. D has only 1 significant figure; it treats 0.20 as if it were 0.2.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 5.13",
+  "question": "Calculate the molar mass of (a) ammonia, NH 3 ; (b) methane, CH 4 , the main gas in the natural gas burned in Valley homes and power plants (and released by dairy cattle); (c) sodium bicarbonate, NaHCO 3 , the antacid in baking soda. Use H 1.008, C 12.011, N 14.007, O 15.999, Na 22.99.",
+  "answer": "Multiply each atomic mass by its subscript (exact), add, and round the sum to the fewest decimal places among the atomic masses used. (a) \\( 14.007 + 3(1.008) = 14.007 + 3.024 = 17.031\\ \\text{g/mol} \\) (b) \\( 12.011 + 4(1.008) = 12.011 + 4.032 = 16.043\\ \\text{g/mol} \\) (c) \\( 22.99 + 1.008 + 12.011 + 3(15.999) = 84.006 \\rightarrow 84.01\\ \\text{g/mol} \\) NH 3 and CH 4 use only masses with 3 decimal places, so they keep 3: 17.031 g/mol and 16.043 g/mol . NaHCO 3 includes Na (22.99, 2 decimal places), so it keeps 2: 84.01 g/mol .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 5.14",
+  "question": "Calcium nitrate, Ca(NO 3 ) 2 , is sold to Valley growers as a fertilizer that supplies both calcium and nitrogen. What is its molar mass? (Ca 40.08, N 14.007, O 15.999) A. 82 g/mol B. 102.08 g/mol C. 116.09 g/mol D. 164.09 g/mol",
+  "answer": "D. The 2 outside the parentheses multiplies everything inside, so one formula unit has 1 Ca, 2 N, and 6 O: \\( 40.08 + 2(14.007) + 6(15.999) = 40.08 + 28.014 + 95.994 = 164.088 \\rightarrow 164.09\\ \\text{g/mol} \\) A adds atomic numbers (20 + 2 &times; 7 + 6 &times; 8 = 82) instead of atomic masses. B ignores the subscript 2 after the parentheses and calculates CaNO 3 (1 N, 3 O): 102.08. C applies the 2 to nitrogen only, giving 2 N but just 3 O: 116.09.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 5.15",
+  "question": "A patient on supplemental oxygen breathes O 2 molecules. What is the mass of one mole of O 2 molecules? A. 15.999 g B. 31.998 g C. 16 g D. 5.3134 &times; 10 &minus;23 g",
+  "answer": "B. Each O 2 molecule has two oxygen atoms, so its molar mass is 2(15.999) = 31.998 g/mol, and one mole has a mass of 31.998 g. A is the mass of one mole of oxygen atoms , not O 2 molecules. C doubles oxygen's atomic number (8 &times; 2 = 16) instead of using its atomic mass. D is the mass of a single O 2 molecule (31.998 g &divide; 6.0221 &times; 10 23 ), not of a whole mole.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 5.16",
+  "question": "Calcium chloride dihydrate, CaCl 2 &middot;2H 2 O, is the form of calcium chloride usually stocked in the chemistry stockroom. Find its molar mass. (Ca 40.08, Cl 35.45, H 1.008, O 15.999)",
+  "answer": "The dot means \"plus\": add the mass of two water molecules to the mass of CaCl 2 . \\( \\text{CaCl}_2:\\ 40.08 + 2(35.45) = 110.98 \\qquad 2\\,\\text{H}_2\\text{O}:\\ 2(18.015) = 36.030 \\) \\( 110.98 + 36.030 = 147.010 \\rightarrow 147.01\\ \\text{g/mol} \\) The molar mass is 147.01 g/mol (2 decimal places, set by Ca and Cl). A common error is to multiply 110.98 by 2 or by 36.030; the waters are added, not multiplied.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 5.17",
+  "question": "Find the molar mass of each compound. (H 1.008, C 12.011, N 14.007, O 15.999, S 32.06, Cl 35.45, K 39.10, Ca 40.08) (a) potassium chloride, KCl, a salt substitute and electrolyte replacement (b) calcium carbonate, CaCO 3 , in antacid tablets and calcium supplements (c) ascorbic acid (vitamin C), C 6 H 8 O 6 (d) aspirin, C 9 H 8 O 4 (e) ammonium sulfate, (NH 4 ) 2 SO 4 , a nitrogen fertilizer",
+  "answer": "(a) 39.10 + 35.45 = 74.55 g/mol (b) 40.08 + 12.011 + 3(15.999) = 40.08 + 12.011 + 47.997 = 100.088 &rarr; 100.09 g/mol (c) 6(12.011) + 8(1.008) + 6(15.999) = 72.066 + 8.064 + 95.994 = 176.124 g/mol (d) 9(12.011) + 8(1.008) + 4(15.999) = 108.099 + 8.064 + 63.996 = 180.159 g/mol (e) 2 N, 8 H, 1 S, 4 O: 2(14.007) + 8(1.008) + 32.06 + 4(15.999) = 28.014 + 8.064 + 32.06 + 63.996 = 132.134 &rarr; 132.13 g/mol Compounds made only of H, C, N, and O (3-decimal masses) keep 3 decimal places; those containing K, Ca, Cl, or S (2-decimal masses) keep 2. In (e), the 2 outside the parentheses doubles both N and H.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 5.18",
+  "question": "Caffeine has the molecular formula C 8 H 10 N 4 O 2 . (a) What is the molecular mass of one caffeine molecule, in amu? (b) What is the mass of one mole of caffeine, in grams? (Use your yellow sheet.)",
+  "answer": "(a) \\( 8(12.011) + 10(1.008) + 4(14.007) + 2(15.999) = 96.088 + 10.080 + 56.028 + 31.998 = 194.194\\ \\text{amu} \\) (b) The same number, with the unit changed: 194.194 g . One molecule averages 194.194 amu, and one mole of molecules has a mass of 194.194 g. That is exactly what Avogadro's number was chosen to do.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 5.19",
+  "question": "Potassium sulfate, K 2 SO 4 , is used as a potassium fertilizer on Valley orchards. Using K 39.10, S 32.06, and O 15.999, which answer reports its molar mass correctly? A. 135.16 g/mol B. 174.256 g/mol C. 174.26 g/mol D. 174.3 g/mol",
+  "answer": "C. 2(39.10) + 32.06 + 4(15.999) = 78.20 + 32.06 + 63.996 = 174.256. This is an addition, so the answer keeps the fewest decimal places : K and S have 2, so the answer has 2, 174.26 g/mol. A counts only one potassium: 39.10 + 32.06 + 63.996 = 135.16. The subscript 2 on K is missing. B keeps 3 decimal places, but 39.10 and 32.06 are known only to the hundredths place. D applies the multiplication rule (fewest significant figures, 4 from 39.10) to a sum. Sums follow the decimal-place rule, and subscripts are exact, so they never limit the answer.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 5.20",
+  "question": "Before an X-ray study of the stomach and intestines, a patient drinks a suspension of barium sulfate, BaSO 4 , which coats the lining of the digestive tract. (a) Find the molar mass of BaSO 4 . (Ba 137.33, S 32.06, O 15.999) (b) What fraction of that molar mass comes from barium? (c) Barium (56 electrons per atom) absorbs X-rays strongly. Which other element from Chapter 5 is used in contrast agents for the same reason?",
+  "answer": "(a) \\( 137.33 + 32.06 + 4(15.999) = 137.33 + 32.06 + 63.996 = 233.386 \\rightarrow 233.39\\ \\text{g/mol} \\) (b) \\( 137.33 \\div 233.39 = 0.5884 \\): barium is about 59% of the mass. (c) Iodine (53 electrons per atom), the element that iohexol and other CT contrast agents are built to carry (Section 5.2). Heavy atoms with many electrons block X-rays, so the coated organs show up bright on the image.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 5.21",
+  "question": "Why is the molar mass of an element, in g/mol, the same number as its average atomic mass, in amu? A. Because Avogadro's number was chosen so that one mole of atoms has a mass in grams equal to the atomic mass in amu. B. Because 1 amu and 1 g are the same mass. C. Because every atom has a mass of 1 g. D. It is true only for carbon-12; for every other element the numbers are different.",
+  "answer": "A. The mole is defined so that 6.0221 &times; 10 23 atoms of mass x amu have a total mass of x grams. That is why the number under each symbol on the yellow sheet serves both as the atomic mass (amu) and the molar mass (g/mol). B is far off: 1 g is 6.0221 &times; 10 23 amu. A single atom is unimaginably lighter than a gram. C is false: one atom has a mass of about 10 &minus;23 g or less (for example, one iron atom is 9.274 &times; 10 &minus;23 g). D is false: carbon-12 sets the scale, but the match holds for every element and compound (for example, Na 22.99 amu and 22.99 g/mol).",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 5.22",
+  "question": "Two common nitrogen fertilizers in the San Joaquin Valley are urea, CO(NH 2 ) 2 , and ammonium nitrate, NH 4 NO 3 . (a) How many atoms of each element are in one formula of each compound? (b) Find each molar mass. (H 1.008, C 12.011, N 14.007, O 15.999)",
+  "answer": "(a) Urea: 1 C, 1 O, 2 N, and 4 H (the 2 after the parentheses doubles both N and H). Ammonium nitrate: 2 N (one in NH 4 + , one in NO 3 &minus; ), 4 H, and 3 O. (b) Urea: \\( 12.011 + 15.999 + 2(14.007) + 4(1.008) = 12.011 + 15.999 + 28.014 + 4.032 = 60.056\\ \\text{g/mol} \\) Ammonium nitrate: \\( 2(14.007) + 4(1.008) + 3(15.999) = 28.014 + 4.032 + 47.997 = 80.043\\ \\text{g/mol} \\) Both compounds contain 2 mol of N per mole, but urea packs them into less mass, which is why urea has the higher nitrogen grade (46-0-0 versus 34-0-0; Section 5.4).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 5.23",
+  "question": "Calcium phosphate, Ca 3 (PO 4 ) 2 , is related to the mineral in bones and teeth and is used in some calcium supplements. A student reports its molar mass as 215.21 g/mol. (a) What mistake did the student make? (b) What is the correct molar mass? (Ca 40.08, P 30.97, O 15.999)",
+  "answer": "(a) The student left out the subscript 2 after the parentheses and calculated Ca 3 PO 4 : 3(40.08) + 30.97 + 4(15.999) = 215.206 &rarr; 215.21. (b) The 2 doubles everything in the parentheses: 3 Ca, 2 P, and 8 O. \\( 3(40.08) + 2(30.97) + 8(15.999) = 120.24 + 61.94 + 127.992 = 310.172 \\rightarrow 310.17\\ \\text{g/mol} \\) The correct molar mass is 310.17 g/mol . Writing an atom-count table (element, number, mass, subtotal) before adding catches this mistake.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 5.24",
+  "question": "Fluoride toothpastes contain either sodium fluoride, NaF, or tin(II) fluoride (stannous fluoride), SnF 2 . Find the molar mass of each. (F 18.998, Na 22.99, Sn 118.71)",
+  "answer": "\\( \\text{NaF}:\\ 22.99 + 18.998 = 41.988 \\rightarrow 41.99\\ \\text{g/mol} \\qquad \\text{SnF}_2:\\ 118.71 + 2(18.998) = 156.706 \\rightarrow 156.71\\ \\text{g/mol} \\) Both answers keep 2 decimal places, set by Na (22.99) and Sn (118.71). The two F atoms in SnF 2 come from the 2+ charge of tin(II) (Section 4.3).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 5.25",
+  "question": "A teaspoon of baking soda used as an antacid contains about 5.00 g of sodium bicarbonate, NaHCO 3 (84.01 g/mol). How many moles is that?",
+  "answer": "\\( 5.00\\ \\text{g NaHCO}_3 \\times \\dfrac{1\\ \\text{mol NaHCO}_3}{84.01\\ \\text{g NaHCO}_3} = 0.0595\\ \\text{mol NaHCO}_3 \\) The answer is 0.0595 mol (59.5 mmol), three significant figures like 5.00 g. Five grams is a small fraction of 84 g, so a small fraction of a mole makes sense.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 5.26",
+  "question": "A lab procedure calls for 0.0250 mol of calcium carbonate, CaCO 3 (100.09 g/mol). What mass should you weigh out?",
+  "answer": "\\( 0.0250\\ \\text{mol CaCO}_3 \\times \\dfrac{100.09\\ \\text{g CaCO}_3}{1\\ \\text{mol CaCO}_3} = 2.50\\ \\text{g CaCO}_3 \\) Weigh 2.50 g . One-fortieth of a mole should be about one-fortieth of 100 g, or 2.5 g.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 5.27",
+  "question": "An ibuprofen tablet contains 200. mg of ibuprofen, C 13 H 18 O 2 (206.285 g/mol). How many millimoles of ibuprofen is that? A. 0.970 mmol B. 970. mmol C. 4.13 &times; 10 4 mmol D. 9.70 &times; 10 &minus;4 mmol",
+  "answer": "A. Because 1 mmol of ibuprofen has a mass of 206.285 mg (both units are scaled by 10 &minus;3 ), the molar mass can be used as 206.285 mg/mmol: \\( 200.\\ \\text{mg} \\times \\dfrac{1\\ \\text{mmol}}{206.285\\ \\text{mg}} = 0.970\\ \\text{mmol} \\) (The decimal point in \"200.\" makes all three digits significant.) The same answer comes from 0.200 g &divide; 206.285 g/mol = 9.70 &times; 10 &minus;4 mol = 0.970 mmol. B is a mg/g slip: it treats 200. mg as 200. g, which gives 0.970 mol , or 970. mmol, a thousand times too much. C multiplies by the molar mass instead of dividing; the units would be mg 2 /mmol, not mmol. D is the answer in moles (9.70 &times; 10 &minus;4 mol) mislabeled as millimoles, or divided by 1000 one time too many.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 5.28",
+  "question": "A patient's fasting blood glucose is reported as 126 mg/dL (milligrams per deciliter). Glucose, C 6 H 12 O 6 , has a molar mass of 180.156 g/mol. Convert the result to millimoles per liter (mmol/L), the unit used in most of the world. (1 L = 10 dL)",
+  "answer": "Convert dL to L, then mg to mmol (180.156 mg/mmol): \\( \\dfrac{126\\ \\text{mg}}{1\\ \\text{dL}} \\times \\dfrac{10\\ \\text{dL}}{1\\ \\text{L}} \\times \\dfrac{1\\ \\text{mmol}}{180.156\\ \\text{mg}} = 6.99\\ \\text{mmol/L} \\) The result is 6.99 mmol/L . Check with the shortcut from Section 5.3: 126 &divide; 18 &asymp; 7. (Context only; results are always read in the units on the lab report.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 5.29",
+  "question": "A total serum calcium result is 9.4 mg/dL. Convert it to mmol/L. (Ca 40.08; 1 L = 10 dL)",
+  "answer": "\\( \\dfrac{9.4\\ \\text{mg Ca}}{1\\ \\text{dL}} \\times \\dfrac{10\\ \\text{dL}}{1\\ \\text{L}} \\times \\dfrac{1\\ \\text{mmol Ca}}{40.08\\ \\text{mg Ca}} = 2.3\\ \\text{mmol/L} \\) The result is 2.3 mmol/L , two significant figures like 9.4 (the 10 dL per L is exact). The \"divide by 18\" shortcut works only for glucose; every substance needs its own molar mass.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 5.30",
+  "question": "Averaged over a day, an adult exhales roughly 38.5 g of carbon dioxide each hour. (a) How many moles of CO 2 is that? (b) How many CO 2 molecules? (C 12.011, O 15.999)",
+  "answer": "Molar mass of CO 2 : 12.011 + 2(15.999) = 44.009 g/mol. (a) \\( 38.5\\ \\text{g CO}_2 \\times \\dfrac{1\\ \\text{mol CO}_2}{44.009\\ \\text{g CO}_2} = 0.875\\ \\text{mol CO}_2 \\) (b) \\( 0.8748\\ \\text{mol} \\times \\dfrac{6.0221 \\times 10^{23}\\ \\text{molecules}}{1\\ \\text{mol}} = 5.27 \\times 10^{23}\\ \\text{molecules} \\) (a) 0.875 mol ; (b) 5.27 &times; 10 23 molecules . Carrying one extra digit (0.8748) into part (b) and rounding once at the end avoids rounding error.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 5.31",
+  "question": "What is the mass, in grams, of a single iron atom? (Fe 55.85)",
+  "answer": "One mole of iron atoms (6.0221 &times; 10 23 atoms) has a mass of 55.85 g, so \\( \\dfrac{55.85\\ \\text{g Fe}}{6.0221 \\times 10^{23}\\ \\text{Fe atoms}} = 9.274 \\times 10^{-23}\\ \\text{g per atom} \\) The answer is 9.274 &times; 10 &minus;23 g (four significant figures, set by 55.85). In atomic mass units it is simply 55.85 amu.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 5.32",
+  "question": "The table below gives one quantity for each of four substances, with its molar mass. Mass, moles, and particles to complete (blanks marked ?) Substance Molar mass (g/mol) Mass (g) Moles Number of particles Water, H 2 O 18.015 45.0 ? ? molecules Sodium chloride, NaCl 58.44 ? 0.200 ? formula units Glucose, C 6 H 12 O 6 180.156 ? ? 3.00 &times; 10 21 molecules Carbon dioxide, CO 2 44.009 2.20 ? ? molecules Fill in each blank. Find your starting box on the mole road map first.",
+  "answer": "Grams &divide; molar mass = moles; moles &times; 6.0221 &times; 10 23 = particles; and the reverse. Every answer has three significant figures, like the given values. Water: 45.0 g &divide; 18.015 g/mol = 2.50 mol ; 2.498 mol &times; 6.0221 &times; 10 23 = 1.50 &times; 10 24 molecules . NaCl: 0.200 mol &times; 58.44 g/mol = 11.7 g ; 0.200 mol &times; 6.0221 &times; 10 23 = 1.20 &times; 10 23 formula units . Glucose: 3.00 &times; 10 21 &divide; 6.0221 &times; 10 23 = 4.98 &times; 10 &minus;3 mol ; 4.982 &times; 10 &minus;3 mol &times; 180.156 g/mol = 0.897 g . CO 2 : 2.20 g &divide; 44.009 g/mol = 0.0500 mol ; 0.04999 mol &times; 6.0221 &times; 10 23 = 3.01 &times; 10 22 molecules . For glucose, the route is particles &rarr; moles &rarr; grams: two steps, always through moles.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 5.33",
+  "question": "You have 10.0 g of each of the four substances below. Which sample contains the greatest number of molecules? A. water, H 2 O (18.015 g/mol) B. carbon dioxide, CO 2 (44.009 g/mol) C. methane, CH 4 (16.043 g/mol) D. All four contain the same number of molecules.",
+  "answer": "C. For the same mass, the substance with the smallest molar mass has the most moles, and so the most molecules: 10.0 g &divide; 16.043 g/mol = 0.623 mol CH 4 , or 3.75 &times; 10 23 molecules. (Water: 0.555 mol, 3.34 &times; 10 23 ; CO 2 : 0.227 mol, 1.37 &times; 10 23 .) A is close but second: water's molar mass (18.015) is a little larger than methane's (16.043), so 10.0 g of water is slightly fewer moles. B has it backward. Heavier molecules mean fewer of them fit into 10.0 g, so CO 2 has the fewest. D confuses equal masses with equal moles. Equal moles would have equal numbers of molecules; equal masses do not.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 5.34",
+  "question": "A low-dose aspirin tablet contains 81 mg of aspirin, C 9 H 8 O 4 (180.159 g/mol). (a) How many millimoles of aspirin is that? (b) How many aspirin molecules?",
+  "answer": "(a) \\( 81\\ \\text{mg} \\times \\dfrac{1\\ \\text{mmol}}{180.159\\ \\text{mg}} = 0.45\\ \\text{mmol} \\) (b) \\( 0.4496\\ \\text{mmol} \\times \\dfrac{1\\ \\text{mol}}{1000\\ \\text{mmol}} \\times \\dfrac{6.0221 \\times 10^{23}\\ \\text{molecules}}{1\\ \\text{mol}} = 2.7 \\times 10^{20}\\ \\text{molecules} \\) (a) 0.45 mmol ; (b) 2.7 &times; 10 20 molecules . Both answers have two significant figures, set by 81 mg. Avogadro's number is per mole , so millimoles must be changed to moles first.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 5.35",
+  "question": "A student is asked how many moles are in 12.0 g of methane, CH 4 (16.043 g/mol), and writes \"12.0 &times; 16.043 = 193 mol.\" (a) Explain the error using units. (b) Give the correct answer.",
+  "answer": "(a) Multiplying grams by grams per mole gives g 2 /mol, not mol: the grams do not cancel. A sanity check also fails: 12.0 g is less than the mass of one mole (16.043 g), so the answer must be less than 1 mol, not 193 mol. (b) \\( 12.0\\ \\text{g CH}_4 \\times \\dfrac{1\\ \\text{mol CH}_4}{16.043\\ \\text{g CH}_4} = 0.748\\ \\text{mol CH}_4 \\) The correct answer is 0.748 mol .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 5.36",
+  "question": "An 8 oz cup of brewed coffee contains about 95 mg of caffeine, C 8 H 10 N 4 O 2 (194.194 g/mol). About how many caffeine molecules is that?",
+  "answer": "Change mg to g, then go through moles: \\( 95\\ \\text{mg} \\times \\dfrac{1\\ \\text{g}}{1000\\ \\text{mg}} \\times \\dfrac{1\\ \\text{mol}}{194.194\\ \\text{g}} \\times \\dfrac{6.0221 \\times 10^{23}\\ \\text{molecules}}{1\\ \\text{mol}} = 2.9 \\times 10^{20}\\ \\text{molecules} \\) About 2.9 &times; 10 20 caffeine molecules (4.9 &times; 10 &minus;4 mol along the way; two significant figures, set by 95 mg).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 5.37",
+  "question": "What is the mass of 0.150 mol of carbon dioxide, CO 2 (44.009 g/mol)? A. 3.41 &times; 10 &minus;3 g B. 6.60 g C. 293 g D. 9.03 &times; 10 22 g",
+  "answer": "B. Moles to grams: multiply by the molar mass. \\( 0.150\\ \\text{mol CO}_2 \\times \\dfrac{44.009\\ \\text{g CO}_2}{1\\ \\text{mol CO}_2} = 6.60\\ \\text{g CO}_2 \\) A divides moles by molar mass (0.150 &divide; 44.009); the units come out mol 2 /g, not g. C divides molar mass by moles (44.009 &divide; 0.150). Less than one mole must weigh less than 44 g, not more. D multiplies by Avogadro's number. That gives the number of molecules (9.03 &times; 10 22 ), not a mass in grams.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 5.38",
+  "question": "How many moles of oxygen atoms are in 0.50 mol of calcium nitrate, Ca(NO 3 ) 2 ? A. 0.50 mol B. 1.5 mol C. 3.0 mol D. 1.0 mol",
+  "answer": "C. One formula unit of Ca(NO 3 ) 2 contains 2 &times; 3 = 6 O atoms, so \\( 0.50\\ \\text{mol Ca(NO}_3)_2 \\times \\dfrac{6\\ \\text{mol O}}{1\\ \\text{mol Ca(NO}_3)_2} = 3.0\\ \\text{mol O} \\) A skips the subscript step: 0.50 mol is the amount of the compound, not of oxygen atoms. B uses 3 O per formula unit and ignores the 2 outside the parentheses. D is the moles of nitrogen atoms (2 N per formula unit), not oxygen.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 5.39",
+  "question": "A beaker holds 2.00 mol of water. (a) How many moles of hydrogen atoms does it contain? (b) How many hydrogen atoms? (c) How many oxygen atoms?",
+  "answer": "(a) Each H 2 O has 2 H atoms: 2.00 mol H 2 O &times; (2 mol H / 1 mol H 2 O) = 4.00 mol H . (b) \\( 4.00\\ \\text{mol H} \\times \\dfrac{6.0221 \\times 10^{23}\\ \\text{H atoms}}{1\\ \\text{mol H}} = 2.41 \\times 10^{24}\\ \\text{H atoms} \\) (c) 1 O per molecule: 2.00 mol O &times; 6.0221 &times; 10 23 = 1.20 &times; 10 24 O atoms , half as many as H atoms, matching the formula.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 5.40",
+  "question": "An iron supplement tablet contains 325 mg of ferrous fumarate, FeC 4 H 2 O 4 . Labels for iron products state the elemental iron, the mass of iron itself. (a) Find the molar mass of ferrous fumarate. (b) How many millimoles of ferrous fumarate are in the tablet? (c) What mass of elemental iron, in mg, does the tablet contain? (H 1.008, C 12.011, O 15.999, Fe 55.85)",
+  "answer": "(a) \\( 55.85 + 4(12.011) + 2(1.008) + 4(15.999) = 55.85 + 48.044 + 2.016 + 63.996 = 169.906 \\rightarrow 169.91\\ \\text{g/mol} \\) (b) \\( 325\\ \\text{mg} \\times \\dfrac{1\\ \\text{mmol FeC}_4\\text{H}_2\\text{O}_4}{169.91\\ \\text{mg}} = 1.91\\ \\text{mmol} \\) (c) \\( 1.913\\ \\text{mmol FeC}_4\\text{H}_2\\text{O}_4 \\times \\dfrac{1\\ \\text{mmol Fe}}{1\\ \\text{mmol FeC}_4\\text{H}_2\\text{O}_4} \\times \\dfrac{55.85\\ \\text{mg Fe}}{1\\ \\text{mmol Fe}} = 107\\ \\text{mg Fe} \\) The tablet contains about 107 mg of elemental iron , about one-third of the 325 mg salt mass. That is why labels list the two masses separately. (Context only; follow the order and the product label.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 5.41",
+  "question": "A calcium supplement tablet contains 1.25 g of calcium carbonate, CaCO 3 (100.09 g/mol). What mass of calcium does it contain? (Ca 40.08) A. 1.25 g B. 0.501 g C. 3.12 g D. 0.250 g",
+  "answer": "B. Grams of compound &rarr; moles of compound &rarr; moles of Ca (1 : 1) &rarr; grams of Ca: \\( 1.25\\ \\text{g CaCO}_3 \\times \\dfrac{1\\ \\text{mol CaCO}_3}{100.09\\ \\text{g CaCO}_3} \\times \\dfrac{1\\ \\text{mol Ca}}{1\\ \\text{mol CaCO}_3} \\times \\dfrac{40.08\\ \\text{g Ca}}{1\\ \\text{mol Ca}} = 0.501\\ \\text{g Ca} \\) That is about 501 mg, which is why a 1250 mg calcium carbonate tablet is labeled as providing about 500 mg of calcium. A treats the mass of the salt as the mass of calcium. The carbonate is most of the tablet's mass. C flips the last factors (1.25 &times; 100.09 &divide; 40.08). The calcium in a tablet can never weigh more than the whole compound. D uses calcium's atomic number (20) in place of its molar mass (40.08 g/mol).",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 5.42",
+  "question": "A stannous fluoride toothpaste contains 0.454% SnF 2 by mass, so each 1.00 g of paste contains 4.54 mg of SnF 2 (156.71 g/mol). (a) How many millimoles of SnF 2 are in 1.00 g of paste? (b) How many millimoles of fluorine? (c) What mass of fluorine, in mg? (F 18.998) (d) Express your answer to (c) in parts per million (ppm), using 1 mg per g = 1000 ppm.",
+  "answer": "(a) \\( 4.54\\ \\text{mg SnF}_2 \\times \\dfrac{1\\ \\text{mmol SnF}_2}{156.71\\ \\text{mg SnF}_2} = 0.0290\\ \\text{mmol SnF}_2 \\) (b) \\( 0.02897\\ \\text{mmol SnF}_2 \\times \\dfrac{2\\ \\text{mmol F}}{1\\ \\text{mmol SnF}_2} = 0.0579\\ \\text{mmol F} \\) (c) \\( 0.05794\\ \\text{mmol F} \\times \\dfrac{18.998\\ \\text{mg F}}{1\\ \\text{mmol F}} = 1.10\\ \\text{mg F} \\) (d) 1.10 mg of F per 1.00 g of paste is about 1100 ppm fluoride , the usual fluoride level of an over-the-counter toothpaste. Forgetting the 2 in SnF 2 gives half the right answer, 0.550 mg.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 5.43",
+  "question": "A CT contrast agent labeled \"300\" contains 647 mg of iohexol, C 19 H 26 I 3 N 3 O 9 (821.13 g/mol; Section 5.2), in each milliliter. (a) How many millimoles of iohexol are in 1 mL? (b) How many millimoles of iodine atoms? (c) What mass of iodine is in 1 mL? (I 126.90) (d) What does the \"300\" on the label mean?",
+  "answer": "(a) \\( 647\\ \\text{mg} \\times \\dfrac{1\\ \\text{mmol iohexol}}{821.13\\ \\text{mg}} = 0.788\\ \\text{mmol iohexol} \\) (b) \\( 0.7879\\ \\text{mmol iohexol} \\times \\dfrac{3\\ \\text{mmol I}}{1\\ \\text{mmol iohexol}} = 2.36\\ \\text{mmol I} \\) (c) \\( 2.364\\ \\text{mmol I} \\times \\dfrac{126.90\\ \\text{mg I}}{1\\ \\text{mmol I}} = 3.00 \\times 10^{2}\\ \\text{mg I} \\) (c) 300. mg of iodine (three significant figures, set by 647 mg). (d) The \"300\" is the iodine content, 300 mg of iodine per mL, not the iohexol content. Radiologic technologists read contrast strength as iodine, because the iodine atoms are what absorb the X-rays. Using 1 I per molecule instead of 3 gives 100. mg, a third of the true value.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 5.44",
+  "question": "Ionic compounds separate into their ions when they dissolve (Section 4.2), and the total number of dissolved particles matters for osmolality (Chapter 11). Suppose 0.100 mol of each compound in the table dissolves in water. Moles of ions released by 0.100 mol of each compound (blanks marked ?) Compound Moles of cation Moles of anion Total moles of ions NaCl ? ? ? CaCl 2 ? ? ? K 2 SO 4 ? ? ? Na 3 PO 4 ? ? ? (NH 4 ) 2 SO 4 ? ? ? Fill in each blank, and name the ions.",
+  "answer": "Use the subscripts as mole ratios; each polyatomic ion counts as one particle. NaCl: 0.100 mol Na + , 0.100 mol Cl &minus; , 0.200 mol of ions. CaCl 2 : 0.100 mol Ca 2+ , 0.200 mol Cl &minus; , 0.300 mol of ions. K 2 SO 4 : 0.200 mol K + , 0.100 mol SO 4 2&minus; , 0.300 mol of ions. Na 3 PO 4 : 0.300 mol Na + , 0.100 mol PO 4 3&minus; , 0.400 mol of ions. (NH 4 ) 2 SO 4 : 0.200 mol NH 4 + , 0.100 mol SO 4 2&minus; , 0.300 mol of ions. A common mistake is to break sulfate or phosphate into separate S, P, and O atoms. In solution, SO 4 2&minus; and PO 4 3&minus; stay together as single ions.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 5.45",
+  "question": "What mass of oxygen is contained in 0.250 mol of CO 2 ? (C 12.011, O 15.999) A. 4.00 g B. 8.00 g C. 16.0 g D. 11.0 g",
+  "answer": "B. Moles of CO 2 &rarr; moles of O atoms &rarr; grams of O, using the molar mass of O atoms : \\( 0.250\\ \\text{mol CO}_2 \\times \\dfrac{2\\ \\text{mol O}}{1\\ \\text{mol CO}_2} \\times \\dfrac{15.999\\ \\text{g O}}{1\\ \\text{mol O}} = 8.00\\ \\text{g O} \\) A forgets the subscript 2: 0.250 mol &times; 15.999 g/mol = 4.00 g. C uses the molar mass of O 2 (31.998 g/mol) for oxygen atoms , after already doubling the moles: 0.500 mol &times; 31.998 = 16.0 g. That counts every oxygen twice. D is the mass of the whole CO 2 sample (0.250 &times; 44.009 = 11.0 g), carbon included.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 5.46",
+  "question": "A grower in Fresno County buys a 25.0 kg bag of urea, CO(NH 2 ) 2 (60.056 g/mol). (a) How many moles of urea are in the bag? (b) How many moles of nitrogen atoms? (c) What mass of nitrogen, in kg, does the bag supply? (d) A 25.0 kg bag of ammonium sulfate, (NH 4 ) 2 SO 4 (132.13 g/mol), also has 2 N per formula unit. How many kg of nitrogen does it supply? (N 14.007)",
+  "answer": "(a) \\( 25.0\\ \\text{kg} \\times \\dfrac{1000\\ \\text{g}}{1\\ \\text{kg}} \\times \\dfrac{1\\ \\text{mol urea}}{60.056\\ \\text{g}} = 416\\ \\text{mol urea} \\) (b) \\( 416.3\\ \\text{mol urea} \\times \\dfrac{2\\ \\text{mol N}}{1\\ \\text{mol urea}} = 833\\ \\text{mol N} \\) (c) \\( 832.6\\ \\text{mol N} \\times \\dfrac{14.007\\ \\text{g N}}{1\\ \\text{mol N}} \\times \\dfrac{1\\ \\text{kg}}{1000\\ \\text{g}} = 11.7\\ \\text{kg N} \\) (d) \\( 25.0\\ \\text{kg} \\times \\dfrac{1000\\ \\text{g}}{1\\ \\text{kg}} \\times \\dfrac{1\\ \\text{mol}}{132.13\\ \\text{g}} \\times \\dfrac{2\\ \\text{mol N}}{1\\ \\text{mol}} \\times \\dfrac{14.007\\ \\text{g N}}{1\\ \\text{mol N}} \\times \\dfrac{1\\ \\text{kg}}{1000\\ \\text{g}} = 5.30\\ \\text{kg N} \\) The urea bag supplies 11.7 kg of N ; the ammonium sulfate bag only 5.30 kg , less than half as much. Both have 2 N per formula unit, but ammonium sulfate's formula is heavier (the sulfate adds mass but no nitrogen), so the same 25.0 kg holds fewer moles of it.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 5.47",
+  "question": "Each hemoglobin molecule holds 4 iron atoms, and hemoglobin has a molar mass of about 6.45 &times; 10 4 g/mol. An adult's blood contains about 7.0 &times; 10 2 g of hemoglobin. (a) How many moles of hemoglobin is that? (b) How many moles of iron? (c) What mass of iron is in the adult's hemoglobin? (Fe 55.85)",
+  "answer": "(a) \\( 7.0 \\times 10^{2}\\ \\text{g} \\times \\dfrac{1\\ \\text{mol Hb}}{6.45 \\times 10^{4}\\ \\text{g}} = 0.011\\ \\text{mol hemoglobin} \\) (b) \\( 0.01085\\ \\text{mol Hb} \\times \\dfrac{4\\ \\text{mol Fe}}{1\\ \\text{mol Hb}} = 0.043\\ \\text{mol Fe} \\) (c) \\( 0.04341\\ \\text{mol Fe} \\times \\dfrac{55.85\\ \\text{g Fe}}{1\\ \\text{mol Fe}} = 2.4\\ \\text{g Fe} \\) About 2.4 g of iron , two significant figures set by 7.0 &times; 10 2 g. That is most of the iron in an adult body (roughly two-thirds), which is why blood loss and iron deficiency are so closely linked.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 5.48",
+  "question": "How many atoms in total (C, H, and O combined) are in 0.100 mol of glucose, C 6 H 12 O 6 ? A. 6.02 &times; 10 22 atoms B. 3.61 &times; 10 23 atoms C. 7.23 &times; 10 23 atoms D. 1.45 &times; 10 24 atoms",
+  "answer": "D. Each glucose molecule has 6 + 12 + 6 = 24 atoms, so \\( 0.100\\ \\text{mol C}_6\\text{H}_{12}\\text{O}_6 \\times \\dfrac{24\\ \\text{mol atoms}}{1\\ \\text{mol C}_6\\text{H}_{12}\\text{O}_6} \\times \\dfrac{6.0221 \\times 10^{23}\\ \\text{atoms}}{1\\ \\text{mol atoms}} = 1.45 \\times 10^{24}\\ \\text{atoms} \\) A is the number of glucose molecules , not atoms; it skips the subscripts. B counts only the 6 carbon atoms per molecule (0.600 mol C). C counts only the 12 hydrogen atoms per molecule (1.20 mol H).",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 5.49",
+  "question": "What mass of magnesium chloride, MgCl 2 , contains 0.100 mol of chloride ions? (Mg 24.31, Cl 35.45)",
+  "answer": "Work backward: moles of Cl &minus; &rarr; moles of MgCl 2 (2 Cl &minus; per formula unit) &rarr; grams. The molar mass is 24.31 + 2(35.45) = 95.21 g/mol. \\( 0.100\\ \\text{mol Cl}^- \\times \\dfrac{1\\ \\text{mol MgCl}_2}{2\\ \\text{mol Cl}^-} \\times \\dfrac{95.21\\ \\text{g MgCl}_2}{1\\ \\text{mol MgCl}_2} = 4.76\\ \\text{g MgCl}_2 \\) The answer is 4.76 g . Each formula unit supplies two chloride ions, so only half as many moles of MgCl 2 (0.0500 mol) are needed. Skipping the ratio gives 9.52 g, twice too much.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 5.50",
+  "question": "For each name, write the formula (Chapter 4) and find the molar mass. (N 14.007, O 15.999, P 30.97, K 39.10, Fe 55.85) (a) potassium phosphate, a fertilizer and food additive (b) iron(III) oxide, the main compound in rust (c) dinitrogen monoxide (\"laughing gas\"), used for sedation in dental offices",
+  "answer": "(a) K + and PO 4 3&minus; combine 3 : 1 to balance charge: K 3 PO 4 . Molar mass: 3(39.10) + 30.97 + 4(15.999) = 117.30 + 30.97 + 63.996 = 212.266 &rarr; 212.27 g/mol . (b) Iron(III) is Fe 3+ and oxide is O 2&minus; ; 2 Fe 3+ (6+) balance 3 O 2&minus; (6&minus;): Fe 2 O 3 . Molar mass: 2(55.85) + 3(15.999) = 111.70 + 47.997 = 159.697 &rarr; 159.70 g/mol . (c) A molecular compound: the prefixes give the subscripts directly, di- = 2 N and mono- = 1 O: N 2 O . Molar mass: 2(14.007) + 15.999 = 44.013 g/mol .",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 5.51",
+  "question": "A potassium chloride extended-release tablet contains 750. mg of the salt. (a) Write the formula of potassium chloride. (b) Find its molar mass. (Cl 35.45, K 39.10) (c) How many millimoles of K + does one tablet contain?",
+  "answer": "(a) K + and Cl &minus; combine 1 : 1: KCl . (b) 39.10 + 35.45 = 74.55 g/mol (74.55 mg/mmol). (c) \\( 750.\\ \\text{mg KCl} \\times \\dfrac{1\\ \\text{mmol KCl}}{74.55\\ \\text{mg KCl}} \\times \\dfrac{1\\ \\text{mmol K}^+}{1\\ \\text{mmol KCl}} = 10.1\\ \\text{mmol K}^+ \\) About 10.1 mmol of K + (three significant figures; the decimal point in \"750.\" makes the zero significant). Such tablets are labeled \"10 mEq\" (milliequivalents); for an ion with a 1+ charge, 1 mEq is the same as 1 mmol. (Context only; this is not dosing guidance.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 5.52",
+  "question": "A 50.0 mL vial of 8.4% sodium hydrogen carbonate (sodium bicarbonate) injection contains 4.20 g of the compound. (a) Write its formula. (b) How many millimoles of the compound are in the vial? (c) How many millimoles per milliliter is that? (H 1.008, C 12.011, O 15.999, Na 22.99)",
+  "answer": "(a) Na + and the hydrogen carbonate ion HCO 3 &minus; (green sheet) combine 1 : 1: NaHCO 3 , 84.01 g/mol (found earlier in these problems). (b) \\( 4.20\\ \\text{g} \\times \\dfrac{1\\ \\text{mol}}{84.01\\ \\text{g}} \\times \\dfrac{1000\\ \\text{mmol}}{1\\ \\text{mol}} = 50.0\\ \\text{mmol NaHCO}_3 \\) (c) \\( \\dfrac{49.99\\ \\text{mmol}}{50.0\\ \\text{mL}} = 1.00\\ \\text{mmol/mL} \\) (b) 50.0 mmol ; (c) 1.00 mmol/mL . Conveniently, the 8.4% strength makes each milliliter hold 1 mmol of bicarbonate, an easy number to work with. (Context only.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 5.53",
+  "question": "A student is asked for the molar mass of ammonium phosphate. Which value is correct? (H 1.008, N 14.007, O 15.999, P 30.97) A. 113.01 g/mol B. 131.04 g/mol C. 133.08 g/mol D. 149.08 g/mol",
+  "answer": "D. Ammonium is NH 4 + and phosphate is PO 4 3&minus; , so it takes three ammonium ions to balance one phosphate: (NH 4 ) 3 PO 4 , with 3 N, 12 H, 1 P, and 4 O. \\( 3(14.007) + 12(1.008) + 30.97 + 4(15.999) = 42.021 + 12.096 + 30.97 + 63.996 = 149.083 \\rightarrow 149.08\\ \\text{g/mol} \\) A is the molar mass of \"NH 4 PO 4 ,\" which ignores the charges: one 1+ ion cannot balance a 3&minus; ion. B is \"(NH 4 ) 2 PO 4 ,\" which treats phosphate as 2&minus; (like sulfate). C is \"(NH 4 ) 3 PO 3 ,\" which uses phosphite (PO 3 3&minus; ) in place of phosphate. Check the ending: -ate is PO 4 3&minus; on the green sheet.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 5.54",
+  "question": "A vitamin C tablet contains 500. mg of ascorbic acid, C 6 H 8 O 6 (176.124 g/mol). (a) Write the mass in grams and in kilograms, in scientific notation. (b) How many millimoles of ascorbic acid are in the tablet? (c) How many molecules?",
+  "answer": "(a) 500. mg &times; (1 g / 1000 mg) = 5.00 &times; 10 &minus;1 g , and 0.500 g &times; (1 kg / 1000 g) = 5.00 &times; 10 &minus;4 kg . (The decimal point in \"500.\" makes all three digits significant.) (b) \\( 500.\\ \\text{mg} \\times \\dfrac{1\\ \\text{mmol}}{176.124\\ \\text{mg}} = 2.84\\ \\text{mmol} \\) (c) \\( 2.839 \\times 10^{-3}\\ \\text{mol} \\times \\dfrac{6.0221 \\times 10^{23}\\ \\text{molecules}}{1\\ \\text{mol}} = 1.71 \\times 10^{21}\\ \\text{molecules} \\) (b) 2.84 mmol ; (c) 1.71 &times; 10 21 molecules . In (c), 2.839 mmol was changed to 2.839 &times; 10 &minus;3 mol before using Avogadro's number.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 5.55",
+  "question": "Mateo's IV bag (chapter opener) contained 2.00 g of magnesium sulfate. (a) Write the formula of magnesium sulfate. (b) How many Mg 2+ ions does the bag contain? (c) What mass of magnesium, in mg, is that? (d) How many ions in total are released when it dissolves? (O 15.999, Mg 24.31, S 32.06)",
+  "answer": "(a) Mg 2+ and SO 4 2&minus; combine 1 : 1: MgSO 4 , molar mass 24.31 + 32.06 + 4(15.999) = 120.37 g/mol. (b) \\( 2.00\\ \\text{g} \\times \\dfrac{1\\ \\text{mol MgSO}_4}{120.37\\ \\text{g}} \\times \\dfrac{1\\ \\text{mol Mg}^{2+}}{1\\ \\text{mol MgSO}_4} \\times \\dfrac{6.0221 \\times 10^{23}\\ \\text{ions}}{1\\ \\text{mol}} = 1.00 \\times 10^{22}\\ \\text{Mg}^{2+}\\ \\text{ions} \\) (c) \\( 0.01662\\ \\text{mol Mg}^{2+} \\times \\dfrac{24.31\\ \\text{g}}{1\\ \\text{mol}} \\times \\dfrac{1000\\ \\text{mg}}{1\\ \\text{g}} = 404\\ \\text{mg Mg} \\) (d) Each formula unit gives 2 ions (one Mg 2+ , one SO 4 2&minus; ): 2 &times; 1.00 &times; 10 22 = 2.00 &times; 10 22 ions (0.0332 mol, as in Section 5.4). (b) 1.00 &times; 10 22 Mg 2+ ions ; (c) 404 mg of magnesium, about one-fifth of the 2.00 g salt mass. (Context only; this is not dosing guidance.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 5.56",
+  "question": "\"Normal saline,\" the most common IV fluid, contains 9.00 g of sodium chloride in each 1.00 L. (a) Write the formula of sodium chloride. (b) How many millimoles of Na + are in 1.00 L? (c) What mass of sodium (the element) is in 1.00 L? (Na 22.99, Cl 35.45)",
+  "answer": "(a) NaCl (Na + and Cl &minus; , 1 : 1), 58.44 g/mol. (b) \\( 9.00\\ \\text{g NaCl} \\times \\dfrac{1\\ \\text{mol NaCl}}{58.44\\ \\text{g}} \\times \\dfrac{1\\ \\text{mol Na}^+}{1\\ \\text{mol NaCl}} \\times \\dfrac{1000\\ \\text{mmol}}{1\\ \\text{mol}} = 154\\ \\text{mmol Na}^+ \\) (c) \\( 0.1540\\ \\text{mol Na}^+ \\times \\dfrac{22.99\\ \\text{g Na}}{1\\ \\text{mol Na}} = 3.54\\ \\text{g Na} \\) (b) 154 mmol of Na + per liter (and also 154 mmol of Cl &minus; ), close to the sodium level of blood plasma (about 135&ndash;145 mmol/L), which is one reason this fluid is used so often. (c) 3.54 g of sodium ; the other 5.46 g of the 9.00 g is chlorine. (Context only.)",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 5.57",
+  "question": "A 0.0800 mol sample of a pure metal has a mass of 4.40 g. Which metal is it? A. Iron, Fe B. Manganese, Mn C. Chromium, Cr D. Cobalt, Co",
+  "answer": "B. Molar mass = grams &divide; moles = 4.40 g &divide; 0.0800 mol = 55.0 g/mol , which matches manganese (54.94). A, iron (55.85), is the neighbor most students pick, but it is 0.85 g/mol away; manganese is 0.06 away. C, chromium (52.00), would need 4.16 g for 0.0800 mol. D, cobalt (58.93), would need 4.71 g.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 5.58",
+  "question": "Bromine is a dark red liquid made of Br 2 molecules. How many bromine atoms are in 4.00 g of Br 2 ? (Br 79.90) A. 1.51 &times; 10 22 B. 3.01 &times; 10 22 C. 6.03 &times; 10 22 D. 7.70 &times; 10 26",
+  "answer": "B. Br 2 is 2(79.90) = 159.80 g/mol, and each molecule holds 2 atoms: \\( 4.00\\ \\text{g Br}_2 \\times \\dfrac{1\\ \\text{mol Br}_2}{159.80\\ \\text{g Br}_2} \\times \\dfrac{2\\ \\text{mol Br}}{1\\ \\text{mol Br}_2} \\times \\dfrac{6.0221 \\times 10^{23}\\ \\text{Br atoms}}{1\\ \\text{mol Br}} = 3.01 \\times 10^{22}\\ \\text{Br atoms} \\) You get the same answer by using the atom's molar mass (79.90 g/mol) and no &times;2 step, because 4.00 g of bromine is the same atoms either way. A is the number of Br 2 molecules : the &times;2 step was skipped. C used 79.90 g/mol and multiplied by 2, counting every atom twice. D multiplied by the molar mass instead of dividing.",
+  "mc": true,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 5.59",
+  "question": "Acetone, C 3 H 6 O, is the solvent in many nail-polish removers and is used to clean lab glassware. Its density is 0.791 g/mL. What volume of acetone contains 0.250 mol?",
+  "answer": "Map: mol &rarr; g (molar mass) &rarr; mL (density). Molar mass: 3(12.011) + 6(1.008) + 15.999 = 58.080 g/mol. \\( 0.250\\ \\text{mol} \\times \\dfrac{58.080\\ \\text{g}}{1\\ \\text{mol}} \\times \\dfrac{1\\ \\text{mL}}{0.791\\ \\text{g}} = 18.4\\ \\text{mL} \\) The answer is 18.4 mL . A quarter mole weighs about 14.5 g, and acetone is less dense than water, so the volume should be noticeably larger than 14.5 mL (about 1.3 mL for every gram).",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 59,
+  "title": "Problem 5.60",
+  "question": "Bone mineral is mostly calcium phosphate, Ca 3 (PO 4 ) 2 . For 0.0150 mol of Ca 3 (PO 4 ) 2 , find (a) the moles of Ca 2+ ions, (b) the moles of PO 4 3&minus; ions, (c) the total moles of ions, and (d) the moles of O atoms.",
+  "answer": "Read the ratios from the formula: per mole, 3 mol Ca 2+ , 2 mol PO 4 3&minus; , and 2 &times; 4 = 8 mol O. (a) 0.0150 &times; 3 = 0.0450 mol Ca 2+ ; (b) 0.0150 &times; 2 = 0.0300 mol PO 4 3&minus; ; (c) 0.0450 + 0.0300 = 0.0750 mol of ions (5 ions per formula unit); (d) 0.0150 &times; 8 = 0.120 mol O . Note that (b) and (d) are different: a phosphate ion is one particle that contains four O atoms.",
+  "mc": false,
+  "terse_answer": false
+ },
+ {
+  "file": "drafts/ch05/5.7_practice_problems.html",
+  "idx": 60,
+  "title": "Problem 5.61",
+  "question": "Rust is mostly iron(III) oxide, Fe 2 O 3 . What mass of Fe 2 O 3 contains 10.0 g of iron? (Fe 55.85, O 15.999)",
+  "answer": "Work the road map backward: g Fe &rarr; mol Fe &rarr; mol Fe 2 O 3 &rarr; g Fe 2 O 3 . Molar mass: 2(55.85) + 3(15.999) = 159.697 &rarr; 159.70 g/mol. Each mole of Fe 2 O 3 holds 2 mol Fe, so the ratio is 1 mol Fe 2 O 3 / 2 mol Fe. \\( 10.0\\ \\text{g Fe} \\times \\dfrac{1\\ \\text{mol Fe}}{55.85\\ \\text{g Fe}} \\times \\dfrac{1\\ \\text{mol Fe}_2\\text{O}_3}{2\\ \\text{mol Fe}} \\times \\dfrac{159.70\\ \\text{g Fe}_2\\text{O}_3}{1\\ \\text{mol Fe}_2\\text{O}_3} = 14.3\\ \\text{g Fe}_2\\text{O}_3 \\) The answer is 14.3 g . It must be more than 10.0 g, because the oxide also contains oxygen; iron is 111.70 &divide; 159.70 = 70% of its mass, and 10.0 &divide; 0.70 &asymp; 14.3.",
+  "mc": false,
+  "terse_answer": false
+ }
+]

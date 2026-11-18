@@ -118,7 +118,7 @@
    "Correct: P and Cl are both nonmetals, so they share electrons in molecules: phosphorus trichloride.",
    "Al is a metal, so AlCl<sub>3</sub> is made of Al<sup>3+</sup> and Cl<sup>&minus;</sup> ions: ionic.",
    "NH<sub>4</sub>Cl starts with the ammonium ion, so it is ionic.",
-   "Zn is a metal, so ZnCl<sub>2</sub> is ionic."
+   "Zn is a metal, so ZnCl<sub>2</sub> is ionic. A molecular compound has nonmetals only, so look for the formula with no metal and no NH<sub>4</sub><sup>+</sup>."
   ],
   "h": "Which first element is to the right of the staircase line?",
   "w": "Only <b>PCl<sub>3</sub></b> is made of nonmetals alone with no ammonium ion, so it is molecular.",
@@ -412,7 +412,7 @@
    "Correct: Peroxide, from the green sheet, is two bonded O atoms with a 2&minus; charge.",
    "This is the oxide ion, a single O atom.",
    "This is the neutral oxygen molecule, with no charge.",
-   "This is the hydroxide ion."
+   "This is the hydroxide ion. Peroxide is two oxygen atoms with a 2&minus; charge on the pair, as in hydrogen peroxide, H<sub>2</sub>O<sub>2</sub>."
   ],
   "h": "Peroxide has two oxygen atoms.",
   "w": "Peroxide is <b>O<sub>2</sub><sup>2&minus;</sup></b>; hydrogen peroxide is H<sub>2</sub>O<sub>2</sub>.",
@@ -432,7 +432,7 @@
   "y": [
    "Correct: Zn is on the fixed-charge list (always 2+), so no Roman numeral; O<sup>2&minus;</sup> is oxide.",
    "Zinc is a fixed-charge metal, so it takes no Roman numeral.",
-   "Ionic names never use prefixes.",
+   "Ionic names never use prefixes. Name the metal, then the anion with -ide; zinc has a fixed charge, so it needs no Roman numeral either.",
    "The anion takes the -ide ending: oxide."
   ],
   "h": "Is zinc on the fixed-charge list?",
@@ -452,7 +452,7 @@
   ],
   "y": [
    "Correct: Mg is group 2 (fixed 2+) and Br<sup>&minus;</sup> is bromide.",
-   "Ionic names do not use prefixes.",
+   "Ionic names do not use prefixes. Name the metal, then the anion with -ide; the charges, not prefixes, set how many bromide ions there are.",
    "Magnesium has only one charge, so no Roman numeral.",
    "Bromate is BrO<sub>3</sub><sup>&minus;</sup>; a single Br is bromide."
   ],
@@ -516,7 +516,7 @@
   "y": [
    "Correct: Two OH<sup>&minus;</sup> give 2&minus;, so the copper ion is Cu<sup>2+</sup>: copper(II).",
    "Copper forms two ions, so the Roman numeral is required.",
-   "Ionic names do not use prefixes.",
+   "Ionic names do not use prefixes. Copper has more than one charge, so give it a Roman numeral from the charge and name the anion plainly: hydroxide.",
    "Cuprous is copper(I), the lower charge; this copper ion is 2+, the higher charge."
   ],
   "h": "Find copper's charge from the hydroxide ions.",
@@ -622,7 +622,7 @@
    "Correct: No prefix on sulfur means one S; di- means 2 O.",
    "This is the sulfite ion, which carries a charge. Sulfur dioxide is a neutral molecule.",
    "The di- belongs to oxide, so the 2 goes on O, not on S.",
-   "Di- means two oxygen atoms."
+   "Di- means two oxygen atoms. Turn each prefix into a subscript: no prefix on sulfur means 1 S, and dioxide means O<sub>2</sub>."
   ],
   "h": "Which element does the prefix di- belong to?",
   "w": "Sulfur (1) di-oxide (2): <b>SO<sub>2</sub></b>.",
@@ -747,7 +747,7 @@
   "y": [
    "Correct: The anion is nitrate, NO<sub>3</sub><sup>&minus;</sup>; -ate becomes -ic.",
    "-ous comes from nitrite, NO<sub>2</sub><sup>&minus;</sup>, with two O atoms.",
-   "Oxyacids never take hydro-.",
+   "Oxyacids never take hydro-; hydro- is only for acids with no oxygen. Name it from the anion: nitrate (-ate) becomes nitric acid (-ic).",
    "The -ate ending changes to -ic in the acid name."
   ],
   "h": "Name the anion first, then change its ending.",
@@ -789,7 +789,7 @@
   "y": [
    "Correct: Oxalate is C<sub>2</sub>O<sub>4</sub><sup>2&minus;</sup>; two H<sup>+</sup> cancel its 2&minus; charge.",
    "One H<sup>+</sup> cancels only half of oxalate's 2&minus; charge.",
-   "This is acetic acid, from acetate.",
+   "This is acetic acid, from acetate. Start from the oxalate ion, C<sub>2</sub>O<sub>4</sub><sup>2&minus;</sup>, and add two H<sup>+</sup> to cancel its 2&minus; charge.",
    "This is the oxalate ion; the acid is neutral."
   ],
   "h": "Oxalate has a 2&minus; charge. How many H<sup>+</sup> are needed?",

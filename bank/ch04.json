@@ -970,7 +970,7 @@
   ],
   "y": [
    "Zn<sup>2+</sup> and SO<sub>4</sub><sup>2&minus;</sup> combine 1 : 1, and hepta- means 7 waters.",
-   "Hexa- is 6; hepta- is 7.",
+   "Hexa- is 6; hepta- is 7. Write the number of water molecules from the prefix: heptahydrate means &middot;7H<sub>2</sub>O.",
    "This is zinc sulfide. Sulfate is SO<sub>4</sub><sup>2&minus;</sup>.",
    "Zinc is fixed at 2+, so one Zn<sup>2+</sup> balances one sulfate."
   ],
@@ -1089,7 +1089,7 @@
    "No prefix on sulfur means one S; hexa- means 6 F atoms.",
    "The prefix hexa- belongs to fluoride, the second element, so the 6 goes on F.",
    "Prefixes are not optional in molecular names: hexa- says there are six F atoms.",
-   "Penta- is 5; hexa- is 6."
+   "Penta- is 5; hexa- is 6. Turn each prefix into a subscript: no prefix on sulfur means 1 S, and hexafluoride means 6 F."
   ],
   "h": "Which element does the prefix hexa- belong to?",
   "w": "Sulfur (no prefix, 1 S) hexa- (6) fluoride: <b>SF<sub>6</sub></b>.",
@@ -1299,7 +1299,7 @@
    "The anion is sulfide, S<sup>2&minus;</sup>, with no oxygen: hydro- + sulfur + -ic acid.",
    "Sulfuric acid is H<sub>2</sub>SO<sub>4</sub>, an oxyacid from sulfate. H<sub>2</sub>S has no oxygen.",
    "Sulfurous acid is H<sub>2</sub>SO<sub>3</sub>, from sulfite. H<sub>2</sub>S has no oxygen.",
-   "Binary acids end in -ic, not -ous."
+   "Binary acids end in -ic, not -ous. Use hydro- + the nonmetal root + -ic for an acid with no oxygen."
   ],
   "h": "No oxygen means a binary acid. What prefix and ending do binary acids get?",
   "w": "Sulfide (-ide) becomes hydro-...-ic: <b>hydrosulfuric acid</b>. Sulfuric acid, H<sub>2</sub>SO<sub>4</sub>, is a different compound.",
@@ -1403,7 +1403,7 @@
   "y": [
    "IO<sub>4</sub><sup>&minus;</sup> is periodate (one more O than iodate). -ate becomes -ic and per- stays: per + iod + ic.",
    "Iodic acid is HIO<sub>3</sub>, from iodate, with three O atoms.",
-   "Oxyacids never take hydro-.",
+   "Oxyacids never take hydro-; hydro- is only for acids with no oxygen. Name it from the anion: periodate (-ate) becomes periodic acid (-ic).",
    "-ous comes from -ite anions; periodate is an -ate ion."
   ],
   "h": "Name the anion first. How does IO<sub>4</sub><sup>&minus;</sup> compare with iodate, IO<sub>3</sub><sup>&minus;</sup>?",
@@ -1423,7 +1423,7 @@
   ],
   "y": [
    "Acetate is C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>&minus;</sup>; one H<sup>+</sup> cancels its 1&minus; charge.",
-   "This is oxalic acid, from oxalate.",
+   "This is oxalic acid, from oxalate. Start from the acetate ion, C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>&minus;</sup>, and add one H<sup>+</sup> to cancel its 1&minus; charge.",
    "Acetate is only 1&minus;, so it needs only one H<sup>+</sup>.",
    "This is the acetate ion. The acid is neutral and has an H<sup>+</sup> added."
   ],
@@ -1466,7 +1466,7 @@
   "y": [
    "ClO<sub>2</sub><sup>&minus;</sup> is chlorite, and -ite becomes -ous.",
    "Chloric acid comes from chlorate, ClO<sub>3</sub><sup>&minus;</sup>.",
-   "Oxyacids never take hydro-.",
+   "Oxyacids never take hydro-; hydro- is only for acids with no oxygen. Change the anion ending: -ite becomes -ous, so chlorite gives chlorous acid.",
    "The hypo- acid, HClO, comes from hypochlorite, ClO<sup>&minus;</sup>, with only one O."
   ],
   "h": "Look at the pattern in the rows above: what does -ite become?",

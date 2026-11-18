@@ -1,0 +1,597 @@
+[
+ {
+  "file": "drafts/ch13/13.1_rates.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "E<sub>a</sub> is measured from the reactants up to the top of the hill; &Delta;H is products minus reactants. Are the products above or below the reactants?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.1_rates.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Which of the four rate factors in 13.1 changes when you chew a tablet? Think about how much of the solid can touch the acid at once.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.1_rates.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "An effective collision needs the right orientation and enough energy. Besides colliding more often, what else changes about the collisions at a higher temperature?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.1_rates.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Bacterial growth runs on enzyme-catalyzed reactions. Apply both effects of temperature: how often molecules collide, and how many collisions reach at least E<sub>a</sub>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.1_rates.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "The battery runs on chemical reactions. Ask what cold does to how often particles collide and to the fraction of collisions with at least E<sub>a</sub>, then what warming does.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.2_dynamic.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "The forward reaction reads left to right; the reverse is the same equation read right to left, with the same coefficients and phases.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.2_dynamic.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Equilibrium is defined by rates, not by amounts. Remember: equal rates, constant amounts.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.2_dynamic.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Equilibrium is dynamic. Once the color is steady, have the two reactions stopped, or are they running at the same rate?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.2_dynamic.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "The levels stop changing only when each trip forward is matched by a trip back. Then ask which tub the bigger beaker favors, and what the beakers and the tubs each stand for.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.3_k.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Products over reactants, with each coefficient as an exponent. All three species are gases, so all of them appear.",
+  "why": "Products go on top and reactants on the bottom, each raised to its coefficient: 2 for SO<sub>3</sub> and SO<sub>2</sub>, 1 (not written) for O<sub>2</sub>; all three are gases, so none is left out."
+ },
+ {
+  "file": "drafts/ch13/13.3_k.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Circle the phase labels first and cross out every (s) and (l). Then write products over reactants. Is the water here a liquid or a gas?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.3_k.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Plug the equilibrium concentrations into the expression from Exercise 1, squaring the terms with a coefficient of 2. Then compare K with 1.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.3_k.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Write K as products over reactants (every coefficient is 1), plug in the concentrations, and compare the result with 1.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.3_k.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Write K = [N<sub>2</sub>O<sub>4</sub>] / [NO<sub>2</sub>]<sup>2</sup>, then plug in; don't forget to square [NO<sub>2</sub>].",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.3_k.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "hint": "Writing a reaction backward flips the expression, so K<sub>reverse</sub> = 1/K. Then ask which gas each K favors.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.4_le_chatelier.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "(a)(b) Add &rarr; Away, Take &rarr; Toward. (c) &Delta;H is negative, so write heat as a product. (d) Count moles of gas on each side; a larger volume favors the side with more.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.4_le_chatelier.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Add &rarr; Away, Take &rarr; Toward. Then follow the shift: does the amount of red FeSCN<sup>2+</sup> go up or down?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.4_le_chatelier.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "Slow breathing means CO<sub>2</sub> is not exhaled, so it builds up. Which way does adding CO<sub>2</sub> push the equilibrium, and what happens to [H<sup>+</sup>]?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.4_le_chatelier.html",
+  "idx": 3,
+  "title": "Exercise \\(\\PageIndex{4}\\)",
+  "hint": "Acid from plaque bacteria removes OH<sup>&minus;</sup> from the enamel equilibrium. Take &rarr; Toward: which way does that shift it, and how long does each sip keep the stress on?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.4_le_chatelier.html",
+  "idx": 4,
+  "title": "Exercise \\(\\PageIndex{5}\\)",
+  "hint": "Only one kind of stress changes the value of K. Which of the four changes is it?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.4_le_chatelier.html",
+  "idx": 5,
+  "title": "Exercise \\(\\PageIndex{6}\\)",
+  "hint": "A bigger volume means lower pressure. Count moles of gas on each side, and shift toward the side with more.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.4_le_chatelier.html",
+  "idx": 6,
+  "title": "Exercise \\(\\PageIndex{7}\\)",
+  "hint": "(a) Write how KSCN splits into ions. (b) Which ion is already in the equilibrium? Add &rarr; Away. (c) Follow the shift to the red FeSCN<sup>2+</sup>.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.4_le_chatelier.html",
+  "idx": 7,
+  "title": "Exercise \\(\\PageIndex{8}\\)",
+  "hint": "(a) Is heat written on the reactant or the product side? (b) Cooling removes heat: Take &rarr; Toward. (c) Do pure solids appear in K?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 0,
+  "title": "Problem 13.1",
+  "hint": "Recall what collision theory says an effective collision needs. Which choice states that, and which choices contradict how gas particles and equilibrium behave?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 1,
+  "title": "Problem 13.2",
+  "hint": "E<sub>a</sub> = top of hill &minus; reactants; &Delta;H = products &minus; reactants. For (d), a catalyst lowers only the hill, not the starting or ending energies.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 2,
+  "title": "Problem 13.3",
+  "hint": "Activation energy is always measured from the reactants up to the top of the hill, not from zero and not from the products.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 3,
+  "title": "Problem 13.4",
+  "hint": "(a) Compare each row with the one before. (b) Divide each value by the one above it. (c) Divide the 35 &deg;C value by the 5 &deg;C value. (d) Apply the same factor once more.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 4,
+  "title": "Problem 13.5",
+  "hint": "Go through the rate factors: temperature, concentration, and surface area. For each choice, does the change speed the reaction up or slow it down?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 5,
+  "title": "Problem 13.6",
+  "hint": "(a) Apply both effects of a higher temperature on collisions. (b) Enzymes are proteins that need their exact shape. (c) Think of the balance between faster collisions and losing that shape.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 6,
+  "title": "Problem 13.7",
+  "hint": "(a) Count the 10 &deg;C steps between the two temperatures, and double once per step. (b) Compare with 4 to 60 &deg;C. (c) Does cold kill bacteria, or slow their reactions?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 7,
+  "title": "Problem 13.8",
+  "hint": "Grinding is a physical change. Which rate factor changes when a solid becomes a fine dust?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 8,
+  "title": "Problem 13.9",
+  "hint": "Burning is fuel reacting with O<sub>2</sub>. Which rate factor changes in oxygen-enriched air, and what does that do to the number of collisions per second?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 9,
+  "title": "Problem 13.10",
+  "hint": "(a) Apply both effects of a higher temperature on collisions. (b) What is the only thing that changes the height of the hill?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 10,
+  "title": "Problem 13.11",
+  "hint": "Is equilibrium defined by amounts or by rates? Do the reactions stop, and does &ldquo;constant&rdquo; mean the same as &ldquo;equal&rdquo;?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 11,
+  "title": "Problem 13.12",
+  "hint": "The pressure stopped changing, so the bottle is at equilibrium. What is still happening at the molecular level at equilibrium? Does constant mean equal?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 12,
+  "title": "Problem 13.13",
+  "hint": "(a) Read the equation each way. (b) With only C<sub>2</sub>H<sub>6</sub>, which direction has nothing to collide? (c) How do the rates change as substances build up or get used? (d) Is anything used up completely?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 13,
+  "title": "Problem 13.14",
+  "hint": "With only reactants at the start, the reverse reaction has no products to collide. How does its rate change as products build up, and where does it end?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 14,
+  "title": "Problem 13.15",
+  "hint": "(a) Each flask can run only the direction its starting gases allow. (b) Equilibrium contains everything in the equation. (c) Compare the atoms in each flask; equilibrium can be reached from either side.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 15,
+  "title": "Problem 13.16",
+  "hint": "Equilibrium needs the reverse process, condensation, to keep pace with evaporation. In which container can the vapor collect above the liquid?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 16,
+  "title": "Problem 13.17",
+  "hint": "Equal rates, constant amounts. Does a steady color mean the reactions stopped? And does constant mean equal?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 17,
+  "title": "Problem 13.18",
+  "hint": "Products over reactants, with each coefficient as an exponent (not a multiplier).",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 18,
+  "title": "Problem 13.19",
+  "hint": "Circle the phase labels and cross out (s) and (l). Then write products over reactants with exponents. Is the water here a liquid or a gas?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 19,
+  "title": "Problem 13.20",
+  "hint": "For each: cross out every (s) and (l), then write products over reactants with coefficients as exponents. If nothing is left on the bottom, the expression has no denominator.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 20,
+  "title": "Problem 13.21",
+  "hint": "The species on top are the products and those on the bottom are the reactants; the exponents are the coefficients. Check that the equation balances.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 21,
+  "title": "Problem 13.22",
+  "hint": "Write K (every coefficient is 1): multiply the products on top, multiply the reactants on the bottom, then divide.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 22,
+  "title": "Problem 13.23",
+  "hint": "(a) Products over reactants, with coefficients as exponents. (b) Square both [H<sub>2</sub>] and [H<sub>2</sub>S]. (c) Compare K with 1.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 23,
+  "title": "Problem 13.24",
+  "hint": "Leave the solid out. What is left is just the two gas concentrations, multiplied together.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 24,
+  "title": "Problem 13.25",
+  "hint": "(a) Product over reactants; NO has a coefficient of 2. (b) Plug in each row, squaring [NO]. (c) Compare the three results. (d) Compare K with 1.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 25,
+  "title": "Problem 13.26",
+  "hint": "What question does K answer, and what question does rate answer (Section 13.1)? Which one explains why nothing happens until a spark?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 26,
+  "title": "Problem 13.27",
+  "hint": "(a) K<sub>reverse</sub> = 1/K. (b) Does writing the reaction backward change what is in the flask? (c) Compare each K with 1: very large, very small, or close to 1 (about 0.1&ndash;10)?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 27,
+  "title": "Problem 13.28",
+  "hint": "Is Br<sub>2</sub> a reactant or a product, and which way does adding it push the system? Did this stress change the temperature?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 28,
+  "title": "Problem 13.29",
+  "hint": "Find the direction first with Add &rarr; Away, Take &rarr; Toward. Then everything on the side the system shifts toward goes up, and everything on the other side goes down.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 29,
+  "title": "Problem 13.30",
+  "hint": "(a)(b) Add &rarr; Away, Take &rarr; Toward for Cl<sup>&minus;</sup>. (c)(d) &Delta;H is positive, so write heat as a reactant. Pink is on the left, blue on the right. (e) Only one kind of stress changes K.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 30,
+  "title": "Problem 13.31",
+  "hint": "The muscle removes O<sub>2</sub>. Take &rarr; Toward: which side of the equation is O<sub>2</sub> on?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 31,
+  "title": "Problem 13.32",
+  "hint": "(a) Less O<sub>2</sub> acts like removing a reactant: Take &rarr; Toward. (b) More Hb is adding a reactant. (c) What is the only stress that changes K?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 32,
+  "title": "Problem 13.33",
+  "hint": "O<sub>2</sub> is a reactant in this equilibrium. Add &rarr; Away: which way does adding a lot of it push the system? Remember that only temperature changes K.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 33,
+  "title": "Problem 13.34",
+  "hint": "Fast breathing removes CO<sub>2</sub>. Use Take &rarr; Toward, then follow [H<sup>+</sup>]: does less H<sup>+</sup> mean a higher or a lower pH?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 34,
+  "title": "Problem 13.35",
+  "hint": "H<sup>+</sup> is not in the equation, but it reacts with OH<sup>&minus;</sup>, which is. Is OH<sup>&minus;</sup> being added or taken away?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 35,
+  "title": "Problem 13.36",
+  "hint": "(a) Ca<sup>2+</sup> and phosphate are products: Add &rarr; Away. (b) Which is the weaker base, F<sup>&minus;</sup> or OH<sup>&minus;</sup>, and so harder for H<sup>+</sup> to remove? (c) Less saliva: fewer ions added, less acid neutralized.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 36,
+  "title": "Problem 13.37",
+  "hint": "When &Delta;H is negative, is heat a reactant or a product? Which way does adding heat push the system? Which kind of stress is the one that changes K?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 37,
+  "title": "Problem 13.38",
+  "hint": "Heating made more brown NO<sub>2</sub>, so heating shifted the system right. With Add &rarr; Away, which side must heat be on? Then, more product means what for K?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 38,
+  "title": "Problem 13.39",
+  "hint": "(a) K grew as the temperature rose; Add &rarr; Away tells you which side heat is on. (b) Write heat on that side. (c) Add heat. (d) Does a catalyst speed one direction or both?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 39,
+  "title": "Problem 13.40",
+  "hint": "Heat is a product here. Which way does adding heat push the system? Which kind of stress is the one that changes K?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 40,
+  "title": "Problem 13.41",
+  "hint": "Count moles of gas on each side. Does a smaller volume (higher pressure) favor the side with more or fewer moles of gas?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 41,
+  "title": "Problem 13.42",
+  "hint": "A larger volume shifts toward the side with more moles of gas. Count gases only; solids are not counted.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 42,
+  "title": "Problem 13.43",
+  "hint": "Argon is not in the equation, and the volume is fixed. Did the concentration (mol/L) of N<sub>2</sub>, H<sub>2</sub>, or NH<sub>3</sub> change?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 43,
+  "title": "Problem 13.44",
+  "hint": "A catalyst lowers the hill for both the forward and the reverse reactions. Does it change how fast equilibrium is reached, where it ends up, or both?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 44,
+  "title": "Problem 13.45",
+  "hint": "Use Add &rarr; Away, Take &rarr; Toward; write heat as a reactant (&Delta;H positive); count gas moles for volume. Then follow H<sub>2</sub>O, a reactant. Only temperature changes K.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 45,
+  "title": "Problem 13.46",
+  "hint": "Does a pure solid appear in the K expression? If adding the solid changed [OH<sup>&minus;</sup>], what would that do to the value of the expression?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 46,
+  "title": "Problem 13.47",
+  "hint": "(a) Opening the can removes CO<sub>2</sub>(g): Take &rarr; Toward. (b) Heat is a product; warming adds heat. (c) Is an open can a closed system?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 47,
+  "title": "Problem 13.48",
+  "hint": "(a) Each mole of N<sub>2</sub>O<sub>4</sub> lost makes 2 mol NO<sub>2</sub>. (b) Are the concentrations still changing? (c) Square [NO<sub>2</sub>] in K. (d) &Delta;H is positive: does heating make K larger or smaller?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 48,
+  "title": "Problem 13.49",
+  "hint": "(a) Compare with the normal ranges. (b) Fast breathing removes CO<sub>2</sub>: Take &rarr; Toward. (c) CO<sub>2</sub> building up is adding: Add &rarr; Away. (d) Catalysts speed both directions. (e) Leave out water; only temperature changes K.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 49,
+  "title": "Problem 13.50",
+  "hint": "(a) Square [NH<sub>3</sub>] and cube [H<sub>2</sub>]. (b) &Delta;H is negative, so heat is a product. (c) Separate rate (Section 13.1) from equilibrium. (d) Does a catalyst speed one direction or both?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 50,
+  "title": "Problem 13.51",
+  "hint": "(a) Cross out the solids; the water here is a gas. (b) More water vapor is adding a reactant. (c) Heat is a product; warming adds it. (d) Do solids appear in K?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 51,
+  "title": "Problem 13.52",
+  "hint": "(a) Products over reactants, with exponents. (b) Compare K with 1. (c) K tells how far, not how fast. (d) What does a catalyst do to E<sub>a</sub>? (e) &Delta;H is negative, so heat is a product.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 52,
+  "title": "Problem 13.53",
+  "hint": "The levels stop changing when each forward trip is matched by a reverse trip: equal rates. Do equal rates mean equal amounts?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 53,
+  "title": "Problem 13.54",
+  "hint": "(a) Flip the expression: the old reactants go on top, and coefficients stay as exponents. (b) K<sub>reverse</sub> = 1/K. (c) Compare each K with 1.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 54,
+  "title": "Problem 13.55",
+  "hint": "Write the dissociation of KNO<sub>3</sub> first. Does either ion appear in the equilibrium?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 55,
+  "title": "Problem 13.56",
+  "hint": "(a) Which side is heat written on? (b) Add &rarr; Away, Take &rarr; Toward; solids cause no shift; count only gas moles for volume; cooling removes heat. (c) Only temperature changes K.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 56,
+  "title": "Problem 13.57",
+  "hint": "Doubling the volume lowers the pressure. Count moles of gas on each side: does lower pressure favor the side with more or fewer moles of gas?",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 57,
+  "title": "Problem 13.58",
+  "hint": "A larger volume shifts toward more moles of gas. Count only the gases on each side; a solid counts as zero.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.6_practice_problems.html",
+  "idx": 58,
+  "title": "Problem 13.59",
+  "hint": "(a) Write the ions NaHCO<sub>3</sub> splits into. (b) Which ion is already in the equilibrium? Add &rarr; Away. (c) Follow the shift to H<sup>+</sup>, then to the pH.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.8_going_further.html",
+  "idx": 0,
+  "title": "Exercise \\(\\PageIndex{1}\\)",
+  "hint": "Products over reactants, as for any K. Water is the solvent, a pure liquid, so cross it out.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.8_going_further.html",
+  "idx": 1,
+  "title": "Exercise \\(\\PageIndex{2}\\)",
+  "hint": "Write the solid breaking into one Mg<sup>2+</sup> and two OH<sup>&minus;</sup>; leave out the solid, and the 2 becomes an exponent. Then: OH<sup>&minus;</sup> is a common ion, so Add &rarr; Away.",
+  "why": ""
+ },
+ {
+  "file": "drafts/ch13/13.8_going_further.html",
+  "idx": 2,
+  "title": "Exercise \\(\\PageIndex{3}\\)",
+  "hint": "(a) Lead(II) means Pb<sup>2+</sup>; crisscross the charges, then write the solid dissolving into its ions. (b) Compare K<sub>sp</sub> with 1.",
+  "why": ""
+ }
+]
