@@ -64,6 +64,7 @@ AFTER = {
 }
 
 def block(img, alt, cap, cred):
+    assert '<' not in alt and '>' not in alt, 'alt text must be plain text: LibreTexts cuts an alt attribute at a tag'
     return (f'<figure class="figure"><img src="{BASE}{img}" alt="{alt}" style="max-width:100%;height:auto;" />\n'
             f'<figcaption>Figure \\(\\PageIndex{{0}}\\): {cap} {cred}</figcaption></figure>\n')
 

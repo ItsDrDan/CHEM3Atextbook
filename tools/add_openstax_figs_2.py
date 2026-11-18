@@ -42,11 +42,11 @@ FIGS = [
   credit('2.2', P22, 'image a: modification of work by the Nobel Foundation; image b: modification of work by Eugen Nesper; image c: modification of work by &ldquo;Kurzon&rdquo;/Wikimedia Commons')),
  ('ch02/2.1_atomic_theory.html', 'os_2-2_cathode_ray.jpg', 'afterfig', 'os_2-2_millikan.jpg',
   '<p>A few years later, in 1909, Robert Millikan measured the electron&rsquo;s charge. He sprayed tiny oil drops between two charged metal plates, gave them an electric charge, and adjusted the voltage until a drop hung still. Every drop carried a whole-number multiple of the same small charge, 1.6 &times; 10<sup>&minus;19</sup> C: the charge of one electron.</p>',
-  'Left, a cutaway drawing of Millikan&rsquo;s apparatus: an atomizer sprays fine oil droplets through a pinhole into a chamber between two horizontal brass plates, the upper one positive and the lower one negative; X-rays give the droplets a charge, and a telescope eyepiece views one charged droplet. Right, a table of example charges on five oil drops: A 4.8 &times; 10<sup>&minus;19</sup> C, B 3.2 &times; 10<sup>&minus;19</sup> C, C 6.4 &times; 10<sup>&minus;19</sup> C, D 1.6 &times; 10<sup>&minus;19</sup> C, E 4.8 &times; 10<sup>&minus;19</sup> C.',
+  'Left, a cutaway drawing of Millikan&rsquo;s apparatus: an atomizer sprays fine oil droplets through a pinhole into a chamber between two horizontal brass plates, the upper one positive and the lower one negative; X-rays give the droplets a charge, and a telescope eyepiece views one charged droplet. Right, a table of example charges on five oil drops: A 4.8 times 10 to the minus 19 C, B 3.2 times 10 to the minus 19 C, C 6.4 times 10 to the minus 19 C, D 1.6 times 10 to the minus 19 C, E 4.8 times 10 to the minus 19 C.',
   'Millikan&rsquo;s oil-drop experiment. Every charge in the table is a whole-number multiple of 1.6 &times; 10<sup>&minus;19</sup> C (drop D), so that is the charge of a single electron.',
   credit('2.2', P22)),
  ('ch02/2.2_subatomic_particles.html', 'The table above shows two patterns worth remembering', 'after', 'os_2-3_stadium_blueberry.jpg', '',
-  'Three images in a row. Left, a drawing of an atom as a large pale sphere about 10<sup>&minus;10</sup> m across with a tiny dot at the center labeled nucleus, about 10<sup>&minus;15</sup> m across. Middle, a photograph of an empty football stadium. Right, a hand holding a handful of blueberries.',
+  'Three images in a row. Left, a drawing of an atom as a large pale sphere about 10 to the minus 10 m across with a tiny dot at the center labeled nucleus, about 10 to the minus 15 m across. Middle, a photograph of an empty football stadium. Right, a hand holding a handful of blueberries.',
   'How small the nucleus is. If an atom were the size of a football stadium, its nucleus would be about the size of a blueberry, yet the nucleus holds almost all of the atom&rsquo;s mass.',
   credit('2.3', P23, 'photo middle: modification of work by &ldquo;babyknight&rdquo;/Wikimedia Commons; photo right: modification of work by Paxson Woelber')),
  ('ch02/2.4_ions.html', 'The metal formed a cation and kept its name; the nonmetals formed anions ending in -ide.', 'afterbox', 'os_2-3_goiter_salt.jpg',
@@ -65,6 +65,7 @@ FIGS = [
 ]
 
 def block(img, alt, cap, cred):
+    assert '<' not in alt and '>' not in alt, 'alt text must be plain text: LibreTexts cuts an alt attribute at a tag'
     return (f'<figure class="figure"><img src="{BASE}{img}" alt="{alt}" style="max-width:100%;height:auto;" />\n'
             f'<figcaption>Figure \\(\\PageIndex{{0}}\\): {cap} {cred}</figcaption></figure>\n')
 
