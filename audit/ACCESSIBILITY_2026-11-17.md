@@ -48,9 +48,11 @@ rules axe can check and axe "best practice" rules, plus the book's own checklist
 | 44 px touch targets | "Play the game" button 39 px | min-height 44 px |
 | Keyboard-only use | works (Tab to a choice, Space selects, Enter checks, feedback announced); focus ring #9fb0ff was 2:1; focus fell to the top of the page after Check | ring #3346c4 (6.7–7.5:1); focus moves to New Question after Check |
 | `lang`, reduced motion, live region | present | none |
-| Glossary pop-ups (platform, 3B A2) | same LibreTexts ARIA failure in 3A; **plus a 3A bug:** one-letter symbol synonyms (A, X, m, i, c, K, P …) made every "a" a pop-up (49 on page 1.4.5 alone) | glossary generator drops one-letter synonyms and writes "Symbol: X." into the definition (glossary_page.html rebuilt; **publish pending**) |
-| Accessibility statement | 3A had none | drafted in drafts/front/accessibility_statement.html (**needs Dr. Dan's OK** to add as a front-matter page) |
+| Glossary pop-ups (platform, 3B A2) | same LibreTexts ARIA failure in 3A; **plus a 3A bug:** one-letter symbol synonyms (A, X, m, i, c, K, P …) made every "a" a pop-up (49 on page 1.4.5 alone) | glossary generator drops one-letter synonyms and writes "Symbol: X." into the definition (published 2026-11-17: the 18 changed rows edited in place on the Glossary page 597477, all 353 rows read back; page 1.4.5 went from 95 pop-ups to 34, all real terms) |
+| Accessibility statement | 3A had none | published as Front Matter page 598094 "Accessibility Statement" (00:_Front_Matter/05:_Accessibility_Statement, CC BY 4.0 tags); axe: only the platform glossary rule |
 | PDF (Full (24).pdf) | tagged (/Marked true, StructTreeRoot), Lang en, 92/92 Figure tags with Alt, 162 tables with 580 TH, H1/H2/H3 tags | none |
 | iOS Simulator (separate iPhone 17, live GitHub Pages) | Try It: wrong answer, right answer, picture question, new colors, 44 px button; Final Boss chapter link (Ch 14) | pass |
 
 Still not covered: a VoiceOver listening session; 400% zoom reflow on the live LibreTexts pages (375 px tested); the live LibreTexts pages in the simulator (the draft is private, so the simulator's Safari would need Dr. Dan's sign-in).
+
+Known quirk left as is: the "Solution" label in worked examples still shows the glossary definition of a chemical solution (LibreTexts matches glossary words case-insensitively; the only fix would be removing the term).
