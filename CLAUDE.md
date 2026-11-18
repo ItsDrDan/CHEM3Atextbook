@@ -140,7 +140,7 @@ A major overhaul of the free LibreTexts textbook for **CHEM 3A (Introductory Gen
 - **Phase changes:** heating/cooling curves with q = mcΔT are the main skill; phase diagrams are shown so students see both (Going Further section in 9.5).
 - **Naming:** Dr. Dan's "blue sheet" is the naming flowchart he gives students (metal? → transition metal? → count elements; no metal → hydrogen first? → acid, else diatomic or covalent binary). Section 4.6 follows its logic.
 - **"James Bond / Alien" slide:** shows that films portray acids eating through metal (villains using acid); used as a "Movie Chemistry" misconception box in 7.3.
-- **Chapter 1 measurement pages:** rewrite the inherited pages as his own, tied to nursing and health care (why measurement, accuracy and precision matter).
+- **Chapter 1 measurement pages:** rewrite the inherited pages as his own, tied to nursing and health care (why measurement, accuracy and precision matter). Done 2026-11-17: all 12 inherited pages (1.2–1.4.3, 1.9.1, 1.12; same page ids) now hold his CC BY text; Chapter 1 has no CK-12 or NC-SA pages left. Yellow-sheet values: tools/yellow_sheet_conversions.md.
 - **Lab safety in examples:** no benzene in student-facing lab examples; use a safer liquid.
 
 ### Patient case (approved 2026-11-14)

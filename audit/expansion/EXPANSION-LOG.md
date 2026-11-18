@@ -62,6 +62,22 @@ Ca7o0AjwhcY 4:49 ("pH reaches zero").
 Figures still text-only (candidates to draw): T43 overlay, "the steps", Bohr diagrams, Lewis symbols, CaF2 transfer, driving-directions
 arrows, band of stability, kinetic-energy distribution, particle vials, 9.7 solid-types figure (shows 4 of 5 types).
 
+## Dr. Dan's decisions applied and Chapter 1 rewrite (published 2026-11-17)
+
+- His answers to the open questions are recorded in CLAUDE.md, "Scope decisions (Dr. Dan, 2026-11-17)".
+- Applied: Cr/Cu exceptions (3.4, Problems 3.66–3.67); blue naming sheet logic in 4.6 with a redrawn flowchart
+  (figures/ch04/naming_flowchart.svg); Movie Chemistry box (7.3); Going Further phase diagrams with a new figure
+  (9.5, figures/ch09/phase_diagram_water.svg); colligative problems center on ΔT (11.6–11.8); fission/fusion balancing
+  labeled Challenge (14.5, 14.9).
+- Chapter 1: the 12 inherited pages (1.2, 1.2.1, 1.2.2, 1.3, 1.3.1, 1.3.2, 1.4, 1.4.1, 1.4.2, 1.4.3, 1.9.1, 1.12) were
+  replaced with new pages written from his Lectures 1–4 and videos, with a nursing and health-care thread (Do Not Use list,
+  ISMP abbreviations, mcg vs mg, kg-only weights, glucometer accuracy, lab values, cell counts, BSA, specific gravity).
+  License tags changed from CK-12 / CC BY-NC-SA 3.0 to CC BY 4.0, and the former co-author tags were removed (none of their
+  text remains). Earlier versions remain in each page's LibreTexts history. Benzene replaced by glycerol (1.9, Problem 1.86)
+  and ethanol (1.9.1). US–metric values follow the yellow sheet (tools/yellow_sheet_conversions.md, Exam 1 edition incl.
+  its SI prefix table).
+- Questions 1–10 below are answered (see CLAUDE.md).
+
 ## Open questions for Dr. Dan (from the gap analyses)
 
 1. Ch 11: a video says students won't calculate freezing points, but 11.6 does (CLAUDE.md records the calculation as his choice).
