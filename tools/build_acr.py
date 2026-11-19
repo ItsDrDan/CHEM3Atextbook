@@ -16,7 +16,7 @@ ROWS = [
  ('1.2.3 Audio Description or Media Alternative (Prerecorded)', 'A', S, 'The videos are optional lectures. Each section&rsquo;s text, worked examples, and figures teach the same content, so the page itself is the media alternative.'),
  ('1.2.4 Captions (Live)', 'AA', NA, 'The book has no live media.'),
  ('1.2.5 Audio Description (Prerecorded)', 'AA', P, 'The videos have no separate audio-description track. The worked steps written on screen in the videos are given in the section text and Chapter Guides, which cover the same material.'),
- ('1.3.1 Info and Relationships', 'A', S, 'Headings, lists, and tables are marked up as such; every data table has header cells and a caption or lead-in sentence; hidden hints and answers use the standard details/summary disclosure; math is real text (MathJax) with speech support.'),
+ ('1.3.1 Info and Relationships', 'A', S, 'Headings, lists, and tables are marked up as such; every data table has header cells and a caption or lead-in sentence; hidden hints and answers use the standard details/summary disclosure; math is real text (MathJax) with speech support; equations are read with their units (for example, &ldquo;10.2 centimeters times 7.6 centimeters&rdquo;).'),
  ('1.3.2 Meaningful Sequence', 'A', S, 'Reading order in the code matches the visual order; boxes and figures follow the text they belong to.'),
  ('1.3.3 Sensory Characteristics', 'A', S, 'Instructions do not depend on shape, color, size, or position alone.'),
  ('1.3.4 Orientation', 'AA', S, 'Pages and practice boxes work in portrait and landscape.'),
@@ -64,7 +64,7 @@ ROWS = [
 ISSUES = [
  'Captions (planned): the one video with only automatic captions, &ldquo;Properties of Intermolecular Forces (Part 4),&rdquo; is to get reviewed, uploaded captions.',
  'Glossary pop-ups' + PLAT + ': this is a LibreTexts issue the book cannot change; the definitions are available from the keyboard on the Glossary page and in each Chapter Guide&rsquo;s Key Terms table.',
- 'A listening test with a screen reader (VoiceOver) on pages with math and practice boxes is planned; the automated checks confirm names, roles, and structure but not how a page sounds.',
+ 'A listening test with a screen reader (VoiceOver) on pages with math, practice boxes, and interactive labs is planned. The automated checks confirm names, roles, structure, and the spoken text of equations, but not how a page sounds to a listener.',
 ]
 
 def main(reflow, reflow_level, spacing, spacing_level, summary):
