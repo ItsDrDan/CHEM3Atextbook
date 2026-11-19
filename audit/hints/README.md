@@ -38,3 +38,5 @@ Full (34): on every page with an OpenStax figure the whole print style is ignore
 Read single-page PDFs of 3.1, 6.5, 7.8: wrap figure floats right + no bare Hint = rules applied.
 
 **Result (Full (35)):** 3.1 (style moved to the end) printed correctly: wrap back, stranded Hint gone. 6.5 (links unlinked) still failed. 7.8 (photo removed) printed correctly. So an OpenStax photo cancels the print style when the style is first on the page; at the end it works. Fix: tools/print_layout.py now puts the style at the end of every exercise page (and skips a wrap whose text runs into another figure). 6.5 and 7.8 restored and the fix published to all 118 pages 2026-11-19 (0939452); confirm in the next full PDF.
+
+**Confirmed in Full (36), 2026-11-19:** 0 pages end on a bare Hint (Full (34): 10; Full (27): 82), including 2.1 and 12.6; all 1,398 Hint and Answer labels present; the 4 pages ending on "Answer" have the answer's display equation on the same page (text extraction cannot see MathJax). Text wrap works on 3.1, 6.5, 7.8, 12.6 (first time) and 13.4. 1,206 pages.
