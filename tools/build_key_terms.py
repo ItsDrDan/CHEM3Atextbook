@@ -107,7 +107,9 @@ def block(ch):
         def brk(e):   # one equation per line on phones, with room between stacked fractions
             parts = re.split(r'(?<=\\\))\s*[;,]\s*(?=(?:with |alpha |beta |positron |gamma )?\\\(|1 M|osmolality)', e)
             return parts[0] if len(parts) == 1 else ''.join(f'<span style="display:block;margin:0.4em 0;">{x}</span>' for x in parts)
-        rows = [(brk(e), u, link(s)) for e, u, s in sorted(EQ[ch], key=lambda r: secnum(r[2]))]
+        # a scroll box keeps a long equation from widening the page at 320 px (WCAG 1.4.10; the book's phone rule for long math)
+        sc = lambda e: f'<div style="overflow-x:auto;overflow-y:hidden;">{e}</div>'
+        rows = [(sc(brk(e)), u, link(s)) for e, u, s in sorted(EQ[ch], key=lambda r: secnum(r[2]))]
         out += ('<h2>Key Equations</h2>\n<p>The equations, constants, and equalities this chapter uses, with the section that teaches each one. '
                 'Your yellow sheet has the constants on exams.</p>\n' + table(f'Key equations for Chapter {ch}', ['Equation', 'Use it to', 'Section'], rows))
     terms = sorted([g for g in G if g['section'].split('.')[0] == str(ch)], key=lambda g: secnum(g['section']))
