@@ -1,0 +1,80 @@
+[
+ {
+  "page": "ch07/7.3_reaction_patterns.html",
+  "key": "2 Mg(s) + O<sub>2</sub>(g) &rarr; 2 MgO(s).</p>",
+  "where": "after",
+  "img": "os_4-3_al_iodine.jpg",
+  "lead": "<p>Aluminum and iodine combine the same way. Al forms Al<sup>3+</sup> and I forms I<sup>&minus;</sup>, so the product is AlI<sub>3</sub>: 2 Al(s) + 3 I<sub>2</sub>(s) &rarr; 2 AlI<sub>3</sub>(s). The reaction gives off so much heat that you can see it, as the photos below show.</p>",
+  "alt": "Three photographs in a row, joined by arrows, of a small pile on the white ceramic base of a ring stand. First, a small gray pile of aluminum powder mixed with iodine. Second, a pink-purple flash with wisps of purple vapor rising from the pile. Third, a large cloud of purple vapor billows up, and the white base around the pile is stained orange-brown.",
+  "caption": "A combination reaction: aluminum and iodine form aluminum iodide, 2 Al(s) + 3 I<sub>2</sub>(s) &rarr; 2 AlI<sub>3</sub>(s). The heat released turns some of the unreacted iodine into purple vapor.",
+  "credit_section": "4.3",
+  "credit_path": "04%3A_Stoichiometry_of_Chemical_Reactions/4.04%3A_Reaction_Stoichiometry",
+  "credit_extra": "photos: modification of work by Mark Ott",
+  "why": "Real photo of a combination (metal + nonmetal) reaction with visible signs of reaction; 7.3 has only the pattern diagram."
+ },
+ {
+  "page": "ch07/7.5_precipitation.html",
+  "key": "Barium sulfate contrast (Section 4.3) is a precipitate on purpose",
+  "where": "afterbox",
+  "img": "os_15-1_baso4_xray.jpg",
+  "lead": "",
+  "alt": "A black-and-white X-ray of a patient&rsquo;s abdomen, seen from the front. The stomach, at upper right, and the coiled loops of the small intestine below it show up bright white because they are coated with barium sulfate. The spine and the hip bones appear as fainter gray shapes behind them.",
+  "caption": "An X-ray taken after a patient swallowed a barium sulfate suspension. Because BaSO<sub>4</sub> is insoluble, it stays a solid coating on the digestive tract, blocks X-rays, and shows the stomach and intestines in detail.",
+  "credit_section": "15.1",
+  "credit_path": "15%3A_Equilibria_of_Other_Reaction_Classes/15.02%3A_Precipitation_and_Dissolution",
+  "credit_extra": "photo: modification of work by &ldquo;glitzy queen00&rdquo;/Wikimedia Commons",
+  "why": "Shows what the Radiologic Technology box describes: an insoluble precipitate used as X-ray contrast (allied-health tie)."
+ },
+ {
+  "page": "ch07/7.7_redox.html",
+  "key": "<strong>Copper patina</strong>: copper roofs",
+  "where": "after",
+  "img": "os_17-6_statue_patina.jpg",
+  "lead": "",
+  "alt": "Two images of the Statue of Liberty on its stone pedestal. (a) A painting from when the statue was new: the copper statue is a dark reddish brown. (b) A photograph of the statue today: it is pale blue-green, with the harbor and a city skyline behind it.",
+  "caption": "Corrosion you can see. (a) The Statue of Liberty&rsquo;s copper skin was brown when the statue was new. (b) Over decades, copper was oxidized by oxygen, water, and other substances in the air, forming the blue-green patina that now protects the metal underneath.",
+  "credit_section": "17.6",
+  "credit_path": "17%3A_Electrochemistry/17.07%3A_Corrosion",
+  "credit_extra": "",
+  "why": "Before/after photo of the copper patina named in the corrosion list; makes redox in everyday metals visible."
+ },
+ {
+  "page": "ch07/7.8_activity_series.html",
+  "key": "Will it react?",
+  "where": "afterbox",
+  "img": "os_4-2_cu_agno3.jpg",
+  "lead": "<p>Copper is above silver, so copper metal displaces silver ions from silver nitrate solution: Cu(s) + 2 AgNO<sub>3</sub>(aq) &rarr; Cu(NO<sub>3</sub>)<sub>2</sub>(aq) + 2 Ag(s). Copper is oxidized to blue Cu<sup>2+</sup> ions, and Ag<sup>+</sup> ions are reduced to silver metal.</p>",
+  "alt": "Three photographs of a test tube. (a) A coil of copper wire, reddish brown, hangs beside a test tube of clear, colorless silver nitrate solution. (b) The copper coil has been lowered into the clear solution. (c) Later, the solution has turned blue-green, and fuzzy gray crystals of silver metal cover the wire and pile up at the bottom of the tube.",
+  "caption": "Copper displaces silver. (a) Copper wire and colorless silver nitrate solution. (b) The wire is placed in the solution. (c) Gray silver metal grows on the wire, and the solution turns blue as Cu<sup>2+</sup> ions form. Copper is above silver in the activity series, so the reaction happens.",
+  "credit_section": "4.2",
+  "credit_path": "04%3A_Stoichiometry_of_Chemical_Reactions/4.03%3A_Classifying_Chemical_Reactions",
+  "credit_extra": "photos: modification of work by Mark Ott",
+  "why": "Real single-displacement photo for the activity-series rule; 7.8 currently has only the list diagram."
+ },
+ {
+  "page": "ch08/8.1_mole_ratios.html",
+  "key": "the same as 2 <em>moles</em> of wheels per",
+  "where": "after",
+  "img": "os_4-1_molecule_ratios.jpg",
+  "lead": "<p>The same is true for molecules. Methane burns by CH<sub>4</sub> + 2 O<sub>2</sub> &rarr; CO<sub>2</sub> + 2 H<sub>2</sub>O. Start with 3 CH<sub>4</sub> and 6 O<sub>2</sub> molecules, and you get 3 CO<sub>2</sub> and 6 H<sub>2</sub>O molecules. The numbers are three times bigger, but the ratio is still 1 : 2 : 1 : 2, and it would still be 1 : 2 : 1 : 2 for a mole of methane.</p>",
+  "alt": "Two boxes of space-filling molecules separated by an arrow. Left, labeled Mixture before reaction: 3 methane molecules (a black carbon atom with four white hydrogen atoms) and 6 oxygen molecules (two red oxygen atoms each). Right, labeled Mixture after reaction: 3 carbon dioxide molecules (a black carbon between two red oxygens) and 6 water molecules (a red oxygen with two white hydrogens). Nothing is left over.",
+  "caption": "Burning methane at the molecular level: 3 CH<sub>4</sub> + 6 O<sub>2</sub> &rarr; 3 CO<sub>2</sub> + 6 H<sub>2</sub>O. However many molecules react, they react in the 1 : 2 : 1 : 2 ratio given by the coefficients.",
+  "credit_section": "4.1",
+  "credit_path": "04%3A_Stoichiometry_of_Chemical_Reactions/4.02%3A_Writing_and_Balancing_Chemical_Equations",
+  "credit_extra": "",
+  "why": "Molecular-level picture that the coefficient ratio holds for any number of molecules (bridges the bicycle recipe to molecules and moles)."
+ },
+ {
+  "page": "ch08/8.6_enthalpy.html",
+  "key": "dissolving ammonium nitrate in an instant cold pack are endothermic",
+  "where": "after",
+  "img": "os_5-1_torch_coldpack.jpg",
+  "lead": "",
+  "alt": "Two images. (a) A worker in a yellow-green rain suit cuts a steel railroad rail with a torch; bright orange sparks of molten metal spray out and glowing metal drips onto the gravel below. (b) A drawing of a plastic bag labeled Instant Cold Pack, Single Use Only, with three pictures showing how to squeeze, shake, and apply it. Inside, labels point to white granules of ammonium nitrate surrounding an inner bag of water.",
+  "caption": "(a) Exothermic: an oxyacetylene torch burns acetylene in oxygen, releasing enough heat to melt steel. (b) Endothermic: when the inner water bag of an instant cold pack breaks, ammonium nitrate dissolves and absorbs heat, so the pack feels cold.",
+  "credit_section": "5.1",
+  "credit_path": "05%3A_Thermochemistry/5.02%3A_Energy_Basics",
+  "credit_extra": "photo a: modification of work by &ldquo;Skatebiker&rdquo;/Wikimedia commons",
+  "why": "Real exothermic and endothermic examples for the sign of Delta H, including the cold pack the page already names (first-aid tie)."
+ }
+]
