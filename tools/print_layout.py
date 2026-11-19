@@ -21,11 +21,16 @@ def boxed(s, i):   # inside an open <div class="box...">?
     pre = s[:i]; return pre.count('<div') > pre.count('</div>')
 def following_text(s, i):
     j = s.find('</figure>', i) + 9; m = re.search(r'<(h[2-4]|div|table|figure|details)\b', s[j:]); seg = s[j:j + (m.start() if m else len(s))]
+    if m and m.group(1) == 'figure': return 0   # another figure follows: wrapping would put it beside the float
     return len(re.sub(r'<[^>]+>|\\\(.*?\\\)', '', seg).strip())
 dry = '--dry' in sys.argv; files = [f for f in sys.argv[1:] if f != '--dry'] or sorted(glob.glob('drafts/**/*.html', recursive=True))
 for f in files:
     s = open(f).read(); o = s
     if OLD in s: s = s.replace(OLD, NEW)
+    # 2026-11-19: the style must sit at the END of the page. With it first, an OpenStax photo on the page made
+    # LibreTexts' PDF engine ignore it (test on 3.1/6.5/7.8, Full (35)).
+    if NEW in s and not s.rstrip().endswith(NEW):
+        s = s.replace(NEW + '\n', '', 1).replace(NEW, '', 1).rstrip('\n') + '\n' + NEW + '\n'
     for m in reversed(list(re.finditer(r'<figure class="figure">\s*<img src="([^"]+)"', s))):
         a = aspect(m.group(1)); t = following_text(s, m.start())
         if a and a < 1.3 and not boxed(s, m.start()) and t >= 200:

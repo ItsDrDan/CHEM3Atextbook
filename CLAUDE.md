@@ -95,6 +95,7 @@ A major overhaul of the free LibreTexts textbook for **CHEM 3A (Introductory Gen
 - **Key Equations and Key Terms (2026-11-19):** each Chapter Guide has "Key Equations" (Ch 1-3, 5, 6, 8-14) and "Key Terms" tables after Key Ideas, built by tools/build_key_terms.py (terms from backmatter/glossary_3A.json, section links via @go/page ids; equations written in the script). Rerun the script after glossary or equation changes; it replaces both blocks.
 - **Chapter map for cross-references:** 1 Measurement/Matter, 2 Atoms, 3 Light/Electrons, 4 Naming, 5 Mole, 6 Bonds/Shapes/Composition, 7 Reactions, 8 Stoichiometry, 9 Energy/Solids/Liquids (IMF, temperature), 10 Gases, 11 Solutions, 12 Acids/Bases, 13 Equilibrium, 14 Nuclear.
 - **Phones:** every YouTube iframe gets `style="max-width:100%;height:auto;aspect-ratio:16/9;"` (LibreTexts fixes them at 560 px); long display equations sit in `<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">`.
+- **Print style position (2026-11-19):** the print-only `<style>` on exercise pages must be the LAST thing on the page (tools/print_layout.py puts it there). When it was first, any page with an OpenStax photo printed as if it had no style (tested in Full (35)).
 - **Tables:** run `python3 tools/add_data_th.py <drafts>` on every new page (phone labels on LibreTexts).
 
 ### Editing LibreTexts pages (what worked)

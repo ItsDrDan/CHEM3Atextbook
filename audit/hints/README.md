@@ -36,3 +36,5 @@ Full (34): on every page with an OpenStax figure the whole print style is ignore
 - 6.5 (597926): the two OpenStax links made plain text (figure kept).
 - 7.8 (597951): the OpenStax Cu/AgNO3 figure removed (links kept).
 Read single-page PDFs of 3.1, 6.5, 7.8: wrap figure floats right + no bare Hint = rules applied.
+
+**Result (Full (35)):** 3.1 (style moved to the end) printed correctly: wrap back, stranded Hint gone. 6.5 (links unlinked) still failed. 7.8 (photo removed) printed correctly. So an OpenStax photo cancels the print style when the style is first on the page; at the end it works. Fix: tools/print_layout.py now puts the style at the end of every exercise page (and skips a wrap whose text runs into another figure). 6.5 and 7.8 are restored when the fix is published.
