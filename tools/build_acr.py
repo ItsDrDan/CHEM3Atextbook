@@ -12,7 +12,7 @@ PLAT = ' (LibreTexts platform)'
 ROWS = [
  ('1.1.1 Non-text Content', 'A', S, 'Every image has alternative text that gives its content, not just its name; data figures describe their values. Pictures inside practice questions (cylinders, burets, rulers, balances, targets) describe what a sighted reader sees. Embedded frames have titles.'),
  ('1.2.1 Audio-only and Video-only (Prerecorded)', 'A', NA, 'The book has no audio-only or video-only media.'),
- ('1.2.2 Captions (Prerecorded)', 'A', P, '106 of the 107 embedded videos have uploaded English captions. One video, &ldquo;Properties of Intermolecular Forces (Part 4),&rdquo; used in Sections 9.1, 9.7, 9.8 and 9.9, has only YouTube&rsquo;s automatic captions.'),
+ ('1.2.2 Captions (Prerecorded)', 'A', S, 'All 107 embedded videos have uploaded English captions (not just YouTube&rsquo;s automatic ones). The last one, &ldquo;Properties of Intermolecular Forces (Part 4),&rdquo; got corrected captions on November 19, 2026.'),
  ('1.2.3 Audio Description or Media Alternative (Prerecorded)', 'A', S, 'The videos are optional lectures. Each section&rsquo;s text, worked examples, and figures teach the same content, so the page itself is the media alternative.'),
  ('1.2.4 Captions (Live)', 'AA', NA, 'The book has no live media.'),
  ('1.2.5 Audio Description (Prerecorded)', 'AA', P, 'The videos have no separate audio-description track. The worked steps written on screen in the videos are given in the section text and Chapter Guides, which cover the same material.'),
@@ -62,7 +62,6 @@ ROWS = [
  ('4.1.3 Status Messages', 'AA', S, 'Try It feedback is announced through a polite live region without moving focus.'),
 ]
 ISSUES = [
- 'Captions (planned): the one video with only automatic captions, &ldquo;Properties of Intermolecular Forces (Part 4),&rdquo; is to get reviewed, uploaded captions.',
  'Glossary pop-ups' + PLAT + ': this is a LibreTexts issue the book cannot change; the definitions are available from the keyboard on the Glossary page and in each Chapter Guide&rsquo;s Key Terms table.',
  'A listening test with a screen reader (VoiceOver) on pages with math, practice boxes, and interactive labs is planned. The automated checks confirm names, roles, structure, and the spoken text of equations, but not how a page sounds to a listener.',
 ]
