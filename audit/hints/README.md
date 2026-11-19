@@ -23,6 +23,9 @@ Wording fixes found along the way: 1.11 Problem 1.17(d) rounding 99.96; 4.2 and 
 - Every exercise page starts with a print-only style (`details > summary { break-after: avoid }`) so a Hint or Answer label never ends a printed page. Tested on 1.3.2 (PDF: no stranded labels), then added to all 118 pages (149e514) and published; every live page has the rule once and its text matches the repo.
 - New exercise pages need the same first line.
 
-## Print layout test 2026-11-18 (waiting on the next full compile)
-- Live on 1.3.1, 1.5, 2.1, 12.6 only (local commit 8d8a5dc, tools/print_layout.py): whole Hint block kept on one page; `float: top unless-fit` on figures; `fig-wrap` (float right, 46%) on near-square figures followed by text.
-- In the next full PDF check: Exercises 2.1.3 and 12.6.4 Hints stay with their text; text wraps beside the 1.3.1 dartboards and the 12.6 buffer figure; no gap above the 1.5 flowchart; no overlap or clipped captions. If good: run tools/print_layout.py on all pages (17 more wraps), push, publish.
+## Print layout 2026-11-19 (all 118 exercise pages, a606cb0)
+- One print-only style line at the top of each exercise page (made by tools/print_layout.py): whole Hint block kept on one page; `float: top unless-fit` on figures; `fig-wrap` (float right, 46%) on 19 near-square figures followed by text. Screen layout unchanged.
+- Tested in Full (29)/(30): text wraps beside the 1.3.1 figure; the 30% gap in 1.5 is gone. Stranded labels: 157 in Full (27), 2 in Full (28).
+- Open: 2.1 (Exercise 2.1.3) and 12.6 (Exercise 12.6.4) still end a page on a bare Hint, and the 12.6 buffer figure does not wrap, even in fresh single-page PDFs. Their text has been identical in every PDF since Full (27); the cause is unknown (LibreTexts stored copy or something on those pages).
+- Most remaining white space is LibreTexts starting each section on a new page (about 77 of 163 blank page-equivalents in Full (28)).
+- New exercise pages need the same first line: run tools/print_layout.py.
