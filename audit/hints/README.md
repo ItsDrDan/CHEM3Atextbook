@@ -29,3 +29,10 @@ Wording fixes found along the way: 1.11 Problem 1.17(d) rounding 99.96; 4.2 and 
 - Open: 2.1 (Exercise 2.1.3) and 12.6 (Exercise 12.6.4) still end a page on a bare Hint, and the 12.6 buffer figure does not wrap, even in fresh single-page PDFs. Their text has been identical in every PDF since Full (27); the cause is unknown (LibreTexts stored copy or something on those pages).
 - Most remaining white space is LibreTexts starting each section on a new page (about 77 of 163 blank page-equivalents in Full (28)).
 - New exercise pages need the same first line: run tools/print_layout.py.
+
+## Print-rule test 2026-11-19 (live, temporary; restore after the test)
+Full (34): on every page with an OpenStax figure the whole print style is ignored (10 stranded Hints: 2.1, 3.1, 4.2, 4.3, 5.1, 6.4, 7.3, 7.7, 9.6, 12.6; wraps lost on 3.1, 6.5, 7.8, 13.4). LibreTexts stores the OpenStax caption/attribution links as relative /Bookshelves/...Chemistry_2e_(OpenStax)... paths. Test edits, live only (repo unchanged; restore from 3cf47a3 drafts):
+- 3.1 (597878): print style moved from the top of the page to the end.
+- 6.5 (597926): the two OpenStax links made plain text (figure kept).
+- 7.8 (597951): the OpenStax Cu/AgNO3 figure removed (links kept).
+Read single-page PDFs of 3.1, 6.5, 7.8: wrap figure floats right + no bare Hint = rules applied.
