@@ -48,7 +48,7 @@ ROWS = [
  ('2.5.3 Label in Name', 'A', S, 'Visible labels match the accessible names of controls.'),
  ('2.5.4 Motion Actuation', 'A', NA, 'Nothing responds to device motion.'),
  ('3.1.1 Language of Page', 'A', S, 'Pages and the PDF declare English.'),
- ('3.1.2 Language of Parts', 'AA', S, 'The text is in English; there are no passages in other languages.'),
+ ('3.1.2 Language of Parts', 'AA', S, 'The text is in English. The Spanish terms in each Chapter Guide&rsquo;s Key Terms table are marked as Spanish (lang=&ldquo;es&rdquo;), so screen readers pronounce them in Spanish.'),
  ('3.2.1 On Focus', 'A', S, 'Focusing a control never changes the page.'),
  ('3.2.2 On Input', 'A', S, 'Selecting an answer does not submit it; the student checks it with a separate button.'),
  ('3.2.3 Consistent Navigation', 'AA', S, 'Navigation is the same on every page' + PLAT + '.'),

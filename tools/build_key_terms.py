@@ -91,14 +91,15 @@ EQ = {
       (m(r'E = mc^{2}'), 'Mass lost in fission or fusion becomes energy', '14.5')],
 }
 
-def table(cap, heads, rows):
-    th = ''.join(f'<th scope="col">{h}</th>' for h in heads)
-    body = '\n'.join('<tr>' + ''.join(f'<td data-th="{h}">{c}</td>' for h, c in zip(heads, r)) + '</tr>' for r in rows)
+def table(cap, heads, rows, widths=None):
+    th = ''.join(f'<th scope="col"' + (f' style="width:{w};"' if w else '') + f'>{h}</th>' for h, w in zip(heads, widths or [None] * len(heads)))
+    body = '\n'.join('<tr>' + ''.join(f'<td data-th="{re.sub(r"<[^>]+>", "", h)}">{c}</td>' for h, c in zip(heads, r)) + '</tr>' for r in rows)
     return (f'<table class="mt-responsive-table">\n<caption>{cap}</caption>\n<thead><tr>{th}</tr></thead>\n<tbody>\n{body}\n</tbody>\n</table>\n')
 
 def link(sec): return f'<a href="{GO}{IDS[sec]}">{sec}</a>'
 
 G = json.load(open('backmatter/glossary_3A.json'))
+ES = json.load(open('backmatter/spanish_terms.json'))   # Spanish term for every glossary term (lang="es" for screen readers, WCAG 3.1.2)
 def secnum(s): return [int(x) for x in s.split('.')]
 
 def block(ch):
@@ -120,9 +121,9 @@ def block(ch):
         bits = (['also ' + ', '.join(syn)] if syn else []) + (['symbol ' + ', '.join(sym)] if sym else [])
         if bits: t += ' (' + '; '.join(bits) + ')'
         d = g['definition'] + (' <i>(Going Further)</i>' if g.get('going_further') else '')
-        rows.append((t, d, link(g['section'])))
+        rows.append((t, f'<span lang="es">{ES[g["term"]]}</span>', d, link(g['section'])))
     out += ('<h2>Key Terms</h2>\n<p>The terms this chapter defines, in the order they are taught. Each section number links back to where the term is explained; '
-            'the Glossary at the end of the book lists every term from A to Z.</p>\n' + table(f'Key terms for Chapter {ch}', ['Term', 'Meaning', 'Section'], rows))
+            'the Glossary at the end of the book lists every term from A to Z. The <span lang="es">En español</span> column gives the Spanish term, for students who learned some chemistry in Spanish or study with family who speak it.</p>\n' + table(f'Key terms for Chapter {ch}', ['Term', '<span lang="es">En español</span>', 'Meaning', 'Section'], rows, ['22%', '20%', '48%', '10%']))
     return out
 
 chs = [int(a[2:]) for a in sys.argv[1:]] or list(range(1, 15))

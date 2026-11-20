@@ -25,7 +25,7 @@
 | Explore It boxes (interactive labs and PhET simulations) | 24, at least one per chapter |
 | Figures | 140, all with written descriptions, including figures remixed from OpenStax *Chemistry 2e* (CC BY 4.0) |
 | Video lessons | 107 embedded short lectures, all with uploaded (not automatic) captions |
-| Chapter Guides | Key Ideas, Key Equations (with the teaching section), Key Terms, Common Mistakes |
+| Chapter Guides | Key Ideas, Key Equations (with the teaching section), Key Terms with the Spanish term for each, Common Mistakes |
 | Front and back matter | Instructor Guide with an 18-week schedule, How to Use This Book, Accessibility Statement and Conformance Report, Glossary (350 terms), Index, Preparing for the ACS Final |
 
 The COR objective-by-objective map is in the Instructor Guide ("Chapters and the Course Outline") and in more detail in `audit/CHEM3A-14-CHAPTER-MATRIX.md`.
