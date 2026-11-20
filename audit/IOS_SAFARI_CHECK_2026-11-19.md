@@ -52,3 +52,16 @@ block that `tools/print_layout.py` already keeps at the end of the 118 exercise 
 
 Running when this file was written: after 56 of 166 pages, 140 wrapped equations on 23 pages (mostly Chapter 1 conversions and
 Chapter 2 average atomic mass). Final count to be added.
+
+## Fixed and published (2026-11-19, Dr. Dan approved "All three")
+
+- Problem 1: `tools/math_unit_groups.py` grouped 1,492 number-unit pairs on 64 pages; `tools/print_layout.py` gives equation
+  paragraphs line-height 2.6 on phones (screen only). Commit b1c49c1.
+- Problem 2: Glossary page 597477, row "electronegativity, EN" → "electronegativity", with "(Symbol: EN.)" added to the definition.
+- Problem 3: Hint/Answer button style (screen only) on 126 pages, just before the print style. Commit b1c49c1.
+- The partial count before the fix: 219 wrapped equations on 26 of the first 76 pages checked at 360 px (the loop stopped when
+  the session restarted). Wrapping itself is expected on phones; the fixes make wrapped lines readable.
+- Follow-up (same day): the button style did not apply on most pages. LibreTexts' glossary script scans text inside the page
+  content, including `<style>` text; the word "solid" (a glossary term) in `border:1.5px solid` made it re-parse the style as
+  HTML, and the `<![CDATA[` marker LibreTexts adds swallowed the selector. The outline is now an inset box-shadow (no glossary
+  words), and `tools/print_layout.py` fails if any glossary term appears in the screen style.

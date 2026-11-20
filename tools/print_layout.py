@@ -17,15 +17,27 @@ NEW = ('<style type="text/css">@media print { details > summary { display:block;
 # SCREEN sits just before the print style, which must stay last.
 SCREEN = ('<style type="text/css">@media screen { '
           '.mt-content-container details > summary { display:inline-flex; align-items:center; gap:0.45em; list-style:none; '
-          'min-height:44px; box-sizing:border-box; padding:0 1em; margin:0.35em 0; border:1.5px solid #2f6f9f; border-radius:8px; '
+          'min-height:44px; box-sizing:border-box; padding:0 1em; margin:0.35em 0; border:0; box-shadow:inset 0 0 0 1.5px #2f6f9f; border-radius:8px; '
           'background:#fff; color:#1d4f7a; font-weight:600; font-size:1rem; line-height:1.2; cursor:pointer; } '
           '.mt-content-container details > summary::-webkit-details-marker { display:none; } '
           '.mt-content-container details > summary::before { content:"▸"; content:"▸" / ""; font-size:1.1em; } '
           '.mt-content-container details[open] > summary::before { content:"▾"; content:"▾" / ""; } '
           '.mt-content-container details[open] > summary { background:#e3eef8; } '
-          '.mt-content-container details > summary:focus-visible { outline:3px solid #1d4f7a; outline-offset:2px; } } '
+          '.mt-content-container details > summary:focus-visible { outline:3px auto #1d4f7a; box-shadow:inset 0 0 0 1.5px #2f6f9f, 0 0 0 3px #fff, 0 0 0 6px #1d4f7a; } } '
           '@media screen and (max-width: 40em) { .mt-content-container p[style*="overflow-x:auto"] { line-height:2.6; } }</style>')
 EQ_P = 'text-align:center;overflow-x:auto;overflow-y:hidden;'
+# LibreTexts' glossary script scans text inside the page content, including <style> text. If a glossary term (for
+# example "solid") appears in SCREEN, it re-parses the style as HTML and the <![CDATA[ marker LibreTexts adds swallows the
+# selector, so the rule is lost (found 2026-11-19). Keep every glossary term out of SCREEN.
+def _glossary_terms():
+    import html as _h
+    g = open('backmatter/glossary_page.html').read(); out = set()
+    for w in re.findall(r'<td data-th="Word\(s\)">(.*?)</td>', g):
+        out |= {t.strip().lower() for t in _h.unescape(re.sub('<[^>]+>', '', w)).split(',') if t.strip()}
+    return out
+_bad = sorted(t for t in _glossary_terms() if re.search(r'(?:^|\b)' + re.escape(t) + r'(?!\w)', SCREEN, re.I))
+assert not _bad, f'glossary terms inside SCREEN style: {_bad}'
+
 def aspect(src):
     loc = src.split('github.io/CHEM3Atextbook/')[-1]
     if not os.path.exists(loc): return None
@@ -48,7 +60,7 @@ for f in files:
     if NEW in s and not s.rstrip().endswith(NEW):
         s = s.replace(NEW + '\n', '', 1).replace(NEW, '', 1).rstrip('\n') + '\n' + NEW + '\n'
     if NEW in s or EQ_P in s:   # SCREEN once, directly before the print style (or last on pages without one)
-        s = s.replace(SCREEN + '\n', '').replace(SCREEN, '')
+        s = re.sub(r'<style type="text/css">@media screen \{ \.mt-content-container details.*?</style>\n?', '', s)   # any earlier version
         if NEW in s: s = s.replace(NEW, SCREEN + '\n' + NEW, 1)
         else: s = s.rstrip('\n') + '\n' + SCREEN + '\n'
     for m in reversed(list(re.finditer(r'<figure class="figure">\s*<img src="([^"]+)"', s))):
