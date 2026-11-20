@@ -10,6 +10,22 @@ NEW = ('<style type="text/css">@media print { details > summary { display:block;
        'figure.figure { float:top unless-fit; } '
        'figure.fig-wrap { float:right; width:46%; margin:0.3em 0 0.8em 1.4em; } figure.fig-wrap img { width:100%; height:auto; } '
        'h2, h3, h4, table, div[class^=box] { clear:both; } div[class^=box] figure, li figure { float:none; } }</style>')
+# 2026-11-19 (iPhone Safari check): LibreTexts makes <summary> display inline, which hides the disclosure arrow in every
+# browser, so Hint/Answer looked like plain 14 px words. SCREEN turns them into 44 px outlined buttons with a ▸/▾ arrow
+# (the arrow is hidden from screen readers by the "/ ''" alt text). It also gives equation paragraphs more line height on
+# phones, because MathJax 4 wraps long equations there and stacked fractions on adjacent lines touched.
+# SCREEN sits just before the print style, which must stay last.
+SCREEN = ('<style type="text/css">@media screen { '
+          '.mt-content-container details > summary { display:inline-flex; align-items:center; gap:0.45em; list-style:none; '
+          'min-height:44px; box-sizing:border-box; padding:0 1em; margin:0.35em 0; border:1.5px solid #2f6f9f; border-radius:8px; '
+          'background:#fff; color:#1d4f7a; font-weight:600; font-size:1rem; line-height:1.2; cursor:pointer; } '
+          '.mt-content-container details > summary::-webkit-details-marker { display:none; } '
+          '.mt-content-container details > summary::before { content:"▸"; content:"▸" / ""; font-size:1.1em; } '
+          '.mt-content-container details[open] > summary::before { content:"▾"; content:"▾" / ""; } '
+          '.mt-content-container details[open] > summary { background:#e3eef8; } '
+          '.mt-content-container details > summary:focus-visible { outline:3px solid #1d4f7a; outline-offset:2px; } } '
+          '@media screen and (max-width: 40em) { .mt-content-container p[style*="overflow-x:auto"] { line-height:2.6; } }</style>')
+EQ_P = 'text-align:center;overflow-x:auto;overflow-y:hidden;'
 def aspect(src):
     loc = src.split('github.io/CHEM3Atextbook/')[-1]
     if not os.path.exists(loc): return None
@@ -31,6 +47,10 @@ for f in files:
     # LibreTexts' PDF engine ignore it (test on 3.1/6.5/7.8, Full (35)).
     if NEW in s and not s.rstrip().endswith(NEW):
         s = s.replace(NEW + '\n', '', 1).replace(NEW, '', 1).rstrip('\n') + '\n' + NEW + '\n'
+    if NEW in s or EQ_P in s:   # SCREEN once, directly before the print style (or last on pages without one)
+        s = s.replace(SCREEN + '\n', '').replace(SCREEN, '')
+        if NEW in s: s = s.replace(NEW, SCREEN + '\n' + NEW, 1)
+        else: s = s.rstrip('\n') + '\n' + SCREEN + '\n'
     for m in reversed(list(re.finditer(r'<figure class="figure">\s*<img src="([^"]+)"', s))):
         a = aspect(m.group(1)); t = following_text(s, m.start())
         if a and a < 1.3 and not boxed(s, m.start()) and t >= 200:
