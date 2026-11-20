@@ -33,11 +33,14 @@ def skey(s): return [int(x) for x in s.split('.')]
 G = json.load(open(os.path.join(HERE, 'glossary_3A.json')))
 X = json.load(open(os.path.join(HERE, 'index_3A.json')))
 
+SPANISH_WORDS = {'en', 'de', 'la', 'el', 'y', 'o', 'a', 'no', 'se', 'con', 'por', 'del', 'al', 'un', 'una'}
 rows = []
 for g in sorted(G, key=lambda g: g['term'].lower()):
     # One-character symbols (A, X, m, i, c, K, ν …) are left out of the Word(s) column: LibreTexts' glossary matches
     # words case-insensitively, so "A" would turn every article "a" in the book into a pop-up (2026-11-17).
-    syn = g.get('synonyms', []); short = [x for x in syn if len(x.strip()) == 1]
+    # Symbols that are also Spanish words are left out too: "EN" matched "en" in the Spanish Key Terms column
+    # ("reactivo en exceso") and showed the electronegativity pop-up (2026-11-19).
+    syn = g.get('synonyms', []); short = [x for x in syn if len(x.strip()) == 1 or x.strip().lower() in SPANISH_WORDS]
     words = ', '.join([g['term']] + [x for x in syn if x not in short])
     defin = g['definition']
     miss = [x for x in short if not re.search(r'(?<![\w])' + re.escape(x) + r'(?![\w])', re.sub(r'<[^>]+>', ' ', defin))]

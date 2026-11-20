@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Hint/Answer button test</title>
+<style>
+body{font-family:-apple-system,Helvetica,Arial,sans-serif;font-size:18px;line-height:1.6;margin:12px;color:#222}
+.box{background:#eef5fb;border-left:5px solid #2b7bbf;border-radius:6px;padding:10px 14px;margin:16px 0}
+h3{margin:0 0 6px;font-weight:400;color:#2b4b5a}
+/* LibreTexts today: summary ends up inline at 14.4px, so no arrow shows */
+.before summary{display:inline;font-size:14.4px}
+.before details{display:block}
+/* Proposed screen style (print rules unchanged) */
+@media screen {
+ .after details > summary { display:inline-flex; align-items:center; gap:.45em; list-style:none; min-height:44px; box-sizing:border-box;
+   padding:0 1em; margin:.35em 0; border:1.5px solid #2f6f9f; border-radius:8px; background:#fff; color:#1d4f7a;
+   font-weight:600; font-size:1rem; cursor:pointer; }
+ .after details > summary::-webkit-details-marker { display:none; }
+ .after details > summary::before { content:"\25B8"; content:"\25B8" / ""; font-size:1.1em; }
+ .after details[open] > summary::before { content:"\25BE"; content:"\25BE" / ""; }
+ .after details[open] > summary { background:#e3eef8; }
+ .after details > summary:focus-visible { outline:3px solid #1d4f7a; outline-offset:2px; }
+}
+</style></head><body>
+<p><b>Before</b> (how it looks on LibreTexts now)</p>
+<div class="box before"><h3>Problem 10.1</h3><p>Which statement is <i>not</i> part of kinetic molecular theory for an ideal gas?</p>
+<details><summary>Hint</summary><p>Compare each choice with the KMT list in Section 10.1.</p></details>
+<details><summary>Answer</summary><p>B. Ideal gas particles do not attract one another.</p></details></div>
+<p><b>After</b> (proposed)</p>
+<div class="box after"><h3>Problem 10.1</h3><p>Which statement is <i>not</i> part of kinetic molecular theory for an ideal gas?</p>
+<details><summary>Hint</summary><p>Compare each choice with the KMT list in Section 10.1.</p></details>
+<details><summary>Answer</summary><p>B. Ideal gas particles do not attract one another.</p></details></div>
+</body></html>
