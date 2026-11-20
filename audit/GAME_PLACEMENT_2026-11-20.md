@@ -77,3 +77,16 @@ Both are game changes: test with real taps in the iPhone simulator, then ask bef
   17 simulator, mock textbook page): Heat Explorer (New Question), Polarity Lab (typing, Check Answer), Piston Lab
   (temperature slider: 550 K gives 3.01 atm), Reaction Tray (prediction): the page never moved; the lab was on top.
 - Still wide inside the game (by design): the Polarity Lab bond table and the picker rows scroll sideways in their own box.
+
+## Published (2026-11-20, Dr. Dan approved "Yes, publish them")
+
+All 11 boxes inserted into the live draft pages by an exact-once insertion just before each page's Video Lessons heading
+(the repo drafts differ from live only by LibreTexts' own entity and link rewriting, so the live HTML was kept). Page ids:
+1.3.3 598091, 3.4 597881, 4.2 597892, 4.3 597893, 5.3 597908, 6.5 597926, 7.5 597948, 7.7 597950, 8.4 597965,
+9.4 597983, 10.2 598000. Each POST returned 200; each read-back has the box once; each rendered page shows it (7.5, 8.4,
+9.4 now have two boxes). 45 Explore It boxes in all.
+
+Live check (10.2, phone width, signed in): the frame is 328 px wide, no math errors, the page did not move on load, and
+when the reader scrolls down to the box the Piston Lab is on top. Seen once in the Chromium pane: after a scripted
+jump straight to the box (not reader scrolling), the frame showed the game's start screen instead of the lab (one tap
+away). The iPhone simulator's Safari was signed out of LibreTexts, so the live check there was not repeated.
