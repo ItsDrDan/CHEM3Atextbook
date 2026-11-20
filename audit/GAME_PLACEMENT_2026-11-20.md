@@ -90,3 +90,13 @@ Live check (10.2, phone width, signed in): the frame is 328 px wide, no math err
 when the reader scrolls down to the box the Piston Lab is on top. Seen once in the Chromium pane: after a scripted
 jump straight to the box (not reader scrolling), the frame showed the game's start screen instead of the lab (one tap
 away). The iPhone simulator's Safari was signed out of LibreTexts, so the live check there was not repeated.
+
+## 7.8 Activity Series (2026-11-20, Dr. Dan: "open the activity series mode for 3A and add 7.8")
+
+- redox 93b4c3c (live): the Activity Series mode opens for CHEM 3A with the textbook's short list (Li, K, Ca, Na, Mg, Al,
+  Zn, Fe, Ni, Sn, Pb, H2, Cu, Ag, Au); no halogen questions, no Li/K/Ca/Na metal in water (the book says they react with
+  the water); 26 questions; chart and mistake-catcher wording match the list; CHEM 1A unchanged (42 questions). Deep-link
+  test updated (60/60). Real taps in iPhone Safari in a mock frame (wrong answer on Ag + H+ explained).
+- 7.8 page 597951: "Explore It: Will It React?" box inserted before Video Lessons; POST 200, read back once. Live check at
+  phone width: frame 328 px, page did not move, lab on top when scrolled to; a right answer (2 Al + 3 Zn2+) shows Correct
+  with the products. 46 Explore It boxes in all.
