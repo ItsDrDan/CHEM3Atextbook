@@ -63,3 +63,17 @@ Both are game changes: test with real taps in the iPhone simulator, then ask bef
    heading, like the existing 34. That makes 45 Explore It boxes.
 3. Recheck in iPhone Safari: no page jump, no sideways drag, the lab is on top.
 4. Optional: open the activity-series mode for CHEM 3A and add a 7.8 box.
+
+## Game fixes (2026-11-20, committed locally in each game repo, not pushed)
+
+- **Page jump:** a short script at the top of 11 games (the 10 above plus reactions, whose later taps could also scroll
+  the page) replaces `scrollIntoView` and `focus` inside a frame so they scroll only the game. A scroll made while the
+  frame is still off screen (Chromium and Safari drop it) is redone once the frame comes into view, so the lab is on top
+  when the reader reaches the box. Outside a frame nothing changes.
+- **Width:** a `max-width:360px` style (narrower top bar; two-column grids that can shrink) in moles, stoichiometry,
+  thermochemistry, gaslaws, reactions, quantumchemistry. Wider screens are unchanged.
+- **Checks:** every game's own `tools/check-*.js` passes. In Chromium frames: no page movement on load for all 11, the lab
+  on top when the reader scrolls to the box, every link 328 px wide at a 328 px frame. Real taps in iPhone Safari (iPhone
+  17 simulator, mock textbook page): Heat Explorer (New Question), Polarity Lab (typing, Check Answer), Piston Lab
+  (temperature slider: 550 K gives 3.01 atm), Reaction Tray (prediction): the page never moved; the lab was on top.
+- Still wide inside the game (by design): the Polarity Lab bond table and the picker rows scroll sideways in their own box.
