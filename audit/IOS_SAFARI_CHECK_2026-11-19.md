@@ -65,3 +65,8 @@ Chapter 2 average atomic mass). Final count to be added.
   content, including `<style>` text; the word "solid" (a glossary term) in `border:1.5px solid` made it re-parse the style as
   HTML, and the `<![CDATA[` marker LibreTexts adds swallowed the selector. The outline is now an inset box-shadow (no glossary
   words), and `tools/print_layout.py` fails if any glossary term appears in the screen style.
+- Rechecked in iPhone Safari on the live book after c0197fe (2026-11-20, iPhone 17 simulator, real taps): 10.8 Hint and
+  Answer show as outlined buttons with ▸ and open with ▾ and shading; 10.5 Examples 10.5.1/10.5.2 keep "= 36.7 L" and
+  "= 8.48 L" whole with stacked fractions clear of each other; 8.7 Key Terms cards show the En español row and no "en"
+  glossary pop-up. Frame check of 14 pages in Chromium at 360 px (glossary script running): Hint 44 px on the 12 that
+  finished, no math errors, no sideways overflow.
