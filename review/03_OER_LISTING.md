@@ -51,6 +51,7 @@ Check each site's current submission steps when you list; requirements change.
 
 - [ ] Department approval (see 01_DEPARTMENT_SUMMARY.md)
 - [ ] Reviewer forms collected; corrections made; reviewers who agreed are named in the front matter
+- [ ] Book made public (the draft is Private: signed-out readers get "You do not have permission"); confirm in a signed-out browser
 - [ ] "Revision Draft" removed from the title; book moved into the live FCC location during the term gap
 - [ ] Cover author fixed (LibreTexts author record; `audit/LIBRETEXTS-COVER-AUTHOR-REQUEST.md`)
 - [ ] Detailed Licensing page builds and shows CC BY 4.0

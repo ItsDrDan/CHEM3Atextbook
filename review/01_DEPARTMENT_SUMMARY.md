@@ -2,7 +2,7 @@
 
 **Request:** approve *Introductory Chemistry, Atoms First for FCC* (revised edition) as the CHEM 3A text under the COR's substitution clause ("other suitable OER texts selected by the teaching faculty and approved by the Chemistry Department may be substituted"), and move it into the live FCC book during a term gap.
 
-**Read it:** Workbench draft, https://chem.libretexts.org/Workbench/Introductory_Chemistry_Atoms_First_for_FCC_-_Revision_Draft_DTvJm7TcCY. The PDF can be downloaded from the menu at the top of any page. Start with the Instructor Guide in the Front Matter.
+**Read it:** the draft is private until release, so a signed-out link shows "You do not have permission to view this page." Either add each reviewer to the Conductor project (https://commons.libretexts.org/projects/DTvJm7TcCY; they sign in with a free LibreOne account) and send the Workbench link, https://chem.libretexts.org/Workbench/Introductory_Chemistry_Atoms_First_for_FCC_-_Revision_Draft_DTvJm7TcCY, or send them the compiled PDF. Start with the Instructor Guide in the Front Matter.
 
 **Lead author:** Daniel Kwasniewski, adapted from *Introductory Chemistry, Atoms First for FCC* (compiled by Seth Yates, LibreTexts, 2025), the OER the COR lists now.
 

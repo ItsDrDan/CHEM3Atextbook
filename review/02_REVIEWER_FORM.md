@@ -4,7 +4,7 @@ Thank you for reviewing. Pick one or more chapters in the sign-up table, read th
 
 The ten criteria are the ones the Open Textbook Library asks its faculty reviewers to use, so these reviews can also support a listing there.
 
-**Book:** https://chem.libretexts.org/Workbench/Introductory_Chemistry_Atoms_First_for_FCC_-_Revision_Draft_DTvJm7TcCY
+**Book:** https://chem.libretexts.org/Workbench/Introductory_Chemistry_Atoms_First_for_FCC_-_Revision_Draft_DTvJm7TcCY (the draft is private: sign in with the LibreOne account that was added to the project, or use the PDF you were sent)
 **Course outline:** CHEM 3A COR, effective Spring 2027 (the Instructor Guide in the Front Matter maps each COR unit to its sections).
 
 ## Reviewer
