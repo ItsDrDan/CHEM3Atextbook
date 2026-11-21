@@ -39,7 +39,7 @@ linked "from the Practice Games pages," which is now incomplete.
 - Screen-reader listening. axe checks names and structure, not how a game sounds; the VoiceOver test is still needed on a real device.
 - Color contrast that axe could not decide (backgrounds with gradients or images) was not checked by hand.
 
-## Fixes made (2026-11-20, Dr. Dan: "Yes, fix them"; committed in each game repo, not pushed)
+## Fixes made (2026-11-20, Dr. Dan: "Yes, fix them"; pushed and live in all nine games)
 
 1. Reaction Rumble: Green Sheet button named. 2. Tray text now #5f6880 (5.41:1); Heat Explorer labels #9a4310 (5.63:1).
 3. Activity chart and overflowing Stoichiometry equations can take keyboard focus and scroll. 4. Spoken names now start with
