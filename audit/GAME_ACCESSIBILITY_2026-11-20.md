@@ -62,8 +62,8 @@ The Accessibility Conformance Report (598144) now lists the games as "Embedded, 
 the book's own pages and Try It boxes, and gives this scan's date, limits and the Final Boss Enter-key behavior. The
 Accessibility Statement (598094) matches. No conformance level changed.
 
-## Final Boss Enter key fixed (2026-11-20, committed locally, not pushed)
+## Final Boss Enter key fixed (2026-11-20, live, finalexam 140cbc1)
 
 Enter on Hint, links and disclosures now activates that control. Enter still checks from a focused choice or Check, advances
 from New/Next, and works as a shortcut with nothing focused. `test_exam` (64,065 checks) and `validate_bank` pass; real taps in
-iPhone Safari still select and check. After this is live, remove the Enter-key sentence from the report (598144).
+iPhone Safari still select and check. The Enter-key sentence was then removed from the report (598144).
