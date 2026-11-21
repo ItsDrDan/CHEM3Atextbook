@@ -20,7 +20,7 @@
 | Chapters / pages | 14 chapters, 163 pages (section pages, a Chapter Guide, a Practice Problems page, and a Practice Games page in every chapter) |
 | Worked examples (Problem / Solution / Check) | about 440 |
 | Exercises and practice problems, each with a Hint and a worked Answer | 1,398 (801 of them on the 14 Practice Problems pages) |
-| Try It boxes (auto-graded, every choice explained, no login) | about 290 boxes drawing on 1,068 questions |
+| Try It boxes (auto-graded, every choice explained, no login) | 146 boxes drawing on 1,085 questions |
 | ADAPT homework | one 100-point assignment per chapter drawn from 576+ questions, all public and CC BY 4.0, with feedback on every choice and a free Show Hint |
 | Explore It boxes (interactive labs and PhET simulations) | 24, at least one per chapter |
 | Figures | 140, all with written descriptions, including figures remixed from OpenStax *Chemistry 2e* (CC BY 4.0) |

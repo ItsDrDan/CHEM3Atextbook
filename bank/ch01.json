@@ -4383,5 +4383,173 @@
   "w": "Clay = 100% &minus; 42.5% &minus; 38.0% = 19.5%. 250. g soil &times; (19.5 g clay / 100 g soil) = 48.75 g &rarr; <b>48.8 g clay</b> (3 significant figures). Check: about a fifth of 250 g is 50 g.",
   "d": 3,
   "k": 1
+ },
+ {
+  "id": "c1-166",
+  "t": "ch01-density",
+  "q": "A bottle of rubbing alcohol has a density of 0.786 g/mL. What is the mass of 65.0 mL of it?",
+  "c": [
+   "51.1 g",
+   "82.7 g",
+   "0.0121 g",
+   "51.1 mL"
+  ],
+  "y": [
+   "65.0 mL &times; (0.786 g / 1 mL) = 51.09 g, which rounds to 51.1 g. The mL cancel and grams remain.",
+   "This divides by the density, so the units do not cancel to grams. Going from mL to g, put mL on the bottom of the factor.",
+   "This divides the density by the volume. Start with the volume that stands alone, then multiply by g/mL.",
+   "The number is right, but the question asks for a mass. After mL cancels, the unit left is grams."
+  ],
+  "h": "Start with the volume. Which way up must the density go so that mL cancels?",
+  "w": "65.0 mL &times; (0.786 g / 1 mL) = 51.09 g = <b>51.1 g</b> (3 significant figures). Check: the density is less than 1 g/mL, so the mass in grams should be smaller than the volume in mL.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c1-167",
+  "t": "ch01-density",
+  "q": "A compounding pharmacist needs 40.0 g of propylene glycol (d = 1.04 g/mL) but will measure it by volume. What volume is needed?",
+  "c": [
+   "38.5 mL",
+   "41.6 mL",
+   "0.0260 mL",
+   "38.5 g"
+  ],
+  "y": [
+   "40.0 g &times; (1 mL / 1.04 g) = 38.46 mL, which rounds to 38.5 mL. The grams cancel and mL remain.",
+   "This multiplies by g/mL, which leaves g<sup>2</sup>/mL. Flip the density so grams are on the bottom.",
+   "This divides the density by the mass. Start with the mass, then multiply by the factor with g on the bottom.",
+   "The number is right, but the question asks for a volume. After grams cancel, the unit left is mL."
+  ],
+  "h": "You have grams and want mL. Write the density with grams on the bottom.",
+  "w": "40.0 g &times; (1 mL / 1.04 g) = 38.46 mL = <b>38.5 mL</b>. Check: the density is a little more than 1 g/mL, so the volume should be a little less than 40.0.",
+  "d": 1,
+  "k": 1
+ },
+ {
+  "id": "c1-168",
+  "t": "ch01-density",
+  "q": "Which setup correctly finds the volume of 30.0 g of ethanol (d = 0.789 g/mL)?",
+  "c": [
+   "30.0 g &times; (1 mL / 0.789 g)",
+   "30.0 g &times; (0.789 g / 1 mL)",
+   "30.0 g &times; (0.789 mL / 1 g)",
+   "30.0 mL &times; (0.789 g / 1 mL)"
+  ],
+  "y": [
+   "Grams are on top in the given and on the bottom of the factor, so they cancel and leave mL.",
+   "Grams are on top twice here, so they do not cancel. Flip the density.",
+   "The units were swapped on the number: 0.789 belongs with grams, because 0.789 g takes up 1 mL.",
+   "The given quantity is a mass, 30.0 g, not a volume. Start with the units the problem gives you."
+  ],
+  "h": "Check the units first. In the right setup, the unit you start with cancels.",
+  "w": "The density says 0.789 g = 1 mL. To cancel grams, use <b>30.0 g &times; (1 mL / 0.789 g)</b>, which is 38.0 mL.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-169",
+  "t": "ch01-density",
+  "q": "A 3.80 L jug of whole milk from a Valley dairy has a density of 1.03 g/mL. What is the mass of the milk in kilograms?",
+  "c": [
+   "3.91 kg",
+   "3.69 kg",
+   "3910 kg",
+   "0.00391 kg"
+  ],
+  "y": [
+   "3.80 L &rarr; 3800 mL; 3800 mL &times; 1.03 g/mL = 3914 g; 3914 g &divide; 1000 = 3.91 kg.",
+   "This divides by the density. Going from volume to mass, multiply by g/mL.",
+   "This leaves out the last step. The product is in grams, so divide by 1000 to get kilograms.",
+   "The metric step went the wrong way. There are 1000 mL in 1 L, so the number of mL is larger than the number of L."
+  ],
+  "h": "The density uses mL, so change liters to mL first. Then go to grams, then to kilograms.",
+  "w": "3.80 L &times; (1000 mL / 1 L) &times; (1.03 g / 1 mL) &times; (1 kg / 1000 g) = <b>3.91 kg</b>. The metric factors are exact, so the answer has 3 significant figures.",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c1-170",
+  "t": "ch01-density",
+  "q": "A salon supplier ships 1.50 kg of acetone (d = 0.784 g/mL), the solvent in nail polish remover. What volume is this, in liters?",
+  "c": [
+   "1.91 L",
+   "1.18 L",
+   "1910 L",
+   "0.523 L"
+  ],
+  "y": [
+   "1.50 kg &rarr; 1500 g; 1500 g &times; (1 mL / 0.784 g) = 1913 mL; 1913 mL &divide; 1000 = 1.91 L.",
+   "This multiplies by the density. Going from mass to volume, use the factor with grams on the bottom.",
+   "This stops at mL but labels the number as liters. Divide by 1000 to go from mL to L.",
+   "This divides the density by the mass. Start with the mass, and let its unit cancel."
+  ],
+  "h": "Plan the path: kg to g, g to mL using the density, then mL to L.",
+  "w": "1.50 kg &times; (1000 g / 1 kg) &times; (1 mL / 0.784 g) &times; (1 L / 1000 mL) = <b>1.91 L</b>. Check: the density is below 1 g/mL, so the liters should be more than the kilograms.",
+  "d": 3,
+  "k": 1
+ },
+ {
+  "id": "c1-171",
+  "t": "ch01-density",
+  "q": "A urine sample has a specific gravity of 1.025. About what is the mass of a 12.0 mL portion of the sample?",
+  "c": [
+   "12.3 g",
+   "11.7 g",
+   "12.0 g",
+   "0.0854 g"
+  ],
+  "y": [
+   "A specific gravity of 1.025 means a density of about 1.025 g/mL: 12.0 mL &times; 1.025 g/mL = 12.3 g.",
+   "This divides by the density. Going from mL to g, multiply by g/mL.",
+   "This treats the sample as pure water. The specific gravity says it is slightly denser than water.",
+   "This divides the density by the volume. Start with the volume, then multiply by the density."
+  ],
+  "h": "Specific gravity compares a density with water at about 1 g/mL. Turn it into a density first.",
+  "w": "Density &asymp; 1.025 g/mL, so 12.0 mL &times; (1.025 g / 1 mL) = <b>12.3 g</b> (3 significant figures).",
+  "d": 2,
+  "k": 1
+ },
+ {
+  "id": "c1-172",
+  "t": "ch01-density",
+  "q": "After a procedure, soaked surgical sponges weigh 385 g. The same sponges weighed 112 g dry. Using the rule 1 g &asymp; 1 mL, about how much blood do they hold?",
+  "c": [
+   "273 mL",
+   "385 mL",
+   "497 mL",
+   "112 mL"
+  ],
+  "y": [
+   "The blood is the difference: 385 g &minus; 112 g = 273 g, and 1 g &asymp; 1 mL gives about 273 mL.",
+   "This counts the mass of the sponges too. Subtract their dry mass first.",
+   "This adds the two masses. The soaked mass already includes the sponges, so subtract.",
+   "This is the mass of the dry sponges, which hold no blood."
+  ],
+  "h": "What part of the soaked mass is actually blood?",
+  "w": "Blood mass = 385 g &minus; 112 g = 273 g. By the rule 1 g &asymp; 1 mL, that is about <b>273 mL</b>.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c1-173",
+  "t": "ch01-density",
+  "q": "You pour out 50.0 g of water (d = 1.00 g/mL) and 50.0 g of ethanol (d = 0.789 g/mL). Which sample takes up more volume, and why?",
+  "c": [
+   "Ethanol, because each gram of it takes up more mL",
+   "Water, because each gram of it takes up more mL",
+   "Neither, because equal masses have equal volumes",
+   "Ethanol, because each mL of it holds more grams"
+  ],
+  "y": [
+   "Volume = mass &divide; density. The smaller density gives the larger volume: 63.4 mL of ethanol versus 50.0 mL of water.",
+   "Water is the denser liquid, so one gram of it takes up less space. Compare 1/d for each liquid.",
+   "Equal masses have equal volumes only when the densities match, and these do not.",
+   "The liquid is right, but the reason is backward: 0.789 g/mL means fewer grams in each mL than water."
+  ],
+  "h": "Flip each density to get mL per gram. Which liquid has the larger number?",
+  "w": "Water: 50.0 g &times; (1 mL / 1.00 g) = 50.0 mL. Ethanol: 50.0 g &times; (1 mL / 0.789 g) = 63.4 mL. <b>Ethanol takes up more volume</b> because its lower density means more mL per gram.",
+  "d": 2,
+  "k": 0
  }
 ]

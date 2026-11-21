@@ -18,7 +18,7 @@ Use after the department approves the book and the "Revision Draft" title is dro
 | Language | English |
 | Formats | Online (phone-ready) and PDF |
 | Accessibility | WCAG 2.1 AA target; Accessibility Conformance Report in the Front Matter (41 Supports, 4 Partially supports, 5 N/A); every image described; all 107 videos captioned; math is MathJax text with speech |
-| Ancillaries | ADAPT homework (14 assignments, 576+ public CC BY questions with per-choice feedback), 1,068 Try It questions, Instructor Guide with 18-week schedule, Chapter Guides (Key Terms with Spanish equivalents), Practice Problems with worked answers, study games including the Final Boss ACS-final review |
+| Ancillaries | ADAPT homework (14 assignments, 576+ public CC BY questions with per-choice feedback), 1,085 Try It questions, Instructor Guide with 18-week schedule, Chapter Guides (Key Terms with Spanish equivalents), Practice Problems with worked answers, study games including the Final Boss ACS-final review |
 
 ## Short description (about 50 words)
 

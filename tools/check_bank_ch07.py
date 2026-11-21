@@ -574,6 +574,10 @@ BAL('Lighter fluid is butane', 'C4H10(g) + O2(g) -> CO2(g) + H2O(g)', 'coef', 'O
 HAND('A student balances', skip=True)
 BAL('Aluminum metal burns in chlorine gas', 'Al(s) + Cl2(g) -> AlCl3(s)')
 BAL('In a blast furnace', 'Fe2O3(s) + CO(g) -> Fe(s) + CO2(g)')
+BAL('Fertilizer plants make ammonia', 'N2(g) + H2(g) -> NH3(g)', 'coefs')
+BAL('keeping the polyatomic ions as units', 'Ca(NO3)2(aq) + Na3PO4(aq) -> Ca3(PO4)2(s) + NaNO3(aq)', 'coefs')
+BAL('Ethanol in fuel burns completely', 'C2H5OH(l) + O2(g) -> CO2(g) + H2O(g)', 'coef', 'O2')
+BAL('A thin oxide layer protects aluminum foil', 'Al(s) + O2(g) -> Al2O3(s)', 'coefs')
 # ----- Try It: types -----
 TYPE('Heating mercury(II) oxide')
 TYPE('Nickel wire is placed in silver nitrate')

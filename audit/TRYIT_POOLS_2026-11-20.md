@@ -45,3 +45,24 @@ About 17 new questions, each with a hint and a reason for every choice, checked 
 
 `review/01_DEPARTMENT_SUMMARY.md` says "about 290 boxes." The drafts have **146 Try It frames on 130 pages**; 290 looks like
 frames plus their "open in a new tab" links. The 1,068-question count is correct.
+
+## Fix built (2026-11-20, Dr. Dan: "Yes, write them"; not pushed or published yet)
+
+`tools/bank_page_splits.py` added 17 questions (c1-166 to c1-173, c6-067 to c6-071, c7-074 to c7-077; 1,085 in all), each with
+a hint, a worked answer and a reason for all four choices. Its arithmetic is asserted in the script, and the four balancing
+questions are solved independently by `tools/check_bank_ch07.py` (new specs added). The Chapter 1, 6 and 7 checkers report
+no new errors; the older Chapter 6 and 7 notes they print are unchanged.
+
+| Page | Questions shown | From |
+|---|---|---|
+| 1.9 | 6 | c1-055 to c1-065 |
+| 1.9.1 | 8 | c1-166 to c1-173 (new) |
+| 6.2 | 7 | c6-017, c6-022, c6-067 to c6-071 (5 new) |
+| 6.3 | 10 | c6-010 to c6-016, c6-018 to c6-021 |
+| 7.1 | 6 | c7-001 to c7-006 |
+| 7.2 | 10 | c7-007 to c7-012, c7-074 to c7-077 (4 new) |
+
+No question appears on two of these pages. All six boxes load at 328 px with the right count and no script errors. Real taps
+in iPhone Safari (iPhone 17 simulator, local copy in a frame) on the 1.9.1 box: a wrong choice gets its specific explanation.
+Choice order is shuffled (30 loads: the right answer in all four positions). Publish order: push `bank/` first, then
+update the six live pages using `audit/TRYIT_PAGE_SWAPS_2026-11-20.json`. A student's saved progress in these six boxes restarts.

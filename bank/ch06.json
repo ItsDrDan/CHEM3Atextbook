@@ -1464,5 +1464,110 @@
   "w": "Cu 0.03994 mol : S 0.01996 mol = 2.001 : 1: <b>Cu<sub>2</sub>S</b> (copper(I) sulfide).",
   "d": 2,
   "k": 1
+ },
+ {
+  "id": "c6-067",
+  "t": "ch06-lewis",
+  "q": "Ammonia, NH<sub>3</sub>, has three N&ndash;H bonds and one lone pair on N. How many electrons does the N atom count around itself?",
+  "c": [
+   "8",
+   "7",
+   "5",
+   "6"
+  ],
+  "y": [
+   "Each bond counts as 2 electrons: 3 &times; 2 = 6, and the lone pair adds 2, for an octet.",
+   "This counts the lone pair as 1 electron. A lone pair is a pair, so it counts as 2.",
+   "This is the number of valence electrons N starts with. Now count all electrons in its bonds and lone pair.",
+   "This counts the bonds but leaves out the lone pair. An atom counts both."
+  ],
+  "h": "One line is two electrons, and a lone pair is two electrons. Add both kinds.",
+  "w": "3 bonds &times; 2 electrons + 1 lone pair &times; 2 electrons = <b>8</b> electrons, an octet.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c6-068",
+  "t": "ch06-lewis",
+  "q": "Carbon dioxide is O=C=O. How many electrons in total are shared in its two double bonds?",
+  "c": [
+   "8",
+   "4",
+   "2",
+   "16"
+  ],
+  "y": [
+   "Each double bond is 2 shared pairs, or 4 electrons. Two double bonds share 8 electrons.",
+   "This is the number of shared pairs, or the electrons in only one double bond. Count both bonds, 2 electrons per line.",
+   "This counts the two bonds as one pair each. A double bond is two shared pairs.",
+   "This is the total number of valence electrons on all three atoms, including the lone pairs. Count only the shared ones."
+  ],
+  "h": "Count the lines between atoms. Each line is one shared pair.",
+  "w": "O=C=O has 4 lines, and each line is 2 electrons: 4 &times; 2 = <b>8</b> shared electrons.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c6-069",
+  "t": "ch06-lewis",
+  "q": "The amino acids in your proteins all contain nitrogen. In a neutral molecule, how many covalent bonds does a nitrogen atom usually form?",
+  "c": [
+   "3",
+   "5",
+   "1",
+   "4"
+  ],
+  "y": [
+   "N has 5 valence electrons and needs 3 more for an octet, so it usually forms 3 bonds (the N in HONC 1-2-3-4).",
+   "This is its number of valence electrons. The number of bonds is how many more electrons it needs.",
+   "One bond is usual for H and the halogens. Group 15 atoms need more than one electron.",
+   "Four bonds is the usual count for carbon, which has one fewer valence electron than nitrogen."
+  ],
+  "h": "How many more electrons does nitrogen need to reach 8? HONC can help.",
+  "w": "Nitrogen has 5 valence electrons and needs 3 more, so it usually forms <b>3</b> bonds and keeps one lone pair.",
+  "d": 1,
+  "k": 0
+ },
+ {
+  "id": "c6-070",
+  "t": "ch06-lewis",
+  "q": "Which list puts the carbon&ndash;carbon bonds in order from <b>shortest</b> to <b>longest</b>?",
+  "c": [
+   "C&equiv;C, then C=C, then C&ndash;C",
+   "C&ndash;C, then C=C, then C&equiv;C",
+   "C=C, then C&equiv;C, then C&ndash;C",
+   "All three are the same length"
+  ],
+  "y": [
+   "The more pairs two atoms share, the shorter and stronger the bond, so triple is shortest and single is longest.",
+   "This is longest to shortest. More shared pairs pull the atoms closer together.",
+   "The triple bond shares the most pairs, so it should come first.",
+   "Bond length depends on how many pairs are shared, so these differ."
+  ],
+  "h": "More shared electrons pull the two nuclei closer. Which bond shares the most?",
+  "w": "Bond length decreases as shared pairs increase: <b>C&equiv;C (shortest), then C=C, then C&ndash;C (longest)</b>.",
+  "d": 2,
+  "k": 0
+ },
+ {
+  "id": "c6-071",
+  "t": "ch06-lewis",
+  "q": "A student draws formaldehyde, CH<sub>2</sub>O, with C bonded to two H atoms and joined to O by a single bond. Using HONC, what is wrong with this drawing?",
+  "c": [
+   "C has 3 bonds and O has 1, so C and O need a double bond",
+   "Each H has 1 bond, so each H needs a second bond",
+   "O has 1 bond, so O needs three more bonds to C",
+   "C has too many bonds, so one C&ndash;H bond must go"
+  ],
+  "y": [
+   "HONC calls for C to have 4 bonds and O to have 2. Making the C&ndash;O bond double fixes both atoms at once.",
+   "Hydrogen needs only a duet, so 1 bond is correct.",
+   "Oxygen usually forms 2 bonds, not 4. It needs only one more.",
+   "C has 3 bonds here, which is one too few, not too many."
+  ],
+  "h": "Count the bonds on each atom and compare with HONC 1-2-3-4.",
+  "w": "C has 2 + 1 = 3 bonds (needs 4), and O has 1 (needs 2). <b>A C=O double bond</b> gives C 4 bonds and O 2 bonds.",
+  "d": 2,
+  "k": 0
  }
 ]
