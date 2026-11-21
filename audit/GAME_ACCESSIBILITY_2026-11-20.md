@@ -67,3 +67,6 @@ Accessibility Statement (598094) matches. No conformance level changed.
 Enter on Hint, links and disclosures now activates that control. Enter still checks from a focused choice or Check, advances
 from New/Next, and works as a shortcut with nothing focused. `test_exam` (64,065 checks) and `validate_bank` pass; real taps in
 iPhone Safari still select and check. The Enter-key sentence was then removed from the report (598144).
+
+Report page 598144 updated: POST 200, the Enter sentence is gone from the saved and rendered page, and only that sentence changed.
+Full (41).pdf (compiled 20:21, 1,236 pages) was built just before this edit, so it still prints the old sentence; the next compile drops it.
