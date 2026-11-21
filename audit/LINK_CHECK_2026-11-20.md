@@ -40,3 +40,10 @@ These sites answer automated requests with a bot check, which was not bypassed:
 ## Fixed (2026-11-20, Dr. Dan approved)
 
 Added `?course=3A` to the frame and new-tab link for Sig Fig Sleuth, Metric and Elements on 1.13, and Elements on 2.9.
+
+Published to live pages 597685 (1.13) and 597870 (2.9): each POST 200; the read-back has every new link twice and no old
+link left; the rendered frames carry `?course=3A`. In iPhone Safari (iPhone 17 simulator, signed in), Symbol Safari on 2.9
+opens on CHEM 3A. The Sig Fig and Metric frames on 1.13 were confirmed by URL and by opening the same links directly.
+
+Seen during this check: a 7.8 tab left idle for hours showed the game's start screen (CHEM 3A) instead of the Activity
+Series. A fresh load of 7.8 opened on the Activity Series, so this was not reproduced.
