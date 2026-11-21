@@ -36,3 +36,7 @@ These sites answer automated requests with a bot check, which was not bypassed:
 - The Study Hub (`games/`) is linked in a new tab, never framed. It is 371 px wide at 328 px but fits a 375 px phone.
   Its 404s are the hub probing repos for an optional `meta.json`, and it still loads.
 - Whether each video timestamp lands on the exact topic named in the text was not rechecked here.
+
+## Fixed (2026-11-20, Dr. Dan approved)
+
+Added `?course=3A` to the frame and new-tab link for Sig Fig Sleuth, Metric and Elements on 1.13, and Elements on 2.9.
