@@ -100,3 +100,7 @@ away). The iPhone simulator's Safari was signed out of LibreTexts, so the live c
 - 7.8 page 597951: "Explore It: Will It React?" box inserted before Video Lessons; POST 200, read back once. Live check at
   phone width: frame 328 px, page did not move, lab on top when scrolled to; a right answer (2 Al + 3 Zn2+) shows Correct
   with the products. 46 Explore It boxes in all.
+- iPhone Safari check (2026-11-20, iPhone 17 simulator, signed in to LibreTexts, real taps): the live 7.8 page opened at
+  the top and did not jump when the game loaded; the box showed the CHEM 3A game (Ag(s) + H+(aq), chart starting at
+  Lithium); "No reaction" + Check gave "Correct! +12 XP" with the reason "Ag is below H2, so Ag does not displace H+";
+  the page stayed put throughout.
