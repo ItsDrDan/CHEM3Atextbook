@@ -100,6 +100,7 @@ A major overhaul of the free LibreTexts textbook for **CHEM 3A (Introductory Gen
 - **Phones:** every YouTube iframe gets `style="max-width:100%;height:auto;aspect-ratio:16/9;"` (LibreTexts fixes them at 560 px); long display equations sit in `<p style="text-align:center;overflow-x:auto;overflow-y:hidden;">`.
 - **Print style position (2026-11-19):** the print-only `<style>` on exercise pages must be the LAST thing on the page (tools/print_layout.py puts it there). When it was first, any page with an OpenStax photo printed as if it had no style (tested in Full (35)).
 - **Math spacing (2026-11-19):** inside \( \) never use `\ ` (backslash-space) between a number and its unit: MathJax speech reads it as "empty" ("10.2 empty cm"). Use `\;` (or `\,`), which looks the same and is read "10.2 centimeters". All 3,607 were replaced (2e00717). VoiceOver script for a human listener: audit/VOICEOVER_TEST_SCRIPT.md.
+- **Try It selection (2026-11-20, audit/TRYIT_POOLS_2026-11-20.md):** js/widget.js picks a box's questions by hashing each id with the `t=`/`ids=` value, not the page, so two boxes with the same `t=` show the same questions (the smaller is a subset). Teaching pages that share a topic must use `ids=` so each page tests only what it has taught (done for 1.9/1.9.1, 6.2/6.3, 7.1/7.2). Students get `bank/chNN.json` only (1,085 questions, 146 boxes); `chNN_adapt.json` is ADAPT.
 - **Tables:** run `python3 tools/add_data_th.py <drafts>` on every new page (phone labels on LibreTexts).
 
 ### Editing LibreTexts pages (what worked)

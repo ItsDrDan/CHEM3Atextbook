@@ -66,3 +66,11 @@ No question appears on two of these pages. All six boxes load at 328 px with the
 in iPhone Safari (iPhone 17 simulator, local copy in a frame) on the 1.9.1 box: a wrong choice gets its specific explanation.
 Choice order is shuffled (30 loads: the right answer in all four positions). Publish order: push `bank/` first, then
 update the six live pages using `audit/TRYIT_PAGE_SWAPS_2026-11-20.json`. A student's saved progress in these six boxes restarts.
+
+## Published (2026-11-20, Dr. Dan approved "Yes, push and publish")
+
+`bank/` pushed first (ddce0b9) and confirmed live, then the six pages updated: 1.9 = 597682, 1.9.1 = 597498, 6.2 = 597923,
+6.3 = 597924, 7.1 = 597944, 7.2 = 597945. Every POST returned 200; each read-back has the new URL twice, the old URL zero
+times, and a length change equal to the URL change alone. All six live boxes load at 328 px with the right question count
+and no script errors. Real taps in iPhone Safari on the live 7.2 page (iPhone 17 simulator, signed in): the box opens with
+10 questions and a balancing question, and a right answer shows Correct with the worked step.
