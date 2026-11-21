@@ -55,3 +55,9 @@ Final Boss chip opens the calculator.
 
 Final Boss, Topic Training: pressing **Enter** on any focused button (for example Hint) runs Check Answer instead of that
 button. Space works. The Enter shortcut is a deliberate feature, so changing it is a separate decision.
+
+## Report wording updated (2026-11-20, Dr. Dan: "Yes, update it")
+
+The Accessibility Conformance Report (598144) now lists the games as "Embedded, tested separately," states that its table rates
+the book's own pages and Try It boxes, and gives this scan's date, limits and the Final Boss Enter-key behavior. The
+Accessibility Statement (598094) matches. No conformance level changed.
